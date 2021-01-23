@@ -1,10 +1,10 @@
-#include<iostream>
-using namespace std;
- 
+#include <stdio.h>
+#include <stdlib.h>
+
 int main()
 {
     int w;
-    cin>>w;
+    scanf("%d",&w);
     if(w==2){
         printf("NO");
     }
@@ -13,19 +13,19 @@ int main()
     int m;
     m=(w%2);
     if(m==0){
-        cout<<"YES";
+        printf("YES");
     }
     else{
-        cout<<"NO";
+        printf("NO");
     }
- 
+
             }
     else {
-    cout<<"NO";
+    printf("NO");
     }
     }
     else{
-    cout<<"NO";
+    printf("NO");
     }
     return 0;
 }
