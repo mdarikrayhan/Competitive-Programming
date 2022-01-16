@@ -1,4 +1,21 @@
 {
+  "CF142995559": {
+    "contest_id": 1626,
+    "language": "GNU C++17",
+    "path": "codeforces/1626/A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Equidistant Letters",
+    "problem_url": "https://codeforces.com/contest/1626/problem/A",
+    "submission_id": "CF142995559",
+    "submission_url": "https://codeforces.com/contest/1626/submission/142995559",
+    "tags": [
+      "constructive algorithms",
+      "sortings",
+      "*800"
+    ],
+    "timestamp": "Jan/16/2022 21:07"
+  },
   "CF144882562": {
     "contest_id": 1633,
     "language": "GNU C++17",
