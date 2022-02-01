@@ -6,28 +6,21 @@ int main()
     cin >> t;
     while (t--)
     {
-        int ocount = 0, zcount = 0;
         string s;
         cin >> s;
-        int l = s.length();
-        for (int i = 0; i < l; i++)
+        int n = s.size();
+        int a = 0, b = 0;
+        for (int i = 0; i < n; i++)
         {
             if (s[i] == '0')
-            {
-                ocount++;
-            }
+                a++;
             else
-            {
-                zcount++;
-            }
+                b++;
         }
-        if (ocount == zcount)
-        {
-            cout << ocount-1 << endl;
-        }
-        else if (ocount < zcount)
-            cout << ocount << endl;
-        else if (zcount < ocount)
-            cout << zcount << endl;
+        if (a != b)
+            cout << min(a, b);
+        else
+            cout << a - 1;
+        cout << endl;
     }
 }
