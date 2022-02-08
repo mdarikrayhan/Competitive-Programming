@@ -1,4 +1,22 @@
 {
+  "CF145685735": {
+    "contest_id": 1623,
+    "language": "GNU C++17",
+    "path": "codeforces/1623/A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Robot Cleaner",
+    "problem_url": "https://codeforces.com/contest/1623/problem/A",
+    "submission_id": "CF145685735",
+    "submission_url": "https://codeforces.com/contest/1623/submission/145685735",
+    "tags": [
+      "brute force",
+      "implementation",
+      "math",
+      "*800"
+    ],
+    "timestamp": "Feb/09/2022 01:09"
+  },
   "CF145686342": {
     "contest_id": 1624,
     "language": "GNU C++17",
