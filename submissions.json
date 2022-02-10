@@ -1,4 +1,21 @@
 {
+  "CF145884232": {
+    "contest_id": 1352,
+    "language": "GNU C++17",
+    "path": "codeforces/1352/A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Sum of Round Numbers",
+    "problem_url": "https://codeforces.com/contest/1352/problem/A",
+    "submission_id": "CF145884232",
+    "submission_url": "https://codeforces.com/contest/1352/submission/145884232",
+    "tags": [
+      "implementation",
+      "math",
+      "*800"
+    ],
+    "timestamp": "Feb/11/2022 00:38"
+  },
   "CF145889942": {
     "contest_id": 1325,
     "language": "GNU C++17",
