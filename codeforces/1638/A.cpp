@@ -3,7 +3,7 @@ using namespace std;
 const char nl = '\n';
 void solve()
 {
-    int n, l = 0, r = 0;
+    int n, l = 0, r = 0, min;
     cin >> n;
     int arr[n+1];
     for (int i = 1; i <= n; i++)
@@ -19,14 +19,15 @@ void solve()
         else
         {
             r = i;
+            min = i;
             break;
         }
     }
     if (r > 0)
     {
-        for (int i = r + 1; i <= n; i++)
+        for (int i = min + 1; i <= n; i++)
         {
-            if (arr[i] == r)
+            if (arr[i] == min)
             {
                 l = i;
                 break;
