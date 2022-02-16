@@ -3,14 +3,14 @@ using namespace std;
 const char nl = '\n';
 void solve()
 {
-    int n,i, l = 0, r = 0;
+    int n, r = 0;
     cin >> n;
-    int arr[n+1];
-    for ( i = 1; i <= n; i++)
+    int arr[n + 1];
+    for (int i = 1; i <= n; i++)
     {
         cin >> arr[i];
     }
-    for ( i = 1; i <= n; i++)
+    for (int i = 1; i <= n; i++)
     {
         if (i == arr[i])
         {
@@ -24,21 +24,21 @@ void solve()
     }
     if (r > 0)
     {
-        for ( i = r + 1; i <= n; i++)
+        for (int i = r + 1; i <= n; i++)
         {
             if (arr[i] == r)
             {
-                l = i;
+                int l = i;
+                for (int i = l; i >= r; i--)
+                {
+                    cout << arr[i] << " ";
+                }
+                for (int i = l + 1; i <= n; i++)
+                {
+                    cout << arr[i] << " ";
+                }
                 break;
             }
-        }
-        for ( i = l; i >= r; i--)
-        {
-            cout << arr[i] << " ";
-        }
-        for ( i = l + 1; i <= n; i++)
-        {
-            cout << arr[i]<<" ";
         }
     }
     cout << nl;
