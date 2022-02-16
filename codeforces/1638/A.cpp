@@ -3,9 +3,9 @@ using namespace std;
 const char nl = '\n';
 void solve()
 {
-    int n, r = 0;
+    int n, l = 0, r = 0;
     cin >> n;
-    int arr[n + 1];
+    int arr[n+1];
     for (int i = 1; i <= n; i++)
     {
         cin >> arr[i];
@@ -28,17 +28,17 @@ void solve()
         {
             if (arr[i] == r)
             {
-                int l = i;
-                for (int i = l; i >= r; i--)
-                {
-                    cout << arr[i] << " ";
-                }
-                for (int i = l + 1; i <= n; i++)
-                {
-                    cout << arr[i] << " ";
-                }
+                l = i;
                 break;
             }
+        }
+        for (int i = l; i >= r; i--)
+        {
+            cout << arr[i] << " ";
+        }
+        for (int i = l + 1; i <= n; i++)
+        {
+            cout << arr[i]<<" ";
         }
     }
     cout << nl;
