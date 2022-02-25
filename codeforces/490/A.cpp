@@ -53,17 +53,19 @@ int main()
     cin.tie(NULL);
     int n;
     cin >> n;
-    vi programmer,math,fizra;
+    vector<int> programmer;
+    vector<int> math;
+    vector<int> fizra;
     for (int i = 1; i <= n; ++i)
     {
         int a;
         cin >> a;
         if (a % 3 == 1)
-            programmer.pb(i);
+            programmer.push_back(i);
         else if (a % 3 == 2)
-            math.pb(i);
+            math.push_back(i);
         else
-            fizra.pb(i);
+            fizra.push_back(i);
     }
     int x=min({programmer.size(), math.size(), fizra.size()});
     cout<<x<<nl;
