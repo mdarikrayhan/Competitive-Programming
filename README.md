@@ -12,6 +12,7 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | # | Title | Solution | Tags | Submitted |
 |---| ----- | -------- | ---- | --------- |
+71 | [A - Soft Drinking](https://codeforces.com/contest/151/problem/A) | [GNU C++17](./codeforces/151/A.cpp) | `implementation` `math` `*800` | May/15/2022 17:43 | 
 70 | [A - Team Olympiad](https://codeforces.com/contest/490/problem/A) | [GNU C++17](./codeforces/490/A.cpp) | `greedy` `implementation` `sortings` `*800` | Feb/25/2022 11:11 | 
 69 | [A - Holiday Of Equality](https://codeforces.com/contest/758/problem/A) | [GNU C++17](./codeforces/758/A.cpp) | `implementation` `math` `*800` | Feb/25/2022 10:33 | 
 68 | [A - Choosing Teams](https://codeforces.com/contest/432/problem/A) | [GNU C++17](./codeforces/432/A.cpp) | `greedy` `implementation` `sortings` `*800` | Feb/25/2022 10:12 | 
