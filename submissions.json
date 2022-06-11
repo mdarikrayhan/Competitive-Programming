@@ -1666,5 +1666,21 @@
       "*800"
     ],
     "timestamp": "Jun/12/2022 00:51"
+  },
+  "CF160224354": {
+    "contest_id": 1030,
+    "language": "GNU C++17",
+    "path": "codeforces/1030/B.cpp",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Vasya and Cornfield",
+    "problem_url": "https://codeforces.com/contest/1030/problem/B",
+    "submission_id": "CF160224354",
+    "submission_url": "https://codeforces.com/contest/1030/submission/160224354",
+    "tags": [
+      "geometry",
+      "*1100"
+    ],
+    "timestamp": "Jun/12/2022 01:21"
   }
 }
