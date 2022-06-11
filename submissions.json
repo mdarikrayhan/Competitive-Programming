@@ -1546,6 +1546,23 @@
     ],
     "timestamp": "May/19/2022 10:34"
   },
+  "CF160154058": {
+    "contest_id": 1650,
+    "language": "GNU C++17",
+    "path": "codeforces/1650/A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Deletions of Two Adjacent Letters",
+    "problem_url": "https://codeforces.com/contest/1650/problem/A",
+    "submission_id": "CF160154058",
+    "submission_url": "https://codeforces.com/contest/1650/submission/160154058",
+    "tags": [
+      "implementation",
+      "strings",
+      "*800"
+    ],
+    "timestamp": "Jun/11/2022 07:59"
+  },
   "CF160154102": {
     "contest_id": 1373,
     "language": "GNU C++17",
