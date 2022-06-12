@@ -12,7 +12,8 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | # | Title | Solution | Tags | Submitted |
 |---| ----- | -------- | ---- | --------- |
-89 | [B - Promo](https://codeforces.com/contest/1697/problem/B) | [GNU C++17](./codeforces/1697/B.cpp) | `greedy` `sortings` | Jun/13/2022 02:37 | 
+90 | [B - Promo](https://codeforces.com/contest/1697/problem/B) | [GNU C++17](./codeforces/1697/B.cpp) | `greedy` `sortings` | Jun/13/2022 02:37 | 
+89 | [A - Parkway Walk](https://codeforces.com/contest/1697/problem/A) | [GNU C++17](./codeforces/1697/A.cpp) | `greedy` `implementation` | Jun/12/2022 20:43 | 
 88 | [B - Vasya and Cornfield](https://codeforces.com/contest/1030/problem/B) | [GNU C++17](./codeforces/1030/B.cpp) | `geometry` `*1100` | Jun/12/2022 01:21 | 
 87 | [A - I'm bored with life](https://codeforces.com/contest/822/problem/A) | [GNU C++17](./codeforces/822/A.cpp) | `implementation` `math` `number theory` `*800` | Jun/12/2022 00:51 | 
 86 | [A - Comparing Two Long Integers](https://codeforces.com/contest/616/problem/A) | [GNU C++17](./codeforces/616/A.cpp) | `implementation` `strings` `*900` | Jun/11/2022 08:01 | 
