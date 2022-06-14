@@ -12,6 +12,7 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | # | Title | Solution | Tags | Submitted |
 |---| ----- | -------- | ---- | --------- |
+92 | [C - Where's the Bishop?](https://codeforces.com/contest/1692/problem/C) | [GNU C++17](./codeforces/1692/C.cpp) | `implementation` | Jun/14/2022 21:54 | 
 91 | [A - Spy Detected!](https://codeforces.com/contest/1512/problem/A) | [GNU C++17](./codeforces/1512/A.cpp) | `brute force` `implementation` `*800` | Jun/14/2022 00:53 | 
 90 | [B - Promo](https://codeforces.com/contest/1697/problem/B) | [GNU C++17](./codeforces/1697/B.cpp) | `greedy` `sortings` | Jun/13/2022 02:37 | 
 89 | [A - Parkway Walk](https://codeforces.com/contest/1697/problem/A) | [GNU C++17](./codeforces/1697/A.cpp) | `greedy` `implementation` | Jun/12/2022 20:43 | 
