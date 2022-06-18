@@ -1915,6 +1915,21 @@
     ],
     "timestamp": "Jun/18/2022 19:34"
   },
+  "CF161100182": {
+    "contest_id": 1695,
+    "language": "GNU C++17",
+    "path": "codeforces/1695/B.cpp",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Circle Game",
+    "problem_url": "https://codeforces.com/contest/1695/problem/B",
+    "submission_id": "CF161100182",
+    "submission_url": "https://codeforces.com/contest/1695/submission/161100182",
+    "tags": [
+      "games"
+    ],
+    "timestamp": "Jun/18/2022 21:57"
+  },
   "CF161117694": {
     "contest_id": 1619,
     "language": "GNU C++17",
