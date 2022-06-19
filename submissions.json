@@ -1960,5 +1960,21 @@
       "*1200"
     ],
     "timestamp": "Jun/18/2022 22:49"
+  },
+  "CF161142217": {
+    "contest_id": 1512,
+    "language": "GNU C++17",
+    "path": "codeforces/1512/B.cpp",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Almost Rectangle",
+    "problem_url": "https://codeforces.com/contest/1512/problem/B",
+    "submission_id": "CF161142217",
+    "submission_url": "https://codeforces.com/contest/1512/submission/161142217",
+    "tags": [
+      "implementation",
+      "*800"
+    ],
+    "timestamp": "Jun/19/2022 07:31"
   }
 }
