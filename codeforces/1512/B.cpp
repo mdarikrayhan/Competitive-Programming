@@ -56,6 +56,12 @@ void solve()
         FOR(j, 0, n)
         {
             cin >> arr[i][j];
+        }
+    }
+    FOR(i, 0, n)
+    {
+        FOR(j, 0, n)
+        {
             if (arr[i][j] == '*')
             {
                 if (x1 == -1 && y1 == -1)
@@ -75,63 +81,75 @@ void solve()
     {
         if (x1 == x2)
         {
-            if (x1 == 0)
-            {
-                x3 = x1 + 1;
+            if(x1==0){
+                x3=x1+1;
             }
-            else
-            {
-                x3 = x1 - 1;
+            else{
+                x3=x1-1;
             }
-            y3 = y1;
-            if (x2 == 0)
-            {
-                x4 = x2 + 1;
+            y3=y1;
+            if(x2==0){
+                x4=x2+1;
             }
-            else
-            {
-                x4 = x2 - 1;
+            else{
+                x4=x2-1;
             }
-            y4 = y2;
+            y4=y2;
+            arr[x3][y3] = '*';
+            arr[x4][y4] = '*';
+            FOR(i, 0, n)
+            {
+                FOR(j, 0, n)
+                {
+                    cout << arr[i][j];
+                }
+                cout << nl;
+            }
         }
         else
         {
-            if (y1 == 0)
-            {
-                y3 = y1 + 1;
+            if(y1==0){
+                y3=y1+1;
             }
-            else
-            {
-                y3 = y1 - 1;
+            else{
+                y3=y1-1;
             }
-            x3 = x1;
-            if (y2 == 0)
-            {
-                y4 = y2 + 1;
+            x3=x1;
+            if(y2==0){
+                y4=y2+1;
             }
-            else
-            {
-                y4 = y2 - 1;
+            else{
+                y4=y2-1;
             }
-            x4 = x2;
+            x4=x2;
+            arr[x3][y3] = '*';
+            arr[x4][y4] = '*';
+            FOR(i, 0, n)
+            {
+                FOR(j, 0, n)
+                {
+                    cout << arr[i][j];
+                }
+                cout << nl;
+            }
         }
-    }
+        }
     else
     {
         x3 = x1;
         y3 = y2;
         x4 = x2;
         y4 = y1;
-    }
-    arr[x3][y3] = '*';
-    arr[x4][y4] = '*';
-    FOR(i, 0, n)
-    {
-        FOR(j, 0, n)
+        arr[x3][y3] = '*';
+        arr[x4][y4] = '*';
+        FOR(i, 0, n)
         {
-            cout << arr[i][j];
+            FOR(j, 0, n)
+            {
+                cout << arr[i][j];
+            }
+            cout << nl;
         }
-        cout << nl;
     }
 }
 
