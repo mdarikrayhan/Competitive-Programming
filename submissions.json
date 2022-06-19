@@ -2010,6 +2010,24 @@
     ],
     "timestamp": "Jun/19/2022 07:35"
   },
+  "CF161245516": {
+    "contest_id": 1700,
+    "language": "GNU C++17",
+    "path": "codeforces/1700/A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Optimal Path",
+    "problem_url": "https://codeforces.com/contest/1700/problem/A",
+    "submission_id": "CF161245516",
+    "submission_url": "https://codeforces.com/contest/1700/submission/161245516",
+    "tags": [
+      "dp",
+      "greedy",
+      "math",
+      "*800"
+    ],
+    "timestamp": "Jun/19/2022 23:12"
+  },
   "CF161247593": {
     "contest_id": 1700,
     "language": "GNU C++17",
