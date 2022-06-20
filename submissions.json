@@ -2010,6 +2010,26 @@
     ],
     "timestamp": "Jun/19/2022 07:35"
   },
+  "CF161266085": {
+    "contest_id": 1695,
+    "language": "GNU C++17",
+    "path": "codeforces/1695/C.cpp",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Zero Path",
+    "problem_url": "https://codeforces.com/contest/1695/problem/C",
+    "submission_id": "CF161266085",
+    "submission_url": "https://codeforces.com/contest/1695/submission/161266085",
+    "tags": [
+      "bitmasks",
+      "brute force",
+      "data structures",
+      "dp",
+      "greedy",
+      "shortest paths"
+    ],
+    "timestamp": "Jun/20/2022 08:40"
+  },
   "CF161266694": {
     "contest_id": 1700,
     "language": "GNU C++17",
