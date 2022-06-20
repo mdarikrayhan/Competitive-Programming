@@ -2009,5 +2009,22 @@
       "*800"
     ],
     "timestamp": "Jun/19/2022 07:35"
+  },
+  "CF161266694": {
+    "contest_id": 1700,
+    "language": "GNU C++17",
+    "path": "codeforces/1700/C.cpp",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Helping the Nature",
+    "problem_url": "https://codeforces.com/contest/1700/problem/C",
+    "submission_id": "CF161266694",
+    "submission_url": "https://codeforces.com/contest/1700/submission/161266694",
+    "tags": [
+      "constructive algorithms",
+      "greedy",
+      "*1700"
+    ],
+    "timestamp": "Jun/20/2022 08:50"
   }
 }
