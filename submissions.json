@@ -2121,6 +2121,22 @@
     ],
     "timestamp": "Jun/20/2022 08:50"
   },
+  "CF161376132": {
+    "contest_id": 1059,
+    "language": "GNU C++17",
+    "path": "codeforces/1059/B.cpp",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Forgery",
+    "problem_url": "https://codeforces.com/contest/1059/problem/B",
+    "submission_id": "CF161376132",
+    "submission_url": "https://codeforces.com/contest/1059/submission/161376132",
+    "tags": [
+      "implementation",
+      "*1300"
+    ],
+    "timestamp": "Jun/21/2022 15:18"
+  },
   "CF161378271": {
     "contest_id": 1059,
     "language": "GNU C++17",
