@@ -2187,5 +2187,21 @@
       "*800"
     ],
     "timestamp": "Jun/22/2022 19:56"
+  },
+  "CF161499410": {
+    "contest_id": 227,
+    "language": "GNU C++17",
+    "path": "codeforces/227/A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Where do I Turn?",
+    "problem_url": "https://codeforces.com/contest/227/problem/A",
+    "submission_id": "CF161499410",
+    "submission_url": "https://codeforces.com/contest/227/submission/161499410",
+    "tags": [
+      "geometry",
+      "*1300"
+    ],
+    "timestamp": "Jun/23/2022 00:04"
   }
 }
