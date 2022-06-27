@@ -62,7 +62,7 @@ void solve()
         v.push_back(a);
     }
 
-    for (int i = 0; i <= 9*n; i++)
+    for (int i = 0; i <= 999; i++)
     {
         sum = 0;
         flag = 0;
