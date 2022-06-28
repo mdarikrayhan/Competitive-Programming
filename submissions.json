@@ -2292,6 +2292,23 @@
     ],
     "timestamp": "Jun/27/2022 22:26"
   },
+  "CF162023476": {
+    "contest_id": 110,
+    "language": "GNU C++17",
+    "path": "codeforces/110/C.cpp",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Lucky Sum of Digits",
+    "problem_url": "https://codeforces.com/contest/110/problem/C",
+    "submission_id": "CF162023476",
+    "submission_url": "https://codeforces.com/contest/110/submission/162023476",
+    "tags": [
+      "implementation",
+      "math",
+      "*1000"
+    ],
+    "timestamp": "Jun/28/2022 14:15"
+  },
   "CF162025900": {
     "contest_id": 110,
     "language": "GNU C++17",
