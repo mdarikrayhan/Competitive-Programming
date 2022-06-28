@@ -1,39 +1,40 @@
 #include <iostream>
 using namespace std;
+const char nl = '\n';
 
 int main()
 {
     int n;
-    scanf("%d", &n);
+    scanf("%d",&n);
     switch (n)
     {
     case 1:
-        printf("a\n");
+        cout << 'a' << nl;
         break;
     case 2:
-        printf("ab\n");
+        cout << "ab" << nl;
         break;
     case 3:
-        printf("abc\n");
+        cout << "abc" << nl;
         break;
 
     default:
         for (int i = 0; i < n / 4; i++)
         {
-            printf("abcd");
+            cout << "abcd";
         }
 
         int t = n % 4;
         switch (t)
         {
         case 1:
-            printf("a\n");
+            cout << 'a' << nl;
             break;
         case 2:
-            printf("ab\n");
+            cout << "ab" << nl;
             break;
         case 3:
-            printf("abc\n");
+            cout << "abc" << nl;
             break;
         }
         break;
