@@ -1,44 +1,45 @@
-#include <iostream>
+#include <bits/stdc++.h>
 using namespace std;
 const char nl = '\n';
 
 int main()
 {
+    ios_base::sync_with_stdio(false);
+    cin.tie(NULL);
     int n;
-    scanf("%d",&n);
-    switch (n)
+    cin >> n;
+    if (n == 1)
     {
-    case 1:
-        cout << 'a' << nl;
-        break;
-    case 2:
-        cout << "ab" << nl;
-        break;
-    case 3:
-        cout << "abc" << nl;
-        break;
-
-    default:
+        cout<<'a'<<nl;
+    }
+    else if (n == 2)
+    {
+        cout<<"ab"<<nl;
+    }
+    else if (n == 3)
+    {
+        cout<<"abc"<<nl;
+    }
+    else
+    {
         for (int i = 0; i < n / 4; i++)
         {
-            cout << "abcd";
+            cout<<"abcd";
         }
 
         int t = n % 4;
-        switch (t)
+        if (t == 1)
         {
-        case 1:
-            cout << 'a' << nl;
-            break;
-        case 2:
-            cout << "ab" << nl;
-            break;
-        case 3:
-            cout << "abc" << nl;
-            break;
+            cout<<'a'<<nl;
         }
-        break;
+        else if (t == 2)
+        {
+            cout<<"ab"<<nl;
+        }
+        else if (t == 3)
+        {
+            cout<<"abc"<<nl;
+        }
     }
-
     return 0;
 }
