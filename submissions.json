@@ -2716,6 +2716,24 @@
     ],
     "timestamp": "Jun/29/2022 08:11"
   },
+  "CF162332292": {
+    "contest_id": 1566,
+    "language": "GNU C++17",
+    "path": "codeforces/1566/A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Median Maximization",
+    "problem_url": "https://codeforces.com/contest/1566/problem/A",
+    "submission_id": "CF162332292",
+    "submission_url": "https://codeforces.com/contest/1566/submission/162332292",
+    "tags": [
+      "binary search",
+      "greedy",
+      "math",
+      "*800"
+    ],
+    "timestamp": "Jun/30/2022 17:36"
+  },
   "CF162335898": {
     "contest_id": 1698,
     "language": "GNU C++17",
