@@ -2817,5 +2817,21 @@
       "data structures"
     ],
     "timestamp": "Jun/30/2022 18:13"
+  },
+  "CF162470099": {
+    "contest_id": 208,
+    "language": "GNU C++17",
+    "path": "codeforces/208/A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Dubstep",
+    "problem_url": "https://codeforces.com/contest/208/problem/A",
+    "submission_id": "CF162470099",
+    "submission_url": "https://codeforces.com/contest/208/submission/162470099",
+    "tags": [
+      "strings",
+      "*900"
+    ],
+    "timestamp": "Jul/01/2022 23:17"
   }
 }
