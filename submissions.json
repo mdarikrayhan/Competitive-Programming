@@ -2966,6 +2966,25 @@
     ],
     "timestamp": "Jul/05/2022 23:50"
   },
+  "CF162931834": {
+    "contest_id": 1566,
+    "language": "GNU C++17",
+    "path": "codeforces/1566/B.cpp",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "MIN-MEX Cut",
+    "problem_url": "https://codeforces.com/contest/1566/problem/B",
+    "submission_id": "CF162931834",
+    "submission_url": "https://codeforces.com/contest/1566/submission/162931834",
+    "tags": [
+      "bitmasks",
+      "constructive algorithms",
+      "dp",
+      "greedy",
+      "*800"
+    ],
+    "timestamp": "Jul/06/2022 01:26"
+  },
   "CF162962175": {
     "contest_id": 1688,
     "language": "GNU C++17",
