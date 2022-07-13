@@ -3224,5 +3224,22 @@
       "greedy"
     ],
     "timestamp": "Jul/11/2022 12:35"
+  },
+  "CF164035733": {
+    "contest_id": 1703,
+    "language": "GNU C++17",
+    "path": "codeforces/1703/D.cpp",
+    "platform": "Codeforces",
+    "problem_index": "D",
+    "problem_name": "Double Strings",
+    "problem_url": "https://codeforces.com/contest/1703/problem/D",
+    "submission_id": "CF164035733",
+    "submission_url": "https://codeforces.com/contest/1703/submission/164035733",
+    "tags": [
+      "brute force",
+      "data structures",
+      "strings"
+    ],
+    "timestamp": "Jul/13/2022 18:59"
   }
 }
