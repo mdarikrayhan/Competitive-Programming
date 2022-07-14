@@ -3311,6 +3311,21 @@
     ],
     "timestamp": "Jul/13/2022 18:59"
   },
+  "CF164182915": {
+    "contest_id": 1703,
+    "language": "GNU C++17",
+    "path": "codeforces/1703/E.cpp",
+    "platform": "Codeforces",
+    "problem_index": "E",
+    "problem_name": "Mirror Grid",
+    "problem_url": "https://codeforces.com/contest/1703/problem/E",
+    "submission_id": "CF164182915",
+    "submission_url": "https://codeforces.com/contest/1703/submission/164182915",
+    "tags": [
+      "implementation"
+    ],
+    "timestamp": "Jul/15/2022 00:58"
+  },
   "CF164528447": {
     "contest_id": 1705,
     "language": "GNU C++17",

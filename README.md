@@ -12,9 +12,10 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | # | Title | Solution | Tags | Submitted |
 |---| ----- | -------- | ---- | --------- |
-163 | [A - Another String Minimization Problem](https://codeforces.com/contest/1706/problem/A) | [GNU C++17](./codeforces/1706/A.cpp) | `greedy` `strings` | Jul/18/2022 21:37 | 
-162 | [B - Difference of GCDs](https://codeforces.com/contest/1708/problem/B) | [GNU C++17](./codeforces/1708/B.cpp) | `constructive algorithms` `math` | Jul/17/2022 11:52 | 
-161 | [C - Mark and His Unfinished Essay](https://codeforces.com/contest/1705/problem/C) | [GNU C++17](./codeforces/1705/C.cpp) | `brute force` `implementation` | Jul/16/2022 23:04 | 
+164 | [A - Another String Minimization Problem](https://codeforces.com/contest/1706/problem/A) | [GNU C++17](./codeforces/1706/A.cpp) | `greedy` `strings` | Jul/18/2022 21:37 | 
+163 | [B - Difference of GCDs](https://codeforces.com/contest/1708/problem/B) | [GNU C++17](./codeforces/1708/B.cpp) | `constructive algorithms` `math` | Jul/17/2022 11:52 | 
+162 | [C - Mark and His Unfinished Essay](https://codeforces.com/contest/1705/problem/C) | [GNU C++17](./codeforces/1705/C.cpp) | `brute force` `implementation` | Jul/16/2022 23:04 | 
+161 | [E - Mirror Grid](https://codeforces.com/contest/1703/problem/E) | [GNU C++17](./codeforces/1703/E.cpp) | `implementation` | Jul/15/2022 00:58 | 
 160 | [D - Double Strings](https://codeforces.com/contest/1703/problem/D) | [GNU C++17](./codeforces/1703/D.cpp) | `brute force` `data structures` `strings` | Jul/13/2022 18:59 | 
 159 | [A - YES or YES?](https://codeforces.com/contest/1703/problem/A) | [GNU C++17](./codeforces/1703/A.cpp) | `implementation` `strings` | Jul/13/2022 10:49 | 
 158 | [A - Mike and palindrome](https://codeforces.com/contest/798/problem/A) | [GNU C++17](./codeforces/798/A.cpp) | `brute force` `constructive algorithms` `strings` `*1000` | Jul/12/2022 09:16 | 
