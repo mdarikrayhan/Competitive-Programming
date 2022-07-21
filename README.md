@@ -12,13 +12,14 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | # | Title | Solution | Tags | Submitted |
 |---| ----- | -------- | ---- | --------- |
-173 | [G - 2^Sort](https://codeforces.com/contest/1692/problem/G) | [GNU C++17](./codeforces/1692/G.cpp) | `data structures` `dp` `sortings` `two pointers` `*1400` | Jul/30/2022 23:28 | 
-172 | [A - Die Roll](https://codeforces.com/contest/9/problem/A) | [GNU C++17](./codeforces/9/A.cpp) | `math` `probabilities` `*800` | Jul/29/2022 22:15 | 
-171 | [E - Binary Deque](https://codeforces.com/contest/1692/problem/E) | [GNU C++17](./codeforces/1692/E.cpp) | `binary search` `implementation` `two pointers` `*1200` | Jul/28/2022 19:29 | 
-170 | [F - 3SUM](https://codeforces.com/contest/1692/problem/F) | [GNU C++17](./codeforces/1692/F.cpp) | `brute force` `math` `*1300` | Jul/26/2022 23:46 | 
-169 | [A - Perfect Permutation](https://codeforces.com/contest/1711/problem/A) | [GNU C++17](./codeforces/1711/A.cpp) | `constructive algorithms` `*800` | Jul/25/2022 07:39 | 
-168 | [E - Split Into Two Sets](https://codeforces.com/contest/1702/problem/E) | [GNU C++17](./codeforces/1702/E.cpp) | `dfs and similar` `dsu` `graphs` `*1600` | Jul/24/2022 23:29 | 
-167 | [D - Not a Cheap String](https://codeforces.com/contest/1702/problem/D) | [GNU C++17](./codeforces/1702/D.cpp) | `greedy` `*1000` | Jul/23/2022 21:52 | 
+174 | [G - 2^Sort](https://codeforces.com/contest/1692/problem/G) | [GNU C++17](./codeforces/1692/G.cpp) | `data structures` `dp` `sortings` `two pointers` `*1400` | Jul/30/2022 23:28 | 
+173 | [A - Die Roll](https://codeforces.com/contest/9/problem/A) | [GNU C++17](./codeforces/9/A.cpp) | `math` `probabilities` `*800` | Jul/29/2022 22:15 | 
+172 | [E - Binary Deque](https://codeforces.com/contest/1692/problem/E) | [GNU C++17](./codeforces/1692/E.cpp) | `binary search` `implementation` `two pointers` `*1200` | Jul/28/2022 19:29 | 
+171 | [F - 3SUM](https://codeforces.com/contest/1692/problem/F) | [GNU C++17](./codeforces/1692/F.cpp) | `brute force` `math` `*1300` | Jul/26/2022 23:46 | 
+170 | [A - Perfect Permutation](https://codeforces.com/contest/1711/problem/A) | [GNU C++17](./codeforces/1711/A.cpp) | `constructive algorithms` `*800` | Jul/25/2022 07:39 | 
+169 | [E - Split Into Two Sets](https://codeforces.com/contest/1702/problem/E) | [GNU C++17](./codeforces/1702/E.cpp) | `dfs and similar` `dsu` `graphs` `*1600` | Jul/24/2022 23:29 | 
+168 | [D - Not a Cheap String](https://codeforces.com/contest/1702/problem/D) | [GNU C++17](./codeforces/1702/D.cpp) | `greedy` `*1000` | Jul/23/2022 21:52 | 
+167 | [A - Three Doors](https://codeforces.com/contest/1709/problem/A) | [PyPy 3-64](./codeforces/1709/A.py) | `brute force` `greedy` `implementation` `math` `*800` | Jul/21/2022 21:57 | 
 166 | [A - Another String Minimization Problem](https://codeforces.com/contest/1706/problem/A) | [GNU C++17](./codeforces/1706/A.cpp) | `greedy` `strings` | Jul/18/2022 21:37 | 
 165 | [B - Difference of GCDs](https://codeforces.com/contest/1708/problem/B) | [GNU C++17](./codeforces/1708/B.cpp) | `constructive algorithms` `math` | Jul/17/2022 11:52 | 
 164 | [C - Mark and His Unfinished Essay](https://codeforces.com/contest/1705/problem/C) | [GNU C++17](./codeforces/1705/C.cpp) | `brute force` `implementation` | Jul/16/2022 23:04 | 

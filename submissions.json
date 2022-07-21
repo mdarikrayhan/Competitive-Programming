@@ -3407,6 +3407,25 @@
     ],
     "timestamp": "Jul/18/2022 21:37"
   },
+  "CF165193626": {
+    "contest_id": 1709,
+    "language": "PyPy 3-64",
+    "path": "codeforces/1709/A.py",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Three Doors",
+    "problem_url": "https://codeforces.com/contest/1709/problem/A",
+    "submission_id": "CF165193626",
+    "submission_url": "https://codeforces.com/contest/1709/submission/165193626",
+    "tags": [
+      "brute force",
+      "greedy",
+      "implementation",
+      "math",
+      "*800"
+    ],
+    "timestamp": "Jul/21/2022 21:57"
+  },
   "CF165444325": {
     "contest_id": 1702,
     "language": "GNU C++17",
