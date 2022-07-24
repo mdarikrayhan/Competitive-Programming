@@ -12,10 +12,11 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | # | Title | Solution | Tags | Submitted |
 |---| ----- | -------- | ---- | --------- |
-170 | [A - Die Roll](https://codeforces.com/contest/9/problem/A) | [GNU C++17](./codeforces/9/A.cpp) | `math` `probabilities` `*800` | Jul/29/2022 22:15 | 
-169 | [E - Binary Deque](https://codeforces.com/contest/1692/problem/E) | [GNU C++17](./codeforces/1692/E.cpp) | `binary search` `implementation` `two pointers` `*1200` | Jul/28/2022 19:29 | 
-168 | [F - 3SUM](https://codeforces.com/contest/1692/problem/F) | [GNU C++17](./codeforces/1692/F.cpp) | `brute force` `math` `*1300` | Jul/26/2022 23:46 | 
-167 | [A - Perfect Permutation](https://codeforces.com/contest/1711/problem/A) | [GNU C++17](./codeforces/1711/A.cpp) | `constructive algorithms` `*800` | Jul/25/2022 07:39 | 
+171 | [A - Die Roll](https://codeforces.com/contest/9/problem/A) | [GNU C++17](./codeforces/9/A.cpp) | `math` `probabilities` `*800` | Jul/29/2022 22:15 | 
+170 | [E - Binary Deque](https://codeforces.com/contest/1692/problem/E) | [GNU C++17](./codeforces/1692/E.cpp) | `binary search` `implementation` `two pointers` `*1200` | Jul/28/2022 19:29 | 
+169 | [F - 3SUM](https://codeforces.com/contest/1692/problem/F) | [GNU C++17](./codeforces/1692/F.cpp) | `brute force` `math` `*1300` | Jul/26/2022 23:46 | 
+168 | [A - Perfect Permutation](https://codeforces.com/contest/1711/problem/A) | [GNU C++17](./codeforces/1711/A.cpp) | `constructive algorithms` `*800` | Jul/25/2022 07:39 | 
+167 | [E - Split Into Two Sets](https://codeforces.com/contest/1702/problem/E) | [GNU C++17](./codeforces/1702/E.cpp) | `dfs and similar` `dsu` `graphs` `*1600` | Jul/24/2022 23:29 | 
 166 | [A - Another String Minimization Problem](https://codeforces.com/contest/1706/problem/A) | [GNU C++17](./codeforces/1706/A.cpp) | `greedy` `strings` | Jul/18/2022 21:37 | 
 165 | [B - Difference of GCDs](https://codeforces.com/contest/1708/problem/B) | [GNU C++17](./codeforces/1708/B.cpp) | `constructive algorithms` `math` | Jul/17/2022 11:52 | 
 164 | [C - Mark and His Unfinished Essay](https://codeforces.com/contest/1705/problem/C) | [GNU C++17](./codeforces/1705/C.cpp) | `brute force` `implementation` | Jul/16/2022 23:04 | 

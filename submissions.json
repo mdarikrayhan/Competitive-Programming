@@ -3407,6 +3407,24 @@
     ],
     "timestamp": "Jul/18/2022 21:37"
   },
+  "CF165590476": {
+    "contest_id": 1702,
+    "language": "GNU C++17",
+    "path": "codeforces/1702/E.cpp",
+    "platform": "Codeforces",
+    "problem_index": "E",
+    "problem_name": "Split Into Two Sets",
+    "problem_url": "https://codeforces.com/contest/1702/problem/E",
+    "submission_id": "CF165590476",
+    "submission_url": "https://codeforces.com/contest/1702/submission/165590476",
+    "tags": [
+      "dfs and similar",
+      "dsu",
+      "graphs",
+      "*1600"
+    ],
+    "timestamp": "Jul/24/2022 23:29"
+  },
   "CF165617827": {
     "contest_id": 1711,
     "language": "GNU C++17",
