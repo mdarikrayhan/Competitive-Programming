@@ -3580,6 +3580,23 @@
     ],
     "timestamp": "Jul/30/2022 23:28"
   },
+  "CF166991582": {
+    "contest_id": 1716,
+    "language": "Python 3",
+    "path": "codeforces/1716/A.py",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "2-3 Moves",
+    "problem_url": "https://codeforces.com/contest/1716/problem/A",
+    "submission_id": "CF166991582",
+    "submission_url": "https://codeforces.com/contest/1716/submission/166991582",
+    "tags": [
+      "greedy",
+      "math",
+      "*800"
+    ],
+    "timestamp": "Aug/04/2022 21:51"
+  },
   "CF167435952": {
     "contest_id": 1406,
     "language": "GNU C11",
