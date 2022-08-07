@@ -1,0 +1,1 @@
+main(n,i){for(scanf("%*d");~scanf("%d",&n);){char s[101]={0};for(;n--;s[i]++)scanf("%d",&i);printf("%d ",strlen(s)+strcspn(s,"\1"));}}
