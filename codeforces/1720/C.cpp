@@ -1,4 +1,7 @@
-#include <stdio.h>
+#include <bits/stdc++.h>
+using namespace std;
+char s[505][505];
+int w[505][505];
 int main()
 {
     int t;
@@ -7,8 +10,6 @@ int main()
     {
         int n, m, ans = 0, k = 0, flag = 0;
         scanf("%d%d", &n, &m);
-        char s[n+5][m+5];
-        int w[n+5][m+5];
         for (int i = 0; i < n; i++)
         {
             scanf("\n%s", s[i]);
