@@ -7,15 +7,14 @@ int main()
     {
         int n, m, ans = 0, k = 0, flag = 0;
         scanf("%d%d", &n, &m);
-        
+        char s[n+5][m+5];
         int w[n+5][m+5];
         for (int i = 0; i < n; i++)
         {
-            char s[m+5];
-            scanf("\n%s", s);
+            scanf("\n%s", s[i]);
             for (int j = 0; j < m; j++)
             {
-                ans += (w[i][j] = s[j] - '0');
+                ans += (w[i][j] = s[i][j] - '0');
             }
         }
         for (int i = 0; i < n - 1; i++)
