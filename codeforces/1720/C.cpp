@@ -4,37 +4,55 @@
 /***************************************************/
 #include <bits/stdc++.h>
 using namespace std;
-const int INF = 1e9;
-const int MAXN = 2000;
-int a[MAXN][MAXN];
+const char nl = '\n';
+int main()
+{
+    int T;
+    cin>>T;
+    while(T--)
+    {
+        int n, m,no1=0,flag=0;
+        cin >> n >> m;
+        char a[n+5][m+5];
+        for (int i = 0; i < n; i++)
+        {
+            for (int j = 0; j < m; j++)
+            {
+                cin>>a[i][j];
+                if(a[i][j]=='1')
+                {
+                    no1++;
+                }
+            }
+        }
 
-inline void solve1() {
-    int n, m, sum = 0;
-    cin >> n >> m;
-    string s;
-    for (int i = 0; i < n; ++i) {
-        cin >> s;
-        for (int j = 0; j < m; ++j) {
-            a[i][j] = s[j] - '0';
-            sum += a[i][j];
+    for(int i=0;i<n-1;i++){
+        for(int j=0;j<m-1;j++){
+            if(a[i][j]=='0'&&(a[i+1][j+1]=='0'||a[i+1][j]=='0'||a[i][j+1]=='0')){
+                flag=1;
+                break;
+            }
+            else if(a[i+1][j]=='0'&&a[i][j+1]=='0'){
+                flag=1;
+                break;
+            }
+            else if((a[i][j+1]=='0'||a[i+1][j]=='0')&&a[i+1][j+1]=='0'){
+                flag=1;
+                break;
+            }
+        }
+        if(flag==1)
+        break;
+    }
+        if(flag==1){
+            cout<<no1<<nl;
+        }
+        else if(no1==(m*n)){
+            cout<<no1-2<<nl;
+        }
+        else{
+            cout<<no1-1<<nl;
         }
     }
-    int minn = INF;
-    for (int i = 0; i < n - 1; ++i) {
-        for (int j = 0; j < m - 1; ++j) {
-            int cnt = a[i][j] + a[i + 1][j] + a[i][j + 1] + a[i + 1][j + 1];
-            if (cnt == 0) continue;
-            minn = min(minn, max(1, cnt - 1));
-        }
-    }
-    if (sum == 0) cout << "0\n";
-    else cout << 1 + sum - minn << "\n";
-}
-
-signed main() {
-     int t = 1;
-     cin >> t;
-     while (t--) {
-        solve1();
-     }
+    return 0;
 }
