@@ -3580,6 +3580,22 @@
     ],
     "timestamp": "Jul/30/2022 23:28"
   },
+  "CF168931983": {
+    "contest_id": 1720,
+    "language": "GNU C++17",
+    "path": "codeforces/1720/C.cpp",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Corners",
+    "problem_url": "https://codeforces.com/contest/1720/problem/C",
+    "submission_id": "CF168931983",
+    "submission_url": "https://codeforces.com/contest/1720/submission/168931983",
+    "tags": [
+      "greedy",
+      "implementation"
+    ],
+    "timestamp": "Aug/19/2022 13:09"
+  },
   "CF169077071": {
     "contest_id": 616,
     "language": "GNU C++17",
