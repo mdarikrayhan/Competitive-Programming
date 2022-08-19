@@ -36,7 +36,11 @@ int main()
                 flag=1;
                 break;
             }
-            else if((a[i][j+1]=='0'||a[i+1][j]=='0')&&a[i+1][j+1]=='0'){
+            else if(a[i][j+1]=='0'&&a[i+1][j+1]=='0'){
+                flag=1;
+                break;
+            }
+            else if(a[i+1][j]=='0'&&a[i+1][j+1]=='0'){
                 flag=1;
                 break;
             }
