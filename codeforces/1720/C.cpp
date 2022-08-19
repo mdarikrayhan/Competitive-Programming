@@ -12,6 +12,9 @@ int main()
         for (int i = 0; i < n; i++)
         {
             scanf("\n%s", s[i]);
+        }
+        for (int i = 0; i < n; i++)
+        {
             for (int j = 0; j < m; j++)
             {
                 ans += (w[i][j] = s[i][j] - '0');
