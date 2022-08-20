@@ -21,12 +21,7 @@ int main()
     {
         ll x = n / l;
         r = min(m, n / x);
-
-        ll a=dls2(r);
-        ll b=dls2(l-1);
-        ll y = (a-b)%mod;
-
-        ans += (mod - (y * x) % mod);
+        ans += (mod - (dls(l, r) * x) % mod);
         ans %= mod;
     }
     cout << ans << endl;
