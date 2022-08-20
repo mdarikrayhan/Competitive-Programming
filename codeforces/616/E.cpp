@@ -19,7 +19,7 @@ int main()
 
         //cout<<l<<" "<<r<<endl;
 
-        ll a=((r % mod) * ((r + 1) % mod) / 2) % mod;
+        ll a=dls(r);
         ll b=dls(l-1);
         ll y = (a-b)%mod;
 
