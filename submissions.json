@@ -3580,6 +3580,24 @@
     ],
     "timestamp": "Jul/30/2022 23:28"
   },
+  "CF169082677": {
+    "contest_id": 616,
+    "language": "GNU C++17",
+    "path": "codeforces/616/E.cpp",
+    "platform": "Codeforces",
+    "problem_index": "E",
+    "problem_name": "Sum of Remainders",
+    "problem_url": "https://codeforces.com/contest/616/problem/E",
+    "submission_id": "CF169082677",
+    "submission_url": "https://codeforces.com/contest/616/submission/169082677",
+    "tags": [
+      "implementation",
+      "math",
+      "number theory",
+      "*2200"
+    ],
+    "timestamp": "Aug/20/2022 19:02"
+  },
   "CF169085843": {
     "contest_id": 1475,
     "language": "GNU C++17",
