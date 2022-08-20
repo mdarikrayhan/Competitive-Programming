@@ -2,7 +2,7 @@
 using namespace std;
 typedef long long ll;
 const ll mod = 1000000007;
-ll dls(ll i)
+ll dls2(ll i)
 {
     return ((i % mod) * ((i + 1) % mod) / 2) % mod;
 }
@@ -19,8 +19,8 @@ int main()
 
         //cout<<l<<" "<<r<<endl;
 
-        ll a=dls(r);
-        ll b=dls(l-1);
+        ll a=dls2(r);
+        ll b=dls2(l-1);
         ll y = (a-b)%mod;
 
         ans += (mod - (y * x) % mod);
