@@ -2,22 +2,25 @@
 using namespace std;
 typedef long long ll;
 const ll mod = 1000000007;
+ll l, r, ans;
 ll dls2(ll i)
 {
     return ((i % mod) * ((i + 1) % mod) / 2) % mod;
 }
+ll dls(ll l, ll r)
+{
+    return (dls2(r) - dls2(l - 1)) % mod;
+}
 int main()
 {
-    ll n, m,ans;
+    ll n, m;
     cin >> n >> m;
     ans = (n % mod) * (m % mod) % mod;
     m = min(m, n);
-    for (ll l = 1,r=0; l <= m; l = r + 1)
+    for (l = 1; l <= m; l = r + 1)
     {
         ll x = n / l;
         r = min(m, n / x);
-
-        //cout<<l<<" "<<r<<endl;
 
         ll a=dls2(r);
         ll b=dls2(l-1);
