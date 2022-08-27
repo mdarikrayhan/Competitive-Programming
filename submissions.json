@@ -1,4 +1,20 @@
 {
+  "AC34375952": {
+    "contest_id": "abc266",
+    "language": "C++ (GCC 9.2.1)",
+    "path": "atcoder/abc266/A.cpp",
+    "platform": "AtCoder",
+    "problem_index": "A",
+    "problem_name": "Middle  Letter",
+    "problem_url": "https://atcoder.jp/contests/abc266/tasks/abc266_a",
+    "submission_id": "AC34375952",
+    "submission_url": "https://atcoder.jp/contests/abc266/submissions/34375952",
+    "tags": [
+      "AtCoder",
+      "*100"
+    ],
+    "timestamp": "Aug/27/2022 18:07"
+  },
   "AC34392183": {
     "contest_id": "abc266",
     "language": "C++ (GCC 9.2.1)",
