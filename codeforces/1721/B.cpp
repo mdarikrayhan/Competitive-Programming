@@ -4,11 +4,11 @@ int main()
     std::ios_base::sync_with_stdio(0);
     std::cin.tie(0);
     std::cout.tie(0);
-    int_fast16_t T;
+    int T;
     std::cin >> T;
     while (T--)
     {
-        int16_t n, m, sx, sy, d;
+        int n, m, sx, sy, d;
         std::cin >> n >> m >> sx >> sy >> d;
         if (((sy - d > 1) && (d + sx < n)) || ((sx - d > 1) && (d + sy < m)))
         {
