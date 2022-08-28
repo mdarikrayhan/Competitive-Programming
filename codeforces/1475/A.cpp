@@ -8,14 +8,16 @@ const char nl = '\n';
 bool isPowerof(long long num, long long base)
 {
     long double log_num =log(num) / log(base);
-    if (fabs(log_num - round(log_num)) < 0.000001)
-    //if difference is less than 10^-5 then they are same number
+    if (fabs(log_num - round(log_num)) < 0.000001)//approximate and int are same while error is low
     {
         return true;
     }
     else
     {
-        return false;
+        /*if (floor(log_num) == ceil(log_num))
+            return true;
+        else*/
+            return false;
     }
 }
 int main()
