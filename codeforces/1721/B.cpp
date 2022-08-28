@@ -9,15 +9,20 @@ int main()
     cin >> T;
     while (T--)
     {
-        int n, m, sx, sy, d;
+        int n, m, sx, sy, d, ans;
         cin >> n >> m >> sx >> sy >> d;
-        if (((sy - d > 1) && (d + sx < n)) || ((sx - d > 1) && (d + sy < m)))
+        ans=m+n-2;
+        if ((sy - d > 1) && (d + sx < n))
         {
-            cout << m + n - 2 << '\n';
+            cout<<ans<<'\n';
+        }
+        else if ((sx - d > 1) && (d + sy < m))
+        {
+            cout<<ans<<'\n';
         }
         else
         {
-            cout << -1 << '\n';
+            cout << "-1" << '\n';
         }
     }
     return 0;
