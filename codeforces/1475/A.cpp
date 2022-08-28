@@ -5,13 +5,25 @@
 #include <bits/stdc++.h>
 using namespace std;
 const char nl = '\n';
-bool isPowerof(long long num, long long base)
+/*bool isPowerof(long long num, long long base)
 {
-    if (num <= 0)
+    long double log_num = log10l(num) / log10l(base);
+    if (fabs(log_num - round(log_num)) < 0.00000000001)
+    {
+        return true;
+    }
+    else
+    {
         return false;
-    if (num % base == 0)
-        return isPowerof(num / base, base);
-    if (num == 1)
+    }
+}*/
+bool isPowerof(long long n, long long base)
+{
+    if (n <= 0)
+        return false;
+    if (n % base == 0)
+        return isPowerof(n / base, base);
+    if (n == 1)
         return true;
     return false;
 }
@@ -24,12 +36,12 @@ int main()
     cin >> T;
     while (T--)
     {
-        long long num = 1, base = 2;
+        long long num = 2, base = 2;
         cin >> num;
         if (isPowerof(num, base))
             cout << "NO" << nl;
         else
-            cout<< "YES" << nl;
+            cout << "YES" << nl;
     }
     return 0;
 }
