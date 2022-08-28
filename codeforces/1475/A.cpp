@@ -5,10 +5,11 @@
 #include <bits/stdc++.h>
 using namespace std;
 const char nl = '\n';
-/*bool isPowerof(long long num, long long base)
+bool isPowerof(long long num, long long base)
 {
-    long double log_num = log10l(num) / log10l(base);
-    if (fabs(log_num - round(log_num)) < 0.00000000001)
+    long double log_num =log(num) / log(base);
+    if (fabs(log_num - round(log_num)) < 0.000001)
+    //if difference is less than 10^-5 then they are same number
     {
         return true;
     }
@@ -16,16 +17,6 @@ const char nl = '\n';
     {
         return false;
     }
-}*/
-bool isPowerof(long long n, long long base)
-{
-    if (n <= 0)
-        return false;
-    if (n % base == 0)
-        return isPowerof(n / base, base);
-    if (n == 1)
-        return true;
-    return false;
 }
 int main()
 {
