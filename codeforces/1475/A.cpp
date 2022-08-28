@@ -14,9 +14,9 @@ bool isPowerof(long long num, long long base)
     }
     else
     {
-        /*if (floor(log_num) == ceil(log_num))
+        if (floor(log_num) == ceil(log_num))
             return true;
-        else*/
+        else
             return false;
     }
 }
