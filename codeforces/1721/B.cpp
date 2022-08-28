@@ -1,6 +1,7 @@
 #include <bits/stdc++.h>
 using namespace std;
 const char nl = '\n';
+
 int main()
 {
     ios_base::sync_with_stdio(0);
@@ -12,14 +13,21 @@ int main()
     {
         int n, m, sx, sy, d, ans;
         cin >> n >> m >> sx >> sy >> d;
-        ans=m+n-2;
-        if ((sy - d > 1) && (d + sx < n))
+        int flag1 = 0, flag2 = 0;
+
+        if ((sy > d + 1) && (n - sx > d))
         {
-            cout<<ans<<nl;
+            flag1 = 1;
         }
-        else if ((sx - d > 1) && (d + sy < m))
+        if ((sx > d + 1) && (m - sy) > d)
         {
-            cout<<ans<<nl;
+            flag2 = 1;
+        }
+
+        if (flag1 || flag2)
+        {
+            ans = abs(1 - n) + abs(1 - m);
+            cout << ans << nl;
         }
         else
         {
