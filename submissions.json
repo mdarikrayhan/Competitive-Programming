@@ -4107,6 +4107,22 @@
     ],
     "timestamp": "Aug/20/2022 19:35"
   },
+  "CF169928189": {
+    "contest_id": 1721,
+    "language": "GNU C++17",
+    "path": "codeforces/1721/B.cpp",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Deadly Laser",
+    "problem_url": "https://codeforces.com/contest/1721/problem/B",
+    "submission_id": "CF169928189",
+    "submission_url": "https://codeforces.com/contest/1721/submission/169928189",
+    "tags": [
+      "implementation",
+      "*1000"
+    ],
+    "timestamp": "Aug/28/2022 08:44"
+  },
   "CF169958418": {
     "contest_id": 1475,
     "language": "GNU C++17",
