@@ -5,20 +5,23 @@
 #include <bits/stdc++.h>
 using namespace std;
 const char nl = '\n';
-bool isPowerof(long long num, long long base)
+bool isPowerofN(long long num, long long base)
 {
     long double log_num = (long double)(log((long double)num) / log((long double)base));
+    int x, y;
     if (fabs(log_num - round(log_num)) < 0.000001)
     {
         return true;
     }
     else
     {
-        if (floor(log_num) == ceil(log_num))
-            return true;
-        else
-            return false;
+        x = floor(log_num);
     }
+    y = ceil(log_num);
+    if (x == y)
+        return true;
+    else
+        return false;
 }
 int main()
 {
@@ -31,7 +34,7 @@ int main()
     {
         long long num = 2, base = 2;
         cin >> num;
-        if (isPowerof(num, base))
+        if (isPowerofN(num, base))
             cout << "NO" << nl;
         else
             cout << "YES" << nl;
