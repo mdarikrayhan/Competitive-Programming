@@ -7,8 +7,8 @@ using namespace std;
 const char nl = '\n';
 bool isPowerof(long long num, long long base)
 {
-    long double log_num =log(num) / log(base);
-    if (fabs(log_num - round(log_num)) < 0.000001)//approximate and int are same while error is low
+    long double log_num = (long double)(log((long double)num) / log((long double)base));
+    if (fabs(log_num - round(log_num)) < 0.000001)
     {
         return true;
     }
