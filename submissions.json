@@ -4107,6 +4107,22 @@
     ],
     "timestamp": "Aug/20/2022 19:35"
   },
+  "CF170248217": {
+    "contest_id": 1722,
+    "language": "GNU C++17",
+    "path": "codeforces/1722/C.cpp",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Word Game",
+    "problem_url": "https://codeforces.com/contest/1722/problem/C",
+    "submission_id": "CF170248217",
+    "submission_url": "https://codeforces.com/contest/1722/submission/170248217",
+    "tags": [
+      "data structures",
+      "implementation"
+    ],
+    "timestamp": "Aug/30/2022 21:44"
+  },
   "CF170335137": {
     "contest_id": 1722,
     "language": "GNU C++17",
