@@ -12,6 +12,7 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | # | Title | Solution | Tags | Submitted |
 |---| ----- | -------- | ---- | --------- |
+192 | [D - Line](https://codeforces.com/contest/1722/problem/D) | [GNU C++17](./codeforces/1722/D.cpp) | `greedy` `sortings` | Aug/31/2022 07:54 | 
 191 | [A - Odd Divisor](https://codeforces.com/contest/1475/problem/A) | [GNU C++17](./codeforces/1475/A.cpp) | `math` `number theory` `*900` | Aug/20/2022 19:35 | 
 190 | [E - Sum of Remainders](https://codeforces.com/contest/616/problem/E) | [GNU C++17](./codeforces/616/E.cpp) | `implementation` `math` `number theory` `*2200` | Aug/20/2022 19:02 | 
 189 | [C - Corners](https://codeforces.com/contest/1720/problem/C) | [GNU C++17](./codeforces/1720/C.cpp) | `greedy` `implementation` | Aug/19/2022 13:09 | 
