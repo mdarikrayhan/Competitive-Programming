@@ -4506,5 +4506,22 @@
       "sortings"
     ],
     "timestamp": "Aug/31/2022 07:54"
+  },
+  "CF170637993": {
+    "contest_id": 1717,
+    "language": "GNU C++17",
+    "path": "codeforces/1717/B.cpp",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Madoka and Underground Competitions",
+    "problem_url": "https://codeforces.com/contest/1717/problem/B",
+    "submission_id": "CF170637993",
+    "submission_url": "https://codeforces.com/contest/1717/submission/170637993",
+    "tags": [
+      "constructive algorithms",
+      "greedy",
+      "*1100"
+    ],
+    "timestamp": "Sep/02/2022 22:12"
   }
 }
