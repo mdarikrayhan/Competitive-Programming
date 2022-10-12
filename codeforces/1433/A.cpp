@@ -124,10 +124,18 @@ int main()
     fastio
         multicase
     {
-        string s;
-        cin>>s;
-        int len=s.size(),sum=0;
-        sum=(s[0]-48-1)*10;
+        int n, sum = 0;
+        cin>>n;
+        int last = n % 10;
+        last--;
+        sum = 10 * last;
+        int len = 0;
+        
+        while (n > 0)
+        {
+            n /= 10;
+            len++;
+        }
         if(len==1){
             sum+=1;
         }
