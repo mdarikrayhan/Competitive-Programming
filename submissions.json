@@ -4852,5 +4852,23 @@
       "*1100"
     ],
     "timestamp": "Oct/13/2022 23:19"
+  },
+  "CF179451527": {
+    "contest_id": 381,
+    "language": "GNU C++17",
+    "path": "codeforces/381/A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Sereja and Dima",
+    "problem_url": "https://codeforces.com/contest/381/problem/A",
+    "submission_id": "CF179451527",
+    "submission_url": "https://codeforces.com/contest/381/submission/179451527",
+    "tags": [
+      "greedy",
+      "implementation",
+      "two pointers",
+      "*800"
+    ],
+    "timestamp": "Nov/05/2022 21:32"
   }
 }
