@@ -128,17 +128,19 @@ int main()
         cin >> n;
         if (n == 2)
         {
-            cout << 2 << ' ' << 1 << '\n';
+            cout << "2 1" << nl;
+            continue;
         }
-        else if (n == 3)
-            cout << -1 << '\n';
-        else
+        if (n == 3)
         {
-            cout << n - 1 << ' ' << n << ' ';
-            for (int i = 1; i < n - 1; i++)
-                cout << i << ' ';
-            cout << '\n';
+            cout << -1 << nl;
+            continue;
         }
+        for(int i=3;i<=n;i++)
+        {
+            cout << i << ' ';
+        }
+        cout << 1 << ' ' << 2 << nl;
     }
     return 0;
 }
