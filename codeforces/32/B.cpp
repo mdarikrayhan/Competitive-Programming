@@ -122,29 +122,28 @@ bool ckmax(T &a, const T &b) { return a < b ? a = b, 1 : 0; }
 int main()
 {
     fastio;
-    string s;
+    string s, ans;
     cin >> s;
-    int n = s.length();
-    string result;
-
-    for (int i = 0; i < n; i++)
+    int n = s.size(), i = 0;
+    while (i < n)
     {
-        if (i < n - 1 && s[i + 1] == '.' && s[i] == '-')
+        if (s[i] == '-' && s[i + 1] == '.')
         {
-            result.push_back('1');
-            i++;
+            ans += '1';
+            i += 2;
         }
-        else if (i < n - 1 && s[i + 1] == '-' && s[i] == '-')
+        else if (s[i] == '-' && s[i + 1] == '-')
         {
-            result.push_back('2');
-            i++;
+            ans += '2';
+            i += 2;
         }
-        else
+        else if (s[i] == '.')
         {
-            result.push_back('0');
+            ans += '0';
+            i++;
         }
     }
-    cout << result << endl;
+    cout << ans << nl;
 
     return 0;
 }
