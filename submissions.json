@@ -5711,6 +5711,23 @@
     ],
     "timestamp": "Nov/06/2022 17:44"
   },
+  "CF179980543": {
+    "contest_id": 1175,
+    "language": "GNU C++17",
+    "path": "codeforces/1175/A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "From Hero to Zero",
+    "problem_url": "https://codeforces.com/contest/1175/problem/A",
+    "submission_id": "CF179980543",
+    "submission_url": "https://codeforces.com/contest/1175/submission/179980543",
+    "tags": [
+      "implementation",
+      "math",
+      "*900"
+    ],
+    "timestamp": "Nov/07/2022 20:29"
+  },
   "CF180116389": {
     "contest_id": 1175,
     "language": "GNU C++17",
