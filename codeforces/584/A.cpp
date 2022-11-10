@@ -121,22 +121,26 @@ bool ckmax(T &a, const T &b) { return a < b ? a = b, 1 : 0; }
 
 int main()
 {
-    fastio int n, t;
+    fastio 
+    int n, t;
     cin >> n >> t;
     if (t == 10)
     {
         if (n == 1)
         {
             cout << -1 << nl;
+            return 0;
         }
-        else
-        {
+        else{
             cout << 1;
             for (int i = 0; i < n - 1; i++)
             {
                 cout << 0;
             }
+            cout << nl;
+            return 0;
         }
+
     }
     else
     {
@@ -144,6 +148,8 @@ int main()
         {
             cout << t;
         }
+        cout << nl;
+        return 0;
     }
     return 0;
 }
