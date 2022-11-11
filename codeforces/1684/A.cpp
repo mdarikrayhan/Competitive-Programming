@@ -134,7 +134,18 @@ int main()
         }
         if (v.size() == 2)
         {
-            cout<<v[1]<<nl;
+            if (v[0] < v[1])
+            {
+                cout << v[1] << nl;
+            }
+            else if (v[0] > v[1])
+            {
+                cout << v[1] << nl;
+            }
+            else
+            {
+                cout << v[0] << nl;
+            }
         }
         else
         {
