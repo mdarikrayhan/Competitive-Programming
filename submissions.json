@@ -5845,6 +5845,22 @@
     ],
     "timestamp": "Nov/10/2022 22:39"
   },
+  "CF180624190": {
+    "contest_id": 1748,
+    "language": "GNU C++17",
+    "path": "codeforces/1748/A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "The Ultimate Square",
+    "problem_url": "https://codeforces.com/contest/1748/problem/A",
+    "submission_id": "CF180624190",
+    "submission_url": "https://codeforces.com/contest/1748/submission/180624190",
+    "tags": [
+      "math",
+      "*800"
+    ],
+    "timestamp": "Nov/12/2022 20:52"
+  },
   "CF180700665": {
     "contest_id": 1748,
     "language": "GNU C++17",
