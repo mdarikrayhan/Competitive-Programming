@@ -5845,6 +5845,23 @@
     ],
     "timestamp": "Nov/10/2022 22:39"
   },
+  "CF181039214": {
+    "contest_id": 1612,
+    "language": "GNU C++17",
+    "path": "codeforces/1612/C.cpp",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Chat Ban",
+    "problem_url": "https://codeforces.com/contest/1612/problem/C",
+    "submission_id": "CF181039214",
+    "submission_url": "https://codeforces.com/contest/1612/submission/181039214",
+    "tags": [
+      "binary search",
+      "math",
+      "*1300"
+    ],
+    "timestamp": "Nov/15/2022 10:47"
+  },
   "CF181207036": {
     "contest_id": 1612,
     "language": "GNU C++17",
