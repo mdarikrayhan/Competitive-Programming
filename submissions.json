@@ -5845,6 +5845,24 @@
     ],
     "timestamp": "Nov/10/2022 22:39"
   },
+  "CF181778502": {
+    "contest_id": 1761,
+    "language": "GNU C++17",
+    "path": "codeforces/1761/B.cpp",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Elimination of a Ring",
+    "problem_url": "https://codeforces.com/contest/1761/problem/B",
+    "submission_id": "CF181778502",
+    "submission_url": "https://codeforces.com/contest/1761/submission/181778502",
+    "tags": [
+      "constructive algorithms",
+      "greedy",
+      "implementation",
+      "*1000"
+    ],
+    "timestamp": "Nov/20/2022 21:33"
+  },
   "CF181894989": {
     "contest_id": 1760,
     "language": "GNU C++17",
