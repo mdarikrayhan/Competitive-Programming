@@ -5845,6 +5845,24 @@
     ],
     "timestamp": "Nov/10/2022 22:39"
   },
+  "CF182140478": {
+    "contest_id": 1673,
+    "language": "GNU C++17",
+    "path": "codeforces/1673/A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Subtle Substring Subtraction",
+    "problem_url": "https://codeforces.com/contest/1673/problem/A",
+    "submission_id": "CF182140478",
+    "submission_url": "https://codeforces.com/contest/1673/submission/182140478",
+    "tags": [
+      "games",
+      "greedy",
+      "strings",
+      "*800"
+    ],
+    "timestamp": "Nov/22/2022 20:34"
+  },
   "CF182194197": {
     "contest_id": 1270,
     "language": "GNU C++17",
