@@ -52,12 +52,14 @@ int main() {
 fastio
 multicase
 {
-    ll n,x=0;
+    ll n;
     cin >> n;
+    ll a[n];
     rep(i,0,n)
     {
-        cin>>x;
+        cin >> a[i];
     }
+    ll ans = 0;
     cout<<1<<' '<<n<<nl;
 }
 return 0;
