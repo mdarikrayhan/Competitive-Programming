@@ -5845,6 +5845,23 @@
     ],
     "timestamp": "Nov/10/2022 22:39"
   },
+  "CF182966472": {
+    "contest_id": 1765,
+    "language": "GNU C++17",
+    "path": "codeforces/1765/K.cpp",
+    "platform": "Codeforces",
+    "problem_index": "K",
+    "problem_name": "Torus Path",
+    "problem_url": "https://codeforces.com/contest/1765/problem/K",
+    "submission_id": "CF182966472",
+    "submission_url": "https://codeforces.com/contest/1765/submission/182966472",
+    "tags": [
+      "greedy",
+      "math",
+      "*1500"
+    ],
+    "timestamp": "Nov/28/2022 10:12"
+  },
   "CF183018951": {
     "contest_id": 1760,
     "language": "GNU C++20 (64)",
