@@ -126,17 +126,33 @@ int main()
     {
         ll n;
         cin >> n;
-        int flag = 1;
+        if (n == 2)
+        {
+            cout << 1 << " " << 1 << nl;
+            continue;
+        }
+        if (n == 3)
+        {
+            cout << 1 << " " << 2 << nl;
+            continue;
+        }
+        if (n == 5)
+        {
+            cout << 1 << " " << 4 << nl;
+            continue;
+        }
+        int flag=1;
         for (ll i = 2; i * i <= n; i++)
         {
             if (n % i == 0)
             {
                 cout << n / i << ' ' << n - (n / i) << nl;
-                flag = 0;
+                flag=0;
                 break;
+                
             }
         }
-        if (flag)
+        if(flag)
         {
             cout << 1 << ' ' << n - 1 << nl;
         }

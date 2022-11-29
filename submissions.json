@@ -5845,6 +5845,23 @@
     ],
     "timestamp": "Nov/10/2022 22:39"
   },
+  "CF183157485": {
+    "contest_id": 1765,
+    "language": "GNU C++20 (64)",
+    "path": "codeforces/1765/M.cpp",
+    "platform": "Codeforces",
+    "problem_index": "M",
+    "problem_name": "Minimum LCM",
+    "problem_url": "https://codeforces.com/contest/1765/problem/M",
+    "submission_id": "CF183157485",
+    "submission_url": "https://codeforces.com/contest/1765/submission/183157485",
+    "tags": [
+      "math",
+      "number theory",
+      "*1000"
+    ],
+    "timestamp": "Nov/29/2022 14:50"
+  },
   "CF183157626": {
     "contest_id": 1765,
     "language": "GNU C++20 (64)",
