@@ -5845,6 +5845,24 @@
     ],
     "timestamp": "Nov/10/2022 22:39"
   },
+  "CF183337765": {
+    "contest_id": 1765,
+    "language": "GNU C++20 (64)",
+    "path": "codeforces/1765/L.cpp",
+    "platform": "Codeforces",
+    "problem_index": "L",
+    "problem_name": "Project Manager",
+    "problem_url": "https://codeforces.com/contest/1765/problem/L",
+    "submission_id": "CF183337765",
+    "submission_url": "https://codeforces.com/contest/1765/submission/183337765",
+    "tags": [
+      "brute force",
+      "data structures",
+      "implementation",
+      "*2400"
+    ],
+    "timestamp": "Nov/30/2022 15:15"
+  },
   "CF183473198": {
     "contest_id": 1765,
     "language": "GNU C++20 (64)",
