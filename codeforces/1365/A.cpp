@@ -158,7 +158,8 @@ int main()
                 col++;
             }
         }
-        if (min(row, col) % 2 == 0)
+        int ans = min(row, col);
+        if (ans % 2 == 0)
         {
             cout << "Vivek" << nl;
         }
