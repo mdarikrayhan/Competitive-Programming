@@ -129,10 +129,17 @@ int main()
         int a[n][m];
         rep(i, 0, n)
         {
-            int flag = 0;
             rep(j, 0, m)
             {
                 cin >> a[i][j];
+            }
+        }
+        for (int i = 0; i < n; i++)
+        {
+            int flag = 0;
+            for (int j = 0; j < m; j++)
+            {
+
                 if (a[i][j] == 1)
                 {
                     flag = 1;
