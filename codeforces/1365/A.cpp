@@ -124,12 +124,12 @@ int main()
     fastio
         multicase
     {
-        int n, m, row = 0, col = 0, flag = 0;
+        int n, m, row = 0, col = 0;
         cin >> n >> m;
-        int a[52][52];
+        int a[n][m];
         rep(i, 0, n)
         {
-            flag = 0;
+            int flag = 0;
             rep(j, 0, m)
             {
                 cin >> a[i][j];
@@ -145,7 +145,7 @@ int main()
         }
         for (int i = 0; i < m; i++)
         {
-            flag = 0;
+            int flag = 0;
             for (int j = 0; j < n; j++)
             {
                 if (a[j][i] == 1)
