@@ -12,7 +12,14 @@ int32_t main()
         }
         else
         {
-            printf("%d\n", (n + a - 1) / a);
+            if (n % a == 0)
+            {
+                printf("%d\n", n / a);
+            }
+            else
+            {
+                printf("%d\n", n / a + 1);
+            }
         }
     }
     return 0;
