@@ -124,31 +124,43 @@ int main()
     fastio
         multicase
     {
-        int n, ls = 1, ans1 = 2, ans2 = 1, chk = 0;
+        int n;
         string s;
         cin >> n;
         cin >> s;
-
-        if (n & 1 == 1)
-        {
-            ls = 0;
-            ans1 = 1;
-            ans2 = 2;
-            chk = 1;
-        }
-        int flag = 1;
-        for (int i = ls; i < n; i = i + 2)
-        {
-            if ((s[i] - '0') % 2 == chk)
+        if (n % 2 == 0)
+        { // even odd same number
+          // last position will be even
+            int flag = 0;
+            for (int i = 1; i < n; i=i+2)
             {
-                flag = 0;
-                cout << ans1 << nl;
-                break;
+                if ((s[i] - '0') % 2 == 0)
+                {
+                    flag = 1;
+                    cout<<2<<nl;
+                    break;
+                }
+            }
+            if (flag == 0)
+            {
+                cout<<1<<nl;
             }
         }
-        if (flag)
-        {
-            cout << ans2 << nl;
+        else{
+            int flag = 0;
+            for (int i = 0; i < n; i=i+2)
+            {
+                if ((s[i] - '0') % 2 == 1)
+                {
+                    flag = 1;
+                    cout<<1<<nl;
+                    break;
+                }
+            }
+            if (flag == 0)
+            {
+                cout<<2<<nl;
+            }
         }
     }
     return 0;
