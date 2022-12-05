@@ -1,24 +1,33 @@
-#include <iostream>
-int32_t main()
+/***************************************************/
+/*            Author : Md. Arik Rayhan             */
+/*        Github : github.com/mdarikrayhan         */
+/***************************************************/
+#include <bits/stdc++.h>
+using namespace std;
+const char nl = '\n';
+int main()
 {
+    ios_base::sync_with_stdio(false);
+    cin.tie(NULL);
+    cout.tie(NULL);
     int t, n, a, b;
-    scanf("%d", &t);
+    cin >> t;
     while (t--)
     {
-        scanf("%d %d %d", &n, &a, &b);
+        cin >> n >> a >> b;
         if (a > b)
         {
-            printf("1\n");
+            cout << 1 << nl;
         }
         else
         {
             if (n % a == 0)
             {
-                printf("%d\n", n / a);
+                cout << n / a << nl;
             }
             else
             {
-                printf("%d\n", n / a + 1);
+                cout << n / a + 1 << nl;
             }
         }
     }
