@@ -19,13 +19,13 @@ int main()
             odd++;
         }
     }
-    if (odd)
+    if (odd == 0)
     {
-        cout << "First" << '\n';
+        cout << "Second" << '\n';
     }
     else
     {
-        cout << "Second" << '\n';
+        cout << "First" << '\n';
     }
     return 0;
 }
