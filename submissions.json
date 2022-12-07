@@ -6908,6 +6908,23 @@
     ],
     "timestamp": "Dec/07/2022 09:41"
   },
+  "CF184161731": {
+    "contest_id": 705,
+    "language": "GNU C++20 (64)",
+    "path": "codeforces/705/B.cpp",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Spider Man",
+    "problem_url": "https://codeforces.com/contest/705/problem/B",
+    "submission_id": "CF184161731",
+    "submission_url": "https://codeforces.com/contest/705/submission/184161731",
+    "tags": [
+      "games",
+      "math",
+      "*1100"
+    ],
+    "timestamp": "Dec/07/2022 10:15"
+  },
   "CF184356544": {
     "contest_id": 1759,
     "language": "GNU C++20 (64)",
