@@ -13,6 +13,7 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | # | Title | Solution | Tags | Submitted |
 |---| ----- | -------- | ---- | --------- |
+308 | [C - Ping-pong](https://codeforces.com/contest/1455/problem/C) | [GNU C++20 (64)](./codeforces/1455/C.cpp) | `constructive algorithms` `games` `math` `*1100` | Dec/07/2022 08:38 | 
 307 | [B - Sequential Nim](https://codeforces.com/contest/1382/problem/B) | [GNU C++20 (64)](./codeforces/1382/B.cpp) | `dp` `games` `*1100` | Dec/07/2022 08:24 | 
 306 | [E - Exchange](https://codeforces.com/contest/1765/problem/E) | [GNU C++20 (64)](./codeforces/1765/E.cpp) | `brute force` `math` `*1000` | Dec/06/2022 01:28 | 
 305 | [B - Dinner with Emma](https://codeforces.com/contest/616/problem/B) | [GNU C++20 (64)](./codeforces/616/B.cpp) | `games` `greedy` `*1000` | Dec/05/2022 17:58 | 
