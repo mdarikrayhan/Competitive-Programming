@@ -13,10 +13,11 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | # | Title | Solution | Tags | Submitted |
 |---| ----- | -------- | ---- | --------- |
-313 | [B - Lost Permutation](https://codeforces.com/contest/1759/problem/B) | [GNU C++20 (64)](./codeforces/1759/B.cpp) | `math` `*800` | Dec/10/2022 23:37 | 
-312 | [A - Count Down](https://atcoder.jp/contests/abc281/tasks/abc281_a) | [C++ (GCC 9.2.1)](./atcoder/abc281/A.cpp) | `AtCoder` `*100` | Dec/10/2022 23:25 | 
-311 | [A - Polycarp and Coins](https://codeforces.com/contest/1551/problem/A) | [GNU C++20 (64)](./codeforces/1551/A.cpp) | `greedy` `math` `*800` | Dec/09/2022 22:06 | 
-310 | [C - Ping-pong](https://codeforces.com/contest/1455/problem/C) | [GNU C++20 (64)](./codeforces/1455/C.cpp) | `constructive algorithms` `games` `math` `*1100` | Dec/09/2022 21:55 | 
+314 | [B - Lost Permutation](https://codeforces.com/contest/1759/problem/B) | [GNU C++20 (64)](./codeforces/1759/B.cpp) | `math` `*800` | Dec/10/2022 23:37 | 
+313 | [A - Count Down](https://atcoder.jp/contests/abc281/tasks/abc281_a) | [C++ (GCC 9.2.1)](./atcoder/abc281/A.cpp) | `AtCoder` `*100` | Dec/10/2022 23:25 | 
+312 | [A - Polycarp and Coins](https://codeforces.com/contest/1551/problem/A) | [GNU C++20 (64)](./codeforces/1551/A.cpp) | `greedy` `math` `*800` | Dec/09/2022 22:06 | 
+311 | [C - Ping-pong](https://codeforces.com/contest/1455/problem/C) | [GNU C++20 (64)](./codeforces/1455/C.cpp) | `constructive algorithms` `games` `math` `*1100` | Dec/09/2022 21:55 | 
+310 | [A - Yes-Yes?](https://codeforces.com/contest/1759/problem/A) | [GNU C++20 (64)](./codeforces/1759/A.cpp) | `implementation` `strings` `*800` | Dec/08/2022 22:33 | 
 309 | [B - PolandBall and Game](https://codeforces.com/contest/755/problem/B) | [GNU C++20 (64)](./codeforces/755/B.cpp) | `binary search` `data structures` `games` `greedy` `sortings` `strings` `*1100` | Dec/07/2022 09:41 | 
 308 | [B - Godsend](https://codeforces.com/contest/841/problem/B) | [GNU C++20 (64)](./codeforces/841/B.cpp) | `games` `math` `*1100` | Dec/07/2022 08:55 | 
 307 | [B - Sequential Nim](https://codeforces.com/contest/1382/problem/B) | [GNU C++20 (64)](./codeforces/1382/B.cpp) | `dp` `games` `*1100` | Dec/07/2022 08:24 | 
