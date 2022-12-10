@@ -6907,5 +6907,21 @@
       "*1100"
     ],
     "timestamp": "Dec/07/2022 09:41"
+  },
+  "CF184607846": {
+    "contest_id": 1759,
+    "language": "GNU C++20 (64)",
+    "path": "codeforces/1759/B.cpp",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Lost Permutation",
+    "problem_url": "https://codeforces.com/contest/1759/problem/B",
+    "submission_id": "CF184607846",
+    "submission_url": "https://codeforces.com/contest/1759/submission/184607846",
+    "tags": [
+      "math",
+      "*800"
+    ],
+    "timestamp": "Dec/10/2022 23:37"
   }
 }
