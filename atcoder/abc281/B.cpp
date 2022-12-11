@@ -24,8 +24,12 @@ int main()
         cout << "No" << nl;
         return 0;
     }
-
-    if (isupper(first) && isupper(last) && num >= 100000 && num <= 999999&&n==8)
+    if (n != 8)
+    {
+        cout << "No" << nl;
+        return 0;
+    }
+    if (isupper(first) && isupper(last) && num >= 100000 && num <= 999999)
     {
         cout << "Yes" << nl;
     }

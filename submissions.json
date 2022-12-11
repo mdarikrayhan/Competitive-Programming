@@ -111,6 +111,22 @@
     ],
     "timestamp": "Dec/10/2022 23:25"
   },
+  "AC37197216": {
+    "contest_id": "abc281",
+    "language": "C++ (GCC 9.2.1)",
+    "path": "atcoder/abc281/B.cpp",
+    "platform": "AtCoder",
+    "problem_index": "B",
+    "problem_name": "Sandwich Number",
+    "problem_url": "https://atcoder.jp/contests/abc281/tasks/abc281_b",
+    "submission_id": "AC37197216",
+    "submission_url": "https://atcoder.jp/contests/abc281/submissions/37197216",
+    "tags": [
+      "AtCoder",
+      "*200"
+    ],
+    "timestamp": "Dec/11/2022 07:47"
+  },
   "AC37197283": {
     "contest_id": "abc281",
     "language": "C++ (GCC 9.2.1)",
