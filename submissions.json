@@ -6993,6 +6993,22 @@
     ],
     "timestamp": "Dec/10/2022 23:37"
   },
+  "CF185477621": {
+    "contest_id": 1767,
+    "language": "GNU C++20 (64)",
+    "path": "codeforces/1767/A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Cut the Triangle",
+    "problem_url": "https://codeforces.com/contest/1767/problem/A",
+    "submission_id": "CF185477621",
+    "submission_url": "https://codeforces.com/contest/1767/submission/185477621",
+    "tags": [
+      "implementation",
+      "*800"
+    ],
+    "timestamp": "Dec/16/2022 20:46"
+  },
   "CF185503372": {
     "contest_id": 1767,
     "language": "GNU C++20 (64)",
