@@ -13,11 +13,12 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | # | Title | Solution | Tags | Submitted |
 |---| ----- | -------- | ---- | --------- |
-330 | [A - Hall of Fame](https://codeforces.com/contest/1779/problem/A) | [GNU C++20 (64)](./codeforces/1779/A.cpp) | `constructive algorithms` `greedy` `strings` `*800` | Jan/03/2023 21:03 | 
-329 | [A - Koxia and Whiteboards](https://codeforces.com/contest/1770/problem/A) | [GNU C++20 (64)](./codeforces/1770/A.cpp) | `brute force` `greedy` `*1000` | Dec/30/2022 21:54 | 
-328 | [B - Matrix Rotation](https://codeforces.com/contest/1772/problem/B) | [GNU C++20 (64)](./codeforces/1772/B.cpp) | `brute force` `implementation` `*800` | Dec/18/2022 20:43 | 
-327 | [A - A+B?](https://codeforces.com/contest/1772/problem/A) | [GNU C++20 (64)](./codeforces/1772/A.cpp) | `implementation` `*800` | Dec/18/2022 20:36 | 
-326 | [C - Ice and Fire](https://codeforces.com/contest/1774/problem/C) | [GNU C++20 (64)](./codeforces/1774/C.cpp) | `constructive algorithms` `dp` `greedy` `*1300` | Dec/17/2022 22:17 | 
+331 | [A - Hall of Fame](https://codeforces.com/contest/1779/problem/A) | [GNU C++20 (64)](./codeforces/1779/A.cpp) | `constructive algorithms` `greedy` `strings` `*800` | Jan/03/2023 21:03 | 
+330 | [A - Koxia and Whiteboards](https://codeforces.com/contest/1770/problem/A) | [GNU C++20 (64)](./codeforces/1770/A.cpp) | `brute force` `greedy` `*1000` | Dec/30/2022 21:54 | 
+329 | [B - Matrix Rotation](https://codeforces.com/contest/1772/problem/B) | [GNU C++20 (64)](./codeforces/1772/B.cpp) | `brute force` `implementation` `*800` | Dec/18/2022 20:43 | 
+328 | [A - A+B?](https://codeforces.com/contest/1772/problem/A) | [GNU C++20 (64)](./codeforces/1772/A.cpp) | `implementation` `*800` | Dec/18/2022 20:36 | 
+327 | [C - Ice and Fire](https://codeforces.com/contest/1774/problem/C) | [GNU C++20 (64)](./codeforces/1774/C.cpp) | `constructive algorithms` `dp` `greedy` `*1300` | Dec/17/2022 22:17 | 
+326 | [A - Add Plus Minus Sign](https://codeforces.com/contest/1774/problem/A) | [GNU C++20 (64)](./codeforces/1774/A.cpp) | `constructive algorithms` `math` `*800` | Dec/17/2022 20:44 | 
 325 | [B - Block Towers](https://codeforces.com/contest/1767/problem/B) | [GNU C++20 (64)](./codeforces/1767/B.cpp) | `data structures` `greedy` `sortings` `*800` | Dec/16/2022 21:19 | 
 324 | [A - Cut the Triangle](https://codeforces.com/contest/1767/problem/A) | [GNU C++20 (64)](./codeforces/1767/A.cpp) | `implementation` `*800` | Dec/16/2022 20:46 | 
 323 | [B - Make Array Good](https://codeforces.com/contest/1762/problem/B) | [GNU C++20 (64)](./codeforces/1762/B.cpp) | `constructive algorithms` `implementation` `number theory` `sortings` `*1100` | Dec/15/2022 23:04 | 
