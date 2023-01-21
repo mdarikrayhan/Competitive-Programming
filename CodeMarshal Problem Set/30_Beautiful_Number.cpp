@@ -48,3 +48,38 @@ int main()
     }
     return 0;
 }
+/*
+A certain strange mathematician, Rasyak, considers a particular set of prime numbers 
+beautiful. He also calls a composite number beautiful, if it is divisible by at least 
+one prime number in his chosen set of beautiful primes. Given Rasyak’s set of M beautiful 
+primes and an integer N, you have to find the number of beautiful numbers (both primes 
+and composites) between 1 and N. For example, given a set of 2 beautiful primes, {2, 5}, 
+there are 6 beautiful numbers between 1 and 10 (i.e. 2, 4, 5, 6, 8 and 10).
+
+Input
+
+The first line of the input gives the number of test cases, T (1 <= T <= 100). 
+T test cases follow. Each will consist of one line containing a single integer M, 
+followed by a line containing M space-separated prime numbers mi, followed by 
+another line containing a single integer N. 
+
+Output
+
+For each test case, output one line containing a single integer X, where X is the number 
+of beautiful numbers between 1 and N.
+
+Input	         Output
+3                
+
+2               6
+2 5
+10
+
+3                63
+2 5 13
+100
+
+25               1759360857
+2 3 5 7 11 13 17 19 23 29 31 37 41 43 47 53 59 61 67 71 73 79 83 89 97
+2000000000
+*/
