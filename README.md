@@ -6,6 +6,7 @@ Submissions
 
 A repository to keep track of problem solving practice, containing solutions from platforms:
 * Codeforces &nbsp; [![Codeforces](https://run.kaist.ac.kr/badges/codeforces/hexcreed404.svg)](https://codeforces.com/profile/hexcreed404)
+* Codeforces &nbsp; [![Codeforces Old](https://run.kaist.ac.kr/badges/codeforces/mdarikrayhan.svg)](https://codeforces.com/profile/mdarikrayhan)
 * AtCoder &nbsp; [![AtCoder](https://run.kaist.ac.kr/badges/atcoder/mdarikrayhan.svg)](https://atcoder.jp/users/mdarikrayhan)
 
 
