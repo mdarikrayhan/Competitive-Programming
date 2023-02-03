@@ -7316,6 +7316,23 @@
     ],
     "timestamp": "Jan/21/2023 17:13"
   },
+  "CF191863801": {
+    "contest_id": 1791,
+    "language": "GNU C++20 (64)",
+    "path": "codeforces/1791/B.cpp",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Following Directions",
+    "problem_url": "https://codeforces.com/contest/1791/problem/B",
+    "submission_id": "CF191863801",
+    "submission_url": "https://codeforces.com/contest/1791/submission/191863801",
+    "tags": [
+      "geometry",
+      "implementation",
+      "*800"
+    ],
+    "timestamp": "Feb/03/2023 20:40"
+  },
   "CF191876643": {
     "contest_id": 1791,
     "language": "GNU C++20 (64)",
