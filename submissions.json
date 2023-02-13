@@ -7473,6 +7473,23 @@
     ],
     "timestamp": "Feb/06/2023 21:40"
   },
+  "CF193506337": {
+    "contest_id": 1793,
+    "language": "GNU C++20 (64)",
+    "path": "codeforces/1793/A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Yet Another Promotion",
+    "problem_url": "https://codeforces.com/contest/1793/problem/A",
+    "submission_id": "CF193506337",
+    "submission_url": "https://codeforces.com/contest/1793/submission/193506337",
+    "tags": [
+      "greedy",
+      "math",
+      "*800"
+    ],
+    "timestamp": "Feb/13/2023 23:43"
+  },
   "CF193506377": {
     "contest_id": 1793,
     "language": "GNU C++20 (64)",
