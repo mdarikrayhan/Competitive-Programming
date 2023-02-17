@@ -1,31 +1,24 @@
-#include <stdio.h>
-#include <stdlib.h>
-
+#include <bits/stdc++.h>
+using namespace std;
+const char nl = '\n';
 int main()
 {
-    int w;
-    scanf("%d",&w);
-    if(w==2){
-        printf("NO");
+    ios_base::sync_with_stdio(false);
+    cin.tie(NULL);
+    cout.tie(NULL);
+    long long n;
+    cin >> n;
+    if (n == 2)
+    {
+        cout << "NO" << nl;
     }
-    else if(w >=1){
-            if(w<=100){
-    int m;
-    m=(w%2);
-    if(m==0){
-        printf("YES");
+    else if (n % 2 == 0)
+    {
+        cout << "YES" << nl;
     }
-    else{
-        printf("NO");
-    }
-
-            }
-    else {
-    printf("NO");
-    }
-    }
-    else{
-    printf("NO");
+    else
+    {
+        cout << "NO" << nl;
     }
     return 0;
 }
