@@ -7665,6 +7665,23 @@
     ],
     "timestamp": "Feb/17/2023 21:39"
   },
+  "CF195659640": {
+    "contest_id": 1800,
+    "language": "PyPy 3-64",
+    "path": "codeforces/1800/B.py",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Count the Number of Pairs",
+    "problem_url": "https://codeforces.com/contest/1800/problem/B",
+    "submission_id": "CF195659640",
+    "submission_url": "https://codeforces.com/contest/1800/submission/195659640",
+    "tags": [
+      "greedy",
+      "strings",
+      "*1000"
+    ],
+    "timestamp": "Mar/02/2023 21:51"
+  },
   "CF195661953": {
     "contest_id": 1800,
     "language": "GNU C++20 (64)",
