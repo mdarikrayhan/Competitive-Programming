@@ -1,17 +1,23 @@
-#include <iostream>
+#include <bits/stdc++.h>
 using namespace std;
+const char nl = '\n';
 int main()
 {
-    int i=0, x=0, y=0, z=0, count=0;
-    cin >> i;
-    while (i)
+ios_base::sync_with_stdio(false);
+cin.tie(NULL);
+cout.tie(NULL);
+int T = 1,cnt=0;
+cin >> T;
+for (int i = 1; i <= T; i++)
+{
+    int a,b,c;
+    cin>>a>>b>>c;
+    int sum=a+b+c;
+    if(sum>=2)
     {
-        cin >> x >> y >> z;
-        if ((x + y + z) >= 2)
-        {
-            count++;
-        }
-        i--;
+        cnt++;
     }
-    cout<<count;
+}
+cout<<cnt<<nl;
+return 0;
 }
