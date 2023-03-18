@@ -1,23 +1,24 @@
-#include <iostream>
+#include <bits/stdc++.h>
 using namespace std;
+const char nl = '\n';
 int main()
 {
-    int n,n2,x=0,max=0;
+    ios_base::sync_with_stdio(false);
+    cin.tie(NULL);
+    cout.tie(NULL);
+    int n;
     cin >> n;
-    n2=n*2;
-    int arr[n2];
-    int sum[n];
-    for (int i = 0; i < n2; i++)
+    int max = INT_MIN;
+    int sum = 0,a,b;
+    for (int i = 0; i < n; i++)
     {
-    cin >> arr[i];  
+        cin >> a >> b;
+        sum = sum - a + b;
+        if (sum > max)
+        {
+            max = sum;
+        }
     }
-     for (int i = 0; i < n2; i=i+2)
-    {
-    x=x-arr[i]+arr[i+1];
-    if(x>max){
-        max=x;
-    }
-    }
-    cout<<max;
-
+    cout << max << nl;
+    return 0;
 }
