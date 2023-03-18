@@ -1,62 +1,29 @@
-#include <iostream>
-#include <string>
-#include <cstring>
+#include <bits/stdc++.h>
 using namespace std;
+const char nl = '\n';
 int main()
 {
-    char ch[150];
-    int i, l, c1 = 0, c2 = 0, c3 = 0;
-    gets(ch);
-    l = strlen(ch);
-    for (i = 0; i < l; i++)
+    ios_base::sync_with_stdio(false);
+    cin.tie(NULL);
+    cout.tie(NULL);
+    string s;
+    cin >> s;
+    int n = s.length();
+    vector<int> v;
+    for (int i = 0; i < n; i++)
     {
-        if (ch[i] == '1')
+        if (s[i] != '+')
         {
-            c1++;
-        }
-        else if (ch[i] == '2')
-        {
-            c2++;
-        }
-        else if (ch[i] == '3')
-        {
-            c3++;
+            v.push_back(s[i] - '0');
         }
     }
-    for (i = 0; i < c1; i++)
+    sort(v.begin(), v.end());
+    for (int i = 0; i < v.size(); i++)
     {
-        cout << '1';
-        if ((c2 == 0 && c3 == 0) && i == c1 - 1)
+        cout << v[i];
+        if (i != v.size() - 1)
         {
-            cout << endl;
-        }
-        else
-        {
-            cout << '+';
-        }
-    }
-    for (i = 0; i < c2; i++)
-    {
-        cout << '2';
-        if (i == c2 - 1 && c3 == 0)
-        {
-            cout << endl;
-        }
-        else
-        {
-            cout << '+';
-        }
-    }
-    for (i = 0; i < c3; i++)
-    {
-        cout << '3';
-        if (i == c3 - 1)
-        {
-            cout << endl;
-        }
-        else
-        {
-            cout << '+';
+            cout << "+";
         }
     }
     return 0;
