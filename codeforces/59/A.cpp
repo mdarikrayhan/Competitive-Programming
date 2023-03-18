@@ -1,30 +1,33 @@
-#include <iostream>
+#include <bits/stdc++.h>
 using namespace std;
-int main(){
+const char nl = '\n';
+int main()
+{
+    ios_base::sync_with_stdio(false);
+    cin.tie(NULL);
+    cout.tie(NULL);
     string s;
-    cin>>s;
-    int u=0,l=0;
-    for ( int i=0;i<s.length();i++){
-        if(s[i]>96){
-       l++;
+    cin >> s;
+    int n = s.length();
+    int lcase = 0,ucase=0;
+    for (int i = 0; i < n; i++)
+    {
+        if (s[i] >= 'a' && s[i] <= 'z')
+        {
+            lcase++;
         }
-        else{
-        u++;
+        else
+        {
+            ucase++;
+        }
     }
+    if(ucase>lcase){
+        transform(s.begin(), s.end(), s.begin(), ::toupper);
+        cout<<s<<nl;
     }
-
-     if(u<=l){
-        for ( int i=0;i<s.length();i++){
-        if(s[i]<91){
-        s[i]=s[i]+32;
-        }}    
+    else{
+        transform(s.begin(), s.end(), s.begin(), ::tolower);
+        cout<<s<<nl;
     }
-        else{
-        for ( int i=0;i<s.length();i++){
-        if(s[i]>96){
-        s[i]=s[i]-32;
-        }}    
-    }
-    cout<<s;
-
+    return 0;
 }
