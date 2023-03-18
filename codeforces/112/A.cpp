@@ -1,22 +1,26 @@
-#include <iostream>
-#include <algorithm>
+#include <bits/stdc++.h>
 using namespace std;
-string a, b;
-int main() {
-    cin >> a >> b;
-    for (int i = 0; i < a.size(); i++) {
-        if (a[i] < 92) {
-            a[i] += 32;
-        }
-        if (b[i] < 92) {
-            b[i] += 32;
-        }
+const char nl = '\n';
+int main()
+{
+    ios_base::sync_with_stdio(false);
+    cin.tie(NULL);
+    cout.tie(NULL);
+    string s1, s2;
+    cin >> s1 >> s2;
+    transform(s1.begin(), s1.end(), s1.begin(), ::tolower);
+    transform(s2.begin(), s2.end(), s2.begin(), ::tolower);
+    if (s1 == s2)
+    {
+        cout << "0" << nl;
     }
-    if (a < b) {
-        cout << -1;
-    } else if (a > b) {
-        cout << 1;
-    } else if (a == b) {
-        cout << 0;
+    else if (s1 < s2)
+    {
+        cout << "-1" << nl;
     }
+    else
+    {
+        cout << "1" << nl;
+    }
+    return 0;
 }
