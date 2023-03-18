@@ -1,28 +1,27 @@
-#include <iostream>
-#include <string>
+#include <bits/stdc++.h>
 using namespace std;
+const char nl = '\n';
 int main()
 {
-    int n, x = 0;
-    string ch,xp1("X++"),xp2("++X");
-    cin >> n;
-    if (n >= 1 && n <= 150)
+    ios_base::sync_with_stdio(false);
+    cin.tie(NULL);
+    cout.tie(NULL);
+    int T = 1;
+    cin >> T;
+    long long ans = 0;
+    for (int i = 1; i <= T; i++)
     {
-        while (n)
+        string s;
+        cin >> s;
+        if (s == "++X" || s == "X++")
         {
-            cin>>ch;
-            
-            if (ch.compare(xp1)==0 || ch.compare(xp2)==0 )
-            {
-                x++;
-            }
-            else
-            {
-                x--;
-            }
-
-            n--;
+            ans++;
+        }
+        else
+        {
+            ans--;
         }
     }
-    cout<<x;
+    cout << ans << nl;
+    return 0;
 }
