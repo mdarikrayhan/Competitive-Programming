@@ -1,39 +1,26 @@
-#include <iostream>
+#include <bits/stdc++.h>
 using namespace std;
+const char nl = '\n';
 int main()
 {
-    int i, j, x, y, arr[5][5];
-    for (i = 0; i < 5; i++)
+    ios_base::sync_with_stdio(false);
+    cin.tie(NULL);
+    cout.tie(NULL);
+    int a[6][6];
+    int x, y;
+    for (int i = 1; i <= 5; i++)
     {
-        for (j = 0; j < 5; j++)
+        for (int j = 1; j <= 5; j++)
         {
-            cin >> arr[i][j];
-        }
-    }
-    for (i = 0; i < 5; i++)
-    {
-        for (j = 0; j < 5; j++)
-        {
-            if (arr[i][j] == 1)
+            cin >> a[i][j];
+            if (a[i][j] == 1)
             {
-                if (i <= 2)
-                {
-                    x = 2 - i;
-                }
-                else if (i > 2)
-                {
-                    x = i - 2;
-                }
-                if (j <= 2)
-                {
-                    y = 2 - j;
-                }
-                else if (j > 2)
-                {
-                    y = j - 2;
-                }
-                cout << x + y;
+                x = i;
+                y = j;
             }
         }
     }
+    int ans = abs(x - 3) + abs(y - 3);
+    cout << ans << nl;
+    return 0;
 }
