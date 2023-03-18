@@ -1,33 +1,23 @@
-#include <iostream>
+#include <bits/stdc++.h>
 using namespace std;
+const char nl = '\n';
 int main()
 {
-    int count, pos = 1;
+    ios_base::sync_with_stdio(false);
+    cin.tie(NULL);
+    cout.tie(NULL);
     string s;
     cin >> s;
-    int n = s.size();
-    for (int i = 0; i < n; i++)
+    unordered_set<char> st;
+    for (int i = 0; i < s.length(); i++)
     {
-        for (int j = 0; j < i; j++)
-        {
-            if (s[i] == s[j])
-            {
-                count++;
-            }
-        }
-        if (count == 0)
-        {
-            pos++;
-        }
-        count = 0;
+        st.insert(s[i]);
     }
-
-    if (pos % 2 == 0)
-    {
-        cout << "IGNORE HIM!";
+    if(st.size()%2==0){
+        cout<<"CHAT WITH HER!"<<nl;
     }
-    else
-    {
-        cout << "CHAT WITH HER!";
+    else{
+        cout<<"IGNORE HIM!"<<nl;
     }
+    return 0;
 }
