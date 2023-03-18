@@ -1,27 +1,29 @@
-#include <iostream>
-
+#include <bits/stdc++.h>
 using namespace std;
-
+const char nl = '\n';
 int main()
 {
-    long long n;
-    cin >> n;
+    ios_base::sync_with_stdio(false);
+    cin.tie(NULL);
+    cout.tie(NULL);
+    string s;
+    cin >> s;
+    int n = s.length();
     int count = 0;
-    while (n != 0)
+    for (int i = 0; i < n; i++)
     {
-        if (n % 10 == 4 || n % 10 == 7)
+        if (s[i] == '4' || s[i] == '7')
         {
-            count += 1;
+            count++;
         }
-        n /= 10;
     }
     if (count == 4 || count == 7)
     {
-        cout << "YES" << endl;
+        cout << "YES" << nl;
     }
     else
     {
-        cout << "NO" << endl;
+        cout << "NO" << nl;
     }
     return 0;
 }
