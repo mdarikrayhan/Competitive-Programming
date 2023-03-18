@@ -1,14 +1,19 @@
-#include <iostream>
+#include <bits/stdc++.h>
 using namespace std;
+const char nl = '\n';
 int main()
 {
-    int a, b,n=0;
+    ios_base::sync_with_stdio(false);
+    cin.tie(NULL);
+    cout.tie(NULL);
+    int a, b, year = 0;
     cin >> a >> b;
     while (a <= b)
     {
-        a = 3 * a;
-        b = 2 * b;
-        n++;
+        a *= 3;
+        b *= 2;
+        year++;
     }
-    cout<<n;
+    cout << year << nl;
+    return 0;
 }
