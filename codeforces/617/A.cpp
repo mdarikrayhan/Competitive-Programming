@@ -1,37 +1,42 @@
-#include <iostream>
+#include <bits/stdc++.h>
 using namespace std;
+const char nl = '\n';
 int main()
 {
-    int x, s = 0;
-    cin >> x;
-    while (x)
+    ios_base::sync_with_stdio(false);
+    cin.tie(NULL);
+    cout.tie(NULL);
+    int n;
+    cin >> n;
+    int ans = 0;
+    while (n>=5)
     {
-        if (x >= 5)
-        {
-            x = x - 5;
-            s++;
-        }
-        else if (x >= 4)
-        {
-            x = x - 4;
-            s++;
-        }
-        else if (x >= 3)
-        {
-            x = x - 3;
-            s++;
-        }
-        else if (x >= 2)
-        {
-            x = x - 2;
-            s++;
-        }
-        else if (x >= 1)
-        {
-            x = x - 1;
-            s++;
-        }
+        n -= 5;
+        ans++;
+    }
+    while (n>=4)
+    {
+        n -= 4;
+        ans++;
+    }
+    while (n>=3)
+    {
+        n -= 3;
+        ans++;
+    }
+    while (n>=2)
+    {
+        n -= 2;
+        ans++;
+    }
+    if (n == 0)
+    {
+        cout << ans << nl;
+    }
+    else
+    {
+        cout << ans + 1 << nl;
     }
 
-    cout << s;
+    return 0;
 }
