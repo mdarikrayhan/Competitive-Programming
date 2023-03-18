@@ -1,12 +1,14 @@
-#include <iostream>
+#include <bits/stdc++.h>
 using namespace std;
+const char nl = '\n';
 int main()
 {
+    ios_base::sync_with_stdio(false);
+    cin.tie(NULL);
+    cout.tie(NULL);
     string s;
-    cin>>s;
-    int n = s.length();
-    if(s[0]>96 && s[0]<123){
-        s[0]=s[0]-32;
-    }
-    cout<<s;
+    cin >> s;
+    s[0] = toupper(s[0]);
+    cout << s << nl;
+    return 0;
 }
