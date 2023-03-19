@@ -7665,6 +7665,27 @@
     ],
     "timestamp": "Feb/17/2023 21:39"
   },
+  "CF198215613": {
+    "contest_id": 1807,
+    "language": "GNU C++20 (64)",
+    "path": "codeforces/1807/G1.cpp",
+    "platform": "Codeforces",
+    "problem_index": "G1",
+    "problem_name": "Subsequence Addition (Easy Version)",
+    "problem_url": "https://codeforces.com/contest/1807/problem/G1",
+    "submission_id": "CF198215613",
+    "submission_url": "https://codeforces.com/contest/1807/submission/198215613",
+    "tags": [
+      "brute force",
+      "data structures",
+      "dp",
+      "greedy",
+      "implementation",
+      "sortings",
+      "*1100"
+    ],
+    "timestamp": "Mar/19/2023 22:15"
+  },
   "CF198219234": {
     "contest_id": 1807,
     "language": "GNU C++20 (64)",
