@@ -1,20 +1,8 @@
-#include <bits/stdc++.h>
+#include<bits/stdc++.h>
 using namespace std;
-const char nl = '\n';
-int main()
-{
-    ios_base::sync_with_stdio(false);
-    cin.tie(NULL);
-    cout.tie(NULL);
-    int T = 1;
-    cin >> T;
-    for (int i = 1; i <= T; i++)
-    {
-        long long int n;
-        cin >> n;
-        n--;
-        long long int ans = sqrt(n);
-        cout << ans << nl;
-    }
-    return 0;
-}
+int main(){
+int t; cin>>t;
+while(t--){
+long long int n,ans; cin>>n;
+ans=sqrt(n-1);
+cout<<ans<<endl; }}
