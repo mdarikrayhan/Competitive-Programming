@@ -5,23 +5,13 @@ int main()
 {
     ios_base::sync_with_stdio(false);
     cin.tie(NULL);
-    int r = 0, b = 0, f = 0, w = 0;
-    cin >> r >> b;
-    if (r == b)
-    {
-        f = r;
-        w = 0;
-    }
-    else if (r < b)
-    {
-        f = r;
-        w = (b - r) / 2;
-    }
-    else if (r > b)
-    {
-        f = b;
-        w = (r - b) / 2;
-    }
-    cout << f << " " << w;
+    cout.tie(NULL);
+    long long int a, b;
+    cin >> a >> b;
+    long long int c = min(a, b);
+    a-=c;
+    b-=c;
+    long long int d = max(a, b);
+    cout << c << " " << d / 2 << nl;
     return 0;
 }
