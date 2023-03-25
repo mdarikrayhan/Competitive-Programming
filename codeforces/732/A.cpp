@@ -1,15 +1,25 @@
-#include <iostream>
+#include <bits/stdc++.h>
 using namespace std;
-int k, r, h = 1, i = 0, j = 1;
-bool b = true;
-int main() {
+const char nl = '\n';
+int main()
+{
+    ios_base::sync_with_stdio(false);
+    cin.tie(NULL);
+    cout.tie(NULL);
+    long long int k, r;
     cin >> k >> r;
-    while (b) {
-        i++;
-        h = k * i;
-        if (h % 10 == 0 || h % 10 == r) {
-            b = false;
+    for (int i = 1;; i++)
+    {
+        if ((k * i) % 10 == 0)
+        {
+            cout << i << nl;
+            break;
+        }
+        if (((k * i) - r) % 10 == 0)
+        {
+            cout << i << nl;
+            break;
         }
     }
-    cout << i;
+    return 0;
 }
