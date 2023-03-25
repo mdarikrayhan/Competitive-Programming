@@ -1,31 +1,25 @@
-/***************************************************/
-/*https://codeforces.com/problemset/problem/1328/A  */
-/*            Author : Md. Arik Rayhan             */
-/*        Github : github.com/mdarikrayhan         */
-/***************************************************/
 #include <bits/stdc++.h>
 using namespace std;
+const char nl = '\n';
 int main()
 {
-    int t;
-    cin >> t;
-    for (int i = 0; i < t; i++)
+    ios_base::sync_with_stdio(false);
+    cin.tie(NULL);
+    cout.tie(NULL);
+    int T = 1;
+    cin >> T;
+    for (int i = 1; i <= T; i++)
     {
-
-        int a, b;
+        long long int a, b;
         cin >> a >> b;
         if (a % b == 0)
         {
-            cout << 0 << endl;
-        }
-        else if ((a % b) > b)
-        {
-
-            cout << a % b - b << endl;
+            cout << 0 << nl;
         }
         else
         {
-            cout << b - a % b << endl;
+            cout << b - (a % b) << nl;
         }
     }
+    return 0;
 }
