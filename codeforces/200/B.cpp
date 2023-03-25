@@ -1,17 +1,22 @@
-#include <iostream>
-#include <iomanip>
+#include <bits/stdc++.h>
 using namespace std;
-int main(){
-    int n=0;
-    double sum=0;
-    cin>>n;
-    double arr[n];
-    for(int i=0;i<n;i++){
-        cin>>arr[i];
+const char nl = '\n';
+int main()
+{
+    ios_base::sync_with_stdio(false);
+    cin.tie(NULL);
+    cout.tie(NULL);
+    int n;
+    cin >> n;
+    vector<int> v(n);
+    for (int i = 0; i < n; i++)
+    {
+        cin >> v[i];
     }
-    for(int i=0;i<n;i++){
-        sum+=arr[i];
-    }
-    sum=sum/n;
-    printf("%.12lf",sum);
+    long double sum = accumulate(v.begin(), v.end(), 0);
+    long double avg = sum / n;
+    cout<<setprecision(12)<<fixed;
+
+    cout<<avg<<nl;
+    return 0;
 }
