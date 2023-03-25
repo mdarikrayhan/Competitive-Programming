@@ -7665,6 +7665,24 @@
     ],
     "timestamp": "Feb/17/2023 21:39"
   },
+  "CF199038332": {
+    "contest_id": 1795,
+    "language": "PyPy 3-64",
+    "path": "codeforces/1795/C.py",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Tea Tasting",
+    "problem_url": "https://codeforces.com/contest/1795/problem/C",
+    "submission_id": "CF199038332",
+    "submission_url": "https://codeforces.com/contest/1795/submission/199038332",
+    "tags": [
+      "binary search",
+      "data structures",
+      "implementation",
+      "*1500"
+    ],
+    "timestamp": "Mar/25/2023 11:09"
+  },
   "CF199129505": {
     "contest_id": 486,
     "language": "GNU C++20 (64)",
