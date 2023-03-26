@@ -8737,6 +8737,23 @@
     ],
     "timestamp": "Mar/26/2023 16:15"
   },
+  "CF199278243": {
+    "contest_id": 1798,
+    "language": "GNU C++20 (64)",
+    "path": "codeforces/1798/B.cpp",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Three Sevens",
+    "problem_url": "https://codeforces.com/contest/1798/problem/B",
+    "submission_id": "CF199278243",
+    "submission_url": "https://codeforces.com/contest/1798/submission/199278243",
+    "tags": [
+      "brute force",
+      "greedy",
+      "implementation"
+    ],
+    "timestamp": "Mar/26/2023 21:27"
+  },
   "CF199420470": {
     "contest_id": 1798,
     "language": "GNU C++20 (64)",
