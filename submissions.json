@@ -8736,5 +8736,22 @@
       "*1300"
     ],
     "timestamp": "Mar/26/2023 16:15"
+  },
+  "CF199420727": {
+    "contest_id": 1798,
+    "language": "GNU C++20 (64)",
+    "path": "codeforces/1798/C.cpp",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Candy Store",
+    "problem_url": "https://codeforces.com/contest/1798/problem/C",
+    "submission_id": "CF199420727",
+    "submission_url": "https://codeforces.com/contest/1798/submission/199420727",
+    "tags": [
+      "greedy",
+      "math",
+      "number theory"
+    ],
+    "timestamp": "Mar/27/2023 20:18"
   }
 }
