@@ -13,11 +13,12 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | # | Title | Solution | Tags | Submitted |
 |---| ----- | -------- | ---- | --------- |
-379 | [A - Translation](https://codeforces.com/contest/41/problem/A) | [GNU C++20 (64)](./codeforces/41/A.cpp) | `implementation` `strings` `*800` | Mar/30/2023 22:06 | 
-378 | [B - Queue at the School](https://codeforces.com/contest/266/problem/B) | [GNU C++20 (64)](./codeforces/266/B.cpp) | `constructive algorithms` `graph matchings` `implementation` `shortest paths` `*800` | Mar/30/2023 22:05 | 
-377 | [A - Beautiful Year](https://codeforces.com/contest/271/problem/A) | [GNU C++20 (64)](./codeforces/271/A.cpp) | `brute force` `*800` | Mar/30/2023 22:05 | 
-376 | [A - Hulk](https://codeforces.com/contest/705/problem/A) | [GNU C++20 (64)](./codeforces/705/A.cpp) | `implementation` `*800` | Mar/30/2023 22:04 | 
-375 | [A - Ultra-Fast Mathematician](https://codeforces.com/contest/61/problem/A) | [GNU C++20 (64)](./codeforces/61/A.cpp) | `implementation` `*800` | Mar/30/2023 22:03 | 
+380 | [A - Translation](https://codeforces.com/contest/41/problem/A) | [GNU C++20 (64)](./codeforces/41/A.cpp) | `implementation` `strings` `*800` | Mar/30/2023 22:06 | 
+379 | [B - Queue at the School](https://codeforces.com/contest/266/problem/B) | [GNU C++20 (64)](./codeforces/266/B.cpp) | `constructive algorithms` `graph matchings` `implementation` `shortest paths` `*800` | Mar/30/2023 22:05 | 
+378 | [A - Beautiful Year](https://codeforces.com/contest/271/problem/A) | [GNU C++20 (64)](./codeforces/271/A.cpp) | `brute force` `*800` | Mar/30/2023 22:05 | 
+377 | [A - Hulk](https://codeforces.com/contest/705/problem/A) | [GNU C++20 (64)](./codeforces/705/A.cpp) | `implementation` `*800` | Mar/30/2023 22:04 | 
+376 | [A - Ultra-Fast Mathematician](https://codeforces.com/contest/61/problem/A) | [GNU C++20 (64)](./codeforces/61/A.cpp) | `implementation` `*800` | Mar/30/2023 22:03 | 
+375 | [B - Playing in a Casino](https://codeforces.com/contest/1808/problem/B) | [GNU C++20 (64)](./codeforces/1808/B.cpp) | `math` `sortings` | Mar/29/2023 16:34 | 
 374 | [C - Candy Store](https://codeforces.com/contest/1798/problem/C) | [GNU C++20 (64)](./codeforces/1798/C.cpp) | `greedy` `math` `number theory` | Mar/27/2023 20:18 | 
 373 | [B - Three Sevens](https://codeforces.com/contest/1798/problem/B) | [GNU C++20 (64)](./codeforces/1798/B.cpp) | `brute force` `greedy` `implementation` | Mar/26/2023 21:27 | 
 372 | [A - Showstopper](https://codeforces.com/contest/1798/problem/A) | [GNU C++20 (64)](./codeforces/1798/A.cpp) | `greedy` `implementation` `sortings` | Mar/26/2023 21:06 | 
