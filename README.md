@@ -23,12 +23,12 @@ A repository to keep track of problem solving practice, containing solutions fro
 384 | [A - Li Hua and Maze](https://codeforces.com/contest/1797/problem/A) | [GNU C++17](./codeforces/1797/A.cpp) | `constructive algorithms` `flows` `graphs` `greedy` `implementation` | Apr/08/2023 20:26 | 
 383 | [A - Coins](https://codeforces.com/contest/1814/problem/A) | [GNU C++17](./codeforces/1814/A.cpp) | `implementation` `math` `*800` | Apr/06/2023 20:44 | 
 382 | [J - Unmysterious Language](https://codeforces.com/contest/1812/problem/J) | [Mysterious Language](./codeforces/1812/J.txt) | `*special problem` `constructive algorithms` `strings` | Apr/03/2023 10:23 | 
-381 | [A - Translation](https://codeforces.com/contest/41/problem/A) | [GNU C++20 (64)](./codeforces/41/A.cpp) | `implementation` `strings` `*800` | Mar/30/2023 22:06 | 
-380 | [A - Beautiful Year](https://codeforces.com/contest/271/problem/A) | [GNU C++20 (64)](./codeforces/271/A.cpp) | `brute force` `*800` | Mar/30/2023 22:05 | 
-379 | [B - Queue at the School](https://codeforces.com/contest/266/problem/B) | [GNU C++20 (64)](./codeforces/266/B.cpp) | `constructive algorithms` `graph matchings` `implementation` `shortest paths` `*800` | Mar/30/2023 22:05 | 
-378 | [A - Hulk](https://codeforces.com/contest/705/problem/A) | [GNU C++20 (64)](./codeforces/705/A.cpp) | `implementation` `*800` | Mar/30/2023 22:04 | 
-377 | [A - Ultra-Fast Mathematician](https://codeforces.com/contest/61/problem/A) | [GNU C++20 (64)](./codeforces/61/A.cpp) | `implementation` `*800` | Mar/30/2023 22:03 | 
-376 | [B - Playing in a Casino](https://codeforces.com/contest/1808/problem/B) | [GNU C++20 (64)](./codeforces/1808/B.cpp) | `math` `sortings` | Mar/29/2023 16:34 | 
+381 | [B - Playing in a Casino](https://codeforces.com/contest/1808/problem/B) | [GNU C++20 (64)](./codeforces/1808/B.cpp) | `math` `sortings` `*1200` | Mar/30/2023 22:23 | 
+380 | [A - Translation](https://codeforces.com/contest/41/problem/A) | [GNU C++20 (64)](./codeforces/41/A.cpp) | `implementation` `strings` `*800` | Mar/30/2023 22:06 | 
+379 | [A - Beautiful Year](https://codeforces.com/contest/271/problem/A) | [GNU C++20 (64)](./codeforces/271/A.cpp) | `brute force` `*800` | Mar/30/2023 22:05 | 
+378 | [B - Queue at the School](https://codeforces.com/contest/266/problem/B) | [GNU C++20 (64)](./codeforces/266/B.cpp) | `constructive algorithms` `graph matchings` `implementation` `shortest paths` `*800` | Mar/30/2023 22:05 | 
+377 | [A - Hulk](https://codeforces.com/contest/705/problem/A) | [GNU C++20 (64)](./codeforces/705/A.cpp) | `implementation` `*800` | Mar/30/2023 22:04 | 
+376 | [A - Ultra-Fast Mathematician](https://codeforces.com/contest/61/problem/A) | [GNU C++20 (64)](./codeforces/61/A.cpp) | `implementation` `*800` | Mar/30/2023 22:03 | 
 375 | [A - Lucky Numbers](https://codeforces.com/contest/1808/problem/A) | [GNU C++20 (64)](./codeforces/1808/A.cpp) | `brute force` `implementation` | Mar/29/2023 15:21 | 
 374 | [A - Theatre Square](https://codeforces.com/contest/1/problem/A) | [GNU C++20 (64)](./codeforces/1/A.cpp) | `math` `*1000` | Mar/28/2023 23:58 | 
 373 | [C - Candy Store](https://codeforces.com/contest/1798/problem/C) | [GNU C++20 (64)](./codeforces/1798/C.cpp) | `greedy` `math` `number theory` | Mar/27/2023 20:18 | 
