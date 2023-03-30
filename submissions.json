@@ -8804,5 +8804,22 @@
       "number theory"
     ],
     "timestamp": "Mar/27/2023 20:18"
+  },
+  "CF199854181": {
+    "contest_id": 41,
+    "language": "GNU C++20 (64)",
+    "path": "codeforces/41/A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Translation",
+    "problem_url": "https://codeforces.com/contest/41/problem/A",
+    "submission_id": "CF199854181",
+    "submission_url": "https://codeforces.com/contest/41/submission/199854181",
+    "tags": [
+      "implementation",
+      "strings",
+      "*800"
+    ],
+    "timestamp": "Mar/30/2023 22:06"
   }
 }
