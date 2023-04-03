@@ -13,15 +13,16 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | # | Title | Solution | Tags | Submitted |
 |---| ----- | -------- | ---- | --------- |
-390 | [B - Sort the Subarray](https://codeforces.com/contest/1821/problem/B) | [GNU C++17](./codeforces/1821/B.cpp) | `brute force` `greedy` | Apr/21/2023 17:39 | 
-389 | [A - Matching](https://codeforces.com/contest/1821/problem/A) | [GNU C++17](./codeforces/1821/A.cpp) | `combinatorics` `math` | Apr/20/2023 20:47 | 
-388 | [B - Delete from the Left](https://codeforces.com/contest/1005/problem/B) | [GNU C++17](./codeforces/1005/B.cpp) | `brute force` `implementation` `strings` `*900` | Apr/16/2023 21:34 | 
-387 | [C - Ian and Array Sorting](https://codeforces.com/contest/1816/problem/C) | [GNU C++20 (64)](./codeforces/1816/C.cpp) | `math` `sortings` `*1300` | Apr/09/2023 22:37 | 
-386 | [B - Grid Reconstruction](https://codeforces.com/contest/1816/problem/B) | [GNU C++20 (64)](./codeforces/1816/B.cpp) | `constructive algorithms` `greedy` `*1000` | Apr/09/2023 22:03 | 
-385 | [A - Ian Visits Mary](https://codeforces.com/contest/1816/problem/A) | [GNU C++20 (64)](./codeforces/1816/A.cpp) | `constructive algorithms` `geometry` `number theory` `*800` | Apr/09/2023 21:06 | 
-384 | [B - Li Hua and Pattern](https://codeforces.com/contest/1797/problem/B) | [GNU C++20 (64)](./codeforces/1797/B.cpp) | `constructive algorithms` `greedy` | Apr/08/2023 23:08 | 
-383 | [A - Li Hua and Maze](https://codeforces.com/contest/1797/problem/A) | [GNU C++17](./codeforces/1797/A.cpp) | `constructive algorithms` `flows` `graphs` `greedy` `implementation` | Apr/08/2023 20:26 | 
-382 | [A - Coins](https://codeforces.com/contest/1814/problem/A) | [GNU C++17](./codeforces/1814/A.cpp) | `implementation` `math` `*800` | Apr/06/2023 20:44 | 
+391 | [B - Sort the Subarray](https://codeforces.com/contest/1821/problem/B) | [GNU C++17](./codeforces/1821/B.cpp) | `brute force` `greedy` | Apr/21/2023 17:39 | 
+390 | [A - Matching](https://codeforces.com/contest/1821/problem/A) | [GNU C++17](./codeforces/1821/A.cpp) | `combinatorics` `math` | Apr/20/2023 20:47 | 
+389 | [B - Delete from the Left](https://codeforces.com/contest/1005/problem/B) | [GNU C++17](./codeforces/1005/B.cpp) | `brute force` `implementation` `strings` `*900` | Apr/16/2023 21:34 | 
+388 | [C - Ian and Array Sorting](https://codeforces.com/contest/1816/problem/C) | [GNU C++20 (64)](./codeforces/1816/C.cpp) | `math` `sortings` `*1300` | Apr/09/2023 22:37 | 
+387 | [B - Grid Reconstruction](https://codeforces.com/contest/1816/problem/B) | [GNU C++20 (64)](./codeforces/1816/B.cpp) | `constructive algorithms` `greedy` `*1000` | Apr/09/2023 22:03 | 
+386 | [A - Ian Visits Mary](https://codeforces.com/contest/1816/problem/A) | [GNU C++20 (64)](./codeforces/1816/A.cpp) | `constructive algorithms` `geometry` `number theory` `*800` | Apr/09/2023 21:06 | 
+385 | [B - Li Hua and Pattern](https://codeforces.com/contest/1797/problem/B) | [GNU C++20 (64)](./codeforces/1797/B.cpp) | `constructive algorithms` `greedy` | Apr/08/2023 23:08 | 
+384 | [A - Li Hua and Maze](https://codeforces.com/contest/1797/problem/A) | [GNU C++17](./codeforces/1797/A.cpp) | `constructive algorithms` `flows` `graphs` `greedy` `implementation` | Apr/08/2023 20:26 | 
+383 | [A - Coins](https://codeforces.com/contest/1814/problem/A) | [GNU C++17](./codeforces/1814/A.cpp) | `implementation` `math` `*800` | Apr/06/2023 20:44 | 
+382 | [J - Unmysterious Language](https://codeforces.com/contest/1812/problem/J) | [Mysterious Language](./codeforces/1812/J.txt) | `*special problem` `constructive algorithms` `strings` | Apr/03/2023 10:23 | 
 381 | [A - Translation](https://codeforces.com/contest/41/problem/A) | [GNU C++20 (64)](./codeforces/41/A.cpp) | `implementation` `strings` `*800` | Mar/30/2023 22:06 | 
 380 | [A - Beautiful Year](https://codeforces.com/contest/271/problem/A) | [GNU C++20 (64)](./codeforces/271/A.cpp) | `brute force` `*800` | Mar/30/2023 22:05 | 
 379 | [B - Queue at the School](https://codeforces.com/contest/266/problem/B) | [GNU C++20 (64)](./codeforces/266/B.cpp) | `constructive algorithms` `graph matchings` `implementation` `shortest paths` `*800` | Mar/30/2023 22:05 | 
