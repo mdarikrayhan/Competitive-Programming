@@ -35,13 +35,20 @@ int main()
         if (count <= k)
         {
             long long check = k - count;
-            if (check % 2 == 0 || n & 1)
+            if (check % 2 == 0)
             {
                 cout << "YES" << nl;
             }
             else
             {
-                cout << "NO" << nl;
+                if(n%2==0)
+                {
+                    cout << "NO" << nl;
+                }
+                else
+                {
+                    cout << "YES" << nl;
+                }
             }
         }
         else
