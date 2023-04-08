@@ -8937,6 +8937,25 @@
     ],
     "timestamp": "Mar/30/2023 22:06"
   },
+  "CF201282109": {
+    "contest_id": 1797,
+    "language": "GNU C++17",
+    "path": "codeforces/1797/A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Li Hua and Maze",
+    "problem_url": "https://codeforces.com/contest/1797/problem/A",
+    "submission_id": "CF201282109",
+    "submission_url": "https://codeforces.com/contest/1797/submission/201282109",
+    "tags": [
+      "constructive algorithms",
+      "flows",
+      "graphs",
+      "greedy",
+      "implementation"
+    ],
+    "timestamp": "Apr/08/2023 20:26"
+  },
   "CF201336934": {
     "contest_id": 1797,
     "language": "GNU C++20 (64)",
