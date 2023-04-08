@@ -32,10 +32,17 @@ int main()
                 }
             }
         }
-
-        if (((count <= k) && (((k - count) % 2 == 0) || n & 1)))
+        if (count <= k)
         {
-            cout << "YES" << nl;
+            long long check = k - count;
+            if (check % 2 == 0 || n & 1)
+            {
+                cout << "YES" << nl;
+            }
+            else
+            {
+                cout << "NO" << nl;
+            }
         }
         else
         {
