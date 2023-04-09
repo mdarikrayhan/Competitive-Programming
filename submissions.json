@@ -9055,6 +9055,24 @@
     ],
     "timestamp": "Apr/08/2023 23:08"
   },
+  "CF201433163": {
+    "contest_id": 756,
+    "language": "GNU C++17 (64)",
+    "path": "codeforces/756/F.cpp",
+    "platform": "Codeforces",
+    "problem_index": "F",
+    "problem_name": "Long number",
+    "problem_url": "https://codeforces.com/contest/756/problem/F",
+    "submission_id": "CF201433163",
+    "submission_url": "https://codeforces.com/contest/756/submission/201433163",
+    "tags": [
+      "expression parsing",
+      "math",
+      "number theory",
+      "*3400"
+    ],
+    "timestamp": "Apr/09/2023 13:37"
+  },
   "CF201433241": {
     "contest_id": 639,
     "language": "GNU C++17 (64)",
