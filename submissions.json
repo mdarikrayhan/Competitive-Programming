@@ -9055,6 +9055,23 @@
     ],
     "timestamp": "Apr/08/2023 23:08"
   },
+  "CF201433292": {
+    "contest_id": 628,
+    "language": "GNU C++17 (64)",
+    "path": "codeforces/628/E.cpp",
+    "platform": "Codeforces",
+    "problem_index": "E",
+    "problem_name": "Zbazi in Zeydabad",
+    "problem_url": "https://codeforces.com/contest/628/problem/E",
+    "submission_id": "CF201433292",
+    "submission_url": "https://codeforces.com/contest/628/submission/201433292",
+    "tags": [
+      "data structures",
+      "implementation",
+      "*2300"
+    ],
+    "timestamp": "Apr/09/2023 13:38"
+  },
   "CF201433318": {
     "contest_id": 609,
     "language": "GNU C++17",
