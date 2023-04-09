@@ -9055,6 +9055,23 @@
     ],
     "timestamp": "Apr/08/2023 23:08"
   },
+  "CF201434340": {
+    "contest_id": 1797,
+    "language": "GNU C++17",
+    "path": "codeforces/1797/C.cpp",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Li Hua and Chess",
+    "problem_url": "https://codeforces.com/contest/1797/problem/C",
+    "submission_id": "CF201434340",
+    "submission_url": "https://codeforces.com/contest/1797/submission/201434340",
+    "tags": [
+      "constructive algorithms",
+      "greedy",
+      "interactive"
+    ],
+    "timestamp": "Apr/09/2023 13:48"
+  },
   "CF201434371": {
     "contest_id": 1797,
     "language": "GNU C++17 (64)",
