@@ -9055,6 +9055,24 @@
     ],
     "timestamp": "Apr/08/2023 23:08"
   },
+  "CF201433090": {
+    "contest_id": 758,
+    "language": "GNU C++17 (64)",
+    "path": "codeforces/758/F.cpp",
+    "platform": "Codeforces",
+    "problem_index": "F",
+    "problem_name": "Geometrical Progression",
+    "problem_url": "https://codeforces.com/contest/758/problem/F",
+    "submission_id": "CF201433090",
+    "submission_url": "https://codeforces.com/contest/758/submission/201433090",
+    "tags": [
+      "brute force",
+      "math",
+      "number theory",
+      "*2400"
+    ],
+    "timestamp": "Apr/09/2023 13:36"
+  },
   "CF201433114": {
     "contest_id": 757,
     "language": "GNU C++17 (64)",
