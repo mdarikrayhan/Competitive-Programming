@@ -9055,6 +9055,26 @@
     ],
     "timestamp": "Apr/08/2023 23:08"
   },
+  "CF201433072": {
+    "contest_id": 761,
+    "language": "GNU C++17 (64)",
+    "path": "codeforces/761/D.cpp",
+    "platform": "Codeforces",
+    "problem_index": "D",
+    "problem_name": "Dasha and Very Difficult Problem",
+    "problem_url": "https://codeforces.com/contest/761/problem/D",
+    "submission_id": "CF201433072",
+    "submission_url": "https://codeforces.com/contest/761/submission/201433072",
+    "tags": [
+      "binary search",
+      "brute force",
+      "constructive algorithms",
+      "greedy",
+      "sortings",
+      "*1700"
+    ],
+    "timestamp": "Apr/09/2023 13:36"
+  },
   "CF201433090": {
     "contest_id": 758,
     "language": "GNU C++17 (64)",
