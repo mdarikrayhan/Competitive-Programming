@@ -9055,6 +9055,21 @@
     ],
     "timestamp": "Apr/08/2023 23:08"
   },
+  "CF201433507": {
+    "contest_id": 398,
+    "language": "GNU C++17",
+    "path": "codeforces/398/C.cpp",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Tree and Array",
+    "problem_url": "https://codeforces.com/contest/398/problem/C",
+    "submission_id": "CF201433507",
+    "submission_url": "https://codeforces.com/contest/398/submission/201433507",
+    "tags": [
+      "constructive algorithms"
+    ],
+    "timestamp": "Apr/09/2023 13:40"
+  },
   "CF201433537": {
     "contest_id": 383,
     "language": "GNU C++17",
