@@ -9055,6 +9055,23 @@
     ],
     "timestamp": "Apr/08/2023 23:08"
   },
+  "CF201434034": {
+    "contest_id": 332,
+    "language": "GNU C++17",
+    "path": "codeforces/332/D.cpp",
+    "platform": "Codeforces",
+    "problem_index": "D",
+    "problem_name": "Theft of Blueprints",
+    "problem_url": "https://codeforces.com/contest/332/problem/D",
+    "submission_id": "CF201434034",
+    "submission_url": "https://codeforces.com/contest/332/submission/201434034",
+    "tags": [
+      "graphs",
+      "math",
+      "*2400"
+    ],
+    "timestamp": "Apr/09/2023 13:45"
+  },
   "CF201434085": {
     "contest_id": 323,
     "language": "GNU C++17",
