@@ -9055,6 +9055,24 @@
     ],
     "timestamp": "Apr/08/2023 23:08"
   },
+  "CF201434193": {
+    "contest_id": 193,
+    "language": "GNU C++17 (64)",
+    "path": "codeforces/193/E.cpp",
+    "platform": "Codeforces",
+    "problem_index": "E",
+    "problem_name": "Fibonacci Number",
+    "problem_url": "https://codeforces.com/contest/193/problem/E",
+    "submission_id": "CF201434193",
+    "submission_url": "https://codeforces.com/contest/193/submission/201434193",
+    "tags": [
+      "brute force",
+      "math",
+      "matrices",
+      "*2900"
+    ],
+    "timestamp": "Apr/09/2023 13:47"
+  },
   "CF201434267": {
     "contest_id": 1797,
     "language": "GNU C++17 (64)",
