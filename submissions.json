@@ -9107,6 +9107,25 @@
     ],
     "timestamp": "Apr/09/2023 22:37"
   },
+  "CF201643606": {
+    "contest_id": 1815,
+    "language": "GNU C++17 (64)",
+    "path": "codeforces/1815/E.cpp",
+    "platform": "Codeforces",
+    "problem_index": "E",
+    "problem_name": "Bosco and Particle",
+    "problem_url": "https://codeforces.com/contest/1815/problem/E",
+    "submission_id": "CF201643606",
+    "submission_url": "https://codeforces.com/contest/1815/submission/201643606",
+    "tags": [
+      "dp",
+      "math",
+      "number theory",
+      "strings",
+      "*3100"
+    ],
+    "timestamp": "Apr/10/2023 16:28"
+  },
   "CF201643630": {
     "contest_id": 1815,
     "language": "GNU C++17 (64)",
