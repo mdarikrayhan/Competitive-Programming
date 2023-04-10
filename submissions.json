@@ -9107,6 +9107,25 @@
     ],
     "timestamp": "Apr/09/2023 22:37"
   },
+  "CF201643630": {
+    "contest_id": 1815,
+    "language": "GNU C++17 (64)",
+    "path": "codeforces/1815/D.cpp",
+    "platform": "Codeforces",
+    "problem_index": "D",
+    "problem_name": "XOR Counting",
+    "problem_url": "https://codeforces.com/contest/1815/problem/D",
+    "submission_id": "CF201643630",
+    "submission_url": "https://codeforces.com/contest/1815/submission/201643630",
+    "tags": [
+      "bitmasks",
+      "combinatorics",
+      "dp",
+      "math",
+      "*2600"
+    ],
+    "timestamp": "Apr/10/2023 16:28"
+  },
   "CF201643671": {
     "contest_id": 1815,
     "language": "GNU C++17 (64)",
