@@ -9107,6 +9107,25 @@
     ],
     "timestamp": "Apr/09/2023 22:37"
   },
+  "CF201643671": {
+    "contest_id": 1815,
+    "language": "GNU C++17 (64)",
+    "path": "codeforces/1815/C.cpp",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Between",
+    "problem_url": "https://codeforces.com/contest/1815/problem/C",
+    "submission_id": "CF201643671",
+    "submission_url": "https://codeforces.com/contest/1815/submission/201643671",
+    "tags": [
+      "constructive algorithms",
+      "dfs and similar",
+      "graphs",
+      "greedy",
+      "*2200"
+    ],
+    "timestamp": "Apr/10/2023 16:28"
+  },
   "CF201643695": {
     "contest_id": 1815,
     "language": "GNU C++17 (64)",
