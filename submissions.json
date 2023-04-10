@@ -9107,6 +9107,28 @@
     ],
     "timestamp": "Apr/09/2023 22:37"
   },
+  "CF201643695": {
+    "contest_id": 1815,
+    "language": "GNU C++17 (64)",
+    "path": "codeforces/1815/B.cpp",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Sum Graph",
+    "problem_url": "https://codeforces.com/contest/1815/problem/B",
+    "submission_id": "CF201643695",
+    "submission_url": "https://codeforces.com/contest/1815/submission/201643695",
+    "tags": [
+      "brute force",
+      "constructive algorithms",
+      "graphs",
+      "implementation",
+      "interactive",
+      "shortest paths",
+      "trees",
+      "*2000"
+    ],
+    "timestamp": "Apr/10/2023 16:29"
+  },
   "CF201643733": {
     "contest_id": 1815,
     "language": "GNU C++17",
