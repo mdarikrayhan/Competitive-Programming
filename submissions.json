@@ -9107,6 +9107,23 @@
     ],
     "timestamp": "Apr/09/2023 22:37"
   },
+  "CF201854084": {
+    "contest_id": 1815,
+    "language": "GNU C++17",
+    "path": "codeforces/1815/A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Ian and Array Sorting",
+    "problem_url": "https://codeforces.com/contest/1815/problem/A",
+    "submission_id": "CF201854084",
+    "submission_url": "https://codeforces.com/contest/1815/submission/201854084",
+    "tags": [
+      "greedy",
+      "math",
+      "*1300"
+    ],
+    "timestamp": "Apr/12/2023 21:56"
+  },
   "CF201854145": {
     "contest_id": 1815,
     "language": "GNU C++17",
