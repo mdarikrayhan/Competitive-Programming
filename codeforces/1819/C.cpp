@@ -1,55 +1,33 @@
-#include<iostream>
-#include<vector>
+#include <bits/stdc++.h>
 using namespace std;
-int n;
-vector<int> e[200010],ans;
-int dp[200010];
-void dfs(int x,int pre,int op){
-	dp[x]=dp[pre]+1;
-	int fafa=1145141919;
-	for(int y:e[x]){
-		if(y==pre||e[y].size()==1||op==0)
-			continue;
-		dfs(y,x,0);
-		fafa=y;
-		ans.push_back(y);
-		break;
-	}
-	for(int y:e[x])
-		if(y!=pre&&e[y].size()==1)
-			ans.push_back(y);
-	for(int y:e[x])
-		if(y!=pre&&e[y].size()>1&&y!=fafa){
-			ans.push_back(y);
-			dfs(y,x,1);
-		}
+#define N 1000005
+#define ll long long
+#define pb push_back
+#define mid ((l+r)/2)
+int n,U,dg[N],a[N],ans[N];vector<int> e[N];
+void dfs(int u,int f)
+{
+	if(!dg[u]) return;a[++a[0]]=u;
+	for(auto v:e[u]) if(v!=f) dfs(v,u);
 }
-int main(){
-	cin>>n;
-	for(int i=2;i<=n;i++){
-		int x,y;
-		cin>>x>>y;
-		e[x].push_back(y);
-		e[y].push_back(x);
-	}
-	for(int i=1;i<=n;i++){
-		int sum=0;
-		for(int x:e[i])
-			if(e[x].size()>1)
-				sum++;
-		if(sum>=3){
-			cout<<"No\n";
-			return 0;
-		}
-	}
-	for(int i=1;i<=n;i++)
-		if(e[i].size()>1||n==2){
-			ans.push_back(i);
-			dfs(i,0,1);
-			break;
-		}
-	cout<<"Yes\n";;
-	for(int x:ans)
-		cout<<x<<' ';
-	cout<<'\n';
+int main()
+{
+	scanf("%d",&n);
+	for(int i=1,u,v;i<n;++i)
+		scanf("%d %d",&u,&v),e[u].pb(v),e[v].pb(u);
+	for(int i=1;i<=n;++i) dg[i]=e[i].size();
+	for(int i=1;i<=n;++i) if(e[i].size()==1) dg[i]=0,--dg[e[i][0]];
+	for(int i=1;i<=n;++i) if(dg[i]>2) {printf("No\n");return 0;}
+	for(int i=1;i<=n;++i) if(dg[i]==1 || e[i].size()==n-1) U=i;
+	printf("Yes\n");dg[U]=1;dfs(U,0);
+	for(int i=1;i<=a[0];i+=2)
+	{
+		printf("%d ",a[i]);
+		if(i<a[0]) for(auto j:e[a[i+1]]) if(!dg[j]) printf("%d ",j);
+	}if(a[0]&1) {for(auto j:e[a[a[0]]]) if(!dg[j]) printf("%d ",j);--a[0];}
+	for(int i=a[0];i;i-=2)
+	{
+		printf("%d ",a[i]);
+		for(auto j:e[a[i-1]]) if(!dg[j]) printf("%d ",j);
+	}return 0;
 }
