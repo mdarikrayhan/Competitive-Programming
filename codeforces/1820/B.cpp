@@ -1,17 +1,30 @@
-#include<bits/stdc++.h>
+#include <bits/stdc++.h>
+#define int long long int
 using namespace std;
-long long T,l,a,ans;
-string s;
-int main(){
-	cin>>T;
-	while(T--){
-		cin>>s,l=s.length(),a=0,ans=0;
-		for(int i=0;i<l*2;i++)
-			if(s[i%l]=='1')a++;
-			else ans=max(ans,min(a,l)),a=0;
-		ans=max(ans,min(a,l));
-		if(ans!=l)cout<<((ans+1)/2)*((ans+2)/2)<<"\n";
-		else cout<<l*l<<"\n";
-	}
-	return 0;
+int32_t main() {
+	int t;cin>>t;
+	while(t--){
+		string s;
+		cin>>s;
+		s+=s;
+		int n=s.length();
+		int cnt=0;
+		int curr=0;
+		for(int i=0;i<n-1;i++){
+			if(s[i]=='0'){
+				cnt=max(cnt,curr);
+				curr=0;
+				
+			}else{
+				curr++;
+			}
+		}
+		cnt=max(cnt,curr);
+		if(cnt>=n){
+			cout<<n*n<<endl;
+		}else{
+			cnt++;
+			cout<<(cnt/2)*(cnt-cnt/2)<<endl;
+		}
+    }
 }
