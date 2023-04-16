@@ -1,25 +1,32 @@
-#include<cstdio>
+# include <bits/stdc++.h>
 using namespace std;
-const int o=2e5+10;
-int T,n,a[o],m,m_,l,r;bool vis[o];
-int main(){
-	for(scanf("%d",&T);T--;){
+int a[200010];
+bool vis[200010];
+int MEX(int n)
+{
+	for(int i=1;i<=n;i++)
+		if(a[i]<=n) vis[a[i]]=1;
+	int x=0;
+	while(vis[x]) x++;
+	memset(vis,0,sizeof(bool)*(n+1));
+	return x;
+}
+int main()
+{
+	int T;
+	cin>>T;
+	while(T--)
+	{
+		int n;
 		scanf("%d",&n);
-		for(int i=0;i<=n;++i) vis[i]=0;
-		for(int i=1;i<=n;++i){
-			scanf("%d",&a[i]);
-			if(a[i]<=n) vis[a[i]]=1;
-		}
-		for(m=0;vis[m];++m);
-		if(n==m){printf("No\n");continue;}
-		if(!vis[m+1]){printf("Yes\n");continue;}
-		for(int i=1;i<=n;++i) if(a[i]==m+1) r=i;
-		for(int i=n;i;--i) if(a[i]==m+1) l=i;
-		for(int i=l;i<=r;++i) a[i]=m;
-		for(int i=0;i<=n;++i) vis[i]=0;
-		for(int i=1;i<=n;++i) if(a[i]<=n) vis[a[i]]=1;
-		for(m_=0;vis[m_];++m_);
-		printf((m_==m+1)?"Yes\n":"No\n");
+		for(int i=1;i<=n;i++) scanf("%d",&a[i]);
+		int t=MEX(n),p=1e9,q=0;
+		if(t==n){puts("No");continue;}
+		for(int i=1;i<=n;i++)
+			if(a[i]==t+1) p=min(p,i),q=max(q,i);
+		if(p>q){puts("Yes");continue;}
+		for(int i=p;i<=q;i++) a[i]=t;
+		puts(MEX(n)==t+1?"Yes":"No");
 	}
 	return 0;
 }
