@@ -1,41 +1,54 @@
-#include<bits/stdc++.h>
+#include <bits/stdc++.h>
 using namespace std;
-const int o=4010;
-int T,n,m,u[o],v[o],ans[o],h[o],cnt,dfn[o],ed[o],fa[o],fae[o];mt19937 rnd(time(0));
-struct Edge{int v,p,w;}e[o];
-inline void ad(int U,int V,int W){e[++cnt].v=V;e[cnt].p=h[U];e[h[U]=cnt].w=W;}
-void dfs(int nw){
-	dfn[nw]=++cnt;
-	for(int i=h[nw];i;i=e[i].p) if(e[i].v^fa[nw]) fa[e[i].v]=nw,fae[e[i].v]=e[i].w,dfs(e[i].v);
-	ed[nw]=cnt;
+#define N 2005
+#define pb push_back
+mt19937 rand1(0);
+int T,n,m,o,U[N],V[N],fe[N],dep[N];bool vs[N];
+struct Edge {int v,w;};vector<Edge> e[N];
+bool chk(int u,int v)
+{
+	for(int i=1;i<=40;++i)
+	{
+		printf("? %d\n",rand1()&1?u:v);
+		fflush(stdout);scanf("%d",&o);if(!o) return 0;
+	}return 1;
 }
-inline bool chk(int x,int y){
-	for(int i=1,t;i<=45;++i){
-		cout<<"? "<<((rnd()%2)?x:y)<<endl;cin>>t;
-		if(!t) return false;
-	}
-	return true;
+void dfs(int u,int f)
+{
+	dep[u]=dep[f]+1;
+	for(auto [v,w]:e[u]) if(v!=f) fe[v]=w,dfs(v,u);
 }
-int main(){
-	for(cin>>T;T--;cout<<endl,cin>>n,cnt=0){
-		cin>>n>>m;
-		for(int i=1;i<=n;++i) h[i]=0;
-		for(int i=1;i<=m;++i) cin>>u[i]>>v[i];
-		for(int i=1;i<=m;++i){
-			cout<<"- "<<i<<endl;
-			if(chk(u[i],v[i])) ans[i]=0;
-			else ans[i]=1,cout<<"+ "<<i<<endl,ad(u[i],v[i],i),ad(v[i],u[i],i);
+void slv()
+{
+	scanf("%d %d",&n,&m);
+	for(int i=1;i<=n;++i) e[i].clear();
+	for(int i=1;i<=m;++i) scanf("%d %d",&U[i],&V[i]);
+	for(int i=1;i<=m;++i)
+	{
+		printf("- %d\n",i);fflush(stdout);
+		vs[i]=!chk(U[i],V[i]);
+		if(vs[i])
+		{
+			e[U[i]].pb((Edge) {V[i],i});
+			e[V[i]].pb((Edge) {U[i],i});
+			printf("+ %d\n",i);fflush(stdout);
 		}
-		cnt=0;dfs(1);
-		for(int i=1,t;i<=m;++i) if(!ans[i]){
-			if(dfn[u[i]]<=dfn[v[i]]&&ed[v[i]]<=ed[u[i]]) t=fae[v[i]];
-			else t=fae[u[i]];
-			cout<<"- "<<t<<endl<<"+ "<<i<<endl;
-			ans[i]=chk(u[i],v[i]);
-			cout<<"+ "<<t<<endl<<"- "<<i<<endl;
-		}
-		cout<<"! ";
-		for(int i=1;i<=m;++i) cout<<ans[i]<<" ";
-	}
-	return 0;
+	}dfs(1,0);
+	for(int i=1,t;i<=m;++i) if(!vs[i])
+	{
+		t=fe[dep[U[i]]>dep[V[i]]?U[i]:V[i]];
+		assert(t);
+		printf("+ %d\n",i);fflush(stdout);
+		printf("- %d\n",t);fflush(stdout);
+		vs[i]=chk(U[i],V[i]);
+		printf("- %d\n",i);fflush(stdout);
+		printf("+ %d\n",t);fflush(stdout);
+	}printf("! ");
+	for(int i=1;i<=m;++i) printf("%d ",vs[i]);
+	fflush(stdout);scanf("%d",&o);
+}
+int main()
+{
+	scanf("%d",&T);
+	while(T--) slv();return 0;
 }
