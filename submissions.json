@@ -9107,6 +9107,23 @@
     ],
     "timestamp": "Apr/09/2023 22:37"
   },
+  "CF202366857": {
+    "contest_id": 1820,
+    "language": "GNU C++17 (64)",
+    "path": "codeforces/1820/A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Yura's New Name",
+    "problem_url": "https://codeforces.com/contest/1820/problem/A",
+    "submission_id": "CF202366857",
+    "submission_url": "https://codeforces.com/contest/1820/submission/202366857",
+    "tags": [
+      "implementation",
+      "strings",
+      "*800"
+    ],
+    "timestamp": "Apr/16/2023 18:45"
+  },
   "CF202366888": {
     "contest_id": 1819,
     "language": "GNU C++20 (64)",
