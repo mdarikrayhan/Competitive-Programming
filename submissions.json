@@ -9107,6 +9107,25 @@
     ],
     "timestamp": "Apr/09/2023 22:37"
   },
+  "CF202366944": {
+    "contest_id": 1819,
+    "language": "GNU C++17 (64)",
+    "path": "codeforces/1819/D.cpp",
+    "platform": "Codeforces",
+    "problem_index": "D",
+    "problem_name": "Misha and Apples",
+    "problem_url": "https://codeforces.com/contest/1819/problem/D",
+    "submission_id": "CF202366944",
+    "submission_url": "https://codeforces.com/contest/1819/submission/202366944",
+    "tags": [
+      "brute force",
+      "data structures",
+      "dp",
+      "two pointers",
+      "*2800"
+    ],
+    "timestamp": "Apr/16/2023 18:46"
+  },
   "CF202366970": {
     "contest_id": 1819,
     "language": "GNU C++17 (64)",
