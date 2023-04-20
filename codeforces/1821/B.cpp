@@ -126,7 +126,7 @@ int main()
     {
         int n, l, r,mi = INT_MAX, ma = 1;;
         cin >> n;
-        vector<int> a(n), b(n);
+        vector<int> a(n, 0), b(n, 0);
         l = 0;
         r = n - 1;
         rep(i, 0, n)
