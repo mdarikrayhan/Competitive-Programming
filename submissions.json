@@ -9191,6 +9191,24 @@
     ],
     "timestamp": "Apr/21/2023 17:39"
   },
+  "CF202950633": {
+    "contest_id": 1821,
+    "language": "GNU C++17 (64)",
+    "path": "codeforces/1821/F.cpp",
+    "platform": "Codeforces",
+    "problem_index": "F",
+    "problem_name": "Timber",
+    "problem_url": "https://codeforces.com/contest/1821/problem/F",
+    "submission_id": "CF202950633",
+    "submission_url": "https://codeforces.com/contest/1821/submission/202950633",
+    "tags": [
+      "combinatorics",
+      "dp",
+      "fft",
+      "math"
+    ],
+    "timestamp": "Apr/21/2023 18:09"
+  },
   "CF202950668": {
     "contest_id": 1821,
     "language": "GNU C++17 (64)",

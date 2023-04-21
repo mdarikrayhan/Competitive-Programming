@@ -1,30 +1,27 @@
 #include<bits/stdc++.h>
 using namespace std;
-#define int long long
-const int M=998244353;
-int n,T,k,m;
-int jc[300005],inv[300005],jcinv[300005],p2[300005];
-int C(int n,int m)
-{
-	if(m>n||n<0)return 0;
-	return jc[n]*jcinv[m]%M*jcinv[n-m]%M;
+const int p=998244353;
+const int maxn=3e5+100;
+inline int quick_power(int a,int b){
+	int ret=1;while(b){if(b&1)ret=1ll*ret*a%p;b>>=1,a=1ll*a*a%p;}return ret;
 }
-signed main()
-{
+#define rev(x) (quick_power(x,p-2))
+int fct[maxn],rfct[maxn],pw[maxn];
+inline int C(int n,int m){
+	if(n<0||m<0||m>n)return 0;
+	return 1ll*fct[n]*rfct[m]%p*rfct[n-m]%p;
+}
+int main(void){
 	ios::sync_with_stdio(0);
 	cin.tie(0);cout.tie(0);
-	cin>>n>>m>>k;
-	inv[1]=1;
-	for(int i=2;i<=n;i++)
-		inv[i]=(M-M/i)*inv[M%i]%M;
-	jc[0]=jcinv[0]=p2[0]=1;
-	for(int i=1;i<=n;i++)
-		jc[i]=i*jc[i-1]%M,jcinv[i]=inv[i]*jcinv[i-1]%M,p2[i]=2*p2[i-1]%M;
-	int ans=0;
-	for(int i=0,t=1;i<=m/*&&k*m+i*m<=n*/;i++)
-	{
-		ans=(ans+t*C(n-k*m-k*i,m)%M*C(m,i)%M*p2[m-i])%M;
-		t=t*(M-1)%M;
+	int n,m,k;cin>>n>>m>>k;
+	fct[0]=1,pw[0]=1;for(int i=1;i<=n;++i)fct[i]=1ll*fct[i-1]*i%p,pw[i]=2ll*pw[i-1]%p;;
+	rfct[n]=rev(fct[n]);for(int i=n-1;i>=0;--i)rfct[i]=1ll*rfct[i+1]*(i+1)%p;
+	if(1ll*m*k>n){cout<<0;return 0;}
+	long long ans=0;
+	for(int i=0,c=1;i<=m&&i*k<=n;++i,c=-c){
+		ans+=1ll*C(n-(m-i)*k-i*(2*k),m)*C(m,i)%p*pw[m-i]%p*c;
 	}
-	cout<<ans;
+	cout<<(ans%p+p)%p;
+	return 0;
 }
