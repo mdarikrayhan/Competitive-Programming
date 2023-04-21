@@ -1,38 +1,32 @@
-#include<bits/stdc++.h>
+#include<iostream>
 using namespace std;
-
 int main()
 {
-int t;
-cin>>t;
-while(t--)
-{
-string s;
-cin>>s;
-int d=0,c=0,k=INT_MAX;
-for(int i=0;i<26;i++)
-{
-char ch=i+'a';
-c=0;d=0;
-for(int j=0;j<s.size();j++)
-{
-if(s[j]!=ch)
-{
-c++;
-d=max(d,c);
-}
-else
-c=0;
-}
-int p=0;
-while(d)
-{
-d/=2;
-p++;
-}
-k=min(p,k);
-}
-cout<<k<<endl;
-}
-
+	ios::sync_with_stdio(false);
+	cin.tie(nullptr);
+	int T;cin>>T;
+	for(;T--;)
+	{
+		string s;cin>>s;
+		int ans=1e9;
+		for(char c='a';c<='z';c++)
+		{
+			int now=0;
+			for(int i=0;i<s.size();)
+			{
+				if(s[i]==c)
+				{
+					i++;
+				}
+				else
+				{
+					int len=0;
+					while(i<s.size()&&s[i]!=c)i++,len++;
+					now=max(now,32-__builtin_clz(len));
+				}
+			}
+			ans=min(ans,now);
+		}
+		cout<<ans<<"\n";
+	}
 }
