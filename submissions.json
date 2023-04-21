@@ -9191,6 +9191,22 @@
     ],
     "timestamp": "Apr/21/2023 17:39"
   },
+  "CF202950773": {
+    "contest_id": 1821,
+    "language": "GNU C++17 (64)",
+    "path": "codeforces/1821/A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Matching",
+    "problem_url": "https://codeforces.com/contest/1821/problem/A",
+    "submission_id": "CF202950773",
+    "submission_url": "https://codeforces.com/contest/1821/submission/202950773",
+    "tags": [
+      "combinatorics",
+      "math"
+    ],
+    "timestamp": "Apr/21/2023 18:11"
+  },
   "CF203000797": {
     "contest_id": 1821,
     "language": "GNU C++17 (64)",
