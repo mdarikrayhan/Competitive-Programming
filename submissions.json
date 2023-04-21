@@ -9191,6 +9191,25 @@
     ],
     "timestamp": "Apr/21/2023 17:39"
   },
+  "CF202950668": {
+    "contest_id": 1821,
+    "language": "GNU C++17 (64)",
+    "path": "codeforces/1821/E.cpp",
+    "platform": "Codeforces",
+    "problem_index": "E",
+    "problem_name": "Rearrange Brackets",
+    "problem_url": "https://codeforces.com/contest/1821/problem/E",
+    "submission_id": "CF202950668",
+    "submission_url": "https://codeforces.com/contest/1821/submission/202950668",
+    "tags": [
+      "brute force",
+      "dp",
+      "greedy",
+      "sortings",
+      "strings"
+    ],
+    "timestamp": "Apr/21/2023 18:09"
+  },
   "CF202950700": {
     "contest_id": 1821,
     "language": "GNU C++17 (64)",
