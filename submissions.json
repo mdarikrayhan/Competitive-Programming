@@ -9191,6 +9191,25 @@
     ],
     "timestamp": "Apr/21/2023 17:39"
   },
+  "CF203117977": {
+    "contest_id": 1819,
+    "language": "GNU C++17",
+    "path": "codeforces/1819/E.cpp",
+    "platform": "Codeforces",
+    "problem_index": "E",
+    "problem_name": "Roads in E City",
+    "problem_url": "https://codeforces.com/contest/1819/problem/E",
+    "submission_id": "CF203117977",
+    "submission_url": "https://codeforces.com/contest/1819/submission/203117977",
+    "tags": [
+      "interactive",
+      "math",
+      "probabilities",
+      "trees",
+      "*3200"
+    ],
+    "timestamp": "Apr/23/2023 12:57"
+  },
   "CF203119064": {
     "contest_id": 1819,
     "language": "GNU C++17",
