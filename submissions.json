@@ -9191,6 +9191,26 @@
     ],
     "timestamp": "Apr/21/2023 17:39"
   },
+  "CF203120778": {
+    "contest_id": 1819,
+    "language": "GNU C++17",
+    "path": "codeforces/1819/B.cpp",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "The Butcher",
+    "problem_url": "https://codeforces.com/contest/1819/problem/B",
+    "submission_id": "CF203120778",
+    "submission_url": "https://codeforces.com/contest/1819/submission/203120778",
+    "tags": [
+      "geometry",
+      "greedy",
+      "implementation",
+      "sortings",
+      "two pointers",
+      "*1900"
+    ],
+    "timestamp": "Apr/23/2023 13:33"
+  },
   "CF203269288": {
     "contest_id": 1822,
     "language": "GNU C++20 (64)",
