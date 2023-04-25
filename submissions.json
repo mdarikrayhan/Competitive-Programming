@@ -12387,6 +12387,30 @@
     ],
     "timestamp": "Apr/25/2023 21:11"
   },
+  "CF203497827": {
+    "contest_id": 1709,
+    "language": "GNU C++17",
+    "path": "codeforces/1709/F.cpp",
+    "platform": "Codeforces",
+    "problem_index": "F",
+    "problem_name": "Multiset of Strings",
+    "problem_url": "https://codeforces.com/contest/1709/problem/F",
+    "submission_id": "CF203497827",
+    "submission_url": "https://codeforces.com/contest/1709/submission/203497827",
+    "tags": [
+      "bitmasks",
+      "brute force",
+      "dp",
+      "fft",
+      "flows",
+      "graphs",
+      "math",
+      "meet-in-the-middle",
+      "trees",
+      "*2500"
+    ],
+    "timestamp": "Apr/26/2023 05:31"
+  },
   "CF203497876": {
     "contest_id": 1706,
     "language": "GNU C++17",
