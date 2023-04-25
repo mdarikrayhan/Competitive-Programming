@@ -10930,6 +10930,25 @@
     ],
     "timestamp": "Apr/25/2023 00:07"
   },
+  "CF203434806": {
+    "contest_id": 1783,
+    "language": "GNU C++17",
+    "path": "codeforces/1783/F.cpp",
+    "platform": "Codeforces",
+    "problem_index": "F",
+    "problem_name": "Double Sort II",
+    "problem_url": "https://codeforces.com/contest/1783/problem/F",
+    "submission_id": "CF203434806",
+    "submission_url": "https://codeforces.com/contest/1783/submission/203434806",
+    "tags": [
+      "dfs and similar",
+      "flows",
+      "graph matchings",
+      "graphs",
+      "*2500"
+    ],
+    "timestamp": "Apr/25/2023 18:39"
+  },
   "CF203434962": {
     "contest_id": 1783,
     "language": "GNU C++17",
