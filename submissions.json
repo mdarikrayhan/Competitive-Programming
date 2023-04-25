@@ -12387,6 +12387,23 @@
     ],
     "timestamp": "Apr/25/2023 21:11"
   },
+  "CF203497233": {
+    "contest_id": 1705,
+    "language": "GNU C++17",
+    "path": "codeforces/1705/A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Mark the Photographer",
+    "problem_url": "https://codeforces.com/contest/1705/problem/A",
+    "submission_id": "CF203497233",
+    "submission_url": "https://codeforces.com/contest/1705/submission/203497233",
+    "tags": [
+      "greedy",
+      "sortings",
+      "*800"
+    ],
+    "timestamp": "Apr/26/2023 05:16"
+  },
   "CF203497260": {
     "contest_id": 1704,
     "language": "GNU C++17",
