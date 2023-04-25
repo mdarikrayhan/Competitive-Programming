@@ -12387,6 +12387,27 @@
     ],
     "timestamp": "Apr/25/2023 21:11"
   },
+  "CF203476323": {
+    "contest_id": 1740,
+    "language": "GNU C++20 (64)",
+    "path": "codeforces/1740/E.cpp",
+    "platform": "Codeforces",
+    "problem_index": "E",
+    "problem_name": "Hanging Hearts",
+    "problem_url": "https://codeforces.com/contest/1740/problem/E",
+    "submission_id": "CF203476323",
+    "submission_url": "https://codeforces.com/contest/1740/submission/203476323",
+    "tags": [
+      "constructive algorithms",
+      "data structures",
+      "dfs and similar",
+      "dp",
+      "greedy",
+      "trees",
+      "*1800"
+    ],
+    "timestamp": "Apr/26/2023 00:24"
+  },
   "CF203496352": {
     "contest_id": 1706,
     "language": "GNU C++17",
