@@ -12387,6 +12387,23 @@
     ],
     "timestamp": "Apr/25/2023 21:11"
   },
+  "CF203496641": {
+    "contest_id": 1705,
+    "language": "GNU C++17",
+    "path": "codeforces/1705/C.cpp",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Mark and His Unfinished Essay",
+    "problem_url": "https://codeforces.com/contest/1705/problem/C",
+    "submission_id": "CF203496641",
+    "submission_url": "https://codeforces.com/contest/1705/submission/203496641",
+    "tags": [
+      "brute force",
+      "implementation",
+      "*1400"
+    ],
+    "timestamp": "Apr/26/2023 05:03"
+  },
   "CF203496727": {
     "contest_id": 1706,
     "language": "GNU C++17",
