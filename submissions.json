@@ -10930,6 +10930,23 @@
     ],
     "timestamp": "Apr/25/2023 00:07"
   },
+  "CF203434229": {
+    "contest_id": 1781,
+    "language": "GNU C++17",
+    "path": "codeforces/1781/G.cpp",
+    "platform": "Codeforces",
+    "problem_index": "G",
+    "problem_name": "Diverse Coloring",
+    "problem_url": "https://codeforces.com/contest/1781/problem/G",
+    "submission_id": "CF203434229",
+    "submission_url": "https://codeforces.com/contest/1781/submission/203434229",
+    "tags": [
+      "constructive algorithms",
+      "trees",
+      "*3200"
+    ],
+    "timestamp": "Apr/25/2023 18:34"
+  },
   "CF203434419": {
     "contest_id": 1781,
     "language": "GNU C++17",
