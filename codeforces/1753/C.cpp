@@ -1,0 +1,2 @@
+#include<iostream>
+long long n,T,a,c[1<<22],y,r,o=998244353,s,x;main(){for(std::cin>>T;T--;a=y=r=s=0){std::cin>>n;for(;s<n;a+=c[s]==0)std::cin>>c[++s];for(s=0;s<a;)y+=c[++s]==1;for(;y;r+=s)for(s=1,a=o-3,x=y--;a;a>>=1,x=x*x%o)a&1?s=s*x%o:0;printf("%d\n",n*(n-1)/2%o*(r%o)%o);}}
