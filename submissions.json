@@ -10930,6 +10930,24 @@
     ],
     "timestamp": "Apr/25/2023 00:07"
   },
+  "CF203434962": {
+    "contest_id": 1783,
+    "language": "GNU C++17",
+    "path": "codeforces/1783/D.cpp",
+    "platform": "Codeforces",
+    "problem_index": "D",
+    "problem_name": "Different Arrays",
+    "problem_url": "https://codeforces.com/contest/1783/problem/D",
+    "submission_id": "CF203434962",
+    "submission_url": "https://codeforces.com/contest/1783/submission/203434962",
+    "tags": [
+      "brute force",
+      "dp",
+      "implementation",
+      "*2000"
+    ],
+    "timestamp": "Apr/25/2023 18:40"
+  },
   "CF203435003": {
     "contest_id": 1784,
     "language": "GNU C++17",
