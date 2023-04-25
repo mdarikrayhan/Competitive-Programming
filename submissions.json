@@ -12387,6 +12387,25 @@
     ],
     "timestamp": "Apr/25/2023 21:11"
   },
+  "CF203469752": {
+    "contest_id": 1750,
+    "language": "GNU C++17",
+    "path": "codeforces/1750/F.cpp",
+    "platform": "Codeforces",
+    "problem_index": "F",
+    "problem_name": "Majority",
+    "problem_url": "https://codeforces.com/contest/1750/problem/F",
+    "submission_id": "CF203469752",
+    "submission_url": "https://codeforces.com/contest/1750/submission/203469752",
+    "tags": [
+      "combinatorics",
+      "dp",
+      "math",
+      "strings",
+      "*2700"
+    ],
+    "timestamp": "Apr/25/2023 23:25"
+  },
   "CF203469835": {
     "contest_id": 1750,
     "language": "GNU C++17",
