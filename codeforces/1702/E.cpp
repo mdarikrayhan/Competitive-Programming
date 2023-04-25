@@ -1,4 +1,4 @@
-#include <bits/stdc++.h> 
+#include <bits/stdc++.h>
 using namespace std;
 int t,n,fa[200005],cnt[200005],num[200005];
 inline int find(int x){
@@ -16,7 +16,7 @@ for(int i=1;i<=n;i++){
 	cin>>x>>y;
 	num[x]++,num[y]++;
     x=find(x),y=find(y);
-	fa[x]=y; 
+	fa[x]=y;
 }
 for(int i=1;i<=n;i++){
 	cnt[find(i)]++;
@@ -28,5 +28,5 @@ if(flag)
 cout<<"NO"<<endl;
 else
 cout<<"YES"<<endl;
-} 
+}
 }
