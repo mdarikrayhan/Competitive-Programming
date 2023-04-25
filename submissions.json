@@ -10930,6 +10930,24 @@
     ],
     "timestamp": "Apr/25/2023 00:07"
   },
+  "CF203450877": {
+    "contest_id": 1760,
+    "language": "GNU C++20 (64)",
+    "path": "codeforces/1760/G.cpp",
+    "platform": "Codeforces",
+    "problem_index": "G",
+    "problem_name": "SlavicG's Favorite Problem",
+    "problem_url": "https://codeforces.com/contest/1760/problem/G",
+    "submission_id": "CF203450877",
+    "submission_url": "https://codeforces.com/contest/1760/submission/203450877",
+    "tags": [
+      "bitmasks",
+      "dfs and similar",
+      "graphs",
+      "*1700"
+    ],
+    "timestamp": "Apr/25/2023 20:48"
+  },
   "CF203451023": {
     "contest_id": 1760,
     "language": "GNU C++17",
