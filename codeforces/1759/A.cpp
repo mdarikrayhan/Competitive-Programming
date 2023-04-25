@@ -1,17 +1,3 @@
-#include<iostream>
+#include<bits/stdc++.h>
 using namespace std;
-string str;
-int T;
-int main()
-{
-	cin>>T;
-	for(int i=50;i>=1;i--)str+="Yes";
-	while(T--)
-	{
-		string p;
-		cin>>p;
-		if(str.find(p,0)!=-1)puts("YES");
-		else puts("NO");
-	}
-	return 0;
-}
+int a, i; main(){cin>>a;while(a--){string s;cin>>s;string p="";for(i=0;i<50;i++){p=p+"Yes";}if(p.find(s)!=-1){cout<<"YES"<<endl;}else cout<<"NO"<<endl;}}
