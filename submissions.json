@@ -12387,6 +12387,23 @@
     ],
     "timestamp": "Apr/25/2023 21:11"
   },
+  "CF203468225": {
+    "contest_id": 1748,
+    "language": "GNU C++17",
+    "path": "codeforces/1748/F.cpp",
+    "platform": "Codeforces",
+    "problem_index": "F",
+    "problem_name": "Circular Xor Reversal",
+    "problem_url": "https://codeforces.com/contest/1748/problem/F",
+    "submission_id": "CF203468225",
+    "submission_url": "https://codeforces.com/contest/1748/submission/203468225",
+    "tags": [
+      "bitmasks",
+      "constructive algorithms",
+      "*3000"
+    ],
+    "timestamp": "Apr/25/2023 23:12"
+  },
   "CF203468294": {
     "contest_id": 1748,
     "language": "GNU C++17",
