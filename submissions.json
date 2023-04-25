@@ -10930,6 +10930,24 @@
     ],
     "timestamp": "Apr/25/2023 00:07"
   },
+  "CF203436891": {
+    "contest_id": 1779,
+    "language": "GNU C++17",
+    "path": "codeforces/1779/G.cpp",
+    "platform": "Codeforces",
+    "problem_index": "G",
+    "problem_name": "The Game of the Century",
+    "problem_url": "https://codeforces.com/contest/1779/problem/G",
+    "submission_id": "CF203436891",
+    "submission_url": "https://codeforces.com/contest/1779/submission/203436891",
+    "tags": [
+      "constructive algorithms",
+      "graphs",
+      "shortest paths",
+      "*3000"
+    ],
+    "timestamp": "Apr/25/2023 18:55"
+  },
   "CF203436974": {
     "contest_id": 1779,
     "language": "GNU C++17",
