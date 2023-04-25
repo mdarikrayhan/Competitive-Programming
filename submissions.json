@@ -12387,6 +12387,23 @@
     ],
     "timestamp": "Apr/25/2023 21:11"
   },
+  "CF203468482": {
+    "contest_id": 1753,
+    "language": "GNU C++17",
+    "path": "codeforces/1753/F.cpp",
+    "platform": "Codeforces",
+    "problem_index": "F",
+    "problem_name": "Minecraft Series",
+    "problem_url": "https://codeforces.com/contest/1753/problem/F",
+    "submission_id": "CF203468482",
+    "submission_url": "https://codeforces.com/contest/1753/submission/203468482",
+    "tags": [
+      "brute force",
+      "two pointers",
+      "*3500"
+    ],
+    "timestamp": "Apr/25/2023 23:14"
+  },
   "CF203468548": {
     "contest_id": 1753,
     "language": "GNU C++17",
