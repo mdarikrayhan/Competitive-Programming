@@ -10930,6 +10930,24 @@
     ],
     "timestamp": "Apr/25/2023 00:07"
   },
+  "CF203435414": {
+    "contest_id": 1781,
+    "language": "GNU C++17",
+    "path": "codeforces/1781/D.cpp",
+    "platform": "Codeforces",
+    "problem_index": "D",
+    "problem_name": "Many Perfect Squares",
+    "problem_url": "https://codeforces.com/contest/1781/problem/D",
+    "submission_id": "CF203435414",
+    "submission_url": "https://codeforces.com/contest/1781/submission/203435414",
+    "tags": [
+      "brute force",
+      "math",
+      "number theory",
+      "*1800"
+    ],
+    "timestamp": "Apr/25/2023 18:44"
+  },
   "CF203435771": {
     "contest_id": 1780,
     "language": "GNU C++17",
