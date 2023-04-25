@@ -10930,6 +10930,24 @@
     ],
     "timestamp": "Apr/25/2023 00:07"
   },
+  "CF203452922": {
+    "contest_id": 1753,
+    "language": "GNU C++17",
+    "path": "codeforces/1753/E.cpp",
+    "platform": "Codeforces",
+    "problem_index": "E",
+    "problem_name": "N Machines",
+    "problem_url": "https://codeforces.com/contest/1753/problem/E",
+    "submission_id": "CF203452922",
+    "submission_url": "https://codeforces.com/contest/1753/submission/203452922",
+    "tags": [
+      "binary search",
+      "brute force",
+      "greedy",
+      "*3300"
+    ],
+    "timestamp": "Apr/25/2023 21:03"
+  },
   "CF203453022": {
     "contest_id": 1762,
     "language": "GNU C++17",
