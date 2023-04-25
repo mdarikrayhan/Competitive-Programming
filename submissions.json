@@ -12387,6 +12387,26 @@
     ],
     "timestamp": "Apr/25/2023 21:11"
   },
+  "CF203496874": {
+    "contest_id": 1704,
+    "language": "GNU C++17",
+    "path": "codeforces/1704/H1.cpp",
+    "platform": "Codeforces",
+    "problem_index": "H1",
+    "problem_name": "Game of AI (easy version)",
+    "problem_url": "https://codeforces.com/contest/1704/problem/H1",
+    "submission_id": "CF203496874",
+    "submission_url": "https://codeforces.com/contest/1704/submission/203496874",
+    "tags": [
+      "combinatorics",
+      "constructive algorithms",
+      "dp",
+      "fft",
+      "math",
+      "*3200"
+    ],
+    "timestamp": "Apr/26/2023 05:08"
+  },
   "CF203497110": {
     "contest_id": 1704,
     "language": "GNU C++17",
