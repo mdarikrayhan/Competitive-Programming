@@ -10930,6 +10930,25 @@
     ],
     "timestamp": "Apr/25/2023 00:07"
   },
+  "CF203443329": {
+    "contest_id": 1781,
+    "language": "GNU C++17",
+    "path": "codeforces/1781/F.cpp",
+    "platform": "Codeforces",
+    "problem_index": "F",
+    "problem_name": "Bracket Insertion",
+    "problem_url": "https://codeforces.com/contest/1781/problem/F",
+    "submission_id": "CF203443329",
+    "submission_url": "https://codeforces.com/contest/1781/submission/203443329",
+    "tags": [
+      "combinatorics",
+      "dp",
+      "math",
+      "trees",
+      "*2700"
+    ],
+    "timestamp": "Apr/25/2023 19:48"
+  },
   "CF203443457": {
     "contest_id": 1779,
     "language": "GNU C++17",
