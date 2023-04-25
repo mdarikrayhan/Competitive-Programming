@@ -10930,6 +10930,24 @@
     ],
     "timestamp": "Apr/25/2023 00:07"
   },
+  "CF203453022": {
+    "contest_id": 1762,
+    "language": "GNU C++17",
+    "path": "codeforces/1762/A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Divide and Conquer",
+    "problem_url": "https://codeforces.com/contest/1762/problem/A",
+    "submission_id": "CF203453022",
+    "submission_url": "https://codeforces.com/contest/1762/submission/203453022",
+    "tags": [
+      "greedy",
+      "math",
+      "number theory",
+      "*800"
+    ],
+    "timestamp": "Apr/25/2023 21:04"
+  },
   "CF203453029": {
     "contest_id": 1753,
     "language": "GNU C++17",
