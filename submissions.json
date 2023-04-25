@@ -10930,6 +10930,23 @@
     ],
     "timestamp": "Apr/25/2023 00:07"
   },
+  "CF203433757": {
+    "contest_id": 1784,
+    "language": "GNU C++17",
+    "path": "codeforces/1784/A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Monsters (easy version)",
+    "problem_url": "https://codeforces.com/contest/1784/problem/A",
+    "submission_id": "CF203433757",
+    "submission_url": "https://codeforces.com/contest/1784/submission/203433757",
+    "tags": [
+      "brute force",
+      "greedy",
+      "*1000"
+    ],
+    "timestamp": "Apr/25/2023 18:30"
+  },
   "CF203434142": {
     "contest_id": 1781,
     "language": "GNU C++17",
