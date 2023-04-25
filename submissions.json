@@ -10930,6 +10930,25 @@
     ],
     "timestamp": "Apr/25/2023 00:07"
   },
+  "CF203437274": {
+    "contest_id": 1778,
+    "language": "GNU C++17",
+    "path": "codeforces/1778/E.cpp",
+    "platform": "Codeforces",
+    "problem_index": "E",
+    "problem_name": "The Tree Has Fallen!",
+    "problem_url": "https://codeforces.com/contest/1778/problem/E",
+    "submission_id": "CF203437274",
+    "submission_url": "https://codeforces.com/contest/1778/submission/203437274",
+    "tags": [
+      "bitmasks",
+      "dfs and similar",
+      "math",
+      "trees",
+      "*2500"
+    ],
+    "timestamp": "Apr/25/2023 18:58"
+  },
   "CF203437379": {
     "contest_id": 1778,
     "language": "GNU C++17",
