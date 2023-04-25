@@ -12387,6 +12387,24 @@
     ],
     "timestamp": "Apr/25/2023 21:11"
   },
+  "CF203476256": {
+    "contest_id": 1740,
+    "language": "GNU C++20 (64)",
+    "path": "codeforces/1740/G.cpp",
+    "platform": "Codeforces",
+    "problem_index": "G",
+    "problem_name": "Dangerous Laser Power",
+    "problem_url": "https://codeforces.com/contest/1740/problem/G",
+    "submission_id": "CF203476256",
+    "submission_url": "https://codeforces.com/contest/1740/submission/203476256",
+    "tags": [
+      "constructive algorithms",
+      "dsu",
+      "sortings",
+      "*3100"
+    ],
+    "timestamp": "Apr/26/2023 00:23"
+  },
   "CF203476323": {
     "contest_id": 1740,
     "language": "GNU C++20 (64)",
