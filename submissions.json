@@ -10930,6 +10930,22 @@
     ],
     "timestamp": "Apr/25/2023 00:07"
   },
+  "CF203444080": {
+    "contest_id": 1776,
+    "language": "GNU C++20 (64)",
+    "path": "codeforces/1776/N.cpp",
+    "platform": "Codeforces",
+    "problem_index": "N",
+    "problem_name": "Count Permutations",
+    "problem_url": "https://codeforces.com/contest/1776/problem/N",
+    "submission_id": "CF203444080",
+    "submission_url": "https://codeforces.com/contest/1776/submission/203444080",
+    "tags": [
+      "math",
+      "*3500"
+    ],
+    "timestamp": "Apr/25/2023 19:54"
+  },
   "CF203444101": {
     "contest_id": 1777,
     "language": "GNU C++20 (64)",
