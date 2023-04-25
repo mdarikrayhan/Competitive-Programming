@@ -1,236 +1,93 @@
-/***************************************************/
-/*            Author : Md. Arik Rayhan             */
-/*        Github : github.com/mdarikrayhan         */
-/***************************************************/
-#ifndef _GLIBCXX_NO_ASSERT
-#include <cassert>
-#endif
-#include <cctype>
-#include <cerrno>
-#include <cfloat>
-#include <ciso646>
-#include <climits>
-#include <clocale>
-#include <cmath>
-#include <csetjmp>
-#include <csignal>
-#include <cstdarg>
-#include <cstddef>
 #include <cstdio>
-#include <cstdlib>
-#include <cstring>
-#include <ctime>
-#if __cplusplus >= 201103L
-#include <ccomplex>
-#include <cfenv>
-#include <cinttypes>
-#include <cstdbool>
-#include <cstdint>
-#include <ctgmath>
-#include <cwchar>
-#include <cwctype>
-#endif
-// C++
 #include <algorithm>
-#include <bitset>
-#include <complex>
-#include <deque>
-#include <exception>
-#include <fstream>
-#include <functional>
-#include <iomanip>
-#include <ios>
-#include <iosfwd>
-#include <iostream>
-#include <istream>
-#include <iterator>
-#include <limits>
-#include <list>
-#include <locale>
-#include <map>
-#include <memory>
-#include <new>
-#include <numeric>
-#include <ostream>
-#include <queue>
-#include <set>
-#include <sstream>
-#include <stack>
-#include <stdexcept>
-#include <streambuf>
-#include <string>
-#include <typeinfo>
-#include <utility>
-#include <valarray>
-#include <vector>
+#define maxn 100000
 
-#if __cplusplus >= 201103L
-#include <array>
-#include <atomic>
-#include <chrono>
-#include <condition_variable>
-#include <forward_list>
-#include <future>
-#include <initializer_list>
-#include <mutex>
-#include <random>
-#include <ratio>
-#include <regex>
-#include <scoped_allocator>
-#include <system_error>
-#include <thread>
-#include <tuple>
-#include <typeindex>
-#include <type_traits>
-#include <unordered_map>
-#include <unordered_set>
-#endif
-using namespace std;
-const char nl = '\n';
-
-typedef long long ll;
-typedef long double ld;
-typedef complex<ld> cd;
-
-typedef pair<int, int> pi;
-typedef pair<ll, ll> pl;
-typedef pair<ld, ld> pd;
-
-typedef vector<int> vi;
-typedef vector<ld> vd;
-typedef vector<ll> vl;
-typedef vector<pi> vpi;
-typedef vector<pl> vpl;
-typedef vector<cd> vcd;
-
-#define rep(i, a, b) for (int i = a; i < (b); i++)
-#define per(i, a, b) for (int i = (b)-1; i >= a; i--)
-#define print_map(m)                                                     \
-    for (const auto &[key, value] : m)                                   \
-    {                                                                    \
-        cout << '[' << key << ']' << ' ' << '=' << ' ' << value << '\n'; \
-    }
-#define print_vector(v)                          \
-    int vadnfiv = 0;                             \
-    for (const auto &value : v)                  \
-    {                                            \
-        cout << vadnfiv << ' ' << value << '\n'; \
-        vadnfiv++;                               \
-    }
-#define gcd(a, b) __gcd(a, b)
-#define lcm(a, b) (a * (b / gcd(a, b)))
-
-#define start_time                            \
-    using std::chrono::duration;              \
-    using std::chrono::duration_cast;         \
-    using std::chrono::high_resolution_clock; \
-    using std::chrono::milliseconds;          \
-    auto t1111 = high_resolution_clock::now();
-#define end_time                                            \
-    auto t2222 = high_resolution_clock::now();              \
-    duration<double, std::milli> ms_double = t2222 - t1111; \
-    std::cout << ms_double.count() << 'm' << 's' << nl;
-#define sz(x) (int)(x).size()
-#define mp make_pair
-#define pb push_back
-#define ff first
-#define ss second
-#define lb lower_bound
-#define ub upper_bound
-#define all(x) x.begin(), x.end()
-#define ins insert
-#define fastio                        \
-    ios_base::sync_with_stdio(false); \
-    cin.tie(NULL);                    \
-    cout.tie(NULL);
-#define multicase         \
-    int NoOfTestCase = 1; \
-    cin >> NoOfTestCase;  \
-    for (int testcaseno = 1; testcaseno <= NoOfTestCase; testcaseno++)
-bool isPrime(int n)
+namespace cltstream
 {
-    if (n == 2 || n == 3)
-    {
-        return true;
-    }
-    if (n <= 1 || n % 2 == 0 || n % 3 == 0)
-    {
-        return false;
-    }
-    for (int i = 5; i * i <= n; i += 6)
-    {
-        if (n % i == 0 || n % (i + 2) == 0)
-        {
-            return false;
-        }
-    }
-    return true;
-}
-bool isPalindrome(string S)
-{
-    string P = S;
-    reverse(P.begin(), P.end());
-    if (S == P)
-    {
-        return true;
-    }
-    else
-    {
-        return false;
-    }
-}
-bool isPowerof(long long num, long long base)
-{
-    if (num <= 0)
-    {
-        return false;
-    }
-    if (num % base == 0)
-    {
-        return isPowerof(num / base, base);
-    }
-    if (num == 1)
-    {
-        return true;
-    }
-    return false;
+	#define size 1048576
+	char cltin[size + 1], *ih = cltin, *it = cltin;
+	inline char gc()
+	{
+		#ifdef ONLINE_JUDGE
+		if (ih == it)
+		{
+			it = (ih = cltin) + fread(cltin, 1, size, stdin);
+			if (ih == it)
+				return EOF;
+		}
+		return *ih++;
+		#else
+		return getchar();
+		#endif
+	}
+
+	char cltout[size + 1], *oh = cltout, *ot = cltout + size;
+	inline void pc(char c)
+	{
+		if (oh == ot)
+		{
+			fwrite(cltout, 1, size, stdout);
+			oh = cltout;
+		}
+		*oh++ = c;
+	}
+	#define clop() fwrite(cltstream::cltout, 1, cltstream::oh - cltstream::cltout, stdout), cltstream::oh = cltstream::cltout
+	#undef size
+
+	template <typename _tp>
+	inline void read(_tp& x)
+	{
+		char c = gc();
+		for (; c != 45 && (c < 48 || c > 57) && c != EOF; c = gc());
+		int sgn = c == 45 ? c = gc(), -1 : 1;
+		for (x = 0; c >= 48 && c <= 57 && c != EOF; x = (x << 3) + (x << 1) + (c ^ 48), c = gc());
+		x *= sgn;
+	}
+
+	template <typename _tp>
+	inline void write(_tp x, char text = -1)
+	{
+		if (x < 0)
+			pc(45), x = -x;
+		if (!x)
+			pc(48);
+		else
+		{
+			int digit[22];
+			for (digit[0] = 0; x; digit[++digit[0]] = x % 10, x /= 10);
+			for (; digit[0]; pc(digit[digit[0]--] ^ 48));
+		}
+		if (text >= 0)
+			pc(text);
+	}
+
+	inline void put(char str[], char text = -1)
+	{
+		for (int cur = 0; str[cur]; pc(str[cur++]));
+		if (text >= 0)
+			pc(text);
+	}
 }
 
-template <class T>
-bool ckmin(T &a, const T &b) { return b < a ? a = b, 1 : 0; }
-template <class T>
-bool ckmax(T &a, const T &b) { return a < b ? a = b, 1 : 0; }
+int T, n;
+int a[maxn + 1];
 
 int main()
 {
-    fastio
-        multicase
-    {
-        long long n;
-        cin >> n;
-        vector<long long> a;
-        long long mina = LONG_MAX;
-        for (long long i = 0; i < n; i++)
-        {
-            long long number;
-            cin >> number;
-            a.push_back(number);
-            mina = min(number, mina);
-        }
-        if (mina == a[0])
-        {
-            cout << "Bob" << nl;
-        }
-        else
-        {
-            cout << "Alice" << nl;
-        }
-        int arr[100];
-        for (int i = 0; i < 100; i++)
-        {
-            arr[i]=i+1;
-        }
-        sort(arr,arr+100);
-    }
-    return 0;
+	cltstream::read(T);
+	for (; T; --T)
+	{
+		cltstream::read(n);
+		for (int i = 1; i <= n; ++i)
+			cltstream::read(a[i]);
+		int min = 1e9;
+		for (int i = 2; i <= n; ++i)
+			min = std::min(min, a[i]);
+		if (a[1] <= min)
+			cltstream::put("Bob", 10);
+		else
+			cltstream::put("Alice", 10);
+	}
+	clop();
+	return 0;
 }
