@@ -10930,6 +10930,25 @@
     ],
     "timestamp": "Apr/25/2023 00:07"
   },
+  "CF203433053": {
+    "contest_id": 1822,
+    "language": "GNU C++17",
+    "path": "codeforces/1822/G2.cpp",
+    "platform": "Codeforces",
+    "problem_index": "G2",
+    "problem_name": "Magic Triples (Hard Version)",
+    "problem_url": "https://codeforces.com/contest/1822/problem/G2",
+    "submission_id": "CF203433053",
+    "submission_url": "https://codeforces.com/contest/1822/submission/203433053",
+    "tags": [
+      "binary search",
+      "brute force",
+      "divide and conquer",
+      "math",
+      "number theory"
+    ],
+    "timestamp": "Apr/25/2023 18:24"
+  },
   "CF203433231": {
     "contest_id": 1822,
     "language": "GNU C++17",
