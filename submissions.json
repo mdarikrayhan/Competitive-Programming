@@ -10930,6 +10930,24 @@
     ],
     "timestamp": "Apr/25/2023 00:07"
   },
+  "CF203433316": {
+    "contest_id": 1792,
+    "language": "GNU C++17",
+    "path": "codeforces/1792/F1.cpp",
+    "platform": "Codeforces",
+    "problem_index": "F1",
+    "problem_name": "Graph Coloring (easy version)",
+    "problem_url": "https://codeforces.com/contest/1792/problem/F1",
+    "submission_id": "CF203433316",
+    "submission_url": "https://codeforces.com/contest/1792/submission/203433316",
+    "tags": [
+      "combinatorics",
+      "dp",
+      "graphs",
+      "*2700"
+    ],
+    "timestamp": "Apr/25/2023 18:27"
+  },
   "CF203433406": {
     "contest_id": 1792,
     "language": "GNU C++17",
