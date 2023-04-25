@@ -12387,6 +12387,24 @@
     ],
     "timestamp": "Apr/25/2023 21:11"
   },
+  "CF203469676": {
+    "contest_id": 1750,
+    "language": "GNU C++17",
+    "path": "codeforces/1750/G.cpp",
+    "platform": "Codeforces",
+    "problem_index": "G",
+    "problem_name": "Doping",
+    "problem_url": "https://codeforces.com/contest/1750/problem/G",
+    "submission_id": "CF203469676",
+    "submission_url": "https://codeforces.com/contest/1750/submission/203469676",
+    "tags": [
+      "combinatorics",
+      "dp",
+      "math",
+      "*3300"
+    ],
+    "timestamp": "Apr/25/2023 23:24"
+  },
   "CF203469752": {
     "contest_id": 1750,
     "language": "GNU C++17",
