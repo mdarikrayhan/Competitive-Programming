@@ -10930,6 +10930,23 @@
     ],
     "timestamp": "Apr/25/2023 00:07"
   },
+  "CF203443457": {
+    "contest_id": 1779,
+    "language": "GNU C++17",
+    "path": "codeforces/1779/H.cpp",
+    "platform": "Codeforces",
+    "problem_index": "H",
+    "problem_name": "Olympic Team Building",
+    "problem_url": "https://codeforces.com/contest/1779/problem/H",
+    "submission_id": "CF203443457",
+    "submission_url": "https://codeforces.com/contest/1779/submission/203443457",
+    "tags": [
+      "brute force",
+      "meet-in-the-middle",
+      "*3500"
+    ],
+    "timestamp": "Apr/25/2023 19:49"
+  },
   "CF203443988": {
     "contest_id": 1778,
     "language": "GNU C++17",
