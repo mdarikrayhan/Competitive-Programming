@@ -10930,6 +10930,22 @@
     ],
     "timestamp": "Apr/25/2023 00:07"
   },
+  "CF203452126": {
+    "contest_id": 1776,
+    "language": "GNU C++17",
+    "path": "codeforces/1776/A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Walking Boy",
+    "problem_url": "https://codeforces.com/contest/1776/problem/A",
+    "submission_id": "CF203452126",
+    "submission_url": "https://codeforces.com/contest/1776/submission/203452126",
+    "tags": [
+      "greedy",
+      "*800"
+    ],
+    "timestamp": "Apr/25/2023 20:57"
+  },
   "CF203452180": {
     "contest_id": 1761,
     "language": "GNU C++17",
