@@ -12387,6 +12387,26 @@
     ],
     "timestamp": "Apr/25/2023 21:11"
   },
+  "CF203475555": {
+    "contest_id": 1742,
+    "language": "GNU C++20 (64)",
+    "path": "codeforces/1742/G.cpp",
+    "platform": "Codeforces",
+    "problem_index": "G",
+    "problem_name": "Orray",
+    "problem_url": "https://codeforces.com/contest/1742/problem/G",
+    "submission_id": "CF203475555",
+    "submission_url": "https://codeforces.com/contest/1742/submission/203475555",
+    "tags": [
+      "bitmasks",
+      "brute force",
+      "greedy",
+      "math",
+      "sortings",
+      "*1500"
+    ],
+    "timestamp": "Apr/26/2023 00:16"
+  },
   "CF203475819": {
     "contest_id": 1741,
     "language": "GNU C++20 (64)",
