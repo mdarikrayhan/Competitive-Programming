@@ -10930,6 +10930,23 @@
     ],
     "timestamp": "Apr/25/2023 00:07"
   },
+  "CF203453700": {
+    "contest_id": 774,
+    "language": "GNU C++17",
+    "path": "codeforces/774/G.cpp",
+    "platform": "Codeforces",
+    "problem_index": "G",
+    "problem_name": "Perfectionist Arkadiy",
+    "problem_url": "https://codeforces.com/contest/774/problem/G",
+    "submission_id": "CF203453700",
+    "submission_url": "https://codeforces.com/contest/774/submission/203453700",
+    "tags": [
+      "*special problem",
+      "number theory",
+      "*2700"
+    ],
+    "timestamp": "Apr/25/2023 21:09"
+  },
   "CF203453822": {
     "contest_id": 1754,
     "language": "GNU C++17",
