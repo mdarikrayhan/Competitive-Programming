@@ -12387,6 +12387,25 @@
     ],
     "timestamp": "Apr/25/2023 21:11"
   },
+  "CF203474573": {
+    "contest_id": 1743,
+    "language": "GNU C++20 (64)",
+    "path": "codeforces/1743/F.cpp",
+    "platform": "Codeforces",
+    "problem_index": "F",
+    "problem_name": "Intersection and Union",
+    "problem_url": "https://codeforces.com/contest/1743/problem/F",
+    "submission_id": "CF203474573",
+    "submission_url": "https://codeforces.com/contest/1743/submission/203474573",
+    "tags": [
+      "data structures",
+      "dp",
+      "matrices",
+      "probabilities",
+      "*2300"
+    ],
+    "timestamp": "Apr/26/2023 00:07"
+  },
   "CF203474630": {
     "contest_id": 1743,
     "language": "GNU C++20 (64)",
