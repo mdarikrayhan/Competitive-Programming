@@ -10930,6 +10930,23 @@
     ],
     "timestamp": "Apr/25/2023 00:07"
   },
+  "CF203435870": {
+    "contest_id": 1780,
+    "language": "GNU C++17",
+    "path": "codeforces/1780/A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Hayato and School",
+    "problem_url": "https://codeforces.com/contest/1780/problem/A",
+    "submission_id": "CF203435870",
+    "submission_url": "https://codeforces.com/contest/1780/submission/203435870",
+    "tags": [
+      "constructive algorithms",
+      "greedy",
+      "*800"
+    ],
+    "timestamp": "Apr/25/2023 18:48"
+  },
   "CF203436078": {
     "contest_id": 1783,
     "language": "GNU C++17",
