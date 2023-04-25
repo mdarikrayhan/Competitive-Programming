@@ -10930,6 +10930,27 @@
     ],
     "timestamp": "Apr/25/2023 00:07"
   },
+  "CF203436364": {
+    "contest_id": 1781,
+    "language": "GNU C++17",
+    "path": "codeforces/1781/C.cpp",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Equal Frequencies",
+    "problem_url": "https://codeforces.com/contest/1781/problem/C",
+    "submission_id": "CF203436364",
+    "submission_url": "https://codeforces.com/contest/1781/submission/203436364",
+    "tags": [
+      "brute force",
+      "constructive algorithms",
+      "greedy",
+      "implementation",
+      "sortings",
+      "strings",
+      "*1600"
+    ],
+    "timestamp": "Apr/25/2023 18:51"
+  },
   "CF203436471": {
     "contest_id": 1781,
     "language": "GNU C++17",
