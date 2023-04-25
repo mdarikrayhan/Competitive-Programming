@@ -10930,6 +10930,25 @@
     ],
     "timestamp": "Apr/25/2023 00:07"
   },
+  "CF203432965": {
+    "contest_id": 1783,
+    "language": "GNU C++17",
+    "path": "codeforces/1783/E.cpp",
+    "platform": "Codeforces",
+    "problem_index": "E",
+    "problem_name": "Game of the Year",
+    "problem_url": "https://codeforces.com/contest/1783/problem/E",
+    "submission_id": "CF203432965",
+    "submission_url": "https://codeforces.com/contest/1783/submission/203432965",
+    "tags": [
+      "brute force",
+      "data structures",
+      "math",
+      "number theory",
+      "*2300"
+    ],
+    "timestamp": "Apr/25/2023 18:24"
+  },
   "CF203433053": {
     "contest_id": 1822,
     "language": "GNU C++17",

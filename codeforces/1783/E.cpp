@@ -1,0 +1,2 @@
+#include<bits/stdc++.h>
+using namespace std;int T,n,ans[200010],top,s[200010],a[200010],b[200010];bool check(int x){for(int i=x;i<=n;i+=x)if(s[i]!=s[i-x])return 0;return 1;}int main(){for(scanf("%d",&T);T--;){scanf("%d",&n),memset(s,0,(n+1)<<2),top=0;for(int i=1;i<=n;++i)scanf("%d",&a[i]);for(int i=1;i<=n;++i){scanf("%d",&b[i]);if(a[i]>b[i])++s[b[i]],--s[a[i]];}for(int i=1;i<=n;++i)s[i]+=s[i-1];for(int i=1;i<=n;++i)if(check(i))ans[++top]=i;printf("%d\n",top);for(int i=1;i<=top;++i)printf("%d ",ans[i]);putchar('\n');}return 0;}
