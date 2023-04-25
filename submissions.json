@@ -10930,6 +10930,23 @@
     ],
     "timestamp": "Apr/25/2023 00:07"
   },
+  "CF203451723": {
+    "contest_id": 1758,
+    "language": "GNU C++17",
+    "path": "codeforces/1758/F.cpp",
+    "platform": "Codeforces",
+    "problem_index": "F",
+    "problem_name": "Decent Division",
+    "problem_url": "https://codeforces.com/contest/1758/problem/F",
+    "submission_id": "CF203451723",
+    "submission_url": "https://codeforces.com/contest/1758/submission/203451723",
+    "tags": [
+      "constructive algorithms",
+      "data structures",
+      "*3000"
+    ],
+    "timestamp": "Apr/25/2023 20:55"
+  },
   "CF203451860": {
     "contest_id": 1776,
     "language": "GNU C++17",
