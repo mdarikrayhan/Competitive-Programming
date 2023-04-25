@@ -12387,6 +12387,24 @@
     ],
     "timestamp": "Apr/25/2023 21:11"
   },
+  "CF203467973": {
+    "contest_id": 1749,
+    "language": "GNU C++17",
+    "path": "codeforces/1749/F.cpp",
+    "platform": "Codeforces",
+    "problem_index": "F",
+    "problem_name": "Distance to the Path",
+    "problem_url": "https://codeforces.com/contest/1749/problem/F",
+    "submission_id": "CF203467973",
+    "submission_url": "https://codeforces.com/contest/1749/submission/203467973",
+    "tags": [
+      "data structures",
+      "dfs and similar",
+      "trees",
+      "*2800"
+    ],
+    "timestamp": "Apr/25/2023 23:10"
+  },
   "CF203468035": {
     "contest_id": 1749,
     "language": "GNU C++17",
