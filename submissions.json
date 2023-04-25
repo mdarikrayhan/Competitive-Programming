@@ -12387,6 +12387,25 @@
     ],
     "timestamp": "Apr/25/2023 21:11"
   },
+  "CF203469025": {
+    "contest_id": 1746,
+    "language": "GNU C++17",
+    "path": "codeforces/1746/E1.cpp",
+    "platform": "Codeforces",
+    "problem_index": "E1",
+    "problem_name": "Joking (Easy Version)",
+    "problem_url": "https://codeforces.com/contest/1746/problem/E1",
+    "submission_id": "CF203469025",
+    "submission_url": "https://codeforces.com/contest/1746/submission/203469025",
+    "tags": [
+      "binary search",
+      "constructive algorithms",
+      "interactive",
+      "ternary search",
+      "*2500"
+    ],
+    "timestamp": "Apr/25/2023 23:19"
+  },
   "CF203469092": {
     "contest_id": 1747,
     "language": "GNU C++17",
