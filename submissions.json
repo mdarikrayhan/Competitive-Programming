@@ -10930,6 +10930,23 @@
     ],
     "timestamp": "Apr/25/2023 00:07"
   },
+  "CF203452226": {
+    "contest_id": 1775,
+    "language": "GNU C++17",
+    "path": "codeforces/1775/E.cpp",
+    "platform": "Codeforces",
+    "problem_index": "E",
+    "problem_name": "The Human Equation",
+    "problem_url": "https://codeforces.com/contest/1775/problem/E",
+    "submission_id": "CF203452226",
+    "submission_url": "https://codeforces.com/contest/1775/submission/203452226",
+    "tags": [
+      "greedy",
+      "implementation",
+      "*2100"
+    ],
+    "timestamp": "Apr/25/2023 20:58"
+  },
   "CF203452269": {
     "contest_id": 1775,
     "language": "GNU C++17",
