@@ -10930,6 +10930,24 @@
     ],
     "timestamp": "Apr/25/2023 00:07"
   },
+  "CF203441034": {
+    "contest_id": 1783,
+    "language": "GNU C++17",
+    "path": "codeforces/1783/A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Make it Beautiful",
+    "problem_url": "https://codeforces.com/contest/1783/problem/A",
+    "submission_id": "CF203441034",
+    "submission_url": "https://codeforces.com/contest/1783/submission/203441034",
+    "tags": [
+      "constructive algorithms",
+      "math",
+      "sortings",
+      "*800"
+    ],
+    "timestamp": "Apr/25/2023 19:28"
+  },
   "CF203442548": {
     "contest_id": 1779,
     "language": "GNU C++17",
