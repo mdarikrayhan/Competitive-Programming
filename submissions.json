@@ -10930,6 +10930,24 @@
     ],
     "timestamp": "Apr/25/2023 00:07"
   },
+  "CF203445797": {
+    "contest_id": 1776,
+    "language": "GNU C++17",
+    "path": "codeforces/1776/D.cpp",
+    "platform": "Codeforces",
+    "problem_index": "D",
+    "problem_name": "Teamwork",
+    "problem_url": "https://codeforces.com/contest/1776/problem/D",
+    "submission_id": "CF203445797",
+    "submission_url": "https://codeforces.com/contest/1776/submission/203445797",
+    "tags": [
+      "constructive algorithms",
+      "greedy",
+      "math",
+      "*2800"
+    ],
+    "timestamp": "Apr/25/2023 20:08"
+  },
   "CF203446115": {
     "contest_id": 1775,
     "language": "GNU C++17",
