@@ -10930,6 +10930,25 @@
     ],
     "timestamp": "Apr/25/2023 00:07"
   },
+  "CF203453584": {
+    "contest_id": 1749,
+    "language": "GNU C++17",
+    "path": "codeforces/1749/E.cpp",
+    "platform": "Codeforces",
+    "problem_index": "E",
+    "problem_name": "Cactus Wall",
+    "problem_url": "https://codeforces.com/contest/1749/problem/E",
+    "submission_id": "CF203453584",
+    "submission_url": "https://codeforces.com/contest/1749/submission/203453584",
+    "tags": [
+      "constructive algorithms",
+      "dfs and similar",
+      "graphs",
+      "shortest paths",
+      "*2400"
+    ],
+    "timestamp": "Apr/25/2023 21:08"
+  },
   "CF203453693": {
     "contest_id": 1754,
     "language": "GNU C++17",
