@@ -12387,6 +12387,24 @@
     ],
     "timestamp": "Apr/25/2023 21:11"
   },
+  "CF203497603": {
+    "contest_id": 1704,
+    "language": "GNU C++17",
+    "path": "codeforces/1704/B.cpp",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Luke is a Foodie",
+    "problem_url": "https://codeforces.com/contest/1704/problem/B",
+    "submission_id": "CF203497603",
+    "submission_url": "https://codeforces.com/contest/1704/submission/203497603",
+    "tags": [
+      "brute force",
+      "greedy",
+      "implementation",
+      "*1000"
+    ],
+    "timestamp": "Apr/26/2023 05:25"
+  },
   "CF203497645": {
     "contest_id": 1703,
     "language": "GNU C++17",
