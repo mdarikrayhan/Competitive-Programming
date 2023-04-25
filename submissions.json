@@ -10930,6 +10930,26 @@
     ],
     "timestamp": "Apr/25/2023 00:07"
   },
+  "CF203444101": {
+    "contest_id": 1777,
+    "language": "GNU C++20 (64)",
+    "path": "codeforces/1777/F.cpp",
+    "platform": "Codeforces",
+    "problem_index": "F",
+    "problem_name": "Comfortably Numb",
+    "problem_url": "https://codeforces.com/contest/1777/problem/F",
+    "submission_id": "CF203444101",
+    "submission_url": "https://codeforces.com/contest/1777/submission/203444101",
+    "tags": [
+      "bitmasks",
+      "data structures",
+      "divide and conquer",
+      "strings",
+      "trees",
+      "*2400"
+    ],
+    "timestamp": "Apr/25/2023 19:54"
+  },
   "CF203444524": {
     "contest_id": 1776,
     "language": "GNU C++17",
