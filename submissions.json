@@ -10930,6 +10930,25 @@
     ],
     "timestamp": "Apr/25/2023 00:07"
   },
+  "CF203445609": {
+    "contest_id": 1776,
+    "language": "GNU C++17",
+    "path": "codeforces/1776/M.cpp",
+    "platform": "Codeforces",
+    "problem_index": "M",
+    "problem_name": "Parmigiana With Seafood",
+    "problem_url": "https://codeforces.com/contest/1776/problem/M",
+    "submission_id": "CF203445609",
+    "submission_url": "https://codeforces.com/contest/1776/submission/203445609",
+    "tags": [
+      "binary search",
+      "dp",
+      "greedy",
+      "trees",
+      "*3000"
+    ],
+    "timestamp": "Apr/25/2023 20:06"
+  },
   "CF203445691": {
     "contest_id": 1776,
     "language": "GNU C++17",
