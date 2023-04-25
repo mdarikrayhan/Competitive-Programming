@@ -10930,6 +10930,22 @@
     ],
     "timestamp": "Apr/25/2023 00:07"
   },
+  "CF203446536": {
+    "contest_id": 1774,
+    "language": "GNU C++17",
+    "path": "codeforces/1774/H.cpp",
+    "platform": "Codeforces",
+    "problem_index": "H",
+    "problem_name": "Maximum Permutation",
+    "problem_url": "https://codeforces.com/contest/1774/problem/H",
+    "submission_id": "CF203446536",
+    "submission_url": "https://codeforces.com/contest/1774/submission/203446536",
+    "tags": [
+      "constructive algorithms",
+      "*3500"
+    ],
+    "timestamp": "Apr/25/2023 20:13"
+  },
   "CF203446696": {
     "contest_id": 1774,
     "language": "GNU C++17",
