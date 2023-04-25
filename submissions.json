@@ -12387,6 +12387,25 @@
     ],
     "timestamp": "Apr/25/2023 21:11"
   },
+  "CF203475020": {
+    "contest_id": 1741,
+    "language": "GNU C++20 (64)",
+    "path": "codeforces/1741/F.cpp",
+    "platform": "Codeforces",
+    "problem_index": "F",
+    "problem_name": "Multi-Colored Segments",
+    "problem_url": "https://codeforces.com/contest/1741/problem/F",
+    "submission_id": "CF203475020",
+    "submission_url": "https://codeforces.com/contest/1741/submission/203475020",
+    "tags": [
+      "binary search",
+      "data structures",
+      "math",
+      "sortings",
+      "*2000"
+    ],
+    "timestamp": "Apr/26/2023 00:11"
+  },
   "CF203475423": {
     "contest_id": 1746,
     "language": "GNU C++20 (64)",
