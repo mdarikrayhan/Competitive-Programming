@@ -10929,5 +10929,23 @@
       "constructive algorithms"
     ],
     "timestamp": "Apr/25/2023 00:07"
+  },
+  "CF203454022": {
+    "contest_id": 1753,
+    "language": "GNU C++17",
+    "path": "codeforces/1753/A2.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A2",
+    "problem_name": "Make Nonzero Sum (hard version)",
+    "problem_url": "https://codeforces.com/contest/1753/problem/A2",
+    "submission_id": "CF203454022",
+    "submission_url": "https://codeforces.com/contest/1753/submission/203454022",
+    "tags": [
+      "constructive algorithms",
+      "dp",
+      "greedy",
+      "*1500"
+    ],
+    "timestamp": "Apr/25/2023 21:11"
   }
 }
