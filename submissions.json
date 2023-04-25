@@ -12387,6 +12387,28 @@
     ],
     "timestamp": "Apr/25/2023 21:11"
   },
+  "CF203474956": {
+    "contest_id": 1741,
+    "language": "GNU C++20 (64)",
+    "path": "codeforces/1741/G.cpp",
+    "platform": "Codeforces",
+    "problem_index": "G",
+    "problem_name": "Kirill and Company",
+    "problem_url": "https://codeforces.com/contest/1741/problem/G",
+    "submission_id": "CF203474956",
+    "submission_url": "https://codeforces.com/contest/1741/submission/203474956",
+    "tags": [
+      "bitmasks",
+      "brute force",
+      "dfs and similar",
+      "dp",
+      "flows",
+      "graphs",
+      "shortest paths",
+      "*2200"
+    ],
+    "timestamp": "Apr/26/2023 00:11"
+  },
   "CF203475020": {
     "contest_id": 1741,
     "language": "GNU C++20 (64)",
