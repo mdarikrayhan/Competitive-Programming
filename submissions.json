@@ -10930,6 +10930,24 @@
     ],
     "timestamp": "Apr/25/2023 00:07"
   },
+  "CF203451953": {
+    "contest_id": 1776,
+    "language": "GNU C++17",
+    "path": "codeforces/1776/F.cpp",
+    "platform": "Codeforces",
+    "problem_index": "F",
+    "problem_name": "Train Splitting",
+    "problem_url": "https://codeforces.com/contest/1776/problem/F",
+    "submission_id": "CF203451953",
+    "submission_url": "https://codeforces.com/contest/1776/submission/203451953",
+    "tags": [
+      "constructive algorithms",
+      "graphs",
+      "greedy",
+      "*1700"
+    ],
+    "timestamp": "Apr/25/2023 20:56"
+  },
   "CF203452044": {
     "contest_id": 1776,
     "language": "GNU C++17",
