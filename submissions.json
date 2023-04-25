@@ -10930,6 +10930,28 @@
     ],
     "timestamp": "Apr/25/2023 00:07"
   },
+  "CF203445403": {
+    "contest_id": 1777,
+    "language": "GNU C++17",
+    "path": "codeforces/1777/D.cpp",
+    "platform": "Codeforces",
+    "problem_index": "D",
+    "problem_name": "Score of a Tree",
+    "problem_url": "https://codeforces.com/contest/1777/problem/D",
+    "submission_id": "CF203445403",
+    "submission_url": "https://codeforces.com/contest/1777/submission/203445403",
+    "tags": [
+      "bitmasks",
+      "combinatorics",
+      "dfs and similar",
+      "dp",
+      "math",
+      "probabilities",
+      "trees",
+      "*1900"
+    ],
+    "timestamp": "Apr/25/2023 20:05"
+  },
   "CF203445507": {
     "contest_id": 1777,
     "language": "GNU C++17",
