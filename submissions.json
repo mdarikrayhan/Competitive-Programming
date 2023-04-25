@@ -10930,6 +10930,25 @@
     ],
     "timestamp": "Apr/25/2023 00:07"
   },
+  "CF203444524": {
+    "contest_id": 1776,
+    "language": "GNU C++17",
+    "path": "codeforces/1776/I.cpp",
+    "platform": "Codeforces",
+    "problem_index": "I",
+    "problem_name": "Spinach Pizza",
+    "problem_url": "https://codeforces.com/contest/1776/problem/I",
+    "submission_id": "CF203444524",
+    "submission_url": "https://codeforces.com/contest/1776/submission/203444524",
+    "tags": [
+      "games",
+      "geometry",
+      "greedy",
+      "interactive",
+      "*2500"
+    ],
+    "timestamp": "Apr/25/2023 19:57"
+  },
   "CF203444649": {
     "contest_id": 1776,
     "language": "GNU C++17",
