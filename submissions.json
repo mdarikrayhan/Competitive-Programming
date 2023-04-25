@@ -12387,6 +12387,25 @@
     ],
     "timestamp": "Apr/25/2023 21:11"
   },
+  "CF203468035": {
+    "contest_id": 1749,
+    "language": "GNU C++17",
+    "path": "codeforces/1749/D.cpp",
+    "platform": "Codeforces",
+    "problem_index": "D",
+    "problem_name": "Counting Arrays",
+    "problem_url": "https://codeforces.com/contest/1749/problem/D",
+    "submission_id": "CF203468035",
+    "submission_url": "https://codeforces.com/contest/1749/submission/203468035",
+    "tags": [
+      "combinatorics",
+      "dp",
+      "math",
+      "number theory",
+      "*1900"
+    ],
+    "timestamp": "Apr/25/2023 23:10"
+  },
   "CF203468156": {
     "contest_id": 1749,
     "language": "GNU C++17",
