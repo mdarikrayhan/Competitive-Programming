@@ -1,0 +1,2 @@
+#include<bits/stdc++.h>
+using namespace std;const int p=998244353;int V[99],T,x,y,z,r,s,i,j,f,n,m;void F(int d,int e,int u) {if(e>f) return s=(s+u*(m/y/d))%p,void();F(d*V[e],e+1,-u);F(d,e+1,u);}int main() {cin>>T;while(T--){r=1;cin>>n>>m>>y;while(--n){x=y,cin>>y;z=x/y*!(x%y),f=0,s=0;r*=!!z;if(r){for(j=2;j*j<=z;j++){if(z%j==0) V[++f]=j;while(z%j==0) z/=j;}z>1 ? V[++f]=z:0;F(1,1,1);r=(1ll*r*s)%p;}}cout<<r<<'\n';}}
