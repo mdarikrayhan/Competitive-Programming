@@ -10930,6 +10930,24 @@
     ],
     "timestamp": "Apr/25/2023 00:07"
   },
+  "CF203446429": {
+    "contest_id": 1775,
+    "language": "GNU C++17",
+    "path": "codeforces/1775/A1.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A1",
+    "problem_name": "Gardener and the Capybaras (easy version)",
+    "problem_url": "https://codeforces.com/contest/1775/problem/A1",
+    "submission_id": "CF203446429",
+    "submission_url": "https://codeforces.com/contest/1775/submission/203446429",
+    "tags": [
+      "brute force",
+      "constructive algorithms",
+      "implementation",
+      "*800"
+    ],
+    "timestamp": "Apr/25/2023 20:13"
+  },
   "CF203446536": {
     "contest_id": 1774,
     "language": "GNU C++17",
