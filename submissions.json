@@ -12387,6 +12387,24 @@
     ],
     "timestamp": "Apr/25/2023 21:11"
   },
+  "CF203496544": {
+    "contest_id": 1710,
+    "language": "GNU C++17",
+    "path": "codeforces/1710/E.cpp",
+    "platform": "Codeforces",
+    "problem_index": "E",
+    "problem_name": "Two Arrays",
+    "problem_url": "https://codeforces.com/contest/1710/problem/E",
+    "submission_id": "CF203496544",
+    "submission_url": "https://codeforces.com/contest/1710/submission/203496544",
+    "tags": [
+      "binary search",
+      "games",
+      "graph matchings",
+      "*2400"
+    ],
+    "timestamp": "Apr/26/2023 05:01"
+  },
   "CF203496592": {
     "contest_id": 1709,
     "language": "GNU C++17",
