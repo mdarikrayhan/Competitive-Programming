@@ -10930,6 +10930,23 @@
     ],
     "timestamp": "Apr/25/2023 00:07"
   },
+  "CF203452044": {
+    "contest_id": 1776,
+    "language": "GNU C++17",
+    "path": "codeforces/1776/B.cpp",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Vittorio Plays with LEGO Bricks",
+    "problem_url": "https://codeforces.com/contest/1776/problem/B",
+    "submission_id": "CF203452044",
+    "submission_url": "https://codeforces.com/contest/1776/submission/203452044",
+    "tags": [
+      "dp",
+      "geometry",
+      "*2200"
+    ],
+    "timestamp": "Apr/25/2023 20:57"
+  },
   "CF203452071": {
     "contest_id": 1761,
     "language": "GNU C++17",
