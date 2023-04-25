@@ -12387,6 +12387,27 @@
     ],
     "timestamp": "Apr/25/2023 21:11"
   },
+  "CF203497206": {
+    "contest_id": 1705,
+    "language": "GNU C++17",
+    "path": "codeforces/1705/E.cpp",
+    "platform": "Codeforces",
+    "problem_index": "E",
+    "problem_name": "Mark and Professor Koro",
+    "problem_url": "https://codeforces.com/contest/1705/problem/E",
+    "submission_id": "CF203497206",
+    "submission_url": "https://codeforces.com/contest/1705/submission/203497206",
+    "tags": [
+      "binary search",
+      "bitmasks",
+      "brute force",
+      "combinatorics",
+      "data structures",
+      "greedy",
+      "*2300"
+    ],
+    "timestamp": "Apr/26/2023 05:15"
+  },
   "CF203497233": {
     "contest_id": 1705,
     "language": "GNU C++17",
