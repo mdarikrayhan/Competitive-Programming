@@ -10930,6 +10930,25 @@
     ],
     "timestamp": "Apr/25/2023 00:07"
   },
+  "CF203442548": {
+    "contest_id": 1779,
+    "language": "GNU C++17",
+    "path": "codeforces/1779/F.cpp",
+    "platform": "Codeforces",
+    "problem_index": "F",
+    "problem_name": "Xorcerer's Stones",
+    "problem_url": "https://codeforces.com/contest/1779/problem/F",
+    "submission_id": "CF203442548",
+    "submission_url": "https://codeforces.com/contest/1779/submission/203442548",
+    "tags": [
+      "bitmasks",
+      "constructive algorithms",
+      "dp",
+      "trees",
+      "*2500"
+    ],
+    "timestamp": "Apr/25/2023 19:41"
+  },
   "CF203442788": {
     "contest_id": 1776,
     "language": "GNU C++17",
