@@ -10930,6 +10930,25 @@
     ],
     "timestamp": "Apr/25/2023 00:07"
   },
+  "CF203452269": {
+    "contest_id": 1775,
+    "language": "GNU C++17",
+    "path": "codeforces/1775/F.cpp",
+    "platform": "Codeforces",
+    "problem_index": "F",
+    "problem_name": "Laboratory on Pluto",
+    "problem_url": "https://codeforces.com/contest/1775/problem/F",
+    "submission_id": "CF203452269",
+    "submission_url": "https://codeforces.com/contest/1775/submission/203452269",
+    "tags": [
+      "constructive algorithms",
+      "dp",
+      "greedy",
+      "math",
+      "*2500"
+    ],
+    "timestamp": "Apr/25/2023 20:58"
+  },
   "CF203452290": {
     "contest_id": 1760,
     "language": "GNU C++17",
