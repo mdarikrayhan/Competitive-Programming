@@ -1,48 +1,23 @@
-/***************************************************/
-/*            Author : Md. Arik Rayhan             */
-/*        Github : github.com/mdarikrayhan         */
-/***************************************************/
-#include <bits/stdc++.h>
+#include <iostream>
 using namespace std;
-const char nl = '\n';
 
-#define fastio ios_base::sync_with_stdio(false);cin.tie(NULL);cout.tie(NULL);
-#define multicase int NoOfTestCase = 1;cin >> NoOfTestCase;for(int testcaseno=1;testcaseno<=NoOfTestCase;testcaseno++)
+char ss[51];
+int aa[101];
+
 int main() {
-fastio
-multicase
-{
-int n;
-cin>>n;
-int arr[n+3];
-for(int i=0;i<n;i++){
-    cin>>arr[i];
-}
-for(int i=0;i<n;i++){
-    int a=arr[i],x;
-    string s;
-    cin>>x>>s;
-    for(int j=0;j<x;j++){
-        if(s[j]=='D'){//++
-            if(a<9){
-                a++;
-            }
-            else{
-                a=0;
-            }
-        }
-        else{//---
-            if(a>0){
-                a--;
-            }
-            else{
-                a=9;
-            }
-        }
-    }
-    cout<<a<<" ";
-}
-cout<<nl;
-}
-return 0;
+	int Tcs,nn;
+	cin>>Tcs;
+	while(Tcs--) {
+		cin>>nn;
+		for(int i=0; i<nn; ++i)
+			cin>>aa[i];
+		for(int i=0,b; i<nn; ++i) {
+			cin>>b>>ss;
+			int up=0;
+			for(int j=0; ss[j]; ++j)
+				up+=ss[j]=='U'?1:-1;
+			cout<<(aa[i]+100000-up)%10<<' ';
+		}
+		cout<<endl;
+	}
 }
