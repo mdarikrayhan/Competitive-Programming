@@ -12387,6 +12387,28 @@
     ],
     "timestamp": "Apr/25/2023 21:11"
   },
+  "CF203475423": {
+    "contest_id": 1746,
+    "language": "GNU C++20 (64)",
+    "path": "codeforces/1746/G.cpp",
+    "platform": "Codeforces",
+    "problem_index": "G",
+    "problem_name": "Olympiad Training",
+    "problem_url": "https://codeforces.com/contest/1746/problem/G",
+    "submission_id": "CF203475423",
+    "submission_url": "https://codeforces.com/contest/1746/submission/203475423",
+    "tags": [
+      "binary search",
+      "data structures",
+      "dp",
+      "flows",
+      "geometry",
+      "implementation",
+      "sortings",
+      "*3500"
+    ],
+    "timestamp": "Apr/26/2023 00:15"
+  },
   "CF203475555": {
     "contest_id": 1742,
     "language": "GNU C++20 (64)",
