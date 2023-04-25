@@ -12387,6 +12387,23 @@
     ],
     "timestamp": "Apr/25/2023 21:11"
   },
+  "CF203497462": {
+    "contest_id": 1707,
+    "language": "GNU C++17",
+    "path": "codeforces/1707/E.cpp",
+    "platform": "Codeforces",
+    "problem_index": "E",
+    "problem_name": "Replace",
+    "problem_url": "https://codeforces.com/contest/1707/problem/E",
+    "submission_id": "CF203497462",
+    "submission_url": "https://codeforces.com/contest/1707/submission/203497462",
+    "tags": [
+      "binary search",
+      "data structures",
+      "*3500"
+    ],
+    "timestamp": "Apr/26/2023 05:21"
+  },
   "CF203497509": {
     "contest_id": 1703,
     "language": "GNU C++17",
