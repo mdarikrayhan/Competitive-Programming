@@ -12387,6 +12387,22 @@
     ],
     "timestamp": "Apr/25/2023 21:11"
   },
+  "CF203469990": {
+    "contest_id": 1747,
+    "language": "GNU C++17",
+    "path": "codeforces/1747/B.cpp",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "BAN BAN",
+    "problem_url": "https://codeforces.com/contest/1747/problem/B",
+    "submission_id": "CF203469990",
+    "submission_url": "https://codeforces.com/contest/1747/submission/203469990",
+    "tags": [
+      "constructive algorithms",
+      "*900"
+    ],
+    "timestamp": "Apr/25/2023 23:27"
+  },
   "CF203470134": {
     "contest_id": 1746,
     "language": "GNU C++17",
