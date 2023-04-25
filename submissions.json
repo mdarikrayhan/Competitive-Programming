@@ -10930,6 +10930,25 @@
     ],
     "timestamp": "Apr/25/2023 00:07"
   },
+  "CF203444928": {
+    "contest_id": 1776,
+    "language": "GNU C++17",
+    "path": "codeforces/1776/C.cpp",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Library game",
+    "problem_url": "https://codeforces.com/contest/1776/problem/C",
+    "submission_id": "CF203444928",
+    "submission_url": "https://codeforces.com/contest/1776/submission/203444928",
+    "tags": [
+      "games",
+      "greedy",
+      "interactive",
+      "sortings",
+      "*2500"
+    ],
+    "timestamp": "Apr/25/2023 20:01"
+  },
   "CF203444949": {
     "contest_id": 1776,
     "language": "GNU C++17",
