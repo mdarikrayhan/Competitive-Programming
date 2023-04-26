@@ -13878,6 +13878,25 @@
     ],
     "timestamp": "Apr/26/2023 08:38"
   },
+  "CF203597171": {
+    "contest_id": 1637,
+    "language": "GNU C++17",
+    "path": "codeforces/1637/B.cpp",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "MEX and Array",
+    "problem_url": "https://codeforces.com/contest/1637/problem/B",
+    "submission_id": "CF203597171",
+    "submission_url": "https://codeforces.com/contest/1637/submission/203597171",
+    "tags": [
+      "brute force",
+      "dp",
+      "greedy",
+      "math",
+      "*1100"
+    ],
+    "timestamp": "Apr/27/2023 02:21"
+  },
   "CF203597248": {
     "contest_id": 1625,
     "language": "GNU C++17",
