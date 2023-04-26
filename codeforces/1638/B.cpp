@@ -1,47 +1,17 @@
-#include <bits/stdc++.h>
+#include<bits/stdc++.h>
 using namespace std;
-const char nl = '\n';
-void solve()
-{
-    int n;
-    cin >> n;
-    vector<int> even, odd, sorteven, sortodd;
-    for (int i = 0; i < n; i++)
-    {
-        int a;
-        cin >> a;
-        if (a&1)
-        {
-            odd.push_back(a);
-            sortodd.push_back(a);
-        }
-        else
-        {
-            even.push_back(a);
-            sorteven.push_back(a);
-        }
-    }
-    sort(sorteven.begin(), sorteven.end());
-    sort(sortodd.begin(), sortodd.end());
-    if (even == sorteven && odd == sortodd)
-    {
-        cout << "Yes" << nl;
-    }
-    else
-    {
-        cout << "No" << nl;
-    }
-}
-
-int main()
-{
-    ios_base::sync_with_stdio(false);
-    cin.tie(NULL);
-    int T = 1;
-    cin >> T;
-    while (T--)
-    {
-        solve();
-    }
-    return 0;
+int t,n;
+int main() {
+	cin>>t;
+	while (t--){
+		cin>>n;
+		int l[2]={},f=1,x;
+		for (int i=0;i<n;i++){
+			cin>>x;
+			if(x<l[x&1]) f=0;
+			l[x&1]=x;
+		}
+		puts(f?"Yes":"No");
+	}
+	return 0;
 }
