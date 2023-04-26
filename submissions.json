@@ -13878,6 +13878,23 @@
     ],
     "timestamp": "Apr/26/2023 08:38"
   },
+  "CF203596951": {
+    "contest_id": 1632,
+    "language": "GNU C++17",
+    "path": "codeforces/1632/B.cpp",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Roof Construction",
+    "problem_url": "https://codeforces.com/contest/1632/problem/B",
+    "submission_id": "CF203596951",
+    "submission_url": "https://codeforces.com/contest/1632/submission/203596951",
+    "tags": [
+      "bitmasks",
+      "constructive algorithms",
+      "*1000"
+    ],
+    "timestamp": "Apr/27/2023 02:17"
+  },
   "CF203596993": {
     "contest_id": 1631,
     "language": "GNU C++17",
