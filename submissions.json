@@ -13878,6 +13878,25 @@
     ],
     "timestamp": "Apr/26/2023 08:38"
   },
+  "CF203601078": {
+    "contest_id": 1574,
+    "language": "GNU C++17",
+    "path": "codeforces/1574/C.cpp",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Slay the Dragon",
+    "problem_url": "https://codeforces.com/contest/1574/problem/C",
+    "submission_id": "CF203601078",
+    "submission_url": "https://codeforces.com/contest/1574/submission/203601078",
+    "tags": [
+      "binary search",
+      "greedy",
+      "sortings",
+      "ternary search",
+      "*1300"
+    ],
+    "timestamp": "Apr/27/2023 03:19"
+  },
   "CF203601108": {
     "contest_id": 1574,
     "language": "GNU C++17",
