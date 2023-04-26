@@ -13878,6 +13878,23 @@
     ],
     "timestamp": "Apr/26/2023 08:38"
   },
+  "CF203608648": {
+    "contest_id": 1584,
+    "language": "GNU C++17",
+    "path": "codeforces/1584/B.cpp",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Coloring Rectangles",
+    "problem_url": "https://codeforces.com/contest/1584/problem/B",
+    "submission_id": "CF203608648",
+    "submission_url": "https://codeforces.com/contest/1584/submission/203608648",
+    "tags": [
+      "greedy",
+      "math",
+      "*1000"
+    ],
+    "timestamp": "Apr/27/2023 05:55"
+  },
   "CF203608693": {
     "contest_id": 1559,
     "language": "GNU C++17",
