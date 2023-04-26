@@ -12387,6 +12387,28 @@
     ],
     "timestamp": "Apr/25/2023 21:11"
   },
+  "CF203500334": {
+    "contest_id": 1696,
+    "language": "GNU C++17",
+    "path": "codeforces/1696/H.cpp",
+    "platform": "Codeforces",
+    "problem_index": "H",
+    "problem_name": "Maximum Product?",
+    "problem_url": "https://codeforces.com/contest/1696/problem/H",
+    "submission_id": "CF203500334",
+    "submission_url": "https://codeforces.com/contest/1696/submission/203500334",
+    "tags": [
+      "brute force",
+      "combinatorics",
+      "dp",
+      "greedy",
+      "implementation",
+      "math",
+      "two pointers",
+      "*3500"
+    ],
+    "timestamp": "Apr/26/2023 06:31"
+  },
   "CF203500359": {
     "contest_id": 1700,
     "language": "GNU C++17",
