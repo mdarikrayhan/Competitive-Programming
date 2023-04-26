@@ -13878,6 +13878,23 @@
     ],
     "timestamp": "Apr/26/2023 08:38"
   },
+  "CF203601357": {
+    "contest_id": 1571,
+    "language": "Kotlin 1.6",
+    "path": "codeforces/1571/B.kt",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Epic Novel",
+    "problem_url": "https://codeforces.com/contest/1571/problem/B",
+    "submission_id": "CF203601357",
+    "submission_url": "https://codeforces.com/contest/1571/submission/203601357",
+    "tags": [
+      "*special problem",
+      "math",
+      "*1300"
+    ],
+    "timestamp": "Apr/27/2023 03:24"
+  },
   "CF203607686": {
     "contest_id": 1679,
     "language": "GNU C++17",
