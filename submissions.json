@@ -13878,6 +13878,22 @@
     ],
     "timestamp": "Apr/26/2023 08:38"
   },
+  "CF203598028": {
+    "contest_id": 1618,
+    "language": "GNU C++17",
+    "path": "codeforces/1618/C.cpp",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Paint the Array",
+    "problem_url": "https://codeforces.com/contest/1618/problem/C",
+    "submission_id": "CF203598028",
+    "submission_url": "https://codeforces.com/contest/1618/submission/203598028",
+    "tags": [
+      "math",
+      "*1100"
+    ],
+    "timestamp": "Apr/27/2023 02:32"
+  },
   "CF203598073": {
     "contest_id": 1615,
     "language": "GNU C++17",
