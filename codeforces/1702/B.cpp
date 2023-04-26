@@ -1,36 +1,17 @@
-#include <bits/stdc++.h>
+#include<bits/stdc++.h>
 using namespace std;
-const char nl = '\n';
-void solve()
-{
-    string s;
-    cin >> s;
-    set<char> ch;
-    int days = 0, n = s.size();
-    for(int i=0;i<n;i++)
-    {
-        
-        ch.insert(s[i]);
-        if (ch.size() == 4)
-        {
-            ch.clear();
-            days++;
-            i--;
-        }
-    }
-
-    cout << days+1 << nl;
-}
-
+int T,a;
+string s;
 int main()
-{
-    ios_base::sync_with_stdio(false);
-    cin.tie(NULL);
-    int T = 1;
-    cin >> T;
-    while (T--)
-    {
-        solve();
-    }
-    return 0;
+{cin>>T;
+while(T--){
+set<char> S;
+cin>>s;
+a=1;
+for(auto c:s){
+S.insert(c);
+if(S.size()>3)S.clear(),S.insert(c),a++;
+}
+cout<<a<<'\n';
+}
 }
