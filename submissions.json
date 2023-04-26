@@ -12387,6 +12387,24 @@
     ],
     "timestamp": "Apr/25/2023 21:11"
   },
+  "CF203499315": {
+    "contest_id": 1699,
+    "language": "GNU C++17",
+    "path": "codeforces/1699/D.cpp",
+    "platform": "Codeforces",
+    "problem_index": "D",
+    "problem_name": "Almost Triple Deletions",
+    "problem_url": "https://codeforces.com/contest/1699/problem/D",
+    "submission_id": "CF203499315",
+    "submission_url": "https://codeforces.com/contest/1699/submission/203499315",
+    "tags": [
+      "data structures",
+      "dp",
+      "greedy",
+      "*2300"
+    ],
+    "timestamp": "Apr/26/2023 06:07"
+  },
   "CF203499457": {
     "contest_id": 1704,
     "language": "GNU C++17",
