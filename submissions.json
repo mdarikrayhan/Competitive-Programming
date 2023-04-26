@@ -12387,6 +12387,26 @@
     ],
     "timestamp": "Apr/25/2023 21:11"
   },
+  "CF203501333": {
+    "contest_id": 1695,
+    "language": "GNU C++17",
+    "path": "codeforces/1695/D2.cpp",
+    "platform": "Codeforces",
+    "problem_index": "D2",
+    "problem_name": "Tree Queries (Hard Version)",
+    "problem_url": "https://codeforces.com/contest/1695/problem/D2",
+    "submission_id": "CF203501333",
+    "submission_url": "https://codeforces.com/contest/1695/submission/203501333",
+    "tags": [
+      "constructive algorithms",
+      "dfs and similar",
+      "dp",
+      "greedy",
+      "trees",
+      "*2300"
+    ],
+    "timestamp": "Apr/26/2023 06:56"
+  },
   "CF203502025": {
     "contest_id": 1696,
     "language": "GNU C++17",
