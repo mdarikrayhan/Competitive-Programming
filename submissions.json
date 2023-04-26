@@ -12387,6 +12387,24 @@
     ],
     "timestamp": "Apr/25/2023 21:11"
   },
+  "CF203504028": {
+    "contest_id": 1725,
+    "language": "GNU C++17",
+    "path": "codeforces/1725/F.cpp",
+    "platform": "Codeforces",
+    "problem_index": "F",
+    "problem_name": "Field Photography",
+    "problem_url": "https://codeforces.com/contest/1725/problem/F",
+    "submission_id": "CF203504028",
+    "submission_url": "https://codeforces.com/contest/1725/submission/203504028",
+    "tags": [
+      "bitmasks",
+      "data structures",
+      "sortings",
+      "*2100"
+    ],
+    "timestamp": "Apr/26/2023 07:59"
+  },
   "CF203505262": {
     "contest_id": 1696,
     "language": "GNU C++17",
