@@ -13878,6 +13878,23 @@
     ],
     "timestamp": "Apr/26/2023 08:38"
   },
+  "CF203595956": {
+    "contest_id": 1649,
+    "language": "GNU C++17",
+    "path": "codeforces/1649/B.cpp",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Game of Ball Passing",
+    "problem_url": "https://codeforces.com/contest/1649/problem/B",
+    "submission_id": "CF203595956",
+    "submission_url": "https://codeforces.com/contest/1649/submission/203595956",
+    "tags": [
+      "greedy",
+      "implementation",
+      "*1300"
+    ],
+    "timestamp": "Apr/27/2023 02:04"
+  },
   "CF203596061": {
     "contest_id": 1669,
     "language": "GNU C++17",
