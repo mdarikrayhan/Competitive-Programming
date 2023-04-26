@@ -12387,6 +12387,25 @@
     ],
     "timestamp": "Apr/25/2023 21:11"
   },
+  "CF203499664": {
+    "contest_id": 1698,
+    "language": "GNU C++17",
+    "path": "codeforces/1698/F.cpp",
+    "platform": "Codeforces",
+    "problem_index": "F",
+    "problem_name": "Equal Reversal",
+    "problem_url": "https://codeforces.com/contest/1698/problem/F",
+    "submission_id": "CF203499664",
+    "submission_url": "https://codeforces.com/contest/1698/submission/203499664",
+    "tags": [
+      "constructive algorithms",
+      "graphs",
+      "implementation",
+      "math",
+      "*2800"
+    ],
+    "timestamp": "Apr/26/2023 06:15"
+  },
   "CF203499685": {
     "contest_id": 1698,
     "language": "GNU C++17",
