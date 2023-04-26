@@ -12387,6 +12387,27 @@
     ],
     "timestamp": "Apr/25/2023 21:11"
   },
+  "CF203500506": {
+    "contest_id": 1696,
+    "language": "GNU C++17",
+    "path": "codeforces/1696/D.cpp",
+    "platform": "Codeforces",
+    "problem_index": "D",
+    "problem_name": "Permutation Graph",
+    "problem_url": "https://codeforces.com/contest/1696/problem/D",
+    "submission_id": "CF203500506",
+    "submission_url": "https://codeforces.com/contest/1696/submission/203500506",
+    "tags": [
+      "binary search",
+      "constructive algorithms",
+      "data structures",
+      "divide and conquer",
+      "greedy",
+      "shortest paths",
+      "*1900"
+    ],
+    "timestamp": "Apr/26/2023 06:36"
+  },
   "CF203500738": {
     "contest_id": 1699,
     "language": "GNU C++17",
