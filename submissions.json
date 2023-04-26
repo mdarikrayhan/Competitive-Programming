@@ -13878,6 +13878,23 @@
     ],
     "timestamp": "Apr/26/2023 08:38"
   },
+  "CF203599768": {
+    "contest_id": 1598,
+    "language": "GNU C++17",
+    "path": "codeforces/1598/B.cpp",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Groups",
+    "problem_url": "https://codeforces.com/contest/1598/problem/B",
+    "submission_id": "CF203599768",
+    "submission_url": "https://codeforces.com/contest/1598/submission/203599768",
+    "tags": [
+      "brute force",
+      "implementation",
+      "*1000"
+    ],
+    "timestamp": "Apr/27/2023 02:57"
+  },
   "CF203599806": {
     "contest_id": 1594,
     "language": "GNU C++17",
