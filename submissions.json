@@ -13878,6 +13878,23 @@
     ],
     "timestamp": "Apr/26/2023 08:38"
   },
+  "CF203598384": {
+    "contest_id": 1614,
+    "language": "GNU C++17",
+    "path": "codeforces/1614/B.cpp",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Divan and a New Project ",
+    "problem_url": "https://codeforces.com/contest/1614/problem/B",
+    "submission_id": "CF203598384",
+    "submission_url": "https://codeforces.com/contest/1614/submission/203598384",
+    "tags": [
+      "constructive algorithms",
+      "sortings",
+      "*1000"
+    ],
+    "timestamp": "Apr/27/2023 02:37"
+  },
   "CF203598433": {
     "contest_id": 1613,
     "language": "GNU C++17",
