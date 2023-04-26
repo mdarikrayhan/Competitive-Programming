@@ -12386,5 +12386,22 @@
       "*1500"
     ],
     "timestamp": "Apr/25/2023 21:11"
+  },
+  "CF203505936": {
+    "contest_id": 1693,
+    "language": "GNU C++17",
+    "path": "codeforces/1693/E.cpp",
+    "platform": "Codeforces",
+    "problem_index": "E",
+    "problem_name": "Outermost Maximums",
+    "problem_url": "https://codeforces.com/contest/1693/problem/E",
+    "submission_id": "CF203505936",
+    "submission_url": "https://codeforces.com/contest/1693/submission/203505936",
+    "tags": [
+      "data structures",
+      "greedy",
+      "*3400"
+    ],
+    "timestamp": "Apr/26/2023 08:38"
   }
 }
