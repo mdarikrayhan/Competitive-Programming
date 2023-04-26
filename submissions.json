@@ -12387,6 +12387,27 @@
     ],
     "timestamp": "Apr/25/2023 21:11"
   },
+  "CF203502090": {
+    "contest_id": 1695,
+    "language": "GNU C++17",
+    "path": "codeforces/1695/D1.cpp",
+    "platform": "Codeforces",
+    "problem_index": "D1",
+    "problem_name": "Tree Queries (Easy Version)",
+    "problem_url": "https://codeforces.com/contest/1695/problem/D1",
+    "submission_id": "CF203502090",
+    "submission_url": "https://codeforces.com/contest/1695/submission/203502090",
+    "tags": [
+      "brute force",
+      "constructive algorithms",
+      "dfs and similar",
+      "dp",
+      "greedy",
+      "trees",
+      "*2200"
+    ],
+    "timestamp": "Apr/26/2023 07:14"
+  },
   "CF203502506": {
     "contest_id": 1695,
     "language": "GNU C++17",
