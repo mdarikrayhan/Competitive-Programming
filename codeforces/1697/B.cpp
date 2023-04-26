@@ -1,35 +1,19 @@
-#include <bits/stdc++.h>
+#include<bits/stdc++.h>
 using namespace std;
-const char nl = '\n';
+#define ll long long
+
 int main()
 {
-    ios_base::sync_with_stdio(false);
-    cin.tie(NULL);
-    int n, q;
-    cin >> n >> q;
-    unsigned long long int arr[n],prefixsum[n];
-    for (int i = 0; i < n; i++)
-    {
-        cin >> arr[i];
-    }
-    sort(arr, arr + n, greater<int>());
-    prefixsum[0] = arr[0];
-    for (int i = 1; i < n; i++)
-    {
-        prefixsum[i] = prefixsum[i - 1] + arr[i];
-    }
-    for (int i = 0; i < q; i++)
-    {
-        unsigned long long int x,y,sum=0;
-        cin>>x>>y;
-        int p=x-1,q=x-y-1;
-        if(q<0){
-            sum=prefixsum[p];
-        }
-       else{
-           sum=prefixsum[p]-prefixsum[q];
-        }
-        cout<<sum<<endl;
-    }
-    return 0;
+ll n,q,x,y,i;
+cin>>n>>q;
+ll p[n+1]; p[0]=0;
+for(i=0;i<n;i++) cin>>p[i+1];
+sort(p,p+n+1);
+for(i=1;i<=n;i++)
+p[i]+=p[i-1];
+
+while(q--){
+cin>>x>>y;
+cout<<(p[n+y-x]-p[n-x])<<endl;
+}
 }
