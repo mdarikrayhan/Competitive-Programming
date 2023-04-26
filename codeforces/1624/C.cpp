@@ -1,27 +1,17 @@
-#include <bits/stdc++.h>
+#include<bits/stdc++.h>
 using namespace std;
-const char nl = '\n';
-void solve() {
-    int n,x,a[55];
+int t,n,a[55],x;
+int main(){
+cin>>t;
+while(t--){
 cin>>n;
-		for(int i=0;i<=54;i++) a[i]=0;
-		for(int i=1;i<=n;i++){
-			cin>>x;
-			while(x>n) x/=2;
-			while(a[x]&&x>0) x/=2;
-			a[x]=1;
-		}
-		if(a[0]) puts("NO");
-		else puts("YES");
+for(int i=0;i<=54;i++) a[i]=0;
+for(int i=1;i<=n;i++){
+cin>>x;
+while(x>n) x=x/2;
+while(a[x] and x>0)x=x/2;
+a[x]=1;
 }
-
-int main() {
-ios_base::sync_with_stdio(false);
-cin.tie(NULL);
-int T = 1;
-cin >> T;
-while(T--) {
-solve();
-}
-return 0;
-}
+if(a[0])cout<<"NO"<<endl;
+else cout<<"YES"<<endl;
+}}
