@@ -19630,6 +19630,23 @@
     ],
     "timestamp": "Apr/27/2023 08:15"
   },
+  "CF203651659": {
+    "contest_id": 1346,
+    "language": "Kotlin 1.6",
+    "path": "codeforces/1346/A.kt",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Color Revolution",
+    "problem_url": "https://codeforces.com/contest/1346/problem/A",
+    "submission_id": "CF203651659",
+    "submission_url": "https://codeforces.com/contest/1346/submission/203651659",
+    "tags": [
+      "*special problem",
+      "math",
+      "*1000"
+    ],
+    "timestamp": "Apr/27/2023 16:53"
+  },
   "CF203651916": {
     "contest_id": 1339,
     "language": "GNU C++17",
