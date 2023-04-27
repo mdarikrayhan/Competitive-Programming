@@ -13878,6 +13878,24 @@
     ],
     "timestamp": "Apr/26/2023 08:38"
   },
+  "CF203609791": {
+    "contest_id": 1514,
+    "language": "GNU C++17",
+    "path": "codeforces/1514/B.cpp",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "AND 0, Sum Big",
+    "problem_url": "https://codeforces.com/contest/1514/problem/B",
+    "submission_id": "CF203609791",
+    "submission_url": "https://codeforces.com/contest/1514/submission/203609791",
+    "tags": [
+      "bitmasks",
+      "combinatorics",
+      "math",
+      "*1200"
+    ],
+    "timestamp": "Apr/27/2023 06:20"
+  },
   "CF203609819": {
     "contest_id": 1512,
     "language": "GNU C++17",
