@@ -1,4 +1,4 @@
-/***************************************************//*   .  . . . Author : Md. Arik Rayhan  .  . . . .  . .  *//*  . . . . Github : github.com/mdarikrayhan         *//***************************************************/#include<bits/stdc++.h>
+/***************************************************//*   . .  . Author : Md. Arik Rayhan . . . . . . . .  . . . *//* . .   . . . Github : github.com/mdarikrayhan       .  *//***************************************************/#include<bits/stdc++.h>
 using namespace std;
 int main()
 {
