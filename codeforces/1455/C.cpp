@@ -1,15 +1,2 @@
-#include <iostream>
-using namespace std;
-int main()
-{
-    ios_base::sync_with_stdio(false);
-    cin.tie(NULL);
-    int t, a, b;
-    cin >> t;
-    while (t--)
-    {
-        cin >> a >> b;
-        cout << a - 1 << ' ' << b << '\n';
-    }
-    return 0;
-}
+#include<iostream>
+main(){int t,a,b;for(std::cin>>t;t--;endl(std::cout<<--a<<" "<<b))std::cin>>a>>b;}
