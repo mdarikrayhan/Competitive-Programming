@@ -13878,6 +13878,25 @@
     ],
     "timestamp": "Apr/26/2023 08:38"
   },
+  "CF203611946": {
+    "contest_id": 1471,
+    "language": "GNU C++17",
+    "path": "codeforces/1471/B.cpp",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Strange List",
+    "problem_url": "https://codeforces.com/contest/1471/problem/B",
+    "submission_id": "CF203611946",
+    "submission_url": "https://codeforces.com/contest/1471/submission/203611946",
+    "tags": [
+      "brute force",
+      "greedy",
+      "implementation",
+      "math",
+      "*1100"
+    ],
+    "timestamp": "Apr/27/2023 07:06"
+  },
   "CF203612032": {
     "contest_id": 1454,
     "language": "GNU C++17",
