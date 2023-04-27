@@ -1,4 +1,4 @@
-/***************************************************//*     .  Author : Md. Arik Rayhan    .  . . *//* . . .  . . . Github : github.com/mdarikrayhan . . . . . . . . *//***************************************************/#include<cstdio>
+/***************************************************//*    . Author : Md. Arik Rayhan  . .  . . .  . . . . *//*   . .  Github : github.com/mdarikrayhan   .  . . .  *//***************************************************/#include<cstdio>
 int t,n,a[1007],l,r,p,q,i,s,pi,qi;
 main(){
 	for(scanf("%d",&t);t--;){
