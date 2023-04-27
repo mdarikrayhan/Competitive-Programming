@@ -13878,6 +13878,24 @@
     ],
     "timestamp": "Apr/26/2023 08:38"
   },
+  "CF203609037": {
+    "contest_id": 1547,
+    "language": "GNU C++17",
+    "path": "codeforces/1547/D.cpp",
+    "platform": "Codeforces",
+    "problem_index": "D",
+    "problem_name": "Co-growing Sequence",
+    "problem_url": "https://codeforces.com/contest/1547/problem/D",
+    "submission_id": "CF203609037",
+    "submission_url": "https://codeforces.com/contest/1547/submission/203609037",
+    "tags": [
+      "bitmasks",
+      "constructive algorithms",
+      "greedy",
+      "*1300"
+    ],
+    "timestamp": "Apr/27/2023 06:03"
+  },
   "CF203609096": {
     "contest_id": 1539,
     "language": "GNU C++17",
