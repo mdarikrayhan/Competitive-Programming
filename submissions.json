@@ -13877,5 +13877,21 @@
       "*3400"
     ],
     "timestamp": "Apr/26/2023 08:38"
+  },
+  "CF203615753": {
+    "contest_id": 1353,
+    "language": "GNU C++17",
+    "path": "codeforces/1353/C.cpp",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Board Moves",
+    "problem_url": "https://codeforces.com/contest/1353/problem/C",
+    "submission_id": "CF203615753",
+    "submission_url": "https://codeforces.com/contest/1353/submission/203615753",
+    "tags": [
+      "math",
+      "*1000"
+    ],
+    "timestamp": "Apr/27/2023 08:15"
   }
 }
