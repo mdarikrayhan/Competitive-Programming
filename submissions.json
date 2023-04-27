@@ -13878,6 +13878,25 @@
     ],
     "timestamp": "Apr/26/2023 08:38"
   },
+  "CF203614830": {
+    "contest_id": 1360,
+    "language": "GNU C++17",
+    "path": "codeforces/1360/C.cpp",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Similar Pairs",
+    "problem_url": "https://codeforces.com/contest/1360/problem/C",
+    "submission_id": "CF203614830",
+    "submission_url": "https://codeforces.com/contest/1360/submission/203614830",
+    "tags": [
+      "constructive algorithms",
+      "graph matchings",
+      "greedy",
+      "sortings",
+      "*1100"
+    ],
+    "timestamp": "Apr/27/2023 07:58"
+  },
   "CF203614905": {
     "contest_id": 1375,
     "language": "GNU C++17",
