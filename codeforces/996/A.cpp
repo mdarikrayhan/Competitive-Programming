@@ -1,38 +1,41 @@
-/***************************************************/
-/*https://codeforces.com/problemset/problem/996/A  */
-/*            Author : Md. Arik Rayhan             */
-/*        Github : github.com/mdarikrayhan         */
-/***************************************************/
 #include <bits/stdc++.h>
 using namespace std;
+const char nl = '\n';
 int main()
 {
-    int m, sum=0;
-    cin >> m;
-    while (m)
+ios_base::sync_with_stdio(false);
+cin.tie(NULL);
+cout.tie(NULL);
+
+    long long n;
+    cin>>n;
+    int ans=0;
+    if(n>=100)
     {
-        if(m>=100){
-        sum=sum+(m/100);
-        m=m%100;
-        }
-        else if(m>=20){
-        sum=sum+(m/20);
-        m=m%20;
-        }
-        else if(m>=10){
-        sum=sum+(m/10);
-        m=m%10;
-        }
-        else if(m>=5){
-        sum=sum+(m/5);
-        m=m%5;
-        }
-        else if(m>=1){
-        sum=sum+(m/1);
-        m=m%1;
-
-        }
+        ans+=n/100;
+        n=n%100;
     }
-    cout<<sum;
+    if(n>=20)
+    {
+        ans+=n/20;
+        n=n%20;
+    }
+    if(n>=10)
+    {
+        ans+=n/10;
+        n=n%10;
+    }
+    if(n>=5)
+    {
+        ans+=n/5;
+        n=n%5;
+    }
+    if(n>=1)
+    {
+        ans+=n/1;
+        n=n%1;
+    }
+    cout<<ans<<nl;
 
+return 0;
 }
