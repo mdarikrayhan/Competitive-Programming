@@ -19849,6 +19849,24 @@
     ],
     "timestamp": "Apr/30/2023 19:07"
   },
+  "CF233101475": {
+    "contest_id": 1899,
+    "language": "GNU C++20 (64)",
+    "path": "codeforces/1899/A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Game with Integers",
+    "problem_url": "https://codeforces.com/contest/1899/problem/A",
+    "submission_id": "CF233101475",
+    "submission_url": "https://codeforces.com/contest/1899/submission/233101475",
+    "tags": [
+      "games",
+      "math",
+      "number theory",
+      "*800"
+    ],
+    "timestamp": "Nov/17/2023 20:38"
+  },
   "CF233156426": {
     "contest_id": 1899,
     "language": "GNU C++20 (64)",
