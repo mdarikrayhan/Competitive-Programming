@@ -1,34 +1,40 @@
-#include <bits/stdc++.h>
+#include <iostream>
+#include <vector>
 using namespace std;
-const char nl = '\n';
+
 typedef long long ll;
-int main()
-{
-    ios_base::sync_with_stdio(false);
-    cin.tie(NULL);
-    cout.tie(NULL);
-    int T = 1;
-    cin >> T;
-    for (int i = 1; i <= T; i++)
-    {
-        ll n, ans = 0;
-        cin >> n;
-        vector<ll> v(n + 1);
-        for (int i = 1; i <= n; i++)
-        {
-            cin >> v[i];
-        }
-        for (int i = n - 1; i >= 1; i--)
-        {
-            if (v[i] > v[i + 1])
-            {
-                ll x = (v[i] - 1) / v[i + 1];
-                ans += x;
-                x++;
-                v[i] = v[i] / x;
-            }
-        }
-        cout << ans << endl;
+
+void solve() {
+    ll n;
+    cin >> n;
+    vector<ll> arr(n + 1);
+
+    for (int i = 1; i <= n; i++) {
+        cin >> arr[i];
     }
-    return 0;
+
+    ll ans = 0;
+    for (int i = n - 1; i >= 1; i--) {
+        if (arr[i] <= arr[i + 1]) {
+            continue;
+        }
+        ll x = (arr[i] - 1) / arr[i + 1];
+        ans += x;
+        x++;
+        arr[i] = arr[i] / x;
+    }
+
+    cout << ans << endl;
+}
+
+int main() {
+    ios::sync_with_stdio(false);
+    cin.tie(nullptr);
+
+    int t;
+    cin >> t;
+
+    while (t--) {
+        solve();
+    }
 }
