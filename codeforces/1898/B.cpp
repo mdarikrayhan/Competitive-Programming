@@ -13,12 +13,12 @@ int main()
     {
         ll n, ans = 0;
         cin >> n;
-        vector<ll> v(n);
-        for (int i = 0; i < n; i++)
+        vector<ll> v(n + 1);
+        for (int i = 1; i <= n; i++)
         {
             cin >> v[i];
         }
-        for (int i = n - 2; i >= 0; i--)
+        for (int i = n - 1; i >= 1; i--)
         {
             if (v[i] > v[i + 1])
             {
