@@ -19849,6 +19849,23 @@
     ],
     "timestamp": "Apr/30/2023 19:07"
   },
+  "CF234067242": {
+    "contest_id": 1901,
+    "language": "GNU C++20 (64)",
+    "path": "codeforces/1901/A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Line Trip",
+    "problem_url": "https://codeforces.com/contest/1901/problem/A",
+    "submission_id": "CF234067242",
+    "submission_url": "https://codeforces.com/contest/1901/submission/234067242",
+    "tags": [
+      "greedy",
+      "math",
+      "*800"
+    ],
+    "timestamp": "Nov/24/2023 21:01"
+  },
   "CF234087187": {
     "contest_id": 1901,
     "language": "GNU C++20 (64)",
