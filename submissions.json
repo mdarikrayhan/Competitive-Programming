@@ -19849,6 +19849,25 @@
     ],
     "timestamp": "Apr/30/2023 19:07"
   },
+  "CF234431999": {
+    "contest_id": 1900,
+    "language": "GNU C++20 (64)",
+    "path": "codeforces/1900/A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Cover in Water",
+    "problem_url": "https://codeforces.com/contest/1900/problem/A",
+    "submission_id": "CF234431999",
+    "submission_url": "https://codeforces.com/contest/1900/submission/234431999",
+    "tags": [
+      "constructive algorithms",
+      "greedy",
+      "implementation",
+      "strings",
+      "*800"
+    ],
+    "timestamp": "Nov/26/2023 20:43"
+  },
   "CF234445342": {
     "contest_id": 1900,
     "language": "GNU C++20 (64)",
