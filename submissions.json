@@ -19849,6 +19849,24 @@
     ],
     "timestamp": "Apr/30/2023 19:07"
   },
+  "CF234469696": {
+    "contest_id": 1900,
+    "language": "GNU C++20 (64)",
+    "path": "codeforces/1900/C.cpp",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Anji's Binary Tree",
+    "problem_url": "https://codeforces.com/contest/1900/problem/C",
+    "submission_id": "CF234469696",
+    "submission_url": "https://codeforces.com/contest/1900/submission/234469696",
+    "tags": [
+      "dfs and similar",
+      "dp",
+      "trees",
+      "*1300"
+    ],
+    "timestamp": "Nov/26/2023 21:52"
+  },
   "CF235090946": {
     "contest_id": 1903,
     "language": "GNU C++20 (64)",
