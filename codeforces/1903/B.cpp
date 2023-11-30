@@ -107,8 +107,8 @@ bool isPalindrome(string S)
     }
 }
 const int MAXN = 1000005;
-// Used: 265 ms, 41764 KB 10^6
-// Used: 2822 ms, 424072 KB 10^7
+//Used: 265 ms, 41764 KB 10^6
+//Used: 2822 ms, 424072 KB 10^7
 int spf[MAXN];
 vector<int> factor[MAXN];
 inline vector<int> getFactorization(int x)
@@ -172,16 +172,18 @@ bool ckmax(T &a, const T &b) { return a < b ? a = b, 1 : 0; }
 
 int main()
 {
+    sievefactor();
     fastio
         multicase
     {
-        ll n, maxi = INT_MIN, matrix[1005][1005], ans[1005];
+        ll n,maxi=INT_MIN,matrix[1005][1005],ans[1005];
         cin >> n;
         rep(i, 0, n)
         {
             rep(j, 0, n)
             {
                 cin >> matrix[i][j];
+                ckmax(maxi,matrix[i][j]);
             }
         }
         rep(i, 0, n)
@@ -208,13 +210,13 @@ int main()
                     break;
                 }
             }
-            if (flag == false)
+            if (flag==false)
                 break;
         }
 
         if (flag)
         {
-            cout << "YES" << nl;
+            cout<<"YES"<<nl;
             rep(i, 0, n)
             {
                 if (ans[i] == INT_MAX)
@@ -223,11 +225,11 @@ int main()
                 }
                 cout << ans[i] << " ";
             }
-            cout << nl;
+            cout<<nl;
         }
         else
         {
-            cout << "NO" << nl;
+            cout<<"NO"<<nl;
         }
     }
     return 0;
