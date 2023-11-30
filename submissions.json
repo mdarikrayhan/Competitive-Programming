@@ -19849,6 +19849,25 @@
     ],
     "timestamp": "Apr/30/2023 19:07"
   },
+  "CF235125697": {
+    "contest_id": 1903,
+    "language": "PyPy 3-64",
+    "path": "codeforces/1903/D1.py",
+    "platform": "Codeforces",
+    "problem_index": "D1",
+    "problem_name": "Maximum And Queries (easy version)",
+    "problem_url": "https://codeforces.com/contest/1903/problem/D1",
+    "submission_id": "CF235125697",
+    "submission_url": "https://codeforces.com/contest/1903/submission/235125697",
+    "tags": [
+      "binary search",
+      "bitmasks",
+      "brute force",
+      "greedy",
+      "*1700"
+    ],
+    "timestamp": "Dec/01/2023 00:32"
+  },
   "CF235154518": {
     "contest_id": 1903,
     "language": "GNU C++20 (64)",
