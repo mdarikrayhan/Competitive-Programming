@@ -19849,6 +19849,23 @@
     ],
     "timestamp": "Apr/30/2023 19:07"
   },
+  "CF235112554": {
+    "contest_id": 1903,
+    "language": "PyPy 3-64",
+    "path": "codeforces/1903/C.py",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Theofanis' Nightmare",
+    "problem_url": "https://codeforces.com/contest/1903/problem/C",
+    "submission_id": "CF235112554",
+    "submission_url": "https://codeforces.com/contest/1903/submission/235112554",
+    "tags": [
+      "constructive algorithms",
+      "greedy",
+      "*1400"
+    ],
+    "timestamp": "Nov/30/2023 23:45"
+  },
   "CF235116766": {
     "contest_id": 1903,
     "language": "GNU C++20 (64)",
