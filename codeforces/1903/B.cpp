@@ -17,10 +17,19 @@ void input()
     cin >> n;
     rep(i, 0, n)
     {
-        int val = INT_MAX;
         rep(j, 0, n)
         {
             cin >> matrix[i][j];
+        }
+    }
+}
+void calc()
+{
+    rep(i, 0, n)
+    {
+        int val = INT_MAX;
+        rep(j, 0, n)
+        {
             if (i != j)
             {
                 val &= matrix[i][j];
@@ -54,7 +63,9 @@ int main()
     while (t--)
     {
         input();
-        if (solve())
+        calc();
+        bool flag = solve();
+        if (flag)
         {
             cout << "YES" << nl;
             rep(i, 0, n)
