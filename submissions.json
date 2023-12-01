@@ -19801,6 +19801,25 @@
     ],
     "timestamp": "Apr/30/2023 19:07"
   },
+  "CF235157003": {
+    "contest_id": 1903,
+    "language": "GNU C++14",
+    "path": "codeforces/1903/B.cpp",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "StORage room",
+    "problem_url": "https://codeforces.com/contest/1903/problem/B",
+    "submission_id": "CF235157003",
+    "submission_url": "https://codeforces.com/contest/1903/submission/235157003",
+    "tags": [
+      "bitmasks",
+      "brute force",
+      "constructive algorithms",
+      "greedy",
+      "*1200"
+    ],
+    "timestamp": "Dec/01/2023 08:14"
+  },
   "CF235157020": {
     "contest_id": 1903,
     "language": "GNU C++17",
