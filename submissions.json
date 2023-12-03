@@ -19801,6 +19801,24 @@
     ],
     "timestamp": "Apr/30/2023 19:07"
   },
+  "CF235597986": {
+    "contest_id": 1902,
+    "language": "GNU C++20 (64)",
+    "path": "codeforces/1902/B.cpp",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Getting Points",
+    "problem_url": "https://codeforces.com/contest/1902/problem/B",
+    "submission_id": "CF235597986",
+    "submission_url": "https://codeforces.com/contest/1902/submission/235597986",
+    "tags": [
+      "binary search",
+      "brute force",
+      "greedy",
+      "*1100"
+    ],
+    "timestamp": "Dec/03/2023 22:23"
+  },
   "CF236581592": {
     "contest_id": 1904,
     "language": "GNU C++20 (64)",
