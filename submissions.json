@@ -19801,6 +19801,23 @@
     ],
     "timestamp": "Apr/30/2023 19:07"
   },
+  "CF237526841": {
+    "contest_id": 1905,
+    "language": "GNU C++20 (64)",
+    "path": "codeforces/1905/C.cpp",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Largest Subsequence",
+    "problem_url": "https://codeforces.com/contest/1905/problem/C",
+    "submission_id": "CF237526841",
+    "submission_url": "https://codeforces.com/contest/1905/submission/237526841",
+    "tags": [
+      "greedy",
+      "strings",
+      "*1400"
+    ],
+    "timestamp": "Dec/16/2023 22:34"
+  },
   "CF237531321": {
     "contest_id": 1905,
     "language": "GNU C++20 (64)",
