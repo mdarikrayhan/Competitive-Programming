@@ -19801,6 +19801,24 @@
     ],
     "timestamp": "Apr/30/2023 19:07"
   },
+  "CF238043385": {
+    "contest_id": 1914,
+    "language": "GNU C++20 (64)",
+    "path": "codeforces/1914/E2.cpp",
+    "platform": "Codeforces",
+    "problem_index": "E2",
+    "problem_name": "Game with Marbles (Hard Version)",
+    "problem_url": "https://codeforces.com/contest/1914/problem/E2",
+    "submission_id": "CF238043385",
+    "submission_url": "https://codeforces.com/contest/1914/submission/238043385",
+    "tags": [
+      "games",
+      "greedy",
+      "sortings",
+      "*1400"
+    ],
+    "timestamp": "Dec/19/2023 22:47"
+  },
   "CF238046629": {
     "contest_id": 1914,
     "language": "GNU C++20 (64)",
