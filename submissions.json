@@ -19801,6 +19801,25 @@
     ],
     "timestamp": "Apr/30/2023 19:07"
   },
+  "CF238043269": {
+    "contest_id": 1914,
+    "language": "GNU C++20 (64)",
+    "path": "codeforces/1914/E1.cpp",
+    "platform": "Codeforces",
+    "problem_index": "E1",
+    "problem_name": "Game with Marbles (Easy Version)",
+    "problem_url": "https://codeforces.com/contest/1914/problem/E1",
+    "submission_id": "CF238043269",
+    "submission_url": "https://codeforces.com/contest/1914/submission/238043269",
+    "tags": [
+      "brute force",
+      "games",
+      "greedy",
+      "sortings",
+      "*1400"
+    ],
+    "timestamp": "Dec/19/2023 22:47"
+  },
   "CF238043385": {
     "contest_id": 1914,
     "language": "GNU C++20 (64)",
