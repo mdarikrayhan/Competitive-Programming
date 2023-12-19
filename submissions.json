@@ -19801,6 +19801,26 @@
     ],
     "timestamp": "Apr/30/2023 19:07"
   },
+  "CF238046629": {
+    "contest_id": 1914,
+    "language": "GNU C++20 (64)",
+    "path": "codeforces/1914/D.cpp",
+    "platform": "Codeforces",
+    "problem_index": "D",
+    "problem_name": "Three Activities",
+    "problem_url": "https://codeforces.com/contest/1914/problem/D",
+    "submission_id": "CF238046629",
+    "submission_url": "https://codeforces.com/contest/1914/submission/238046629",
+    "tags": [
+      "brute force",
+      "dp",
+      "greedy",
+      "implementation",
+      "sortings",
+      "*1200"
+    ],
+    "timestamp": "Dec/19/2023 22:54"
+  },
   "CF238518301": {
     "contest_id": 1909,
     "language": "GNU C++20 (64)",
