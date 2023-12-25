@@ -31,6 +31,47 @@ typedef vector<cd> vcd;
 #define deb2(x, y) cout << #x << "=" << x << "," << #y << "=" << y << endl
 #define deb3(x, y, z) cout << #x << "=" << x << "," << #y << "=" << y << "," << #z << "=" << z << endl
 #define deb4(a, b, c, d) cout << #a << "=" << a << "," << #b << "=" << b << "," << #c << "=" << c << "," << #d << "=" << d << endl
+
+const int MAXN = 1000005;
+int spf[MAXN];
+vector<int> factor[MAXN];
+inline vector<int> getFactorization(int x)
+{
+    vector<int> ret;
+    while (x != 1)
+    {
+        ret.push_back(spf[x]);
+        x = x / spf[x];
+    }
+    return ret;
+}
+void sievefactor()
+{
+    spf[1] = 1;
+    for (int i = 2; i <= MAXN; i++)
+    {
+        spf[i] = i;
+    }
+    for (int i = 4; i <= MAXN; i += 2)
+    {
+        spf[i] = 2;
+    }
+    for (int i = 3; i * i < MAXN; i++)
+    {
+        if (spf[i] == i)
+        {
+            for (int j = i * i; j < MAXN; j += i)
+                if (spf[j] == j)
+                {
+                    spf[j] = i;
+                }
+        }
+    }
+    for (int i = 1; i <= MAXN; i++)
+    {
+        factor[i] = getFactorization(i);
+    }
+}
 #define print_map(m)                                                     \
     for (const auto &[key, value] : m)                                   \
     {                                                                    \
@@ -57,10 +98,9 @@ void solve()
 {
     ll n, neg = 0, zero = 0;
     cin >> n;
-
-    for (int i = 0; i < n; i++)
+    vl v(n);
+    for (auto &x : v)
     {
-        ll x;
         cin >> x;
         if (x < 0)
         {
@@ -76,7 +116,20 @@ void solve()
         cout << 0 << nl;
         return;
     }
-    cout << 1 << nl << 1 << " " << 0 << nl;
+    ll index = 0;
+    if (neg > 0)
+    {
+        index = max_element(v.begin(), v.end()) - v.begin();
+    }
+    else
+    {
+        index = min_element(v.begin(), v.end()) - v.begin();
+    }
+    if (v[index] < 0)
+    {
+        v[index] = 0;
+    }
+    cout << 1 << nl << index + 1 << " " << 0 << nl;
 }
 
 #define end_time                                            \
