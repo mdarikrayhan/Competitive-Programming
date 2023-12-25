@@ -19801,6 +19801,23 @@
     ],
     "timestamp": "Apr/30/2023 19:07"
   },
+  "CF238773287": {
+    "contest_id": 1917,
+    "language": "GNU C++20 (64)",
+    "path": "codeforces/1917/A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Least Product",
+    "problem_url": "https://codeforces.com/contest/1917/problem/A",
+    "submission_id": "CF238773287",
+    "submission_url": "https://codeforces.com/contest/1917/submission/238773287",
+    "tags": [
+      "constructive algorithms",
+      "math",
+      "*800"
+    ],
+    "timestamp": "Dec/25/2023 08:03"
+  },
   "CF238775864": {
     "contest_id": 1917,
     "language": "GNU C++20 (64)",
