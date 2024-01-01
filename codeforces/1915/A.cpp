@@ -126,6 +126,8 @@ void solve()
 #define all(x) x.begin(), x.end()
 #define ins insert
 #define fastio                        \
+    goodluck                          \
+    sievefactor();                    \
     ios_base::sync_with_stdio(false); \
     cin.tie(NULL);                    \
     cout.tie(NULL);
