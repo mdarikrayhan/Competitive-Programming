@@ -19800,5 +19800,23 @@
       "*800"
     ],
     "timestamp": "Apr/30/2023 19:07"
+  },
+  "CF240572642": {
+    "contest_id": 1919,
+    "language": "GNU C++20 (64)",
+    "path": "codeforces/1919/C.cpp",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Grouping Increases",
+    "problem_url": "https://codeforces.com/contest/1919/problem/C",
+    "submission_id": "CF240572642",
+    "submission_url": "https://codeforces.com/contest/1919/submission/240572642",
+    "tags": [
+      "data structures",
+      "dp",
+      "greedy",
+      "*1400"
+    ],
+    "timestamp": "Jan/06/2024 22:03"
   }
 }
