@@ -20496,5 +20496,22 @@
       "*1400"
     ],
     "timestamp": "Jan/06/2024 22:03"
+  },
+  "CF240716699": {
+    "contest_id": 1915,
+    "language": "GNU C++20 (64)",
+    "path": "codeforces/1915/C.cpp",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Can I Square?",
+    "problem_url": "https://codeforces.com/contest/1915/problem/C",
+    "submission_id": "CF240716699",
+    "submission_url": "https://codeforces.com/contest/1915/submission/240716699",
+    "tags": [
+      "binary search",
+      "implementation",
+      "*800"
+    ],
+    "timestamp": "Jan/07/2024 21:51"
   }
 }
