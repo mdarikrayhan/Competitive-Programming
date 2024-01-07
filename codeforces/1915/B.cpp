@@ -11,17 +11,21 @@ int main()
     cin >> T;
     while (T--)
     {
-        unordered_map<char, int> mp;
-        for (int i = 0; i < 9; i++)
+        map<char, int> mp;
+        for(int i=0;i<3;i++)
         {
-            char c;
-            cin >> c;
-            mp[c]++;
+            string s;
+            cin>>s;
+            for(int j=0;j<3;j++)
+            {
+                mp[s[j]]++;
+            }
         }
-        for(auto it:mp){
-            if(it.second==2){
-                cout<<it.first<<nl;
-                break;
+        for(auto i:mp)
+        {
+            if(i.second==2)
+            {
+                cout<<i.first<<nl;
             }
         }
     }
