@@ -20989,6 +20989,22 @@
     ],
     "timestamp": "Jan/16/2024 16:08"
   },
+  "CF241937136": {
+    "contest_id": 1921,
+    "language": "GNU C++20 (64)",
+    "path": "codeforces/1921/A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Square",
+    "problem_url": "https://codeforces.com/contest/1921/problem/A",
+    "submission_id": "CF241937136",
+    "submission_url": "https://codeforces.com/contest/1921/submission/241937136",
+    "tags": [
+      "greedy",
+      "math"
+    ],
+    "timestamp": "Jan/16/2024 19:06"
+  },
   "CF242233594": {
     "contest_id": 1922,
     "language": "GNU C++20 (64)",
