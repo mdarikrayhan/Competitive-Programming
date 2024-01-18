@@ -20989,6 +20989,23 @@
     ],
     "timestamp": "Jan/16/2024 16:08"
   },
+  "CF242248579": {
+    "contest_id": 1922,
+    "language": "GNU C++20 (64)",
+    "path": "codeforces/1922/B.cpp",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Forming Triangles",
+    "problem_url": "https://codeforces.com/contest/1922/problem/B",
+    "submission_id": "CF242248579",
+    "submission_url": "https://codeforces.com/contest/1922/submission/242248579",
+    "tags": [
+      "combinatorics",
+      "implementation",
+      "math"
+    ],
+    "timestamp": "Jan/18/2024 21:06"
+  },
   "CF242261839": {
     "contest_id": 1922,
     "language": "GNU C++20 (64)",
