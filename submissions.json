@@ -20989,6 +20989,22 @@
     ],
     "timestamp": "Jan/16/2024 16:08"
   },
+  "CF242261839": {
+    "contest_id": 1922,
+    "language": "GNU C++20 (64)",
+    "path": "codeforces/1922/C.cpp",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Closest Cities",
+    "problem_url": "https://codeforces.com/contest/1922/problem/C",
+    "submission_id": "CF242261839",
+    "submission_url": "https://codeforces.com/contest/1922/submission/242261839",
+    "tags": [
+      "data structures",
+      "dp"
+    ],
+    "timestamp": "Jan/18/2024 21:20"
+  },
   "CF242284682": {
     "contest_id": 1922,
     "language": "PyPy 3-64",
