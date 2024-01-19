@@ -21093,6 +21093,24 @@
     ],
     "timestamp": "Jan/18/2024 22:38"
   },
+  "CF242369603": {
+    "contest_id": 1922,
+    "language": "GNU C++20 (64)",
+    "path": "codeforces/1922/C.cpp",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Closest Cities",
+    "problem_url": "https://codeforces.com/contest/1922/problem/C",
+    "submission_id": "CF242369603",
+    "submission_url": "https://codeforces.com/contest/1922/submission/242369603",
+    "tags": [
+      "greedy",
+      "implementation",
+      "math",
+      "*1300"
+    ],
+    "timestamp": "Jan/19/2024 09:48"
+  },
   "CF242423426": {
     "contest_id": 1922,
     "language": "GNU C++20 (64)",

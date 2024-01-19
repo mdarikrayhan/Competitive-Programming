@@ -16,8 +16,7 @@ int main()
     {
         ll n, x, y, q;
         cin >> n;
-        ll a[n], v[n], l[n], r[n];
-        v[0] = 1;
+        vl a(n), l(n, 0), r(n, 0), v(n, 1);
         v[n - 1] = -1;
         rep(i, 0, n)
         {
@@ -38,6 +37,7 @@ int main()
             cin >> x >> y;
             if (y >= x)
             {
+
                 cout << r[x - 1] - r[y - 1] << nl;
             }
             else
