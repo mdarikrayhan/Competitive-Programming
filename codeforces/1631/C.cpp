@@ -28,15 +28,14 @@ int main()
         }
         else if (k == n - 1)
         {
-            n--;
-            cout << 0 << " " << n - 3 << nl; // 0
+            cout << 0 << " " << n - 3 - 1 << nl; // 0
             cout << 1 << " " << 3 << nl;         // 1
-            cout << 2 << " " << n - 2 << nl; // 0
-            for (int i = 4; i < (n+1) / 2; i++)
+            cout << 2 << " " << n - 2 - 1 << nl; // 0
+            for (int i = 4; i < n / 2; i++)
             {
-                cout << i << " " << n - i << nl;
+                cout << i << " " << n - 1 - i << nl;
             }
-            cout << n << " " << n - 1 << nl; // n-2
+            cout << k << " " << n - 2 << nl; // n-2
             continue;
         }
 
