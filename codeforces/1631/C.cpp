@@ -30,23 +30,23 @@ int main()
         {
             n--;
             cout << 0 << " " << n - 3 << nl; // 0
-            cout << 1 << " " << 3 << nl;     // 1
+            cout << 1 << " " << 3 << nl;         // 1
             cout << 2 << " " << n - 2 << nl; // 0
-            for (int i = 4; i < (n + 1) / 2; i++)
+            for (int i = 4; i < (n+1) / 2; i++)
             {
                 cout << i << " " << n - i << nl;
             }
-            cout << n << " " << n - 1 << nl; // n-1
+            cout << n << " " << n - 1 << nl; // n-2
             continue;
         }
-        n--;
-        cout << k << " " << n << nl;
-        cout << 0 << " " << n - k << nl;
-        for (int i = 1; i < (n + 1) / 2; i++)
+
+        cout << k << " " << n - 1 << nl;
+        cout << 0 << " " << n - k - 1 << nl;
+        for (int i = 1; i < n / 2; i++)
         {
-            if (i != k && (n - i) != k)
+            if (i != k && (n - 1 - i) != k)
             {
-                cout << i << " " << n - i << nl;
+                cout << i << " " << n - 1 - i << nl;
             }
         }
     }
