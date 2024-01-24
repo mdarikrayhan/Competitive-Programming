@@ -36,10 +36,11 @@ int main()
             {
                 cout << i << " " << n - i << nl;
             }
-            cout << n - 1 << " " << n << nl; // n-1
+            cout << n << " " << n - 1 << nl; // n-1
             continue;
         }
 
+        cout << k << " " << n << nl;
         cout << 0 << " " << n - k << nl;
         for (int i = 1; i < (n + 1) / 2; i++)
         {
@@ -48,7 +49,6 @@ int main()
                 cout << i << " " << n - i << nl;
             }
         }
-        cout << k << " " << n << nl;
     }
     return 0;
 }
