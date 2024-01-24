@@ -21092,5 +21092,22 @@
       "math"
     ],
     "timestamp": "Jan/18/2024 22:38"
+  },
+  "CF243175850": {
+    "contest_id": 1631,
+    "language": "GNU C++20 (64)",
+    "path": "codeforces/1631/C.cpp",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "And Matching",
+    "problem_url": "https://codeforces.com/contest/1631/problem/C",
+    "submission_id": "CF243175850",
+    "submission_url": "https://codeforces.com/contest/1631/submission/243175850",
+    "tags": [
+      "bitmasks",
+      "constructive algorithms",
+      "*1500"
+    ],
+    "timestamp": "Jan/25/2024 00:02"
   }
 }
