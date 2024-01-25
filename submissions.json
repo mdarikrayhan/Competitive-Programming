@@ -21269,6 +21269,25 @@
     ],
     "timestamp": "Jan/25/2024 00:02"
   },
+  "CF243254407": {
+    "contest_id": 702,
+    "language": "GNU C++20 (64)",
+    "path": "codeforces/702/B.cpp",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Powers of Two",
+    "problem_url": "https://codeforces.com/contest/702/problem/B",
+    "submission_id": "CF243254407",
+    "submission_url": "https://codeforces.com/contest/702/submission/243254407",
+    "tags": [
+      "brute force",
+      "data structures",
+      "implementation",
+      "math",
+      "*1500"
+    ],
+    "timestamp": "Jan/25/2024 17:26"
+  },
   "CF243569597": {
     "contest_id": 1925,
     "language": "GNU C++20 (64)",
