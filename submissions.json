@@ -21269,6 +21269,26 @@
     ],
     "timestamp": "Jan/25/2024 00:02"
   },
+  "CF243628383": {
+    "contest_id": 1925,
+    "language": "GNU C++20 (64)",
+    "path": "codeforces/1925/C.cpp",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Did We Get Everything Covered?",
+    "problem_url": "https://codeforces.com/contest/1925/problem/C",
+    "submission_id": "CF243628383",
+    "submission_url": "https://codeforces.com/contest/1925/submission/243628383",
+    "tags": [
+      "constructive algorithms",
+      "dp",
+      "greedy",
+      "implementation",
+      "strings",
+      "*1500"
+    ],
+    "timestamp": "Jan/27/2024 21:58"
+  },
   "CF244076306": {
     "contest_id": 1918,
     "language": "GNU C++20 (64)",
