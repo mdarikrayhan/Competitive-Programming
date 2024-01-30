@@ -21268,5 +21268,25 @@
       "*1500"
     ],
     "timestamp": "Jan/25/2024 00:02"
+  },
+  "CF244120683": {
+    "contest_id": 1918,
+    "language": "PyPy 3-64",
+    "path": "codeforces/1918/C.py",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "XOR-distance",
+    "problem_url": "https://codeforces.com/contest/1918/problem/C",
+    "submission_id": "CF244120683",
+    "submission_url": "https://codeforces.com/contest/1918/submission/244120683",
+    "tags": [
+      "bitmasks",
+      "dp",
+      "greedy",
+      "implementation",
+      "math",
+      "*1400"
+    ],
+    "timestamp": "Jan/30/2024 21:43"
   }
 }
