@@ -21269,6 +21269,25 @@
     ],
     "timestamp": "Jan/25/2024 00:02"
   },
+  "CF244076306": {
+    "contest_id": 1918,
+    "language": "GNU C++20 (64)",
+    "path": "codeforces/1918/A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Brick Wall",
+    "problem_url": "https://codeforces.com/contest/1918/problem/A",
+    "submission_id": "CF244076306",
+    "submission_url": "https://codeforces.com/contest/1918/submission/244076306",
+    "tags": [
+      "constructive algorithms",
+      "greedy",
+      "implementation",
+      "math",
+      "*800"
+    ],
+    "timestamp": "Jan/30/2024 20:40"
+  },
   "CF244087931": {
     "contest_id": 1918,
     "language": "GNU C++20 (64)",
