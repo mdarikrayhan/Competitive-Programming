@@ -302,14 +302,15 @@ bool ckmax(T &a, const T &b) { return a < b ? a = b, 1 : 0; }
 
 void solve()
 {
-    ll n, x, y;
+    ll n, x, y, c;
     cin >> n >> x >> y;
+    c = n / lcm(x, y);
     ll a, b;
-    a = ((n / x) - (n / lcm(x, y))); // positive
-    b = ((n / y) - (n / lcm(x, y))); // negative
-
+    a = (n / x) - c; // positive
+    b = (n / y) - c; // negative
+    // cout<<a<<" "<<b<<nl;
     b = b * (b + 1) / 2;
-
+    // cout<<b<<" ";
     if (a > 0)
     {
         a = rangesum(n - a + 1, n);
