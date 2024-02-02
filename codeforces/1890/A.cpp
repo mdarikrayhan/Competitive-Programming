@@ -118,7 +118,7 @@ bool ckmax(T &a, const T &b) { return a < b ? a = b, 1 : 0; }
 
 void solve()
 {
-    map<int, int> mp;
+        unordered_map<int, int> mp;
     int n;
     cin >> n;
     for (int i = 0; i < n; i++)
