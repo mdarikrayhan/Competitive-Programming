@@ -21404,6 +21404,23 @@
     ],
     "timestamp": "Jan/30/2024 21:43"
   },
+  "CF244498482": {
+    "contest_id": 1873,
+    "language": "GNU C++20 (64)",
+    "path": "codeforces/1873/C.cpp",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Target Practice",
+    "problem_url": "https://codeforces.com/contest/1873/problem/C",
+    "submission_id": "CF244498482",
+    "submission_url": "https://codeforces.com/contest/1873/submission/244498482",
+    "tags": [
+      "implementation",
+      "math",
+      "*800"
+    ],
+    "timestamp": "Feb/02/2024 11:39"
+  },
   "CF244498759": {
     "contest_id": 1866,
     "language": "GNU C++20 (64)",
