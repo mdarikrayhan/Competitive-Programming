@@ -21684,6 +21684,22 @@
     ],
     "timestamp": "Feb/02/2024 19:58"
   },
+  "CF245084692": {
+    "contest_id": 1927,
+    "language": "GNU C++20 (64)",
+    "path": "codeforces/1927/A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Make it White",
+    "problem_url": "https://codeforces.com/contest/1927/problem/A",
+    "submission_id": "CF245084692",
+    "submission_url": "https://codeforces.com/contest/1927/submission/245084692",
+    "tags": [
+      "greedy",
+      "strings"
+    ],
+    "timestamp": "Feb/06/2024 20:49"
+  },
   "CF245131186": {
     "contest_id": 1927,
     "language": "GNU C++20 (64)",
