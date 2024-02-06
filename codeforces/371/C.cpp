@@ -328,40 +328,35 @@ void solve()
             c++;
         }
     }
-    //deb3(b, s, c);
-    if(b<=0){nb=0;}
-    if(s<=0){ns=0;}
-    if(c<=0){nc=0;}
-    while((nb>0 || ns>0 || nc>0)&&(r>0))
+    // deb3(b, s, c);
+    ll low = 0, high = 1e13;
+    while (low <= high)
     {
-        nb-=b;
-        ns-=s;
-        nc-=c;
-        if(nb<0)
+        ll mid = (low + high) / 2;
+        ll cost = 0;
+        if (b * mid > nb)
         {
-            r+=(nb*pb);
-            nb=0;
+            cost += (b * mid - nb) * pb;
         }
-        if(ns<0)
+        if (s * mid > ns)
         {
-            r+=(ns*ps);
-            ns=0;
+            cost += (s * mid - ns) * ps;
         }
-        if(nc<0)
+        if (c * mid > nc)
         {
-            r+=(nc*pc);
-            nc=0;
+            cost += (c * mid - nc) * pc;
         }
-        if(r>=0)
+        if (cost <= r)
         {
-            ans++;
+            ans = mid;
+            low = mid + 1;
         }
-        else{
-            r=0;
+        else
+        {
+            high = mid - 1;
         }
     }
-    ans+=(r/(b*pb+s*ps+c*pc));
-    cout<<ans<<nl;
+    cout << ans << nl;
 }
 
 int32_t main()
