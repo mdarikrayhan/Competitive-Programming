@@ -21684,6 +21684,23 @@
     ],
     "timestamp": "Feb/02/2024 19:58"
   },
+  "CF245197797": {
+    "contest_id": 1927,
+    "language": "GNU C++20 (64)",
+    "path": "codeforces/1927/E.cpp",
+    "platform": "Codeforces",
+    "problem_index": "E",
+    "problem_name": "Klever Permutation",
+    "problem_url": "https://codeforces.com/contest/1927/problem/E",
+    "submission_id": "CF245197797",
+    "submission_url": "https://codeforces.com/contest/1927/submission/245197797",
+    "tags": [
+      "constructive algorithms",
+      "math",
+      "two pointers"
+    ],
+    "timestamp": "Feb/06/2024 22:20"
+  },
   "CF245302701": {
     "contest_id": 371,
     "language": "GNU C++20 (64)",
