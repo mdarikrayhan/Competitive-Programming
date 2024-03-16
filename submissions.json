@@ -21977,6 +21977,24 @@
     ],
     "timestamp": "Feb/16/2024 02:59"
   },
+  "CF251708744": {
+    "contest_id": 1944,
+    "language": "C++17 (GCC 7-32)",
+    "path": "codeforces/1944/A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Destroying Bridges",
+    "problem_url": "https://codeforces.com/contest/1944/problem/A",
+    "submission_id": "CF251708744",
+    "submission_url": "https://codeforces.com/contest/1944/submission/251708744",
+    "tags": [
+      "graphs",
+      "greedy",
+      "math",
+      "*800"
+    ],
+    "timestamp": "Mar/16/2024 20:43"
+  },
   "CF251785967": {
     "contest_id": 1944,
     "language": "C++17 (GCC 7-32)",
