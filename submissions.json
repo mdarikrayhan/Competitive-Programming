@@ -21977,6 +21977,24 @@
     ],
     "timestamp": "Feb/16/2024 02:59"
   },
+  "CF256292655": {
+    "contest_id": 1954,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1954/A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Painting the Ribbon",
+    "problem_url": "https://codeforces.com/contest/1954/problem/A",
+    "submission_id": "CF256292655",
+    "submission_url": "https://codeforces.com/contest/1954/submission/256292655",
+    "tags": [
+      "constructive algorithms",
+      "greedy",
+      "math",
+      "*900"
+    ],
+    "timestamp": "Apr/12/2024 21:07"
+  },
   "CF256301476": {
     "contest_id": 1954,
     "language": "C++20 (GCC 13-64)",
