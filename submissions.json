@@ -21977,6 +21977,24 @@
     ],
     "timestamp": "Feb/16/2024 02:59"
   },
+  "CF259578626": {
+    "contest_id": 1771,
+    "language": "Python 3",
+    "path": "codeforces/1771/A.py",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Hossam and Combinatorics",
+    "problem_url": "https://codeforces.com/contest/1771/problem/A",
+    "submission_id": "CF259578626",
+    "submission_url": "https://codeforces.com/contest/1771/submission/259578626",
+    "tags": [
+      "combinatorics",
+      "math",
+      "sortings",
+      "*900"
+    ],
+    "timestamp": "May/05/2024 09:22"
+  },
   "CF259578749": {
     "contest_id": 1901,
     "language": "Python 3",
