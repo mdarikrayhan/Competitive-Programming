@@ -21977,6 +21977,26 @@
     ],
     "timestamp": "Feb/16/2024 02:59"
   },
+  "CF259578749": {
+    "contest_id": 1901,
+    "language": "Python 3",
+    "path": "codeforces/1901/D.py",
+    "platform": "Codeforces",
+    "problem_index": "D",
+    "problem_name": "Yet Another Monster Fight",
+    "problem_url": "https://codeforces.com/contest/1901/problem/D",
+    "submission_id": "CF259578749",
+    "submission_url": "https://codeforces.com/contest/1901/submission/259578749",
+    "tags": [
+      "binary search",
+      "dp",
+      "greedy",
+      "implementation",
+      "math",
+      "*1700"
+    ],
+    "timestamp": "May/05/2024 09:25"
+  },
   "CF259825159": {
     "contest_id": 891,
     "language": "C++20 (GCC 13-64)",
