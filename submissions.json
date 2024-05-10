@@ -21977,6 +21977,23 @@
     ],
     "timestamp": "Feb/16/2024 02:59"
   },
+  "CF260189906": {
+    "contest_id": 1875,
+    "language": "Python 3",
+    "path": "codeforces/1875/A.py",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Jellyfish and Undertale",
+    "problem_url": "https://codeforces.com/contest/1875/problem/A",
+    "submission_id": "CF260189906",
+    "submission_url": "https://codeforces.com/contest/1875/submission/260189906",
+    "tags": [
+      "brute force",
+      "greedy",
+      "*900"
+    ],
+    "timestamp": "May/10/2024 07:05"
+  },
   "CF260189939": {
     "contest_id": 1915,
     "language": "C++20 (GCC 13-64)",
