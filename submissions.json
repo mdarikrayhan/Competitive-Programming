@@ -21977,6 +21977,25 @@
     ],
     "timestamp": "Feb/16/2024 02:59"
   },
+  "CF260870639": {
+    "contest_id": 1850,
+    "language": "Python 3",
+    "path": "codeforces/1850/D.py",
+    "platform": "Codeforces",
+    "problem_index": "D",
+    "problem_name": "Balanced Round",
+    "problem_url": "https://codeforces.com/contest/1850/problem/D",
+    "submission_id": "CF260870639",
+    "submission_url": "https://codeforces.com/contest/1850/submission/260870639",
+    "tags": [
+      "brute force",
+      "greedy",
+      "implementation",
+      "sortings",
+      "*900"
+    ],
+    "timestamp": "May/14/2024 09:02"
+  },
   "CF260897819": {
     "contest_id": 1848,
     "language": "Python 3",
