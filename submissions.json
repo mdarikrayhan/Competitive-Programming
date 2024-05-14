@@ -21977,6 +21977,23 @@
     ],
     "timestamp": "Feb/16/2024 02:59"
   },
+  "CF260897819": {
+    "contest_id": 1848,
+    "language": "Python 3",
+    "path": "codeforces/1848/A.py",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Vika and Her Friends",
+    "problem_url": "https://codeforces.com/contest/1848/problem/A",
+    "submission_id": "CF260897819",
+    "submission_url": "https://codeforces.com/contest/1848/submission/260897819",
+    "tags": [
+      "games",
+      "math",
+      "*900"
+    ],
+    "timestamp": "May/14/2024 14:32"
+  },
   "CF260993016": {
     "contest_id": 1823,
     "language": "PyPy 3-64",
