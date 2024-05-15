@@ -1,12 +1,34 @@
-#include <iostream>
-#define I std::cin>>
+#include<iostream>
+#include<cmath>
+using namespace std;
+typedef long long ll;
 
-int main() {
-int t,n,a,b,m,j,i;
-for (I t; t--; std::cout<<(b?"Joe\n":"Mike\n")) {
-I n;
-j=m=1<<30;
-for(i=n; i--; b=i&1?a<m?m=a,0:b:a<j?j=a:b) I a;
-b=n&1?0:j<m?0:j!=m?1:b;
+ll n, a[59], i,minn;
+void solve()
+{
+	cin >> n;
+	minn = 1;
+	for (i = 1; i <= n; i++)
+	{
+		cin >> a[i];
+		if (a[i] < a[minn])minn = i;
+	}
+	if (n % 2 == 0)
+	{
+		if(minn%2!=0)cout << "Joe" << "\n";
+		else cout << "Mike" << "\n";
+	}
+	else cout << "Mike" << "\n";
 }
+
+int main()
+{
+	ios::sync_with_stdio(false);
+	cin.tie(0), cout.tie(0);
+	ll T;
+	cin >> T;
+	//T = 1;
+	while (T--)
+		solve();
+	return 0;
 }
