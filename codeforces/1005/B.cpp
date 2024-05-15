@@ -1,37 +1,32 @@
-/***************************************************/
-/*                  Md. HAFIZ AHMED                */
-/*               DEPARTMENT OF CSE,BAUET           */
-/***************************************************/
-#include <bits/stdc++.h>
+#include <iostream>
+#include <algorithm>
+#include <cmath>
 using namespace std;
-#define ll long long
-#define pb push_back
-#define nl '\n'
-#define successfull return 0
 
-int32_t main()
-{
-    ios_base::sync_with_stdio(0);
-    cin.tie(0), cout.tie(0);
+int main() {
 
-    string s, t;
-    cin >> s >> t;
-    int n = s.size();
-    for (int i = 0; i < n; ++i)
-    {
-
-        if (s.back() == t.back())
-        {
-            s.pop_back();
-            t.pop_back();
+    //int t;cin>>t;
+    //while (t--){
+        string x,y;cin>>x>>y;
+        int count=0;
+        if(x.length()<y.length()){
+            swap(x,y);
         }
-        else
-        {
-            break;
+        for (int i = x.length()-1,j=y.length()-1;  j >= 0; --i,j--) {
+            if(x[i]==y[j]){
+                count+=2;
+            }else{
+                break;
+            }
         }
-    }
+        cout<<(x.length()+y.length())-count;
 
-    cout << s.size() + t.size() << nl;
 
-    successfull;
+    //}
+
+
+
+
+
+
 }
