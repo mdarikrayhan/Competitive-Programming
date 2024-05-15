@@ -21977,6 +21977,25 @@
     ],
     "timestamp": "Feb/16/2024 02:59"
   },
+  "CF261020922": {
+    "contest_id": 1769,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1769/B1.cpp",
+    "platform": "Codeforces",
+    "problem_index": "B1",
+    "problem_name": "\u041a\u043e\u043f\u0438\u0440\u043e\u0432\u0430\u043d\u0438\u0435 \u0444\u0430\u0439\u043b\u043e\u0432 I",
+    "problem_url": "https://codeforces.com/contest/1769/problem/B1",
+    "submission_id": "CF261020922",
+    "submission_url": "https://codeforces.com/contest/1769/submission/261020922",
+    "tags": [
+      "*special problem",
+      "brute force",
+      "implementation",
+      "math",
+      "*1000"
+    ],
+    "timestamp": "May/15/2024 14:04"
+  },
   "CF261020946": {
     "contest_id": 1765,
     "language": "C++20 (GCC 13-64)",
