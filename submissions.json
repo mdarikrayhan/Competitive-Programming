@@ -21977,6 +21977,23 @@
     ],
     "timestamp": "Feb/16/2024 02:59"
   },
+  "CF261013273": {
+    "contest_id": 1883,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1883/D.cpp",
+    "platform": "Codeforces",
+    "problem_index": "D",
+    "problem_name": "In Love",
+    "problem_url": "https://codeforces.com/contest/1883/problem/D",
+    "submission_id": "CF261013273",
+    "submission_url": "https://codeforces.com/contest/1883/submission/261013273",
+    "tags": [
+      "data structures",
+      "greedy",
+      "*1500"
+    ],
+    "timestamp": "May/15/2024 12:50"
+  },
   "CF261013445": {
     "contest_id": 1841,
     "language": "C++20 (GCC 13-64)",
