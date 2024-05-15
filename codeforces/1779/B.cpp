@@ -1,17 +1,39 @@
-#include <bits/stdc++.h>
+#include <iostream>
 using namespace std;
-
-int main()
-{
-	int T;cin>>T;while(T--){
-		int n;cin>>n;
-		if(n==2)puts("YES\n1 -1");
-		else if(n==3)puts("NO");
-		else{
-			puts("YES");
-			for(int i=1;i<=n;i++)
-				cout<<(i&1?-1:1)*(n-1-(i&1))/2<<' ';
-			cout<<'\n';
-		}
-	}
+int main(int argc, const char * argv[]) {
+    int t;
+    cin >> t;
+    while (t--) {
+        int n;
+        cin >> n;
+        if (n % 2 == 0) {
+            cout << "YES" << endl;
+            for (int i = 0; i < n; i++) {
+                if (i % 2 == 0) {
+                    cout << 1;
+                } else {
+                    cout << -1;
+                }
+                cout << " ";
+            }
+            cout << endl;
+        } else {
+            if (n == 3) {
+                cout << "NO" << endl;
+            } else {
+                cout << "YES" << endl;
+                for (int i = 0; i < n; i++) {
+                    int m = n / 2;
+                    if (i % 2 == 0) {
+                        cout << m - 1;
+                    } else {
+                        cout << -m;
+                    }
+                    cout << " ";
+                }
+                cout << endl;
+            }
+        }
+    }
+    return 0;
 }
