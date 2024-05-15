@@ -21977,6 +21977,23 @@
     ],
     "timestamp": "Feb/16/2024 02:59"
   },
+  "CF261107411": {
+    "contest_id": 194,
+    "language": "C++17 (GCC 7-32)",
+    "path": "codeforces/194/A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Exams",
+    "problem_url": "https://codeforces.com/contest/194/problem/A",
+    "submission_id": "CF261107411",
+    "submission_url": "https://codeforces.com/contest/194/submission/261107411",
+    "tags": [
+      "implementation",
+      "math",
+      "*900"
+    ],
+    "timestamp": "May/16/2024 03:59"
+  },
   "CF261107424": {
     "contest_id": 876,
     "language": "C++17 (GCC 7-32)",
