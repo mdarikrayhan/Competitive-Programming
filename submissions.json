@@ -21977,6 +21977,24 @@
     ],
     "timestamp": "Feb/16/2024 02:59"
   },
+  "CF261020124": {
+    "contest_id": 1802,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1802/B.cpp",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Settlement of Guinea Pigs",
+    "problem_url": "https://codeforces.com/contest/1802/problem/B",
+    "submission_id": "CF261020124",
+    "submission_url": "https://codeforces.com/contest/1802/submission/261020124",
+    "tags": [
+      "greedy",
+      "implementation",
+      "math",
+      "*1000"
+    ],
+    "timestamp": "May/15/2024 13:56"
+  },
   "CF261020157": {
     "contest_id": 1800,
     "language": "C++20 (GCC 13-64)",
