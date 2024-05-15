@@ -21977,6 +21977,22 @@
     ],
     "timestamp": "Feb/16/2024 02:59"
   },
+  "CF261050596": {
+    "contest_id": 1350,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1350/A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Orac and Factors",
+    "problem_url": "https://codeforces.com/contest/1350/problem/A",
+    "submission_id": "CF261050596",
+    "submission_url": "https://codeforces.com/contest/1350/submission/261050596",
+    "tags": [
+      "math",
+      "*900"
+    ],
+    "timestamp": "May/15/2024 18:12"
+  },
   "CF261050636": {
     "contest_id": 1324,
     "language": "C++20 (GCC 13-64)",
