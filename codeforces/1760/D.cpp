@@ -1,22 +1,61 @@
 #include<bits/stdc++.h>
 using namespace std;
-int main()
+#define int long long int
+void solve()
 {
-	int t;
-	cin>>t;
-	while(t--)
-{
-	int n,a1,a,s=0;
-	cin>>n>>a1;
-	for(int i=1;i<n;i++)
-{
-	cin>>a;
-	if(a1<a)s=max(s,1);
-	if(a1>a && s)s=2;
-	a1=a;
+    int n;
+    cin>>n;
+    int arr[n];
+    int b[n];
+    for(int i =0;i<n;i++)
+    {
+        cin>>arr[i];
+        b[i]=arr[i];
+    }
+        int i =0;
+        int j=n-1;
+        while(i<n-1)
+        {
+            if(arr[i]>=arr[i+1])
+            {
+                i++;
+                continue;
+            }
+            else
+            {
+                break;
+            }
+        }
+        while(j>0)
+        {
+            if(arr[j-1]<=arr[j])
+            {
+                j--;
+                continue;
+            }
+            else
+            {
+                break;
+            }
+        }
+        if(j-i<=1)
+        {
+            cout<<"YES"<<endl;
+            return;
+        }
+        else
+        {
+            cout<<"NO"<<endl;
+            return;
+        }
 }
-	if(s<=1) cout<<"YES"<<endl;
-else cout<<"NO"<<endl;
-}
-	
+signed main()
+{
+    int t;
+    cin>>t;
+    while(t--)
+    {
+        solve();
+    }
+    return 0;
 }
