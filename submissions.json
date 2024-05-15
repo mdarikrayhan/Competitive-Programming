@@ -21977,6 +21977,23 @@
     ],
     "timestamp": "Feb/16/2024 02:59"
   },
+  "CF261046371": {
+    "contest_id": 977,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/977/B.cpp",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Two-gram",
+    "problem_url": "https://codeforces.com/contest/977/problem/B",
+    "submission_id": "CF261046371",
+    "submission_url": "https://codeforces.com/contest/977/submission/261046371",
+    "tags": [
+      "implementation",
+      "strings",
+      "*900"
+    ],
+    "timestamp": "May/15/2024 17:39"
+  },
   "CF261046424": {
     "contest_id": 1373,
     "language": "C++20 (GCC 13-64)",
