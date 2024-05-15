@@ -21977,6 +21977,23 @@
     ],
     "timestamp": "Feb/16/2024 02:59"
   },
+  "CF261107172": {
+    "contest_id": 863,
+    "language": "C++17 (GCC 7-32)",
+    "path": "codeforces/863/A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Quasi-palindrome",
+    "problem_url": "https://codeforces.com/contest/863/problem/A",
+    "submission_id": "CF261107172",
+    "submission_url": "https://codeforces.com/contest/863/submission/261107172",
+    "tags": [
+      "brute force",
+      "implementation",
+      "*900"
+    ],
+    "timestamp": "May/16/2024 03:54"
+  },
   "CF261107259": {
     "contest_id": 465,
     "language": "C++17 (GCC 7-32)",
