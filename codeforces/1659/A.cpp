@@ -1,15 +1,28 @@
-#include<bits/stdc++.h>
+#include <bits/stdc++.h>
 using namespace std;
-int t;
-int main() {
-cin>>t;
-while(t--) {
-int n,a,b;
-cin>>n>>a>>b;
-int k=a/(b+1),m=a%(b+1);
-for (int i=1;i<=b+1;i++) {
-for (int j=1;j<=k+(i<=m);j++) cout<<"R";
-if(i<=b) cout<<"B";
-}cout<<endl;
+#define cyes cout<<"YES"<<endl;
+#define cno cout<<"NO"<<endl;
+
+void solve(){
+    int n, r, b;
+    cin>>n>>r>>b;
+    int val= ceil(r/(b+1.0));
+    
+    for(int i=0; i<b; i++){
+        int cnt= min(r-b+i, val);
+        r -= cnt;
+        for(int j=0; j<cnt; j++)
+            cout<<"R";
+        cout<<"B";
+    }
+    for(int j=0; j<r; j++)
+            cout<<"R";
+    cout<<endl;
 }
+
+int main() {
+    int t;
+    cin>>t;
+    while(t--)
+        solve();
 }
