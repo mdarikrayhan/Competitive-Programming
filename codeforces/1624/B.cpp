@@ -1,37 +1,77 @@
-/***************************************************/
-/*https://codeforces.com/problemset/problem/1624/B */
-/*            Author : Md. Arik Rayhan             */
-/*        Github : github.com/mdarikrayhan         */
-/***************************************************/
 #include <bits/stdc++.h>
 using namespace std;
-int main()
+
+typedef long long ll;
+#define Fast                          \
+    ios_base::sync_with_stdio(false); \
+    cin.tie(nullptr);                 \
+    cout.tie(nullptr);
+
+void TestCases()
 {
-    int t;
-    cin >> t;
-    for (int i = 0; i < t; i++)
+    vector<ll> a(3), b;
+    for (ll i = 0; i < 3; i++)
+        cin >> a[i];
+
+    ll mx = *max_element(a.begin(), a.end());
+    ll mn = *min_element(a.begin(), a.end());
+    if (mx == a[1])
     {
-        long long int a, b, c;
-        cin >> a >> b >> c;
-        if (b - a == c - b || a == b && b == c)
+        ll d = abs(a[1] - a[2]);
+        ll p = d + a[1];
+        ll f = abs(a[1] - a[0]);
+        ll q = f + a[1];
+        if (p % a[0] == 0 or q % a[2] == 0)
         {
-            cout << "YES" << "\n";
+            cout << "YES" << endl;
+            return;
         }
-        else if ((2 * b - c) % a == 0 && 2 * b - c > 0)
+    }
+    else
+    {
+        if (mn == a[1])
         {
-            cout << "YES" << "\n";
-        }
-        else if ((2 * b - a) % c == 0 && 2 * b - a > 0)
-        {
-            cout << "YES" << "\n";
-        }
-        else if ((a + c) % (2 * b) == 0)
-        {
-            cout << "YES" << "\n";
+            ll t = a.front() + a.back();
+            if (t % 2 == 0)
+            {
+                ll r = t / 2;
+                if (r % a[1] == 0)
+                {
+                    cout << "YES" << endl;
+                    return;
+                }
+            }
         }
         else
         {
-            cout << "NO" << "\n";
+            ll t = a.front() + a.back();
+            if (t % 2 == 0)
+            {
+                ll r = t / 2;
+                if (r % a[1] == 0)
+                {
+                    cout << "YES" << endl;
+                    return;
+                }
+            }
+            ll d = abs(mx - a[1]);
+            if ((a[1] - d) % mn == 0 and (a[1] - d) > 0)
+            {
+                cout << "YES" << endl;
+                return;
+            }
         }
     }
+    cout << "NO" << endl;
+}
+
+int main()
+{
+    Fast;
+
+    int t = 1;
+    cin >> t;
+    while (t--)
+        TestCases();
+    return 0;
 }
