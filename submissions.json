@@ -21977,6 +21977,23 @@
     ],
     "timestamp": "Feb/16/2024 02:59"
   },
+  "CF261013539": {
+    "contest_id": 1834,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1834/B.cpp",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Maximum Strength",
+    "problem_url": "https://codeforces.com/contest/1834/problem/B",
+    "submission_id": "CF261013539",
+    "submission_url": "https://codeforces.com/contest/1834/submission/261013539",
+    "tags": [
+      "greedy",
+      "math",
+      "*1000"
+    ],
+    "timestamp": "May/15/2024 12:53"
+  },
   "CF261015175": {
     "contest_id": 1876,
     "language": "C++20 (GCC 13-64)",
