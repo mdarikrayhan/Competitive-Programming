@@ -21977,6 +21977,23 @@
     ],
     "timestamp": "Feb/16/2024 02:59"
   },
+  "CF261052352": {
+    "contest_id": 1559,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1559/B.cpp",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Mocha and Red and Blue",
+    "problem_url": "https://codeforces.com/contest/1559/problem/B",
+    "submission_id": "CF261052352",
+    "submission_url": "https://codeforces.com/contest/1559/submission/261052352",
+    "tags": [
+      "dp",
+      "greedy",
+      "*900"
+    ],
+    "timestamp": "May/15/2024 18:24"
+  },
   "CF261052387": {
     "contest_id": 501,
     "language": "C++20 (GCC 13-64)",
