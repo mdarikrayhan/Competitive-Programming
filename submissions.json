@@ -21977,6 +21977,22 @@
     ],
     "timestamp": "Feb/16/2024 02:59"
   },
+  "CF261045595": {
+    "contest_id": 133,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/133/A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "HQ9+",
+    "problem_url": "https://codeforces.com/contest/133/problem/A",
+    "submission_id": "CF261045595",
+    "submission_url": "https://codeforces.com/contest/133/submission/261045595",
+    "tags": [
+      "implementation",
+      "*900"
+    ],
+    "timestamp": "May/15/2024 17:33"
+  },
   "CF261045874": {
     "contest_id": 337,
     "language": "C++20 (GCC 13-64)",
