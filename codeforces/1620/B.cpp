@@ -1,19 +1,30 @@
-#include<iostream>
+#include <bits/stdc++.h>
 using namespace std;
-int main(){
-int y;
-cin>>y;
-while(y--){
-long long x,y,a[200000],s=0;
-cin>>x>>y;
-for(int i=0;i<4;i++){
-int b,n;
-cin>>b;
-for(int j=0;j<b;j++) cin>>a[j];
-if(i<2) n=y;
-else n=x;
-s=max(s,(a[b-1]-a[0])*n);
+#define cyes cout<<"YES"<<endl
+#define cno cout<<"NO"<<endl
+
+void solve(){
+    int w,h,k,l,r,x,height;
+    long long ans=0;
+    cin>>w>>h;
+    for(int j=0; j<4; j++){
+        if(j<2)
+            height=h;
+        else
+            height=w;
+        cin>>k;
+        cin>>l;
+        for(int i=2; i<k; i++)
+            cin>>x;
+        cin>>r;
+        ans = max(ans, 1ll*height*(r-l));
+    }
+    cout<<ans<<endl;
 }
-cout<<s<<endl;
-}
+
+int main() {
+    int t;
+    cin>>t;
+    while(t--)
+        solve();
 }
