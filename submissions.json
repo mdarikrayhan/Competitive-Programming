@@ -21977,6 +21977,22 @@
     ],
     "timestamp": "Feb/16/2024 02:59"
   },
+  "CF261052935": {
+    "contest_id": 1141,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1141/B.cpp",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Maximal Continuous Rest",
+    "problem_url": "https://codeforces.com/contest/1141/problem/B",
+    "submission_id": "CF261052935",
+    "submission_url": "https://codeforces.com/contest/1141/submission/261052935",
+    "tags": [
+      "implementation",
+      "*900"
+    ],
+    "timestamp": "May/15/2024 18:29"
+  },
   "CF261052965": {
     "contest_id": 1426,
     "language": "C++20 (GCC 13-64)",
