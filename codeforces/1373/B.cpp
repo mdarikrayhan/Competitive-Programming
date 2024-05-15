@@ -1,13 +1,26 @@
-#import<bits/stdc++.h>
+#include<bits/stdc++.h>
 using namespace std;
-int i,t,x,y;
-string s;
-main()
-{
-	for(cin>>t;t--;)
-	{
-		cin>>s;
-		for(i=x=y=0;s[i];i++)s[i]%7?x++:y++;
-		cout<<(min(x,y)%2?"DA":"NET")<<endl;
-	}
+
+int main() {
+    long long t;
+    cin >> t;
+    while(t--){
+        string s;
+        cin >> s;
+        int c=0,d=0;
+        for(int i=0;i<s.size();i++){
+            if((s[i]=='0')) {
+               c++;
+            } else {
+               d++;
+            }
+        }
+        int e=min(c,d);
+        if(e%2){
+            cout <<"DA" << endl;
+        } else {
+            cout << "NET" << endl;
+        }
+    }
+    return 0;
 }

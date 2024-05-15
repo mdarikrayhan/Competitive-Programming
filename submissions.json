@@ -21977,6 +21977,22 @@
     ],
     "timestamp": "Feb/16/2024 02:59"
   },
+  "CF261046424": {
+    "contest_id": 1373,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1373/B.cpp",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "01 Game",
+    "problem_url": "https://codeforces.com/contest/1373/problem/B",
+    "submission_id": "CF261046424",
+    "submission_url": "https://codeforces.com/contest/1373/submission/261046424",
+    "tags": [
+      "games",
+      "*900"
+    ],
+    "timestamp": "May/15/2024 17:40"
+  },
   "CF261046451": {
     "contest_id": 1462,
     "language": "C++20 (GCC 13-64)",
