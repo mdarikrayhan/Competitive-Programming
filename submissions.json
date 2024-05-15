@@ -21977,6 +21977,23 @@
     ],
     "timestamp": "Feb/16/2024 02:59"
   },
+  "CF261020817": {
+    "contest_id": 1770,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1770/A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Koxia and Whiteboards",
+    "problem_url": "https://codeforces.com/contest/1770/problem/A",
+    "submission_id": "CF261020817",
+    "submission_url": "https://codeforces.com/contest/1770/submission/261020817",
+    "tags": [
+      "brute force",
+      "greedy",
+      "*1000"
+    ],
+    "timestamp": "May/15/2024 14:03"
+  },
   "CF261020855": {
     "contest_id": 1772,
     "language": "C++20 (GCC 13-64)",
