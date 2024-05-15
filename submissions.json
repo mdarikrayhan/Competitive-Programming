@@ -24833,6 +24833,23 @@
     ],
     "timestamp": "May/15/2024 18:38"
   },
+  "CF261057775": {
+    "contest_id": 1201,
+    "language": "C++17 (GCC 7-32)",
+    "path": "codeforces/1201/A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Important Exam",
+    "problem_url": "https://codeforces.com/contest/1201/problem/A",
+    "submission_id": "CF261057775",
+    "submission_url": "https://codeforces.com/contest/1201/submission/261057775",
+    "tags": [
+      "implementation",
+      "strings",
+      "*900"
+    ],
+    "timestamp": "May/15/2024 19:04"
+  },
   "CF261057809": {
     "contest_id": 1445,
     "language": "C++17 (GCC 7-32)",
