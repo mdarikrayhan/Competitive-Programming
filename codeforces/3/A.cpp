@@ -1,78 +1,71 @@
 #include <bits/stdc++.h>
+#define int long long
 using namespace std;
-
-typedef long long ll;
-typedef long double ld;
-typedef complex<ld> cd;
-
-typedef pair<int, int> pi;
-typedef pair<ll,ll> pl;
-typedef pair<ld,ld> pd;
-
-typedef vector<int> vi;
-typedef vector<ld> vd;
-typedef vector<ll> vl;
-typedef vector<pi> vpi;
-typedef vector<pl> vpl;
-typedef vector<cd> vcd;
-
-template<class T> using pq = priority_queue<T>;
-template<class T> using pqg = priority_queue<T, vector<T>, greater<T>>;
-
-#define FOR(i, a, b) for (int i=a; i<(b); i++)
-#define F0R(i, a) for (int i=0; i<(a); i++)
-#define FORd(i,a,b) for (int i = (b)-1; i >= a; i--)
-#define F0Rd(i,a) for (int i = (a)-1; i >= 0; i--)
-#define gcd(a,b) __gcd(a,b)
-#define lcm(a,b) (a*(b/gcd(a,b))
-
-#define sz(x) (int)(x).size()
 #define mp make_pair
-#define pb push_back
-#define ff first
-#define ss second
-#define lb lower_bound
-#define ub upper_bound
-#define all(x) x.begin(), x.end()
-#define ins insert
 
-bool IsPrime(int n)
-{
-if (n == 2 || n == 3)
-return true;
-if (n <= 1 || n % 2 == 0 || n % 3 == 0)
-return false;
-for(int i = 5; i * i <= n; i += 6)
-{
-if (n % i == 0 || n % (i + 2) == 0)
-return false;
-}
-return true;
+string dir[8] = {"L", "R", "U", "D", "LU", "LD", "RU", "RD"};
+int dn[8] = { 0, 0, 1,-1, 1,-1, 1,-1};
+int dc[8] = {-1, 1, 0, 0,-1,-1, 1, 1};
+map<pair<char, int>, bool> mark;
+map<pair<char,int>, int> step;
+
+pair<int, int> get_parent(char c, int n, int i){
+    return mp(c-dc[i], n-dn[i]);
 }
 
-template<class T> bool ckmin(T& a, const T& b) { return b < a ? a = b, 1 : 0; }
-template<class T> bool ckmax(T& a, const T& b) { return a < b ? a = b, 1 : 0; }
-const char nl = '\n';
-
-
-int main() {
-ios_base::sync_with_stdio(false);
-cin.tie(NULL);
-	string s,t;
-	cin>>s>>t;
-	int m=s[0]-t[0],n=s[1]-t[1];
-	cout<<max(abs(m),abs(n))<<endl;
-	while(m||n)
-	{
-		if(m<0)
-			cout<<"R",m++;
-		if(m>0)
-			cout<<"L",m--;
-		if(n<0)
-			cout<<"U",n++;
-		if(n>0)
-			cout<<"D",n--;
-		cout<<endl;
-	}
-	return 0;
+bool is_valid(char c, int n){
+    if(c < 'a' or c > 'h') return false;
+    if(n < 1 or n > 8) return false;
+    return true;
 }
+
+void solve(){
+    char li, lf; //letra inicial, letra final
+    int ni, nf;// numero inicial, numero final
+    cin >> li >> ni;
+    cin >> lf >> nf;
+
+    queue<pair<int, int>> q;
+    q.push({li, ni});
+    step[mp(li, ni)] = -1;
+    mark[mp(li, ni)] = true;
+
+    while(not q.empty()){
+        auto [c, n] = q.front(); q.pop();
+
+        for(int i=0; i<8; i++){
+            char cn = c + dc[i];
+            int nn = n + dn[i];
+            if(not is_valid(cn, nn)) continue;
+            if(mark[mp(cn, nn)]) continue;
+            q.push(mp(cn, nn));
+            step[mp(cn, nn)] = i;
+            mark[mp(cn, nn)] = true;
+        }
+    }
+
+    vector<string> res;
+    char c = lf;
+    int n = nf;
+
+    while(c != li or n != ni){
+        int si = step[mp(c, n)];
+        res.push_back(dir[si]);
+        pair<int, int> parent = get_parent(c, n, si);
+        c = parent.first;
+        n = parent.second;
+    }
+
+    reverse(res.begin(), res.end());
+
+    cout << res.size() << '\n';
+    for(auto s : res) cout << s << '\n';
+}
+
+signed main(){
+    ios_base::sync_with_stdio(false); cin.tie(NULL);
+    solve();
+    return 0;
+}
+
+	  	  		 	 		  	   				 	 		  	
