@@ -1,12 +1,22 @@
-#include<bits/stdc++.h>
+#include <bits/stdc++.h>
 using namespace std;
-int _,n,i,ans,a[200001];
-int main(){
-	ios::sync_with_stdio(0);cin.tie(0);
-	cin>>_;
-	while(_--){
-		cin>>n;ans=0;
-		for(i=1;i<=n;i++)cin>>a[i],ans+=a[i]&&a[i-1]==0;
-		cout<<min(2,ans)<<"\n";
-	}
+int a[100005];
+int t;
+int n;
+int ans;
+int main()
+{
+    cin >> t;
+    while (t--)
+    {
+        cin >> n;
+        ans = 0;
+        for (int i = 1; i <= n; i++)
+        {
+            cin >> a[i];
+            if (a[i] > 0 && a[i - 1] == 0)
+                ans++;
+        }
+        cout << min(ans, 2) << "\n";
+    }
 }
