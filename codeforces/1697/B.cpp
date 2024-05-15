@@ -1,19 +1,27 @@
-#include<bits/stdc++.h>
+#include <bits/stdc++.h>
+
 using namespace std;
-#define ll long long
+typedef long long ll;
 
-int main()
-{
-ll n,q,x,y,i;
-cin>>n>>q;
-ll p[n+1]; p[0]=0;
-for(i=0;i<n;i++) cin>>p[i+1];
-sort(p,p+n+1);
-for(i=1;i<=n;i++)
-p[i]+=p[i-1];
-
-while(q--){
-cin>>x>>y;
-cout<<(p[n+y-x]-p[n-x])<<endl;
+void solve(){
+    int n, t;
+    cin >> n >> t;
+    vector<ll> q(n + 1);
+    for (int i = 1; i <= n; i++)
+        cin >> q[i];
+    sort(q.begin() + 1, q.end());
+    for (int i = 1; i <= n; i++) q[i] += q[i - 1];
+    while(t--){
+        int x, y;
+        cin >> x >> y;
+        cout << q[n - x + y] - q[n - x] << endl;
+    }
 }
+int main(){
+    ios::sync_with_stdio(false);
+    cin.tie(0);
+    // int t;
+    // cin >> t;
+    // while(t--)
+    solve();
 }
