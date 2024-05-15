@@ -1,155 +1,127 @@
-/***************************************************/
-/*            Author : Md. Arik Rayhan             */
-/*        Github : github.com/mdarikrayhan         */
-/***************************************************/
+/**
+
+   &&          &&          &&          &&          &&          &&          &&          &&          &&
+&&    &&    &&    &&    &&    &&    &&    &&    &&    &&    &&    &&    &&    &&    &&    &&    &&    &&
+&&       &&          &&          &&          &&          &&          &&          &&          &&          && &&
+&&                                                                                                          &&
+&&                                                                                                          &&
+&&      D D D D D D            a a a a        G G G G G       H       H      E E E E E       R R R R        &&
+&&      D           D         a       a      G                H       H      E              R       R       &&
+&&      D             D       a       a      G                H       H      E              R R R R         &&
+&&      D              D      a a a a a      G                H H H H H      E E E E E      R R             &&
+&&      D             D       a       a      G     G G G      H       H      E              R   R           &&
+&&      D           D         a       a      G         G      H       H      E              R     R         &&
+&&      D D D D D D           a       a       G G G G G       H       H      E E E E E      R       R       &&
+&&                                                                                                          &&
+&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
+
+**/
 #include <bits/stdc++.h>
 using namespace std;
-const char nl = '\n';
 
-typedef long long ll;
-typedef long double ld;
-typedef complex<ld> cd;
+#define ll long long
 
-typedef pair<int, int> pi;
-typedef pair<ll, ll> pl;
-typedef pair<ld, ld> pd;
-
-typedef vector<int> vi;
-typedef vector<ld> vd;
-typedef vector<ll> vl;
-typedef vector<pi> vpi;
-typedef vector<pl> vpl;
-typedef vector<cd> vcd;
-
-#define rep(i, a, b) for (int i = a; i < (b); i++)
-#define per(i, a, b) for (int i = (b)-1; i >= a; i--)
-#define print_map(m)                                                     \
-    for (const auto &[key, value] : m)                                   \
-    {                                                                    \
-        cout << '[' << key << ']' << ' ' << '=' << ' ' << value << '\n'; \
-    }
-#define print_vector(v)                          \
-    int vadnfiv = 0;                             \
-    for (const auto &value : v)                  \
-    {                                            \
-        cout << vadnfiv << ' ' << value << '\n'; \
-        vadnfiv++;                               \
-    }
-#define gcd(a, b) __gcd(a, b)
-#define lcm(a, b) (a * (b / gcd(a, b)))
-
-#define start_time                            \
-    using std::chrono::duration;              \
-    using std::chrono::duration_cast;         \
-    using std::chrono::high_resolution_clock; \
-    using std::chrono::milliseconds;          \
-    auto t1111 = high_resolution_clock::now();
-#define end_time                                            \
-    auto t2222 = high_resolution_clock::now();              \
-    duration<double, std::milli> ms_double = t2222 - t1111; \
-    std::cout << ms_double.count() << 'm' << 's' << nl;
-#define sz(x) (int)(x).size()
-#define mp make_pair
-#define pb push_back
-#define ff first
-#define ss second
-#define lb lower_bound
-#define ub upper_bound
-#define all(x) x.begin(), x.end()
-#define ins insert
-#define fastio                        \
-    ios_base::sync_with_stdio(false); \
-    cin.tie(NULL);                    \
-    cout.tie(NULL);
-#define multicase         \
-    int NoOfTestCase = 1; \
-    cin >> NoOfTestCase;  \
-    for (int testcaseno = 1; testcaseno <= NoOfTestCase; testcaseno++)
-bool isPrime(int n)
-{
-    if (n == 2 || n == 3)
-    {
-        return true;
-    }
-    if (n <= 1 || n % 2 == 0 || n % 3 == 0)
-    {
-        return false;
-    }
-    for (int i = 5; i * i <= n; i += 6)
-    {
-        if (n % i == 0 || n % (i + 2) == 0)
-        {
-            return false;
-        }
-    }
-    return true;
+bool Vowel(char c ) {
+    if (c == 'a' || c == 'e') return 1 ;
+    return 0 ;
 }
-bool isPalindrome(string S)
-{
-    string P = S;
-    reverse(P.begin(), P.end());
-    if (S == P)
-    {
-        return true;
-    }
-    else
-    {
-        return false;
-    }
+bool Constant(char c ) {
+    if (c != 'a' && c != 'e') return 1 ;
+    return 0 ;
 }
-bool isPowerof(long long num, long long base)
+string clean (string s ) {
+    int n = s.length() ;
+    string  c = "" ;
+    for (int i = 0 ; i <n ; i++) {
+        if ( !((s[i]>='a' && s[i]<='e') || s[i]=='.') ) break;
+        c+=s[i] ;
+    }
+    return c;
+}
+void fast()
 {
-    if (num <= 0)
-    {
-        return false;
+    cin.tie(0);
+    cin.sync_with_stdio(0);
+}
+void IO()
+{
+    ios_base::sync_with_stdio(0), cin.tie(0), cout.tie(0);
+}
+void read()
+{
+#ifndef ONLINE_JUDGE
+    freopen("F:/CodeBlocks/ComeBack/input.txt","r",stdin);
+#endif // ONLINE_JUDGE
+}
+bool k ;
+void check (int x , int n )
+{
+    if (x>=n) {
+        if (x==n) k= 1 ;
+        return  ;
     }
-    if (num % base == 0)
-    {
-        return isPowerof(num / base, base);
-    }
-    if (num == 1)
-    {
-        return true;
-    }
-    return false;
+    check(x+2020 , n) ;
+    check(x+2021 , n) ;
+
 }
 
-template <class T>
-bool ckmin(T &a, const T &b) { return b < a ? a = b, 1 : 0; }
-template <class T>
-bool ckmax(T &a, const T &b) { return a < b ? a = b, 1 : 0; }
+int toggle (int &a ) {
+    if (a==0)  a= 1 ;
+    else a = 0 ;
+}
+int luccy (int n ) {
+    int mn = INT_MAX ;
+    int mx = 0 ;
+    while (n>0) {
+        int x = n%10 ;
+        mn = min (mn , x) ;
+        mx = max (mx , x) ;
+        n/=10 ;
+    }
+    return mx-mn ;
+}
 
+const int mx = 29 ;
+int freq[mx] ;
 int main()
 {
-    fastio 
-    int n, t;
-    cin >> n >> t;
-    if (t == 10)
-    {
-        if (n == 1)
-        {
-            cout << -1 << nl;
-            return 0;
-        }
-        else{
-            cout << 1;
-            for (int i = 0; i < n - 1; i++)
-            {
-                cout << 0;
-            }
-            cout << nl;
-            return 0;
-        }
+    IO() ;
+    read() ;
+    int n , t  ; cin >>  n >> t ;
+    if (n==1 && t ==10) return cout << -1 , 0  ;
+    string s = ""  ;
+    if (t<10) s+=  char(t+'0')  , n-- ;
+    else  s+= "10"  , n-=2 ;
+    for (int i = 0 ; i < n ; i++) {
+        s+='0' ;
+    }
+    cout << s ;
 
-    }
-    else
-    {
-        for (int i = 0; i < n; i++)
-        {
-            cout << t;
-        }
-        cout << nl;
-        return 0;
-    }
-    return 0;
+
+
+
+
+
+
+
+
+
+
+
 }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
