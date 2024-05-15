@@ -21977,6 +21977,24 @@
     ],
     "timestamp": "Feb/16/2024 02:59"
   },
+  "CF260993016": {
+    "contest_id": 1823,
+    "language": "PyPy 3-64",
+    "path": "codeforces/1823/B.py",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Sort with Step",
+    "problem_url": "https://codeforces.com/contest/1823/problem/B",
+    "submission_id": "CF260993016",
+    "submission_url": "https://codeforces.com/contest/1823/submission/260993016",
+    "tags": [
+      "brute force",
+      "math",
+      "sortings",
+      "*900"
+    ],
+    "timestamp": "May/15/2024 08:04"
+  },
   "CF260997379": {
     "contest_id": 1794,
     "language": "C++20 (GCC 13-64)",
