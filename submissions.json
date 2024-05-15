@@ -21977,6 +21977,23 @@
     ],
     "timestamp": "Feb/16/2024 02:59"
   },
+  "CF261020721": {
+    "contest_id": 1796,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1796/B.cpp",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Asterisk-Minor Template",
+    "problem_url": "https://codeforces.com/contest/1796/problem/B",
+    "submission_id": "CF261020721",
+    "submission_url": "https://codeforces.com/contest/1796/submission/261020721",
+    "tags": [
+      "implementation",
+      "strings",
+      "*1000"
+    ],
+    "timestamp": "May/15/2024 14:02"
+  },
   "CF261020750": {
     "contest_id": 1791,
     "language": "C++20 (GCC 13-64)",
