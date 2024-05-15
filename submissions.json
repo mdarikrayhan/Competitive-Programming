@@ -21977,6 +21977,22 @@
     ],
     "timestamp": "Feb/16/2024 02:59"
   },
+  "CF261043929": {
+    "contest_id": 74,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/74/A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Room Leader",
+    "problem_url": "https://codeforces.com/contest/74/problem/A",
+    "submission_id": "CF261043929",
+    "submission_url": "https://codeforces.com/contest/74/submission/261043929",
+    "tags": [
+      "implementation",
+      "*1000"
+    ],
+    "timestamp": "May/15/2024 17:19"
+  },
   "CF261044136": {
     "contest_id": 58,
     "language": "C++20 (GCC 13-64)",
