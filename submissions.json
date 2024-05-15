@@ -21977,6 +21977,23 @@
     ],
     "timestamp": "Feb/16/2024 02:59"
   },
+  "CF261107133": {
+    "contest_id": 980,
+    "language": "C++17 (GCC 7-32)",
+    "path": "codeforces/980/A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Links and Pearls",
+    "problem_url": "https://codeforces.com/contest/980/problem/A",
+    "submission_id": "CF261107133",
+    "submission_url": "https://codeforces.com/contest/980/submission/261107133",
+    "tags": [
+      "implementation",
+      "math",
+      "*900"
+    ],
+    "timestamp": "May/16/2024 03:53"
+  },
   "CF261107148": {
     "contest_id": 989,
     "language": "C++17 (GCC 7-32)",
