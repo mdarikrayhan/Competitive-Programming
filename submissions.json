@@ -24833,6 +24833,22 @@
     ],
     "timestamp": "May/15/2024 18:38"
   },
+  "CF261056664": {
+    "contest_id": 1208,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1208/A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "XORinacci",
+    "problem_url": "https://codeforces.com/contest/1208/problem/A",
+    "submission_id": "CF261056664",
+    "submission_url": "https://codeforces.com/contest/1208/submission/261056664",
+    "tags": [
+      "math",
+      "*900"
+    ],
+    "timestamp": "May/15/2024 18:56"
+  },
   "CF261056743": {
     "contest_id": 1093,
     "language": "C++20 (GCC 13-64)",
