@@ -24833,6 +24833,24 @@
     ],
     "timestamp": "May/15/2024 18:38"
   },
+  "CF261057613": {
+    "contest_id": 1584,
+    "language": "C++17 (GCC 7-32)",
+    "path": "codeforces/1584/C.cpp",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Two Arrays",
+    "problem_url": "https://codeforces.com/contest/1584/problem/C",
+    "submission_id": "CF261057613",
+    "submission_url": "https://codeforces.com/contest/1584/submission/261057613",
+    "tags": [
+      "greedy",
+      "math",
+      "sortings",
+      "*900"
+    ],
+    "timestamp": "May/15/2024 19:03"
+  },
   "CF261057647": {
     "contest_id": 1610,
     "language": "C++17 (GCC 7-32)",
