@@ -1,29 +1,31 @@
 #include <bits/stdc++.h>
+#define int long long
 using namespace std;
-const char nl = '\n';
-int a=0,b=0,c=0;
-void solve()
-{
-    int x,y,z;
-    cin >> x >> y >> z;
-    a+=x;
-    b+=y;
-    c+=z;
-}
 
-int main()
-{
-    ios_base::sync_with_stdio(false);
-    cin.tie(NULL);
-    int T = 1;
-    cin >> T;
-    while (T--)
-    {
-        solve();
+signed main() {
+    int t;
+    // cin >> t;
+    t = 1;
+
+    while(t--) {
+        int n;
+        cin >> n;
+
+        int x = 0, y = 0, z = 0;
+        for(int i = 0; i < n; i++) {
+            int f, s, t;
+            cin >> f >> s >> t;
+            x += f;
+            y += s;
+            z += t;
+        }
+
+        if(x == 0 && y == 0 && z == 0) {
+            cout << "YES" << endl;
+        }
+        else {
+            cout << "NO" << endl;
+        }
     }
-    if(a==0&&b==0&&c==0)
-        cout<<"YES";
-    else
-        cout<<"NO";
     return 0;
-}
+}  
