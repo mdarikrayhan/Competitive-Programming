@@ -21977,6 +21977,22 @@
     ],
     "timestamp": "Feb/16/2024 02:59"
   },
+  "CF261044163": {
+    "contest_id": 106,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/106/A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Card Game",
+    "problem_url": "https://codeforces.com/contest/106/problem/A",
+    "submission_id": "CF261044163",
+    "submission_url": "https://codeforces.com/contest/106/submission/261044163",
+    "tags": [
+      "implementation",
+      "*1000"
+    ],
+    "timestamp": "May/15/2024 17:21"
+  },
   "CF261044311": {
     "contest_id": 72,
     "language": "Io",
