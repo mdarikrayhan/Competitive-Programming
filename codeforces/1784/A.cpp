@@ -1,18 +1,27 @@
+// LUOGU_RID: 159049919
 #include<bits/stdc++.h>
+#define int long long
 using namespace std;
-int t,n,a[200005];
-int main(){
-cin>>t;
-while(t--){
-cin>>n;
-for(int i=1;i<=n;i++)cin>>a[i];
-sort(a+1,a+n+1);
-long long ans=0;
-for(int i=1;i<=n;i++){
-if(a[i]<=a[i-1]+1)continue;
-ans+=a[i]-a[i-1]-1;
-a[i]=a[i-1]+1;
-}
-cout<<ans<<endl;
-}
+const int N=2e5+10;
+int t,n,a[N];
+signed main() {
+	scanf("%lld",&t);
+	while(t--) {
+		scanf("%lld",&n);
+		for(int i=1;i<=n;i++)
+			scanf("%lld",&a[i]);
+		sort(a+1,a+n+1);
+		int ans=0;
+		int p=0;
+		for(int i=1;i<=n;i++) {
+			if(p+1>=a[i]) {
+				p=a[i];
+				continue;
+			}
+			ans+=a[i]-(p+1);
+			a[i]=p+1,p=a[i];
+		}
+		printf("%lld\n",ans);
+	}
+	return 0;
 }
