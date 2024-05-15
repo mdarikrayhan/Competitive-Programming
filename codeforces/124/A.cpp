@@ -1,11 +1,12 @@
-#include <bits/stdc++.h>
- 
+#include<iostream>
+#include <cstring>
+#include <map>
+#define ll long long
 using namespace std;
-
+map<string,string> str;
 int main(){
-    int n, a, b;
+    ll n,a,b;
     cin>>n>>a>>b;
-
-    cout<<n - max(a + 1, n - b) + 1;
+    cout<<min(n-a,b+1);
     return 0;
 }
