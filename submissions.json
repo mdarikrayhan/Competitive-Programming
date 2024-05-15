@@ -21977,6 +21977,23 @@
     ],
     "timestamp": "Feb/16/2024 02:59"
   },
+  "CF261050767": {
+    "contest_id": 1206,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1206/B.cpp",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Make Product Equal One",
+    "problem_url": "https://codeforces.com/contest/1206/problem/B",
+    "submission_id": "CF261050767",
+    "submission_url": "https://codeforces.com/contest/1206/submission/261050767",
+    "tags": [
+      "dp",
+      "implementation",
+      "*900"
+    ],
+    "timestamp": "May/15/2024 18:13"
+  },
   "CF261050871": {
     "contest_id": 1593,
     "language": "C++20 (GCC 13-64)",
