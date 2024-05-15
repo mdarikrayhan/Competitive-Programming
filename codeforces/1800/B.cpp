@@ -1,53 +1,45 @@
-#include <bits/stdc++.h>
+#include "bits/stdc++.h"
 using namespace std;
-const char nl = '\n';
-int main()
+#define ll long long 
+#define USE_FILE 0
+void solve()
 {
-    ios_base::sync_with_stdio(false);
-    cin.tie(NULL);
-    cout.tie(NULL);
-    int T = 1;
-    cin >> T;
-    for (int x = 1; x <= T; x++)
+    int n,k;
+    string s;
+    cin>>n>>k;
+    cin>>s;
+    map<char,ll> cnt;
+    for(auto i:s)
     {
-        int n, k, count = 0, lpair = 0;
-        cin >> n >> k;
-        string s;
-        cin >> s;
-        vector<int> uc(26, 0);
-        vector<int> lc(26, 0);
-        for (int i = 0; i < n; i++)
-        {
-            if (s[i] >= 'A' && s[i] <= 'Z')
-            {
-                uc[s[i] - 'A']++;
-            }
-            else
-            {
-                lc[s[i] - 'a']++;
-            }
-        }
-        for (int i = 0; i < 26; i++)
-        {
-            int temp = min(uc[i], lc[i]);
-            count += temp;
-            uc[i] -= temp;
-            lc[i] -= temp;
-        }
-        for (int i = 0; i < 26; i++)
-        {
-            if (uc[i] >= 2)
-            {
-                lpair += (uc[i] / 2);
-            }
-            if (lc[i] >= 2)
-            {
-                lpair += (lc[i] / 2);
-            }
-        }
-
-        count += min(lpair, k);
-        cout << count << nl;
+        cnt[i]++;
     }
-    return 0;
+    ll ans =0;
+    for(int i=0;i<26;i++)
+    {
+        ans+=min(cnt['a'+i],cnt['A'+i]);
+    }
+    for(int i=0;i<26;i++)
+    {
+        ll maxx= (cnt['a'+i]+cnt['A'+i])/2-min(cnt['a'+i],cnt['A'+i]);
+        if(k>=maxx)
+        {
+            ans+=maxx;
+            k-=maxx;
+        }else{
+            ans+=k;
+            break;
+        }
+    }
+    cout<<ans<<endl;
+}
+int main(){
+    ios::sync_with_stdio(false);
+    cin.tie(NULL);cout.tie(NULL);
+    #if USE_FILE
+    freopen("in.txt","r",stdin);
+    freopen("out.txt","w",stdout);
+    #endif
+    int t;
+    cin>>t;
+    while(t--)solve();
 }
