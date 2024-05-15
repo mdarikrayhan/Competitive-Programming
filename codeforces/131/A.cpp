@@ -1,89 +1,36 @@
-#include <bits/stdc++.h>
+#include<bits/stdc++.h>
+#define ll long long int
+#define lld long long double
+#define N (ll)1e5
+#define ct (ll)1000000007
 using namespace std;
-
-typedef long long ll;
-typedef long double ld;
-typedef complex<ld> cd;
-
-typedef pair<int, int> pi;
-typedef pair<ll, ll> pl;
-typedef pair<ld, ld> pd;
-
-typedef vector<int> vi;
-typedef vector<ld> vd;
-typedef vector<ll> vl;
-typedef vector<pi> vpi;
-typedef vector<pl> vpl;
-typedef vector<cd> vcd;
-
-template <class T>
-using pq = priority_queue<T>;
-template <class T>
-using pqg = priority_queue<T, vector<T>, greater<T>>;
-
-#define FOR(i, a, b) for (int i = a; i < (b); i++)
-#define F0R(i, a) for (int i = 0; i < (a); i++)
-#define FORd(i, a, b) for (int i = (b)-1; i >= a; i--)
-#define F0Rd(i, a) for (int i = (a)-1; i >= 0; i--)
-#define gcd(a, b) __gcd(a, b)
-#define lcm(a, b) (a*(b/gcd(a,b))
-
-#define sz(x) (int)(x).size()
-#define mp make_pair
-#define pb push_back
-#define ff first
-#define ss second
-#define lb lower_bound
-#define ub upper_bound
-#define all(x) x.begin(), x.end()
-#define ins insert
-
-bool IsPrime(int n)
-{
-    if (n == 2 || n == 3)
-        return true;
-    if (n <= 1 || n % 2 == 0 || n % 3 == 0)
-        return false;
-    for (int i = 5; i * i <= n; i += 6)
-    {
-        if (n % i == 0 || n % (i + 2) == 0)
-            return false;
-    }
-    return true;
-}
-
-template <class T>
-bool ckmin(T &a, const T &b) { return b < a ? a = b, 1 : 0; }
-template <class T>
-bool ckmax(T &a, const T &b) { return a < b ? a = b, 1 : 0; }
-const char nl = '\n';
-
-int main()
-{
-    ios_base::sync_with_stdio(false);
-    cin.tie(NULL);
+void solve(){
     string s;
-    cin >> s;
-    int i = 0;
-    for (i = 1; i < s.size(); i++)
-    {
-        if (s[i] > 91)
-        {
-            cout << s;
-            return 0;
+    cin>>s;
+    int n=s.length();
+    ll check1=0;
+    for(int i=1;i<n;i++){
+        if(s[i]>=65 && s[i]<=90){
+            if(i==n-1) check1=1;
+        }
+        else break;
+    }
+    if(check1 || n==1){
+        for(int i=1;i<n;i++){
+            s[i]=s[i]+32;
+        }
+        if(s[0]>='a') s[0]=s[0]-32;
+        else{
+            s[0]=s[0]+32;
         }
     }
-    if (s[0] > 91)
-    {
-        s[0] -= 32;
+    cout<<s<<endl;
+}
+int main(){
+    int t=1;
+    //cin>>t;
+    while(t--){
+        solve();
     }
-    else
-    {
-        s[0] += 32;
-    }
-    for (i = 1; i < s.size(); i++)
-        s[i] += 32;
-    cout << s;
-
     return 0;
 }
