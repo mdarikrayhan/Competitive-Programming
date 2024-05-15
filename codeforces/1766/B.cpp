@@ -1,81 +1,98 @@
-/***************************************************/
-/*            Author : Md. Arik Rayhan             */
-/*        Github : github.com/mdarikrayhan         */
-/***************************************************/
 #include <bits/stdc++.h>
 using namespace std;
-const char nl = '\n';
-
 typedef long long ll;
+// if you end up using long double, you need to set the floating point notation to fixed, and set the percision to be very high
 typedef long double ld;
-typedef complex<ld> cd;
 
-typedef pair<int, int> pi;
-typedef pair<ll,ll> pl;
-typedef pair<ld,ld> pd;
+// contrsuct umaps like this, unordered_map<long long, int, custom_hash> safe_map;
+// FIXED_RANDOM is static so it doesn not get redeclared between function calls
+struct custom_hash {
+    static uint64_t splitmix64(uint64_t x) {
+        // http://xorshift.di.unimi.it/splitmix64.c
+        x += 0x9e3779b97f4a7c15;
+        x = (x ^ (x >> 30)) * 0xbf58476d1ce4e5b9;
+        x = (x ^ (x >> 27)) * 0x94d049bb133111eb;
+        return x ^ (x >> 31);
+    }
 
-typedef vector<int> vi;
-typedef vector<ld> vd;
-typedef vector<ll> vl;
-typedef vector<pi> vpi;
-typedef vector<pl> vpl;
-typedef vector<cd> vcd;
+    size_t operator()(uint64_t x) const {
+		
+        static const uint64_t FIXED_RANDOM = chrono::steady_clock::now().time_since_epoch().count();
+        return splitmix64(x + FIXED_RANDOM);
+    }
+};
 
-#define rep(i,a,b) for (int i=a; i<(b); i++)
-#define per(i,a,b) for (int i = (b)-1; i >= a; i--)
-#define print_map(m) for (const auto &[key, value] : m){cout << '[' << key << ']' << ' ' << '=' << ' ' << value << '\n';}
-#define print_vector(v)int vadnfiv=0;for (const auto &value : v){cout <<vadnfiv<<' '<<value<< '\n';vadnfiv++;}
-#define gcd(a,b) __gcd(a,b)
-#define lcm(a,b) (a*(b/gcd(a,b)))
 
-#define start_time using std::chrono::duration;using std::chrono::duration_cast;using std::chrono::high_resolution_clock;using std::chrono::milliseconds;auto t1111 = high_resolution_clock::now();
-#define end_time auto t2222 = high_resolution_clock::now();duration<double, std::milli> ms_double = t2222 - t1111;std::cout << ms_double.count() << 'm'<<'s'<<nl;
-#define sz(x) (int)(x).size()
+#define INF 2001001001
+#define INF2 2e18
+#define MOD 1000000007
+
+#define f0r(a, b) for (long long a = 0; a < b; a++)
+#define f1r(a, b, c) for(long long a = b; a < c; a++)
+#define max3(a, b, c) max(a, max(b, c))
+#define min3(a, b, c) min(a, min(b, c))
+#define pb push_back 
+#define pf push_front
+#define f first
+#define s second
 #define mp make_pair
-#define pb push_back
-#define ff first
-#define ss second
-#define lb lower_bound
-#define ub upper_bound
-#define all(x) x.begin(), x.end()
-#define ins insert
-#define fastio ios_base::sync_with_stdio(false);cin.tie(NULL);cout.tie(NULL);
-#define multicase int NoOfTestCase = 1;cin >> NoOfTestCase;for(int testcaseno=1;testcaseno<=NoOfTestCase;testcaseno++)
-bool isPrime(int n){if (n == 2 || n == 3){return true;}if (n <= 1 || n % 2 == 0 || n % 3 == 0){return false;}for (int i = 5; i * i <= n; i += 6){if (n % i == 0 || n % (i + 2) == 0){return false;}}return true;}
-bool isPalindrome(string S){string P = S;reverse(P.begin(), P.end());if (S == P) {return true;}else {return false;}}
-bool isPowerof(long long num, long long base){if (num <= 0){return false;}if (num % base == 0){return isPowerof(num / base, base);}if (num == 1){return true;}return false;}
+#define pll pair<ll, ll>
+#define pii pair<int, int>
+#define tp make_tuple
 
-template<class T> bool ckmin(T& a, const T& b) { return b < a ? a = b, 1 : 0; }
-template<class T> bool ckmax(T& a, const T& b) { return a < b ? a = b, 1 : 0; }
+// first four are north, west, east ,south
+int dir1[] = {1, 0, -1, 0, 1, 1, -1, -1};
+int dir2[] = {0, 1, 0, -1, 1, -1, 1, -1};
 
 int main() {
-fastio
-multicase
-{
-    ll n;
-    cin >> n;
-    string s;
-    cin >> s;
-    map<pair<char, char>, int> map1;
-    pair<char, char> prev = {s[0], s[1]};
-    map1[prev]++;
-    bool flag = true;
-    for (int i = 2; i < n; i++)
-    {
-        if(flag == false) break;
-        pair<char, char> arik = {s[i - 1], s[i]};
-        if (map1[arik] != 0)
-        {
-            if ((arik == prev && map1[arik] > 1) || (arik != prev))
-            {
-                cout << "YES" << endl;
-                flag = false;
-            }
-        }
-        prev = arik;
-        map1[arik]++;
-    }
-    if(flag) cout << "NO" << endl;
-}
-return 0;
+	// apparently this does fast i/o
+	cin.tie(0) , ios::sync_with_stdio(0);
+	
+	// use this if you read in from a file
+	/*
+	freopen("in.txt", "r", stdin);
+    freopen("out.txt", "w", stdout);
+	*/
+	
+	stringstream ss;
+	
+	// Do it once. Do it right.
+	// Read the problem statement carefully
+	// Plan out the steps in words on a piece of paper before implementing
+	// after RTE(obviously) but also WA, run valgrind!!!
+	
+	//cout << fixed << setprecision(12);
+	// if you use ld, use the above and don't use string stream
+	
+	// use instead of ceil(a, b) if a and b are positive
+	// (a + b - 1) / b
+	
+	int t;
+	cin >> t;
+	while(t > 0){
+		t--;
+		int n;
+		cin >> n;
+		string str;
+		cin >> str;
+		set<string> oset;
+		
+		bool works = false;
+		int ind_add = 0;
+		int ind_check = 1;
+		while(ind_check+1 < n){
+			if(oset.count(str.substr(ind_check, 2))) works = true;
+			oset.insert(str.substr(ind_add, 2));
+			ind_add++;
+			ind_check++;
+		}
+		if(works){
+			ss << "YES" << endl;
+		}else{
+			ss << "NO" << endl;
+		}
+		
+	}
+	cout << ss.str();
+	return 0;
 }
