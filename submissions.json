@@ -29154,6 +29154,19 @@
     ],
     "timestamp": "May/16/2024 16:22"
   },
+  "CF261178505": {
+    "contest_id": 855,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/855/A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Tom Riddle's Diary",
+    "problem_url": "https://codeforces.com/contest/855/problem/A",
+    "submission_id": "CF261178505",
+    "submission_url": "https://codeforces.com/contest/855/submission/261178505",
+    "tags": [],
+    "timestamp": "May/16/2024 16:23"
+  },
   "CF261178672": {
     "contest_id": 1658,
     "language": "C++20 (GCC 13-64)",
