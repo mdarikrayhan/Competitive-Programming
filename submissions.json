@@ -21977,6 +21977,26 @@
     ],
     "timestamp": "Feb/16/2024 02:59"
   },
+  "CF261258940": {
+    "contest_id": 1553,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1553/B.cpp",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Reverse String",
+    "problem_url": "https://codeforces.com/contest/1553/problem/B",
+    "submission_id": "CF261258940",
+    "submission_url": "https://codeforces.com/contest/1553/submission/261258940",
+    "tags": [
+      "brute force",
+      "dp",
+      "hashing",
+      "implementation",
+      "strings",
+      "*1300"
+    ],
+    "timestamp": "May/17/2024 05:06"
+  },
   "CF261258947": {
     "contest_id": 701,
     "language": "C++20 (GCC 13-64)",
