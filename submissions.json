@@ -21977,6 +21977,27 @@
     ],
     "timestamp": "Feb/16/2024 02:59"
   },
+  "CF261259521": {
+    "contest_id": 1848,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1848/B.cpp",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Vika and the Bridge",
+    "problem_url": "https://codeforces.com/contest/1848/problem/B",
+    "submission_id": "CF261259521",
+    "submission_url": "https://codeforces.com/contest/1848/submission/261259521",
+    "tags": [
+      "binary search",
+      "data structures",
+      "greedy",
+      "implementation",
+      "math",
+      "sortings",
+      "*1200"
+    ],
+    "timestamp": "May/17/2024 05:21"
+  },
   "CF261259536": {
     "contest_id": 1644,
     "language": "C++20 (GCC 13-64)",
