@@ -21977,6 +21977,25 @@
     ],
     "timestamp": "Feb/16/2024 02:59"
   },
+  "CF261259501": {
+    "contest_id": 349,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/349/B.cpp",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Color the Fence",
+    "problem_url": "https://codeforces.com/contest/349/problem/B",
+    "submission_id": "CF261259501",
+    "submission_url": "https://codeforces.com/contest/349/submission/261259501",
+    "tags": [
+      "data structures",
+      "dp",
+      "greedy",
+      "implementation",
+      "*1700"
+    ],
+    "timestamp": "May/17/2024 05:21"
+  },
   "CF261259510": {
     "contest_id": 236,
     "language": "C++20 (GCC 13-64)",
