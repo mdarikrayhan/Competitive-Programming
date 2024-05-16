@@ -21977,6 +21977,24 @@
     ],
     "timestamp": "Feb/16/2024 02:59"
   },
+  "CF261253959": {
+    "contest_id": 1729,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1729/D.cpp",
+    "platform": "Codeforces",
+    "problem_index": "D",
+    "problem_name": "Friends and the Restaurant",
+    "problem_url": "https://codeforces.com/contest/1729/problem/D",
+    "submission_id": "CF261253959",
+    "submission_url": "https://codeforces.com/contest/1729/submission/261253959",
+    "tags": [
+      "greedy",
+      "sortings",
+      "two pointers",
+      "*1200"
+    ],
+    "timestamp": "May/17/2024 03:15"
+  },
   "CF261253968": {
     "contest_id": 1631,
     "language": "C++20 (GCC 13-64)",
