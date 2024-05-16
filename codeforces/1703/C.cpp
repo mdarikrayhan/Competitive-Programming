@@ -1,23 +1,41 @@
-#include <iostream>
+#include <bits/stdc++.h>
+
 using namespace std;
 
-char ss[51];
-int aa[101];
-
 int main() {
-	int Tcs,nn;
-	cin>>Tcs;
-	while(Tcs--) {
-		cin>>nn;
-		for(int i=0; i<nn; ++i)
-			cin>>aa[i];
-		for(int i=0,b; i<nn; ++i) {
-			cin>>b>>ss;
-			int up=0;
-			for(int j=0; ss[j]; ++j)
-				up+=ss[j]=='U'?1:-1;
-			cout<<(aa[i]+100000-up)%10<<' ';
-		}
-		cout<<endl;
-	}
+    int t;
+    cin >> t;
+
+    while (t--) {
+        int n;
+        cin >> n;
+        vector<int> finalSequence(n);
+        for (int i = 0; i < n; ++i)
+            cin >> finalSequence[i];
+
+        vector<int> initialSequence(n, 0);
+
+        for (int i = 0; i < n; ++i) {
+            int moves;
+            cin >> moves;
+            string actions;
+            cin >> actions;
+            reverse(actions.begin(),actions.end());
+            for (char action : actions) {
+                if (action == 'U') {
+                    finalSequence[i] -=1;
+                } else {
+                    finalSequence[i] += 1;
+                }
+            }
+            finalSequence[i] = (finalSequence[i] + 10) % 10; // To handle negative values
+        }
+
+        for (int i = 0; i < n; ++i) {
+            cout << finalSequence[i] << " ";
+        }
+        cout << endl;
+    }
+
+    return 0;
 }
