@@ -21977,6 +21977,23 @@
     ],
     "timestamp": "Feb/16/2024 02:59"
   },
+  "CF261259616": {
+    "contest_id": 1854,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1854/A1.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A1",
+    "problem_name": "Dual (Easy Version)",
+    "problem_url": "https://codeforces.com/contest/1854/problem/A1",
+    "submission_id": "CF261259616",
+    "submission_url": "https://codeforces.com/contest/1854/submission/261259616",
+    "tags": [
+      "constructive algorithms",
+      "math",
+      "*1400"
+    ],
+    "timestamp": "May/17/2024 05:24"
+  },
   "CF261259619": {
     "contest_id": 1845,
     "language": "C++20 (GCC 13-64)",
