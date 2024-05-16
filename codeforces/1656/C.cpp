@@ -1,4 +1,34 @@
-#include <bits/stdc++.h>
+// LUOGU_RID: 159208156
+#include<bits/stdc++.h>
 using namespace std;
-#define ll long long int
-int main(){int t;cin>>t;while(t--){int n,i,j,a[200001],mn=0,mx=0,mni=0,mxi;cin>>n;for(i=0;i<n;i++){cin>>a[i];if(a[i]==1) mx=1;}sort(a,a+n);for(i=1;i<n;i++){if(a[i]==a[i-1]+1) mn=1;}if(mx&&mn) cout<<"NO\n";else cout<<"YES\n";}}
+
+const int N = 1e6 + 7;
+int a[N];
+void solve() {
+    int n;
+    cin >> n;
+    int flag1 = 0, flag0 = 0;
+    for(int i = 1; i <= n; i ++) {
+        cin >> a[i];
+        if(a[i] == 1) flag1 = 1;
+        if(a[i] == 0) flag0 = 0;
+    }
+    sort(a + 1, a + n + 1);
+    if(flag1) {
+        for(int i = 2; i <= n; i ++) {
+            if(a[i] - a[i - 1] == 1) {
+                cout << "NO" << endl;
+                return;
+            }
+        }
+        cout << "YES" << endl;
+    }
+    else {
+        cout << "YES" << endl;
+    }
+}
+int main() {
+    int T;
+    cin >> T;
+    while(T --) solve();
+}
