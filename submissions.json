@@ -21977,6 +21977,23 @@
     ],
     "timestamp": "Feb/16/2024 02:59"
   },
+  "CF261259006": {
+    "contest_id": 1606,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1606/C.cpp",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Banknotes",
+    "problem_url": "https://codeforces.com/contest/1606/problem/C",
+    "submission_id": "CF261259006",
+    "submission_url": "https://codeforces.com/contest/1606/submission/261259006",
+    "tags": [
+      "greedy",
+      "number theory",
+      "*1400"
+    ],
+    "timestamp": "May/17/2024 05:07"
+  },
   "CF261259013": {
     "contest_id": 570,
     "language": "C++20 (GCC 13-64)",
