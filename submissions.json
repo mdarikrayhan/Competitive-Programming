@@ -21977,6 +21977,25 @@
     ],
     "timestamp": "Feb/16/2024 02:59"
   },
+  "CF261255036": {
+    "contest_id": 1827,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1827/A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Counting Orders",
+    "problem_url": "https://codeforces.com/contest/1827/problem/A",
+    "submission_id": "CF261255036",
+    "submission_url": "https://codeforces.com/contest/1827/submission/261255036",
+    "tags": [
+      "combinatorics",
+      "math",
+      "sortings",
+      "two pointers",
+      "*1100"
+    ],
+    "timestamp": "May/17/2024 03:35"
+  },
   "CF261255049": {
     "contest_id": 1304,
     "language": "C++20 (GCC 13-64)",
