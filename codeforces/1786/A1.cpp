@@ -1,18 +1,36 @@
-#include <stdio.h>
-int t,n,a,b,i;
-int main(){
+#include <iostream>
+#include<algorithm>
+#include<climits>
+#include<vector>
+using namespace std;
 
-scanf("%d",&t);
-
-for(;t--;a=b=i=0){
-
-scanf("%d",&n);
-for(;++i;) 
-if(n<i)
-{i%4<2?a+=n:b+=n;i=-1;}
-else 
-i%4<2?a+=i:b+=i,n-=i;
-printf("%d %d\n",a,b);
-
-}
+int main() {
+    int t;
+    cin>>t;
+    while(t--){
+        int n;
+        cin>>n;
+        n--;
+        int a=1;
+        int b=0;
+        int i=2;
+        while(n>=i){
+            if(i%4==1 || i%4==0){
+                a+=i;
+            }
+            else{
+                b+=i;
+            }
+            n-=i;
+            i++;
+        }
+        if(i%4==1 || i%4==0){
+            a+=n;
+        }
+        else{
+            b+=n;
+        }
+        cout<<a<<" "<<b<<endl;
+    }
+    return 0;
 }
