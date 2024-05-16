@@ -1,51 +1,45 @@
-/***************************************************/
-/*https://codeforces.com/problemset/problem/1625/A */
-/*            Author : Md. Arik Rayhan             */
-/*        Github : github.com/mdarikrayhan         */
-/***************************************************/
+#include<bits/stdc++.h>
 
-#include <bits/stdc++.h>
-using namespace std;
-void solve()
-{
-    int n, l;
-    cin >> n >> l;
-    int a[n];
-    int c1[l] = {0};
-    int c2[l] = {0};
-    for (int i = 0; i < n; i++)
-    {
-        cin >> a[i];
-        for (int j = 0; j < l; j++)
-        {
-            if (a[i] & (1 << j))
-            {
-                c1[j]++;
-            }
-            else
-            {
-                c2[j]++;
-            }
-        }
-    }
-    int ans = 0;
-    for (int i = 0; i < l; i++)
-    {
-        if (c1[i] > c2[i])
-        {
-            ans = ans + pow(2, i);
-        }
-    }
-    cout << ans << endl;
-    return;
-}
-int main()
-{
-    int t;
-    cin >> t;
-    while (t--)
-    {
-        solve();
-    }
-    return 0;
+using i64 = long long;
+
+int main(void) {
+	std::ios::sync_with_stdio(false);
+	std::cin.tie(nullptr);
+
+	auto solve = [&]() {
+		int n, l; std::cin >> n >> l;
+
+		std::vector<int>a(n + 1);
+		for (int i = 1; i <= n; i += 1) {
+			std::cin >> a[i];
+		}
+
+		int ans = 0;
+
+		for (int i = 0; i <= l; i += 1) {
+			i64 pre = 0;
+			for (int j = 1; j <= n; j += 1) {
+				if (~a[j] >> i & 1) {
+					pre += 1 << i;
+				}
+			}
+			i64 suf = 0;
+			for (int j = 1; j <= n; j += 1) {
+				if (a[j] >> i & 1) {
+					suf += 1 << i;
+				}
+			}
+			if (pre < suf) {
+				ans |= 1 << i;
+			}
+		}
+		std::cout << ans << "\n";
+	};
+
+	int t;
+	std::cin >> t;
+	while (t--) {
+		solve();
+	}
+	return 0;
 }
