@@ -27932,6 +27932,23 @@
     ],
     "timestamp": "May/16/2024 12:42"
   },
+  "CF261154485": {
+    "contest_id": 1549,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1549/A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Gregor and Cryptography",
+    "problem_url": "https://codeforces.com/contest/1549/problem/A",
+    "submission_id": "CF261154485",
+    "submission_url": "https://codeforces.com/contest/1549/submission/261154485",
+    "tags": [
+      "math",
+      "number theory",
+      "*800"
+    ],
+    "timestamp": "May/16/2024 12:55"
+  },
   "CF261154511": {
     "contest_id": 1335,
     "language": "C++20 (GCC 13-64)",
