@@ -1,94 +1,50 @@
-#include <bits/stdc++.h>
+#define print_debug true
+
+#include "bits/stdc++.h"
+
+#include <ext/pb_ds/assoc_container.hpp>
+#include <ext/pb_ds/tree_policy.hpp>
+
+const long long MOD = 1000000007;
+
+using namespace __gnu_pbds;
 using namespace std;
 
+typedef tree<int, null_type, less<int>, rb_tree_tag,
+             tree_order_statistics_node_update>
+    indexed_set;
+
 typedef long long ll;
-typedef long double ld;
-typedef complex<ld> cd;
 
-typedef pair<int, int> pi;
-typedef pair<ll, ll> pl;
-typedef pair<ld, ld> pd;
+template<typename T> istream& operator>>(istream& in, vector<T>& a) {for(auto &x : a) in >> x; return in;};
+template<typename T1, typename T2> istream& operator>>(istream& in, pair<T1, T2>& x) {return in >> x.first >> x.second;}
 
-typedef vector<int> vi;
-typedef vector<ld> vd;
-typedef vector<ll> vl;
-typedef vector<pi> vpi;
-typedef vector<pl> vpl;
-typedef vector<cd> vcd;
+template<typename T1, typename T2> ostream& operator<<(ostream& out, const pair<T1, T2>& x) {return out << x.first << ' ' << x.second;}
+template<typename T> ostream& operator<<(ostream& out, vector<T>& a) {for(auto &x : a) out << x << ' '; return out;};
+template<typename T> ostream& operator<<(ostream& out, vector<vector<T>>& a) {for(auto &x : a) out << x << '\n'; return out;};
+template<typename T1, typename T2> ostream& operator<<(ostream& out, vector<pair<T1, T2>>& a) {for(auto &x : a) out << x << '\n'; return out;};
 
-template <class T>
-using pq = priority_queue<T>;
-template <class T>
-using pqg = priority_queue<T, vector<T>, greater<T>>;
-
-#define FOR(i, a, b) for (int i = a; i < (b); i++)
-#define F0R(i, a) for (int i = 0; i < (a); i++)
-#define FORd(i, a, b) for (int i = (b)-1; i >= a; i--)
-#define F0Rd(i, a) for (int i = (a)-1; i >= 0; i--)
-#define gcd(a, b) __gcd(a, b)
-#define lcm(a, b) (a*(b/gcd(a,b))
-
-#define sz(x) (int)(x).size()
-#define mp make_pair
-#define pb push_back
-#define f first
-#define s second
-#define lb lower_bound
-#define ub upper_bound
-#define all(x) x.begin(), x.end()
-#define ins insert
-
-bool IsPrime(int n)
-{
-    if (n == 2 || n == 3)
-        return true;
-    if (n <= 1 || n % 2 == 0 || n % 3 == 0)
-        return false;
-    for (int i = 5; i * i <= n; i += 6)
-    {
-        if (n % i == 0 || n % (i + 2) == 0)
-            return false;
-    }
-    return true;
+void fileIO(string name) {
+    freopen((name + ".in").c_str(), "r", stdin);
+    freopen((name + ".out").c_str(), "w", stdout);
 }
 
-template <class T>
-bool ckmin(T &a, const T &b) { return b < a ? a = b, 1 : 0; }
-template <class T>
-bool ckmax(T &a, const T &b) { return a < b ? a = b, 1 : 0; }
-const char nl = '\n';
-void solve()
-{
-    long long int a, b, x,count=0,flag=1;
-    cin >> a >> b >> x;
-    while (flag)
-    {
-        if (a >= b)
-        {
-            b+=a;
-            count++;
-        }
-        else
-        {
-            a+=b;
-            count++;
-        }
-        if(a>x || b>x){
-            flag=0;
-        }
-    }
-    cout << count<< nl;
-}
-
-int main()
-{
-    ios_base::sync_with_stdio(false);
+int main() {
+    iostream::sync_with_stdio(false);
     cin.tie(NULL);
-    int T = 1;
-    cin >> T;
-    while (T--)
-    {
-        solve();
+
+    int t;
+    cin >> t;
+    while (t--) {
+        ll a, b, n;
+        cin >> a >> b >> n;
+        int ans = 0;
+        while (max(a, b) <= n) {
+            ans++;
+            if (a < b) swap(a, b);
+            b += a;
+        }
+        cout << ans << "\n";
     }
-    return 0;
+    
 }
