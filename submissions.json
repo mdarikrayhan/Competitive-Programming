@@ -21977,6 +21977,24 @@
     ],
     "timestamp": "Feb/16/2024 02:59"
   },
+  "CF261178762": {
+    "contest_id": 1515,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1515/A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Phoenix and Gold",
+    "problem_url": "https://codeforces.com/contest/1515/problem/A",
+    "submission_id": "CF261178762",
+    "submission_url": "https://codeforces.com/contest/1515/submission/261178762",
+    "tags": [
+      "constructive algorithms",
+      "greedy",
+      "math",
+      "*800"
+    ],
+    "timestamp": "May/16/2024 16:25"
+  },
   "CF261178776": {
     "contest_id": 1017,
     "language": "C++20 (GCC 13-64)",
