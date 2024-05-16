@@ -21977,6 +21977,22 @@
     ],
     "timestamp": "Feb/16/2024 02:59"
   },
+  "CF261137990": {
+    "contest_id": 1624,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1624/A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Plus One on the Subset",
+    "problem_url": "https://codeforces.com/contest/1624/problem/A",
+    "submission_id": "CF261137990",
+    "submission_url": "https://codeforces.com/contest/1624/submission/261137990",
+    "tags": [
+      "math",
+      "*800"
+    ],
+    "timestamp": "May/16/2024 10:02"
+  },
   "CF261138018": {
     "contest_id": 432,
     "language": "C++20 (GCC 13-64)",
