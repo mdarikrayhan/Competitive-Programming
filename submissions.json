@@ -21977,6 +21977,24 @@
     ],
     "timestamp": "Feb/16/2024 02:59"
   },
+  "CF261255024": {
+    "contest_id": 1641,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1641/A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Great Sequence",
+    "problem_url": "https://codeforces.com/contest/1641/problem/A",
+    "submission_id": "CF261255024",
+    "submission_url": "https://codeforces.com/contest/1641/submission/261255024",
+    "tags": [
+      "brute force",
+      "greedy",
+      "sortings",
+      "*1200"
+    ],
+    "timestamp": "May/17/2024 03:34"
+  },
   "CF261255036": {
     "contest_id": 1827,
     "language": "C++20 (GCC 13-64)",
