@@ -1,16 +1,34 @@
-#include<iostream>
+#include <iostream>
+#include <vector>
+
 using namespace std;
-int main(){
-int t;
-cin>>t;
-while(t--){
-long long n,k,c=1,a=0;
-cin>>n>>k;
-while(c<k){
-c*=2;
-a++;
-} 
-a+=(n-c+k-1)/k;
-cout<<a<<endl;
-}
+
+#define int long long
+
+signed main(){
+    int T;
+    cin >> T;
+
+    while(T--){
+        int N,K; 
+        cin >> N >> K;
+
+        int val = 1, pas = 0;
+
+        while(val < N){
+            if(val <= K){
+                val *= 2;
+            }else{
+                break;
+                //val += K;
+            }
+            pas++;
+        }
+
+        if(val < N){
+            pas += 1 + ((N-val-1)/K);
+        }
+
+        cout << pas << "\n";
+    }
 }
