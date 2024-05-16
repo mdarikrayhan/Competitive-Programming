@@ -21977,6 +21977,23 @@
     ],
     "timestamp": "Feb/16/2024 02:59"
   },
+  "CF261259854": {
+    "contest_id": 285,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/285/A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Slightly Decreasing Permutations",
+    "problem_url": "https://codeforces.com/contest/285/problem/A",
+    "submission_id": "CF261259854",
+    "submission_url": "https://codeforces.com/contest/285/submission/261259854",
+    "tags": [
+      "greedy",
+      "implementation",
+      "*1100"
+    ],
+    "timestamp": "May/17/2024 05:31"
+  },
   "CF261259859": {
     "contest_id": 1327,
     "language": "C++20 (GCC 13-64)",
