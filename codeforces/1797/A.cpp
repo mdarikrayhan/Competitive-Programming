@@ -1,12 +1,28 @@
-#include<iostream>
+#include<bits/stdc++.h>
 using namespace std;
-int a,b,n,m,c,d;
-int main(){
-	int T;
-	cin>>T;
-	while(T--){
-		cin>>n>>m>>a>>b>>c>>d;
-		cout<<4-max((a==1||a==n)+(b==1||b==m),(c==1||c==n)+(d==1||d==m))<<endl; 
-	}
-	return 0;
+int n,m;
+int check(int x,int y)
+{
+    int cnt=4;
+    if(x==1||x==n) cnt--;
+    if(y==1||y==m) cnt--;
+    return cnt;
 }
+int main()
+{
+    int t;
+    cin>>t;
+    while(t--)
+    {
+        cin>>n>>m;
+        int x1,y1,x2,y2;
+        cin>>x1>>y1>>x2>>y2;
+        int ans=4;
+        ans=min(check(x1,y1),ans);
+        ans=min(ans,check(x2,y2));
+        cout<<ans<<endl;
+    }
+
+    return 0;
+}
+
