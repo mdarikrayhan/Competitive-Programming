@@ -1,46 +1,38 @@
-#include <iostream>
+#include<iostream>
+#include<string.h>
 using namespace std;
-
 int main()
 {
-    int num[1000+10], l, r, mid, n, d, s, chk=0;
-    s = d = 0;
-
-    cin >> n ;
-
-    for(int i=1; i<=n ; i++)
+    int n;
+    cin>>n;
+    int a[n];
+    for(int i=0;i<n;i++)
     {
-        cin >> num[i];
+        cin>>a[i];
     }
-
-    l=1;
-    r=n;
-    while(l<=r)
+    int first=0,last=n-1,max,k=0,sereja=0,dima=0;
+    while(first<=last)
     {
-        if(num[l]>num[r])
+        if(a[first]>=a[last])
         {
-            if(chk==0)
-                s+=num[l];
-            else
-                d+=num[l];
-            l++;
+            max=a[first];
+            first++;
         }
         else
         {
-            if(chk==0)
-                s+=num[r];
-            else
-                d+=num[r];
-            r--;
+            max=a[last];
+            last--;
         }
-        if(chk==0)
-            chk=1;
+        if(k%2==0)
+        {
+            dima=dima+max;
+        }
         else
-            chk =0;
-        //cout << s << " " << d << endl;
+        {
+            sereja=sereja+max;
+        }
+        k++;
     }
-
-    cout << s << " " << d << endl;
-
+    cout<<dima<<" "<<sereja<<endl;
     return 0;
 }
