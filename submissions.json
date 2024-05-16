@@ -21977,6 +21977,26 @@
     ],
     "timestamp": "Feb/16/2024 02:59"
   },
+  "CF261254723": {
+    "contest_id": 1933,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1933/D.cpp",
+    "platform": "Codeforces",
+    "problem_index": "D",
+    "problem_name": "Turtle Tenacity: Continual Mods",
+    "problem_url": "https://codeforces.com/contest/1933/problem/D",
+    "submission_id": "CF261254723",
+    "submission_url": "https://codeforces.com/contest/1933/submission/261254723",
+    "tags": [
+      "constructive algorithms",
+      "greedy",
+      "math",
+      "number theory",
+      "sortings",
+      "*1200"
+    ],
+    "timestamp": "May/17/2024 03:29"
+  },
   "CF261254734": {
     "contest_id": 1807,
     "language": "C++20 (GCC 13-64)",
