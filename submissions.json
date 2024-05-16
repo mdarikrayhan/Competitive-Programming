@@ -21977,6 +21977,22 @@
     ],
     "timestamp": "Feb/16/2024 02:59"
   },
+  "CF261259727": {
+    "contest_id": 1676,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1676/H1.cpp",
+    "platform": "Codeforces",
+    "problem_index": "H1",
+    "problem_name": "Maximum Crossings (Easy Version)",
+    "problem_url": "https://codeforces.com/contest/1676/problem/H1",
+    "submission_id": "CF261259727",
+    "submission_url": "https://codeforces.com/contest/1676/submission/261259727",
+    "tags": [
+      "brute force",
+      "*1400"
+    ],
+    "timestamp": "May/17/2024 05:27"
+  },
   "CF261259854": {
     "contest_id": 285,
     "language": "C++20 (GCC 13-64)",
