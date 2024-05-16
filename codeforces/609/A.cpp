@@ -1,87 +1,37 @@
 #include <bits/stdc++.h>
-using namespace std;
-
-typedef long long ll;
-typedef long double ld;
-typedef complex<ld> cd;
-
-typedef pair<int, int> pi;
-typedef pair<ll, ll> pl;
-typedef pair<ld, ld> pd;
-
-typedef vector<int> vi;
-typedef vector<ld> vd;
-typedef vector<ll> vl;
-typedef vector<pi> vpi;
-typedef vector<pl> vpl;
-typedef vector<cd> vcd;
-
-template <class T>
-using pq = priority_queue<T>;
-template <class T>
-using pqg = priority_queue<T, vector<T>, greater<T>>;
-
-#define FOR(i, a, b) for (int i = a; i < (b); i++)
-#define F0R(i, a) for (int i = 0; i < (a); i++)
-#define FORd(i, a, b) for (int i = (b)-1; i >= a; i--)
-#define F0Rd(i, a) for (int i = (a)-1; i >= 0; i--)
-#define gcd(a, b) __gcd(a, b)
-#define lcm(a, b) (a*(b/gcd(a,b))
-
-#define sz(x) (int)(x).size()
-#define mp make_pair
-#define pb push_back
-#define f first
-#define s second
-#define lb lower_bound
-#define ub upper_bound
-#define all(x) x.begin(), x.end()
-#define ins insert
-
-bool IsPrime(int n)
-{
-    if (n == 2 || n == 3)
-        return true;
-    if (n <= 1 || n % 2 == 0 || n % 3 == 0)
-        return false;
-    for (int i = 5; i * i <= n; i += 6)
-    {
-        if (n % i == 0 || n % (i + 2) == 0)
-            return false;
-    }
-    return true;
-}
-
-template <class T>
-bool ckmin(T &a, const T &b) { return b < a ? a = b, 1 : 0; }
-template <class T>
-bool ckmax(T &a, const T &b) { return a < b ? a = b, 1 : 0; }
-const char nl = '\n';
+#define int long long
 void solve()
 {
-    int n, m,sum=0;
-    cin >> n >> m;
-    vi ar;
-    F0R(i,n){int a;cin>>a;ar.pb(a);}
-    sort(all(ar),greater<int>());
-    int i=0;
-    while (sum<m)
+    int n, m;
+    std::cin >> n >> m;
+    std::vector<int> a(n + 1);
+    for (int i = 1; i <= n; ++i)
     {
-        sum+=ar[i];
-        i++;
+        std::cin >> a[i];
     }
-    cout<<i<<nl;
+    std::sort(begin(a) + 1, end(a));
+    for (int i = n; i >= 1; --i)
+    {
+        if (a[i] >= m)
+        {
+            std::cout << n - i + 1 << '\n';
+            return;
+        }
+        else
+        {
+            m -= a[i];
+        }
+    }
 }
-
-int main()
+signed main()
 {
-    ios_base::sync_with_stdio(false);
-    cin.tie(NULL);
-    int T = 1;
-    // cin >> T;
-    while (T--)
+    std::ios::sync_with_stdio(0);
+    std::cin.tie(0);
+    std::cout.tie(0);
+    int t = 1;
+    // std::cin >> t;
+    while (t--)
     {
         solve();
     }
-    return 0;
 }
