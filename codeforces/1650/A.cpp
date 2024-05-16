@@ -1,17 +1,46 @@
-#include<bits/stdc++.h>
+#include <bits/stdc++.h>
+#include <algorithm>
+#include <iostream>
 using namespace std;
-char c;
-int t,v;
-string s;
+
+#define cn cout << "NO" << endl;
+#define cy cout << "YES" << endl;
+
+void solve()
+{
+    int len,p;
+    p=0;
+    string str;
+    char letter;
+    cin>>str;
+    cin>>letter;
+    len=str.size();
+    for(int i=0;i<len;i=i+2)
+    {
+       if(str[i]==letter)
+       {
+           cy;
+           i=len;
+           p=1;
+       }
+    }
+    if(p==0)
+    {
+        cn;
+    }
+}
+
+
+
 int main()
 {
-	cin>>t;
-	while(t--&&cin>>s>>c)
-	{
-		v=0;
-		for(int i=0;i<s.size();i+=2)
-			if(s[i]==c)
-				v=1;
-		v?puts("YES"):puts("NO");
-	}
+    int t;
+    cin >> t;
+    while (t--)
+    {
+        solve();
+    }
+    return 0;
 }
+
+
