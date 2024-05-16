@@ -21977,6 +21977,24 @@
     ],
     "timestamp": "Feb/16/2024 02:59"
   },
+  "CF261258810": {
+    "contest_id": 1205,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1205/A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Almost Equal",
+    "problem_url": "https://codeforces.com/contest/1205/problem/A",
+    "submission_id": "CF261258810",
+    "submission_url": "https://codeforces.com/contest/1205/submission/261258810",
+    "tags": [
+      "constructive algorithms",
+      "greedy",
+      "math",
+      "*1200"
+    ],
+    "timestamp": "May/17/2024 05:02"
+  },
   "CF261258831": {
     "contest_id": 1494,
     "language": "C++20 (GCC 13-64)",
