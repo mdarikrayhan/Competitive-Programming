@@ -1,45 +1,110 @@
-#include <bits/stdc++.h>
+#include <sstream>
+#include <iostream>
+#include <fstream>
+#include <iomanip>
+#include <cstdio>
+#include <cmath>
+#include <cstring>
+#include <cctype>
+#include <climits>
+#include <cfloat>
+#include <string>
+#include <algorithm>
+#include <functional>
+#include <vector>
+#include <list>
+#include <array>
+#include <set>
+#include <map>
+#include <stack>
+#include <queue>
+#include <deque>
+#include <bitset>
+#include <bit>
+#include <unordered_set>
+#include <unordered_map>
+#include <utility>
+#include <iterator>
+#include <ctime>
+#include <tuple>
+#include <numeric>
 using namespace std;
-const char nl = '\n';
-int main()
+#define int long long
+#define loop(start, limit) for (int i = start; i < limit; i++)
+#define sz(a) int(a.size())
+#define all(c) c.begin(), c.end()
+#define pb push_back
+
+int log2_floor(unsigned long long i)
 {
-ios_base::sync_with_stdio(false);
-cin.tie(NULL);
-cout.tie(NULL);
-int T = 1;
-cin >> T;
-for (int i = 1; i <= T; i++)
+    return i ? __builtin_clzll(1) - __builtin_clzll(i) : -1;
+}
+int min(int a, int b)
 {
-    long long n;
-    cin>>n;
-    vector<long long> a(n);
-    for(long long i=0;i<n;i++)
+    return (a < b) ? a : b;
+}
+int max(int a, int b)
+{
+    return (a > b) ? a : b;
+}
+int gcd(int a, int b)
+{
+    if (!a || !b)
+        return a | b;
+    unsigned shift = __builtin_ctz(a | b);
+    a >>= __builtin_ctz(a);
+    do
     {
-        cin>>a[i];
-    }
-    vector<long long> b(n);
-    for(long long i=0;i<n;i++)
+        b >>= __builtin_ctz(b);
+        if (a > b)
+            swap(a, b);
+        b -= a;
+    } while (b);
+    return a << shift;
+}
+void solve()
+{
+    int n;
+    cin >> n;
+    vector<int> a(n);
+    loop(0, n) cin >> a[i];
+    vector<int> b(n);
+    loop(0,n) cin >> b[i];
+    loop(0,n)
     {
-        cin>>b[i];
-    }
-    for(long long i=0;i<n;i++)
-    {
-        if(a[i]<b[i])
+        if(a[n-1] >= a[i] && b[n-1] >= b[i])
         {
-            swap(a[i],b[i]);
+            continue;
+        }
+        else if(a[n-1] >= b[i] && b[n-1] >= a[i])
+        {
+            continue;
+        }
+        else
+        {
+            cout << "No" << endl;
+            return;
         }
     }
-    long long maxa=*max_element(a.begin(),a.end());
-    long long maxb=*max_element(b.begin(),b.end());
-
-    if(a[n-1]==maxa && b[n-1]==maxb)
-    {
-        cout<<"Yes"<<nl;
-    }
-    else
-    {
-        cout<<"No"<<nl;
-    }
+    cout << "Yes\n";
+    return;
 }
-return 0;
+
+signed main()
+{
+#ifndef ONLINE_JUDGE
+    freopen("input.txt", "r", stdin);
+    freopen("output.txt", "w", stdout);
+#endif
+    ios::sync_with_stdio(false);
+    cin.tie(nullptr);
+    cout.tie(nullptr);
+    int n;
+    cin >> n;
+    while (n > 0)
+    {
+        solve();
+        n--;
+    }
+    return 0;
 }
