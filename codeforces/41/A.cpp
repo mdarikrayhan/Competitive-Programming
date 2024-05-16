@@ -1,20 +1,34 @@
-#include<iostream>
+#include <bits/stdc++.h>
 using namespace std;
-int main(){
-    int count=0;
+typedef long long ll;
+
+void solve()
+{
     string s1,s2;
     cin>>s1>>s2;
-    int n=s1.length();
-    for(int i=0,j=n-1;i<n,j>=0;++i,--j){
-        if(s1[i]!=s2[j]){
-            count++;
-            break;
+    if(s1.size()!=s2.size()){
+        cout<<"NO"<<endl;
+        return;
+    }
+    int n=s1.size();
+    for(int i=0;i<n;i++){
+        if(s2[i]!=s1[n-1-i]){
+            cout<<"NO"<<endl;
+            return;
         }
     }
-    if(count==0){
-        cout<<"YES";
-    }
-    else{
-        cout<<"NO";
-    }
+    cout<<"YES"<<endl;
 }
+
+int main()
+{
+    ios::sync_with_stdio(0);
+    cin.tie(0);
+    ll t = 1;
+    // cin >> t;
+    while (t--)
+        solve();
+    return 0;
+}
+
+// g++ -std=c++11 -O2 -Wall code.cpp -o code
