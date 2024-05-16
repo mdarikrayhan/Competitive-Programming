@@ -1,27 +1,38 @@
-#include <bits/stdc++.h>
+#include<bits/stdc++.h>
 using namespace std;
-const char nl = '\n';
-long long n,x,y,a;
-void solve()
+#define int long long
+
+void testcase() 
 {
-		cin>>n>>x>>y;
-		for(int i=0;i<n;i++){
-			cin>>a;
-			x=x+a%2;
-		}
-		if((y-x)%2)printf("Bob\n");
-		else printf("Alice\n");
+    int n , x , y; cin >> n >> x >> y;
+
+    int a = x , b = x + 3;
+
+    for(int i = 0 ; i < n ; i++)
+    {
+        int k; cin >> k;
+        a ^= k;
+        b ^= k;
+    }
+
+
+    cout << ((a&1) == (y&1) ? "Alice\n" : "Bob\n");
 }
 
-int main()
+
+int32_t main() 
 {
-    ios_base::sync_with_stdio(false);
-    cin.tie(NULL);
-    int T = 1;
-    cin >> T;
-    while (T--)
-    {
-        solve();
-    }
+
+    ios_base::sync_with_stdio(false); cin.tie(nullptr); cout.tie(nullptr);
+
+    #ifndef ONLINE_JUDGE
+            freopen("input.txt", "r", stdin);
+            freopen("output.txt", "w", stdout);
+        #endif
+
+    int tc = 1;
+    cin >> tc;
+    while(tc--) testcase();
+
     return 0;
 }
