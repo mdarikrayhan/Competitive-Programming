@@ -1,34 +1,38 @@
 #include<bits/stdc++.h>
 using namespace std;
-int main()
-{
+#define ll long long
+#define YES cout<<"YES"<<endl;
+#define NO cout<<"NO"<<endl;
+#define f(i,a,b) for(int i=a; i<b; i++)
 
-int t;
-cin>>t;
-while(t>0)
-{
-int n,i;
-cin>>n;
-int a[n];
-vector<int> v;
-for(i=0;i<n;i++){cin>>a[i]; v.push_back(a[i]);}
-sort(v.begin(),v.end());
-int s[n][3],x=0;
-for(i=0;i<n;i++){
-int j=i;
-if(a[i]!=v[i]){ while(a[j]>v[i]){ j++;} 
-s[x][0]=i+1;
-s[x][1]=j+1;
-s[x][2]=j-i;
-while(j>i)
-{ a[j]=a[j-1];
-j--;}
-a[i]=v[i];
-x++;}
+int main(){
+    ll t;
+    // int z=34;
+    cin>>t;
+    while(t--){
+        // z--;
+        int n;
+        cin>>n;
+        vector<int> v;
+        vector<pair<int,int>> ans;
+        f(i,0,n){int temp; cin>>temp; v.push_back(temp);}
+        // if(z==0){cout<<n<<"/";f(i,0,n){cout<<v[i]<<"//";}}
+        f(i,1,n){
+            if(v[i]>=v[i-1]){continue;}
+            int j; 
+            for(j=0;j<i; j++){
+                if(v[j]>v[i]){break;}
+            }
+            ans.push_back(make_pair(j,i));
+            // cout<<j<<" "<<i<<endl;
+            sort(v.begin(), v.begin()+i+1);
+            // for(int i: v){cout<<i<<" ";}cout<<endl;
+        }
+        cout<<ans.size()<<endl;
+        for(auto i: ans){
+            cout<<i.first+1<<" "<<i.second+1<<" "<<i.second-i.first<<endl;
+        }
+
+    }
+    return 0;
 }
-cout<<x<<endl;
-for(int i=0;i<x;i++)
-{ cout<<s[i][0]<<" "<<s[i][1]<<" "<<s[i][2]<<endl;}
-
-t--;
-}}
