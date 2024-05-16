@@ -29307,6 +29307,22 @@
     ],
     "timestamp": "May/16/2024 16:26"
   },
+  "CF261179235": {
+    "contest_id": 1118,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1118/A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Water Buying",
+    "problem_url": "https://codeforces.com/contest/1118/problem/A",
+    "submission_id": "CF261179235",
+    "submission_url": "https://codeforces.com/contest/1118/submission/261179235",
+    "tags": [
+      "math",
+      "*800"
+    ],
+    "timestamp": "May/16/2024 16:29"
+  },
   "CF261179276": {
     "contest_id": 1656,
     "language": "C++20 (GCC 13-64)",
