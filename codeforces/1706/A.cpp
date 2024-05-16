@@ -1,21 +1,50 @@
-#include<bits/stdc++.h>
+#include <bits/stdc++.h>
 using namespace std;
-int main(){
-int t;
-cin>>t;
-while(t--){
-int n,m;
+#define  ll  long long
+#define ld long double
+const ll MOD=1e8;
+const int mxn=2e5+100;
+#define tt int tt;cin>>tt;while(tt--)
 
-cin >> n >> m;
-string s(m, 'B');
-while (n--) {
-int x; cin >> x;
-x--;
-x = min(x, m - x - 1);
-if (s[x] == 'B') s[x] = 'A';
-else s[m - x - 1] = 'A';
+
+
+void sol(){
+
+    ll n,m;cin>>n>>m;
+
+    ll a[n];
+    for(int i=0;i<n;i++)cin>>a[i];
+
+    string s;
+    for(int i=0;i<m;i++)s+='B';
+
+    for(int i=0;i<n;i++){
+        int x=a[i]-1;
+        int y=m-a[i];
+        if(x>y)swap(x,y);
+        if(s[x]=='B')s[x]='A';
+        else s[y]='A';
+    }
+
+cout<<s<<"\n";
+
+
+
+
 }
-cout << s <<endl;
+int main() {
+
+    ios_base::sync_with_stdio(0);
+    cin.tie(0);
+    cout.tie(0);
+
+
+    tt
+        sol();
 }
-return 0;
-}
+
+/*
+
+
+
+ */
