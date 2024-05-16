@@ -29307,6 +29307,23 @@
     ],
     "timestamp": "May/16/2024 16:26"
   },
+  "CF261181931": {
+    "contest_id": 918,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/918/A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Eleven",
+    "problem_url": "https://codeforces.com/contest/918/problem/A",
+    "submission_id": "CF261181931",
+    "submission_url": "https://codeforces.com/contest/918/submission/261181931",
+    "tags": [
+      "brute force",
+      "implementation",
+      "*800"
+    ],
+    "timestamp": "May/16/2024 16:51"
+  },
   "CF261181958": {
     "contest_id": 1284,
     "language": "C++20 (GCC 13-64)",
