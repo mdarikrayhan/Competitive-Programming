@@ -29307,6 +29307,23 @@
     ],
     "timestamp": "May/16/2024 16:26"
   },
+  "CF261179470": {
+    "contest_id": 1301,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1301/A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Three Strings",
+    "problem_url": "https://codeforces.com/contest/1301/problem/A",
+    "submission_id": "CF261179470",
+    "submission_url": "https://codeforces.com/contest/1301/submission/261179470",
+    "tags": [
+      "implementation",
+      "strings",
+      "*800"
+    ],
+    "timestamp": "May/16/2024 16:30"
+  },
   "CF261179513": {
     "contest_id": 1682,
     "language": "C++20 (GCC 13-64)",
