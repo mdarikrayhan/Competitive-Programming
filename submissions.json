@@ -21977,6 +21977,22 @@
     ],
     "timestamp": "Feb/16/2024 02:59"
   },
+  "CF261157311": {
+    "contest_id": 1702,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1702/B.cpp",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Polycarp Writes a String from Memory",
+    "problem_url": "https://codeforces.com/contest/1702/problem/B",
+    "submission_id": "CF261157311",
+    "submission_url": "https://codeforces.com/contest/1702/submission/261157311",
+    "tags": [
+      "greedy",
+      "*800"
+    ],
+    "timestamp": "May/16/2024 13:21"
+  },
   "CF261157346": {
     "contest_id": 1364,
     "language": "C++20 (GCC 13-64)",
