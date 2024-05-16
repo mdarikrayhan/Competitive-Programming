@@ -27932,6 +27932,22 @@
     ],
     "timestamp": "May/16/2024 12:42"
   },
+  "CF261154061": {
+    "contest_id": 265,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/265/A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Colorful Stones (Simplified Edition)",
+    "problem_url": "https://codeforces.com/contest/265/problem/A",
+    "submission_id": "CF261154061",
+    "submission_url": "https://codeforces.com/contest/265/submission/261154061",
+    "tags": [
+      "implementation",
+      "*800"
+    ],
+    "timestamp": "May/16/2024 12:51"
+  },
   "CF261154084": {
     "contest_id": 1473,
     "language": "C++20 (GCC 13-64)",
