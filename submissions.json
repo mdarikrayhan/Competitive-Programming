@@ -21977,6 +21977,22 @@
     ],
     "timestamp": "Feb/16/2024 02:59"
   },
+  "CF261184077": {
+    "contest_id": 897,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/897/A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Scarborough Fair",
+    "problem_url": "https://codeforces.com/contest/897/problem/A",
+    "submission_id": "CF261184077",
+    "submission_url": "https://codeforces.com/contest/897/submission/261184077",
+    "tags": [
+      "implementation",
+      "*800"
+    ],
+    "timestamp": "May/16/2024 17:08"
+  },
   "CF261184096": {
     "contest_id": 1305,
     "language": "C++20 (GCC 13-64)",
