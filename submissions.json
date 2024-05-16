@@ -27932,6 +27932,22 @@
     ],
     "timestamp": "May/16/2024 12:42"
   },
+  "CF261154713": {
+    "contest_id": 1506,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1506/A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Strange Table",
+    "problem_url": "https://codeforces.com/contest/1506/problem/A",
+    "submission_id": "CF261154713",
+    "submission_url": "https://codeforces.com/contest/1506/submission/261154713",
+    "tags": [
+      "math",
+      "*800"
+    ],
+    "timestamp": "May/16/2024 12:57"
+  },
   "CF261155135": {
     "contest_id": 1622,
     "language": "C++20 (GCC 13-64)",
