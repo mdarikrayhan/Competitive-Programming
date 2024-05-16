@@ -1,20 +1,116 @@
-#import<bits/stdc++.h>
+#include <bits/stdc++.h>
 using namespace std;
-long long i,n,t,x,y,a[200040];
-main()
+#define int long long
+#define all(v) v.begin(), v.end()
+#define vi vector<int>
+#define vvi vector<vector<int>>
+#define pii pair<int, int>
+#define fast                          \
+    ios_base::sync_with_stdio(false); \
+    cin.tie(NULL)
+#define fr(i, b) for (int i = 0; i < (int)(b); i++)
+#define rf(i, a, b) for (int i = b; i > (int)(a); i--)
+#define fr2(i, a, b) for (int i = (int)(a); i < (int)(b); i++)
+
+void solve()
 {
-	for(cin>>t;t--;)
-	{
-		cin>>n;
-		for(i=0;i<n;i++)cin>>a[i];
-		sort(a,a+n);
-		for(i=x=y=0;i++<n;)
-		{
-			if(i&1&&~a[n-i]&1)x+=a[n-i];
-			if(~i&1&&a[n-i]&1)y+=a[n-i];
-		}
-		if(x>y)cout<<"Alice"<<endl;
-		else if(x<y)cout<<"Bob"<<endl;
-		else cout<<"Tie"<<endl;
-	}
+    int n;
+    cin >> n;
+
+    vi odd, even;
+    fr(i, n)
+    {
+        int x;
+        cin >> x;
+        if (x % 2 == 0)
+        {
+            even.push_back(x);
+        }
+        else
+        {
+            odd.push_back(x);
+        }
+    }
+
+    sort(all(even));
+    sort(all(odd));
+
+    bool aliceChance = true;
+
+    int alice = 0, bob = 0;
+
+    while (even.size() > 0 && odd.size() > 0)
+    {
+        if (aliceChance)
+        {
+            if (even[even.size() - 1] >= odd[odd.size() - 1])
+            {
+                alice += even[even.size() - 1];
+                even.pop_back();
+            }
+            else
+            {
+                odd.pop_back();
+            }
+        }
+        else
+        {
+            if (even[even.size() - 1] >= odd[odd.size() - 1])
+            {
+                even.pop_back();
+            }
+            else
+            {
+                bob += odd[odd.size() - 1];
+                odd.pop_back();
+            }
+        }
+
+        aliceChance = !aliceChance;
+    }
+
+    int esize = even.size(), osize = odd.size();
+
+    for (int i = 0; i < esize; i++)
+    {
+        if (aliceChance)
+        {
+            alice += even[even.size() - 1];
+        }
+        even.pop_back();
+        aliceChance = !aliceChance;
+    }
+    for (int i = 0; i < osize; i++)
+    {
+        if (!aliceChance)
+        {
+            bob += odd[odd.size() - 1];
+        }
+        odd.pop_back();
+        aliceChance = !aliceChance;
+    }
+
+    if (alice > bob)
+    {
+        cout << "Alice" << endl;
+    }
+    else if (alice == bob)
+    {
+        cout << "Tie" << endl;
+    }
+    else
+    {
+        cout << "Bob" << endl;
+    }
+}
+
+signed main()
+{
+    fast;
+    int t = 1;
+    cin >> t;
+    while (t--)
+    {
+        solve();
+    }
 }
