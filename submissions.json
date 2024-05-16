@@ -21977,6 +21977,22 @@
     ],
     "timestamp": "Feb/16/2024 02:59"
   },
+  "CF261135442": {
+    "contest_id": 1882,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1882/A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Increasing Sequence",
+    "problem_url": "https://codeforces.com/contest/1882/problem/A",
+    "submission_id": "CF261135442",
+    "submission_url": "https://codeforces.com/contest/1882/submission/261135442",
+    "tags": [
+      "greedy",
+      "*800"
+    ],
+    "timestamp": "May/16/2024 09:29"
+  },
   "CF261135464": {
     "contest_id": 1878,
     "language": "C++20 (GCC 13-64)",
