@@ -21977,6 +21977,24 @@
     ],
     "timestamp": "Feb/16/2024 02:59"
   },
+  "CF261182200": {
+    "contest_id": 1270,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1270/A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Card Game",
+    "problem_url": "https://codeforces.com/contest/1270/problem/A",
+    "submission_id": "CF261182200",
+    "submission_url": "https://codeforces.com/contest/1270/submission/261182200",
+    "tags": [
+      "games",
+      "greedy",
+      "math",
+      "*800"
+    ],
+    "timestamp": "May/16/2024 16:53"
+  },
   "CF261182221": {
     "contest_id": 1139,
     "language": "C++20 (GCC 13-64)",
