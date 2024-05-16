@@ -30323,6 +30323,23 @@
     ],
     "timestamp": "May/16/2024 17:08"
   },
+  "CF261184581": {
+    "contest_id": 1583,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1583/A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Windblume Ode",
+    "problem_url": "https://codeforces.com/contest/1583/problem/A",
+    "submission_id": "CF261184581",
+    "submission_url": "https://codeforces.com/contest/1583/submission/261184581",
+    "tags": [
+      "math",
+      "number theory",
+      "*800"
+    ],
+    "timestamp": "May/16/2024 17:12"
+  },
   "CF261184604": {
     "contest_id": 1523,
     "language": "C++20 (GCC 13-64)",
