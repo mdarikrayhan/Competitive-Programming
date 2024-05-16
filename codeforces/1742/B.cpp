@@ -1,74 +1,109 @@
-/***************************************************/
-/*            Author : Md. Arik Rayhan             */
-/*        Github : github.com/mdarikrayhan         */
-/***************************************************/
 #include <bits/stdc++.h>
 using namespace std;
-const char nl = '\n';
 
-typedef long long ll;
-typedef long double ld;
-typedef complex<ld> cd;
+//constants
+#define mod 1e9+7 // 998244353
+#define pi 3.1415926535897932384626433832795
 
-typedef pair<int, int> pi;
-typedef pair<ll,ll> pl;
-typedef pair<ld,ld> pd;
+//for loops
+#define for0(i, N) for (int i = 0; i < (int) N; i++)
+#define for1(i, N) for (int i = 1; i <= (int) N; i++)
+#define forr0(i, N) for (int i = (int) N - 1; ~i; i--)
+#define forr1(i, N) for (int i = (int) N; i; i--)
+#define foru(i, l, r, x) for (int i = l; i <= r; i += x)
 
-typedef vector<int> vi;
-typedef vector<ld> vd;
-typedef vector<ll> vl;
-typedef vector<pi> vpi;
-typedef vector<pl> vpl;
-typedef vector<cd> vcd;
+//primitives & string
+using ll = long long;
+using str = std::string;
 
-#define rep(i,a,b) for (int i=a; i<(b); i++)
-#define per(i,a,b) for (int i = (b)-1; i >= a; i--)
-#define print_map(m) for (const auto &[key, value] : m){cout << '[' << key << ']' << ' ' << '=' << ' ' << value << '\n';}
-#define print_vector(v)int vadnfiv=0;for (const auto &value : v){cout <<vadnfiv<<' '<<value<< '\n';vadnfiv++;}
-#define gcd(a,b) __gcd(a,b)
-#define lcm(a,b) (a*(b/gcd(a,b)))
-
-#define start_time using std::chrono::duration;using std::chrono::duration_cast;using std::chrono::high_resolution_clock;using std::chrono::milliseconds;auto t1111 = high_resolution_clock::now();
-#define end_time auto t2222 = high_resolution_clock::now();duration<double, std::milli> ms_double = t2222 - t1111;std::cout << ms_double.count() << 'm'<<'s'<<nl;
-#define sz(x) (int)(x).size()
+//pairs
+using ii = std::pair<int, int>;
+using llll = std::pair<ll, ll>;
 #define mp make_pair
+#define fi first
+#define se second
+using mii = std::map<int, int>;
+using mllll = std::map<ll, ll>;
+
+//vectors
+using vi = std::vector<int>;
+using vvi = std::vector<vi>;
+using vii = std::vector<ii>;
+using vvii = std::vector<std::vector<ii>>;
+using vs = std::vector<str>;
+using vb = std::vector<bool>;
+using vll = std::vector<ll>;
+using vvll = std::vector<vll>;
+using vllll = std::vector<llll>;
+using vvllll = std::vector<vllll>;
+using vb = std::vector<bool>;
+
+//shortcuts
+#define sz(x) int((x).size())
+#define bg(x) x.begin()
+#define all(x) bg(x), end(x)
+#define rall(x) rbegin(x), rend(x)
+#define ins insert
 #define pb push_back
-#define ff first
-#define ss second
+#define eb emplace_back
+#define ft front()
+#define bk back()
 #define lb lower_bound
 #define ub upper_bound
-#define all(x) x.begin(), x.end()
-#define ins insert
-#define fastio ios_base::sync_with_stdio(false);cin.tie(NULL);cout.tie(NULL);
-#define multicase int NoOfTestCase = 1;cin >> NoOfTestCase;for(int testcaseno=1;testcaseno<=NoOfTestCase;testcaseno++)
-bool isPrime(int n){if (n == 2 || n == 3){return true;}if (n <= 1 || n % 2 == 0 || n % 3 == 0){return false;}for (int i = 5; i * i <= n; i += 6){if (n % i == 0 || n % (i + 2) == 0){return false;}}return true;}
-bool isPalindrome(string S){string P = S;reverse(P.begin(), P.end());if (S == P) {return true;}else {return false;}}
-bool isPowerof(long long num, long long base){if (num <= 0){return false;}if (num % base == 0){return isPowerof(num / base, base);}if (num == 1){return true;}return false;}
 
-template<class T> bool ckmin(T& a, const T& b) { return b < a ? a = b, 1 : 0; }
-template<class T> bool ckmax(T& a, const T& b) { return a < b ? a = b, 1 : 0; }
+//those grid problems (thanks BenCh)
+const int dx[4]{1, 0, -1, 0},  dy[4]{0, 1, 0, -1};
 
-int main() {
-fastio
-multicase
-{
-    int n;
-    cin>>n;
-    set<int>s;
-    rep(i,0,n)
-    {
-        int x;
-        cin>>x;
-        s.ins(x);
+//ceiling and floor divsion
+ll cdiv(ll a, ll b) { return a/b+((a^b)>0&&a%b); }
+ll fdiv(ll a, ll b) { return a/b-((a^b)<0&&a%b); }
+
+int readInt() {int x; cin >> x; return x;}
+ll readLL() {ll x; cin >> x; return x;}
+str readString() {str s; cin >> s; return s;}
+vi readInts(int N) {vi arr(N); for0 (i, N) cin >> arr[i]; return arr;}
+vll readLLs(int N) {vll arr(N); for0 (i, N) cin >> arr[i]; return arr;}
+
+//ACTUAL CODE
+//------------------------------------------------------------------------------
+//                                                                             |
+//                                                                             |
+
+void solve(){
+
+    //meow meow meow:
+    int N;
+    cin >> N;
+    vector<int> arr(N);
+    for (int i = 0; i < N; i++) cin >> arr[i];
+    sort(all(arr));
+    for (int i = 1; i < N; i++) {
+        if (arr[i] == arr[i - 1]) {
+            cout << "NO\n";
+            return;
+        }
     }
-    if(s.size()==n)
-    {
-        cout<<"YES"<<nl;
-    }
-    else
-    {
-        cout<<"NO"<<nl;
-    }
+
+    cout << "YES\n";
+
 }
-return 0;
+
+int main () {
+    cin.tie(0); ios::sync_with_stdio(0);
+    int T; cin >> T;
+    while(T--)
+        solve();
 }
+
+//                                                                             |
+//                                                                             |
+//------------------------------------------------------------------------------
+
+/* stuff you should look for
+    * int overflow, array out of bounds
+    * special cases (n=1, n = 0?)
+    * do smth instead of nothing and stay organized
+    * WRITE STUFF DOWN
+    * DON'T GET STUCK ON ONE APPROACH
+    * don't be mental diffed
+*/
