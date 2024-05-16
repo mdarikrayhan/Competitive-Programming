@@ -1,26 +1,25 @@
-#include <bits/stdc++.h>
+#include<bits/stdc++.h>
 using namespace std;
-const char nl = '\n';
 int main()
 {
     ios_base::sync_with_stdio(false);
-    cin.tie(0);
-    cout.tie(0);
-    int T;
-    cin >> T;
-    while (T--)
+    cin.tie(NULL);
+
+    int t;
+    cin>>t;
+    while(t--)
     {
-        long long n, m;
-        cin >> n >> m;
-        if (abs(n - m) & 1)
+        long long int n,m;
+
+        cin>>n>>m;
+
+        if((m+n)%2==0)
         {
-            cout << "Burenka" << nl;
+            cout<<"Tonya"<<endl;
         }
         else
         {
-            cout << "Tonya" << nl;
+            cout<<"Burenka"<<endl;
         }
     }
-
-    return 0;
 }
