@@ -32245,6 +32245,25 @@
     ],
     "timestamp": "May/17/2024 03:37"
   },
+  "CF261257184": {
+    "contest_id": 1701,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1701/C.cpp",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Schedule Management",
+    "problem_url": "https://codeforces.com/contest/1701/problem/C",
+    "submission_id": "CF261257184",
+    "submission_url": "https://codeforces.com/contest/1701/submission/261257184",
+    "tags": [
+      "binary search",
+      "greedy",
+      "implementation",
+      "two pointers",
+      "*1400"
+    ],
+    "timestamp": "May/17/2024 04:22"
+  },
   "CF261257194": {
     "contest_id": 1395,
     "language": "C++20 (GCC 13-64)",
