@@ -21977,6 +21977,24 @@
     ],
     "timestamp": "Feb/16/2024 02:59"
   },
+  "CF261136336": {
+    "contest_id": 1839,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1839/A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "The Good Array",
+    "problem_url": "https://codeforces.com/contest/1839/problem/A",
+    "submission_id": "CF261136336",
+    "submission_url": "https://codeforces.com/contest/1839/submission/261136336",
+    "tags": [
+      "greedy",
+      "implementation",
+      "math",
+      "*800"
+    ],
+    "timestamp": "May/16/2024 09:40"
+  },
   "CF261136363": {
     "contest_id": 1328,
     "language": "C++20 (GCC 13-64)",
