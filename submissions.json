@@ -33503,6 +33503,25 @@
     ],
     "timestamp": "May/17/2024 05:26"
   },
+  "CF261259717": {
+    "contest_id": 1654,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1654/C.cpp",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Alice and the Cake",
+    "problem_url": "https://codeforces.com/contest/1654/problem/C",
+    "submission_id": "CF261259717",
+    "submission_url": "https://codeforces.com/contest/1654/submission/261259717",
+    "tags": [
+      "data structures",
+      "greedy",
+      "implementation",
+      "sortings",
+      "*1400"
+    ],
+    "timestamp": "May/17/2024 05:27"
+  },
   "CF261259727": {
     "contest_id": 1676,
     "language": "C++20 (GCC 13-64)",
