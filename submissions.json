@@ -21977,6 +21977,23 @@
     ],
     "timestamp": "Feb/16/2024 02:59"
   },
+  "CF261259696": {
+    "contest_id": 268,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/268/C.cpp",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Beautiful Sets of Points",
+    "problem_url": "https://codeforces.com/contest/268/problem/C",
+    "submission_id": "CF261259696",
+    "submission_url": "https://codeforces.com/contest/268/submission/261259696",
+    "tags": [
+      "constructive algorithms",
+      "implementation",
+      "*1500"
+    ],
+    "timestamp": "May/17/2024 05:26"
+  },
   "CF261259727": {
     "contest_id": 1676,
     "language": "C++20 (GCC 13-64)",
