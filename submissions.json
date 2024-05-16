@@ -21977,6 +21977,24 @@
     ],
     "timestamp": "Feb/16/2024 02:59"
   },
+  "CF261259900": {
+    "contest_id": 1603,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1603/B.cpp",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Moderate Modular Mode",
+    "problem_url": "https://codeforces.com/contest/1603/problem/B",
+    "submission_id": "CF261259900",
+    "submission_url": "https://codeforces.com/contest/1603/submission/261259900",
+    "tags": [
+      "constructive algorithms",
+      "math",
+      "number theory",
+      "*1600"
+    ],
+    "timestamp": "May/17/2024 05:32"
+  },
   "CF261259912": {
     "contest_id": 1517,
     "language": "C++20 (GCC 13-64)",
