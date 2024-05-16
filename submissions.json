@@ -21977,6 +21977,24 @@
     ],
     "timestamp": "Feb/16/2024 02:59"
   },
+  "CF261259371": {
+    "contest_id": 1272,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1272/B.cpp",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Snow Walking Robot",
+    "problem_url": "https://codeforces.com/contest/1272/problem/B",
+    "submission_id": "CF261259371",
+    "submission_url": "https://codeforces.com/contest/1272/submission/261259371",
+    "tags": [
+      "constructive algorithms",
+      "greedy",
+      "implementation",
+      "*1200"
+    ],
+    "timestamp": "May/17/2024 05:17"
+  },
   "CF261259390": {
     "contest_id": 1838,
     "language": "C++20 (GCC 13-64)",
