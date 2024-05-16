@@ -29307,6 +29307,23 @@
     ],
     "timestamp": "May/16/2024 16:26"
   },
+  "CF261178973": {
+    "contest_id": 1681,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1681/B.cpp",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Card Trick",
+    "problem_url": "https://codeforces.com/contest/1681/problem/B",
+    "submission_id": "CF261178973",
+    "submission_url": "https://codeforces.com/contest/1681/submission/261178973",
+    "tags": [
+      "implementation",
+      "math",
+      "*800"
+    ],
+    "timestamp": "May/16/2024 16:26"
+  },
   "CF261179059": {
     "contest_id": 1701,
     "language": "C++20 (GCC 13-64)",
