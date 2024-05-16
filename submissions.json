@@ -21977,6 +21977,23 @@
     ],
     "timestamp": "Feb/16/2024 02:59"
   },
+  "CF261135300": {
+    "contest_id": 1890,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1890/B.cpp",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Qingshan Loves Strings",
+    "problem_url": "https://codeforces.com/contest/1890/problem/B",
+    "submission_id": "CF261135300",
+    "submission_url": "https://codeforces.com/contest/1890/submission/261135300",
+    "tags": [
+      "constructive algorithms",
+      "implementation",
+      "*800"
+    ],
+    "timestamp": "May/16/2024 09:28"
+  },
   "CF261135326": {
     "contest_id": 1932,
     "language": "C++20 (GCC 13-64)",
