@@ -1,208 +1,106 @@
-/***************************************************/
-/*            Author : Md. Arik Rayhan             */
-/*        Github : github.com/mdarikrayhan         */
-/***************************************************/
+/*      بسم الله الحمن الرحيم    */
+/*
+ *  اللهم انت ربي لا اله الا انت خلقتني وانا عبدك وان على عهدك ووعدك ما استطعت
+ *  ابوء لك من شر ما صنعت وابوك لك بنعمتك علي
+ *  وابوء بذنبي فاغفر لي فانه لا يغفر الذنوب الا انت
+ */
 #include <bits/stdc++.h>
 using namespace std;
-const char nl = '\n';
 
-typedef long long ll;
-typedef long double ld;
-typedef complex<ld> cd;
+#define Or ||
+#define And &&
+#define yes cout << "YES\n"
+#define no cout << "NO\n"
+#define mostafa ios_base::sync_with_stdio(0), cin.tie(0), cout.tie(0);
+using ll = long long;
+using ull = unsigned long long;
+const ll inf = (1ll << 32) - 1;
+#define to_ll __int128_t
+#define For(n) for (ll i = 0; i < n; i++)
+#define FOR(n) for (ll i = 1; i <= n; i++)
+#define sep(n) cout << fixed << setprecision(n);
+#define enl cout << '\n';
+#define pii pair<int, int>
+#define pll pair<ll, ll>
+#define all(v) v.begin(), v.end()
+#define vec vector<ll>
+const int N = 2e5 + 7;
+void Yes(bool c) { cout << (c ? "YES \n" : "NO \n"); }
 
-typedef pair<int, int> pi;
-typedef pair<ll,ll> pl;
-typedef pair<ld,ld> pd;
-
-typedef vector<int> vi;
-typedef vector<ld> vd;
-typedef vector<ll> vl;
-typedef vector<pi> vpi;
-typedef vector<pl> vpl;
-typedef vector<cd> vcd;
-
-#define rep(i,a,b) for (int i=a; i<(b); i++)
-#define per(i,a,b) for (int i = (b)-1; i >= a; i--)
-#define print_map(m) for (const auto &[key, value] : m){cout << '[' << key << ']' << ' ' << '=' << ' ' << value << '\n';}
-#define print_vector(v)int vadnfiv=0;for (const auto &value : v){cout <<vadnfiv<<' '<<value<< '\n';vadnfiv++;}
-#define gcd(a,b) __gcd(a,b)
-#define lcm(a,b) (a*(b/gcd(a,b)))
-
-#define start_time using std::chrono::duration;using std::chrono::duration_cast;using std::chrono::high_resolution_clock;using std::chrono::milliseconds;auto t1111 = high_resolution_clock::now();
-#define end_time auto t2222 = high_resolution_clock::now();duration<double, std::milli> ms_double = t2222 - t1111;std::cout << ms_double.count() << 'm'<<'s'<<nl;
-#define sz(x) (int)(x).size()
-#define mp make_pair
-#define pb push_back
-#define ff first
-#define ss second
-#define lb lower_bound
-#define ub upper_bound
-#define all(x) x.begin(), x.end()
-#define ins insert
-#define fastio ios_base::sync_with_stdio(false);cin.tie(NULL);cout.tie(NULL);
-#define multicase int NoOfTestCase = 1;cin >> NoOfTestCase;for(int testcaseno=1;testcaseno<=NoOfTestCase;testcaseno++)
-bool isPrime(int n){if (n == 2 || n == 3){return true;}if (n <= 1 || n % 2 == 0 || n % 3 == 0){return false;}for (int i = 5; i * i <= n; i += 6){if (n % i == 0 || n % (i + 2) == 0){return false;}}return true;}
-bool isPalindrome(string S){string P = S;reverse(P.begin(), P.end());if (S == P) {return true;}else {return false;}}
-bool isPowerof(long long num, long long base){if (num <= 0){return false;}if (num % base == 0){return isPowerof(num / base, base);}if (num == 1){return true;}return false;}
-
-template<class T> bool ckmin(T& a, const T& b) { return b < a ? a = b, 1 : 0; }
-template<class T> bool ckmax(T& a, const T& b) { return a < b ? a = b, 1 : 0; }
-
-int main() {
-fastio
-multicase
+bool cmp(int x, int y)
 {
+    return x > y;
+}
 
+template <typename T = int>
+istream &operator>>(istream &in, vector<T> &v)
+{
+    for (auto &x : v)
+        in >> x;
+    return in;
+}
+
+template <typename T = int>
+ostream &operator<<(ostream &out, const vector<T> &v)
+{
+    for (const T &x : v)
+        out << x << ' ';
+    return out;
+}
+
+int f (int n)
+{
+    string s = to_string(n);
+    return s.size();
+}
+void solution ()
+{
     int n;
     cin >> n;
-
-    int a[n], b[n];
-
-    map<int, int> map1, map2, map3, map4;
-
+    priority_queue<int> a, b;
     for (int i = 0; i < n; i++)
     {
-
-        cin >> a[i];
-
-        map1[a[i]]++;
+        int x;
+        cin >> x;
+        a.push(x);
     }
-
     for (int i = 0; i < n; i++)
     {
-
-        cin >> b[i];
-
-        map2[b[i]]++;
+        int x;
+        cin >> x;
+        b.push(x);
     }
-
-    for (int i = 0; i < n; i++)
+    int cnt = 0;
+    while (!a.empty() && !b.empty())
     {
-
-        if (map1[a[i]] >= 1 && map2[a[i]] >= 1)
+        if (a.top() == b.top())
         {
-
-            map1[a[i]]--, map2[a[i]]--;
+            a.pop();
+            b.pop();
+        }
+        else if (a.top() > b.top())
+        {
+            int x = a.top();
+            a.pop();
+            a.push(f(x));
+            cnt++;
+        }
+        else
+        {
+            int x = b.top();
+            b.pop();
+            b.push(f(x));
+            cnt++;
         }
     }
-
-    int op = 0;
-
-    vector<int> odd, even;
-
-    for (int i = 0; i < n; i++)
-    {
-
-        if (map1[a[i]] >= 1 && a[i] >= 10)
-        {
-
-            int el = a[i], cnt = 0;
-
-            map1[el]--;
-
-            while (el != 0)
-            {
-
-                cnt++;
-
-                el /= 10;
-            }
-
-            odd.push_back(cnt);
-
-            map3[cnt]++;
-
-            op++;
-        }
-
-        else if (map1[a[i]] >= 1)
-        {
-
-            odd.push_back(a[i]);
-
-            map1[a[i]]--;
-
-            map3[a[i]]++;
-        }
-    }
-
-    for (int i = 0; i < n; i++)
-    {
-
-        if (map2[b[i]] >= 1 && b[i] >= 10)
-        {
-
-            int el = b[i], cnt = 0;
-
-            map2[el]--;
-
-            while (el != 0)
-            {
-
-                cnt++;
-
-                el /= 10;
-            }
-
-            even.push_back(cnt);
-
-            map4[cnt]++;
-
-            op++;
-        }
-
-        else if (map2[b[i]] >= 1)
-        {
-
-            even.push_back(b[i]);
-
-            map2[b[i]]--;
-
-            map4[b[i]]++;
-        }
-    }
-
-    int fnt = 0;
-
-    for (int i = 0; i < odd.size(); i++)
-    {
-
-        if (map3[odd[i]] >= 1 && map4[odd[i]] >= 1)
-        {
-
-            map3[odd[i]]--;
-
-            map4[odd[i]]--;
-
-            fnt++;
-        }
-    }
-
-    for (int i = 0; i < odd.size(); i++)
-    {
-
-        if (map3[odd[i]] != 0 && odd[i] != 1)
-        {
-
-            op++;
-
-            map3[odd[i]]--;
-        }
-    }
-
-    for (int i = 0; i < even.size(); i++)
-    {
-
-        if (map4[even[i]] != 0 && even[i] != 1)
-        {
-
-            op++;
-
-            map4[even[i]]--;
-        }
-    }
-
-    cout << op << endl;
+    cout << cnt << '\n';
 }
-return 0;
+
+int main()
+{
+    mostafa;
+    int t = 1;
+    cin >> t;
+    while(t--)
+        solution();
 }
