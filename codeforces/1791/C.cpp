@@ -1,31 +1,33 @@
-#include <bits/stdc++.h>
+#include<bits/stdc++.h>
 using namespace std;
-const char nl = '\n';
 int main()
 {
-    ios_base::sync_with_stdio(false);
-    cin.tie(NULL);
-    cout.tie(NULL);
-    int T = 1;
-    cin >> T;
-    for (int i = 1; i <= T; i++)
+int t;
+cin>>t;
+for (int i = 0; i < t; i++)
+{
+    int n;
+    cin>>n;
+    string s;
+    cin>>s;
+    int start=0,end=n-1,ans=0;
+    while(start<=end)
     {
-        int n, flag = 0;
-        cin >> n;
-        string s;
-        cin >> s;
-        while(s.size()>1){
-            int n=s.size();
-            if(s[n-1]!=s[0]){
-                //remove the last character
-                s.pop_back();
-                //remove the first character
-                s.erase(s.begin());
-            }
-            else
-                break;
+        if(s[start]=='1' && s[end]=='1'){
+            ans=end-start+1;
+            break;
         }
-        cout<<s.size()<<nl;
+        else if(s[start]=='0' && s[end]=='0'){
+            ans = end-start+1;
+            break;
+        }
+        else {
+          start++;
+          end--;
+        }
     }
-    return 0;
+    cout<<ans<<endl;
+}
+
+return 0;
 }

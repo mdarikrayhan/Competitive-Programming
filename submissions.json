@@ -21977,6 +21977,23 @@
     ],
     "timestamp": "Feb/16/2024 02:59"
   },
+  "CF261138664": {
+    "contest_id": 1791,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1791/C.cpp",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Prepend and Append",
+    "problem_url": "https://codeforces.com/contest/1791/problem/C",
+    "submission_id": "CF261138664",
+    "submission_url": "https://codeforces.com/contest/1791/submission/261138664",
+    "tags": [
+      "implementation",
+      "two pointers",
+      "*800"
+    ],
+    "timestamp": "May/16/2024 10:11"
+  },
   "CF261138679": {
     "contest_id": 707,
     "language": "C++20 (GCC 13-64)",
