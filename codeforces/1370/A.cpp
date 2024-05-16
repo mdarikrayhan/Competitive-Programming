@@ -1,32 +1,20 @@
-/***************************************************/
-/*https://codeforces.com/problemset/problem/1370/A  */
-/*            Author : Md. Arik Rayhan             */
-/*        Github : github.com/mdarikrayhan         */
-/***************************************************/
-#include <bits/stdc++.h>
+#include <iostream>
+
+#include <algorithm>
+
 using namespace std;
-int maxGCDInRange(int L, int R)
-{
-    int ans = 1;
-    for (int Z = R; Z >= 1; Z--)
-    {
-        if ((R / Z) - (L - 1) / Z > 1)
-        {
-            ans = Z;
-            break;
-        }
-    }
-    return ans;
-}
 int main()
 {
-
-    int n;
-    cin>>n;
-    while(n--){
-    int L = 0, R = 0;
-    cin >> R;
-    cout << maxGCDInRange(L, R) << endl;
-    }
+int a;
+cin>>a;
+int x;
+for(int i=0;i<a;i++)
+{
+    cin>>x;
+    if(x%2==0)
+    cout<<x/2<<endl;
+    else
+    cout<<(x-1)/2<<endl;
+}
     return 0;
 }
