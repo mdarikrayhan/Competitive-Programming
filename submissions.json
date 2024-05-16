@@ -21977,6 +21977,22 @@
     ],
     "timestamp": "Feb/16/2024 02:59"
   },
+  "CF261135244": {
+    "contest_id": 1895,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1895/A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Treasure Chest",
+    "problem_url": "https://codeforces.com/contest/1895/problem/A",
+    "submission_id": "CF261135244",
+    "submission_url": "https://codeforces.com/contest/1895/submission/261135244",
+    "tags": [
+      "math",
+      "*800"
+    ],
+    "timestamp": "May/16/2024 09:27"
+  },
   "CF261135270": {
     "contest_id": 1891,
     "language": "C++20 (GCC 13-64)",
