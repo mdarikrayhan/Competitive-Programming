@@ -29307,6 +29307,24 @@
     ],
     "timestamp": "May/16/2024 16:26"
   },
+  "CF261180124": {
+    "contest_id": 1114,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1114/A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Got Any Grapes?",
+    "problem_url": "https://codeforces.com/contest/1114/problem/A",
+    "submission_id": "CF261180124",
+    "submission_url": "https://codeforces.com/contest/1114/submission/261180124",
+    "tags": [
+      "brute force",
+      "greedy",
+      "implementation",
+      "*800"
+    ],
+    "timestamp": "May/16/2024 16:36"
+  },
   "CF261180175": {
     "contest_id": 1602,
     "language": "C++20 (GCC 13-64)",
