@@ -1,22 +1,11 @@
-#include <bits/stdc++.h>
+#include <iostream>
 using namespace std;
-const char nl = '\n';
-int main()
-{
-ios_base::sync_with_stdio(false);
-cin.tie(NULL);
-cout.tie(NULL);
-long long int num,sum=0;
-cin >> num;
-if(num&1){
-    sum= -num;
-    num--;
-    sum+=num/2;
-}
-else{
-    sum=num/2;
-}
-cout<<sum<<nl;
-
-return 0;
+int main() {
+    long long aa;
+    cin >> aa;
+        if (aa%2==0) {
+            cout << aa/2;
+        } else {
+             cout<< -(aa+1)/2;
+        }
 }
