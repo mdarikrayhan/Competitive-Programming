@@ -21977,6 +21977,24 @@
     ],
     "timestamp": "Feb/16/2024 02:59"
   },
+  "CF261157728": {
+    "contest_id": 1547,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1547/B.cpp",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Alphabetical Strings",
+    "problem_url": "https://codeforces.com/contest/1547/problem/B",
+    "submission_id": "CF261157728",
+    "submission_url": "https://codeforces.com/contest/1547/submission/261157728",
+    "tags": [
+      "greedy",
+      "implementation",
+      "strings",
+      "*800"
+    ],
+    "timestamp": "May/16/2024 13:25"
+  },
   "CF261157757": {
     "contest_id": 463,
     "language": "C++20 (GCC 13-64)",
