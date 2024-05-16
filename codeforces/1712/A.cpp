@@ -1,31 +1,33 @@
-#include <bits/stdc++.h>
+#include<iostream>
+#include<vector>
+#include<algorithm>
+#include<string>
+#include<set>
+#include<map>
+#include<stack>
+ 
+#define ll long long int
+ 
 using namespace std;
-const char nl = '\n';
-int main()
-{
-    ios_base::sync_with_stdio(false);
-    cin.tie(0);
-    cout.tie(0);
-    int t;
-    cin >> t;
-    while (t--)
-    {
-        int n, k;
-        cin >> n >> k;
-        vector<long long>ab(n);
-        for (int i = 0; i < n; i++)
-        {
-            cin >> ab[i];
-        }
-        vector<long long>ba(ab.begin(), ab.end());
-        sort(ba.begin(), ba.end());
-        set<int>s;
-        for(int i=0;i<k;i++)
-        {
-            s.insert(ab[i]);
-            s.insert(ba[i]);
-        }
-        cout<<s.size()-k<<nl;
-    }
-    return 0;
+ 
+int main(){
+int q;cin>>q;
+while(q--){
+ int n,k;
+cin>>n>>k;
+bool x=1;
+int c=0;
+for(int i=1;i<=n;i++){
+        int temp;
+        cin>>temp;
+        if(temp>(k) && x)c++;
+        if(i==k)x=0;
+      
+}
+
+
+cout<<c<<endl;
+   
+}
+return 0;
 }

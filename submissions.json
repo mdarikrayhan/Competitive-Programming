@@ -27580,6 +27580,23 @@
     ],
     "timestamp": "May/16/2024 10:25"
   },
+  "CF261151330": {
+    "contest_id": 1712,
+    "language": "C++17 (GCC 7-32)",
+    "path": "codeforces/1712/A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Wonderful Permutation",
+    "problem_url": "https://codeforces.com/contest/1712/problem/A",
+    "submission_id": "CF261151330",
+    "submission_url": "https://codeforces.com/contest/1712/submission/261151330",
+    "tags": [
+      "greedy",
+      "implementation",
+      "*800"
+    ],
+    "timestamp": "May/16/2024 12:26"
+  },
   "CF261151408": {
     "contest_id": 1717,
     "language": "C++17 (GCC 7-32)",
