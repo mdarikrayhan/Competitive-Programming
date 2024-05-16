@@ -32245,6 +32245,25 @@
     ],
     "timestamp": "May/17/2024 03:37"
   },
+  "CF261257957": {
+    "contest_id": 1552,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1552/B.cpp",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Running for Gold",
+    "problem_url": "https://codeforces.com/contest/1552/problem/B",
+    "submission_id": "CF261257957",
+    "submission_url": "https://codeforces.com/contest/1552/submission/261257957",
+    "tags": [
+      "combinatorics",
+      "graphs",
+      "greedy",
+      "sortings",
+      "*1500"
+    ],
+    "timestamp": "May/17/2024 04:40"
+  },
   "CF261257976": {
     "contest_id": 1844,
     "language": "C++20 (GCC 13-64)",
