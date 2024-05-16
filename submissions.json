@@ -21977,6 +21977,23 @@
     ],
     "timestamp": "Feb/16/2024 02:59"
   },
+  "CF261135464": {
+    "contest_id": 1878,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1878/B.cpp",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Aleksa and Stack",
+    "problem_url": "https://codeforces.com/contest/1878/problem/B",
+    "submission_id": "CF261135464",
+    "submission_url": "https://codeforces.com/contest/1878/submission/261135464",
+    "tags": [
+      "constructive algorithms",
+      "math",
+      "*800"
+    ],
+    "timestamp": "May/16/2024 09:30"
+  },
   "CF261135519": {
     "contest_id": 1894,
     "language": "C++20 (GCC 13-64)",
