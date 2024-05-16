@@ -29307,6 +29307,24 @@
     ],
     "timestamp": "May/16/2024 16:26"
   },
+  "CF261179724": {
+    "contest_id": 1096,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1096/A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Find Divisible",
+    "problem_url": "https://codeforces.com/contest/1096/problem/A",
+    "submission_id": "CF261179724",
+    "submission_url": "https://codeforces.com/contest/1096/submission/261179724",
+    "tags": [
+      "greedy",
+      "implementation",
+      "math",
+      "*800"
+    ],
+    "timestamp": "May/16/2024 16:33"
+  },
   "CF261179783": {
     "contest_id": 770,
     "language": "C++20 (GCC 13-64)",
