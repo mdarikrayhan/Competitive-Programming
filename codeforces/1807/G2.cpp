@@ -1,49 +1,39 @@
-#include <bits/stdc++.h>
+#include<bits/stdc++.h>
 using namespace std;
-const char nl = '\n';
-int main()
-{
-    ios_base::sync_with_stdio(false);
-    cin.tie(NULL);
-    cout.tie(NULL);
-    int T = 1;
-    cin >> T;
-    for (int i = 1; i <= T; i++)
-    {
-        long long n, sum = 1;
-        cin >> n;
-        vector<long long> arr(n);
-        for (long long i = 0; i < n; i++)
-        {
-            cin >> arr[i];
-        }
-        sort(arr.begin(), arr.end());
+typedef long long ll;
 
-        if (arr[0] != 1)
-        {
-            cout << "NO" << nl;
-        }
-        else
-        {
-            int flag = 1;
-            for (long long i = 1; i < n; i++)
-            {
-                if (arr[i] <= sum)
-                {
-                    sum += arr[i];
-                }
-                else
-                {
-                    cout << "NO" << nl;
-                    flag = 0;
-                    break;
-                }
+void func(){
+    int n;cin>>n;
+    vector<int>v(n);
+    for(int i=0;i<n;i++)cin>>v[i];
+    sort(v.begin(),v.end());
+    if(v[0]!=1){
+        cout<<"No\n";
+        return;
+    }
+    else {
+        ll sum = 1;
+        for(int i=1;i<n;i++){
+            if(v[i]>sum){
+                cout<<"No\n";
+                return;
             }
-            if (flag)
-            {
-                cout << "YES" << nl;
-            }
+            else if(sum<1e6)sum+=v[i];
         }
     }
+    cout<<"Yes\n";
+    return;
+}
+
+int main()
+{
+    ios::sync_with_stdio(0);
+    cin.tie(0);
+    ll t;
+    cin>>t;
+
+    while(t--) func();
+
+
     return 0;
 }
