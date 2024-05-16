@@ -21977,6 +21977,22 @@
     ],
     "timestamp": "Feb/16/2024 02:59"
   },
+  "CF261138869": {
+    "contest_id": 1772,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1772/A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "A+B?",
+    "problem_url": "https://codeforces.com/contest/1772/problem/A",
+    "submission_id": "CF261138869",
+    "submission_url": "https://codeforces.com/contest/1772/submission/261138869",
+    "tags": [
+      "implementation",
+      "*800"
+    ],
+    "timestamp": "May/16/2024 10:14"
+  },
   "CF261138872": {
     "contest_id": 1788,
     "language": "C++20 (GCC 13-64)",
