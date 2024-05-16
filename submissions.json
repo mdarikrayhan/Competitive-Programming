@@ -29154,6 +29154,19 @@
     ],
     "timestamp": "May/16/2024 16:22"
   },
+  "CF261178672": {
+    "contest_id": 1658,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1658/A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Marin and Photoshoot",
+    "problem_url": "https://codeforces.com/contest/1658/problem/A",
+    "submission_id": "CF261178672",
+    "submission_url": "https://codeforces.com/contest/1658/submission/261178672",
+    "tags": [],
+    "timestamp": "May/16/2024 16:24"
+  },
   "CF261178696": {
     "contest_id": 1200,
     "language": "C++20 (GCC 13-64)",
