@@ -21977,6 +21977,22 @@
     ],
     "timestamp": "Feb/16/2024 02:59"
   },
+  "CF261178435": {
+    "contest_id": 38,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/38/A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Army",
+    "problem_url": "https://codeforces.com/contest/38/problem/A",
+    "submission_id": "CF261178435",
+    "submission_url": "https://codeforces.com/contest/38/submission/261178435",
+    "tags": [
+      "implementation",
+      "*800"
+    ],
+    "timestamp": "May/16/2024 16:22"
+  },
   "CF261178696": {
     "contest_id": 1200,
     "language": "C++20 (GCC 13-64)",
