@@ -21977,6 +21977,24 @@
     ],
     "timestamp": "Feb/16/2024 02:59"
   },
+  "CF261254745": {
+    "contest_id": 1790,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1790/D.cpp",
+    "platform": "Codeforces",
+    "problem_index": "D",
+    "problem_name": "Matryoshkas",
+    "problem_url": "https://codeforces.com/contest/1790/problem/D",
+    "submission_id": "CF261254745",
+    "submission_url": "https://codeforces.com/contest/1790/submission/261254745",
+    "tags": [
+      "data structures",
+      "greedy",
+      "sortings",
+      "*1200"
+    ],
+    "timestamp": "May/17/2024 03:29"
+  },
   "CF261254801": {
     "contest_id": 1201,
     "language": "C++20 (GCC 13-64)",
