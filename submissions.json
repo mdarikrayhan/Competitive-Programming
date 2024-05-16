@@ -32245,6 +32245,25 @@
     ],
     "timestamp": "May/17/2024 03:37"
   },
+  "CF261257976": {
+    "contest_id": 1844,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1844/C.cpp",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Particles",
+    "problem_url": "https://codeforces.com/contest/1844/problem/C",
+    "submission_id": "CF261257976",
+    "submission_url": "https://codeforces.com/contest/1844/submission/261257976",
+    "tags": [
+      "dp",
+      "greedy",
+      "implementation",
+      "math",
+      "*1300"
+    ],
+    "timestamp": "May/17/2024 04:41"
+  },
   "CF261257985": {
     "contest_id": 1864,
     "language": "C++20 (GCC 13-64)",
