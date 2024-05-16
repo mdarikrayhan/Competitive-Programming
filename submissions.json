@@ -21977,6 +21977,23 @@
     ],
     "timestamp": "Feb/16/2024 02:59"
   },
+  "CF261139305": {
+    "contest_id": 1669,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1669/B.cpp",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Triple",
+    "problem_url": "https://codeforces.com/contest/1669/problem/B",
+    "submission_id": "CF261139305",
+    "submission_url": "https://codeforces.com/contest/1669/submission/261139305",
+    "tags": [
+      "implementation",
+      "sortings",
+      "*800"
+    ],
+    "timestamp": "May/16/2024 10:20"
+  },
   "CF261139324": {
     "contest_id": 1729,
     "language": "C++20 (GCC 13-64)",
