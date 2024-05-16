@@ -33677,6 +33677,24 @@
     ],
     "timestamp": "May/17/2024 05:34"
   },
+  "CF261259953": {
+    "contest_id": 343,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/343/B.cpp",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Alternating Current",
+    "problem_url": "https://codeforces.com/contest/343/problem/B",
+    "submission_id": "CF261259953",
+    "submission_url": "https://codeforces.com/contest/343/submission/261259953",
+    "tags": [
+      "data structures",
+      "greedy",
+      "implementation",
+      "*1600"
+    ],
+    "timestamp": "May/17/2024 05:34"
+  },
   "CF261259962": {
     "contest_id": 6,
     "language": "C++20 (GCC 13-64)",
