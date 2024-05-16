@@ -21977,6 +21977,23 @@
     ],
     "timestamp": "Feb/16/2024 02:59"
   },
+  "CF261135985": {
+    "contest_id": 1849,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1849/A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Morning Sandwich",
+    "problem_url": "https://codeforces.com/contest/1849/problem/A",
+    "submission_id": "CF261135985",
+    "submission_url": "https://codeforces.com/contest/1849/submission/261135985",
+    "tags": [
+      "implementation",
+      "math",
+      "*800"
+    ],
+    "timestamp": "May/16/2024 09:36"
+  },
   "CF261136028": {
     "contest_id": 467,
     "language": "C++20 (GCC 13-64)",
