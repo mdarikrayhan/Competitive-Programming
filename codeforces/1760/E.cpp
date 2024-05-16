@@ -1,27 +1,83 @@
-#include<iostream>
-#include<algorithm>
+#include <bits/stdc++.h>
 using namespace std;
-//int a[200005];
-bool f[200005];
+#define ll long long
+
 int main()
 {
-	int t,n,x,k,d;
-	cin>>t;
-	while(t--)
-	{
-		k=0;
-		long long sum=0;
-		cin>>n;
-		int b=n+1,e=0;
-		for(int i=1;i<=n;i++)
-		{
-			cin>>f[i];
-			k=f[i]+k;
-			if(!f[i]) sum+=k;
-			if(b==n+1&&!f[i]) b=i;
-			if(f[i]) e=i;
-		}
-		d=max(e-1+k-n,n-k-b);
-		cout<<sum+max(0,d)<<endl;
-	}
+    ios::sync_with_stdio(false);
+    cin.tie(NULL);
+    int t;
+    cin >> t;
+    while (t--)
+    {
+        int n;
+        cin >> n;
+        int min_zero = -1, max_one = -1;
+        vector<int> a(n);
+        for (int i = 0; i < n; i++)
+        {
+            cin >> a[i];
+            if (a[i] == 0 && min_zero == -1)
+            {
+                min_zero = i;
+            }
+            if (a[i] == 1 && i > max_one)
+            {
+                max_one = i;
+            }
+        }
+        ll ans = 0, cnt = 0;
+        for (int i = 0; i < n; i++)
+        {
+            if (a[i] == 1)
+            {
+                cnt++;
+            }
+            else
+            {
+                ans += cnt;
+            }
+        }
+        if (min_zero != -1)
+        {
+            a[min_zero] = 1;
+            cnt = 0;
+            ll temp = 0;
+            for (int i = 0; i < n; i++)
+            {
+                if (a[i] == 1)
+                {
+                    cnt++;
+                }
+                else
+                {
+                    temp += cnt;
+                }
+            }
+            ans = max(ans, temp);
+            a[min_zero] = 0;
+        }
+        if (max_one != -1)
+        {
+            a[max_one] = 0;
+            cnt = 0;
+            ll temp = 0;
+            for (int i = 0; i < n; i++)
+            {
+                if (a[i] == 1)
+                {
+                    cnt++;
+                }
+                else
+                {
+                    temp += cnt;
+                }
+            }
+            ans = max(ans, temp);
+            a[max_one] = 1;
+        }
+        cout << ans << endl;
+    }
+    return 0;
 }
+ 			 		 			   	 	 		   	 	   		
