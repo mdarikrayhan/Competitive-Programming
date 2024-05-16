@@ -21977,6 +21977,23 @@
     ],
     "timestamp": "Feb/16/2024 02:59"
   },
+  "CF261178903": {
+    "contest_id": 1257,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1257/A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Two Rival Students",
+    "problem_url": "https://codeforces.com/contest/1257/problem/A",
+    "submission_id": "CF261178903",
+    "submission_url": "https://codeforces.com/contest/1257/submission/261178903",
+    "tags": [
+      "greedy",
+      "math",
+      "*800"
+    ],
+    "timestamp": "May/16/2024 16:26"
+  },
   "CF261178923": {
     "contest_id": 835,
     "language": "C++20 (GCC 13-64)",
