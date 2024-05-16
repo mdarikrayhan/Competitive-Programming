@@ -1,39 +1,28 @@
-#include <bits/stdc++.h>
-using namespace std;
-const char nl = '\n';
-int main()
-{
-    ios_base::sync_with_stdio(false);
-    cin.tie(NULL);
-    cout.tie(NULL);
-    int T = 1;
-    cin >> T;
-    for (int i = 1; i <= T; i++)
-    {
-        int n,flag=0;
-        cin >> n;
-        string s;
-        cin >> s;
-        int x = 0, y = 0;
-        for (int i = 0; i < n; i++)
-        {
-            if (s[i] == 'L')
-                x--;
-            else if (s[i] == 'R')
-                x++;
-            else if (s[i] == 'U')
-                y++;
-            else if (s[i] == 'D')
-                y--;
+#include <iostream>
 
-            if(x==1 && y==1){
-                cout<<"YES"<<nl;
-                flag=1;
-                break;
-            }
+using namespace std;
+
+void solve() {
+    int n;
+    int x = 0, y = 0;
+    string s;
+    cin >> n >> s;
+    for (char ch: s) {
+        if (ch == 'U')y++;
+        else if (ch == 'R')x++;
+        else if (ch == 'D')y--;
+        else if (ch == 'L')x--;
+        if (x == 1 && y == 1) {
+            cout << "YES" << endl;
+            return;
         }
-        if(flag==0)
-            cout<<"NO"<<nl;
     }
-    return 0;
+    cout << "NO" << endl;
+}
+
+int main() {
+    int t;
+    cin >> t;
+    while (t--)
+        solve();
 }
