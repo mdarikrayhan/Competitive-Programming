@@ -21977,6 +21977,24 @@
     ],
     "timestamp": "Feb/16/2024 02:59"
   },
+  "CF261178948": {
+    "contest_id": 1623,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1623/A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Robot Cleaner",
+    "problem_url": "https://codeforces.com/contest/1623/problem/A",
+    "submission_id": "CF261178948",
+    "submission_url": "https://codeforces.com/contest/1623/submission/261178948",
+    "tags": [
+      "brute force",
+      "implementation",
+      "math",
+      "*800"
+    ],
+    "timestamp": "May/16/2024 16:26"
+  },
   "CF261182176": {
     "contest_id": 1459,
     "language": "C++20 (GCC 13-64)",
