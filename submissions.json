@@ -21977,6 +21977,24 @@
     ],
     "timestamp": "Feb/16/2024 02:59"
   },
+  "CF261135377": {
+    "contest_id": 1895,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1895/B.cpp",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Points and Minimum Distance",
+    "problem_url": "https://codeforces.com/contest/1895/problem/B",
+    "submission_id": "CF261135377",
+    "submission_url": "https://codeforces.com/contest/1895/submission/261135377",
+    "tags": [
+      "greedy",
+      "math",
+      "sortings",
+      "*800"
+    ],
+    "timestamp": "May/16/2024 09:29"
+  },
   "CF261135401": {
     "contest_id": 1886,
     "language": "C++20 (GCC 13-64)",
