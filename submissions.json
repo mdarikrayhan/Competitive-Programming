@@ -21977,6 +21977,23 @@
     ],
     "timestamp": "Feb/16/2024 02:59"
   },
+  "CF261178091": {
+    "contest_id": 1688,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1688/A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Cirno's Perfect Bitmasks Classroom",
+    "problem_url": "https://codeforces.com/contest/1688/problem/A",
+    "submission_id": "CF261178091",
+    "submission_url": "https://codeforces.com/contest/1688/submission/261178091",
+    "tags": [
+      "bitmasks",
+      "brute force",
+      "*800"
+    ],
+    "timestamp": "May/16/2024 16:19"
+  },
   "CF261178109": {
     "contest_id": 1681,
     "language": "C++20 (GCC 13-64)",
