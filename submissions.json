@@ -27580,6 +27580,24 @@
     ],
     "timestamp": "May/16/2024 10:25"
   },
+  "CF261151440": {
+    "contest_id": 1715,
+    "language": "C++17 (GCC 7-32)",
+    "path": "codeforces/1715/A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Crossmarket",
+    "problem_url": "https://codeforces.com/contest/1715/problem/A",
+    "submission_id": "CF261151440",
+    "submission_url": "https://codeforces.com/contest/1715/submission/261151440",
+    "tags": [
+      "constructive algorithms",
+      "greedy",
+      "math",
+      "*800"
+    ],
+    "timestamp": "May/16/2024 12:27"
+  },
   "CF261151478": {
     "contest_id": 1714,
     "language": "C++17 (GCC 7-32)",

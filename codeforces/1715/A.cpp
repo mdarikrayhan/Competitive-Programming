@@ -1,23 +1,33 @@
 #include <bits/stdc++.h>
+
 using namespace std;
-const char nl = '\n';
-int main()
-{
-    ios_base::sync_with_stdio(false);
-    cin.tie(0);
-    cout.tie(0);
-    int t;
-    cin >> t;
-    while (t--)
-    {
-        long long n, m;
-        cin >> n >> m;
-        if (n == 1 && m == 1)
-        {
-            cout << 0 << nl;
-            continue;
-        }
-        cout << (min(n, m) + max(n, m) - 2 + min(n, m)) << nl;
+
+void solve() {
+    int n, m;
+    cin >> n >> m;
+
+    if(n < m) {
+        swap(n, m);
     }
+
+    if((m == 1 || n == 1) && m != n) {
+        cout << n << '\n';
+    } else if(n == m && n == 1){
+        cout << 0 << '\n';
+    } else {
+        cout << n + (m - 1) * 2 << '\n';
+    }
+}
+
+int main() {
+    ios::sync_with_stdio(false);
+    cin.tie(nullptr);
+
+    int T;
+    cin >> T;
+    while(T--) {
+        solve();
+    }
+
     return 0;
 }
