@@ -21977,6 +21977,24 @@
     ],
     "timestamp": "Feb/16/2024 02:59"
   },
+  "CF261183413": {
+    "contest_id": 1104,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1104/A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Splitting into digits",
+    "problem_url": "https://codeforces.com/contest/1104/problem/A",
+    "submission_id": "CF261183413",
+    "submission_url": "https://codeforces.com/contest/1104/submission/261183413",
+    "tags": [
+      "constructive algorithms",
+      "implementation",
+      "math",
+      "*800"
+    ],
+    "timestamp": "May/16/2024 17:02"
+  },
   "CF261183443": {
     "contest_id": 672,
     "language": "C++20 (GCC 13-64)",
