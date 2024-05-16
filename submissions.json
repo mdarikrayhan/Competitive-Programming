@@ -21977,6 +21977,23 @@
     ],
     "timestamp": "Feb/16/2024 02:59"
   },
+  "CF261155767": {
+    "contest_id": 479,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/479/C.cpp",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Exams",
+    "problem_url": "https://codeforces.com/contest/479/problem/C",
+    "submission_id": "CF261155767",
+    "submission_url": "https://codeforces.com/contest/479/submission/261155767",
+    "tags": [
+      "greedy",
+      "sortings",
+      "*1400"
+    ],
+    "timestamp": "May/16/2024 13:07"
+  },
   "CF261155811": {
     "contest_id": 34,
     "language": "C++20 (GCC 13-64)",
