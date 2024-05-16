@@ -29307,6 +29307,23 @@
     ],
     "timestamp": "May/16/2024 16:26"
   },
+  "CF261181519": {
+    "contest_id": 1417,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1417/A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Copy-paste",
+    "problem_url": "https://codeforces.com/contest/1417/problem/A",
+    "submission_id": "CF261181519",
+    "submission_url": "https://codeforces.com/contest/1417/submission/261181519",
+    "tags": [
+      "greedy",
+      "math",
+      "*800"
+    ],
+    "timestamp": "May/16/2024 16:47"
+  },
   "CF261181576": {
     "contest_id": 1680,
     "language": "C++20 (GCC 13-64)",
