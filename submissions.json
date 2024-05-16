@@ -30323,6 +30323,22 @@
     ],
     "timestamp": "May/16/2024 17:08"
   },
+  "CF261184321": {
+    "contest_id": 994,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/994/A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Fingerprints",
+    "problem_url": "https://codeforces.com/contest/994/problem/A",
+    "submission_id": "CF261184321",
+    "submission_url": "https://codeforces.com/contest/994/submission/261184321",
+    "tags": [
+      "implementation",
+      "*800"
+    ],
+    "timestamp": "May/16/2024 17:10"
+  },
   "CF261184354": {
     "contest_id": 1060,
     "language": "C++20 (GCC 13-64)",
