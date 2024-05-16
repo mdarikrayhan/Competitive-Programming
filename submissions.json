@@ -21977,6 +21977,23 @@
     ],
     "timestamp": "Feb/16/2024 02:59"
   },
+  "CF261178239": {
+    "contest_id": 1530,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1530/A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Binary Decimal",
+    "problem_url": "https://codeforces.com/contest/1530/problem/A",
+    "submission_id": "CF261178239",
+    "submission_url": "https://codeforces.com/contest/1530/submission/261178239",
+    "tags": [
+      "greedy",
+      "math",
+      "*800"
+    ],
+    "timestamp": "May/16/2024 16:21"
+  },
   "CF261178272": {
     "contest_id": 1300,
     "language": "C++20 (GCC 13-64)",
