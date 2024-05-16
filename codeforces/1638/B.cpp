@@ -1,17 +1,45 @@
-#include<bits/stdc++.h>
+#include <bits/stdc++.h>
 using namespace std;
-int t,n;
+
+bool check(int *a,int x)
+{
+    for (int i=0;i<x-1;i++)
+    {
+        if (a[i]>a[i+1])
+        {
+            if ((a[i]+a[i+1])%2!=0)
+            {
+                swap(a[i],a[i+1]);
+            }
+            else return false;
+        }
+    }
+    for (int i=x-1;i>0;i--)
+    {
+        if (a[i]<a[i-1])
+        {
+            if ((a[i]+a[i-1])%2!=0)
+            {
+                swap(a[i],a[i-1]);
+            }
+            else return false;
+        }
+    }
+    return true;
+}
+
 int main() {
-	cin>>t;
-	while (t--){
-		cin>>n;
-		int l[2]={},f=1,x;
-		for (int i=0;i<n;i++){
-			cin>>x;
-			if(x<l[x&1]) f=0;
-			l[x&1]=x;
-		}
-		puts(f?"Yes":"No");
-	}
-	return 0;
+    int test;
+    cin>>test;
+    while(test--) 
+    {
+        int x;
+        cin>>x;
+        int a[x];
+        for (int i=0;i<x;i++)
+            cin>>a[i];
+        if (check(a,x)) cout<<"YES"<<endl;    
+        else cout<<"NO"<<endl;
+    }
+    return 0;
 }
