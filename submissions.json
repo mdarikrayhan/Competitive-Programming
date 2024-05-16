@@ -29307,6 +29307,23 @@
     ],
     "timestamp": "May/16/2024 16:26"
   },
+  "CF261179151": {
+    "contest_id": 1651,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1651/B.cpp",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Prove Him Wrong",
+    "problem_url": "https://codeforces.com/contest/1651/problem/B",
+    "submission_id": "CF261179151",
+    "submission_url": "https://codeforces.com/contest/1651/submission/261179151",
+    "tags": [
+      "constructive algorithms",
+      "greedy",
+      "*800"
+    ],
+    "timestamp": "May/16/2024 16:28"
+  },
   "CF261179175": {
     "contest_id": 262,
     "language": "C++20 (GCC 13-64)",
