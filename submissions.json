@@ -30323,6 +30323,24 @@
     ],
     "timestamp": "May/16/2024 17:08"
   },
+  "CF261184421": {
+    "contest_id": 854,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/854/A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Fraction",
+    "problem_url": "https://codeforces.com/contest/854/problem/A",
+    "submission_id": "CF261184421",
+    "submission_url": "https://codeforces.com/contest/854/submission/261184421",
+    "tags": [
+      "brute force",
+      "constructive algorithms",
+      "math",
+      "*800"
+    ],
+    "timestamp": "May/16/2024 17:10"
+  },
   "CF261184500": {
     "contest_id": 1143,
     "language": "C++20 (GCC 13-64)",
