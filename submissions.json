@@ -21977,6 +21977,22 @@
     ],
     "timestamp": "Feb/16/2024 02:59"
   },
+  "CF261183443": {
+    "contest_id": 672,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/672/A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Summer Camp",
+    "problem_url": "https://codeforces.com/contest/672/problem/A",
+    "submission_id": "CF261183443",
+    "submission_url": "https://codeforces.com/contest/672/submission/261183443",
+    "tags": [
+      "implementation",
+      "*800"
+    ],
+    "timestamp": "May/16/2024 17:03"
+  },
   "CF261183461": {
     "contest_id": 1152,
     "language": "C++20 (GCC 13-64)",
