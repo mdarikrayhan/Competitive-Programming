@@ -32245,6 +32245,24 @@
     ],
     "timestamp": "May/17/2024 03:37"
   },
+  "CF261257607": {
+    "contest_id": 1886,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1886/B.cpp",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Fear of the Dark",
+    "problem_url": "https://codeforces.com/contest/1886/problem/B",
+    "submission_id": "CF261257607",
+    "submission_url": "https://codeforces.com/contest/1886/submission/261257607",
+    "tags": [
+      "binary search",
+      "geometry",
+      "math",
+      "*1200"
+    ],
+    "timestamp": "May/17/2024 04:32"
+  },
   "CF261257615": {
     "contest_id": 461,
     "language": "C++20 (GCC 13-64)",
