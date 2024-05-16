@@ -21977,6 +21977,24 @@
     ],
     "timestamp": "Feb/16/2024 02:59"
   },
+  "CF261182690": {
+    "contest_id": 919,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/919/A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Supermarket",
+    "problem_url": "https://codeforces.com/contest/919/problem/A",
+    "submission_id": "CF261182690",
+    "submission_url": "https://codeforces.com/contest/919/submission/261182690",
+    "tags": [
+      "brute force",
+      "greedy",
+      "implementation",
+      "*800"
+    ],
+    "timestamp": "May/16/2024 16:57"
+  },
   "CF261182825": {
     "contest_id": 1092,
     "language": "C++20 (GCC 13-64)",
