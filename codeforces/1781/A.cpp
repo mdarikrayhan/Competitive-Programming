@@ -1,13 +1,16 @@
-#include<iostream>
+#include<bits/stdc++.h>
 using namespace std;
-int q,w,d,h;
-int main()
-{
-cin>>q;
-int a,b,f,g;
-while(q--)
-{
-cin>>w>>d>>h>>a>>b>>f>>g;
-cout<<min(min(a+f,2*w-a-f)+abs(b-g),min(b+g,2*d-b-g)+abs(a-f))+h<<endl;
-}
+
+int main(){
+	int t;
+	cin>>t;
+	while(t--){
+		int w,d,h;
+		cin>>w>>d>>h;
+		int a,b,f,g;
+		cin>>a>>b>>f>>g;
+		int x=h+abs(f-a)+min(b+g,2*d-b-g);
+		int y=h+abs(b-g)+min(a+f,2*w-f-a);
+		cout<<min(x,y)<<endl;
+	}
 }
