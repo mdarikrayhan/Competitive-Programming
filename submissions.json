@@ -29307,6 +29307,23 @@
     ],
     "timestamp": "May/16/2024 16:26"
   },
+  "CF261179124": {
+    "contest_id": 1440,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1440/A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Buy the String",
+    "problem_url": "https://codeforces.com/contest/1440/problem/A",
+    "submission_id": "CF261179124",
+    "submission_url": "https://codeforces.com/contest/1440/submission/261179124",
+    "tags": [
+      "implementation",
+      "math",
+      "*800"
+    ],
+    "timestamp": "May/16/2024 16:28"
+  },
   "CF261179151": {
     "contest_id": 1651,
     "language": "C++20 (GCC 13-64)",
