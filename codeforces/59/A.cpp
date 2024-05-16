@@ -1,33 +1,46 @@
-#include <bits/stdc++.h>
+#include <iostream>
+#include <vector>
+#include <cctype>
+#include <string>
 using namespace std;
-const char nl = '\n';
-int main()
+int main()//小写islower 大写isupper
 {
-    ios_base::sync_with_stdio(false);
-    cin.tie(NULL);
-    cout.tie(NULL);
-    string s;
-    cin >> s;
-    int n = s.length();
-    int lcase = 0,ucase=0;
-    for (int i = 0; i < n; i++)
-    {
-        if (s[i] >= 'a' && s[i] <= 'z')
-        {
-            lcase++;
-        }
-        else
-        {
-            ucase++;
-        }
-    }
-    if(ucase>lcase){
-        transform(s.begin(), s.end(), s.begin(), ::toupper);
-        cout<<s<<nl;
-    }
-    else{
-        transform(s.begin(), s.end(), s.begin(), ::tolower);
-        cout<<s<<nl;
-    }
-    return 0;
+	string s;
+	int flag1 = 0;
+	int flag2 = 0;
+	int Max=0;
+	cin >> s;
+	for (int i = 0; i < s.length(); i++)
+	{
+		if (islower(s[i]))
+		{
+			flag1++;
+		}
+		else if (isupper(s[i]))
+		{
+			flag2++;
+		}
+	}
+	Max = max(flag1, flag2);
+	if (Max == flag1)
+	{
+		for (int i = 0; i < s.length(); i++)
+		{
+			if (isupper(s[i]))
+			{
+				s[i] += 32;
+			}
+		}
+	}
+	else if(Max==flag2)
+	{
+		for (int i = 0; i < s.length(); i++)
+		{
+			if (islower(s[i]))
+			{
+				s[i] -= 32;
+			}
+		}
+	}
+	cout << s;
 }
