@@ -1,27 +1,19 @@
-#include <bits/stdc++.h>
+#include<bits/stdc++.h>
 using namespace std;
-const char nl = '\n';
-int main()
-{
-    ios::ios_base::sync_with_stdio(false);
-    cin.tie(NULL);
-    cout.tie(NULL);
-     int T;
-     cin>>T;
-     while(T--)
+
+
+int main() {
+    int t;
+    cin >> t;
+    while (t--)
     {
-        string ______, _______________;
-        cin >> ______ >> _______________;
-        set<char> f;
-        for (int i = 0; i < ______.size(); i++)
-        {
-            f.insert(______[i]);
-        }
-        for (int i = 0; i < _______________.size(); i++)
-        {
-            f.insert(_______________[i]);
-        }
-        cout<<f.size()-1<<nl;
+        string a, b;
+        cin >> a >> b;
+        set<char> st;
+        st.insert(a[0]);
+        st.insert(a[1]);
+        st.insert(b[0]);
+        st.insert(b[1]);
+        cout << st.size() - 1 << endl;
     }
-    return 0;
 }
