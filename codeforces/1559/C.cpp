@@ -1,47 +1,48 @@
-#include<cstdio>
-#include<algorithm>
+#include<bits/stdc++.h>
 using namespace std;
-int a[10004];
-int main()
-{
-    int t,n;
-    scanf("%d",&t);
-    while (t--)
-    {
-        scanf("%d",&n);
-        for (int i = 1; i <= n; i++)
-            scanf("%d",a+i);
-        int pos=0;
-        for (int i = n; i >= 1; i--)
-        {
-            if (!a[i])
-            {
-                pos=i;
-                break;
-            }
-        }
-        if (pos)
-        {
-            for (int i = 1; i <= pos; i++)
-            {
-                printf("%d ",i);
-            }
-            printf("%d ",n+1);
-            for (int i = pos + 1; i <= n; i++)
-            {
-                printf("%d ",i);
-            }
-            printf("\n");
-        }
-        else
-        {
-            printf("%d ",n+1);
-            for (int i = 1; i <= n; i++)
-            {
-                printf("%d ",i);
-            }
-            printf("\n");
+#define int long long
+
+void solve() {
+    int n ; cin >> n ;
+    vector<int> arr(n+1) ; for(int i = 1 ; i <= n ; i++) cin >> arr[i] ;
+    if(arr[1] == 1) {
+        cout << n+1 << " " ;
+        for(int i = 1 ; i <= n ; i++) {
+            cout << i << " " ;
+        } cout << endl ;
+        return ;
+    }
+    if(arr[n] == 0) {
+        for(int i = 1 ; i <= n+1 ; i++) {
+            cout << i << " " ;
+        } cout << endl ;
+        return ;
+    }
+    int shift = -1 ;
+    for(int i = 1 ; i < n ; i++) {
+        if(arr[i] == 0 && arr[i+1] == 1) {
+            shift = i ; break ;
         }
     }
-    return 0;
+    if(shift == -1) {
+        cout << -1 << endl ; return ;
+    }
+    for(int i = 1 ; i <= shift ; i++) {
+        cout << i << " " ;
+    } 
+    cout << n+1 << " " ;
+    for(int i = shift+1 ; i <=n ; i++) {
+        cout << i << " " ;
+    }cout << endl ;
+}
+
+signed main() {
+    ios_base::sync_with_stdio(false) ; cin.tie(NULL) ;
+    #ifndef ONLINE_JUDGE
+        freopen("input.txt", "r", stdin);
+        freopen("output.txt", "w", stdout);
+    #else
+        // online submission
+    #endif
+    int t ; cin >> t ; while(t--) solve() ;
 }
