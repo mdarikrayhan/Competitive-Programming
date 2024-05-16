@@ -21977,6 +21977,24 @@
     ],
     "timestamp": "Feb/16/2024 02:59"
   },
+  "CF261136274": {
+    "contest_id": 1843,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1843/B.cpp",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Long Long",
+    "problem_url": "https://codeforces.com/contest/1843/problem/B",
+    "submission_id": "CF261136274",
+    "submission_url": "https://codeforces.com/contest/1843/submission/261136274",
+    "tags": [
+      "greedy",
+      "math",
+      "two pointers",
+      "*800"
+    ],
+    "timestamp": "May/16/2024 09:40"
+  },
   "CF261136287": {
     "contest_id": 266,
     "language": "C++20 (GCC 13-64)",
