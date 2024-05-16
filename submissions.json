@@ -21977,6 +21977,26 @@
     ],
     "timestamp": "Feb/16/2024 02:59"
   },
+  "CF261259641": {
+    "contest_id": 1792,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1792/C.cpp",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Min Max Sort",
+    "problem_url": "https://codeforces.com/contest/1792/problem/C",
+    "submission_id": "CF261259641",
+    "submission_url": "https://codeforces.com/contest/1792/submission/261259641",
+    "tags": [
+      "binary search",
+      "brute force",
+      "greedy",
+      "math",
+      "two pointers",
+      "*1500"
+    ],
+    "timestamp": "May/17/2024 05:25"
+  },
   "CF261259657": {
     "contest_id": 1513,
     "language": "C++20 (GCC 13-64)",
