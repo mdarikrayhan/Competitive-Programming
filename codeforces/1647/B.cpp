@@ -1,2 +1,28 @@
-#include<bits/stdc++.h>
-using namespace std;int t,n,m,A;string s[999];int main(){cin>>t;while(t--&&cin>>n>>m){ for(int i=1;i<=n;i++) cin>>s[i],s[i]=' '+s[i]; A=1; for(int i=1;i<n;i++) for(int j=1;j<m;j++) if((s[i][j]=='1')+(s[i+1][j]=='1')+(s[i][j+1]=='1')+(s[i+1][j+1]=='1')==3) A=0; puts(A?"YES":"NO");}}
+#include <iostream>
+using namespace std;
+const int N=107;
+char map[N][N];
+int main(void)
+{
+    int t;
+    cin>>t;
+    for(int i=0;i<t;i++)
+    {
+        int n,m;
+        cin>>n>>m;
+        for(int i=0;i<n;i++)
+            for(int j=0;j<m;j++)
+            {
+                cin>>map[i][j];
+            }
+        for(int i=0;i<n-1;i++)
+            for(int j=0;j<m-1;j++)
+                if(map[i][j]+map[i+1][j]+map[i][j+1]+map[i+1][j+1]==48+3*49)
+                    goto f;
+        cout<<"YES\n";
+        continue;
+        f:;
+        cout<<"NO\n";
+    }
+    return 0;
+}
