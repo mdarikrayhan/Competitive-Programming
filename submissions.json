@@ -21977,6 +21977,23 @@
     ],
     "timestamp": "Feb/16/2024 02:59"
   },
+  "CF261183091": {
+    "contest_id": 1530,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1530/B.cpp",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Putting Plates",
+    "problem_url": "https://codeforces.com/contest/1530/problem/B",
+    "submission_id": "CF261183091",
+    "submission_url": "https://codeforces.com/contest/1530/submission/261183091",
+    "tags": [
+      "constructive algorithms",
+      "implementation",
+      "*800"
+    ],
+    "timestamp": "May/16/2024 17:00"
+  },
   "CF261183189": {
     "contest_id": 1678,
     "language": "C++20 (GCC 13-64)",
