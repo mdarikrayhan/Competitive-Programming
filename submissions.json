@@ -21977,6 +21977,24 @@
     ],
     "timestamp": "Feb/16/2024 02:59"
   },
+  "CF261153059": {
+    "contest_id": 433,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/433/B.cpp",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Kuriyama Mirai's Stones",
+    "problem_url": "https://codeforces.com/contest/433/problem/B",
+    "submission_id": "CF261153059",
+    "submission_url": "https://codeforces.com/contest/433/submission/261153059",
+    "tags": [
+      "dp",
+      "implementation",
+      "sortings",
+      "*1200"
+    ],
+    "timestamp": "May/16/2024 12:42"
+  },
   "CF261153098": {
     "contest_id": 1385,
     "language": "C++20 (GCC 13-64)",
