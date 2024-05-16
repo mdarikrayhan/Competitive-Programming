@@ -1,19 +1,36 @@
-#include<bits/stdc++.h>
+#include <bits/stdc++.h>
 using namespace std;
-const int N=1e6;
-int t,n,a[N],l,A;
+
 int main()
 {
-	cin>>t;
-	while(t--&&cin>>n)
-	{
-		for(int i=1;i<=n;i++)
-			cin>>a[i];
-		l=n,A=00;
-		while(l>1)
-			if(a[l-1]==a[n])
-				l--;
-			else
-				l-=n-l+1,A++;
-		cout<<A<<'\n';
-}}
+    int tc;
+    cin >> tc;
+    while(tc--)
+    {
+        int n;
+        cin >> n;
+
+        vector<int> a(n+1);
+        for(int i=1; i<=n; i++)
+            cin >> a[i];
+
+        vector<int> b = a;
+        reverse(b.begin()+1,b.end());
+
+        int ans = 0, x = 1;
+
+        while( x < n )
+        {
+            if( b[x+1] == b[1] ){
+                x ++;
+                continue;
+            }
+            ans ++;
+            x *= 2;
+        }
+
+        cout << ans << '\n';
+    }
+
+    return 0;
+}
