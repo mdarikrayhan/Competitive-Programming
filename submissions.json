@@ -32245,6 +32245,23 @@
     ],
     "timestamp": "May/17/2024 03:37"
   },
+  "CF261257875": {
+    "contest_id": 1610,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1610/B.cpp",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Kalindrome Array",
+    "problem_url": "https://codeforces.com/contest/1610/problem/B",
+    "submission_id": "CF261257875",
+    "submission_url": "https://codeforces.com/contest/1610/submission/261257875",
+    "tags": [
+      "greedy",
+      "two pointers",
+      "*1100"
+    ],
+    "timestamp": "May/17/2024 04:38"
+  },
   "CF261257888": {
     "contest_id": 1249,
     "language": "C++20 (GCC 13-64)",
