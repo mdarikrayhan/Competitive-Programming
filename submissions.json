@@ -21977,6 +21977,23 @@
     ],
     "timestamp": "Feb/16/2024 02:59"
   },
+  "CF261253908": {
+    "contest_id": 1712,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1712/C.cpp",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Sort Zero",
+    "problem_url": "https://codeforces.com/contest/1712/problem/C",
+    "submission_id": "CF261253908",
+    "submission_url": "https://codeforces.com/contest/1712/submission/261253908",
+    "tags": [
+      "greedy",
+      "sortings",
+      "*1100"
+    ],
+    "timestamp": "May/17/2024 03:14"
+  },
   "CF261253921": {
     "contest_id": 1341,
     "language": "C++20 (GCC 13-64)",
