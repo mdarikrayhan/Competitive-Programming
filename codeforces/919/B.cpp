@@ -1,76 +1,125 @@
-#include <bits/stdc++.h>
 using namespace std;
+#include <bits/stdc++.h>
 
-typedef long long ll;
-typedef long double ld;
-typedef complex<ld> cd;
+//---MACROS--//
 
-typedef pair<int, int> pi;
-typedef pair<ll,ll> pl;
-typedef pair<ld,ld> pd;
-
-typedef vector<int> vi;
-typedef vector<ld> vd;
-typedef vector<ll> vl;
-typedef vector<pi> vpi;
-typedef vector<pl> vpl;
-typedef vector<cd> vcd;
-
-template<class T> using pq = priority_queue<T>;
-template<class T> using pqg = priority_queue<T, vector<T>, greater<T>>;
-
-#define FOR(i, a, b) for (int i=a; i<(b); i++)
-#define F0R(i, a) for (int i=0; i<(a); i++)
-#define FORd(i,a,b) for (int i = (b)-1; i >= a; i--)
-#define F0Rd(i,a) for (int i = (a)-1; i >= 0; i--)
-#define gcd(a,b) __gcd(a,b)
-#define lcm(a,b) (a*(b/gcd(a,b))
-
-#define sz(x) (int)(x).size()
-#define mp make_pair
+//                                                  -| BANKAI |-
+#define ll long long
+#define loop(i,m,n) for(long long int i=m;i<n;i++)
+#define rloop(i,m,n) for(long long int i=m;i>=n;i--)
 #define pb push_back
-#define f first
-#define s second
-#define lb lower_bound
-#define ub upper_bound
-#define all(x) x.begin(), x.end()
-#define ins insert
+#define F first
+#define S second
+#define yes cout<<"YES"<<"\n"
+#define no cout<<"NO"<<"\n"
+#define all(v) v.begin(),v.end()
+#define test cout<<"B A N K A I"<<endl
+#define Fast ios_base::sync_with_stdio(false);cin.tie(nullptr);cout.tie(nullptr);
+#define nl "\n"
+#define MP make_pair
 
-template<class T> bool ckmin(T& a, const T& b) { return b < a ? a = b, 1 : 0; }
-template<class T> bool ckmax(T& a, const T& b) { return a < b ? a = b, 1 : 0; }
-const char nl = '\n';
-void solve() {
-int k;  cin>>k;
-    int sum=0;
-    int j;
-    for(int i=19;;i++)
+vector<int> factors(int n) {
+    // Takes sqrt(n) time. Go for Sieve till sqrt(n) if time Squeezes (sqrt(n)/log(n)).
+    vector<int> f;
+    for (int x = 2; x*x <= n; x++){
+        while (n%x == 0) {
+            f.push_back(x);
+            n /= x;
+        }
+    }
+    if (n > 1) f.push_back(n);
+    return f;
+}
+
+///------------------------------------------------------------------------------------------------------------------
+
+string a;
+ll len;
+
+ll dp[20][2][11];
+
+ll rec(ll idx,ll hi,ll sum)
+{
+    if(sum > 10) return 0;
+    if(idx == len)
     {
-        j=i;
-      while(j)
-      {
-          sum+=j%10;
-          j=j/10;
-      }
-          if(sum==10)
-          {
-              k--;
-          }
-          if(k==0)
-          {
-             cout<<i<<endl;
-             break;
-          }
- 
-            sum=0;}
+        if(sum == 10) return 1;
+        else return 0;
+    }
+
+    if(dp[idx][hi][sum] == -1)
+    {
+        ll ans = 0;
+
+        ll lolim = 0;
+        ll hilim = 9;
+
+        if(hi) hilim = a[idx] - '0';
+
+        loop(i,lolim,hilim+1)
+        {
+            int nhi = hi;
+            if(i<hilim) nhi = 0;
+
+            ans += rec(idx+1,nhi,sum+i);
+        }
+        dp[idx][hi][sum] = ans;
+    }
+    return dp[idx][hi][sum];
 }
 
-int main() {
-ios_base::sync_with_stdio(false);
-cin.tie(NULL);
-int T = 1;
-//cin >> T;
-while(T--) {
-solve();
+
+void solve()
+{
+    int k;
+    cin>>k;
+
+    ll l = 0;
+    ll r = 1e18;
+
+    ll ans;
+
+    while(l<=r)
+    {
+        ll mid = (l+r)/2;
+
+        a = to_string(mid);
+        len = a.size();
+
+        memset(dp,-1,sizeof dp);
+
+        ll tot = rec(0,1,0);
+
+        //cout<<tot<<" "<<l<<" "<<mid<<" "<<r<<nl;
+
+        if(tot >= k)
+        {
+            r = mid - 1;
+            ans = mid;
+        }
+        else l = mid + 1;
+    }
+
+    cout<<ans<<nl;
 }
-return 0;
+
+
+///         Beware of Long Long
+
+///-----------------------------------------------------------------------------------------------------------------------
+
+int main(){
+    //std::cout<<std::setprecision(10)<<std::fixed;
+    Fast
+    //freopen("input.in", "r", stdin);
+    //freopen("output.out", "w", stdout);
+
+    int t = 1;
+    //cin>>t;
+
+    while(t--){
+        solve();
+    }
+
+    return 0;
 }
