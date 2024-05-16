@@ -1,63 +1,41 @@
-#include <bits/stdc++.h>
+#include<bits/stdc++.h>
 using namespace std;
-const char nl = '\n';
-bool isreverse(string s)
-{
-    string temp = s;
-    reverse(temp.begin(), temp.end());
-    if (temp == s)
-    {
-        return true;
-    }
-    else
-    {
-        return false;
-    }
-}
+#define mod 1000000007
+#define IOS ios::sync_with_stdio(0),cin.tie(0)
+typedef long long ll;
+typedef long double ld;
+typedef pair<ll,ll> p;
+const int N=2e5+5;
+bool mk[N];
 int main()
 {
-    ios_base::sync_with_stdio(false);
-    cin.tie(NULL);
-    cout.tie(NULL);
+    IOS;
     int t;
-    cin >> t;
-    while (t--)
+    cin>>t;
+    while(t--)
     {
-        long long n;
+        ll n;
+        cin>>n;
         string s;
-        cin >> n >> s;
-        int flag = 1, r = s.size() - 1,loop=0;
-        while (loop < r)
+        cin>>s;
+        s=' '+s;
+        for(int i=1;i<=n;i++) mk[i]=0;
+        for(int l=1,r=n;l<=r;l++,r--)
         {
-            if (flag == 0 && (s[loop] == s[r]))
-            {
-                break;
-            }
-            if (s[loop] != s[r])
-            {
-                if (s[r] == '1')
-                    s[r] = '0';
-                else
-                    s[r] = '1';
-                r--;
-                loop++;
-                flag = 0;
-            }
-            else if (s[loop] == s[r])
-            {
-                loop++, r--;
-            }
+            if(s[l]==s[r])
+            mk[r]=0;
+            else
+            mk[r]=1;
         }
-
-        if (isreverse(s))
+        ll ct=0;
+        for(int i=(n+1)/2;i<=n;i++)
         {
-            cout << "YES" << endl;
+            if(mk[i]!=mk[i-1])
+            ct++;
         }
+        if(ct>=3)
+        cout<<"NO\n";
         else
-        {
-            cout << "NO" << endl;
-        }
+        cout<<"YES\n";
     }
-
-    return 0;
 }
