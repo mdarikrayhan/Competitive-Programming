@@ -21977,6 +21977,23 @@
     ],
     "timestamp": "Feb/16/2024 02:59"
   },
+  "CF261259657": {
+    "contest_id": 1513,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1513/C.cpp",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Add One",
+    "problem_url": "https://codeforces.com/contest/1513/problem/C",
+    "submission_id": "CF261259657",
+    "submission_url": "https://codeforces.com/contest/1513/submission/261259657",
+    "tags": [
+      "dp",
+      "matrices",
+      "*1600"
+    ],
+    "timestamp": "May/17/2024 05:25"
+  },
   "CF261259672": {
     "contest_id": 1279,
     "language": "C++20 (GCC 13-64)",
