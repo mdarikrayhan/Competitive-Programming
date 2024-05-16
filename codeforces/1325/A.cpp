@@ -1,22 +1,29 @@
 #include <bits/stdc++.h>
 using namespace std;
-const char nl = '\n';
-void solve()
-{
-    long long int num;
-    cin >> num;
-    cout<<1<<" "<<num-1<<nl;
-}
 
-int main()
-{
-    ios_base::sync_with_stdio(false);
-    cin.tie(NULL);
-    int T = 1;
-    cin >> T;
-    while (T--)
-    {
-        solve();
-    }
-    return 0;
+typedef long double ld;
+typedef long long ll;
+typedef pair<int,int> pii;
+typedef pair<ll,ll> pll;
+typedef pair<double,double> pdd;
+typedef vector<int> vi;
+typedef vector<ll> vll;
+typedef vector<double> vd;
+typedef vector<ld> vld;
+
+#define FOR(a,b) for(int i=a;i<b;i++)
+#define SORT(v) sort(v.begin(), v.end())
+#define pb push_back
+
+int main() {
+	ll t,x;
+	
+	cin>>t;
+		
+	while(t--){
+		cin>>x;
+		cout << 1 << " " << x-1 << endl;	
+	}
+	
+	return 0;
 }
