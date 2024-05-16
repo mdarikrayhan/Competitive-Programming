@@ -1,20 +1,58 @@
-#include<bits/stdc++.h>
+#include <iostream>
+#include <vector>
+#include <algorithm>
+#include <map>
 
 using namespace std;
 
-int main()
+int gcd(int a, int b)
 {
-	int t;
-	cin>>t;
-	while(t--){
-		int n;
-		cin>>n;
-		vector<int> a(n);
-		for(int& x:a){
-			cin>>x;
-		}
-		int g=0;
-		for(int i=1;i<n;i++) g = __gcd(abs(a[i]-a[i-1]), g);
-		cout<<(g==0?-1:g)<<endl; 
-	}
+    if (a == 0) return b;
+    return gcd(b%a, a);
+}
+
+
+int main(){
+    int T;
+    cin >> T;
+
+    while(T--){
+        int N;
+        cin >> N;
+
+        vector<int> v(N);
+        for(int i = 0; i < N; i++) cin >> v[i];
+
+        vector<int> aux;
+
+        map<int,int> m;
+
+        for(int i = 0; i < N; i++){
+            if(m.count(v[i]) == 0){
+                aux.push_back(v[i]);
+                m[v[i]] = 1;
+            }
+        }
+
+        if(aux.size() == 1){
+            cout << -1 << "\n";
+            continue;
+        }
+
+        sort(aux.begin(),aux.end());
+
+        vector<int> d;
+
+        for(int i = 1; i < aux.size(); i++){
+            //cout << aux[i] - aux[0] << "\n";
+            d.push_back(aux[i]-aux[0]);
+        }
+
+        int ans = d[0];
+        for(int i = 1; i < d.size(); i++){
+            ans = gcd(ans,d[i]);
+        }
+
+        cout << ans << "\n";
+    }
 }
