@@ -32245,6 +32245,23 @@
     ],
     "timestamp": "May/17/2024 03:37"
   },
+  "CF261257081": {
+    "contest_id": 1826,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1826/B.cpp",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Lunatic Never Content",
+    "problem_url": "https://codeforces.com/contest/1826/problem/B",
+    "submission_id": "CF261257081",
+    "submission_url": "https://codeforces.com/contest/1826/submission/261257081",
+    "tags": [
+      "math",
+      "number theory",
+      "*1100"
+    ],
+    "timestamp": "May/17/2024 04:19"
+  },
   "CF261257092": {
     "contest_id": 1674,
     "language": "C++20 (GCC 13-64)",
