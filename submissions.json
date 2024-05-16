@@ -21977,6 +21977,22 @@
     ],
     "timestamp": "Feb/16/2024 02:59"
   },
+  "CF261138111": {
+    "contest_id": 1794,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1794/A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Prefix and Suffix Array",
+    "problem_url": "https://codeforces.com/contest/1794/problem/A",
+    "submission_id": "CF261138111",
+    "submission_url": "https://codeforces.com/contest/1794/submission/261138111",
+    "tags": [
+      "strings",
+      "*800"
+    ],
+    "timestamp": "May/16/2024 10:04"
+  },
   "CF261138127": {
     "contest_id": 1433,
     "language": "C++20 (GCC 13-64)",
