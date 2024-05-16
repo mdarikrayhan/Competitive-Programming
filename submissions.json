@@ -33677,6 +33677,22 @@
     ],
     "timestamp": "May/17/2024 05:34"
   },
+  "CF261259996": {
+    "contest_id": 47,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/47/B.cpp",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Coins",
+    "problem_url": "https://codeforces.com/contest/47/problem/B",
+    "submission_id": "CF261259996",
+    "submission_url": "https://codeforces.com/contest/47/submission/261259996",
+    "tags": [
+      "implementation",
+      "*1200"
+    ],
+    "timestamp": "May/17/2024 05:35"
+  },
   "CF261260685": {
     "contest_id": 1444,
     "language": "C++20 (GCC 13-64)",
