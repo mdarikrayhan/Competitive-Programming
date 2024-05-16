@@ -33519,6 +33519,25 @@
     ],
     "timestamp": "May/17/2024 05:27"
   },
+  "CF261259777": {
+    "contest_id": 1601,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1601/A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Array Elimination",
+    "problem_url": "https://codeforces.com/contest/1601/problem/A",
+    "submission_id": "CF261259777",
+    "submission_url": "https://codeforces.com/contest/1601/submission/261259777",
+    "tags": [
+      "bitmasks",
+      "greedy",
+      "math",
+      "number theory",
+      "*1300"
+    ],
+    "timestamp": "May/17/2024 05:28"
+  },
   "CF261259789": {
     "contest_id": 1646,
     "language": "C++20 (GCC 13-64)",
