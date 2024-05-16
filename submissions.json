@@ -32245,6 +32245,22 @@
     ],
     "timestamp": "May/17/2024 03:37"
   },
+  "CF261256926": {
+    "contest_id": 1263,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1263/A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Sweet Problem",
+    "problem_url": "https://codeforces.com/contest/1263/problem/A",
+    "submission_id": "CF261256926",
+    "submission_url": "https://codeforces.com/contest/1263/submission/261256926",
+    "tags": [
+      "math",
+      "*1100"
+    ],
+    "timestamp": "May/17/2024 04:16"
+  },
   "CF261256936": {
     "contest_id": 1312,
     "language": "C++20 (GCC 13-64)",
