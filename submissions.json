@@ -28968,6 +28968,24 @@
     ],
     "timestamp": "May/16/2024 13:26"
   },
+  "CF261165831": {
+    "contest_id": 1499,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1499/A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Domino on Windowsill",
+    "problem_url": "https://codeforces.com/contest/1499/problem/A",
+    "submission_id": "CF261165831",
+    "submission_url": "https://codeforces.com/contest/1499/submission/261165831",
+    "tags": [
+      "combinatorics",
+      "constructive algorithms",
+      "math",
+      "*800"
+    ],
+    "timestamp": "May/16/2024 14:32"
+  },
   "CF261165859": {
     "contest_id": 1454,
     "language": "C++20 (GCC 13-64)",
