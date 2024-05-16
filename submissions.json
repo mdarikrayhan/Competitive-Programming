@@ -21977,6 +21977,24 @@
     ],
     "timestamp": "Feb/16/2024 02:59"
   },
+  "CF261259888": {
+    "contest_id": 987,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/987/C.cpp",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Three displays",
+    "problem_url": "https://codeforces.com/contest/987/problem/C",
+    "submission_id": "CF261259888",
+    "submission_url": "https://codeforces.com/contest/987/submission/261259888",
+    "tags": [
+      "brute force",
+      "dp",
+      "implementation",
+      "*1400"
+    ],
+    "timestamp": "May/17/2024 05:32"
+  },
   "CF261259900": {
     "contest_id": 1603,
     "language": "C++20 (GCC 13-64)",
