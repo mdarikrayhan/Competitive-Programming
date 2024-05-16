@@ -1,41 +1,28 @@
-#include <bits/stdc++.h>
-
-#define debug(...) fprintf(stderr ,__VA_ARGS__)
-#define __FILE(x)\
-	freopen(#x".in" ,"r" ,stdin);\
-	freopen(#x".out" ,"w" ,stdout)
-#define LL long long
-
-const int MX = 1e5 + 23;
-const LL MOD = 998244353;
-
-int read(){
-	char k = getchar(); int x = 0;
-	while(k < '0' || k > '9') k = getchar();
-	while(k >= '0' && k <= '9') x = x * 10 + k - '0' ,k = getchar();
-	return x;
-}
-
-int a[MX];
-void solve(){
-	int n = read() ,l = read() ,r = read();
-	int ok = 1;
-	for(int i = 1 ; i <= n ; ++i){
-		a[i] = ((l - 1) / i + 1) * i;
-		ok = ok && a[i] <= r;
-	}
-	if(ok){
-		puts("YES");
-		for(int i = 1 ; i <= n ; ++i)
-			printf("%d%c" ,a[i] ," \n"[i == n]);
-	}
-	else puts("NO");
-}
+#include<bits/stdc++.h>
+using namespace std;
 
 int main(){
-	int T = read();
-	for(int i = 1 ; i <= T ; ++i){
-		solve();
-	}
-	return 0;
+    int t;
+    cin>>t;
+    while(t--){
+        long long n,l,r;
+        cin>>n>>l>>r;
+        bool f=1;
+        vector<long long>ans;
+        for(long long i=1;i<=n;i++){
+            if(ceil((long double)l/(long double)i)<=(r/i)){
+                ans.push_back((long long)i*ceil((long double)l/(long double)i));
+            }else{
+                f=0;
+                break;
+            }
+        }
+        if(f){
+            cout<<"YES"<<endl;
+        for(auto x:ans) cout<<x<<" ";
+        cout<<endl;
+        }else{
+            cout<<"NO"<<endl;
+        }
+    }
 }
