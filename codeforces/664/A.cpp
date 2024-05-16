@@ -1,61 +1,285 @@
-/***************************************************/
-/*            Author : Md. Arik Rayhan             */
-/*        Github : github.com/mdarikrayhan         */
-/***************************************************/
-#include <bits/stdc++.h>
+#include <iostream>
+#include "bits/stdc++.h"
+
 using namespace std;
-const char nl = '\n';
 
-typedef long long ll;
-typedef long double ld;
-typedef complex<ld> cd;
-
-typedef pair<int, int> pi;
-typedef pair<ll,ll> pl;
-typedef pair<ld,ld> pd;
-
-typedef vector<int> vi;
-typedef vector<ld> vd;
-typedef vector<ll> vl;
-typedef vector<pi> vpi;
-typedef vector<pl> vpl;
-typedef vector<cd> vcd;
-
-#define rep(i,a,b) for (int i=a; i<(b); i++)
-#define per(i,a,b) for (int i = (b)-1; i >= a; i--)
-#define print_map(m) for (const auto &[key, value] : m){cout << '[' << key << ']' << ' ' << '=' << ' ' << value << '\n';}
-#define print_vector(v)int vadnfiv=0;for (const auto &value : v){cout <<vadnfiv<<' '<<value<< '\n';vadnfiv++;}
-#define gcd(a,b) __gcd(a,b)
-#define lcm(a,b) (a*(b/gcd(a,b)))
-
-#define start_time using std::chrono::duration;using std::chrono::duration_cast;using std::chrono::high_resolution_clock;using std::chrono::milliseconds;auto t1111 = high_resolution_clock::now();
-#define end_time auto t2222 = high_resolution_clock::now();duration<double, std::milli> ms_double = t2222 - t1111;std::cout << ms_double.count() << 'm'<<'s'<<nl;
-#define sz(x) (int)(x).size()
-#define mp make_pair
-#define pb push_back
-#define ff first
-#define ss second
-#define lb lower_bound
-#define ub upper_bound
+#define range(i, a, b) for(int (i) = a; (i) < (b); (i)++)
+#define int long long
+#define mod 1000000007
+//#define mod 998244353
+//#define infinity LONG_LONG_MAX
+#define infinity 9999999999999
+#define yes "yes"
+#define no "no"
+#define No "No"
+#define Yes "Yes"
+#define YES "YES"
+#define NO "NO"
+#define ten_6 1000000
 #define all(x) x.begin(), x.end()
-#define ins insert
-#define fastio ios_base::sync_with_stdio(false);cin.tie(NULL);cout.tie(NULL);
-#define multicase int NoOfTestCase = 1;cin >> NoOfTestCase;for(int testcaseno=1;testcaseno<=NoOfTestCase;testcaseno++)
-bool isPrime(int n){if (n == 2 || n == 3){return true;}if (n <= 1 || n % 2 == 0 || n % 3 == 0){return false;}for (int i = 5; i * i <= n; i += 6){if (n % i == 0 || n % (i + 2) == 0){return false;}}return true;}
-bool isPalindrome(string S){string P = S;reverse(P.begin(), P.end());if (S == P) {return true;}else {return false;}}
-bool isPowerof(long long num, long long base){if (num <= 0){return false;}if (num % base == 0){return isPowerof(num / base, base);}if (num == 1){return true;}return false;}
 
-template<class T> bool ckmin(T& a, const T& b) { return b < a ? a = b, 1 : 0; }
-template<class T> bool ckmax(T& a, const T& b) { return a < b ? a = b, 1 : 0; }
 
-int main() {
-string a,b;
-cin>>a>>b;
-if(a==b){
-    cout<<a<<nl;
+// TREE OF 11 edges 11 1 2 1 3 1 4 2 5 3 6 6 9 3 7 7 10 7 11 4 8
+void print() {
+    cout << "\n";
 }
-else{
-    cout<<1<<nl;
+
+void print(string s) {
+    cout << s << '\n';
 }
-return 0;
+
+void print(double x) {
+    cout << x << '\n';
+}
+
+void print(int a) {
+    cout << a << '\n';
+}
+
+void print(pair<int, int> p) {
+    cout << "(" << p.first << ", " << p.second << "), ";
+}
+
+void print(int A[], int N) {
+    range(i, 0, N) cout << A[i] << ' ';
+    cout << '\n';
+}
+
+void print(bool A[], int N) {
+    range(i, 0, N) cout << A[i] << ' ';
+    cout << '\n';
+}
+
+void print(const vector<int> &v, int length) {
+    for (int x: v) {
+        cout << x << ' ';
+        length--;
+        if (length < 0) break;
+    }
+    cout << '\n';
+}
+
+void print(const vector<int> &v) {
+    for (int x: v) cout << x << ' ';
+    cout << '\n';
+}
+
+void print(const vector<string> &v) {
+    for (string x: v) cout << x << '\n';
+    cout << "\n\n\n";
+}
+
+void print(const vector<bool> &v) {
+    for (bool x: v) cout << x << ' ';
+    cout << '\n';
+}
+
+void print(const vector<vector<int>> &v) {
+    for (const auto &x: v) {
+        print(x);
+    }
+}
+
+void print(const vector<pair<int, int>> &v) {
+    for (auto it: v) {
+        print(it);
+        cout << ' ';
+    }
+    cout << "\n";
+}
+
+void print(const map<int, int> &mp) {
+    cout << "{";
+    for (auto it: mp) cout << it.first << ": " << it.second << ", ";
+    cout << "}\n";
+}
+
+void print(pair<int, int> A[], int N) {
+    range(i, 0, N) {
+        cout << "(" << A[i].first << ", " << A[i].second << ") ";
+    }
+    cout << '\n';
+}
+
+void print(const multiset<int> &st) {
+    for (int i: st) cout << i << ' ';
+    cout << '\n';
+}
+
+void print(const set<int> &st) {
+    for (int i: st) cout << i << ' ';
+    cout << '\n';
+}
+
+void print(const unordered_set<int> &st) {
+    for (int i: st) cout << i << ' ';
+    cout << '\n';
+}
+
+void print(queue<int> q) {
+    for (size_t i = 0; i < q.size(); i++) {
+        cout << q.front() << ' ';
+        q.push(q.front());
+        q.pop();
+    }
+    print();
+}
+
+
+void print(map<pair<int, int>, int> mp) {
+    cout << "{";
+    for (auto it: mp) cout << '(' << it.first.first << ", " << it.first.second << ")" << ": " << it.second << ", ";
+    cout << "}\n";
+}
+
+int power(int x, int y, int p) {
+    int res = 1;
+    x = x % p;
+    if (x == 0) return 0;
+    while (y > 0) {
+        if (y & 1)
+            res = (res * x) % p;
+        y = y >> 1;
+        x = (x * x) % p;
+    }
+    return res;
+}
+
+int gcd(int a, int b) {
+    return b == 0 ? a : gcd(b, a % b);
+}
+
+long long multiply_mod(long long a, long long b) {
+    long long res = 0;
+    a %= mod;
+    while (b) {
+        if (b & 1)
+            res = (res + a) % mod;
+        a = (2 * a) % mod;
+
+        b >>= 1;
+    }
+    return res;
+}
+
+int get_digit_sum(int x) {
+    int ans = 0;
+    while (x) {
+        ans += (x % 10);
+        x /= 10;
+    }
+    return ans;
+}
+
+int input() {
+    int x;
+    cin >> x;
+    return x;
+}
+
+int chut() {
+    int x;
+    cin >> x;
+    return x;
+}
+
+string read() {
+    string s;
+    cin >> s;
+    return s;
+}
+
+vector<int> read_vector(int len) {
+    vector<int> temp(len);
+    range(i, 0, len) cin >> temp[i];
+    return temp;
+}
+
+vector<int> spf;
+
+void sieve(int MAXN) {
+    spf.resize(MAXN);
+    spf[1] = 1;
+    for (int i = 2; i < MAXN; i++)
+        spf[i] = i;
+    for (int i = 4; i < MAXN; i += 2)
+        spf[i] = 2;
+
+    for (int i = 3; i * i < MAXN; i++) {
+        if (spf[i] == i) {
+            for (int j = i * i; j < MAXN; j += i)
+                if (spf[j] == j)
+                    spf[j] = i;
+        }
+    }
+}
+
+int inverse(int x, int p) {
+    return power(x, p - 2, p);
+}
+
+
+int n, m, k;
+vector<int> arr;
+vector<int> *adj;
+
+
+int f(int x){
+    int i = 1;
+    while(true){
+        if (x % i != 0) return i;
+        i++;
+    }
+}
+
+
+bool composite(int x)
+{
+    for(int i = 2; i * i <= x; i++){
+        if (x % i == 0) return true;
+    }
+    return false;
+}
+
+void solve() {
+
+
+    string s = read(), t = read();
+    if (s == t){
+        print(s);
+    }else{
+        print((int)1);
+    }
+
+
+
+
+
+
+
+}
+
+
+int32_t main() {
+//    ios_base::sync_with_stdio(false);
+//    cin.tie(nullptr);
+
+
+#ifndef ONLINE_JUDGE
+    freopen("../input.txt", "r", stdin);
+    freopen("../output.txt", "w", stdout);
+#endif
+
+
+    int T = 1;
+
+//    cin >> T;
+
+
+    while (T--) {
+        solve();
+    }
+
+
+    return 0;
 }
