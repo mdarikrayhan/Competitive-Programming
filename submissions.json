@@ -32245,6 +32245,25 @@
     ],
     "timestamp": "May/17/2024 03:37"
   },
+  "CF261257480": {
+    "contest_id": 1486,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1486/B.cpp",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Eastern Exhibition",
+    "problem_url": "https://codeforces.com/contest/1486/problem/B",
+    "submission_id": "CF261257480",
+    "submission_url": "https://codeforces.com/contest/1486/submission/261257480",
+    "tags": [
+      "binary search",
+      "geometry",
+      "shortest paths",
+      "sortings",
+      "*1500"
+    ],
+    "timestamp": "May/17/2024 04:29"
+  },
   "CF261257498": {
     "contest_id": 1592,
     "language": "C++20 (GCC 13-64)",
