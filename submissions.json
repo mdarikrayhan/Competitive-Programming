@@ -27580,6 +27580,25 @@
     ],
     "timestamp": "May/16/2024 10:25"
   },
+  "CF261150846": {
+    "contest_id": 1728,
+    "language": "C++17 (GCC 7-32)",
+    "path": "codeforces/1728/A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Colored Balls: Revisited",
+    "problem_url": "https://codeforces.com/contest/1728/problem/A",
+    "submission_id": "CF261150846",
+    "submission_url": "https://codeforces.com/contest/1728/submission/261150846",
+    "tags": [
+      "brute force",
+      "greedy",
+      "implementation",
+      "sortings",
+      "*800"
+    ],
+    "timestamp": "May/16/2024 12:22"
+  },
   "CF261150873": {
     "contest_id": 1722,
     "language": "C++17 (GCC 7-32)",
