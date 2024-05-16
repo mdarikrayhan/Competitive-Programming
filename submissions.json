@@ -21977,6 +21977,24 @@
     ],
     "timestamp": "Feb/16/2024 02:59"
   },
+  "CF261135401": {
+    "contest_id": 1886,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1886/A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Sum of Three",
+    "problem_url": "https://codeforces.com/contest/1886/problem/A",
+    "submission_id": "CF261135401",
+    "submission_url": "https://codeforces.com/contest/1886/submission/261135401",
+    "tags": [
+      "brute force",
+      "constructive algorithms",
+      "math",
+      "*800"
+    ],
+    "timestamp": "May/16/2024 09:29"
+  },
   "CF261135442": {
     "contest_id": 1882,
     "language": "C++20 (GCC 13-64)",
