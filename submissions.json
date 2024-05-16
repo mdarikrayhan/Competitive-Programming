@@ -27580,6 +27580,26 @@
     ],
     "timestamp": "May/16/2024 10:25"
   },
+  "CF261151060": {
+    "contest_id": 1720,
+    "language": "C++17 (GCC 7-32)",
+    "path": "codeforces/1720/B.cpp",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Interesting Sum",
+    "problem_url": "https://codeforces.com/contest/1720/problem/B",
+    "submission_id": "CF261151060",
+    "submission_url": "https://codeforces.com/contest/1720/submission/261151060",
+    "tags": [
+      "brute force",
+      "data structures",
+      "greedy",
+      "math",
+      "sortings",
+      "*800"
+    ],
+    "timestamp": "May/16/2024 12:24"
+  },
   "CF261151083": {
     "contest_id": 1719,
     "language": "C++17 (GCC 7-32)",
