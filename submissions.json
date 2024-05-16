@@ -21977,6 +21977,23 @@
     ],
     "timestamp": "Feb/16/2024 02:59"
   },
+  "CF261259268": {
+    "contest_id": 1165,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1165/A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Remainder",
+    "problem_url": "https://codeforces.com/contest/1165/problem/A",
+    "submission_id": "CF261259268",
+    "submission_url": "https://codeforces.com/contest/1165/submission/261259268",
+    "tags": [
+      "implementation",
+      "math",
+      "*1100"
+    ],
+    "timestamp": "May/17/2024 05:14"
+  },
   "CF261259276": {
     "contest_id": 298,
     "language": "C++20 (GCC 13-64)",
