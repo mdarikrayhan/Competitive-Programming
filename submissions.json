@@ -27932,6 +27932,24 @@
     ],
     "timestamp": "May/16/2024 12:42"
   },
+  "CF261155566": {
+    "contest_id": 1220,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1220/A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Cards",
+    "problem_url": "https://codeforces.com/contest/1220/problem/A",
+    "submission_id": "CF261155566",
+    "submission_url": "https://codeforces.com/contest/1220/submission/261155566",
+    "tags": [
+      "implementation",
+      "sortings",
+      "strings",
+      "*800"
+    ],
+    "timestamp": "May/16/2024 13:05"
+  },
   "CF261155767": {
     "contest_id": 479,
     "language": "C++20 (GCC 13-64)",
