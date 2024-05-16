@@ -32245,6 +32245,23 @@
     ],
     "timestamp": "May/17/2024 03:37"
   },
+  "CF261257314": {
+    "contest_id": 1203,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1203/B.cpp",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Equal Rectangles",
+    "problem_url": "https://codeforces.com/contest/1203/problem/B",
+    "submission_id": "CF261257314",
+    "submission_url": "https://codeforces.com/contest/1203/submission/261257314",
+    "tags": [
+      "greedy",
+      "math",
+      "*1200"
+    ],
+    "timestamp": "May/17/2024 04:25"
+  },
   "CF261257332": {
     "contest_id": 1443,
     "language": "C++20 (GCC 13-64)",
