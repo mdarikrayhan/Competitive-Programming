@@ -21977,6 +21977,23 @@
     ],
     "timestamp": "Feb/16/2024 02:59"
   },
+  "CF261136372": {
+    "contest_id": 1847,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1847/A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "The Man who became a God ",
+    "problem_url": "https://codeforces.com/contest/1847/problem/A",
+    "submission_id": "CF261136372",
+    "submission_url": "https://codeforces.com/contest/1847/submission/261136372",
+    "tags": [
+      "greedy",
+      "sortings",
+      "*800"
+    ],
+    "timestamp": "May/16/2024 09:41"
+  },
   "CF261136396": {
     "contest_id": 1845,
     "language": "C++20 (GCC 13-64)",
