@@ -1,12 +1,14 @@
-/***************************************************/
-/*https://codeforces.com/problemset/problem/1626/A */
-/*            Author : Md. Arik Rayhan             */
-/*        Github : github.com/mdarikrayhan         */
-/***************************************************/
-#include <bits/stdc++.h>
+#include<iostream>
+#include<vector>
+#include<algorithm>
+#include<string>
+#include<climits>
+#include<cmath>
+#define ll long long int
 using namespace std;
-int main(){
-    int t;
+int main()
+{
+    ll t;
     cin>>t;
     while(t--){
         string s;
@@ -14,4 +16,5 @@ int main(){
         sort(s.begin(),s.end());
         cout<<s<<endl;
     }
+    return 0;
 }
