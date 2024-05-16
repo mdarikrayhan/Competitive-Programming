@@ -1,159 +1,81 @@
-/***************************************************/
-/*            Author : Md. Arik Rayhan             */
-/*        Github : github.com/mdarikrayhan         */
-/***************************************************/
-#include <bits/stdc++.h>
+#include<bits/stdc++.h>
+#include <ext/pb_ds/assoc_container.hpp>
+#include <ext/pb_ds/tree_policy.hpp>
 using namespace std;
-const char nl = '\n';
-
-typedef long long ll;
+using namespace __gnu_pbds;
+ 
+typedef long long int ll;
 typedef long double ld;
-typedef complex<ld> cd;
-
-typedef pair<int, int> pi;
-typedef pair<ll, ll> pl;
-typedef pair<ld, ld> pd;
-
-typedef vector<int> vi;
-typedef vector<ld> vd;
-typedef vector<ll> vl;
-typedef vector<pi> vpi;
-typedef vector<pl> vpl;
-typedef vector<cd> vcd;
-
-#define rep(i, a, b) for (int i = a; i < (b); i++)
-#define per(i, a, b) for (int i = (b)-1; i >= a; i--)
-#define print_map(m)                                                     \
-    for (const auto &[key, value] : m)                                   \
-    {                                                                    \
-        cout << '[' << key << ']' << ' ' << '=' << ' ' << value << '\n'; \
-    }
-#define print_vector(v)                          \
-    int vadnfiv = 0;                             \
-    for (const auto &value : v)                  \
-    {                                            \
-        cout << vadnfiv << ' ' << value << '\n'; \
-        vadnfiv++;                               \
-    }
-#define gcd(a, b) __gcd(a, b)
-#define lcm(a, b) (a * (b / gcd(a, b)))
-
-#define start_time                            \
-    using std::chrono::duration;              \
-    using std::chrono::duration_cast;         \
-    using std::chrono::high_resolution_clock; \
-    using std::chrono::milliseconds;          \
-    auto t1111 = high_resolution_clock::now();
-#define end_time                                            \
-    auto t2222 = high_resolution_clock::now();              \
-    duration<double, std::milli> ms_double = t2222 - t1111; \
-    std::cout << ms_double.count() << 'm' << 's' << nl;
-#define sz(x) (int)(x).size()
-#define mp make_pair
+ 
+#define fast ios::sync_with_stdio(0), cin.tie(0),cout.tie(0)
 #define pb push_back
-#define ff first
-#define ss second
-#define lb lower_bound
-#define ub upper_bound
-#define all(x) x.begin(), x.end()
-#define ins insert
-#define fastio                        \
-    ios_base::sync_with_stdio(false); \
-    cin.tie(NULL);                    \
-    cout.tie(NULL);
-#define multicase         \
-    int NoOfTestCase = 1; \
-    cin >> NoOfTestCase;  \
-    for (int testcaseno = 1; testcaseno <= NoOfTestCase; testcaseno++)
-bool isPrime(int n)
+#define mp(x,y) make_pair(x,y)
+#define pi  3.141592653589793238462643383279502884L
+#define size(x) x.size()
+#define endl "\n"
+#define all(x) x.begin(),x.end()
+#define allr(x) x.rbegin(),x.rend()
+#define yes cout << "YES" << endl;
+#define no cout<<"NO"<<endl;
+#define f first
+#define s second
+ll lcm(ll a , ll b) {return (a * b) / __gcd(a , b);}
+#define ordered_set tree<int,null_type,less<int>,rb_tree_tag,tree_order_statistics_node_update>
+const ll N=2e5+10;
+const ll INF = 1e18 ;
+const ll MIN = -1e18 ;
+const ll MOD = 1000000007;
+const ll MAX = 1000001;
+const ll P=9973;
+
+
+
+
+
+
+
+
+void solve()
 {
-    if (n == 2 || n == 3)
+    ll n;
+    cin>>n;
+    vector<ll>v(n);
+    for(int i=0;i<n;i++)
     {
-        return true;
+        cin>>v[i];
     }
-    if (n <= 1 || n % 2 == 0 || n % 3 == 0)
+    sort(allr(v));
+    ll m;
+    cin>>m;
+    vector<ll>b(m);
+    for(int i=0;i<m;i++)
     {
-        return false;
+        cin>>b[i];
     }
-    for (int i = 5; i * i <= n; i += 6)
+    sort(allr(b));
+    if(v[0]>=b[0])
     {
-        if (n % i == 0 || n % (i + 2) == 0)
-        {
-            return false;
-        }
+        cout<<"Alice"<<endl;
     }
-    return true;
-}
-bool isPalindrome(string S)
-{
-    string P = S;
-    reverse(P.begin(), P.end());
-    if (S == P)
+    else cout<<"Bob"<<endl;
+    if(b[0]>=v[0])
     {
-        return true;
+        cout<<"Bob"<<endl;
     }
     else
     {
-        return false;
+        cout<<"Alice"<<endl;
     }
-}
-bool isPowerof(long long num, long long base)
-{
-    if (num <= 0)
-    {
-        return false;
-    }
-    if (num % base == 0)
-    {
-        return isPowerof(num / base, base);
-    }
-    if (num == 1)
-    {
-        return true;
-    }
-    return false;
-}
 
-template <class T>
-bool ckmin(T &a, const T &b) { return b < a ? a = b, 1 : 0; }
-template <class T>
-bool ckmax(T &a, const T &b) { return a < b ? a = b, 1 : 0; }
+}
 
 int main()
 {
-    fastio
-        multicase
+    fast;
+    ll t=1;
+    cin>>t;
+    while(t--)
     {
-        long long a, b;
-        cin >> a;
-        ll arr[a];
-        for (int i = 0; i < a; i++)
-        {
-            cin >> arr[i];
-        }
-        cin >> b;
-        ll brr[b];
-        for (int i = 0; i < b; i++)
-        {
-            cin >> brr[i];
-        }
-        sort(arr, arr + a, greater<int>());
-        sort(brr, brr + b, greater<int>());
-        if (arr[0] > brr[0])
-        {
-            cout << "Alice" << nl;
-            cout<<"Alice"<<nl;
-        }
-        else if (arr[0] < brr[0])
-        {
-            cout << "Bob" << nl;
-            cout<<"Bob"<<nl;
-        }
-        else
-        {
-            cout << "Alice" << nl;
-            cout<<"Bob"<<nl;
-        }
+        solve();
     }
-    return 0;
 }
