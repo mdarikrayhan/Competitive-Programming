@@ -21977,6 +21977,24 @@
     ],
     "timestamp": "Feb/16/2024 02:59"
   },
+  "CF261135730": {
+    "contest_id": 1872,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1872/A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Two Vessels",
+    "problem_url": "https://codeforces.com/contest/1872/problem/A",
+    "submission_id": "CF261135730",
+    "submission_url": "https://codeforces.com/contest/1872/submission/261135730",
+    "tags": [
+      "brute force",
+      "greedy",
+      "math",
+      "*800"
+    ],
+    "timestamp": "May/16/2024 09:33"
+  },
   "CF261135757": {
     "contest_id": 1862,
     "language": "C++20 (GCC 13-64)",
