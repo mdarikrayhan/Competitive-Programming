@@ -1,27 +1,36 @@
-#include <bits/stdc++.h>
+#include<bits/stdc++.h>
 using namespace std;
-const char nl = '\n';
+#define mod 1000000007
+#define IOS ios::sync_with_stdio(0),cin.tie(0)
+typedef long long ll; 
+typedef pair<ll,ll> p;
+const int N=2e5+5;
 int main()
 {
-    ios_base::sync_with_stdio(false);
-    cin.tie(NULL);
-    cout.tie(NULL);
-    int T = 1;
-    cin >> T;
-    for (int i = 1; i <= T; i++)
+    IOS;
+    ll t;
+    cin>>t;
+    while(t--)
     {
-        long long x, y, ans = 0;
-        cin >> x >> y;
-        ans = ((x - y) + (x - 1 - y) + 1);
-        vector<long long> ansv;
-        for (long long i = y + 1; i <= x; i++)
-            ansv.push_back(i);
-        for (long long i = x - 1; i >= y; i--)
-            ansv.push_back(i);
-        cout << ans << nl;
-        for (auto it : ansv)
-            cout << it << " ";
-        cout << nl;
+        ll a,b;
+        cin>>a>>b;
+        if(a==b)
+        {
+            cout<<1<<'\n';
+            cout<<a<<'\n';
+            continue;
+        }
+        cout<<(a-b)*2<<'\n';
+        
+        for(int i=b;i<=a;i++)
+        {
+            cout<<i<<' ';
+        }
+        for(int i=a-1;i>b;i--)
+        {
+            cout<<i<<' ';
+        }
+        
+        cout<<'\n';
     }
-    return 0;
 }
