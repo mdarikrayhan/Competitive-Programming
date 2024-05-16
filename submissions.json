@@ -21977,6 +21977,23 @@
     ],
     "timestamp": "Feb/16/2024 02:59"
   },
+  "CF261138892": {
+    "contest_id": 1787,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1787/A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Exponential Equation",
+    "problem_url": "https://codeforces.com/contest/1787/problem/A",
+    "submission_id": "CF261138892",
+    "submission_url": "https://codeforces.com/contest/1787/submission/261138892",
+    "tags": [
+      "constructive algorithms",
+      "math",
+      "*800"
+    ],
+    "timestamp": "May/16/2024 10:14"
+  },
   "CF261138910": {
     "contest_id": 1760,
     "language": "C++20 (GCC 13-64)",
