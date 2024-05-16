@@ -21977,6 +21977,24 @@
     ],
     "timestamp": "Feb/16/2024 02:59"
   },
+  "CF261259390": {
+    "contest_id": 1838,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1838/C.cpp",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "No Prime Differences",
+    "problem_url": "https://codeforces.com/contest/1838/problem/C",
+    "submission_id": "CF261259390",
+    "submission_url": "https://codeforces.com/contest/1838/submission/261259390",
+    "tags": [
+      "constructive algorithms",
+      "math",
+      "number theory",
+      "*1400"
+    ],
+    "timestamp": "May/17/2024 05:17"
+  },
   "CF261259393": {
     "contest_id": 1270,
     "language": "C++20 (GCC 13-64)",
