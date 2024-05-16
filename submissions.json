@@ -21977,6 +21977,24 @@
     ],
     "timestamp": "Feb/16/2024 02:59"
   },
+  "CF261135534": {
+    "contest_id": 1884,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1884/A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Simple Design",
+    "problem_url": "https://codeforces.com/contest/1884/problem/A",
+    "submission_id": "CF261135534",
+    "submission_url": "https://codeforces.com/contest/1884/submission/261135534",
+    "tags": [
+      "brute force",
+      "greedy",
+      "math",
+      "*800"
+    ],
+    "timestamp": "May/16/2024 09:31"
+  },
   "CF261135554": {
     "contest_id": 1883,
     "language": "C++20 (GCC 13-64)",
