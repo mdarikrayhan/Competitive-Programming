@@ -33677,6 +33677,23 @@
     ],
     "timestamp": "May/17/2024 05:34"
   },
+  "CF261263873": {
+    "contest_id": 1068,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1068/B.cpp",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "LCM",
+    "problem_url": "https://codeforces.com/contest/1068/problem/B",
+    "submission_id": "CF261263873",
+    "submission_url": "https://codeforces.com/contest/1068/submission/261263873",
+    "tags": [
+      "math",
+      "number theory",
+      "*1200"
+    ],
+    "timestamp": "May/17/2024 07:25"
+  },
   "CF261263880": {
     "contest_id": 1032,
     "language": "C++20 (GCC 13-64)",
