@@ -23393,6 +23393,21 @@
     ],
     "timestamp": "May/17/2024 08:26"
   },
+  "CF261268390": {
+    "contest_id": 1952,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1952/B.cpp",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Is it stated?",
+    "problem_url": "https://codeforces.com/contest/1952/problem/B",
+    "submission_id": "CF261268390",
+    "submission_url": "https://codeforces.com/contest/1952/submission/261268390",
+    "tags": [
+      "strings"
+    ],
+    "timestamp": "May/17/2024 09:00"
+  },
   "CF261268477": {
     "contest_id": 598,
     "language": "C++20 (GCC 13-64)",
