@@ -23393,6 +23393,23 @@
     ],
     "timestamp": "May/17/2024 08:26"
   },
+  "CF261268666": {
+    "contest_id": 484,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/484/A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Bits",
+    "problem_url": "https://codeforces.com/contest/484/problem/A",
+    "submission_id": "CF261268666",
+    "submission_url": "https://codeforces.com/contest/484/submission/261268666",
+    "tags": [
+      "bitmasks",
+      "constructive algorithms",
+      "*1700"
+    ],
+    "timestamp": "May/17/2024 09:05"
+  },
   "CF261268744": {
     "contest_id": 1065,
     "language": "C++20 (GCC 13-64)",
