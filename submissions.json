@@ -37971,6 +37971,22 @@
     ],
     "timestamp": "May/17/2024 09:48"
   },
+  "CF261271823": {
+    "contest_id": 453,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/453/A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Little Pony and Expected Maximum",
+    "problem_url": "https://codeforces.com/contest/453/problem/A",
+    "submission_id": "CF261271823",
+    "submission_url": "https://codeforces.com/contest/453/submission/261271823",
+    "tags": [
+      "probabilities",
+      "*1600"
+    ],
+    "timestamp": "May/17/2024 09:55"
+  },
   "CF261271840": {
     "contest_id": 1550,
     "language": "C++20 (GCC 13-64)",
