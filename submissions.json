@@ -21977,6 +21977,25 @@
     ],
     "timestamp": "Feb/16/2024 02:59"
   },
+  "CF261264924": {
+    "contest_id": 1516,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1516/C.cpp",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Baby Ehab Partitions Again",
+    "problem_url": "https://codeforces.com/contest/1516/problem/C",
+    "submission_id": "CF261264924",
+    "submission_url": "https://codeforces.com/contest/1516/submission/261264924",
+    "tags": [
+      "bitmasks",
+      "constructive algorithms",
+      "dp",
+      "math",
+      "*1700"
+    ],
+    "timestamp": "May/17/2024 07:49"
+  },
   "CF261264967": {
     "contest_id": 1811,
     "language": "C++20 (GCC 13-64)",
