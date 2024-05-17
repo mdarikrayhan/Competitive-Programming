@@ -23393,6 +23393,25 @@
     ],
     "timestamp": "May/17/2024 08:26"
   },
+  "CF261269950": {
+    "contest_id": 1965,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1965/A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Everything Nim",
+    "problem_url": "https://codeforces.com/contest/1965/problem/A",
+    "submission_id": "CF261269950",
+    "submission_url": "https://codeforces.com/contest/1965/submission/261269950",
+    "tags": [
+      "games",
+      "greedy",
+      "math",
+      "sortings",
+      "*1400"
+    ],
+    "timestamp": "May/17/2024 09:25"
+  },
   "CF261270083": {
     "contest_id": 1355,
     "language": "C++20 (GCC 13-64)",
