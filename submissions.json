@@ -21977,6 +21977,22 @@
     ],
     "timestamp": "Feb/16/2024 02:59"
   },
+  "CF261265418": {
+    "contest_id": 545,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/545/B.cpp",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Equidistant String",
+    "problem_url": "https://codeforces.com/contest/545/problem/B",
+    "submission_id": "CF261265418",
+    "submission_url": "https://codeforces.com/contest/545/submission/261265418",
+    "tags": [
+      "greedy",
+      "*1100"
+    ],
+    "timestamp": "May/17/2024 07:59"
+  },
   "CF261265436": {
     "contest_id": 1952,
     "language": "C++20 (GCC 13-64)",
