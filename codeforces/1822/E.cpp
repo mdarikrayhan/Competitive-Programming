@@ -1,201 +1,43 @@
-/***************************************************/
-/*            Author : Md. Arik Rayhan             */
-/*        Github : github.com/mdarikrayhan         */
-/***************************************************/
-#include <bits/stdc++.h>
-using namespace std;
-const char nl = '\n';
-
-typedef long long ll;
-typedef long double ld;
-typedef complex<ld> cd;
-
-typedef pair<int, int> pi;
-typedef pair<ll, ll> pl;
-typedef pair<ld, ld> pd;
-
-typedef vector<int> vi;
-typedef vector<ld> vd;
-typedef vector<ll> vl;
-typedef vector<pi> vpi;
-typedef vector<pl> vpl;
-typedef vector<cd> vcd;
-
-#define rep(i, a, b) for (int i = a; i < (b); i++)
-#define per(i, a, b) for (int i = (b)-1; i >= a; i--)
-#define print_map(m)                                                     \
-    for (const auto &[key, value] : m)                                   \
-    {                                                                    \
-        cout << '[' << key << ']' << ' ' << '=' << ' ' << value << '\n'; \
-    }
-#define print_vector(v)                          \
-    int vadnfiv = 0;                             \
-    for (const auto &value : v)                  \
-    {                                            \
-        cout << vadnfiv << ' ' << value << '\n'; \
-        vadnfiv++;                               \
-    }
-#define gcd(a, b) __gcd(a, b)
-#define lcm(a, b) (a * (b / gcd(a, b)))
-
-#define start_time                            \
-    using std::chrono::duration;              \
-    using std::chrono::duration_cast;         \
-    using std::chrono::high_resolution_clock; \
-    using std::chrono::milliseconds;          \
-    auto t1111 = high_resolution_clock::now();
-#define end_time                                            \
-    auto t2222 = high_resolution_clock::now();              \
-    duration<double, std::milli> ms_double = t2222 - t1111; \
-    std::cout << ms_double.count() << 'm' << 's' << nl;
-#define goodluck                               \
-    for (int arik = 0; arik < 9185319; arik++) \
-    {                                          \
-        string a = "arik";                     \
-        a.pop_back();                          \
-        a.pop_back();                          \
-        a.pop_back();                          \
-        a.pop_back();                          \
-    }
-#define sz(x) (int)(x).size()
-#define mp make_pair
+#include <bits/stdc++.h> 
+#define int long long
+#define all(c) begin(c), end(c)
+#define rall(c) rbegin(c), rend(c)
+#define SORT(c) sort(all(c))
+#define rSORT(c) sort(rall(c))
+#define f first
+#define s second
 #define pb push_back
-#define ff first
-#define ss second
-#define lb lower_bound
-#define ub upper_bound
-#define all(x) x.begin(), x.end()
-#define ins insert
-#define fastio                        \
-    ios_base::sync_with_stdio(false); \
-    cin.tie(NULL);                    \
-    cout.tie(NULL);
-#define multicase         \
-    int NoOfTestCase = 1; \
-    cin >> NoOfTestCase;  \
-    for (int testcaseno = 1; testcaseno <= NoOfTestCase; testcaseno++)
-bool isPrime(int n)
-{
-    if (n == 2 || n == 3)
-    {
-        return true;
-    }
-    if (n <= 1 || n % 2 == 0 || n % 3 == 0)
-    {
-        return false;
-    }
-    for (int i = 5; i * i <= n; i += 6)
-    {
-        if (n % i == 0 || n % (i + 2) == 0)
-        {
-            return false;
-        }
-    }
-    return true;
-}
-bool isPalindrome(string S)
-{
-    string P = S;
-    reverse(P.begin(), P.end());
-    if (S == P)
-    {
-        return true;
-    }
-    else
-    {
-        return false;
+#define endl "\n"
+using namespace std;
+void solve();
+int32_t main(){ios::sync_with_stdio(false);cin.tie(0);int t = 1;int i = 1;
+    cin >> t;
+    while(t--){//cout<<"_________________________________\n";cout<<"Test case Number: "<<i++<<endl<<endl;
+        solve();
     }
 }
-bool isPowerof(long long num, long long base)
-{
-    if (num <= 0)
-    {
-        return false;
+void solve(){
+    int n;cin >> n;
+    string s;cin >> s;
+    if(n % 2 == 1){cout << -1 << endl;return;}
+    vector<int> f(26,0);
+    vector<int> ff(26,0);
+    int sum = 0;
+    for(int i = 0;i<n;i++){
+        f[s[i] - 'a']++;
+        if(f[s[i] - 'a'] > n/2){cout << -1 << endl;return;}
+        if(i < n/2 and s[i] == s[n-i-1]){ff[s[i] - 'a']++;sum++;}
     }
-    if (num % base == 0)
-    {
-        return isPowerof(num / base, base);
-    }
-    if (num == 1)
-    {
-        return true;
-    }
-    return false;
-}
-
-template <class T>
-bool ckmin(T &a, const T &b) { return b < a ? a = b, 1 : 0; }
-template <class T>
-bool ckmax(T &a, const T &b) { return a < b ? a = b, 1 : 0; }
-
-int main()
-{
-    fastio
-        multicase
-    {
-        int n, ans = 0;
-        cin >> n;
-        string s, res;
-        cin >> s;
-        if (n & 1)
-        {
-            cout << -1 << nl;
-            continue;
-        }
-        unordered_map<char, int> m;
-        for (int i = 0; i < n; i++)
-        {
-            m[s[i]]++;
-        }
-        int max_freq = 0;
-        for (auto x : m)
-        {
-            max_freq = max(max_freq, x.second);
-        }
-        if (max_freq > n / 2)
-        {
-            cout << -1 << nl;
-            continue;
-        }
-        int cnt = 0;
-        for (int i = 0; i < n / 2; i++)
-        {
-            if (s[i] == s[n - i - 1])
-            {
-                cnt++;
-                res += s[i];
-            }
-        }
-        unordered_map<char, int> m2;
-        int n2 = res.size();
-        rep(i, 0, n2)
-        {
-            m2[res[i]]++;
-        }
-        int max_freq2 = 0;
-        for (auto x : m2)
-        {
-            max_freq2 = max(max_freq2, x.second);
-        }
-        int res2 = n2 - max_freq2;
-        if (res2 < max_freq2)
-        {
-            ans += res2;
-            max_freq2 -= res2;
-            ans += max_freq2;
-            cout << ans << nl;
-        }
-        else
-        {
-            if (cnt % 2 == 0)
-            {
-                cout << cnt / 2 << nl;
-            }
-            else
-            {
-                cout << cnt / 2 + 1 << nl;
-            }
+    if(sum == 0){cout << 0 << endl;return;}
+    int ans = 0;
+    for(int i = 0;i<26;i++){
+        if(ff[i] > sum/2){
+            int left = (sum - ff[i]);
+            ans += ff[i] - left;
+            ans += left;
+            cout << ans << endl;
+            return;
         }
     }
-    return 0;
+    cout << (sum + 1)/2  << endl;
 }
