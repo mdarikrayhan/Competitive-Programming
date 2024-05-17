@@ -21977,6 +21977,23 @@
     ],
     "timestamp": "Feb/16/2024 02:59"
   },
+  "CF261264892": {
+    "contest_id": 701,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/701/B.cpp",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Cells Not Under Attack",
+    "problem_url": "https://codeforces.com/contest/701/problem/B",
+    "submission_id": "CF261264892",
+    "submission_url": "https://codeforces.com/contest/701/submission/261264892",
+    "tags": [
+      "data structures",
+      "math",
+      "*1200"
+    ],
+    "timestamp": "May/17/2024 07:49"
+  },
   "CF261264924": {
     "contest_id": 1516,
     "language": "C++20 (GCC 13-64)",
