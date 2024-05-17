@@ -23393,6 +23393,24 @@
     ],
     "timestamp": "May/17/2024 08:26"
   },
+  "CF261294797": {
+    "contest_id": 769,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/769/B.cpp",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "News About Credit",
+    "problem_url": "https://codeforces.com/contest/769/problem/B",
+    "submission_id": "CF261294797",
+    "submission_url": "https://codeforces.com/contest/769/submission/261294797",
+    "tags": [
+      "*special problem",
+      "greedy",
+      "two pointers",
+      "*1200"
+    ],
+    "timestamp": "May/17/2024 13:46"
+  },
   "CF261294807": {
     "contest_id": 1221,
     "language": "C++20 (GCC 13-64)",
