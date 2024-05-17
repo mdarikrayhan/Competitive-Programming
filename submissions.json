@@ -21977,6 +21977,25 @@
     ],
     "timestamp": "Feb/16/2024 02:59"
   },
+  "CF261266648": {
+    "contest_id": 1843,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1843/E.cpp",
+    "platform": "Codeforces",
+    "problem_index": "E",
+    "problem_name": "Tracking Segments",
+    "problem_url": "https://codeforces.com/contest/1843/problem/E",
+    "submission_id": "CF261266648",
+    "submission_url": "https://codeforces.com/contest/1843/submission/261266648",
+    "tags": [
+      "binary search",
+      "brute force",
+      "data structures",
+      "two pointers",
+      "*1600"
+    ],
+    "timestamp": "May/17/2024 08:24"
+  },
   "CF261266665": {
     "contest_id": 1133,
     "language": "C++20 (GCC 13-64)",
