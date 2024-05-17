@@ -21977,6 +21977,23 @@
     ],
     "timestamp": "Feb/16/2024 02:59"
   },
+  "CF261265894": {
+    "contest_id": 1228,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1228/B.cpp",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Filling the Grid",
+    "problem_url": "https://codeforces.com/contest/1228/problem/B",
+    "submission_id": "CF261265894",
+    "submission_url": "https://codeforces.com/contest/1228/submission/261265894",
+    "tags": [
+      "implementation",
+      "math",
+      "*1400"
+    ],
+    "timestamp": "May/17/2024 08:10"
+  },
   "CF261265907": {
     "contest_id": 1850,
     "language": "C++20 (GCC 13-64)",
