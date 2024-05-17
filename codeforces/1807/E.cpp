@@ -1,84 +1,81 @@
-/***************************************************/
-/*            Author : Md. Arik Rayhan             */
-/*        Github : github.com/mdarikrayhan         */
-/***************************************************/
 #include <bits/stdc++.h>
+
 using namespace std;
-const char nl = '\n';
 
-typedef long long ll;
-typedef long double ld;
-typedef complex<ld> cd;
+template<typename A, typename B> ostream& operator<<(ostream &os, const pair<A, B> &p) { return os << '(' << p.first << ", " << p.second << ')'; }
+template<typename T_container, typename T = typename enable_if<!is_same<T_container, string>::value, typename T_container::value_type>::type> ostream& operator<<(ostream &os, const T_container &v) { os << '{'; string sep; for (const T &x : v) os << sep << x, sep = ", "; return os << '}'; }
+void dbg_out() { cerr << endl; }
+template<typename Head, typename... Tail> void dbg_out(Head H, Tail... T) { cerr << ' ' << H; dbg_out(T...); }
+#ifdef LOCAL
+#define dbg(...) cerr << "(" << #__VA_ARGS__ << "):", dbg_out(__VA_ARGS__)
+#else
+#define dbg(...)
+#endif
 
-typedef pair<int, int> pi;
-typedef pair<ll,ll> pl;
-typedef pair<ld,ld> pd;
+#define ar array
+#define ll long long
+#define ld long double
+#define sza(x) ((int)x.size())
+#define all(a) (a).begin(), (a).end()
 
-typedef vector<int> vi;
-typedef vector<ld> vd;
-typedef vector<ll> vl;
-typedef vector<pi> vpi;
-typedef vector<pl> vpl;
-typedef vector<cd> vcd;
+const int MAX_N = 1e5 + 5;
+const ll MOD = 1e9 + 7;
+const ll INF = 1e9;
+const ld EPS = 1e-9;
 
-#define rep(i,a,b) for (int i=a; i<(b); i++)
-#define per(i,a,b) for (int i = (b)-1; i >= a; i--)
-#define print_map(m) for (const auto &[key, value] : m){cout << '[' << key << ']' << ' ' << '=' << ' ' << value << '\n';}
-#define print_vector(v)int vadnfiv=0;for (const auto &value : v){cout <<vadnfiv<<' '<<value<< '\n';vadnfiv++;}
-#define gcd(a,b) __gcd(a,b)
-#define lcm(a,b) (a*(b/gcd(a,b)))
 
-#define start_time using std::chrono::duration;using std::chrono::duration_cast;using std::chrono::high_resolution_clock;using std::chrono::milliseconds;auto t1111 = high_resolution_clock::now();
-#define end_time auto t2222 = high_resolution_clock::now();duration<double, std::milli> ms_double = t2222 - t1111;std::cout << ms_double.count() << 'm'<<'s'<<nl;
-#define sz(x) (int)(x).size()
-#define mp make_pair
-#define pb push_back
-#define ff first
-#define ss second
-#define lb lower_bound
-#define ub upper_bound
-#define all(x) x.begin(), x.end()
-#define ins insert
-#define fastio ios_base::sync_with_stdio(false);cin.tie(NULL);cout.tie(NULL);
-#define multicase int NoOfTestCase = 1;cin >> NoOfTestCase;for(int testcaseno=1;testcaseno<=NoOfTestCase;testcaseno++)
-bool isPrime(int n){if (n == 2 || n == 3){return true;}if (n <= 1 || n % 2 == 0 || n % 3 == 0){return false;}for (int i = 5; i * i <= n; i += 6){if (n % i == 0 || n % (i + 2) == 0){return false;}}return true;}
-bool isPalindrome(string S){string P = S;reverse(P.begin(), P.end());if (S == P) {return true;}else {return false;}}
-bool isPowerof(long long num, long long base){if (num <= 0){return false;}if (num % base == 0){return isPowerof(num / base, base);}if (num == 1){return true;}return false;}
 
-template<class T> bool ckmin(T& a, const T& b) { return b < a ? a = b, 1 : 0; }
-template<class T> bool ckmax(T& a, const T& b) { return a < b ? a = b, 1 : 0; }
+void solve() {
+    int n;
+    cin>>n;
+    int a[n];
+    for(int i=0;i<n;i++){
+        cin>>a[i];
+    }
+    int pre[n];
+    int sum = 0;
+    for(int i=0;i<n;i++){
+        sum += a[i];
+        pre[i] = sum; 
+    }
+
+    // for(int i=0;i<n;i++){cout<<pre[i]<<",";}
+    int left = 1,right = n;
+    ll ans = -1;
+    while(left<=right){
+
+        int mid = (left + right)/2;
+        
+        cout<<"? "<<mid - left + 1 <<" ";
+        for(int i=left;i<=mid;i++) cout<<i<<" ";
+        cout<<endl;
+        int sum = 0;
+        cin>>sum;
+        // cout<<"mid"<<mid;
+        // cout<<"pre mid "<<pre[mid];
+        //   cout<<"pre left "<<pre[left-1];
+        int val=pre[mid-1];
+        if(left-2>=0){
+            val=val-pre[left-2];
+        }
+        if(sum > val){
+        // if(sum > pre[mid]-pre[left-1]){
+            ans = mid;
+            right = mid-1;
+        }else{
+            left = mid + 1;
+        }
+    }
+    cout<<"! "<<ans<<endl;
+}
 
 int main() {
-fastio
-multicase
-{
-    int n; cin >> n;
-    long long a[n + 1];
-    a[0] = 0;
-    for (int i = 1; i <= n; i++) {
-      cin >> a[i];
-      a[i] += a[i - 1];
+    ios_base::sync_with_stdio(0);
+    cin.tie(0); cout.tie(0);
+    int tc = 1;
+    cin >> tc;
+    for (int t = 1; t <= tc; t++) {
+        // cout << "Case #" << t << ": ";
+        solve();
     }
-    int l = 1, r = n, ans = 1;
-    while (l <= r) {
-      int mid = l + r >> 1;
-      cout << "? " << mid;
-      for (int i = 1; i <= mid; i++) {
-        cout << " " << i;
-      }
-      cout << '\n';
-      cout.flush();
-      long long s; cin >> s;
-      if (s > a[mid]) {
-        ans = mid;
-        r = mid - 1;
-      }
-      else {
-        l = mid + 1;
-      }
-    }
-    cout << "! " << ans << '\n';
-    cout.flush();
-}
-return 0;
 }
