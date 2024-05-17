@@ -23393,6 +23393,22 @@
     ],
     "timestamp": "May/17/2024 08:26"
   },
+  "CF261270315": {
+    "contest_id": 81,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/81/A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Plug-in",
+    "problem_url": "https://codeforces.com/contest/81/problem/A",
+    "submission_id": "CF261270315",
+    "submission_url": "https://codeforces.com/contest/81/submission/261270315",
+    "tags": [
+      "implementation",
+      "*1400"
+    ],
+    "timestamp": "May/17/2024 09:31"
+  },
   "CF261270356": {
     "contest_id": 558,
     "language": "C++20 (GCC 13-64)",
