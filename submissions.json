@@ -36530,6 +36530,25 @@
     ],
     "timestamp": "May/17/2024 09:48"
   },
+  "CF261291558": {
+    "contest_id": 660,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/660/A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Co-prime Array",
+    "problem_url": "https://codeforces.com/contest/660/problem/A",
+    "submission_id": "CF261291558",
+    "submission_url": "https://codeforces.com/contest/660/submission/261291558",
+    "tags": [
+      "greedy",
+      "implementation",
+      "math",
+      "number theory",
+      "*1200"
+    ],
+    "timestamp": "May/17/2024 13:15"
+  },
   "CF261291587": {
     "contest_id": 940,
     "language": "C++20 (GCC 13-64)",
