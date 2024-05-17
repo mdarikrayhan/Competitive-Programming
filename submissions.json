@@ -36534,6 +36534,22 @@
     ],
     "timestamp": "May/17/2024 08:26"
   },
+  "CF261267046": {
+    "contest_id": 1741,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1741/E.cpp",
+    "platform": "Codeforces",
+    "problem_index": "E",
+    "problem_name": "Sending a Sequence Over the Network",
+    "problem_url": "https://codeforces.com/contest/1741/problem/E",
+    "submission_id": "CF261267046",
+    "submission_url": "https://codeforces.com/contest/1741/submission/261267046",
+    "tags": [
+      "dp",
+      "*1600"
+    ],
+    "timestamp": "May/17/2024 08:33"
+  },
   "CF261267090": {
     "contest_id": 264,
     "language": "C++20 (GCC 13-64)",
