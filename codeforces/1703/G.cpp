@@ -1,19 +1,29 @@
-#include<bits/stdc++.h>
+#include <bits/stdc++.h>
 using namespace std;
-typedef long long ll;
-int T,n,K,a[100005];
-void sol(){
-	scanf("%d%d",&n,&K);ll s=0,ans=0;
-	for(int i=1;i<=n;i++)scanf("%d",&a[i]);
-	for(int i=0;i<=n;i++){
-		if(i)s+=a[i];ll res=s;
-		for(int j=i+1,k=1;j<=n&&k<=30;j++,k++)
-			res+=a[j]>>k;
-		ans=max(ans,res-(ll)i*K);
-	}
-	printf("%lld\n",ans);
+
+ 
+void solve(int n, int k){
+    vector<long long> coin(n+1), prefix(n+1);
+    for(int i=1 ; i<=n ; i++){
+        cin >> coin[i];
+        prefix[i] = prefix[i-1] + coin[i] - k;
+    }
+    long long ans = prefix[n];
+    for(int i=1 ; i<=n ; i++){
+        long long temp = prefix[i-1];
+        for(int j=0 ; j<30 && i+j<=n ; j++){
+            temp += (coin[i+j] >> (j+1));
+        }
+        if(temp > ans) ans = temp;
+    }
+    cout << ans << endl;
 }
+ 
 int main(){
-	scanf("%d",&T);
-	while(T--)sol();
+    int T, n, k;
+    cin >> T;
+    while(T--){
+        cin >> n >> k;
+        solve(n, k);
+    }
 }
