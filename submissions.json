@@ -23393,6 +23393,23 @@
     ],
     "timestamp": "May/17/2024 08:26"
   },
+  "CF261294287": {
+    "contest_id": 33,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/33/A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "What is for dinner?",
+    "problem_url": "https://codeforces.com/contest/33/problem/A",
+    "submission_id": "CF261294287",
+    "submission_url": "https://codeforces.com/contest/33/submission/261294287",
+    "tags": [
+      "greedy",
+      "implementation",
+      "*1200"
+    ],
+    "timestamp": "May/17/2024 13:41"
+  },
   "CF261294309": {
     "contest_id": 412,
     "language": "C++20 (GCC 13-64)",
