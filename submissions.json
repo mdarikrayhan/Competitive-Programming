@@ -23393,6 +23393,24 @@
     ],
     "timestamp": "May/17/2024 08:26"
   },
+  "CF261293692": {
+    "contest_id": 416,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/416/A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Guess a number!",
+    "problem_url": "https://codeforces.com/contest/416/problem/A",
+    "submission_id": "CF261293692",
+    "submission_url": "https://codeforces.com/contest/416/submission/261293692",
+    "tags": [
+      "greedy",
+      "implementation",
+      "two pointers",
+      "*1400"
+    ],
+    "timestamp": "May/17/2024 13:35"
+  },
   "CF261293696": {
     "contest_id": 9,
     "language": "C++20 (GCC 13-64)",
