@@ -23393,6 +23393,23 @@
     ],
     "timestamp": "May/17/2024 08:26"
   },
+  "CF261267926": {
+    "contest_id": 877,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/877/A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Alex and broken contest",
+    "problem_url": "https://codeforces.com/contest/877/problem/A",
+    "submission_id": "CF261267926",
+    "submission_url": "https://codeforces.com/contest/877/submission/261267926",
+    "tags": [
+      "implementation",
+      "strings",
+      "*1100"
+    ],
+    "timestamp": "May/17/2024 08:51"
+  },
   "CF261267943": {
     "contest_id": 1167,
     "language": "C++20 (GCC 13-64)",
