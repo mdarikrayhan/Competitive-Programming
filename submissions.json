@@ -37971,6 +37971,24 @@
     ],
     "timestamp": "May/17/2024 09:48"
   },
+  "CF261272438": {
+    "contest_id": 757,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/757/B.cpp",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Bash's Big Day",
+    "problem_url": "https://codeforces.com/contest/757/problem/B",
+    "submission_id": "CF261272438",
+    "submission_url": "https://codeforces.com/contest/757/submission/261272438",
+    "tags": [
+      "greedy",
+      "math",
+      "number theory",
+      "*1400"
+    ],
+    "timestamp": "May/17/2024 10:04"
+  },
   "CF261272536": {
     "contest_id": 1236,
     "language": "C++20 (GCC 13-64)",
