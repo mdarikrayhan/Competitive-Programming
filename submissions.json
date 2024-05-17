@@ -23393,6 +23393,22 @@
     ],
     "timestamp": "May/17/2024 08:26"
   },
+  "CF261293240": {
+    "contest_id": 765,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/765/C.cpp",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Table Tennis Game 2",
+    "problem_url": "https://codeforces.com/contest/765/problem/C",
+    "submission_id": "CF261293240",
+    "submission_url": "https://codeforces.com/contest/765/submission/261293240",
+    "tags": [
+      "math",
+      "*1200"
+    ],
+    "timestamp": "May/17/2024 13:31"
+  },
   "CF261293258": {
     "contest_id": 366,
     "language": "C++20 (GCC 13-64)",
