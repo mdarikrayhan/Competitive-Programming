@@ -23393,6 +23393,23 @@
     ],
     "timestamp": "May/17/2024 08:26"
   },
+  "CF261295015": {
+    "contest_id": 176,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/176/A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Trading Business",
+    "problem_url": "https://codeforces.com/contest/176/problem/A",
+    "submission_id": "CF261295015",
+    "submission_url": "https://codeforces.com/contest/176/submission/261295015",
+    "tags": [
+      "greedy",
+      "sortings",
+      "*1200"
+    ],
+    "timestamp": "May/17/2024 13:48"
+  },
   "CF261297537": {
     "contest_id": 1554,
     "language": "C++20 (GCC 13-64)",
