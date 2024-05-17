@@ -23393,6 +23393,23 @@
     ],
     "timestamp": "May/17/2024 08:26"
   },
+  "CF261294578": {
+    "contest_id": 15,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/15/A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Cottage Village",
+    "problem_url": "https://codeforces.com/contest/15/problem/A",
+    "submission_id": "CF261294578",
+    "submission_url": "https://codeforces.com/contest/15/submission/261294578",
+    "tags": [
+      "implementation",
+      "sortings",
+      "*1200"
+    ],
+    "timestamp": "May/17/2024 13:44"
+  },
   "CF261294668": {
     "contest_id": 69,
     "language": "C++20 (GCC 13-64)",
