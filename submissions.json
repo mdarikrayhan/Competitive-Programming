@@ -33677,6 +33677,23 @@
     ],
     "timestamp": "May/17/2024 05:34"
   },
+  "CF261263607": {
+    "contest_id": 1153,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1153/B.cpp",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Serval and Toy Bricks",
+    "problem_url": "https://codeforces.com/contest/1153/problem/B",
+    "submission_id": "CF261263607",
+    "submission_url": "https://codeforces.com/contest/1153/submission/261263607",
+    "tags": [
+      "constructive algorithms",
+      "greedy",
+      "*1200"
+    ],
+    "timestamp": "May/17/2024 07:19"
+  },
   "CF261263610": {
     "contest_id": 1303,
     "language": "C++20 (GCC 13-64)",
