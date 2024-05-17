@@ -1,20 +1,58 @@
-#include<bits/stdc++.h>
+#include <bits/stdc++.h>
+#define debug(x) cout << #x << " = "; cout << x << '\n'
 using namespace std;
-const int N=1e5+5;
-int n,q,x,ans;
-char s[N],c;
-bool ok(int x){
-	return x<1||x+2>n?0:s[x]=='a'&&s[x+1]=='b'&&s[x+2]=='c';
+typedef long long ll;
+
+void Approach(){
+    int n, q;
+    cin >> n >> q;
+
+    string s;
+    cin >> s;
+
+    int ans = 0;
+    for(int ii = 0; ii + 2 < n; ii++){
+        if(s.substr(ii, 3) == "abc"){
+            ans++;
+        }
+    }
+
+    while(q--){
+        int pos;
+        cin >> pos;
+        char ch;
+        cin >> ch;
+
+        pos -= 1;
+
+        int index = pos - 2;
+
+        if(index < 0)
+            index = 0;
+
+        for(int ii = index; ii <= pos; ii++){
+            if(s.substr(ii, 3) == "abc")
+                ans--;
+        }
+
+        s[pos] = ch;
+        for(int ii = index; ii <= pos; ii++){
+            if(s.substr(ii, 3) == "abc")
+                ans++;
+        }
+
+        cout << ans << '\n';
+    }
 }
-signed main(){
-	scanf("%d%d%s",&n,&q,s+1);
-	for(int i=1;i<=n;i++) ans+=ok(i);
-	while(q--){
-		scanf("%d %c",&x,&c);
-		for(int i=x-2;i<=x+2;i++) ans-=ok(i);
-		s[x]=c;
-		for(int i=x-2;i<=x+2;i++) ans+=ok(i);
-		printf("%d\n",ans);
-	}
-	return 0;
+
+int main(){
+    ios::sync_with_stdio(0); 
+    cin.tie(0); cout.tie(0); 
+
+    int T = 1;
+    // cin >> T;
+    for(int C = 1; C <= T; C++){
+        Approach();
+    }
+    return 0;
 }
