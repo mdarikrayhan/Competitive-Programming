@@ -23393,6 +23393,23 @@
     ],
     "timestamp": "May/17/2024 08:26"
   },
+  "CF261294087": {
+    "contest_id": 112,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/112/B.cpp",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Petya and Square",
+    "problem_url": "https://codeforces.com/contest/112/problem/B",
+    "submission_id": "CF261294087",
+    "submission_url": "https://codeforces.com/contest/112/submission/261294087",
+    "tags": [
+      "implementation",
+      "math",
+      "*1200"
+    ],
+    "timestamp": "May/17/2024 13:39"
+  },
   "CF261294101": {
     "contest_id": 143,
     "language": "C++20 (GCC 13-64)",
