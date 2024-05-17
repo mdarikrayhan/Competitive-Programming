@@ -21977,6 +21977,25 @@
     ],
     "timestamp": "Feb/16/2024 02:59"
   },
+  "CF261265303": {
+    "contest_id": 1856,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1856/C.cpp",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "To Become Max",
+    "problem_url": "https://codeforces.com/contest/1856/problem/C",
+    "submission_id": "CF261265303",
+    "submission_url": "https://codeforces.com/contest/1856/submission/261265303",
+    "tags": [
+      "binary search",
+      "brute force",
+      "data structures",
+      "dp",
+      "*1600"
+    ],
+    "timestamp": "May/17/2024 07:57"
+  },
   "CF261265335": {
     "contest_id": 987,
     "language": "C++20 (GCC 13-64)",
