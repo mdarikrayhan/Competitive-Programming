@@ -23393,6 +23393,23 @@
     ],
     "timestamp": "May/17/2024 08:26"
   },
+  "CF261269808": {
+    "contest_id": 1886,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1886/C.cpp",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Decreasing String",
+    "problem_url": "https://codeforces.com/contest/1886/problem/C",
+    "submission_id": "CF261269808",
+    "submission_url": "https://codeforces.com/contest/1886/submission/261269808",
+    "tags": [
+      "implementation",
+      "strings",
+      "*1600"
+    ],
+    "timestamp": "May/17/2024 09:23"
+  },
   "CF261269828": {
     "contest_id": 1744,
     "language": "C++20 (GCC 13-64)",
