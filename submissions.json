@@ -23393,6 +23393,22 @@
     ],
     "timestamp": "May/17/2024 08:26"
   },
+  "CF261294813": {
+    "contest_id": 102,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/102/A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Clothes",
+    "problem_url": "https://codeforces.com/contest/102/problem/A",
+    "submission_id": "CF261294813",
+    "submission_url": "https://codeforces.com/contest/102/submission/261294813",
+    "tags": [
+      "brute force",
+      "*1200"
+    ],
+    "timestamp": "May/17/2024 13:46"
+  },
   "CF261294851": {
     "contest_id": 958,
     "language": "C++20 (GCC 13-64)",
