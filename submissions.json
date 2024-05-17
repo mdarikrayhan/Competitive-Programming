@@ -36530,6 +36530,23 @@
     ],
     "timestamp": "May/17/2024 09:48"
   },
+  "CF261285747": {
+    "contest_id": 1863,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1863/D.cpp",
+    "platform": "Codeforces",
+    "problem_index": "D",
+    "problem_name": "Two-Colored Dominoes",
+    "problem_url": "https://codeforces.com/contest/1863/problem/D",
+    "submission_id": "CF261285747",
+    "submission_url": "https://codeforces.com/contest/1863/submission/261285747",
+    "tags": [
+      "constructive algorithms",
+      "greedy",
+      "*1400"
+    ],
+    "timestamp": "May/17/2024 12:20"
+  },
   "CF261285768": {
     "contest_id": 1921,
     "language": "C++20 (GCC 13-64)",
