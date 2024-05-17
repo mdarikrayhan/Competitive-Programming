@@ -23393,6 +23393,23 @@
     ],
     "timestamp": "May/17/2024 08:26"
   },
+  "CF261294863": {
+    "contest_id": 48,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/48/B.cpp",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Land Lot",
+    "problem_url": "https://codeforces.com/contest/48/problem/B",
+    "submission_id": "CF261294863",
+    "submission_url": "https://codeforces.com/contest/48/submission/261294863",
+    "tags": [
+      "brute force",
+      "implementation",
+      "*1200"
+    ],
+    "timestamp": "May/17/2024 13:46"
+  },
   "CF261294931": {
     "contest_id": 172,
     "language": "C++20 (GCC 13-64)",
