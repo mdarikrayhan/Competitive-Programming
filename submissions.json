@@ -33677,6 +33677,22 @@
     ],
     "timestamp": "May/17/2024 05:34"
   },
+  "CF261262926": {
+    "contest_id": 6,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/6/B.cpp",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "President's Office",
+    "problem_url": "https://codeforces.com/contest/6/problem/B",
+    "submission_id": "CF261262926",
+    "submission_url": "https://codeforces.com/contest/6/submission/261262926",
+    "tags": [
+      "implementation",
+      "*1100"
+    ],
+    "timestamp": "May/17/2024 07:03"
+  },
   "CF261262958": {
     "contest_id": 446,
     "language": "C++20 (GCC 13-64)",
