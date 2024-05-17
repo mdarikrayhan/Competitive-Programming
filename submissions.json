@@ -23393,6 +23393,22 @@
     ],
     "timestamp": "May/17/2024 08:26"
   },
+  "CF261271024": {
+    "contest_id": 1625,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1625/C.cpp",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Road Optimization",
+    "problem_url": "https://codeforces.com/contest/1625/problem/C",
+    "submission_id": "CF261271024",
+    "submission_url": "https://codeforces.com/contest/1625/submission/261271024",
+    "tags": [
+      "dp",
+      "*1700"
+    ],
+    "timestamp": "May/17/2024 09:42"
+  },
   "CF261271042": {
     "contest_id": 723,
     "language": "C++20 (GCC 13-64)",
