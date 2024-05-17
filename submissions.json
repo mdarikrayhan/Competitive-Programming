@@ -33677,6 +33677,22 @@
     ],
     "timestamp": "May/17/2024 05:34"
   },
+  "CF261263932": {
+    "contest_id": 1881,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1881/E.cpp",
+    "platform": "Codeforces",
+    "problem_index": "E",
+    "problem_name": "Block Sequence",
+    "problem_url": "https://codeforces.com/contest/1881/problem/E",
+    "submission_id": "CF261263932",
+    "submission_url": "https://codeforces.com/contest/1881/submission/261263932",
+    "tags": [
+      "dp",
+      "*1500"
+    ],
+    "timestamp": "May/17/2024 07:27"
+  },
   "CF261264782": {
     "contest_id": 584,
     "language": "C++20 (GCC 13-64)",
