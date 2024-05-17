@@ -23393,6 +23393,26 @@
     ],
     "timestamp": "May/17/2024 08:26"
   },
+  "CF261269266": {
+    "contest_id": 1748,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1748/C.cpp",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Zero-Sum Prefixes",
+    "problem_url": "https://codeforces.com/contest/1748/problem/C",
+    "submission_id": "CF261269266",
+    "submission_url": "https://codeforces.com/contest/1748/submission/261269266",
+    "tags": [
+      "brute force",
+      "data structures",
+      "dp",
+      "greedy",
+      "implementation",
+      "*1600"
+    ],
+    "timestamp": "May/17/2024 09:14"
+  },
   "CF261269283": {
     "contest_id": 1176,
     "language": "C++20 (GCC 13-64)",
