@@ -21977,6 +21977,24 @@
     ],
     "timestamp": "Feb/16/2024 02:59"
   },
+  "CF261266147": {
+    "contest_id": 1515,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1515/D.cpp",
+    "platform": "Codeforces",
+    "problem_index": "D",
+    "problem_name": "Phoenix and Socks",
+    "problem_url": "https://codeforces.com/contest/1515/problem/D",
+    "submission_id": "CF261266147",
+    "submission_url": "https://codeforces.com/contest/1515/submission/261266147",
+    "tags": [
+      "greedy",
+      "sortings",
+      "two pointers",
+      "*1500"
+    ],
+    "timestamp": "May/17/2024 08:14"
+  },
   "CF261266163": {
     "contest_id": 1479,
     "language": "C++20 (GCC 13-64)",
