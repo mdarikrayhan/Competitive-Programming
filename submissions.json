@@ -21977,6 +21977,24 @@
     ],
     "timestamp": "Feb/16/2024 02:59"
   },
+  "CF261266563": {
+    "contest_id": 1182,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1182/B.cpp",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Plus from Picture",
+    "problem_url": "https://codeforces.com/contest/1182/problem/B",
+    "submission_id": "CF261266563",
+    "submission_url": "https://codeforces.com/contest/1182/submission/261266563",
+    "tags": [
+      "dfs and similar",
+      "implementation",
+      "strings",
+      "*1300"
+    ],
+    "timestamp": "May/17/2024 08:23"
+  },
   "CF261266588": {
     "contest_id": 1520,
     "language": "C++20 (GCC 13-64)",
