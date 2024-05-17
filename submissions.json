@@ -23393,6 +23393,25 @@
     ],
     "timestamp": "May/17/2024 08:26"
   },
+  "CF261269230": {
+    "contest_id": 1738,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1738/C.cpp",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Even Number Addicts",
+    "problem_url": "https://codeforces.com/contest/1738/problem/C",
+    "submission_id": "CF261269230",
+    "submission_url": "https://codeforces.com/contest/1738/submission/261269230",
+    "tags": [
+      "dp",
+      "games",
+      "greedy",
+      "math",
+      "*1500"
+    ],
+    "timestamp": "May/17/2024 09:13"
+  },
   "CF261269247": {
     "contest_id": 902,
     "language": "C++20 (GCC 13-64)",
