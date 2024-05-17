@@ -23393,6 +23393,23 @@
     ],
     "timestamp": "May/17/2024 08:26"
   },
+  "CF261268052": {
+    "contest_id": 946,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/946/B.cpp",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Weird Subtraction Process",
+    "problem_url": "https://codeforces.com/contest/946/problem/B",
+    "submission_id": "CF261268052",
+    "submission_url": "https://codeforces.com/contest/946/submission/261268052",
+    "tags": [
+      "math",
+      "number theory",
+      "*1100"
+    ],
+    "timestamp": "May/17/2024 08:53"
+  },
   "CF261268132": {
     "contest_id": 714,
     "language": "C++20 (GCC 13-64)",
