@@ -21976,5 +21976,21 @@
       "*1200"
     ],
     "timestamp": "Feb/16/2024 02:59"
+  },
+  "CF261266754": {
+    "contest_id": 253,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/253/A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Boys and Girls",
+    "problem_url": "https://codeforces.com/contest/253/problem/A",
+    "submission_id": "CF261266754",
+    "submission_url": "https://codeforces.com/contest/253/submission/261266754",
+    "tags": [
+      "greedy",
+      "*1100"
+    ],
+    "timestamp": "May/17/2024 08:26"
   }
 }
