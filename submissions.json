@@ -37971,6 +37971,24 @@
     ],
     "timestamp": "May/17/2024 09:48"
   },
+  "CF261273047": {
+    "contest_id": 1753,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1753/A2.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A2",
+    "problem_name": "Make Nonzero Sum (hard version)",
+    "problem_url": "https://codeforces.com/contest/1753/problem/A2",
+    "submission_id": "CF261273047",
+    "submission_url": "https://codeforces.com/contest/1753/submission/261273047",
+    "tags": [
+      "constructive algorithms",
+      "dp",
+      "greedy",
+      "*1500"
+    ],
+    "timestamp": "May/17/2024 10:15"
+  },
   "CF261273176": {
     "contest_id": 1796,
     "language": "C++20 (GCC 13-64)",
