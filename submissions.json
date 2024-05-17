@@ -23393,6 +23393,24 @@
     ],
     "timestamp": "May/17/2024 08:26"
   },
+  "CF261269558": {
+    "contest_id": 1817,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1817/A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Almost Increasing Subsequence",
+    "problem_url": "https://codeforces.com/contest/1817/problem/A",
+    "submission_id": "CF261269558",
+    "submission_url": "https://codeforces.com/contest/1817/submission/261269558",
+    "tags": [
+      "binary search",
+      "data structures",
+      "greedy",
+      "*1500"
+    ],
+    "timestamp": "May/17/2024 09:18"
+  },
   "CF261269573": {
     "contest_id": 628,
     "language": "C++20 (GCC 13-64)",
