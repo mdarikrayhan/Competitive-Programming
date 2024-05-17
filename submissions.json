@@ -36530,6 +36530,23 @@
     ],
     "timestamp": "May/17/2024 09:48"
   },
+  "CF261285165": {
+    "contest_id": 788,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/788/A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Functions again",
+    "problem_url": "https://codeforces.com/contest/788/problem/A",
+    "submission_id": "CF261285165",
+    "submission_url": "https://codeforces.com/contest/788/submission/261285165",
+    "tags": [
+      "dp",
+      "two pointers",
+      "*1600"
+    ],
+    "timestamp": "May/17/2024 12:14"
+  },
   "CF261285370": {
     "contest_id": 796,
     "language": "C++20 (GCC 13-64)",
