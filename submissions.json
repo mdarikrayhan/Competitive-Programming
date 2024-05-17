@@ -36530,6 +36530,24 @@
     ],
     "timestamp": "May/17/2024 09:48"
   },
+  "CF261283772": {
+    "contest_id": 1771,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1771/C.cpp",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Hossam and Trainees",
+    "problem_url": "https://codeforces.com/contest/1771/problem/C",
+    "submission_id": "CF261283772",
+    "submission_url": "https://codeforces.com/contest/1771/submission/261283772",
+    "tags": [
+      "greedy",
+      "math",
+      "number theory",
+      "*1600"
+    ],
+    "timestamp": "May/17/2024 11:59"
+  },
   "CF261284100": {
     "contest_id": 705,
     "language": "C++20 (GCC 13-64)",
