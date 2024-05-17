@@ -36530,6 +36530,22 @@
     ],
     "timestamp": "May/17/2024 09:48"
   },
+  "CF261292393": {
+    "contest_id": 985,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/985/B.cpp",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Switches and Lamps",
+    "problem_url": "https://codeforces.com/contest/985/problem/B",
+    "submission_id": "CF261292393",
+    "submission_url": "https://codeforces.com/contest/985/submission/261292393",
+    "tags": [
+      "implementation",
+      "*1200"
+    ],
+    "timestamp": "May/17/2024 13:23"
+  },
   "CF261292960": {
     "contest_id": 630,
     "language": "C++20 (GCC 13-64)",
