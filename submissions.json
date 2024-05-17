@@ -33677,6 +33677,25 @@
     ],
     "timestamp": "May/17/2024 05:34"
   },
+  "CF261260986": {
+    "contest_id": 1499,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1499/C.cpp",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Minimum Grid Path",
+    "problem_url": "https://codeforces.com/contest/1499/problem/C",
+    "submission_id": "CF261260986",
+    "submission_url": "https://codeforces.com/contest/1499/submission/261260986",
+    "tags": [
+      "brute force",
+      "data structures",
+      "greedy",
+      "math",
+      "*1500"
+    ],
+    "timestamp": "May/17/2024 06:04"
+  },
   "CF261261036": {
     "contest_id": 1759,
     "language": "C++20 (GCC 13-64)",
