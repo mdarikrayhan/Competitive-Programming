@@ -23393,6 +23393,22 @@
     ],
     "timestamp": "May/17/2024 08:26"
   },
+  "CF261294341": {
+    "contest_id": 101,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/101/A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Homework",
+    "problem_url": "https://codeforces.com/contest/101/problem/A",
+    "submission_id": "CF261294341",
+    "submission_url": "https://codeforces.com/contest/101/submission/261294341",
+    "tags": [
+      "greedy",
+      "*1200"
+    ],
+    "timestamp": "May/17/2024 13:41"
+  },
   "CF261294353": {
     "contest_id": 1311,
     "language": "C++20 (GCC 13-64)",
