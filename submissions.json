@@ -36530,6 +36530,26 @@
     ],
     "timestamp": "May/17/2024 09:48"
   },
+  "CF261274620": {
+    "contest_id": 1326,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1326/D2.cpp",
+    "platform": "Codeforces",
+    "problem_index": "D2",
+    "problem_name": "Prefix-Suffix Palindrome (Hard version)",
+    "problem_url": "https://codeforces.com/contest/1326/problem/D2",
+    "submission_id": "CF261274620",
+    "submission_url": "https://codeforces.com/contest/1326/submission/261274620",
+    "tags": [
+      "binary search",
+      "greedy",
+      "hashing",
+      "string suffix structures",
+      "strings",
+      "*1800"
+    ],
+    "timestamp": "May/17/2024 10:40"
+  },
   "CF261274637": {
     "contest_id": 1131,
     "language": "C++20 (GCC 13-64)",
