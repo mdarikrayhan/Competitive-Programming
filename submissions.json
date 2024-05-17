@@ -21977,6 +21977,24 @@
     ],
     "timestamp": "Feb/16/2024 02:59"
   },
+  "CF261266408": {
+    "contest_id": 911,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/911/B.cpp",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Two Cakes",
+    "problem_url": "https://codeforces.com/contest/911/problem/B",
+    "submission_id": "CF261266408",
+    "submission_url": "https://codeforces.com/contest/911/submission/261266408",
+    "tags": [
+      "binary search",
+      "brute force",
+      "implementation",
+      "*1200"
+    ],
+    "timestamp": "May/17/2024 08:19"
+  },
   "CF261266445": {
     "contest_id": 682,
     "language": "C++20 (GCC 13-64)",
