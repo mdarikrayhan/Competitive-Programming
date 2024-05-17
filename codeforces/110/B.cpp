@@ -1,77 +1,72 @@
 #include <bits/stdc++.h>
 using namespace std;
 
-typedef long long ll;
-typedef long double ld;
-typedef complex<ld> cd;
-
-typedef pair<int, int> pi;
-typedef pair<ll, ll> pl;
-typedef pair<ld, ld> pd;
-
-typedef vector<int> vi;
-typedef vector<ld> vd;
-typedef vector<ll> vl;
-typedef vector<pi> vpi;
-typedef vector<pl> vpl;
-typedef vector<cd> vcd;
-
-template <class T>
-using pq = priority_queue<T>;
-template <class T>
-using pqg = priority_queue<T, vector<T>, greater<T>>;
-
-#define FOR(i, a, b) for (int i = a; i < (b); i++)
-#define F0R(i, a) for (int i = 0; i < (a); i++)
-#define FORd(i, a, b) for (int i = (b)-1; i >= a; i--)
-#define F0Rd(i, a) for (int i = (a)-1; i >= 0; i--)
-#define gcd(a, b) __gcd(a, b)
-#define lcm(a, b) (a*(b/gcd(a,b))
-
-#define sz(x) (int)(x).size()
-#define mp make_pair
+#define IOS ios::sync_with_stdio(0); cin.tie(0); cout.tie(0);
+#define endl "\n"
+#define Max(x,y,z) max(x,max(y,z))
+#define Min(x,y,z) min(x,min(y,z))
 #define pb push_back
-#define f first
-#define s second
-#define lb lower_bound
-#define ub upper_bound
-#define all(x) x.begin(), x.end()
-#define ins insert
+#define ppb pop_back
+#define eb emplace_back
+#define mp make_pair
+#define float long double
+#define yes  cout << "YES" << endl;
+#define no  cout << "NO" << endl;
+#define sz(x) ((int)(x).size())
+#define all(x) (x).begin(), (x).end()
+#define PI 3.141592653589793
+#define Mod 1000000007
 
-template <class T>
-bool ckmin(T &a, const T &b)
-{
-    return b < a ? a = b, 1 : 0;
-}
-template <class T>
-bool ckmax(T &a, const T &b) { return a < b ? a = b, 1 : 0; }
-const char nl = '\n';
+typedef long long ll;
+typedef unsigned int uint;
+typedef unsigned long long ull;
+typedef pair<int, int> pii;
+typedef pair<long long, long long> pll;
+typedef vector<int> vi;
+typedef vector<vi> vvi;
+typedef vector<long long> vll;
+typedef vector<vll> vvll;
+typedef vector<char> vc;
+typedef vector<vc> vvc;
+typedef vector<pair<int,int> > vpii;
+typedef vector<pair<long long,long long> > vpll;
+typedef vector<bool> vb;
+typedef vector<vb> vvb;
+typedef priority_queue<ll> pq;
+typedef priority_queue<pair<ll,ll> > pqp;
+
+template<typename T> T gcd(T a,T b) { if(a==0) return b; return gcd(b%a,a); }
+template<typename T> T pow(T a,T b, ll m){T ans=1; while(b>0){ if(b%2==1) ans=(ans*a)%m; b/=2; a=(a*a)%m; } return ans%m; }
+
+/*
+****************************************LOVE YOU MAA***************************************************
+**********************************FAMILY ABOVE ALL*****************************************************
+**************************************GIVE ME SOME SUNSHINE , GIVE ME SOME RAIN************************
+******************************GIVE ME ANOTHER CHANCE , I WANNA GROW UP ONCE AGAIN**********************
+**************************************YE DIL MAANGE MORE***********************************************
+**************************SHAURYAM DAKSHAM YUDDHE,BALIDAAN PARAM DHARMA********************************
+*/
 
 int main()
-{
-    ios_base::sync_with_stdio(false);
-    cin.tie(NULL);
-    int n;
-    cin >> n;
-    if (n < 4)
+{    
+    IOS;
+    
+    ll n;
+    cin>>n;
+    string s="abcd",st;
+    string ans="";
+    while(n>=4)
     {
-        for (int i = 0; i < n; i++)
-        {
-            char a = 97 + i;
-            cout << a;
-        }
+        ans+=s;
+        n-=4;
     }
-    else
+    if(n)
     {
-        for (int i = 0; i < n / 4; i++)
-        {
-            cout << "abcd";
-        }
-        for (int i = 0; i < n%4; i++)
-        {
-            char a = 97 + i;
-            cout << a;
-        }
+        st=s.substr(0,n);
+        ans+=st;
     }
+
+    cout<<ans<<endl;
+
     return 0;
 }
