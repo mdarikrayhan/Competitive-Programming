@@ -1,37 +1,43 @@
 #include <bits/stdc++.h>
 using namespace std;
-const char nl = '\n';
-int main()
+
+#define int long long
+#define endl '\n'
+void solve()
 {
-    ios::sync_with_stdio(false);
-    cin.tie(NULL);
-    cout.tie(NULL);
-    int t;
-    cin >> t;
-    while (t--)
+  int n;
+  cin >> n;
+  string s;
+  cin >> s;
+  if(n==2)
+  {
+    cout<<1<<endl;
+    return;
+  }
+  vector<int>ans(n-1);
+  ans[0]=1;
+  for (int i = 1; i < n-1; i++)
+  {
+    if(s[i]==s[i-1])
     {
-        int n;
-        cin >> n;
-        string s;
-        cin >> s;
-        char ch = s[0];
-        int x = 1;
-        int y = 1;
-        for (int i=0;i<s.size();i++)
-        {
-            y++;
-            if (ch == s[i])
-            {
-                cout << x << " ";
-            }
-            else
-            {
-                x = y - 1;
-                ch = s[i];
-                cout << x << " ";
-            }
-        }
-        cout << nl;
+       ans[i]=ans[i-1];
     }
-    return 0;
+    else ans[i]=i+1;
+  }
+
+  for(auto x:ans)
+  {
+    cout<<x<<" ";
+  }
+  cout<<endl;
+}
+signed main()
+{
+  ios_base::sync_with_stdio(0);
+  cin.tie(0);
+  cout.tie(0);
+  int t;
+  cin >> t;
+  while (t--)
+    solve();
 }
