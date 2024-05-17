@@ -23393,6 +23393,24 @@
     ],
     "timestamp": "May/17/2024 08:26"
   },
+  "CF261270184": {
+    "contest_id": 1814,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1814/C.cpp",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Search in Parallel",
+    "problem_url": "https://codeforces.com/contest/1814/problem/C",
+    "submission_id": "CF261270184",
+    "submission_url": "https://codeforces.com/contest/1814/submission/261270184",
+    "tags": [
+      "constructive algorithms",
+      "greedy",
+      "sortings",
+      "*1500"
+    ],
+    "timestamp": "May/17/2024 09:29"
+  },
   "CF261270223": {
     "contest_id": 596,
     "language": "C++20 (GCC 13-64)",
