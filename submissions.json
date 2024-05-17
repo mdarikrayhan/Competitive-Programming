@@ -23393,6 +23393,28 @@
     ],
     "timestamp": "May/17/2024 08:26"
   },
+  "CF261269855": {
+    "contest_id": 1383,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1383/A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "String Transformation 1",
+    "problem_url": "https://codeforces.com/contest/1383/problem/A",
+    "submission_id": "CF261269855",
+    "submission_url": "https://codeforces.com/contest/1383/submission/261269855",
+    "tags": [
+      "dsu",
+      "graphs",
+      "greedy",
+      "sortings",
+      "strings",
+      "trees",
+      "two pointers",
+      "*1700"
+    ],
+    "timestamp": "May/17/2024 09:24"
+  },
   "CF261269918": {
     "contest_id": 1175,
     "language": "C++20 (GCC 13-64)",
