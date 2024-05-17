@@ -23393,6 +23393,24 @@
     ],
     "timestamp": "May/17/2024 08:26"
   },
+  "CF261269828": {
+    "contest_id": 1744,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1744/E1.cpp",
+    "platform": "Codeforces",
+    "problem_index": "E1",
+    "problem_name": "Divisible Numbers (easy version)",
+    "problem_url": "https://codeforces.com/contest/1744/problem/E1",
+    "submission_id": "CF261269828",
+    "submission_url": "https://codeforces.com/contest/1744/submission/261269828",
+    "tags": [
+      "brute force",
+      "math",
+      "number theory",
+      "*1500"
+    ],
+    "timestamp": "May/17/2024 09:23"
+  },
   "CF261269855": {
     "contest_id": 1383,
     "language": "C++20 (GCC 13-64)",
