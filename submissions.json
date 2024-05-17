@@ -23393,6 +23393,23 @@
     ],
     "timestamp": "May/17/2024 08:26"
   },
+  "CF261269016": {
+    "contest_id": 1436,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1436/C.cpp",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Binary Search",
+    "problem_url": "https://codeforces.com/contest/1436/problem/C",
+    "submission_id": "CF261269016",
+    "submission_url": "https://codeforces.com/contest/1436/submission/261269016",
+    "tags": [
+      "binary search",
+      "combinatorics",
+      "*1500"
+    ],
+    "timestamp": "May/17/2024 09:10"
+  },
   "CF261269028": {
     "contest_id": 1689,
     "language": "C++20 (GCC 13-64)",
