@@ -23393,6 +23393,23 @@
     ],
     "timestamp": "May/17/2024 08:26"
   },
+  "CF261294376": {
+    "contest_id": 55,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/55/A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Flea travel",
+    "problem_url": "https://codeforces.com/contest/55/problem/A",
+    "submission_id": "CF261294376",
+    "submission_url": "https://codeforces.com/contest/55/submission/261294376",
+    "tags": [
+      "implementation",
+      "math",
+      "*1200"
+    ],
+    "timestamp": "May/17/2024 13:42"
+  },
   "CF261294390": {
     "contest_id": 717,
     "language": "C++20 (GCC 13-64)",
