@@ -23393,6 +23393,24 @@
     ],
     "timestamp": "May/17/2024 08:26"
   },
+  "CF261294931": {
+    "contest_id": 172,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/172/B.cpp",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Pseudorandom Sequence Period",
+    "problem_url": "https://codeforces.com/contest/172/problem/B",
+    "submission_id": "CF261294931",
+    "submission_url": "https://codeforces.com/contest/172/submission/261294931",
+    "tags": [
+      "*special problem",
+      "implementation",
+      "number theory",
+      "*1200"
+    ],
+    "timestamp": "May/17/2024 13:47"
+  },
   "CF261294958": {
     "contest_id": 523,
     "language": "C++20 (GCC 13-64)",
