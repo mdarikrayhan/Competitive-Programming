@@ -21977,6 +21977,23 @@
     ],
     "timestamp": "Feb/16/2024 02:59"
   },
+  "CF261264871": {
+    "contest_id": 1221,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1221/B.cpp",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Knights",
+    "problem_url": "https://codeforces.com/contest/1221/problem/B",
+    "submission_id": "CF261264871",
+    "submission_url": "https://codeforces.com/contest/1221/submission/261264871",
+    "tags": [
+      "constructive algorithms",
+      "greedy",
+      "*1100"
+    ],
+    "timestamp": "May/17/2024 07:48"
+  },
   "CF261264892": {
     "contest_id": 701,
     "language": "C++20 (GCC 13-64)",
