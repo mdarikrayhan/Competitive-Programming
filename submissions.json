@@ -35118,6 +35118,23 @@
     ],
     "timestamp": "May/17/2024 07:27"
   },
+  "CF261264626": {
+    "contest_id": 1220,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1220/B.cpp",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Multiplication Table",
+    "problem_url": "https://codeforces.com/contest/1220/problem/B",
+    "submission_id": "CF261264626",
+    "submission_url": "https://codeforces.com/contest/1220/submission/261264626",
+    "tags": [
+      "math",
+      "number theory",
+      "*1300"
+    ],
+    "timestamp": "May/17/2024 07:43"
+  },
   "CF261264663": {
     "contest_id": 1486,
     "language": "C++20 (GCC 13-64)",
