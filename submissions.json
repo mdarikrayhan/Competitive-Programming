@@ -23393,6 +23393,23 @@
     ],
     "timestamp": "May/17/2024 08:26"
   },
+  "CF261269605": {
+    "contest_id": 1579,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1579/C.cpp",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Ticks",
+    "problem_url": "https://codeforces.com/contest/1579/problem/C",
+    "submission_id": "CF261269605",
+    "submission_url": "https://codeforces.com/contest/1579/submission/261269605",
+    "tags": [
+      "greedy",
+      "implementation",
+      "*1500"
+    ],
+    "timestamp": "May/17/2024 09:19"
+  },
   "CF261269698": {
     "contest_id": 559,
     "language": "C++20 (GCC 13-64)",
