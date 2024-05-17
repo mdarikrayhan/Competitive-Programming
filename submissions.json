@@ -36530,6 +36530,23 @@
     ],
     "timestamp": "May/17/2024 09:48"
   },
+  "CF261286580": {
+    "contest_id": 1658,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1658/D1.cpp",
+    "platform": "Codeforces",
+    "problem_index": "D1",
+    "problem_name": "388535 (Easy Version)",
+    "problem_url": "https://codeforces.com/contest/1658/problem/D1",
+    "submission_id": "CF261286580",
+    "submission_url": "https://codeforces.com/contest/1658/submission/261286580",
+    "tags": [
+      "bitmasks",
+      "math",
+      "*1600"
+    ],
+    "timestamp": "May/17/2024 12:28"
+  },
   "CF261286854": {
     "contest_id": 1530,
     "language": "C++20 (GCC 13-64)",
