@@ -23393,6 +23393,22 @@
     ],
     "timestamp": "May/17/2024 08:26"
   },
+  "CF261293887": {
+    "contest_id": 255,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/255/B.cpp",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Code Parsing",
+    "problem_url": "https://codeforces.com/contest/255/problem/B",
+    "submission_id": "CF261293887",
+    "submission_url": "https://codeforces.com/contest/255/submission/261293887",
+    "tags": [
+      "implementation",
+      "*1200"
+    ],
+    "timestamp": "May/17/2024 13:37"
+  },
   "CF261293923": {
     "contest_id": 80,
     "language": "C++20 (GCC 13-64)",
