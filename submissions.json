@@ -23393,6 +23393,22 @@
     ],
     "timestamp": "May/17/2024 08:26"
   },
+  "CF261294129": {
+    "contest_id": 63,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/63/B.cpp",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Settlers' Training",
+    "problem_url": "https://codeforces.com/contest/63/problem/B",
+    "submission_id": "CF261294129",
+    "submission_url": "https://codeforces.com/contest/63/submission/261294129",
+    "tags": [
+      "implementation",
+      "*1200"
+    ],
+    "timestamp": "May/17/2024 13:39"
+  },
   "CF261294149": {
     "contest_id": 632,
     "language": "C++20 (GCC 13-64)",
