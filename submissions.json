@@ -36530,6 +36530,24 @@
     ],
     "timestamp": "May/17/2024 09:48"
   },
+  "CF261290437": {
+    "contest_id": 1907,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1907/E.cpp",
+    "platform": "Codeforces",
+    "problem_index": "E",
+    "problem_name": "Good Triples",
+    "problem_url": "https://codeforces.com/contest/1907/problem/E",
+    "submission_id": "CF261290437",
+    "submission_url": "https://codeforces.com/contest/1907/submission/261290437",
+    "tags": [
+      "brute force",
+      "combinatorics",
+      "number theory",
+      "*1600"
+    ],
+    "timestamp": "May/17/2024 13:04"
+  },
   "CF261290501": {
     "contest_id": 792,
     "language": "C++20 (GCC 13-64)",
