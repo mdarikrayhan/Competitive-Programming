@@ -23393,6 +23393,24 @@
     ],
     "timestamp": "May/17/2024 08:26"
   },
+  "CF261294357": {
+    "contest_id": 38,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/38/B.cpp",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Chess",
+    "problem_url": "https://codeforces.com/contest/38/problem/B",
+    "submission_id": "CF261294357",
+    "submission_url": "https://codeforces.com/contest/38/submission/261294357",
+    "tags": [
+      "brute force",
+      "implementation",
+      "math",
+      "*1200"
+    ],
+    "timestamp": "May/17/2024 13:41"
+  },
   "CF261294376": {
     "contest_id": 55,
     "language": "C++20 (GCC 13-64)",
