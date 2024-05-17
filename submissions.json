@@ -21977,6 +21977,24 @@
     ],
     "timestamp": "Feb/16/2024 02:59"
   },
+  "CF261265521": {
+    "contest_id": 1760,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1760/F.cpp",
+    "platform": "Codeforces",
+    "problem_index": "F",
+    "problem_name": "Quests",
+    "problem_url": "https://codeforces.com/contest/1760/problem/F",
+    "submission_id": "CF261265521",
+    "submission_url": "https://codeforces.com/contest/1760/submission/261265521",
+    "tags": [
+      "binary search",
+      "greedy",
+      "sortings",
+      "*1500"
+    ],
+    "timestamp": "May/17/2024 08:01"
+  },
   "CF261265552": {
     "contest_id": 1481,
     "language": "C++20 (GCC 13-64)",
