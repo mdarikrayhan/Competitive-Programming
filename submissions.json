@@ -21977,6 +21977,24 @@
     ],
     "timestamp": "Feb/16/2024 02:59"
   },
+  "CF261266360": {
+    "contest_id": 1476,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1476/C.cpp",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Longest Simple Cycle",
+    "problem_url": "https://codeforces.com/contest/1476/problem/C",
+    "submission_id": "CF261266360",
+    "submission_url": "https://codeforces.com/contest/1476/submission/261266360",
+    "tags": [
+      "dp",
+      "graphs",
+      "greedy",
+      "*1600"
+    ],
+    "timestamp": "May/17/2024 08:18"
+  },
   "CF261266408": {
     "contest_id": 911,
     "language": "C++20 (GCC 13-64)",
