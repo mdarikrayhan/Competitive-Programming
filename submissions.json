@@ -36534,6 +36534,24 @@
     ],
     "timestamp": "May/17/2024 08:26"
   },
+  "CF261267161": {
+    "contest_id": 1710,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1710/A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Color the Picture",
+    "problem_url": "https://codeforces.com/contest/1710/problem/A",
+    "submission_id": "CF261267161",
+    "submission_url": "https://codeforces.com/contest/1710/submission/261267161",
+    "tags": [
+      "constructive algorithms",
+      "greedy",
+      "math",
+      "*1500"
+    ],
+    "timestamp": "May/17/2024 08:35"
+  },
   "CF261267172": {
     "contest_id": 441,
     "language": "C++20 (GCC 13-64)",
