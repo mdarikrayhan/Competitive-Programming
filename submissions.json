@@ -23393,6 +23393,23 @@
     ],
     "timestamp": "May/17/2024 08:26"
   },
+  "CF261294309": {
+    "contest_id": 412,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/412/C.cpp",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Pattern",
+    "problem_url": "https://codeforces.com/contest/412/problem/C",
+    "submission_id": "CF261294309",
+    "submission_url": "https://codeforces.com/contest/412/submission/261294309",
+    "tags": [
+      "implementation",
+      "strings",
+      "*1200"
+    ],
+    "timestamp": "May/17/2024 13:41"
+  },
   "CF261294323": {
     "contest_id": 134,
     "language": "C++20 (GCC 13-64)",
