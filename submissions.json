@@ -23393,6 +23393,23 @@
     ],
     "timestamp": "May/17/2024 08:26"
   },
+  "CF261293871": {
+    "contest_id": 23,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/23/A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "You're Given a String...",
+    "problem_url": "https://codeforces.com/contest/23/problem/A",
+    "submission_id": "CF261293871",
+    "submission_url": "https://codeforces.com/contest/23/submission/261293871",
+    "tags": [
+      "brute force",
+      "greedy",
+      "*1200"
+    ],
+    "timestamp": "May/17/2024 13:36"
+  },
   "CF261293887": {
     "contest_id": 255,
     "language": "C++20 (GCC 13-64)",
