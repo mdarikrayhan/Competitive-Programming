@@ -23393,6 +23393,24 @@
     ],
     "timestamp": "May/17/2024 08:26"
   },
+  "CF261294248": {
+    "contest_id": 401,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/401/B.cpp",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Sereja and Contests",
+    "problem_url": "https://codeforces.com/contest/401/problem/B",
+    "submission_id": "CF261294248",
+    "submission_url": "https://codeforces.com/contest/401/submission/261294248",
+    "tags": [
+      "greedy",
+      "implementation",
+      "math",
+      "*1200"
+    ],
+    "timestamp": "May/17/2024 13:40"
+  },
   "CF261294271": {
     "contest_id": 79,
     "language": "C++20 (GCC 13-64)",
