@@ -21977,6 +21977,22 @@
     ],
     "timestamp": "Feb/16/2024 02:59"
   },
+  "CF261265508": {
+    "contest_id": 1003,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1003/B.cpp",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Binary String Constructing",
+    "problem_url": "https://codeforces.com/contest/1003/problem/B",
+    "submission_id": "CF261265508",
+    "submission_url": "https://codeforces.com/contest/1003/submission/261265508",
+    "tags": [
+      "constructive algorithms",
+      "*1300"
+    ],
+    "timestamp": "May/17/2024 08:01"
+  },
   "CF261265521": {
     "contest_id": 1760,
     "language": "C++20 (GCC 13-64)",
