@@ -23393,6 +23393,23 @@
     ],
     "timestamp": "May/17/2024 08:26"
   },
+  "CF261293129": {
+    "contest_id": 569,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/569/B.cpp",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Inventory",
+    "problem_url": "https://codeforces.com/contest/569/problem/B",
+    "submission_id": "CF261293129",
+    "submission_url": "https://codeforces.com/contest/569/submission/261293129",
+    "tags": [
+      "greedy",
+      "math",
+      "*1200"
+    ],
+    "timestamp": "May/17/2024 13:30"
+  },
   "CF261293181": {
     "contest_id": 811,
     "language": "C++20 (GCC 13-64)",
