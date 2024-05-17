@@ -36530,6 +36530,24 @@
     ],
     "timestamp": "May/17/2024 09:48"
   },
+  "CF261287119": {
+    "contest_id": 158,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/158/C.cpp",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Cd and pwd commands",
+    "problem_url": "https://codeforces.com/contest/158/problem/C",
+    "submission_id": "CF261287119",
+    "submission_url": "https://codeforces.com/contest/158/submission/261287119",
+    "tags": [
+      "*special problem",
+      "data structures",
+      "implementation",
+      "*1400"
+    ],
+    "timestamp": "May/17/2024 12:33"
+  },
   "CF261288231": {
     "contest_id": 584,
     "language": "C++20 (GCC 13-64)",
