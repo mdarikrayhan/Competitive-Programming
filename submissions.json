@@ -23393,6 +23393,23 @@
     ],
     "timestamp": "May/17/2024 08:26"
   },
+  "CF262627840": {
+    "contest_id": 896,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/896/A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Nephren gives a riddle",
+    "problem_url": "https://codeforces.com/contest/896/problem/A",
+    "submission_id": "CF262627840",
+    "submission_url": "https://codeforces.com/contest/896/submission/262627840",
+    "tags": [
+      "binary search",
+      "dfs and similar",
+      "*1700"
+    ],
+    "timestamp": "May/26/2024 03:45"
+  },
   "CF262627850": {
     "contest_id": 756,
     "language": "C++20 (GCC 13-64)",
