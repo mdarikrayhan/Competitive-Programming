@@ -23393,6 +23393,22 @@
     ],
     "timestamp": "May/17/2024 08:26"
   },
+  "CF262629571": {
+    "contest_id": 56,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/56/B.cpp",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Spoilt Permutation",
+    "problem_url": "https://codeforces.com/contest/56/problem/B",
+    "submission_id": "CF262629571",
+    "submission_url": "https://codeforces.com/contest/56/submission/262629571",
+    "tags": [
+      "implementation",
+      "*1300"
+    ],
+    "timestamp": "May/26/2024 04:31"
+  },
   "CF262629579": {
     "contest_id": 1644,
     "language": "C++20 (GCC 13-64)",
