@@ -23393,6 +23393,27 @@
     ],
     "timestamp": "May/17/2024 08:26"
   },
+  "CF262630573": {
+    "contest_id": 780,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/780/D.cpp",
+    "platform": "Codeforces",
+    "problem_index": "D",
+    "problem_name": "Innokenty and a Football League",
+    "problem_url": "https://codeforces.com/contest/780/problem/D",
+    "submission_id": "CF262630573",
+    "submission_url": "https://codeforces.com/contest/780/submission/262630573",
+    "tags": [
+      "2-sat",
+      "graphs",
+      "greedy",
+      "implementation",
+      "shortest paths",
+      "strings",
+      "*1900"
+    ],
+    "timestamp": "May/26/2024 05:04"
+  },
   "CF262630580": {
     "contest_id": 29,
     "language": "C++20 (GCC 13-64)",
