@@ -23393,6 +23393,23 @@
     ],
     "timestamp": "May/17/2024 08:26"
   },
+  "CF262499234": {
+    "contest_id": 1898,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1898/D.cpp",
+    "platform": "Codeforces",
+    "problem_index": "D",
+    "problem_name": "Absolute Beauty",
+    "problem_url": "https://codeforces.com/contest/1898/problem/D",
+    "submission_id": "CF262499234",
+    "submission_url": "https://codeforces.com/contest/1898/submission/262499234",
+    "tags": [
+      "greedy",
+      "math",
+      "*1900"
+    ],
+    "timestamp": "May/25/2024 16:54"
+  },
   "CF262499287": {
     "contest_id": 1276,
     "language": "C++20 (GCC 13-64)",
