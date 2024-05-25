@@ -42169,6 +42169,24 @@
     ],
     "timestamp": "May/25/2024 17:30"
   },
+  "CF262503215": {
+    "contest_id": 159,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/159/A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Friends or Not",
+    "problem_url": "https://codeforces.com/contest/159/problem/A",
+    "submission_id": "CF262503215",
+    "submission_url": "https://codeforces.com/contest/159/submission/262503215",
+    "tags": [
+      "*special problem",
+      "greedy",
+      "implementation",
+      "*1400"
+    ],
+    "timestamp": "May/25/2024 17:31"
+  },
   "CF262503244": {
     "contest_id": 159,
     "language": "C++20 (GCC 13-64)",
