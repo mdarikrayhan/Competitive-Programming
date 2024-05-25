@@ -39360,6 +39360,24 @@
     ],
     "timestamp": "May/25/2024 12:33"
   },
+  "CF262473144": {
+    "contest_id": 1678,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1678/B2.cpp",
+    "platform": "Codeforces",
+    "problem_index": "B2",
+    "problem_name": "Tokitsukaze and Good 01-String (hard version)",
+    "problem_url": "https://codeforces.com/contest/1678/problem/B2",
+    "submission_id": "CF262473144",
+    "submission_url": "https://codeforces.com/contest/1678/submission/262473144",
+    "tags": [
+      "dp",
+      "greedy",
+      "implementation",
+      "*1800"
+    ],
+    "timestamp": "May/25/2024 13:06"
+  },
   "CF262489392": {
     "contest_id": 821,
     "language": "C++20 (GCC 13-64)",
