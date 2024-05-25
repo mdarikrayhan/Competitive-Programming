@@ -39360,6 +39360,25 @@
     ],
     "timestamp": "May/25/2024 12:33"
   },
+  "CF262471565": {
+    "contest_id": 633,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/633/B.cpp",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "A Trivial Problem",
+    "problem_url": "https://codeforces.com/contest/633/problem/B",
+    "submission_id": "CF262471565",
+    "submission_url": "https://codeforces.com/contest/633/submission/262471565",
+    "tags": [
+      "brute force",
+      "constructive algorithms",
+      "math",
+      "number theory",
+      "*1300"
+    ],
+    "timestamp": "May/25/2024 12:54"
+  },
   "CF262471602": {
     "contest_id": 91,
     "language": "C++20 (GCC 13-64)",
