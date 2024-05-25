@@ -43897,6 +43897,26 @@
     ],
     "timestamp": "May/25/2024 12:43"
   },
+  "CF262470220": {
+    "contest_id": 1936,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1936/A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Bitwise Operation Wizard",
+    "problem_url": "https://codeforces.com/contest/1936/problem/A",
+    "submission_id": "CF262470220",
+    "submission_url": "https://codeforces.com/contest/1936/submission/262470220",
+    "tags": [
+      "bitmasks",
+      "constructive algorithms",
+      "greedy",
+      "interactive",
+      "math",
+      "*1700"
+    ],
+    "timestamp": "May/25/2024 12:44"
+  },
   "CF262470259": {
     "contest_id": 1873,
     "language": "C++20 (GCC 13-64)",
