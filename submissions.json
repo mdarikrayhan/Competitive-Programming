@@ -48916,6 +48916,28 @@
     ],
     "timestamp": "May/25/2024 18:15"
   },
+  "CF262614208": {
+    "contest_id": 1537,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1537/E2.cpp",
+    "platform": "Codeforces",
+    "problem_index": "E2",
+    "problem_name": "Erase and Extend (Hard Version)",
+    "problem_url": "https://codeforces.com/contest/1537/problem/E2",
+    "submission_id": "CF262614208",
+    "submission_url": "https://codeforces.com/contest/1537/submission/262614208",
+    "tags": [
+      "binary search",
+      "data structures",
+      "greedy",
+      "hashing",
+      "string suffix structures",
+      "strings",
+      "two pointers",
+      "*2200"
+    ],
+    "timestamp": "May/25/2024 23:52"
+  },
   "CF262614579": {
     "contest_id": 1371,
     "language": "C++20 (GCC 13-64)",
