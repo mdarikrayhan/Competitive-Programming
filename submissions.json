@@ -45188,6 +45188,24 @@
     ],
     "timestamp": "May/26/2024 02:34"
   },
+  "CF262624986": {
+    "contest_id": 734,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/734/E.cpp",
+    "platform": "Codeforces",
+    "problem_index": "E",
+    "problem_name": "Anton and Tree",
+    "problem_url": "https://codeforces.com/contest/734/problem/E",
+    "submission_id": "CF262624986",
+    "submission_url": "https://codeforces.com/contest/734/submission/262624986",
+    "tags": [
+      "dfs and similar",
+      "dp",
+      "trees",
+      "*2100"
+    ],
+    "timestamp": "May/26/2024 02:54"
+  },
   "CF262625001": {
     "contest_id": 1278,
     "language": "C++20 (GCC 13-64)",
