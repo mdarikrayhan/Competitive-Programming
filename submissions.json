@@ -44165,6 +44165,25 @@
     ],
     "timestamp": "May/25/2024 12:53"
   },
+  "CF262471453": {
+    "contest_id": 1822,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1822/G1.cpp",
+    "platform": "Codeforces",
+    "problem_index": "G1",
+    "problem_name": "Magic Triples (Easy Version)",
+    "problem_url": "https://codeforces.com/contest/1822/problem/G1",
+    "submission_id": "CF262471453",
+    "submission_url": "https://codeforces.com/contest/1822/submission/262471453",
+    "tags": [
+      "brute force",
+      "data structures",
+      "math",
+      "number theory",
+      "*1700"
+    ],
+    "timestamp": "May/25/2024 12:53"
+  },
   "CF262471498": {
     "contest_id": 514,
     "language": "C++20 (GCC 13-64)",
