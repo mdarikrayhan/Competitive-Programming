@@ -23393,6 +23393,24 @@
     ],
     "timestamp": "May/17/2024 08:26"
   },
+  "CF262628021": {
+    "contest_id": 1902,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1902/E.cpp",
+    "platform": "Codeforces",
+    "problem_index": "E",
+    "problem_name": "Collapsing Strings",
+    "problem_url": "https://codeforces.com/contest/1902/problem/E",
+    "submission_id": "CF262628021",
+    "submission_url": "https://codeforces.com/contest/1902/submission/262628021",
+    "tags": [
+      "data structures",
+      "strings",
+      "trees",
+      "*1900"
+    ],
+    "timestamp": "May/26/2024 03:50"
+  },
   "CF262628027": {
     "contest_id": 1878,
     "language": "C++20 (GCC 13-64)",
