@@ -23393,6 +23393,24 @@
     ],
     "timestamp": "May/17/2024 08:26"
   },
+  "CF262622984": {
+    "contest_id": 526,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/526/B.cpp",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Om Nom and Dark Park",
+    "problem_url": "https://codeforces.com/contest/526/problem/B",
+    "submission_id": "CF262622984",
+    "submission_url": "https://codeforces.com/contest/526/submission/262622984",
+    "tags": [
+      "dfs and similar",
+      "greedy",
+      "implementation",
+      "*1400"
+    ],
+    "timestamp": "May/26/2024 02:23"
+  },
   "CF262622997": {
     "contest_id": 483,
     "language": "C++20 (GCC 13-64)",
