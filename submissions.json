@@ -23393,6 +23393,23 @@
     ],
     "timestamp": "May/17/2024 08:26"
   },
+  "CF262497439": {
+    "contest_id": 1718,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1718/A1.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A1",
+    "problem_name": "Burenka and Traditions (easy version)",
+    "problem_url": "https://codeforces.com/contest/1718/problem/A1",
+    "submission_id": "CF262497439",
+    "submission_url": "https://codeforces.com/contest/1718/submission/262497439",
+    "tags": [
+      "dp",
+      "greedy",
+      "*1800"
+    ],
+    "timestamp": "May/25/2024 16:38"
+  },
   "CF262497499": {
     "contest_id": 24,
     "language": "C++20 (GCC 13-64)",
