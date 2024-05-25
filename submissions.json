@@ -23393,6 +23393,24 @@
     ],
     "timestamp": "May/17/2024 08:26"
   },
+  "CF262622195": {
+    "contest_id": 1438,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1438/D.cpp",
+    "platform": "Codeforces",
+    "problem_index": "D",
+    "problem_name": "Powerful Ksenia",
+    "problem_url": "https://codeforces.com/contest/1438/problem/D",
+    "submission_id": "CF262622195",
+    "submission_url": "https://codeforces.com/contest/1438/submission/262622195",
+    "tags": [
+      "bitmasks",
+      "constructive algorithms",
+      "math",
+      "*2200"
+    ],
+    "timestamp": "May/26/2024 02:12"
+  },
   "CF262622209": {
     "contest_id": 1200,
     "language": "C++20 (GCC 13-64)",
