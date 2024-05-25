@@ -23393,6 +23393,23 @@
     ],
     "timestamp": "May/17/2024 08:26"
   },
+  "CF262622040": {
+    "contest_id": 1119,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1119/D.cpp",
+    "platform": "Codeforces",
+    "problem_index": "D",
+    "problem_name": "Frets On Fire",
+    "problem_url": "https://codeforces.com/contest/1119/problem/D",
+    "submission_id": "CF262622040",
+    "submission_url": "https://codeforces.com/contest/1119/submission/262622040",
+    "tags": [
+      "binary search",
+      "sortings",
+      "*1800"
+    ],
+    "timestamp": "May/26/2024 02:10"
+  },
   "CF262622125": {
     "contest_id": 8,
     "language": "C++20 (GCC 13-64)",
