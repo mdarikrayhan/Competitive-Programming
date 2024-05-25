@@ -37906,6 +37906,23 @@
     ],
     "timestamp": "May/25/2024 10:39"
   },
+  "CF262461731": {
+    "contest_id": 624,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/624/B.cpp",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Making a String",
+    "problem_url": "https://codeforces.com/contest/624/problem/B",
+    "submission_id": "CF262461731",
+    "submission_url": "https://codeforces.com/contest/624/submission/262461731",
+    "tags": [
+      "greedy",
+      "sortings",
+      "*1100"
+    ],
+    "timestamp": "May/25/2024 11:27"
+  },
   "CF262461746": {
     "contest_id": 1332,
     "language": "C++20 (GCC 13-64)",
