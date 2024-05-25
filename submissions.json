@@ -23393,6 +23393,23 @@
     ],
     "timestamp": "May/17/2024 08:26"
   },
+  "CF262627522": {
+    "contest_id": 1032,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1032/C.cpp",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Playing Piano",
+    "problem_url": "https://codeforces.com/contest/1032/problem/C",
+    "submission_id": "CF262627522",
+    "submission_url": "https://codeforces.com/contest/1032/submission/262627522",
+    "tags": [
+      "constructive algorithms",
+      "dp",
+      "*1700"
+    ],
+    "timestamp": "May/26/2024 03:39"
+  },
   "CF262627528": {
     "contest_id": 1142,
     "language": "C++20 (GCC 13-64)",
