@@ -45188,6 +45188,23 @@
     ],
     "timestamp": "May/26/2024 02:34"
   },
+  "CF262625139": {
+    "contest_id": 980,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/980/C.cpp",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Posterized",
+    "problem_url": "https://codeforces.com/contest/980/problem/C",
+    "submission_id": "CF262625139",
+    "submission_url": "https://codeforces.com/contest/980/submission/262625139",
+    "tags": [
+      "games",
+      "greedy",
+      "*1700"
+    ],
+    "timestamp": "May/26/2024 02:56"
+  },
   "CF262625148": {
     "contest_id": 999,
     "language": "C++20 (GCC 13-64)",
