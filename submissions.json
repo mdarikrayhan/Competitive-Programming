@@ -39360,6 +39360,22 @@
     ],
     "timestamp": "May/25/2024 12:33"
   },
+  "CF262471250": {
+    "contest_id": 1114,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1114/D.cpp",
+    "platform": "Codeforces",
+    "problem_index": "D",
+    "problem_name": "Flood Fill",
+    "problem_url": "https://codeforces.com/contest/1114/problem/D",
+    "submission_id": "CF262471250",
+    "submission_url": "https://codeforces.com/contest/1114/submission/262471250",
+    "tags": [
+      "dp",
+      "*1900"
+    ],
+    "timestamp": "May/25/2024 12:52"
+  },
   "CF262471301": {
     "contest_id": 489,
     "language": "C++20 (GCC 13-64)",
