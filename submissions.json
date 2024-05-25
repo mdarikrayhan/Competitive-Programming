@@ -23393,6 +23393,23 @@
     ],
     "timestamp": "May/17/2024 08:26"
   },
+  "CF262630247": {
+    "contest_id": 173,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/173/B.cpp",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Chamber of Secrets",
+    "problem_url": "https://codeforces.com/contest/173/problem/B",
+    "submission_id": "CF262630247",
+    "submission_url": "https://codeforces.com/contest/173/submission/262630247",
+    "tags": [
+      "dfs and similar",
+      "shortest paths",
+      "*1800"
+    ],
+    "timestamp": "May/26/2024 04:53"
+  },
   "CF262630249": {
     "contest_id": 471,
     "language": "C++20 (GCC 13-64)",
