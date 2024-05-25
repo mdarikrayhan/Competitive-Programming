@@ -42220,6 +42220,21 @@
     ],
     "timestamp": "May/25/2024 17:35"
   },
+  "CF262503721": {
+    "contest_id": 1952,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1952/F.cpp",
+    "platform": "Codeforces",
+    "problem_index": "F",
+    "problem_name": "Grid",
+    "problem_url": "https://codeforces.com/contest/1952/problem/F",
+    "submission_id": "CF262503721",
+    "submission_url": "https://codeforces.com/contest/1952/submission/262503721",
+    "tags": [
+      "brute force"
+    ],
+    "timestamp": "May/25/2024 17:36"
+  },
   "CF262503780": {
     "contest_id": 1952,
     "language": "C++20 (GCC 13-64)",
