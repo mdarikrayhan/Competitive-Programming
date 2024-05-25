@@ -37906,6 +37906,24 @@
     ],
     "timestamp": "May/25/2024 10:39"
   },
+  "CF262462893": {
+    "contest_id": 686,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/686/B.cpp",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Little Robber Girl's Zoo",
+    "problem_url": "https://codeforces.com/contest/686/problem/B",
+    "submission_id": "CF262462893",
+    "submission_url": "https://codeforces.com/contest/686/submission/262462893",
+    "tags": [
+      "constructive algorithms",
+      "implementation",
+      "sortings",
+      "*1100"
+    ],
+    "timestamp": "May/25/2024 11:39"
+  },
   "CF262462913": {
     "contest_id": 303,
     "language": "C++20 (GCC 13-64)",
