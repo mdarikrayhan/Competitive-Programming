@@ -23393,6 +23393,22 @@
     ],
     "timestamp": "May/17/2024 08:26"
   },
+  "CF262467024": {
+    "contest_id": 984,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/984/B.cpp",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Minesweeper",
+    "problem_url": "https://codeforces.com/contest/984/problem/B",
+    "submission_id": "CF262467024",
+    "submission_url": "https://codeforces.com/contest/984/submission/262467024",
+    "tags": [
+      "implementation",
+      "*1100"
+    ],
+    "timestamp": "May/25/2024 12:19"
+  },
   "CF262467070": {
     "contest_id": 1244,
     "language": "C++20 (GCC 13-64)",
