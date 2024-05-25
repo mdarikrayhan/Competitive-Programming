@@ -39360,6 +39360,24 @@
     ],
     "timestamp": "May/25/2024 12:33"
   },
+  "CF262491440": {
+    "contest_id": 808,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/808/C.cpp",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Tea Party",
+    "problem_url": "https://codeforces.com/contest/808/problem/C",
+    "submission_id": "CF262491440",
+    "submission_url": "https://codeforces.com/contest/808/submission/262491440",
+    "tags": [
+      "constructive algorithms",
+      "greedy",
+      "sortings",
+      "*1400"
+    ],
+    "timestamp": "May/25/2024 15:49"
+  },
   "CF262491445": {
     "contest_id": 1015,
     "language": "C++20 (GCC 13-64)",
