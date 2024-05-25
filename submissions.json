@@ -48916,6 +48916,23 @@
     ],
     "timestamp": "May/25/2024 18:15"
   },
+  "CF262614018": {
+    "contest_id": 939,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/939/C.cpp",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Convenient For Everybody",
+    "problem_url": "https://codeforces.com/contest/939/problem/C",
+    "submission_id": "CF262614018",
+    "submission_url": "https://codeforces.com/contest/939/submission/262614018",
+    "tags": [
+      "binary search",
+      "two pointers",
+      "*1600"
+    ],
+    "timestamp": "May/25/2024 23:49"
+  },
   "CF262614019": {
     "contest_id": 204,
     "language": "C++20 (GCC 13-64)",
