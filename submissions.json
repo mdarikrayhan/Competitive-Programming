@@ -23393,6 +23393,25 @@
     ],
     "timestamp": "May/17/2024 08:26"
   },
+  "CF262499173": {
+    "contest_id": 1305,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1305/D.cpp",
+    "platform": "Codeforces",
+    "problem_index": "D",
+    "problem_name": "Kuroni and the Celebration",
+    "problem_url": "https://codeforces.com/contest/1305/problem/D",
+    "submission_id": "CF262499173",
+    "submission_url": "https://codeforces.com/contest/1305/submission/262499173",
+    "tags": [
+      "constructive algorithms",
+      "dfs and similar",
+      "interactive",
+      "trees",
+      "*1900"
+    ],
+    "timestamp": "May/25/2024 16:53"
+  },
   "CF262499207": {
     "contest_id": 1493,
     "language": "C++20 (GCC 13-64)",
