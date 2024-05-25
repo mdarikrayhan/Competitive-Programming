@@ -23393,6 +23393,23 @@
     ],
     "timestamp": "May/17/2024 08:26"
   },
+  "CF262492623": {
+    "contest_id": 625,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/625/A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Guest From the Past",
+    "problem_url": "https://codeforces.com/contest/625/problem/A",
+    "submission_id": "CF262492623",
+    "submission_url": "https://codeforces.com/contest/625/submission/262492623",
+    "tags": [
+      "implementation",
+      "math",
+      "*1700"
+    ],
+    "timestamp": "May/25/2024 15:58"
+  },
   "CF262492626": {
     "contest_id": 1156,
     "language": "C++20 (GCC 13-64)",
