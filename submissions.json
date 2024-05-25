@@ -23393,6 +23393,24 @@
     ],
     "timestamp": "May/17/2024 08:26"
   },
+  "CF262493936": {
+    "contest_id": 864,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/864/C.cpp",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Bus",
+    "problem_url": "https://codeforces.com/contest/864/problem/C",
+    "submission_id": "CF262493936",
+    "submission_url": "https://codeforces.com/contest/864/submission/262493936",
+    "tags": [
+      "greedy",
+      "implementation",
+      "math",
+      "*1500"
+    ],
+    "timestamp": "May/25/2024 16:08"
+  },
   "CF262493940": {
     "contest_id": 796,
     "language": "C++20 (GCC 13-64)",
