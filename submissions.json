@@ -23393,6 +23393,23 @@
     ],
     "timestamp": "May/17/2024 08:26"
   },
+  "CF262630225": {
+    "contest_id": 595,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/595/B.cpp",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Pasha and Phone",
+    "problem_url": "https://codeforces.com/contest/595/problem/B",
+    "submission_id": "CF262630225",
+    "submission_url": "https://codeforces.com/contest/595/submission/262630225",
+    "tags": [
+      "binary search",
+      "math",
+      "*1600"
+    ],
+    "timestamp": "May/26/2024 04:53"
+  },
   "CF262630237": {
     "contest_id": 665,
     "language": "C++20 (GCC 13-64)",
