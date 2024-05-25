@@ -23393,6 +23393,22 @@
     ],
     "timestamp": "May/17/2024 08:26"
   },
+  "CF262627515": {
+    "contest_id": 436,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/436/A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Feed with Candy",
+    "problem_url": "https://codeforces.com/contest/436/problem/A",
+    "submission_id": "CF262627515",
+    "submission_url": "https://codeforces.com/contest/436/submission/262627515",
+    "tags": [
+      "greedy",
+      "*1500"
+    ],
+    "timestamp": "May/26/2024 03:39"
+  },
   "CF262627521": {
     "contest_id": 818,
     "language": "C++20 (GCC 13-64)",
