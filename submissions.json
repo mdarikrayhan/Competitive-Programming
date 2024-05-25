@@ -45188,6 +45188,23 @@
     ],
     "timestamp": "May/26/2024 02:34"
   },
+  "CF262625296": {
+    "contest_id": 618,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/618/C.cpp",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Constellation",
+    "problem_url": "https://codeforces.com/contest/618/problem/C",
+    "submission_id": "CF262625296",
+    "submission_url": "https://codeforces.com/contest/618/submission/262625296",
+    "tags": [
+      "geometry",
+      "implementation",
+      "*1600"
+    ],
+    "timestamp": "May/26/2024 02:58"
+  },
   "CF262625316": {
     "contest_id": 923,
     "language": "C++20 (GCC 13-64)",
