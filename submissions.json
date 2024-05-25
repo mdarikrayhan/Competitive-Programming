@@ -55133,6 +55133,22 @@
     ],
     "timestamp": "May/26/2024 04:26"
   },
+  "CF262629420": {
+    "contest_id": 1046,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1046/C.cpp",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Space Formula",
+    "problem_url": "https://codeforces.com/contest/1046/problem/C",
+    "submission_id": "CF262629420",
+    "submission_url": "https://codeforces.com/contest/1046/submission/262629420",
+    "tags": [
+      "greedy",
+      "*1400"
+    ],
+    "timestamp": "May/26/2024 04:27"
+  },
   "CF262629435": {
     "contest_id": 965,
     "language": "C++20 (GCC 13-64)",
