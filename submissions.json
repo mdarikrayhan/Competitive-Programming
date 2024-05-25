@@ -23393,6 +23393,24 @@
     ],
     "timestamp": "May/17/2024 08:26"
   },
+  "CF262622522": {
+    "contest_id": 1620,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1620/D.cpp",
+    "platform": "Codeforces",
+    "problem_index": "D",
+    "problem_name": "Exact Change",
+    "problem_url": "https://codeforces.com/contest/1620/problem/D",
+    "submission_id": "CF262622522",
+    "submission_url": "https://codeforces.com/contest/1620/submission/262622522",
+    "tags": [
+      "brute force",
+      "constructive algorithms",
+      "greedy",
+      "*2000"
+    ],
+    "timestamp": "May/26/2024 02:17"
+  },
   "CF262622543": {
     "contest_id": 1118,
     "language": "C++20 (GCC 13-64)",
