@@ -54857,6 +54857,23 @@
     ],
     "timestamp": "May/26/2024 03:55"
   },
+  "CF262629064": {
+    "contest_id": 926,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/926/A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "2-3-numbers",
+    "problem_url": "https://codeforces.com/contest/926/problem/A",
+    "submission_id": "CF262629064",
+    "submission_url": "https://codeforces.com/contest/926/submission/262629064",
+    "tags": [
+      "implementation",
+      "math",
+      "*1300"
+    ],
+    "timestamp": "May/26/2024 04:18"
+  },
   "CF262629072": {
     "contest_id": 772,
     "language": "C++20 (GCC 13-64)",
