@@ -43897,6 +43897,26 @@
     ],
     "timestamp": "May/25/2024 12:43"
   },
+  "CF262470543": {
+    "contest_id": 830,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/830/A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Office Keys",
+    "problem_url": "https://codeforces.com/contest/830/problem/A",
+    "submission_id": "CF262470543",
+    "submission_url": "https://codeforces.com/contest/830/submission/262470543",
+    "tags": [
+      "binary search",
+      "brute force",
+      "dp",
+      "greedy",
+      "sortings",
+      "*1800"
+    ],
+    "timestamp": "May/25/2024 12:46"
+  },
   "CF262470575": {
     "contest_id": 1119,
     "language": "C++20 (GCC 13-64)",
