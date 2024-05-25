@@ -23393,6 +23393,25 @@
     ],
     "timestamp": "May/17/2024 08:26"
   },
+  "CF262622559": {
+    "contest_id": 1747,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1747/D.cpp",
+    "platform": "Codeforces",
+    "problem_index": "D",
+    "problem_name": "Yet Another Problem",
+    "problem_url": "https://codeforces.com/contest/1747/problem/D",
+    "submission_id": "CF262622559",
+    "submission_url": "https://codeforces.com/contest/1747/submission/262622559",
+    "tags": [
+      "binary search",
+      "bitmasks",
+      "constructive algorithms",
+      "data structures",
+      "*1900"
+    ],
+    "timestamp": "May/26/2024 02:17"
+  },
   "CF262622580": {
     "contest_id": 1650,
     "language": "C++20 (GCC 13-64)",
