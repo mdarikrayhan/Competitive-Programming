@@ -23393,6 +23393,22 @@
     ],
     "timestamp": "May/17/2024 08:26"
   },
+  "CF262621932": {
+    "contest_id": 111,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/111/A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Petya and Inequiations",
+    "problem_url": "https://codeforces.com/contest/111/problem/A",
+    "submission_id": "CF262621932",
+    "submission_url": "https://codeforces.com/contest/111/submission/262621932",
+    "tags": [
+      "greedy",
+      "*1400"
+    ],
+    "timestamp": "May/26/2024 02:09"
+  },
   "CF262621936": {
     "contest_id": 449,
     "language": "C++20 (GCC 13-64)",
