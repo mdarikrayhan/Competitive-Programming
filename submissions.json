@@ -48916,6 +48916,23 @@
     ],
     "timestamp": "May/25/2024 18:15"
   },
+  "CF262611446": {
+    "contest_id": 1830,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1830/B.cpp",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "The BOSS Can Count Pairs",
+    "problem_url": "https://codeforces.com/contest/1830/problem/B",
+    "submission_id": "CF262611446",
+    "submission_url": "https://codeforces.com/contest/1830/submission/262611446",
+    "tags": [
+      "brute force",
+      "math",
+      "*2000"
+    ],
+    "timestamp": "May/25/2024 23:29"
+  },
   "CF262611506": {
     "contest_id": 466,
     "language": "C++20 (GCC 13-64)",
