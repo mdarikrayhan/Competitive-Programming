@@ -47845,6 +47845,22 @@
     ],
     "timestamp": "May/26/2024 05:11"
   },
+  "CF262630783": {
+    "contest_id": 1860,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1860/D.cpp",
+    "platform": "Codeforces",
+    "problem_index": "D",
+    "problem_name": "Balanced String",
+    "problem_url": "https://codeforces.com/contest/1860/problem/D",
+    "submission_id": "CF262630783",
+    "submission_url": "https://codeforces.com/contest/1860/submission/262630783",
+    "tags": [
+      "dp",
+      "*2200"
+    ],
+    "timestamp": "May/26/2024 05:11"
+  },
   "CF262630797": {
     "contest_id": 771,
     "language": "C++20 (GCC 13-64)",
