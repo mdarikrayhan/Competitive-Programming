@@ -40823,6 +40823,22 @@
     ],
     "timestamp": "May/25/2024 16:23"
   },
+  "CF262495800": {
+    "contest_id": 185,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/185/A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Plant",
+    "problem_url": "https://codeforces.com/contest/185/problem/A",
+    "submission_id": "CF262495800",
+    "submission_url": "https://codeforces.com/contest/185/submission/262495800",
+    "tags": [
+      "math",
+      "*1300"
+    ],
+    "timestamp": "May/25/2024 16:24"
+  },
   "CF262495806": {
     "contest_id": 1010,
     "language": "C++20 (GCC 13-64)",
