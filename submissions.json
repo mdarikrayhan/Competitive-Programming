@@ -39360,6 +39360,24 @@
     ],
     "timestamp": "May/25/2024 12:33"
   },
+  "CF262492318": {
+    "contest_id": 518,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/518/C.cpp",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Anya and Smartphone",
+    "problem_url": "https://codeforces.com/contest/518/problem/C",
+    "submission_id": "CF262492318",
+    "submission_url": "https://codeforces.com/contest/518/submission/262492318",
+    "tags": [
+      "constructive algorithms",
+      "data structures",
+      "implementation",
+      "*1600"
+    ],
+    "timestamp": "May/25/2024 15:56"
+  },
   "CF262492408": {
     "contest_id": 1207,
     "language": "C++20 (GCC 13-64)",
