@@ -23393,6 +23393,25 @@
     ],
     "timestamp": "May/17/2024 08:26"
   },
+  "CF262622482": {
+    "contest_id": 1389,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1389/D.cpp",
+    "platform": "Codeforces",
+    "problem_index": "D",
+    "problem_name": "Segment Intersections",
+    "problem_url": "https://codeforces.com/contest/1389/problem/D",
+    "submission_id": "CF262622482",
+    "submission_url": "https://codeforces.com/contest/1389/submission/262622482",
+    "tags": [
+      "brute force",
+      "greedy",
+      "implementation",
+      "math",
+      "*2100"
+    ],
+    "timestamp": "May/26/2024 02:16"
+  },
   "CF262622506": {
     "contest_id": 319,
     "language": "C++20 (GCC 13-64)",
