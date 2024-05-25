@@ -23393,6 +23393,26 @@
     ],
     "timestamp": "May/17/2024 08:26"
   },
+  "CF262465653": {
+    "contest_id": 1841,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1841/C.cpp",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Ranom Numbers",
+    "problem_url": "https://codeforces.com/contest/1841/problem/C",
+    "submission_id": "CF262465653",
+    "submission_url": "https://codeforces.com/contest/1841/submission/262465653",
+    "tags": [
+      "brute force",
+      "dp",
+      "greedy",
+      "math",
+      "strings",
+      "*1800"
+    ],
+    "timestamp": "May/25/2024 12:07"
+  },
   "CF262465698": {
     "contest_id": 472,
     "language": "C++20 (GCC 13-64)",
