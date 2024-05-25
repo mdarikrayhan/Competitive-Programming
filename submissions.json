@@ -46919,6 +46919,23 @@
     ],
     "timestamp": "May/26/2024 04:33"
   },
+  "CF262630152": {
+    "contest_id": 1744,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1744/F.cpp",
+    "platform": "Codeforces",
+    "problem_index": "F",
+    "problem_name": "MEX vs MED",
+    "problem_url": "https://codeforces.com/contest/1744/problem/F",
+    "submission_id": "CF262630152",
+    "submission_url": "https://codeforces.com/contest/1744/submission/262630152",
+    "tags": [
+      "math",
+      "two pointers",
+      "*2000"
+    ],
+    "timestamp": "May/26/2024 04:50"
+  },
   "CF262630163": {
     "contest_id": 792,
     "language": "C++20 (GCC 13-64)",
