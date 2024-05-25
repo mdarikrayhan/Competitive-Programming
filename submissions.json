@@ -54857,6 +54857,30 @@
     ],
     "timestamp": "May/26/2024 03:55"
   },
+  "CF262629146": {
+    "contest_id": 1770,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1770/D.cpp",
+    "platform": "Codeforces",
+    "problem_index": "D",
+    "problem_name": "Koxia and Game",
+    "problem_url": "https://codeforces.com/contest/1770/problem/D",
+    "submission_id": "CF262629146",
+    "submission_url": "https://codeforces.com/contest/1770/submission/262629146",
+    "tags": [
+      "constructive algorithms",
+      "data structures",
+      "dfs and similar",
+      "dsu",
+      "flows",
+      "games",
+      "graph matchings",
+      "graphs",
+      "implementation",
+      "*2000"
+    ],
+    "timestamp": "May/26/2024 04:20"
+  },
   "CF262629152": {
     "contest_id": 358,
     "language": "C++20 (GCC 13-64)",
