@@ -23393,6 +23393,26 @@
     ],
     "timestamp": "May/17/2024 08:26"
   },
+  "CF262622169": {
+    "contest_id": 1846,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1846/G.cpp",
+    "platform": "Codeforces",
+    "problem_index": "G",
+    "problem_name": "Rudolf and CodeVid-23",
+    "problem_url": "https://codeforces.com/contest/1846/problem/G",
+    "submission_id": "CF262622169",
+    "submission_url": "https://codeforces.com/contest/1846/submission/262622169",
+    "tags": [
+      "bitmasks",
+      "dp",
+      "graphs",
+      "greedy",
+      "shortest paths",
+      "*1900"
+    ],
+    "timestamp": "May/26/2024 02:12"
+  },
   "CF262622171": {
     "contest_id": 453,
     "language": "C++20 (GCC 13-64)",
