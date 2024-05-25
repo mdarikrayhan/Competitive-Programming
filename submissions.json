@@ -23393,6 +23393,24 @@
     ],
     "timestamp": "May/17/2024 08:26"
   },
+  "CF262630335": {
+    "contest_id": 1884,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1884/D.cpp",
+    "platform": "Codeforces",
+    "problem_index": "D",
+    "problem_name": "Counting Rhyme",
+    "problem_url": "https://codeforces.com/contest/1884/problem/D",
+    "submission_id": "CF262630335",
+    "submission_url": "https://codeforces.com/contest/1884/submission/262630335",
+    "tags": [
+      "dp",
+      "math",
+      "number theory",
+      "*2100"
+    ],
+    "timestamp": "May/26/2024 04:57"
+  },
   "CF262630340": {
     "contest_id": 1547,
     "language": "C++20 (GCC 13-64)",
