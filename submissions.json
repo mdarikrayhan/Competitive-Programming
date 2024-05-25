@@ -42089,6 +42089,27 @@
     ],
     "timestamp": "May/25/2024 11:55"
   },
+  "CF262464626": {
+    "contest_id": 1779,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1779/D.cpp",
+    "platform": "Codeforces",
+    "problem_index": "D",
+    "problem_name": "Boris and His Amazing Haircut",
+    "problem_url": "https://codeforces.com/contest/1779/problem/D",
+    "submission_id": "CF262464626",
+    "submission_url": "https://codeforces.com/contest/1779/submission/262464626",
+    "tags": [
+      "constructive algorithms",
+      "data structures",
+      "dp",
+      "dsu",
+      "greedy",
+      "sortings",
+      "*1700"
+    ],
+    "timestamp": "May/25/2024 11:56"
+  },
   "CF262464682": {
     "contest_id": 1365,
     "language": "C++20 (GCC 13-64)",
