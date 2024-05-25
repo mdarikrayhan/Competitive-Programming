@@ -45467,6 +45467,25 @@
     ],
     "timestamp": "May/26/2024 03:14"
   },
+  "CF262626299": {
+    "contest_id": 1808,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1808/C.cpp",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Unlucky Numbers",
+    "problem_url": "https://codeforces.com/contest/1808/problem/C",
+    "submission_id": "CF262626299",
+    "submission_url": "https://codeforces.com/contest/1808/submission/262626299",
+    "tags": [
+      "brute force",
+      "dp",
+      "greedy",
+      "implementation",
+      "*1900"
+    ],
+    "timestamp": "May/26/2024 03:15"
+  },
   "CF262626307": {
     "contest_id": 231,
     "language": "C++20 (GCC 13-64)",
