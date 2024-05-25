@@ -23393,6 +23393,26 @@
     ],
     "timestamp": "May/17/2024 08:26"
   },
+  "CF262622209": {
+    "contest_id": 1200,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1200/D.cpp",
+    "platform": "Codeforces",
+    "problem_index": "D",
+    "problem_name": "White Lines",
+    "problem_url": "https://codeforces.com/contest/1200/problem/D",
+    "submission_id": "CF262622209",
+    "submission_url": "https://codeforces.com/contest/1200/submission/262622209",
+    "tags": [
+      "brute force",
+      "data structures",
+      "dp",
+      "implementation",
+      "two pointers",
+      "*1900"
+    ],
+    "timestamp": "May/26/2024 02:12"
+  },
   "CF262622226": {
     "contest_id": 34,
     "language": "C++20 (GCC 13-64)",
