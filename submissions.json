@@ -23393,6 +23393,23 @@
     ],
     "timestamp": "May/17/2024 08:26"
   },
+  "CF262623403": {
+    "contest_id": 837,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/837/C.cpp",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Two Seals",
+    "problem_url": "https://codeforces.com/contest/837/problem/C",
+    "submission_id": "CF262623403",
+    "submission_url": "https://codeforces.com/contest/837/submission/262623403",
+    "tags": [
+      "brute force",
+      "implementation",
+      "*1500"
+    ],
+    "timestamp": "May/26/2024 02:29"
+  },
   "CF262623459": {
     "contest_id": 1538,
     "language": "C++20 (GCC 13-64)",
