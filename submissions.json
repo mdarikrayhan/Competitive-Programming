@@ -44451,6 +44451,23 @@
     ],
     "timestamp": "May/25/2024 13:06"
   },
+  "CF262473707": {
+    "contest_id": 152,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/152/B.cpp",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Steps",
+    "problem_url": "https://codeforces.com/contest/152/problem/B",
+    "submission_id": "CF262473707",
+    "submission_url": "https://codeforces.com/contest/152/submission/262473707",
+    "tags": [
+      "binary search",
+      "implementation",
+      "*1300"
+    ],
+    "timestamp": "May/25/2024 13:11"
+  },
   "CF262473736": {
     "contest_id": 498,
     "language": "C++20 (GCC 13-64)",
