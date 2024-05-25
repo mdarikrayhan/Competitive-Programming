@@ -46919,6 +46919,24 @@
     ],
     "timestamp": "May/26/2024 04:33"
   },
+  "CF262630127": {
+    "contest_id": 114,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/114/B.cpp",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "PFAST Inc.",
+    "problem_url": "https://codeforces.com/contest/114/problem/B",
+    "submission_id": "CF262630127",
+    "submission_url": "https://codeforces.com/contest/114/submission/262630127",
+    "tags": [
+      "bitmasks",
+      "brute force",
+      "graphs",
+      "*1500"
+    ],
+    "timestamp": "May/26/2024 04:49"
+  },
   "CF262630131": {
     "contest_id": 383,
     "language": "C++20 (GCC 13-64)",
