@@ -23393,6 +23393,25 @@
     ],
     "timestamp": "May/17/2024 08:26"
   },
+  "CF262630695": {
+    "contest_id": 1832,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1832/D1.cpp",
+    "platform": "Codeforces",
+    "problem_index": "D1",
+    "problem_name": "Red-Blue Operations (Easy Version)",
+    "problem_url": "https://codeforces.com/contest/1832/problem/D1",
+    "submission_id": "CF262630695",
+    "submission_url": "https://codeforces.com/contest/1832/submission/262630695",
+    "tags": [
+      "binary search",
+      "greedy",
+      "implementation",
+      "math",
+      "*2100"
+    ],
+    "timestamp": "May/26/2024 05:09"
+  },
   "CF262630707": {
     "contest_id": 400,
     "language": "C++20 (GCC 13-64)",
