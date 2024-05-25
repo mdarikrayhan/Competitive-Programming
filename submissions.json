@@ -45188,6 +45188,24 @@
     ],
     "timestamp": "May/26/2024 02:34"
   },
+  "CF262625385": {
+    "contest_id": 535,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/535/C.cpp",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Tavas and Karafs",
+    "problem_url": "https://codeforces.com/contest/535/problem/C",
+    "submission_id": "CF262625385",
+    "submission_url": "https://codeforces.com/contest/535/submission/262625385",
+    "tags": [
+      "binary search",
+      "greedy",
+      "math",
+      "*1900"
+    ],
+    "timestamp": "May/26/2024 03:00"
+  },
   "CF262625438": {
     "contest_id": 734,
     "language": "C++20 (GCC 13-64)",
