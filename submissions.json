@@ -46647,6 +46647,24 @@
     ],
     "timestamp": "May/26/2024 03:55"
   },
+  "CF262629367": {
+    "contest_id": 794,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/794/C.cpp",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Naming Company",
+    "problem_url": "https://codeforces.com/contest/794/problem/C",
+    "submission_id": "CF262629367",
+    "submission_url": "https://codeforces.com/contest/794/submission/262629367",
+    "tags": [
+      "games",
+      "greedy",
+      "sortings",
+      "*1800"
+    ],
+    "timestamp": "May/26/2024 04:26"
+  },
   "CF262629385": {
     "contest_id": 936,
     "language": "C++20 (GCC 13-64)",
