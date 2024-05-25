@@ -23393,6 +23393,23 @@
     ],
     "timestamp": "May/17/2024 08:26"
   },
+  "CF262626195": {
+    "contest_id": 55,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/55/D.cpp",
+    "platform": "Codeforces",
+    "problem_index": "D",
+    "problem_name": "Beautiful numbers",
+    "problem_url": "https://codeforces.com/contest/55/problem/D",
+    "submission_id": "CF262626195",
+    "submission_url": "https://codeforces.com/contest/55/submission/262626195",
+    "tags": [
+      "dp",
+      "number theory",
+      "*2500"
+    ],
+    "timestamp": "May/26/2024 03:13"
+  },
   "CF262626210": {
     "contest_id": 1847,
     "language": "C++20 (GCC 13-64)",
