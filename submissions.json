@@ -23393,6 +23393,25 @@
     ],
     "timestamp": "May/17/2024 08:26"
   },
+  "CF262467896": {
+    "contest_id": 1829,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1829/H.cpp",
+    "platform": "Codeforces",
+    "problem_index": "H",
+    "problem_name": "Don't Blame Me",
+    "problem_url": "https://codeforces.com/contest/1829/problem/H",
+    "submission_id": "CF262467896",
+    "submission_url": "https://codeforces.com/contest/1829/submission/262467896",
+    "tags": [
+      "bitmasks",
+      "combinatorics",
+      "dp",
+      "math",
+      "*1700"
+    ],
+    "timestamp": "May/25/2024 12:26"
+  },
   "CF262467936": {
     "contest_id": 1883,
     "language": "C++20 (GCC 13-64)",
