@@ -48916,6 +48916,24 @@
     ],
     "timestamp": "May/25/2024 18:15"
   },
+  "CF262615163": {
+    "contest_id": 1016,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1016/D.cpp",
+    "platform": "Codeforces",
+    "problem_index": "D",
+    "problem_name": "Vasya And The Matrix",
+    "problem_url": "https://codeforces.com/contest/1016/problem/D",
+    "submission_id": "CF262615163",
+    "submission_url": "https://codeforces.com/contest/1016/submission/262615163",
+    "tags": [
+      "constructive algorithms",
+      "flows",
+      "math",
+      "*1800"
+    ],
+    "timestamp": "May/26/2024 00:03"
+  },
   "CF262615209": {
     "contest_id": 924,
     "language": "C++20 (GCC 13-64)",
