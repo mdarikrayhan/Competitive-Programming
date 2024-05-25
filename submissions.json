@@ -23393,6 +23393,22 @@
     ],
     "timestamp": "May/17/2024 08:26"
   },
+  "CF262622131": {
+    "contest_id": 317,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/317/A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Perfect Pair",
+    "problem_url": "https://codeforces.com/contest/317/problem/A",
+    "submission_id": "CF262622131",
+    "submission_url": "https://codeforces.com/contest/317/submission/262622131",
+    "tags": [
+      "brute force",
+      "*1600"
+    ],
+    "timestamp": "May/26/2024 02:11"
+  },
   "CF262622136": {
     "contest_id": 772,
     "language": "C++20 (GCC 13-64)",
