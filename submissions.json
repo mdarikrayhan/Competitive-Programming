@@ -47845,6 +47845,24 @@
     ],
     "timestamp": "May/26/2024 05:11"
   },
+  "CF262630797": {
+    "contest_id": 771,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/771/C.cpp",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Bear and Tree Jumps",
+    "problem_url": "https://codeforces.com/contest/771/problem/C",
+    "submission_id": "CF262630797",
+    "submission_url": "https://codeforces.com/contest/771/submission/262630797",
+    "tags": [
+      "dfs and similar",
+      "dp",
+      "trees",
+      "*2100"
+    ],
+    "timestamp": "May/26/2024 05:12"
+  },
   "CF262630799": {
     "contest_id": 911,
     "language": "C++20 (GCC 13-64)",
