@@ -23393,6 +23393,25 @@
     ],
     "timestamp": "May/17/2024 08:26"
   },
+  "CF262630656": {
+    "contest_id": 107,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/107/B.cpp",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Basketball Team",
+    "problem_url": "https://codeforces.com/contest/107/problem/B",
+    "submission_id": "CF262630656",
+    "submission_url": "https://codeforces.com/contest/107/submission/262630656",
+    "tags": [
+      "combinatorics",
+      "dp",
+      "math",
+      "probabilities",
+      "*1600"
+    ],
+    "timestamp": "May/26/2024 05:07"
+  },
   "CF262630657": {
     "contest_id": 1089,
     "language": "C++20 (GCC 13-64)",
