@@ -23393,6 +23393,27 @@
     ],
     "timestamp": "May/17/2024 08:26"
   },
+  "CF262622848": {
+    "contest_id": 1632,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1632/D.cpp",
+    "platform": "Codeforces",
+    "problem_index": "D",
+    "problem_name": "New Year Concert",
+    "problem_url": "https://codeforces.com/contest/1632/problem/D",
+    "submission_id": "CF262622848",
+    "submission_url": "https://codeforces.com/contest/1632/submission/262622848",
+    "tags": [
+      "binary search",
+      "data structures",
+      "greedy",
+      "math",
+      "number theory",
+      "two pointers",
+      "*2000"
+    ],
+    "timestamp": "May/26/2024 02:21"
+  },
   "CF262622854": {
     "contest_id": 1566,
     "language": "C++20 (GCC 13-64)",
