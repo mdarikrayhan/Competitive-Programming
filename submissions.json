@@ -55405,6 +55405,23 @@
     ],
     "timestamp": "May/26/2024 04:33"
   },
+  "CF262629660": {
+    "contest_id": 41,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/41/C.cpp",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Email address",
+    "problem_url": "https://codeforces.com/contest/41/problem/C",
+    "submission_id": "CF262629660",
+    "submission_url": "https://codeforces.com/contest/41/submission/262629660",
+    "tags": [
+      "expression parsing",
+      "implementation",
+      "*1300"
+    ],
+    "timestamp": "May/26/2024 04:34"
+  },
   "CF262629667": {
     "contest_id": 850,
     "language": "C++20 (GCC 13-64)",
