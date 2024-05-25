@@ -23393,6 +23393,23 @@
     ],
     "timestamp": "May/17/2024 08:26"
   },
+  "CF262620868": {
+    "contest_id": 136,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/136/B.cpp",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Ternary Logic",
+    "problem_url": "https://codeforces.com/contest/136/problem/B",
+    "submission_id": "CF262620868",
+    "submission_url": "https://codeforces.com/contest/136/submission/262620868",
+    "tags": [
+      "implementation",
+      "math",
+      "*1100"
+    ],
+    "timestamp": "May/26/2024 01:56"
+  },
   "CF262620894": {
     "contest_id": 1575,
     "language": "C++20 (GCC 13-64)",
