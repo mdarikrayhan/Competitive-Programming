@@ -23393,6 +23393,22 @@
     ],
     "timestamp": "May/17/2024 08:26"
   },
+  "CF262627804": {
+    "contest_id": 925,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/925/A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Stairs and Elevators",
+    "problem_url": "https://codeforces.com/contest/925/problem/A",
+    "submission_id": "CF262627804",
+    "submission_url": "https://codeforces.com/contest/925/submission/262627804",
+    "tags": [
+      "binary search",
+      "*1600"
+    ],
+    "timestamp": "May/26/2024 03:44"
+  },
   "CF262627840": {
     "contest_id": 896,
     "language": "C++20 (GCC 13-64)",
