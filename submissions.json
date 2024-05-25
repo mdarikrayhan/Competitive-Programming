@@ -47903,6 +47903,22 @@
     ],
     "timestamp": "May/26/2024 05:12"
   },
+  "CF262630830": {
+    "contest_id": 1031,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1031/D.cpp",
+    "platform": "Codeforces",
+    "problem_index": "D",
+    "problem_name": "Minimum path",
+    "problem_url": "https://codeforces.com/contest/1031/problem/D",
+    "submission_id": "CF262630830",
+    "submission_url": "https://codeforces.com/contest/1031/submission/262630830",
+    "tags": [
+      "greedy",
+      "*1900"
+    ],
+    "timestamp": "May/26/2024 05:13"
+  },
   "CF262630834": {
     "contest_id": 190,
     "language": "C++20 (GCC 13-64)",
