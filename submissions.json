@@ -23393,6 +23393,24 @@
     ],
     "timestamp": "May/17/2024 08:26"
   },
+  "CF262630602": {
+    "contest_id": 1342,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1342/E.cpp",
+    "platform": "Codeforces",
+    "problem_index": "E",
+    "problem_name": "Placing Rooks",
+    "problem_url": "https://codeforces.com/contest/1342/problem/E",
+    "submission_id": "CF262630602",
+    "submission_url": "https://codeforces.com/contest/1342/submission/262630602",
+    "tags": [
+      "combinatorics",
+      "fft",
+      "math",
+      "*2300"
+    ],
+    "timestamp": "May/26/2024 05:05"
+  },
   "CF262630623": {
     "contest_id": 455,
     "language": "C++20 (GCC 13-64)",
