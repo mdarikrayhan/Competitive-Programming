@@ -23393,6 +23393,22 @@
     ],
     "timestamp": "May/17/2024 08:26"
   },
+  "CF262630805": {
+    "contest_id": 19,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/19/A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "World Football Cup",
+    "problem_url": "https://codeforces.com/contest/19/problem/A",
+    "submission_id": "CF262630805",
+    "submission_url": "https://codeforces.com/contest/19/submission/262630805",
+    "tags": [
+      "implementation",
+      "*1400"
+    ],
+    "timestamp": "May/26/2024 05:12"
+  },
   "CF262630814": {
     "contest_id": 1863,
     "language": "C++20 (GCC 13-64)",
