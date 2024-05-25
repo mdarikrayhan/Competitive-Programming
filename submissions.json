@@ -23393,6 +23393,23 @@
     ],
     "timestamp": "May/17/2024 08:26"
   },
+  "CF262627192": {
+    "contest_id": 593,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/593/B.cpp",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Anton and Lines",
+    "problem_url": "https://codeforces.com/contest/593/problem/B",
+    "submission_id": "CF262627192",
+    "submission_url": "https://codeforces.com/contest/593/submission/262627192",
+    "tags": [
+      "geometry",
+      "sortings",
+      "*1600"
+    ],
+    "timestamp": "May/26/2024 03:32"
+  },
   "CF262627228": {
     "contest_id": 551,
     "language": "C++20 (GCC 13-64)",
