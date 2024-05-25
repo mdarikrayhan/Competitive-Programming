@@ -23393,6 +23393,23 @@
     ],
     "timestamp": "May/17/2024 08:26"
   },
+  "CF262627850": {
+    "contest_id": 756,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/756/B.cpp",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Travel Card",
+    "problem_url": "https://codeforces.com/contest/756/problem/B",
+    "submission_id": "CF262627850",
+    "submission_url": "https://codeforces.com/contest/756/submission/262627850",
+    "tags": [
+      "binary search",
+      "dp",
+      "*1600"
+    ],
+    "timestamp": "May/26/2024 03:46"
+  },
   "CF262627860": {
     "contest_id": 729,
     "language": "C++20 (GCC 13-64)",
