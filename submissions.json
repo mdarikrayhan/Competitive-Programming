@@ -42089,6 +42089,24 @@
     ],
     "timestamp": "May/25/2024 11:55"
   },
+  "CF262464801": {
+    "contest_id": 1283,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1283/D.cpp",
+    "platform": "Codeforces",
+    "problem_index": "D",
+    "problem_name": "Christmas Trees",
+    "problem_url": "https://codeforces.com/contest/1283/problem/D",
+    "submission_id": "CF262464801",
+    "submission_url": "https://codeforces.com/contest/1283/submission/262464801",
+    "tags": [
+      "graphs",
+      "greedy",
+      "shortest paths",
+      "*1800"
+    ],
+    "timestamp": "May/25/2024 11:58"
+  },
   "CF262464812": {
     "contest_id": 1543,
     "language": "C++20 (GCC 13-64)",
