@@ -23393,6 +23393,23 @@
     ],
     "timestamp": "May/17/2024 08:26"
   },
+  "CF262492854": {
+    "contest_id": 1809,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1809/D.cpp",
+    "platform": "Codeforces",
+    "problem_index": "D",
+    "problem_name": "Binary String Sorting",
+    "problem_url": "https://codeforces.com/contest/1809/problem/D",
+    "submission_id": "CF262492854",
+    "submission_url": "https://codeforces.com/contest/1809/submission/262492854",
+    "tags": [
+      "constructive algorithms",
+      "greedy",
+      "*1800"
+    ],
+    "timestamp": "May/25/2024 16:00"
+  },
   "CF262492919": {
     "contest_id": 490,
     "language": "C++20 (GCC 13-64)",
