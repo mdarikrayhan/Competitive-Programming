@@ -23393,6 +23393,25 @@
     ],
     "timestamp": "May/17/2024 08:26"
   },
+  "CF262623462": {
+    "contest_id": 827,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/827/A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "String Reconstruction",
+    "problem_url": "https://codeforces.com/contest/827/problem/A",
+    "submission_id": "CF262623462",
+    "submission_url": "https://codeforces.com/contest/827/submission/262623462",
+    "tags": [
+      "data structures",
+      "greedy",
+      "sortings",
+      "strings",
+      "*1700"
+    ],
+    "timestamp": "May/26/2024 02:30"
+  },
   "CF262623488": {
     "contest_id": 761,
     "language": "C++20 (GCC 13-64)",
