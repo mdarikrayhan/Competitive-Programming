@@ -23393,6 +23393,23 @@
     ],
     "timestamp": "May/17/2024 08:26"
   },
+  "CF262629511": {
+    "contest_id": 1585,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1585/D.cpp",
+    "platform": "Codeforces",
+    "problem_index": "D",
+    "problem_name": "Yet Another Sorting Problem",
+    "problem_url": "https://codeforces.com/contest/1585/problem/D",
+    "submission_id": "CF262629511",
+    "submission_url": "https://codeforces.com/contest/1585/submission/262629511",
+    "tags": [
+      "data structures",
+      "math",
+      "*1900"
+    ],
+    "timestamp": "May/26/2024 04:30"
+  },
   "CF262629520": {
     "contest_id": 6,
     "language": "C++20 (GCC 13-64)",
