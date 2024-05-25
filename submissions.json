@@ -39360,6 +39360,24 @@
     ],
     "timestamp": "May/25/2024 12:33"
   },
+  "CF262491416": {
+    "contest_id": 1490,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1490/G.cpp",
+    "platform": "Codeforces",
+    "problem_index": "G",
+    "problem_name": "Old Floppy Drive ",
+    "problem_url": "https://codeforces.com/contest/1490/problem/G",
+    "submission_id": "CF262491416",
+    "submission_url": "https://codeforces.com/contest/1490/submission/262491416",
+    "tags": [
+      "binary search",
+      "data structures",
+      "math",
+      "*1900"
+    ],
+    "timestamp": "May/25/2024 15:49"
+  },
   "CF262491427": {
     "contest_id": 1453,
     "language": "C++20 (GCC 13-64)",
