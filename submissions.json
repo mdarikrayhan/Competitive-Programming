@@ -37906,6 +37906,24 @@
     ],
     "timestamp": "May/25/2024 10:39"
   },
+  "CF262462606": {
+    "contest_id": 962,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/962/C.cpp",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Make a Square",
+    "problem_url": "https://codeforces.com/contest/962/problem/C",
+    "submission_id": "CF262462606",
+    "submission_url": "https://codeforces.com/contest/962/submission/262462606",
+    "tags": [
+      "brute force",
+      "implementation",
+      "math",
+      "*1400"
+    ],
+    "timestamp": "May/25/2024 11:36"
+  },
   "CF262462625": {
     "contest_id": 913,
     "language": "C++20 (GCC 13-64)",
