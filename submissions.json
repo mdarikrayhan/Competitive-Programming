@@ -23393,6 +23393,23 @@
     ],
     "timestamp": "May/17/2024 08:26"
   },
+  "CF262630558": {
+    "contest_id": 1267,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1267/L.cpp",
+    "platform": "Codeforces",
+    "problem_index": "L",
+    "problem_name": "Lexicography",
+    "problem_url": "https://codeforces.com/contest/1267/problem/L",
+    "submission_id": "CF262630558",
+    "submission_url": "https://codeforces.com/contest/1267/submission/262630558",
+    "tags": [
+      "constructive algorithms",
+      "strings",
+      "*1800"
+    ],
+    "timestamp": "May/26/2024 05:04"
+  },
   "CF262630565": {
     "contest_id": 1605,
     "language": "C++20 (GCC 13-64)",
