@@ -42269,6 +42269,25 @@
     ],
     "timestamp": "May/25/2024 17:37"
   },
+  "CF262503889": {
+    "contest_id": 1952,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1952/J.cpp",
+    "platform": "Codeforces",
+    "problem_index": "J",
+    "problem_name": "Help, what does it mean to be \"Based\"",
+    "problem_url": "https://codeforces.com/contest/1952/problem/J",
+    "submission_id": "CF262503889",
+    "submission_url": "https://codeforces.com/contest/1952/submission/262503889",
+    "tags": [
+      "brute force",
+      "constructive algorithms",
+      "expression parsing",
+      "implementation",
+      "sortings"
+    ],
+    "timestamp": "May/25/2024 17:37"
+  },
   "CF262506820": {
     "contest_id": 1713,
     "language": "C++20 (GCC 13-64)",
