@@ -40654,6 +40654,22 @@
     ],
     "timestamp": "May/25/2024 16:19"
   },
+  "CF262495262": {
+    "contest_id": 219,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/219/B.cpp",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Special Offer! Super Price 999 Bourles!",
+    "problem_url": "https://codeforces.com/contest/219/problem/B",
+    "submission_id": "CF262495262",
+    "submission_url": "https://codeforces.com/contest/219/submission/262495262",
+    "tags": [
+      "implementation",
+      "*1400"
+    ],
+    "timestamp": "May/25/2024 16:19"
+  },
   "CF262495278": {
     "contest_id": 1426,
     "language": "C++20 (GCC 13-64)",
