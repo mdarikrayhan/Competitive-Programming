@@ -23393,6 +23393,26 @@
     ],
     "timestamp": "May/17/2024 08:26"
   },
+  "CF262629506": {
+    "contest_id": 822,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/822/D.cpp",
+    "platform": "Codeforces",
+    "problem_index": "D",
+    "problem_name": "My pretty girl Noora",
+    "problem_url": "https://codeforces.com/contest/822/problem/D",
+    "submission_id": "CF262629506",
+    "submission_url": "https://codeforces.com/contest/822/submission/262629506",
+    "tags": [
+      "brute force",
+      "dp",
+      "greedy",
+      "math",
+      "number theory",
+      "*1800"
+    ],
+    "timestamp": "May/26/2024 04:30"
+  },
   "CF262629511": {
     "contest_id": 1585,
     "language": "C++20 (GCC 13-64)",
