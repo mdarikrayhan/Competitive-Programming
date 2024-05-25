@@ -23393,6 +23393,22 @@
     ],
     "timestamp": "May/17/2024 08:26"
   },
+  "CF262498586": {
+    "contest_id": 1249,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1249/D1.cpp",
+    "platform": "Codeforces",
+    "problem_index": "D1",
+    "problem_name": "Too Many Segments (easy version)",
+    "problem_url": "https://codeforces.com/contest/1249/problem/D1",
+    "submission_id": "CF262498586",
+    "submission_url": "https://codeforces.com/contest/1249/submission/262498586",
+    "tags": [
+      "greedy",
+      "*1800"
+    ],
+    "timestamp": "May/25/2024 16:48"
+  },
   "CF262498787": {
     "contest_id": 1060,
     "language": "C++20 (GCC 13-64)",
