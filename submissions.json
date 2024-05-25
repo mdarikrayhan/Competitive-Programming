@@ -23393,6 +23393,23 @@
     ],
     "timestamp": "May/17/2024 08:26"
   },
+  "CF262493487": {
+    "contest_id": 148,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/148/B.cpp",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Escape",
+    "problem_url": "https://codeforces.com/contest/148/problem/B",
+    "submission_id": "CF262493487",
+    "submission_url": "https://codeforces.com/contest/148/submission/262493487",
+    "tags": [
+      "implementation",
+      "math",
+      "*1500"
+    ],
+    "timestamp": "May/25/2024 16:05"
+  },
   "CF262493569": {
     "contest_id": 768,
     "language": "C++20 (GCC 13-64)",
