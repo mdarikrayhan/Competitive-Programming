@@ -39360,6 +39360,23 @@
     ],
     "timestamp": "May/25/2024 12:33"
   },
+  "CF262472943": {
+    "contest_id": 407,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/407/B.cpp",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Long Path",
+    "problem_url": "https://codeforces.com/contest/407/problem/B",
+    "submission_id": "CF262472943",
+    "submission_url": "https://codeforces.com/contest/407/submission/262472943",
+    "tags": [
+      "dp",
+      "implementation",
+      "*1600"
+    ],
+    "timestamp": "May/25/2024 13:05"
+  },
   "CF262473000": {
     "contest_id": 284,
     "language": "C++20 (GCC 13-64)",
