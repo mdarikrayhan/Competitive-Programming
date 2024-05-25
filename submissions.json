@@ -46919,6 +46919,23 @@
     ],
     "timestamp": "May/26/2024 04:33"
   },
+  "CF262629923": {
+    "contest_id": 756,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/756/A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Pavel and barbecue",
+    "problem_url": "https://codeforces.com/contest/756/problem/A",
+    "submission_id": "CF262629923",
+    "submission_url": "https://codeforces.com/contest/756/submission/262629923",
+    "tags": [
+      "constructive algorithms",
+      "dfs and similar",
+      "*1700"
+    ],
+    "timestamp": "May/26/2024 04:42"
+  },
   "CF262629939": {
     "contest_id": 1195,
     "language": "C++20 (GCC 13-64)",
