@@ -45467,6 +45467,25 @@
     ],
     "timestamp": "May/26/2024 03:14"
   },
+  "CF262626562": {
+    "contest_id": 1905,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1905/D.cpp",
+    "platform": "Codeforces",
+    "problem_index": "D",
+    "problem_name": "Cyclic MEX",
+    "problem_url": "https://codeforces.com/contest/1905/problem/D",
+    "submission_id": "CF262626562",
+    "submission_url": "https://codeforces.com/contest/1905/submission/262626562",
+    "tags": [
+      "data structures",
+      "implementation",
+      "math",
+      "two pointers",
+      "*2000"
+    ],
+    "timestamp": "May/26/2024 03:20"
+  },
   "CF262626588": {
     "contest_id": 1867,
     "language": "C++20 (GCC 13-64)",
