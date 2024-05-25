@@ -23393,6 +23393,26 @@
     ],
     "timestamp": "May/17/2024 08:26"
   },
+  "CF262623641": {
+    "contest_id": 558,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/558/C.cpp",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Amr and Chemistry",
+    "problem_url": "https://codeforces.com/contest/558/problem/C",
+    "submission_id": "CF262623641",
+    "submission_url": "https://codeforces.com/contest/558/submission/262623641",
+    "tags": [
+      "brute force",
+      "graphs",
+      "greedy",
+      "math",
+      "shortest paths",
+      "*1900"
+    ],
+    "timestamp": "May/26/2024 02:32"
+  },
   "CF262623652": {
     "contest_id": 1043,
     "language": "C++20 (GCC 13-64)",
