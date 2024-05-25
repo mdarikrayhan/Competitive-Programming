@@ -23393,6 +23393,27 @@
     ],
     "timestamp": "May/17/2024 08:26"
   },
+  "CF262496715": {
+    "contest_id": 1670,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1670/D.cpp",
+    "platform": "Codeforces",
+    "problem_index": "D",
+    "problem_name": "Very Suspicious",
+    "problem_url": "https://codeforces.com/contest/1670/problem/D",
+    "submission_id": "CF262496715",
+    "submission_url": "https://codeforces.com/contest/1670/submission/262496715",
+    "tags": [
+      "binary search",
+      "brute force",
+      "geometry",
+      "greedy",
+      "implementation",
+      "math",
+      "*1700"
+    ],
+    "timestamp": "May/25/2024 16:32"
+  },
   "CF262496763": {
     "contest_id": 1310,
     "language": "C++20 (GCC 13-64)",
