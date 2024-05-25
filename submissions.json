@@ -45188,6 +45188,26 @@
     ],
     "timestamp": "May/26/2024 02:34"
   },
+  "CF262625720": {
+    "contest_id": 1611,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1611/E2.cpp",
+    "platform": "Codeforces",
+    "problem_index": "E2",
+    "problem_name": "Escape The Maze (hard version)",
+    "problem_url": "https://codeforces.com/contest/1611/problem/E2",
+    "submission_id": "CF262625720",
+    "submission_url": "https://codeforces.com/contest/1611/submission/262625720",
+    "tags": [
+      "dfs and similar",
+      "dp",
+      "greedy",
+      "shortest paths",
+      "trees",
+      "*1900"
+    ],
+    "timestamp": "May/26/2024 03:05"
+  },
   "CF262625734": {
     "contest_id": 1614,
     "language": "C++20 (GCC 13-64)",
