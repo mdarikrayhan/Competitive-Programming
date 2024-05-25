@@ -40775,6 +40775,25 @@
     ],
     "timestamp": "May/25/2024 10:39"
   },
+  "CF262460235": {
+    "contest_id": 997,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/997/A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Convert to Ones",
+    "problem_url": "https://codeforces.com/contest/997/problem/A",
+    "submission_id": "CF262460235",
+    "submission_url": "https://codeforces.com/contest/997/submission/262460235",
+    "tags": [
+      "brute force",
+      "greedy",
+      "implementation",
+      "math",
+      "*1500"
+    ],
+    "timestamp": "May/25/2024 11:10"
+  },
   "CF262460273": {
     "contest_id": 1677,
     "language": "C++20 (GCC 13-64)",
