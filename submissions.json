@@ -23393,6 +23393,23 @@
     ],
     "timestamp": "May/17/2024 08:26"
   },
+  "CF262622013": {
+    "contest_id": 22,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/22/B.cpp",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Bargaining Table",
+    "problem_url": "https://codeforces.com/contest/22/problem/B",
+    "submission_id": "CF262622013",
+    "submission_url": "https://codeforces.com/contest/22/submission/262622013",
+    "tags": [
+      "brute force",
+      "dp",
+      "*1500"
+    ],
+    "timestamp": "May/26/2024 02:10"
+  },
   "CF262622029": {
     "contest_id": 1195,
     "language": "C++20 (GCC 13-64)",
