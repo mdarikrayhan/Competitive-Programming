@@ -23393,6 +23393,25 @@
     ],
     "timestamp": "May/17/2024 08:26"
   },
+  "CF262628129": {
+    "contest_id": 1925,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1925/D.cpp",
+    "platform": "Codeforces",
+    "problem_index": "D",
+    "problem_name": "Good Trip",
+    "problem_url": "https://codeforces.com/contest/1925/problem/D",
+    "submission_id": "CF262628129",
+    "submission_url": "https://codeforces.com/contest/1925/submission/262628129",
+    "tags": [
+      "combinatorics",
+      "dp",
+      "math",
+      "probabilities",
+      "*1900"
+    ],
+    "timestamp": "May/26/2024 03:52"
+  },
   "CF262628252": {
     "contest_id": 439,
     "language": "C++20 (GCC 13-64)",
