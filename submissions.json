@@ -46919,6 +46919,23 @@
     ],
     "timestamp": "May/26/2024 04:33"
   },
+  "CF262630145": {
+    "contest_id": 404,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/404/B.cpp",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Marathon",
+    "problem_url": "https://codeforces.com/contest/404/problem/B",
+    "submission_id": "CF262630145",
+    "submission_url": "https://codeforces.com/contest/404/submission/262630145",
+    "tags": [
+      "implementation",
+      "math",
+      "*1500"
+    ],
+    "timestamp": "May/26/2024 04:50"
+  },
   "CF262630152": {
     "contest_id": 1744,
     "language": "C++20 (GCC 13-64)",
