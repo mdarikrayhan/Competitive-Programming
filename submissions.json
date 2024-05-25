@@ -23393,6 +23393,26 @@
     ],
     "timestamp": "May/17/2024 08:26"
   },
+  "CF262466064": {
+    "contest_id": 659,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/659/E.cpp",
+    "platform": "Codeforces",
+    "problem_index": "E",
+    "problem_name": "New Reform",
+    "problem_url": "https://codeforces.com/contest/659/problem/E",
+    "submission_id": "CF262466064",
+    "submission_url": "https://codeforces.com/contest/659/submission/262466064",
+    "tags": [
+      "data structures",
+      "dfs and similar",
+      "dsu",
+      "graphs",
+      "greedy",
+      "*1600"
+    ],
+    "timestamp": "May/25/2024 12:11"
+  },
   "CF262466090": {
     "contest_id": 950,
     "language": "C++20 (GCC 13-64)",
