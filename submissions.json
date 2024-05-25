@@ -39360,6 +39360,23 @@
     ],
     "timestamp": "May/25/2024 12:33"
   },
+  "CF262471602": {
+    "contest_id": 91,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/91/B.cpp",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Queue",
+    "problem_url": "https://codeforces.com/contest/91/problem/B",
+    "submission_id": "CF262471602",
+    "submission_url": "https://codeforces.com/contest/91/submission/262471602",
+    "tags": [
+      "binary search",
+      "data structures",
+      "*1500"
+    ],
+    "timestamp": "May/25/2024 12:54"
+  },
   "CF262471652": {
     "contest_id": 1168,
     "language": "C++20 (GCC 13-64)",
