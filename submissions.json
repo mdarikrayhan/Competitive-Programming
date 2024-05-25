@@ -23393,6 +23393,23 @@
     ],
     "timestamp": "May/17/2024 08:26"
   },
+  "CF262630507": {
+    "contest_id": 849,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/849/B.cpp",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Tell Your World",
+    "problem_url": "https://codeforces.com/contest/849/problem/B",
+    "submission_id": "CF262630507",
+    "submission_url": "https://codeforces.com/contest/849/submission/262630507",
+    "tags": [
+      "brute force",
+      "geometry",
+      "*1600"
+    ],
+    "timestamp": "May/26/2024 05:02"
+  },
   "CF262630523": {
     "contest_id": 466,
     "language": "C++20 (GCC 13-64)",
