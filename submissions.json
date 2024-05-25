@@ -39360,6 +39360,25 @@
     ],
     "timestamp": "May/25/2024 12:33"
   },
+  "CF262491932": {
+    "contest_id": 1492,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1492/D.cpp",
+    "platform": "Codeforces",
+    "problem_index": "D",
+    "problem_name": "Genius's Gambit",
+    "problem_url": "https://codeforces.com/contest/1492/problem/D",
+    "submission_id": "CF262491932",
+    "submission_url": "https://codeforces.com/contest/1492/submission/262491932",
+    "tags": [
+      "bitmasks",
+      "constructive algorithms",
+      "greedy",
+      "math",
+      "*1900"
+    ],
+    "timestamp": "May/25/2024 15:53"
+  },
   "CF262491950": {
     "contest_id": 1560,
     "language": "C++20 (GCC 13-64)",
