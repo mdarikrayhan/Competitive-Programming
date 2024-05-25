@@ -55462,6 +55462,26 @@
     ],
     "timestamp": "May/26/2024 04:35"
   },
+  "CF262629745": {
+    "contest_id": 1582,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1582/E.cpp",
+    "platform": "Codeforces",
+    "problem_index": "E",
+    "problem_name": "Pchelyonok and Segments",
+    "problem_url": "https://codeforces.com/contest/1582/problem/E",
+    "submission_id": "CF262629745",
+    "submission_url": "https://codeforces.com/contest/1582/submission/262629745",
+    "tags": [
+      "binary search",
+      "data structures",
+      "dp",
+      "greedy",
+      "math",
+      "*2000"
+    ],
+    "timestamp": "May/26/2024 04:37"
+  },
   "CF262629755": {
     "contest_id": 690,
     "language": "C++20 (GCC 13-64)",
