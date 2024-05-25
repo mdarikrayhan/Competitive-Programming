@@ -40654,6 +40654,23 @@
     ],
     "timestamp": "May/25/2024 16:19"
   },
+  "CF262495441": {
+    "contest_id": 1210,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1210/A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Anadi and Domino",
+    "problem_url": "https://codeforces.com/contest/1210/problem/A",
+    "submission_id": "CF262495441",
+    "submission_url": "https://codeforces.com/contest/1210/submission/262495441",
+    "tags": [
+      "brute force",
+      "graphs",
+      "*1700"
+    ],
+    "timestamp": "May/25/2024 16:21"
+  },
   "CF262495489": {
     "contest_id": 605,
     "language": "C++20 (GCC 13-64)",
