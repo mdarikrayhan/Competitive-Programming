@@ -45188,6 +45188,22 @@
     ],
     "timestamp": "May/26/2024 02:34"
   },
+  "CF262625438": {
+    "contest_id": 734,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/734/D.cpp",
+    "platform": "Codeforces",
+    "problem_index": "D",
+    "problem_name": "Anton and Chess",
+    "problem_url": "https://codeforces.com/contest/734/problem/D",
+    "submission_id": "CF262625438",
+    "submission_url": "https://codeforces.com/contest/734/submission/262625438",
+    "tags": [
+      "implementation",
+      "*1700"
+    ],
+    "timestamp": "May/26/2024 03:01"
+  },
   "CF262625480": {
     "contest_id": 617,
     "language": "C++20 (GCC 13-64)",
