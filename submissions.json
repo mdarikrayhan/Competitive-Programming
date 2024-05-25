@@ -40654,6 +40654,23 @@
     ],
     "timestamp": "May/25/2024 16:19"
   },
+  "CF262495303": {
+    "contest_id": 1184,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1184/B1.cpp",
+    "platform": "Codeforces",
+    "problem_index": "B1",
+    "problem_name": "The Doctor Meets Vader (Easy)",
+    "problem_url": "https://codeforces.com/contest/1184/problem/B1",
+    "submission_id": "CF262495303",
+    "submission_url": "https://codeforces.com/contest/1184/submission/262495303",
+    "tags": [
+      "binary search",
+      "sortings",
+      "*1400"
+    ],
+    "timestamp": "May/25/2024 16:19"
+  },
   "CF262495332": {
     "contest_id": 1862,
     "language": "C++20 (GCC 13-64)",
