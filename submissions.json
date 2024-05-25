@@ -23393,6 +23393,25 @@
     ],
     "timestamp": "May/17/2024 08:26"
   },
+  "CF262497868": {
+    "contest_id": 1704,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1704/D.cpp",
+    "platform": "Codeforces",
+    "problem_index": "D",
+    "problem_name": "Magical Array",
+    "problem_url": "https://codeforces.com/contest/1704/problem/D",
+    "submission_id": "CF262497868",
+    "submission_url": "https://codeforces.com/contest/1704/submission/262497868",
+    "tags": [
+      "constructive algorithms",
+      "hashing",
+      "implementation",
+      "math",
+      "*1900"
+    ],
+    "timestamp": "May/25/2024 16:42"
+  },
   "CF262497869": {
     "contest_id": 501,
     "language": "C++20 (GCC 13-64)",
