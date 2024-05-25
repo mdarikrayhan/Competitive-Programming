@@ -23393,6 +23393,25 @@
     ],
     "timestamp": "May/17/2024 08:26"
   },
+  "CF262623328": {
+    "contest_id": 894,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/894/B.cpp",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Ralph And His Magic Field",
+    "problem_url": "https://codeforces.com/contest/894/problem/B",
+    "submission_id": "CF262623328",
+    "submission_url": "https://codeforces.com/contest/894/submission/262623328",
+    "tags": [
+      "combinatorics",
+      "constructive algorithms",
+      "math",
+      "number theory",
+      "*1800"
+    ],
+    "timestamp": "May/26/2024 02:28"
+  },
   "CF262623341": {
     "contest_id": 1023,
     "language": "C++20 (GCC 13-64)",
