@@ -23393,6 +23393,24 @@
     ],
     "timestamp": "May/17/2024 08:26"
   },
+  "CF262627480": {
+    "contest_id": 666,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/666/A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Reberland Linguistics",
+    "problem_url": "https://codeforces.com/contest/666/problem/A",
+    "submission_id": "CF262627480",
+    "submission_url": "https://codeforces.com/contest/666/submission/262627480",
+    "tags": [
+      "dp",
+      "implementation",
+      "strings",
+      "*1800"
+    ],
+    "timestamp": "May/26/2024 03:38"
+  },
   "CF262627488": {
     "contest_id": 1266,
     "language": "C++20 (GCC 13-64)",
