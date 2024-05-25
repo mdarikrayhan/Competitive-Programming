@@ -23393,6 +23393,22 @@
     ],
     "timestamp": "May/17/2024 08:26"
   },
+  "CF262498561": {
+    "contest_id": 933,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/933/A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "A Twisty Movement",
+    "problem_url": "https://codeforces.com/contest/933/problem/A",
+    "submission_id": "CF262498561",
+    "submission_url": "https://codeforces.com/contest/933/submission/262498561",
+    "tags": [
+      "dp",
+      "*1800"
+    ],
+    "timestamp": "May/25/2024 16:48"
+  },
   "CF262498586": {
     "contest_id": 1249,
     "language": "C++20 (GCC 13-64)",
