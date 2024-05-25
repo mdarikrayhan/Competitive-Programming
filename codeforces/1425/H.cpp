@@ -1,23 +1,20 @@
-#include <iostream>
+#include <bits/stdc++.h>
 using namespace std;
+#define int long long 
 
-int main()
-{
-	int t,a,b,c,d;
-	cin>>t;
-	while(t--)
-	{
-		bool ar[4]={0};
-		cin>>a>>b>>c>>d;
-		ar[((a+b)%2)*2]=true;
-		ar[((a+b)%2)*2+1]=true;
-		if(b+c==0) ar[1]=true,ar[2]=true;
-		if(a+d==0) ar[0]=true,ar[3]=true;
-		for(int i=0;i<4;i++) 
-		{
-			if(ar[i]) cout<<"Tidak"<<" ";
-			else cout<<"Ya"<<" ";
-		}
-		cout<<"\n";
-	}
+signed main() {
+  ios::sync_with_stdio(false) ; cin.tie(0);
+  
+  int t; cin >> t;
+  while(t--){
+    int a , b , c , d; cin >> a >> b >> c >> d;
+    // (-inf , -1] * (-1 , 0) * (0 , 1) * [1 , inf];
+    int sign = (a + b) % 2 ? -1 : 1;
+    cout << (sign == -1 && a + d > 0 ? "Ya" : "Tidak") << " ";
+    cout << (sign == -1 && b + c > 0 ? "Ya" : "Tidak") << " ";
+    cout << (sign == 1 &&  b + c ? "Ya" : "Tidak") << " ";
+    cout << (sign == 1 && a + d ? "Ya" : "Tidak") << "\n";
+  }
+  
+  return 0;
 }
