@@ -40775,6 +40775,25 @@
     ],
     "timestamp": "May/25/2024 10:39"
   },
+  "CF262459873": {
+    "contest_id": 547,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/547/B.cpp",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Mike and Feet",
+    "problem_url": "https://codeforces.com/contest/547/problem/B",
+    "submission_id": "CF262459873",
+    "submission_url": "https://codeforces.com/contest/547/submission/262459873",
+    "tags": [
+      "binary search",
+      "data structures",
+      "dp",
+      "dsu",
+      "*1900"
+    ],
+    "timestamp": "May/25/2024 11:05"
+  },
   "CF262459888": {
     "contest_id": 475,
     "language": "C++20 (GCC 13-64)",
