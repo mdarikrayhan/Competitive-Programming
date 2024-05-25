@@ -40823,6 +40823,23 @@
     ],
     "timestamp": "May/25/2024 16:23"
   },
+  "CF262496498": {
+    "contest_id": 923,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/923/A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Primal Sport",
+    "problem_url": "https://codeforces.com/contest/923/problem/A",
+    "submission_id": "CF262496498",
+    "submission_url": "https://codeforces.com/contest/923/submission/262496498",
+    "tags": [
+      "math",
+      "number theory",
+      "*1700"
+    ],
+    "timestamp": "May/25/2024 16:30"
+  },
   "CF262496514": {
     "contest_id": 1268,
     "language": "C++20 (GCC 13-64)",
