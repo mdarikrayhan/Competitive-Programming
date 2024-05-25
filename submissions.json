@@ -23393,6 +23393,25 @@
     ],
     "timestamp": "May/17/2024 08:26"
   },
+  "CF262465890": {
+    "contest_id": 1743,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1743/D.cpp",
+    "platform": "Codeforces",
+    "problem_index": "D",
+    "problem_name": "Problem with Random Tests",
+    "problem_url": "https://codeforces.com/contest/1743/problem/D",
+    "submission_id": "CF262465890",
+    "submission_url": "https://codeforces.com/contest/1743/submission/262465890",
+    "tags": [
+      "brute force",
+      "dp",
+      "greedy",
+      "probabilities",
+      "*1700"
+    ],
+    "timestamp": "May/25/2024 12:10"
+  },
   "CF262465936": {
     "contest_id": 233,
     "language": "C++20 (GCC 13-64)",
