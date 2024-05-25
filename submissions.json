@@ -23393,6 +23393,22 @@
     ],
     "timestamp": "May/17/2024 08:26"
   },
+  "CF262630733": {
+    "contest_id": 1662,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1662/H.cpp",
+    "platform": "Codeforces",
+    "problem_index": "H",
+    "problem_name": "Boundary",
+    "problem_url": "https://codeforces.com/contest/1662/problem/H",
+    "submission_id": "CF262630733",
+    "submission_url": "https://codeforces.com/contest/1662/submission/262630733",
+    "tags": [
+      "brute force",
+      "math"
+    ],
+    "timestamp": "May/26/2024 05:10"
+  },
   "CF262630744": {
     "contest_id": 840,
     "language": "C++20 (GCC 13-64)",
