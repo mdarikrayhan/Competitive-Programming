@@ -48916,6 +48916,25 @@
     ],
     "timestamp": "May/25/2024 18:15"
   },
+  "CF262613850": {
+    "contest_id": 1214,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1214/D.cpp",
+    "platform": "Codeforces",
+    "problem_index": "D",
+    "problem_name": "Treasure Island",
+    "problem_url": "https://codeforces.com/contest/1214/problem/D",
+    "submission_id": "CF262613850",
+    "submission_url": "https://codeforces.com/contest/1214/submission/262613850",
+    "tags": [
+      "dfs and similar",
+      "dp",
+      "flows",
+      "hashing",
+      "*1900"
+    ],
+    "timestamp": "May/25/2024 23:46"
+  },
   "CF262613865": {
     "contest_id": 1213,
     "language": "C++20 (GCC 13-64)",
