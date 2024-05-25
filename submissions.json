@@ -37906,6 +37906,23 @@
     ],
     "timestamp": "May/25/2024 10:39"
   },
+  "CF262462974": {
+    "contest_id": 1284,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1284/C.cpp",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "New Year and Permutation",
+    "problem_url": "https://codeforces.com/contest/1284/problem/C",
+    "submission_id": "CF262462974",
+    "submission_url": "https://codeforces.com/contest/1284/submission/262462974",
+    "tags": [
+      "combinatorics",
+      "math",
+      "*1600"
+    ],
+    "timestamp": "May/25/2024 11:40"
+  },
   "CF262462999": {
     "contest_id": 1778,
     "language": "C++20 (GCC 13-64)",
