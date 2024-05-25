@@ -23393,6 +23393,23 @@
     ],
     "timestamp": "May/17/2024 08:26"
   },
+  "CF262630744": {
+    "contest_id": 840,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/840/D.cpp",
+    "platform": "Codeforces",
+    "problem_index": "D",
+    "problem_name": "Destiny",
+    "problem_url": "https://codeforces.com/contest/840/problem/D",
+    "submission_id": "CF262630744",
+    "submission_url": "https://codeforces.com/contest/840/submission/262630744",
+    "tags": [
+      "data structures",
+      "probabilities",
+      "*2500"
+    ],
+    "timestamp": "May/26/2024 05:10"
+  },
   "CF262630771": {
     "contest_id": 1067,
     "language": "C++20 (GCC 13-64)",
