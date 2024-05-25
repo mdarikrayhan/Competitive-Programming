@@ -23393,6 +23393,25 @@
     ],
     "timestamp": "May/17/2024 08:26"
   },
+  "CF262630340": {
+    "contest_id": 1547,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1547/G.cpp",
+    "platform": "Codeforces",
+    "problem_index": "G",
+    "problem_name": "How Many Paths?",
+    "problem_url": "https://codeforces.com/contest/1547/problem/G",
+    "submission_id": "CF262630340",
+    "submission_url": "https://codeforces.com/contest/1547/submission/262630340",
+    "tags": [
+      "dfs and similar",
+      "dp",
+      "graphs",
+      "trees",
+      "*2100"
+    ],
+    "timestamp": "May/26/2024 04:57"
+  },
   "CF262630364": {
     "contest_id": 1146,
     "language": "C++20 (GCC 13-64)",
