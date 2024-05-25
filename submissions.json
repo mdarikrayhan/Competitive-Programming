@@ -40775,6 +40775,22 @@
     ],
     "timestamp": "May/25/2024 10:39"
   },
+  "CF262459800": {
+    "contest_id": 52,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/52/C.cpp",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Circular RMQ",
+    "problem_url": "https://codeforces.com/contest/52/problem/C",
+    "submission_id": "CF262459800",
+    "submission_url": "https://codeforces.com/contest/52/submission/262459800",
+    "tags": [
+      "data structures",
+      "*2200"
+    ],
+    "timestamp": "May/25/2024 11:04"
+  },
   "CF262459873": {
     "contest_id": 547,
     "language": "C++20 (GCC 13-64)",
