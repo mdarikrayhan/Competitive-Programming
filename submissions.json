@@ -48916,6 +48916,23 @@
     ],
     "timestamp": "May/25/2024 18:15"
   },
+  "CF262614091": {
+    "contest_id": 748,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/748/C.cpp",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Santa Claus and Robot",
+    "problem_url": "https://codeforces.com/contest/748/problem/C",
+    "submission_id": "CF262614091",
+    "submission_url": "https://codeforces.com/contest/748/submission/262614091",
+    "tags": [
+      "constructive algorithms",
+      "math",
+      "*1400"
+    ],
+    "timestamp": "May/25/2024 23:50"
+  },
   "CF262614117": {
     "contest_id": 1882,
     "language": "C++20 (GCC 13-64)",
