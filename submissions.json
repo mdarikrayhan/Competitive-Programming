@@ -23393,6 +23393,22 @@
     ],
     "timestamp": "May/17/2024 08:26"
   },
+  "CF262630855": {
+    "contest_id": 39,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/39/H.cpp",
+    "platform": "Codeforces",
+    "problem_index": "H",
+    "problem_name": "Multiplication Table",
+    "problem_url": "https://codeforces.com/contest/39/problem/H",
+    "submission_id": "CF262630855",
+    "submission_url": "https://codeforces.com/contest/39/submission/262630855",
+    "tags": [
+      "implementation",
+      "*1300"
+    ],
+    "timestamp": "May/26/2024 05:14"
+  },
   "CF262631215": {
     "contest_id": 1204,
     "language": "C++20 (GCC 13-64)",
