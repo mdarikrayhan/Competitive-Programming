@@ -37906,6 +37906,26 @@
     ],
     "timestamp": "May/25/2024 10:39"
   },
+  "CF262462748": {
+    "contest_id": 1491,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1491/C.cpp",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Pekora and Trampoline",
+    "problem_url": "https://codeforces.com/contest/1491/problem/C",
+    "submission_id": "CF262462748",
+    "submission_url": "https://codeforces.com/contest/1491/submission/262462748",
+    "tags": [
+      "brute force",
+      "data structures",
+      "dp",
+      "greedy",
+      "implementation",
+      "*1700"
+    ],
+    "timestamp": "May/25/2024 11:38"
+  },
   "CF262462760": {
     "contest_id": 1101,
     "language": "C++20 (GCC 13-64)",
