@@ -23393,6 +23393,23 @@
     ],
     "timestamp": "May/17/2024 08:26"
   },
+  "CF262494942": {
+    "contest_id": 141,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/141/B.cpp",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Hopscotch",
+    "problem_url": "https://codeforces.com/contest/141/problem/B",
+    "submission_id": "CF262494942",
+    "submission_url": "https://codeforces.com/contest/141/submission/262494942",
+    "tags": [
+      "geometry",
+      "math",
+      "*1400"
+    ],
+    "timestamp": "May/25/2024 16:16"
+  },
   "CF262494953": {
     "contest_id": 1354,
     "language": "C++20 (GCC 13-64)",
