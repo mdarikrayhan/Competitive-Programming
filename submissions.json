@@ -40775,6 +40775,24 @@
     ],
     "timestamp": "May/25/2024 10:39"
   },
+  "CF262460311": {
+    "contest_id": 1151,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1151/D.cpp",
+    "platform": "Codeforces",
+    "problem_index": "D",
+    "problem_name": "Stas and the Queue at the Buffet",
+    "problem_url": "https://codeforces.com/contest/1151/problem/D",
+    "submission_id": "CF262460311",
+    "submission_url": "https://codeforces.com/contest/1151/submission/262460311",
+    "tags": [
+      "greedy",
+      "math",
+      "sortings",
+      "*1600"
+    ],
+    "timestamp": "May/25/2024 11:11"
+  },
   "CF262460345": {
     "contest_id": 1801,
     "language": "C++20 (GCC 13-64)",
