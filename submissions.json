@@ -23393,6 +23393,22 @@
     ],
     "timestamp": "May/17/2024 08:26"
   },
+  "CF262498274": {
+    "contest_id": 53,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/53/A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Autocomplete",
+    "problem_url": "https://codeforces.com/contest/53/problem/A",
+    "submission_id": "CF262498274",
+    "submission_url": "https://codeforces.com/contest/53/submission/262498274",
+    "tags": [
+      "implementation",
+      "*1100"
+    ],
+    "timestamp": "May/25/2024 16:45"
+  },
   "CF262498289": {
     "contest_id": 741,
     "language": "C++20 (GCC 13-64)",
