@@ -55443,6 +55443,24 @@
     ],
     "timestamp": "May/26/2024 04:35"
   },
+  "CF262629705": {
+    "contest_id": 1672,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1672/F1.cpp",
+    "platform": "Codeforces",
+    "problem_index": "F1",
+    "problem_name": "Array Shuffling",
+    "problem_url": "https://codeforces.com/contest/1672/problem/F1",
+    "submission_id": "CF262629705",
+    "submission_url": "https://codeforces.com/contest/1672/submission/262629705",
+    "tags": [
+      "constructive algorithms",
+      "graphs",
+      "greedy",
+      "*2000"
+    ],
+    "timestamp": "May/26/2024 04:35"
+  },
   "CF262629707": {
     "contest_id": 825,
     "language": "C++20 (GCC 13-64)",
