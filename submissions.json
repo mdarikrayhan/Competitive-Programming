@@ -23393,6 +23393,23 @@
     ],
     "timestamp": "May/17/2024 08:26"
   },
+  "CF262467235": {
+    "contest_id": 1153,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1153/C.cpp",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Serval and Parenthesis Sequence",
+    "problem_url": "https://codeforces.com/contest/1153/problem/C",
+    "submission_id": "CF262467235",
+    "submission_url": "https://codeforces.com/contest/1153/submission/262467235",
+    "tags": [
+      "greedy",
+      "strings",
+      "*1700"
+    ],
+    "timestamp": "May/25/2024 12:21"
+  },
   "CF262467324": {
     "contest_id": 1217,
     "language": "C++20 (GCC 13-64)",
