@@ -23393,6 +23393,23 @@
     ],
     "timestamp": "May/17/2024 08:26"
   },
+  "CF262630675": {
+    "contest_id": 887,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/887/C.cpp",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Solution for Cube",
+    "problem_url": "https://codeforces.com/contest/887/problem/C",
+    "submission_id": "CF262630675",
+    "submission_url": "https://codeforces.com/contest/887/submission/262630675",
+    "tags": [
+      "brute force",
+      "implementation",
+      "*1500"
+    ],
+    "timestamp": "May/26/2024 05:08"
+  },
   "CF262630676": {
     "contest_id": 522,
     "language": "C++20 (GCC 13-64)",
