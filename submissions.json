@@ -23393,6 +23393,24 @@
     ],
     "timestamp": "May/17/2024 08:26"
   },
+  "CF262627265": {
+    "contest_id": 1842,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1842/D.cpp",
+    "platform": "Codeforces",
+    "problem_index": "D",
+    "problem_name": "Tenzing and His Animal Friends ",
+    "problem_url": "https://codeforces.com/contest/1842/problem/D",
+    "submission_id": "CF262627265",
+    "submission_url": "https://codeforces.com/contest/1842/submission/262627265",
+    "tags": [
+      "constructive algorithms",
+      "graphs",
+      "greedy",
+      "*1900"
+    ],
+    "timestamp": "May/26/2024 03:33"
+  },
   "CF262627266": {
     "contest_id": 827,
     "language": "C++20 (GCC 13-64)",
