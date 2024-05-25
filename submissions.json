@@ -23393,6 +23393,29 @@
     ],
     "timestamp": "May/17/2024 08:26"
   },
+  "CF262627895": {
+    "contest_id": 1956,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1956/D.cpp",
+    "platform": "Codeforces",
+    "problem_index": "D",
+    "problem_name": "Nene and the Mex Operator",
+    "problem_url": "https://codeforces.com/contest/1956/problem/D",
+    "submission_id": "CF262627895",
+    "submission_url": "https://codeforces.com/contest/1956/submission/262627895",
+    "tags": [
+      "bitmasks",
+      "brute force",
+      "constructive algorithms",
+      "divide and conquer",
+      "dp",
+      "greedy",
+      "implementation",
+      "math",
+      "*2000"
+    ],
+    "timestamp": "May/26/2024 03:47"
+  },
   "CF262627909": {
     "contest_id": 120,
     "language": "C++20 (GCC 13-64)",
