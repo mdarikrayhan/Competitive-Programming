@@ -39360,6 +39360,22 @@
     ],
     "timestamp": "May/25/2024 12:33"
   },
+  "CF262492590": {
+    "contest_id": 1227,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1227/C.cpp",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Messy",
+    "problem_url": "https://codeforces.com/contest/1227/problem/C",
+    "submission_id": "CF262492590",
+    "submission_url": "https://codeforces.com/contest/1227/submission/262492590",
+    "tags": [
+      "constructive algorithms",
+      "*1700"
+    ],
+    "timestamp": "May/25/2024 15:58"
+  },
   "CF262492623": {
     "contest_id": 625,
     "language": "C++20 (GCC 13-64)",
