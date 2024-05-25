@@ -1,30 +1,37 @@
 #include<bits/stdc++.h>
+#define Alex ios::sync_with_stdio(0),cin.tie(0),cout.tie(0);
+#define LD long double
 #define int long long
 using namespace std;
-const int N=2e5+5,Inf=1e18;
-int n,k,l[N],r[N];
-signed main(){
-	std::ios::sync_with_stdio(false);
-	cin.tie(0),cout.tie(0);
-	int t;
-	cin>>t;
-	while(t--){
+const int QAQ = 0;
+const int base = 131;
+const int mod = 998244353;
+const double eps = 1e-10;
+const int N = 2e6+10;
+int n,k,minn,sun,sum,l[555555],r[555555];
+signed main()
+{
+	Alex;
+	int _;
+	cin>>_;
+	while(_--)
+	{
 		cin>>n>>k;
-		int res=0;
-		for(int i=1;i<=n;++i)cin>>l[i];
-		for(int i=1;i<=n;++i)cin>>r[i],res+=r[i]-l[i]+1;
-		if(res<k){cout<<"-1\n";continue;}
-		if(!k){cout<<"0\n";continue;}
-		int s=0,cnt=0,ans=Inf;
-		priority_queue<int,vector<int>,greater<int>>q;
-		for(int i=1;i<=n;++i){
-			s+=r[i]-l[i]+1,++cnt,q.push(r[i]-l[i]+1);
-			if(s>=k){
-				while(s-q.top()>=k)ans=min(ans,r[i]-(s-k)+cnt*2),--cnt,s-=q.top(),q.pop();
-				ans=min(ans,r[i]-(s-k)+cnt*2);
+		minn = LLONG_MAX;
+		sun = sum = 0;
+		for(int i = 1;i <= n;i++) cin>>l[i];
+		for(int i = 1;i <= n;i++)
+		{
+			cin>>r[i];
+			sun = sun + (l[i] == r[i]);
+			sum = sum + (r[i] - l[i] + 1);
+			if(sum >= k)
+			{
+				minn = min(minn,r[i] - (sum - k) + (i << 1) - min(sun,sum - k));
 			}
 		}
-		cout<<ans<<"\n";
-	}
-	return 0;
-}
+		if(minn == LLONG_MAX) cout<<-1<<'\n';else cout<<minn<<'\n';
+    }
+    return QAQ;
+}  
+

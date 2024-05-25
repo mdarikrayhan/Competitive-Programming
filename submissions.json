@@ -23393,6 +23393,25 @@
     ],
     "timestamp": "May/17/2024 08:26"
   },
+  "CF262498980": {
+    "contest_id": 1821,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1821/D.cpp",
+    "platform": "Codeforces",
+    "problem_index": "D",
+    "problem_name": "Black Cells",
+    "problem_url": "https://codeforces.com/contest/1821/problem/D",
+    "submission_id": "CF262498980",
+    "submission_url": "https://codeforces.com/contest/1821/submission/262498980",
+    "tags": [
+      "binary search",
+      "brute force",
+      "greedy",
+      "math",
+      "*1900"
+    ],
+    "timestamp": "May/25/2024 16:51"
+  },
   "CF262499008": {
     "contest_id": 68,
     "language": "C++20 (GCC 13-64)",
