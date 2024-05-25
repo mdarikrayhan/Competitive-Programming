@@ -45188,6 +45188,27 @@
     ],
     "timestamp": "May/26/2024 02:34"
   },
+  "CF262625245": {
+    "contest_id": 1797,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1797/D.cpp",
+    "platform": "Codeforces",
+    "problem_index": "D",
+    "problem_name": "Li Hua and Tree",
+    "problem_url": "https://codeforces.com/contest/1797/problem/D",
+    "submission_id": "CF262625245",
+    "submission_url": "https://codeforces.com/contest/1797/submission/262625245",
+    "tags": [
+      "brute force",
+      "data structures",
+      "dfs and similar",
+      "dp",
+      "implementation",
+      "trees",
+      "*1900"
+    ],
+    "timestamp": "May/26/2024 02:58"
+  },
   "CF262625296": {
     "contest_id": 618,
     "language": "C++20 (GCC 13-64)",

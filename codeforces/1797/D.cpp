@@ -1,39 +1,65 @@
-#include<bits/stdc++.h>
-#define int long long
+#include <bits/stdc++.h>
+
 using namespace std;
-const int N=1e5+5;
-int n,m;
-int siz[N],v[N],s[N],fa[N];
-vector<int>son[N];
-struct cx{
-	int x;
-	bool operator <(const cx &t)const{return siz[x]!=siz[t.x]?siz[x]>siz[t.x]:x<t.x;}
-};
-set<cx>e[N];
-void dfs(int x,int prt){
-	fa[x]=prt,siz[x]=1,s[x]=v[x];
-	for(int y:son[x])if(y!=prt)dfs(y,x),siz[x]+=siz[y],s[x]+=s[y],e[x].insert((cx){y});
-}
-inline void del(int x,int y){if(e[x].find((cx){y})!=e[x].end())e[x].erase((cx){y}),siz[x]-=siz[y],s[x]-=s[y];}
-inline void add(int x,int y){e[x].insert((cx){y}),siz[x]+=siz[y],s[x]+=s[y],fa[y]=x;}
-inline void change(int x){
-	if(e[x].size()){
-		int u=(*e[x].begin()).x,prt=fa[x];
-		del(prt,x),del(x,u),add(u,x),add(prt,u);
-	}
-}
-signed main(){
-	std::ios::sync_with_stdio(false);
-	cin.tie(0),cout.tie(0);
-	cin>>n>>m;
-	for(int i=1;i<=n;++i)cin>>v[i];
-	for(int i=1,x,y;i<n;++i)cin>>x>>y,son[x].push_back(y),son[y].push_back(x);
-	dfs(1,0);
-	while(m--){
-		int op,x;
-		cin>>op>>x;
-		if(op==1)cout<<s[x]<<"\n";
-		else change(x);
-	}
-	return 0;
+
+int main() {
+    ios::sync_with_stdio(false);
+    cin.tie(nullptr);
+    int n, m;
+    cin >> n >> m;
+    vector<int> a(n);
+    for (int i = 0; i < n; i++) {
+        cin >> a[i];
+    }
+    vector<vector<int>> adj(n);
+    for (int i = 0; i < n - 1; i++) {
+        int x, y;
+        cin >> x >> y;
+        x--; y--;
+        adj[x].push_back(y);
+        adj[y].push_back(x);
+    }
+    vector<int> size(n), par(n);
+    vector<set<pair<int, int>>> s(n);
+    vector<long long> sum(n);
+    auto dfs = [&](auto dfs, int x, int p) -> void {
+        size[x] = 1;
+        sum[x] = a[x];
+        for (int y : adj[x]) {
+            if (y == p) {
+                continue;
+            }
+            dfs(dfs, y, x);
+            size[x] += size[y];
+            par[y] = x;
+            s[x].insert({size[y], -y});
+            sum[x] += sum[y];
+        }
+    };
+    dfs(dfs, 0, -1);
+    for (int i = 0; i < m; i++) {
+        int t, x;
+        cin >> t >> x;
+        x--;
+        if (t == 1) {
+            cout << sum[x] << "\n";
+        } else {
+            if (s[x].empty()) {
+                continue;
+            }
+            int y = -prev(s[x].end())->second;
+            int p = par[x];
+            s[x].erase({size[y], -y});
+            s[p].erase({size[x], -x});
+            size[x] -= size[y];
+            size[y] += size[x];
+            par[y] = p;
+            par[x] = y;
+            s[p].insert({size[y], -y});
+            s[y].insert({size[x], -x});
+            sum[x] -= sum[y];
+            sum[y] += sum[x];
+        }
+    }
+    return 0;
 }
