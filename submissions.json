@@ -42004,6 +42004,24 @@
     ],
     "timestamp": "May/25/2024 11:43"
   },
+  "CF262464009": {
+    "contest_id": 863,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/863/B.cpp",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Kayaking",
+    "problem_url": "https://codeforces.com/contest/863/problem/B",
+    "submission_id": "CF262464009",
+    "submission_url": "https://codeforces.com/contest/863/submission/262464009",
+    "tags": [
+      "brute force",
+      "greedy",
+      "sortings",
+      "*1500"
+    ],
+    "timestamp": "May/25/2024 11:50"
+  },
   "CF262464022": {
     "contest_id": 1928,
     "language": "C++20 (GCC 13-64)",
