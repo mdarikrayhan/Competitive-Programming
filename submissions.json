@@ -23393,6 +23393,23 @@
     ],
     "timestamp": "May/17/2024 08:26"
   },
+  "CF262494192": {
+    "contest_id": 248,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/248/B.cpp",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Chilly Willy",
+    "problem_url": "https://codeforces.com/contest/248/problem/B",
+    "submission_id": "CF262494192",
+    "submission_url": "https://codeforces.com/contest/248/submission/262494192",
+    "tags": [
+      "math",
+      "number theory",
+      "*1400"
+    ],
+    "timestamp": "May/25/2024 16:10"
+  },
   "CF262494232": {
     "contest_id": 761,
     "language": "C++20 (GCC 13-64)",
