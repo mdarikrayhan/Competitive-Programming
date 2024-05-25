@@ -45337,6 +45337,23 @@
     ],
     "timestamp": "May/26/2024 03:07"
   },
+  "CF262626086": {
+    "contest_id": 1056,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1056/B.cpp",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Divide Candies",
+    "problem_url": "https://codeforces.com/contest/1056/problem/B",
+    "submission_id": "CF262626086",
+    "submission_url": "https://codeforces.com/contest/1056/submission/262626086",
+    "tags": [
+      "math",
+      "number theory",
+      "*1600"
+    ],
+    "timestamp": "May/26/2024 03:11"
+  },
   "CF262626099": {
     "contest_id": 1141,
     "language": "C++20 (GCC 13-64)",
