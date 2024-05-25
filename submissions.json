@@ -40775,6 +40775,24 @@
     ],
     "timestamp": "May/25/2024 10:39"
   },
+  "CF262459915": {
+    "contest_id": 557,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/557/A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Ilya and Diplomas",
+    "problem_url": "https://codeforces.com/contest/557/problem/A",
+    "submission_id": "CF262459915",
+    "submission_url": "https://codeforces.com/contest/557/submission/262459915",
+    "tags": [
+      "greedy",
+      "implementation",
+      "math",
+      "*1100"
+    ],
+    "timestamp": "May/25/2024 11:06"
+  },
   "CF262459945": {
     "contest_id": 1732,
     "language": "C++20 (GCC 13-64)",
