@@ -45467,6 +45467,24 @@
     ],
     "timestamp": "May/26/2024 03:14"
   },
+  "CF262626531": {
+    "contest_id": 1082,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1082/D.cpp",
+    "platform": "Codeforces",
+    "problem_index": "D",
+    "problem_name": "Maximum Diameter Graph",
+    "problem_url": "https://codeforces.com/contest/1082/problem/D",
+    "submission_id": "CF262626531",
+    "submission_url": "https://codeforces.com/contest/1082/submission/262626531",
+    "tags": [
+      "constructive algorithms",
+      "graphs",
+      "implementation",
+      "*1800"
+    ],
+    "timestamp": "May/26/2024 03:19"
+  },
   "CF262626535": {
     "contest_id": 767,
     "language": "C++20 (GCC 13-64)",
