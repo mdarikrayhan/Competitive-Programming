@@ -23393,6 +23393,26 @@
     ],
     "timestamp": "May/17/2024 08:26"
   },
+  "CF262628120": {
+    "contest_id": 1787,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1787/D.cpp",
+    "platform": "Codeforces",
+    "problem_index": "D",
+    "problem_name": "Game on Axis",
+    "problem_url": "https://codeforces.com/contest/1787/problem/D",
+    "submission_id": "CF262628120",
+    "submission_url": "https://codeforces.com/contest/1787/submission/262628120",
+    "tags": [
+      "combinatorics",
+      "dfs and similar",
+      "dsu",
+      "graphs",
+      "implementation",
+      "*1900"
+    ],
+    "timestamp": "May/26/2024 03:52"
+  },
   "CF262628129": {
     "contest_id": 1925,
     "language": "C++20 (GCC 13-64)",
