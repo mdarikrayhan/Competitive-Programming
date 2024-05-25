@@ -23393,6 +23393,26 @@
     ],
     "timestamp": "May/17/2024 08:26"
   },
+  "CF262622854": {
+    "contest_id": 1566,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1566/E.cpp",
+    "platform": "Codeforces",
+    "problem_index": "E",
+    "problem_name": "Buds Re-hanging",
+    "problem_url": "https://codeforces.com/contest/1566/problem/E",
+    "submission_id": "CF262622854",
+    "submission_url": "https://codeforces.com/contest/1566/submission/262622854",
+    "tags": [
+      "constructive algorithms",
+      "dfs and similar",
+      "dp",
+      "greedy",
+      "trees",
+      "*2000"
+    ],
+    "timestamp": "May/26/2024 02:21"
+  },
   "CF262622884": {
     "contest_id": 1092,
     "language": "C++20 (GCC 13-64)",
