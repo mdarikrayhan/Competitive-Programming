@@ -47903,6 +47903,25 @@
     ],
     "timestamp": "May/26/2024 05:12"
   },
+  "CF262630840": {
+    "contest_id": 1654,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1654/D.cpp",
+    "platform": "Codeforces",
+    "problem_index": "D",
+    "problem_name": "Potion Brewing Class",
+    "problem_url": "https://codeforces.com/contest/1654/problem/D",
+    "submission_id": "CF262630840",
+    "submission_url": "https://codeforces.com/contest/1654/submission/262630840",
+    "tags": [
+      "dfs and similar",
+      "math",
+      "number theory",
+      "trees",
+      "*2100"
+    ],
+    "timestamp": "May/26/2024 05:13"
+  },
   "CF262630848": {
     "contest_id": 275,
     "language": "C++20 (GCC 13-64)",
