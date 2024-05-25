@@ -23393,6 +23393,25 @@
     ],
     "timestamp": "May/17/2024 08:26"
   },
+  "CF262622149": {
+    "contest_id": 822,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/822/C.cpp",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Hacker, pack your bags!",
+    "problem_url": "https://codeforces.com/contest/822/problem/C",
+    "submission_id": "CF262622149",
+    "submission_url": "https://codeforces.com/contest/822/submission/262622149",
+    "tags": [
+      "binary search",
+      "greedy",
+      "implementation",
+      "sortings",
+      "*1600"
+    ],
+    "timestamp": "May/26/2024 02:12"
+  },
   "CF262622169": {
     "contest_id": 1846,
     "language": "C++20 (GCC 13-64)",
