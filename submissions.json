@@ -42188,6 +42188,22 @@
     ],
     "timestamp": "May/25/2024 17:32"
   },
+  "CF262503595": {
+    "contest_id": 1952,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1952/C.cpp",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "They Have Fooled",
+    "problem_url": "https://codeforces.com/contest/1952/problem/C",
+    "submission_id": "CF262503595",
+    "submission_url": "https://codeforces.com/contest/1952/submission/262503595",
+    "tags": [
+      "brute force",
+      "schedules"
+    ],
+    "timestamp": "May/25/2024 17:34"
+  },
   "CF262503634": {
     "contest_id": 1952,
     "language": "C++20 (GCC 13-64)",
