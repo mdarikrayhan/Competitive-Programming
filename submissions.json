@@ -46919,6 +46919,23 @@
     ],
     "timestamp": "May/26/2024 04:33"
   },
+  "CF262629995": {
+    "contest_id": 304,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/304/B.cpp",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Calendar",
+    "problem_url": "https://codeforces.com/contest/304/problem/B",
+    "submission_id": "CF262629995",
+    "submission_url": "https://codeforces.com/contest/304/submission/262629995",
+    "tags": [
+      "brute force",
+      "implementation",
+      "*1300"
+    ],
+    "timestamp": "May/26/2024 04:45"
+  },
   "CF262630000": {
     "contest_id": 1305,
     "language": "C++20 (GCC 13-64)",
