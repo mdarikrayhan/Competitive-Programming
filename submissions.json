@@ -46919,6 +46919,22 @@
     ],
     "timestamp": "May/26/2024 04:33"
   },
+  "CF262629795": {
+    "contest_id": 149,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/149/D.cpp",
+    "platform": "Codeforces",
+    "problem_index": "D",
+    "problem_name": "Coloring Brackets",
+    "problem_url": "https://codeforces.com/contest/149/problem/D",
+    "submission_id": "CF262629795",
+    "submission_url": "https://codeforces.com/contest/149/submission/262629795",
+    "tags": [
+      "dp",
+      "*1900"
+    ],
+    "timestamp": "May/26/2024 04:38"
+  },
   "CF262629799": {
     "contest_id": 671,
     "language": "C++20 (GCC 13-64)",
