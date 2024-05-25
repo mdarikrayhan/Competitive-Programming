@@ -23393,6 +23393,24 @@
     ],
     "timestamp": "May/17/2024 08:26"
   },
+  "CF262493167": {
+    "contest_id": 1272,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1272/E.cpp",
+    "platform": "Codeforces",
+    "problem_index": "E",
+    "problem_name": "Nearest Opposite Parity",
+    "problem_url": "https://codeforces.com/contest/1272/problem/E",
+    "submission_id": "CF262493167",
+    "submission_url": "https://codeforces.com/contest/1272/submission/262493167",
+    "tags": [
+      "dfs and similar",
+      "graphs",
+      "shortest paths",
+      "*1900"
+    ],
+    "timestamp": "May/25/2024 16:02"
+  },
   "CF262493222": {
     "contest_id": 1700,
     "language": "C++20 (GCC 13-64)",
