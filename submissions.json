@@ -46647,6 +46647,23 @@
     ],
     "timestamp": "May/26/2024 03:55"
   },
+  "CF262629359": {
+    "contest_id": 1945,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1945/F.cpp",
+    "platform": "Codeforces",
+    "problem_index": "F",
+    "problem_name": "Kirill and Mushrooms",
+    "problem_url": "https://codeforces.com/contest/1945/problem/F",
+    "submission_id": "CF262629359",
+    "submission_url": "https://codeforces.com/contest/1945/submission/262629359",
+    "tags": [
+      "data structures",
+      "sortings",
+      "*1900"
+    ],
+    "timestamp": "May/26/2024 04:25"
+  },
   "CF262629367": {
     "contest_id": 794,
     "language": "C++20 (GCC 13-64)",
