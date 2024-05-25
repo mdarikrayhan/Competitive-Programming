@@ -23393,6 +23393,27 @@
     ],
     "timestamp": "May/17/2024 08:26"
   },
+  "CF262498853": {
+    "contest_id": 1601,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1601/B.cpp",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Frog Traveler",
+    "problem_url": "https://codeforces.com/contest/1601/problem/B",
+    "submission_id": "CF262498853",
+    "submission_url": "https://codeforces.com/contest/1601/submission/262498853",
+    "tags": [
+      "data structures",
+      "dfs and similar",
+      "dp",
+      "graphs",
+      "shortest paths",
+      "two pointers",
+      "*1900"
+    ],
+    "timestamp": "May/25/2024 16:50"
+  },
   "CF262498922": {
     "contest_id": 337,
     "language": "C++20 (GCC 13-64)",
