@@ -55133,6 +55133,24 @@
     ],
     "timestamp": "May/26/2024 04:26"
   },
+  "CF262629465": {
+    "contest_id": 291,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/291/B.cpp",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Command Line Arguments",
+    "problem_url": "https://codeforces.com/contest/291/problem/B",
+    "submission_id": "CF262629465",
+    "submission_url": "https://codeforces.com/contest/291/submission/262629465",
+    "tags": [
+      "*special problem",
+      "implementation",
+      "strings",
+      "*1300"
+    ],
+    "timestamp": "May/26/2024 04:29"
+  },
   "CF262629473": {
     "contest_id": 1699,
     "language": "C++20 (GCC 13-64)",
