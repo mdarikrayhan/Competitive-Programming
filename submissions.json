@@ -23393,6 +23393,24 @@
     ],
     "timestamp": "May/17/2024 08:26"
   },
+  "CF262493069": {
+    "contest_id": 1415,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1415/D.cpp",
+    "platform": "Codeforces",
+    "problem_index": "D",
+    "problem_name": "XOR-gun",
+    "problem_url": "https://codeforces.com/contest/1415/problem/D",
+    "submission_id": "CF262493069",
+    "submission_url": "https://codeforces.com/contest/1415/submission/262493069",
+    "tags": [
+      "bitmasks",
+      "brute force",
+      "constructive algorithms",
+      "*2000"
+    ],
+    "timestamp": "May/25/2024 16:02"
+  },
   "CF262493117": {
     "contest_id": 734,
     "language": "C++20 (GCC 13-64)",
