@@ -37906,6 +37906,24 @@
     ],
     "timestamp": "May/25/2024 10:39"
   },
+  "CF262462145": {
+    "contest_id": 518,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/518/B.cpp",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Tanya and Postcard",
+    "problem_url": "https://codeforces.com/contest/518/problem/B",
+    "submission_id": "CF262462145",
+    "submission_url": "https://codeforces.com/contest/518/submission/262462145",
+    "tags": [
+      "greedy",
+      "implementation",
+      "strings",
+      "*1400"
+    ],
+    "timestamp": "May/25/2024 11:31"
+  },
   "CF262462160": {
     "contest_id": 1223,
     "language": "C++20 (GCC 13-64)",
