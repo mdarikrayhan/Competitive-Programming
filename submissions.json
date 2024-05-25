@@ -39360,6 +39360,22 @@
     ],
     "timestamp": "May/25/2024 12:33"
   },
+  "CF262491872": {
+    "contest_id": 628,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/628/D.cpp",
+    "platform": "Codeforces",
+    "problem_index": "D",
+    "problem_name": "Magic Numbers",
+    "problem_url": "https://codeforces.com/contest/628/problem/D",
+    "submission_id": "CF262491872",
+    "submission_url": "https://codeforces.com/contest/628/submission/262491872",
+    "tags": [
+      "dp",
+      "*2200"
+    ],
+    "timestamp": "May/25/2024 15:53"
+  },
   "CF262491916": {
     "contest_id": 864,
     "language": "C++20 (GCC 13-64)",
