@@ -23393,6 +23393,24 @@
     ],
     "timestamp": "May/17/2024 08:26"
   },
+  "CF262625795": {
+    "contest_id": 1823,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1823/D.cpp",
+    "platform": "Codeforces",
+    "problem_index": "D",
+    "problem_name": "Unique Palindromes",
+    "problem_url": "https://codeforces.com/contest/1823/problem/D",
+    "submission_id": "CF262625795",
+    "submission_url": "https://codeforces.com/contest/1823/submission/262625795",
+    "tags": [
+      "constructive algorithms",
+      "math",
+      "strings",
+      "*1900"
+    ],
+    "timestamp": "May/26/2024 03:06"
+  },
   "CF262625798": {
     "contest_id": 906,
     "language": "C++20 (GCC 13-64)",
