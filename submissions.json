@@ -23393,6 +23393,24 @@
     ],
     "timestamp": "May/17/2024 08:26"
   },
+  "CF262630631": {
+    "contest_id": 39,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/39/J.cpp",
+    "platform": "Codeforces",
+    "problem_index": "J",
+    "problem_name": "Spelling Check",
+    "problem_url": "https://codeforces.com/contest/39/problem/J",
+    "submission_id": "CF262630631",
+    "submission_url": "https://codeforces.com/contest/39/submission/262630631",
+    "tags": [
+      "hashing",
+      "implementation",
+      "strings",
+      "*1500"
+    ],
+    "timestamp": "May/26/2024 05:06"
+  },
   "CF262630639": {
     "contest_id": 622,
     "language": "C++20 (GCC 13-64)",
