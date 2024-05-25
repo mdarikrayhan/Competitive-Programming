@@ -45467,6 +45467,23 @@
     ],
     "timestamp": "May/26/2024 03:14"
   },
+  "CF262626512": {
+    "contest_id": 231,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/231/B.cpp",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Magic, Wizardry and Wonders",
+    "problem_url": "https://codeforces.com/contest/231/problem/B",
+    "submission_id": "CF262626512",
+    "submission_url": "https://codeforces.com/contest/231/submission/262626512",
+    "tags": [
+      "constructive algorithms",
+      "greedy",
+      "*1500"
+    ],
+    "timestamp": "May/26/2024 03:19"
+  },
   "CF262626520": {
     "contest_id": 1646,
     "language": "C++20 (GCC 13-64)",
