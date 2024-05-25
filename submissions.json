@@ -55462,6 +55462,23 @@
     ],
     "timestamp": "May/26/2024 04:35"
   },
+  "CF262629722": {
+    "contest_id": 1666,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1666/L.cpp",
+    "platform": "Codeforces",
+    "problem_index": "L",
+    "problem_name": "Labyrinth",
+    "problem_url": "https://codeforces.com/contest/1666/problem/L",
+    "submission_id": "CF262629722",
+    "submission_url": "https://codeforces.com/contest/1666/submission/262629722",
+    "tags": [
+      "dfs and similar",
+      "graphs",
+      "*1800"
+    ],
+    "timestamp": "May/26/2024 04:36"
+  },
   "CF262629731": {
     "contest_id": 354,
     "language": "C++20 (GCC 13-64)",
