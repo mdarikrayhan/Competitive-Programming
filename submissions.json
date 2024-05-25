@@ -46919,6 +46919,28 @@
     ],
     "timestamp": "May/26/2024 04:33"
   },
+  "CF262629982": {
+    "contest_id": 1899,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1899/G.cpp",
+    "platform": "Codeforces",
+    "problem_index": "G",
+    "problem_name": "Unusual Entertainment",
+    "problem_url": "https://codeforces.com/contest/1899/problem/G",
+    "submission_id": "CF262629982",
+    "submission_url": "https://codeforces.com/contest/1899/submission/262629982",
+    "tags": [
+      "data structures",
+      "dfs and similar",
+      "dsu",
+      "shortest paths",
+      "sortings",
+      "trees",
+      "two pointers",
+      "*1900"
+    ],
+    "timestamp": "May/26/2024 04:44"
+  },
   "CF262629986": {
     "contest_id": 260,
     "language": "C++20 (GCC 13-64)",
