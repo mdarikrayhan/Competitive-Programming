@@ -48916,6 +48916,23 @@
     ],
     "timestamp": "May/25/2024 18:15"
   },
+  "CF262615119": {
+    "contest_id": 1907,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1907/F.cpp",
+    "platform": "Codeforces",
+    "problem_index": "F",
+    "problem_name": "Shift and Reverse",
+    "problem_url": "https://codeforces.com/contest/1907/problem/F",
+    "submission_id": "CF262615119",
+    "submission_url": "https://codeforces.com/contest/1907/submission/262615119",
+    "tags": [
+      "greedy",
+      "sortings",
+      "*1800"
+    ],
+    "timestamp": "May/26/2024 00:03"
+  },
   "CF262615163": {
     "contest_id": 1016,
     "language": "C++20 (GCC 13-64)",
