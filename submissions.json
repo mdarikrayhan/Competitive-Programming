@@ -23393,6 +23393,29 @@
     ],
     "timestamp": "May/17/2024 08:26"
   },
+  "CF262465724": {
+    "contest_id": 1845,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1845/D.cpp",
+    "platform": "Codeforces",
+    "problem_index": "D",
+    "problem_name": "Rating System",
+    "problem_url": "https://codeforces.com/contest/1845/problem/D",
+    "submission_id": "CF262465724",
+    "submission_url": "https://codeforces.com/contest/1845/submission/262465724",
+    "tags": [
+      "binary search",
+      "brute force",
+      "data structures",
+      "dp",
+      "dsu",
+      "greedy",
+      "math",
+      "two pointers",
+      "*1800"
+    ],
+    "timestamp": "May/25/2024 12:08"
+  },
   "CF262465761": {
     "contest_id": 735,
     "language": "C++20 (GCC 13-64)",
