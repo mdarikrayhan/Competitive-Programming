@@ -23393,6 +23393,25 @@
     ],
     "timestamp": "May/17/2024 08:26"
   },
+  "CF262493959": {
+    "contest_id": 920,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/920/E.cpp",
+    "platform": "Codeforces",
+    "problem_index": "E",
+    "problem_name": "Connected Components?",
+    "problem_url": "https://codeforces.com/contest/920/problem/E",
+    "submission_id": "CF262493959",
+    "submission_url": "https://codeforces.com/contest/920/submission/262493959",
+    "tags": [
+      "data structures",
+      "dfs and similar",
+      "dsu",
+      "graphs",
+      "*2100"
+    ],
+    "timestamp": "May/25/2024 16:09"
+  },
   "CF262493977": {
     "contest_id": 579,
     "language": "C++20 (GCC 13-64)",
