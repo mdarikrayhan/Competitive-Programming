@@ -23393,6 +23393,26 @@
     ],
     "timestamp": "May/17/2024 08:26"
   },
+  "CF262498201": {
+    "contest_id": 1915,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1915/G.cpp",
+    "platform": "Codeforces",
+    "problem_index": "G",
+    "problem_name": "Bicycles",
+    "problem_url": "https://codeforces.com/contest/1915/problem/G",
+    "submission_id": "CF262498201",
+    "submission_url": "https://codeforces.com/contest/1915/submission/262498201",
+    "tags": [
+      "graphs",
+      "greedy",
+      "implementation",
+      "shortest paths",
+      "sortings",
+      "*1800"
+    ],
+    "timestamp": "May/25/2024 16:45"
+  },
   "CF262498202": {
     "contest_id": 44,
     "language": "C++20 (GCC 13-64)",
