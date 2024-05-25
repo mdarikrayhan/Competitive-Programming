@@ -55133,6 +55133,25 @@
     ],
     "timestamp": "May/26/2024 04:26"
   },
+  "CF262629435": {
+    "contest_id": 965,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/965/D.cpp",
+    "platform": "Codeforces",
+    "problem_index": "D",
+    "problem_name": "Single-use Stones",
+    "problem_url": "https://codeforces.com/contest/965/problem/D",
+    "submission_id": "CF262629435",
+    "submission_url": "https://codeforces.com/contest/965/submission/262629435",
+    "tags": [
+      "binary search",
+      "flows",
+      "greedy",
+      "two pointers",
+      "*1900"
+    ],
+    "timestamp": "May/26/2024 04:28"
+  },
   "CF262629443": {
     "contest_id": 708,
     "language": "C++20 (GCC 13-64)",
