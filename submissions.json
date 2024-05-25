@@ -42004,6 +42004,23 @@
     ],
     "timestamp": "May/25/2024 11:43"
   },
+  "CF262463761": {
+    "contest_id": 596,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/596/A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Wilbur and Swimming Pool",
+    "problem_url": "https://codeforces.com/contest/596/problem/A",
+    "submission_id": "CF262463761",
+    "submission_url": "https://codeforces.com/contest/596/submission/262463761",
+    "tags": [
+      "geometry",
+      "implementation",
+      "*1100"
+    ],
+    "timestamp": "May/25/2024 11:48"
+  },
   "CF262463796": {
     "contest_id": 1101,
     "language": "C++20 (GCC 13-64)",
