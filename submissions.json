@@ -46919,6 +46919,22 @@
     ],
     "timestamp": "May/26/2024 04:33"
   },
+  "CF262629800": {
+    "contest_id": 297,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/297/A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Parity Game",
+    "problem_url": "https://codeforces.com/contest/297/problem/A",
+    "submission_id": "CF262629800",
+    "submission_url": "https://codeforces.com/contest/297/submission/262629800",
+    "tags": [
+      "constructive algorithms",
+      "*1700"
+    ],
+    "timestamp": "May/26/2024 04:38"
+  },
   "CF262629819": {
     "contest_id": 321,
     "language": "C++20 (GCC 13-64)",
