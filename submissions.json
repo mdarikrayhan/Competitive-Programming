@@ -23393,6 +23393,24 @@
     ],
     "timestamp": "May/17/2024 08:26"
   },
+  "CF262493653": {
+    "contest_id": 103,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/103/A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Testing Pants for Sadness",
+    "problem_url": "https://codeforces.com/contest/103/problem/A",
+    "submission_id": "CF262493653",
+    "submission_url": "https://codeforces.com/contest/103/submission/262493653",
+    "tags": [
+      "greedy",
+      "implementation",
+      "math",
+      "*1100"
+    ],
+    "timestamp": "May/25/2024 16:06"
+  },
   "CF262493689": {
     "contest_id": 620,
     "language": "C++20 (GCC 13-64)",
