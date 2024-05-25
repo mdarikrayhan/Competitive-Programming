@@ -40823,6 +40823,24 @@
     ],
     "timestamp": "May/25/2024 16:23"
   },
+  "CF262495954": {
+    "contest_id": 1718,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1718/A2.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A2",
+    "problem_name": "Burenka and Traditions (hard version)",
+    "problem_url": "https://codeforces.com/contest/1718/problem/A2",
+    "submission_id": "CF262495954",
+    "submission_url": "https://codeforces.com/contest/1718/submission/262495954",
+    "tags": [
+      "data structures",
+      "dp",
+      "greedy",
+      "*1900"
+    ],
+    "timestamp": "May/25/2024 16:25"
+  },
   "CF262495991": {
     "contest_id": 1202,
     "language": "C++20 (GCC 13-64)",
