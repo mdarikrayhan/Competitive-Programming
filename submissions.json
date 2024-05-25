@@ -47903,6 +47903,23 @@
     ],
     "timestamp": "May/26/2024 05:12"
   },
+  "CF262630848": {
+    "contest_id": 275,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/275/B.cpp",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Convex Shape",
+    "problem_url": "https://codeforces.com/contest/275/problem/B",
+    "submission_id": "CF262630848",
+    "submission_url": "https://codeforces.com/contest/275/submission/262630848",
+    "tags": [
+      "constructive algorithms",
+      "implementation",
+      "*1700"
+    ],
+    "timestamp": "May/26/2024 05:13"
+  },
   "CF262630855": {
     "contest_id": 39,
     "language": "C++20 (GCC 13-64)",
