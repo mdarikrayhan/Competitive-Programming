@@ -23393,6 +23393,22 @@
     ],
     "timestamp": "May/17/2024 08:26"
   },
+  "CF262620902": {
+    "contest_id": 475,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/475/A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Bayan Bus",
+    "problem_url": "https://codeforces.com/contest/475/problem/A",
+    "submission_id": "CF262620902",
+    "submission_url": "https://codeforces.com/contest/475/submission/262620902",
+    "tags": [
+      "implementation",
+      "*1100"
+    ],
+    "timestamp": "May/26/2024 01:56"
+  },
   "CF262620917": {
     "contest_id": 16,
     "language": "C++20 (GCC 13-64)",
