@@ -23393,6 +23393,22 @@
     ],
     "timestamp": "May/17/2024 08:26"
   },
+  "CF262630580": {
+    "contest_id": 29,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/29/B.cpp",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Traffic Lights",
+    "problem_url": "https://codeforces.com/contest/29/problem/B",
+    "submission_id": "CF262630580",
+    "submission_url": "https://codeforces.com/contest/29/submission/262630580",
+    "tags": [
+      "implementation",
+      "*1500"
+    ],
+    "timestamp": "May/26/2024 05:05"
+  },
   "CF262630602": {
     "contest_id": 1342,
     "language": "C++20 (GCC 13-64)",
