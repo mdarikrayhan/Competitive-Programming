@@ -45467,6 +45467,22 @@
     ],
     "timestamp": "May/26/2024 03:14"
   },
+  "CF262626429": {
+    "contest_id": 656,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/656/A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Da Vinci Powers",
+    "problem_url": "https://codeforces.com/contest/656/problem/A",
+    "submission_id": "CF262626429",
+    "submission_url": "https://codeforces.com/contest/656/submission/262626429",
+    "tags": [
+      "*special problem",
+      "*1900"
+    ],
+    "timestamp": "May/26/2024 03:17"
+  },
   "CF262626446": {
     "contest_id": 1584,
     "language": "C++20 (GCC 13-64)",
