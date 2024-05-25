@@ -23393,6 +23393,22 @@
     ],
     "timestamp": "May/17/2024 08:26"
   },
+  "CF262631366": {
+    "contest_id": 1267,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1267/E.cpp",
+    "platform": "Codeforces",
+    "problem_index": "E",
+    "problem_name": "Elections",
+    "problem_url": "https://codeforces.com/contest/1267/problem/E",
+    "submission_id": "CF262631366",
+    "submission_url": "https://codeforces.com/contest/1267/submission/262631366",
+    "tags": [
+      "greedy",
+      "*1700"
+    ],
+    "timestamp": "May/26/2024 05:34"
+  },
   "CF262631738": {
     "contest_id": 1850,
     "language": "C++20 (GCC 13-64)",
