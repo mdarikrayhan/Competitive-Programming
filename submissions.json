@@ -23393,6 +23393,24 @@
     ],
     "timestamp": "May/17/2024 08:26"
   },
+  "CF262622385": {
+    "contest_id": 94,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/94/B.cpp",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Friends",
+    "problem_url": "https://codeforces.com/contest/94/problem/B",
+    "submission_id": "CF262622385",
+    "submission_url": "https://codeforces.com/contest/94/submission/262622385",
+    "tags": [
+      "graphs",
+      "implementation",
+      "math",
+      "*1300"
+    ],
+    "timestamp": "May/26/2024 02:15"
+  },
   "CF262622404": {
     "contest_id": 1144,
     "language": "C++20 (GCC 13-64)",
