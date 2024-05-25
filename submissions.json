@@ -42188,6 +42188,25 @@
     ],
     "timestamp": "May/25/2024 17:32"
   },
+  "CF262503399": {
+    "contest_id": 159,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/159/E.cpp",
+    "platform": "Codeforces",
+    "problem_index": "E",
+    "problem_name": "Zebra Tower",
+    "problem_url": "https://codeforces.com/contest/159/problem/E",
+    "submission_id": "CF262503399",
+    "submission_url": "https://codeforces.com/contest/159/submission/262503399",
+    "tags": [
+      "*special problem",
+      "data structures",
+      "greedy",
+      "sortings",
+      "*1700"
+    ],
+    "timestamp": "May/25/2024 17:32"
+  },
   "CF262503595": {
     "contest_id": 1952,
     "language": "C++20 (GCC 13-64)",
