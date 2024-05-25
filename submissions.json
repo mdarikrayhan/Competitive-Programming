@@ -40775,6 +40775,25 @@
     ],
     "timestamp": "May/25/2024 10:39"
   },
+  "CF262460591": {
+    "contest_id": 1709,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1709/D.cpp",
+    "platform": "Codeforces",
+    "problem_index": "D",
+    "problem_name": "Rorororobot",
+    "problem_url": "https://codeforces.com/contest/1709/problem/D",
+    "submission_id": "CF262460591",
+    "submission_url": "https://codeforces.com/contest/1709/submission/262460591",
+    "tags": [
+      "binary search",
+      "data structures",
+      "greedy",
+      "math",
+      "*1700"
+    ],
+    "timestamp": "May/25/2024 11:14"
+  },
   "CF262460630": {
     "contest_id": 888,
     "language": "C++20 (GCC 13-64)",
