@@ -23393,6 +23393,24 @@
     ],
     "timestamp": "May/17/2024 08:26"
   },
+  "CF262627381": {
+    "contest_id": 1468,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1468/J.cpp",
+    "platform": "Codeforces",
+    "problem_index": "J",
+    "problem_name": "Road Reform",
+    "problem_url": "https://codeforces.com/contest/1468/problem/J",
+    "submission_id": "CF262627381",
+    "submission_url": "https://codeforces.com/contest/1468/submission/262627381",
+    "tags": [
+      "dsu",
+      "graphs",
+      "greedy",
+      "*1800"
+    ],
+    "timestamp": "May/26/2024 03:36"
+  },
   "CF262627384": {
     "contest_id": 895,
     "language": "C++20 (GCC 13-64)",
