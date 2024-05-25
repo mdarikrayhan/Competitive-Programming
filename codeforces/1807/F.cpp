@@ -1,82 +1,88 @@
-/***************************************************/
-/*            Author : Md. Arik Rayhan             */
-/*        Github : github.com/mdarikrayhan         */
-/***************************************************/
-#include <bits/stdc++.h>
+#include<bits/stdc++.h>
+#define ll long long
+#define ull unsigned long long
+#define lll __int128
+#define ulll unsigned __int128
+#define all(x) x.begin(),x.end()
 using namespace std;
-const char nl = '\n';
+const int mod = 1e9 + 7;
 
-typedef long long ll;
-typedef long double ld;
-typedef complex<ld> cd;
+// #pragma GCC optimize("Ofast,inline,unroll-loops,fast-math")
+// #pragma GCC target("avx,avx2,fma,bmi,bmi2,lzcnt,popcnt,sse,sse2,sse3,sse4,mmx")
 
-typedef pair<int, int> pi;
-typedef pair<ll,ll> pl;
-typedef pair<ld,ld> pd;
+#ifndef ONLINE_JUDGE
+#include "debug.h"
+#endif
 
-typedef vector<int> vi;
-typedef vector<ld> vd;
-typedef vector<ll> vl;
-typedef vector<pi> vpi;
-typedef vector<pl> vpl;
-typedef vector<cd> vcd;
+bool is_square(ll n) { ll l = 1, r = 3037000500, mid; while (r - l > 1) { mid = (l + r) / 2; ll x = mid * mid; if (x <= n) { l = mid; } else { r = mid; } } return (l * l == n); }
+ll power(ll a, ll b) { ll ans = 1; while (b) { if (b % 2) ans *= a; a *= a; b /= 2; } return ans; }
+ll powmod(ll a, ll b, ll mod) { ll ans = 1; a %= mod; while (b) { if (b % 2) ans = (a * ans) % mod; a = (a * a) % mod; b /= 2; } return ans; }
+ll factmod(ll n, ll mod) { ll ans = 1; while (n) { ans = (ans * (n--)) % mod; } return ans; }
+ll ncrmod(ll n, ll r, ll mod) { return (((factmod(n, mod) * powmod(factmod(r, mod), mod - 2, mod)) % mod) * powmod(factmod(n - r, mod), mod - 2, mod)) % mod; }
 
-#define rep(i,a,b) for (int i=a; i<(b); i++)
-#define per(i,a,b) for (int i = (b)-1; i >= a; i--)
-#define print_map(m) for (const auto &[key, value] : m){cout << '[' << key << ']' << ' ' << '=' << ' ' << value << '\n';}
-#define print_vector(v)int vadnfiv=0;for (const auto &value : v){cout <<vadnfiv<<' '<<value<< '\n';vadnfiv++;}
-#define gcd(a,b) __gcd(a,b)
-#define lcm(a,b) (a*(b/gcd(a,b)))
+map<string, pair<int, int>> dirs = {
+	{"DR", {1, 1}},
+	{"DL", {1, -1}},
+	{"UR", {-1, 1}},
+	{"UL", {-1, -1}}
+};
 
-#define start_time using std::chrono::duration;using std::chrono::duration_cast;using std::chrono::high_resolution_clock;using std::chrono::milliseconds;auto t1111 = high_resolution_clock::now();
-#define end_time auto t2222 = high_resolution_clock::now();duration<double, std::milli> ms_double = t2222 - t1111;std::cout << ms_double.count() << 'm'<<'s'<<nl;
-#define sz(x) (int)(x).size()
-#define mp make_pair
-#define pb push_back
-#define ff first
-#define ss second
-#define lb lower_bound
-#define ub upper_bound
-#define all(x) x.begin(), x.end()
-#define ins insert
-#define fastio ios_base::sync_with_stdio(false);cin.tie(NULL);cout.tie(NULL);
-#define multicase int NoOfTestCase = 1;cin >> NoOfTestCase;for(int testcaseno=1;testcaseno<=NoOfTestCase;testcaseno++)
-bool isPrime(int n){if (n == 2 || n == 3){return true;}if (n <= 1 || n % 2 == 0 || n % 3 == 0){return false;}for (int i = 5; i * i <= n; i += 6){if (n % i == 0 || n % (i + 2) == 0){return false;}}return true;}
-bool isPalindrome(string S){string P = S;reverse(P.begin(), P.end());if (S == P) {return true;}else {return false;}}
-bool isPowerof(long long num, long long base){if (num <= 0){return false;}if (num % base == 0){return isPowerof(num / base, base);}if (num == 1){return true;}return false;}
+void solve() {
+	int n, m, xi, yi, xn, yn;
+	cin >> n >> m >> xi >> yi >> xn >> yn;
 
-template<class T> bool ckmin(T& a, const T& b) { return b < a ? a = b, 1 : 0; }
-template<class T> bool ckmax(T& a, const T& b) { return a < b ? a = b, 1 : 0; }
+	string s; cin >> s;
+	pair<int, int> dir = dirs[s];
 
-int main() {
-fastio
-multicase
-{
-    int n, m, x1, y1, x2, y2; string dir;
-    cin >> n >> m >> x1 >> y1 >> x2 >> y2 >> dir;
-    int xdir = dir[0] == 'D', ydir = dir[1] == 'R';
-    int bounce = 0, ans = -1;
-    while (bounce < 2 * n * m) {
-      int goal_xmoves = xdir == 1 ? (x1 <= x2 ? x2 - x1 : -1) : (x2 <= x1 ? x1 - x2 : -1);
-      int goal_ymoves = ydir == 1 ? (y1 <= y2 ? y2 - y1 : -1) : (y2 <= y1 ? y1 - y2 : -1);
-      if (goal_xmoves != -1 and goal_xmoves == goal_ymoves) {
-        ans = bounce;
-        break;
-      }
-      int xmoves = xdir == 1 ? n - x1 : x1 - 1;
-      int ymoves = ydir == 1 ? m - y1 : y1 - 1;
-      int moves = min(xmoves, ymoves);
-      ++bounce;
-      x1 += xdir == 1 ? +moves : -moves;
-      if (xmoves == moves) {
-        xdir ^= 1;
-      }
-      y1 += ydir == 1 ? +moves : -moves;
-      if (ymoves == moves) {
-        ydir ^= 1;
-      }
-    }
-    cout << ans << '\n';
+	pair<int, int> curr = {xi, yi};
+	pair<int, int> target = {xn, yn};
+
+	set<array<int, 4>> vis;
+	int bounces = 0;
+
+	auto isval = [&](int x, int n) {
+		return x >= 1 && x <= n;
+	};
+
+	while (curr != target) {
+		// cout << curr << ' ' << bounces << '\n';
+		if (vis.count({curr.first, curr.second, dir.first, dir.second})) {
+			cout << "-1\n";
+			return;
+		}
+
+		vis.insert({curr.first, curr.second, dir.first, dir.second});
+
+		bool bounce = false;
+		if (isval(curr.first + dir.first, n))
+			curr.first += dir.first;
+		else {
+			bounce = true;
+			dir.first *= -1;
+			curr.first += dir.first;
+		}
+
+		if (isval(curr.second + dir.second, m))
+			curr.second += dir.second;
+		else {
+			bounce = true;
+			dir.second *= -1;
+			curr.second += dir.second;
+		}
+
+		bounces += bounce;
+	}
+
+	cout << bounces << '\n';
 }
-return 0;
+
+int32_t main() {
+	ios::sync_with_stdio(0);
+	cin.tie(0);
+	int t = 1;
+	cin >> t;
+	while (t--) {
+		solve();
+	}
+	return 0;
 }
