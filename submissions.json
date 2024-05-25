@@ -46919,6 +46919,24 @@
     ],
     "timestamp": "May/26/2024 04:33"
   },
+  "CF262629755": {
+    "contest_id": 690,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/690/C2.cpp",
+    "platform": "Codeforces",
+    "problem_index": "C2",
+    "problem_name": "Brain Network (medium)",
+    "problem_url": "https://codeforces.com/contest/690/problem/C2",
+    "submission_id": "CF262629755",
+    "submission_url": "https://codeforces.com/contest/690/submission/262629755",
+    "tags": [
+      "dfs and similar",
+      "graphs",
+      "trees",
+      "*1500"
+    ],
+    "timestamp": "May/26/2024 04:37"
+  },
   "CF262629795": {
     "contest_id": 149,
     "language": "C++20 (GCC 13-64)",
