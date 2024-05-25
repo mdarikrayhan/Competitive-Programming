@@ -42269,6 +42269,24 @@
     ],
     "timestamp": "May/25/2024 17:37"
   },
+  "CF262506862": {
+    "contest_id": 676,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/676/B.cpp",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Pyramid of Glasses",
+    "problem_url": "https://codeforces.com/contest/676/problem/B",
+    "submission_id": "CF262506862",
+    "submission_url": "https://codeforces.com/contest/676/submission/262506862",
+    "tags": [
+      "implementation",
+      "math",
+      "math",
+      "*1500"
+    ],
+    "timestamp": "May/25/2024 18:05"
+  },
   "CF262506878": {
     "contest_id": 667,
     "language": "C++20 (GCC 13-64)",
