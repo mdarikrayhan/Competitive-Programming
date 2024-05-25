@@ -46919,6 +46919,24 @@
     ],
     "timestamp": "May/26/2024 04:33"
   },
+  "CF262630046": {
+    "contest_id": 1320,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1320/C.cpp",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "World of Darkraft: Battle for Azathoth",
+    "problem_url": "https://codeforces.com/contest/1320/problem/C",
+    "submission_id": "CF262630046",
+    "submission_url": "https://codeforces.com/contest/1320/submission/262630046",
+    "tags": [
+      "brute force",
+      "data structures",
+      "sortings",
+      "*2000"
+    ],
+    "timestamp": "May/26/2024 04:46"
+  },
   "CF262630059": {
     "contest_id": 1520,
     "language": "C++20 (GCC 13-64)",
