@@ -23393,6 +23393,25 @@
     ],
     "timestamp": "May/17/2024 08:26"
   },
+  "CF262630183": {
+    "contest_id": 1718,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1718/B.cpp",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Fibonacci Strings",
+    "problem_url": "https://codeforces.com/contest/1718/problem/B",
+    "submission_id": "CF262630183",
+    "submission_url": "https://codeforces.com/contest/1718/submission/262630183",
+    "tags": [
+      "greedy",
+      "implementation",
+      "math",
+      "number theory",
+      "*2000"
+    ],
+    "timestamp": "May/26/2024 04:51"
+  },
   "CF262630197": {
     "contest_id": 1009,
     "language": "C++20 (GCC 13-64)",
