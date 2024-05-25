@@ -23393,6 +23393,28 @@
     ],
     "timestamp": "May/17/2024 08:26"
   },
+  "CF262626219": {
+    "contest_id": 1950,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1950/G.cpp",
+    "platform": "Codeforces",
+    "problem_index": "G",
+    "problem_name": "Shuffling Songs",
+    "problem_url": "https://codeforces.com/contest/1950/problem/G",
+    "submission_id": "CF262626219",
+    "submission_url": "https://codeforces.com/contest/1950/submission/262626219",
+    "tags": [
+      "bitmasks",
+      "dfs and similar",
+      "dp",
+      "graphs",
+      "hashing",
+      "implementation",
+      "strings",
+      "*1900"
+    ],
+    "timestamp": "May/26/2024 03:14"
+  },
   "CF262626223": {
     "contest_id": 1129,
     "language": "C++20 (GCC 13-64)",
