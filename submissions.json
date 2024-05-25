@@ -23393,6 +23393,19 @@
     ],
     "timestamp": "May/17/2024 08:26"
   },
+  "CF262498450": {
+    "contest_id": 1237,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1237/C2.cpp",
+    "platform": "Codeforces",
+    "problem_index": "C2",
+    "problem_name": "Balanced Removals (Harder)",
+    "problem_url": "https://codeforces.com/contest/1237/problem/C2",
+    "submission_id": "CF262498450",
+    "submission_url": "https://codeforces.com/contest/1237/submission/262498450",
+    "tags": [],
+    "timestamp": "May/25/2024 16:47"
+  },
   "CF262498456": {
     "contest_id": 713,
     "language": "C++20 (GCC 13-64)",
