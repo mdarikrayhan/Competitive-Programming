@@ -40775,6 +40775,23 @@
     ],
     "timestamp": "May/25/2024 10:39"
   },
+  "CF262460202": {
+    "contest_id": 604,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/604/B.cpp",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "More Cowbell",
+    "problem_url": "https://codeforces.com/contest/604/problem/B",
+    "submission_id": "CF262460202",
+    "submission_url": "https://codeforces.com/contest/604/submission/262460202",
+    "tags": [
+      "binary search",
+      "greedy",
+      "*1400"
+    ],
+    "timestamp": "May/25/2024 11:09"
+  },
   "CF262460224": {
     "contest_id": 982,
     "language": "C++20 (GCC 13-64)",
