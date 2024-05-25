@@ -23393,6 +23393,26 @@
     ],
     "timestamp": "May/17/2024 08:26"
   },
+  "CF262497054": {
+    "contest_id": 843,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/843/A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Sorting by Subsequences",
+    "problem_url": "https://codeforces.com/contest/843/problem/A",
+    "submission_id": "CF262497054",
+    "submission_url": "https://codeforces.com/contest/843/submission/262497054",
+    "tags": [
+      "dfs and similar",
+      "dsu",
+      "implementation",
+      "math",
+      "sortings",
+      "*1400"
+    ],
+    "timestamp": "May/25/2024 16:35"
+  },
   "CF262497162": {
     "contest_id": 1264,
     "language": "C++20 (GCC 13-64)",
