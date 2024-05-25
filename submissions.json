@@ -42269,6 +42269,23 @@
     ],
     "timestamp": "May/25/2024 17:37"
   },
+  "CF262506878": {
+    "contest_id": 667,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/667/B.cpp",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Coat of Anticubism",
+    "problem_url": "https://codeforces.com/contest/667/problem/B",
+    "submission_id": "CF262506878",
+    "submission_url": "https://codeforces.com/contest/667/submission/262506878",
+    "tags": [
+      "constructive algorithms",
+      "geometry",
+      "*1100"
+    ],
+    "timestamp": "May/25/2024 18:05"
+  },
   "CF262507719": {
     "contest_id": 196,
     "language": "C++20 (GCC 13-64)",
