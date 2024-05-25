@@ -23393,6 +23393,23 @@
     ],
     "timestamp": "May/17/2024 08:26"
   },
+  "CF262623726": {
+    "contest_id": 773,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/773/A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Success Rate",
+    "problem_url": "https://codeforces.com/contest/773/problem/A",
+    "submission_id": "CF262623726",
+    "submission_url": "https://codeforces.com/contest/773/submission/262623726",
+    "tags": [
+      "binary search",
+      "math",
+      "*1700"
+    ],
+    "timestamp": "May/26/2024 02:33"
+  },
   "CF262623730": {
     "contest_id": 1081,
     "language": "C++20 (GCC 13-64)",
