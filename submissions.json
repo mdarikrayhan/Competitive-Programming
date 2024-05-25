@@ -40823,6 +40823,22 @@
     ],
     "timestamp": "May/25/2024 16:23"
   },
+  "CF262496234": {
+    "contest_id": 687,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/687/C.cpp",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "The Values You Can Make",
+    "problem_url": "https://codeforces.com/contest/687/problem/C",
+    "submission_id": "CF262496234",
+    "submission_url": "https://codeforces.com/contest/687/submission/262496234",
+    "tags": [
+      "dp",
+      "*1900"
+    ],
+    "timestamp": "May/25/2024 16:28"
+  },
   "CF262496315": {
     "contest_id": 1843,
     "language": "C++20 (GCC 13-64)",
