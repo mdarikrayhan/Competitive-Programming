@@ -54857,6 +54857,24 @@
     ],
     "timestamp": "May/26/2024 03:55"
   },
+  "CF262629097": {
+    "contest_id": 924,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/924/C.cpp",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Riverside Curio",
+    "problem_url": "https://codeforces.com/contest/924/problem/C",
+    "submission_id": "CF262629097",
+    "submission_url": "https://codeforces.com/contest/924/submission/262629097",
+    "tags": [
+      "data structures",
+      "dp",
+      "greedy",
+      "*1700"
+    ],
+    "timestamp": "May/26/2024 04:19"
+  },
   "CF262629107": {
     "contest_id": 14,
     "language": "C++20 (GCC 13-64)",
