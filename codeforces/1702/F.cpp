@@ -1,27 +1,36 @@
-#include<bits/stdc++.h>
-#define N 200010
+// LUOGU_RID: 160124770
+#include <bits/stdc++.h>
 using namespace std;
-int t,n,a,b;
-map<int,int> mp;
- 
-int main(){
-	cin>>t;
-	while(t--){
-		cin>>n;
-		mp.clear();
-		for(int i=1;i<=n;i++){
-			cin>>a;
-			while(a%2==0) a/=2;
+int t;
+int n, a, b;
+
+int main() {
+	cin >> t;
+	while (t--) {
+		cin >> n;
+		map<int, int> mp;
+		for (int i = 1; i <= n; i++) {
+			cin >> a;
+			while (a % 2 == 0)
+				a = a / 2;
 			mp[a]++;
 		}
-		int fl=0;
-		for(int i=1;i<=n;i++){
-			cin>>b;
-			while(b&&mp[b]==0) b/=2;
-			if(b) mp[b]--;
-			else fl=1;
+		int f = 0;
+		for (int i = 1; i <= n; i++) {
+			cin >> b;
+			while (b % 2 == 0)
+				b = b / 2;
+			while (b != 1 && mp[b] == 0)
+				b = b / 2;
+			if (mp[b] > 0)
+				mp[b]--;
+			else
+				f = 1;
 		}
-		if(fl) cout<<"NO\n";
-		else cout<<"YES\n";
+		if (f == 0)
+			puts("YES");
+		else
+			puts("NO");
 	}
+	return 0;
 }
