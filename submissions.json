@@ -46647,6 +46647,22 @@
     ],
     "timestamp": "May/26/2024 03:55"
   },
+  "CF262629260": {
+    "contest_id": 350,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/350/B.cpp",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Resort",
+    "problem_url": "https://codeforces.com/contest/350/problem/B",
+    "submission_id": "CF262629260",
+    "submission_url": "https://codeforces.com/contest/350/submission/262629260",
+    "tags": [
+      "graphs",
+      "*1500"
+    ],
+    "timestamp": "May/26/2024 04:23"
+  },
   "CF262629264": {
     "contest_id": 20,
     "language": "C++20 (GCC 13-64)",
