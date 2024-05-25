@@ -54857,6 +54857,27 @@
     ],
     "timestamp": "May/26/2024 03:55"
   },
+  "CF262629174": {
+    "contest_id": 722,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/722/D.cpp",
+    "platform": "Codeforces",
+    "problem_index": "D",
+    "problem_name": "Generating Sets",
+    "problem_url": "https://codeforces.com/contest/722/problem/D",
+    "submission_id": "CF262629174",
+    "submission_url": "https://codeforces.com/contest/722/submission/262629174",
+    "tags": [
+      "binary search",
+      "data structures",
+      "dfs and similar",
+      "greedy",
+      "strings",
+      "trees",
+      "*1900"
+    ],
+    "timestamp": "May/26/2024 04:21"
+  },
   "CF262629202": {
     "contest_id": 1477,
     "language": "C++20 (GCC 13-64)",
