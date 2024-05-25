@@ -23393,6 +23393,24 @@
     ],
     "timestamp": "May/17/2024 08:26"
   },
+  "CF262630263": {
+    "contest_id": 1725,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1725/M.cpp",
+    "platform": "Codeforces",
+    "problem_index": "M",
+    "problem_name": "Moving Both Hands",
+    "problem_url": "https://codeforces.com/contest/1725/problem/M",
+    "submission_id": "CF262630263",
+    "submission_url": "https://codeforces.com/contest/1725/submission/262630263",
+    "tags": [
+      "dp",
+      "graphs",
+      "shortest paths",
+      "*1800"
+    ],
+    "timestamp": "May/26/2024 04:54"
+  },
   "CF262630271": {
     "contest_id": 665,
     "language": "C++20 (GCC 13-64)",
