@@ -45467,6 +45467,24 @@
     ],
     "timestamp": "May/26/2024 03:14"
   },
+  "CF262626376": {
+    "contest_id": 1909,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1909/D.cpp",
+    "platform": "Codeforces",
+    "problem_index": "D",
+    "problem_name": "Split Plus K",
+    "problem_url": "https://codeforces.com/contest/1909/problem/D",
+    "submission_id": "CF262626376",
+    "submission_url": "https://codeforces.com/contest/1909/submission/262626376",
+    "tags": [
+      "greedy",
+      "math",
+      "number theory",
+      "*1900"
+    ],
+    "timestamp": "May/26/2024 03:16"
+  },
   "CF262626378": {
     "contest_id": 1726,
     "language": "C++20 (GCC 13-64)",
