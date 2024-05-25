@@ -23393,6 +23393,25 @@
     ],
     "timestamp": "May/17/2024 08:26"
   },
+  "CF262494694": {
+    "contest_id": 1238,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1238/D.cpp",
+    "platform": "Codeforces",
+    "problem_index": "D",
+    "problem_name": "AB-string",
+    "problem_url": "https://codeforces.com/contest/1238/problem/D",
+    "submission_id": "CF262494694",
+    "submission_url": "https://codeforces.com/contest/1238/submission/262494694",
+    "tags": [
+      "binary search",
+      "combinatorics",
+      "dp",
+      "strings",
+      "*1900"
+    ],
+    "timestamp": "May/25/2024 16:14"
+  },
   "CF262494712": {
     "contest_id": 27,
     "language": "C++20 (GCC 13-64)",
