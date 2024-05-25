@@ -40823,6 +40823,23 @@
     ],
     "timestamp": "May/25/2024 16:23"
   },
+  "CF262496204": {
+    "contest_id": 1613,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1613/E.cpp",
+    "platform": "Codeforces",
+    "problem_index": "E",
+    "problem_name": "Crazy Robot",
+    "problem_url": "https://codeforces.com/contest/1613/problem/E",
+    "submission_id": "CF262496204",
+    "submission_url": "https://codeforces.com/contest/1613/submission/262496204",
+    "tags": [
+      "dfs and similar",
+      "graphs",
+      "*2000"
+    ],
+    "timestamp": "May/25/2024 16:27"
+  },
   "CF262496231": {
     "contest_id": 798,
     "language": "C++20 (GCC 13-64)",
