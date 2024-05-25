@@ -1,44 +1,36 @@
-#include <bits/stdc++.h>
+# include <iostream>
+# define ll long long
 using namespace std;
-const char nl = '\n';
-#define int long long
-#define vi vector<int>
-int32_t main()
-{
-    ios_base::sync_with_stdio(false);
-    cin.tie(NULL);
-    cout.tie(NULL);
-    int T = 1;
-    cin >> T;
-    for (int tt = 1; tt <= T; tt++)
-    {
-        int n;
-        cin >> n;
-        vi a(n), b(n), c(n);
-        for (int i = 0; i < n; i++)
-        {
-            cin >> a[i] >> b[i];
-        }
 
-        for (int i = 0; i < n; i++)
-        {
-            c[i] = a[i] * b[i];
-        }
-        int gcd = c[0];
-        int lcm = b[0];
-        int ans = 0;
-        for (int i = 0; i < n - 1; i++)
-        {
-            gcd = __gcd(gcd, c[i + 1]);
-            lcm = (lcm * b[i + 1]) / (__gcd(lcm, b[i + 1]));
-            if (gcd % lcm)
-            {
-                ans++;
-                gcd = c[i + 1];
-                lcm = b[i + 1];
-            }
-        }
-        cout << ans + 1 << endl;
-    }
-    return 0;
+const int N = 2e5 + 5;
+
+ll n, a[N], b[N];
+
+ll gcd(ll x, ll y) {return y? gcd(y, x%y): x;}
+ll lcm(ll x, ll y) {return x/gcd(x, y)*y;}
+
+void solve() {
+	cin >> n;
+	for (int i = 1; i <= n; ++i) cin >> a[i] >> b[i];
+	ll g = 0, k = 1;
+	int ans = 1;
+	for (int i = 1; i <= n; ++i) {
+		if (gcd(g, a[i] * b[i]) % lcm(k, b[i]) == 0) {
+			g = gcd(a[i] * b[i], g);
+			k = lcm(k, b[i]);
+		}
+		else {
+			++ans;
+			g = a[i] * b[i];
+			k = b[i];
+		}
+	}
+	cout << ans << '\n';
+}
+
+int main() {
+	int T;
+	cin >> T;
+	while (T--) solve();
+	return 0;
 }
