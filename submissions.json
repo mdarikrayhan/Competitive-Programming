@@ -23393,6 +23393,23 @@
     ],
     "timestamp": "May/17/2024 08:26"
   },
+  "CF262499008": {
+    "contest_id": 68,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/68/A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Irrational problem",
+    "problem_url": "https://codeforces.com/contest/68/problem/A",
+    "submission_id": "CF262499008",
+    "submission_url": "https://codeforces.com/contest/68/submission/262499008",
+    "tags": [
+      "implementation",
+      "number theory",
+      "*1100"
+    ],
+    "timestamp": "May/25/2024 16:52"
+  },
   "CF262499032": {
     "contest_id": 1593,
     "language": "C++20 (GCC 13-64)",
