@@ -23393,6 +23393,24 @@
     ],
     "timestamp": "May/17/2024 08:26"
   },
+  "CF262623538": {
+    "contest_id": 28,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/28/B.cpp",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "pSort",
+    "problem_url": "https://codeforces.com/contest/28/problem/B",
+    "submission_id": "CF262623538",
+    "submission_url": "https://codeforces.com/contest/28/submission/262623538",
+    "tags": [
+      "dfs and similar",
+      "dsu",
+      "graphs",
+      "*1600"
+    ],
+    "timestamp": "May/26/2024 02:31"
+  },
   "CF262623545": {
     "contest_id": 1834,
     "language": "C++20 (GCC 13-64)",
