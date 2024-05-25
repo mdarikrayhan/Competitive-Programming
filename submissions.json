@@ -23393,6 +23393,26 @@
     ],
     "timestamp": "May/17/2024 08:26"
   },
+  "CF262627191": {
+    "contest_id": 1921,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1921/F.cpp",
+    "platform": "Codeforces",
+    "problem_index": "F",
+    "problem_name": "Sum of Progression",
+    "problem_url": "https://codeforces.com/contest/1921/problem/F",
+    "submission_id": "CF262627191",
+    "submission_url": "https://codeforces.com/contest/1921/submission/262627191",
+    "tags": [
+      "brute force",
+      "data structures",
+      "dp",
+      "implementation",
+      "math",
+      "*1900"
+    ],
+    "timestamp": "May/26/2024 03:32"
+  },
   "CF262627192": {
     "contest_id": 593,
     "language": "C++20 (GCC 13-64)",
