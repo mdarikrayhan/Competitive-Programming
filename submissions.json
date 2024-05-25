@@ -43457,6 +43457,26 @@
     ],
     "timestamp": "May/25/2024 12:27"
   },
+  "CF262468108": {
+    "contest_id": 1594,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1594/D.cpp",
+    "platform": "Codeforces",
+    "problem_index": "D",
+    "problem_name": "The Number of Imposters",
+    "problem_url": "https://codeforces.com/contest/1594/problem/D",
+    "submission_id": "CF262468108",
+    "submission_url": "https://codeforces.com/contest/1594/submission/262468108",
+    "tags": [
+      "constructive algorithms",
+      "dfs and similar",
+      "dp",
+      "dsu",
+      "graphs",
+      "*1700"
+    ],
+    "timestamp": "May/25/2024 12:27"
+  },
   "CF262468136": {
     "contest_id": 1121,
     "language": "C++20 (GCC 13-64)",
