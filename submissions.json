@@ -45467,6 +45467,23 @@
     ],
     "timestamp": "May/26/2024 03:14"
   },
+  "CF262626475": {
+    "contest_id": 1729,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1729/F.cpp",
+    "platform": "Codeforces",
+    "problem_index": "F",
+    "problem_name": "Kirei and the Linear Function",
+    "problem_url": "https://codeforces.com/contest/1729/problem/F",
+    "submission_id": "CF262626475",
+    "submission_url": "https://codeforces.com/contest/1729/submission/262626475",
+    "tags": [
+      "hashing",
+      "math",
+      "*1900"
+    ],
+    "timestamp": "May/26/2024 03:18"
+  },
   "CF262626476": {
     "contest_id": 321,
     "language": "C++20 (GCC 13-64)",
