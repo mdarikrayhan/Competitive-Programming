@@ -23393,6 +23393,23 @@
     ],
     "timestamp": "May/17/2024 08:26"
   },
+  "CF262623209": {
+    "contest_id": 932,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/932/C.cpp",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Permutation Cycle",
+    "problem_url": "https://codeforces.com/contest/932/problem/C",
+    "submission_id": "CF262623209",
+    "submission_url": "https://codeforces.com/contest/932/submission/262623209",
+    "tags": [
+      "brute force",
+      "constructive algorithms",
+      "*1600"
+    ],
+    "timestamp": "May/26/2024 02:26"
+  },
   "CF262623225": {
     "contest_id": 468,
     "language": "C++20 (GCC 13-64)",
