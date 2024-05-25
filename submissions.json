@@ -23393,6 +23393,24 @@
     ],
     "timestamp": "May/17/2024 08:26"
   },
+  "CF262627180": {
+    "contest_id": 585,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/585/B.cpp",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Phillip and Trains",
+    "problem_url": "https://codeforces.com/contest/585/problem/B",
+    "submission_id": "CF262627180",
+    "submission_url": "https://codeforces.com/contest/585/submission/262627180",
+    "tags": [
+      "dfs and similar",
+      "graphs",
+      "shortest paths",
+      "*1700"
+    ],
+    "timestamp": "May/26/2024 03:31"
+  },
   "CF262627191": {
     "contest_id": 1921,
     "language": "C++20 (GCC 13-64)",
