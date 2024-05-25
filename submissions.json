@@ -23393,6 +23393,24 @@
     ],
     "timestamp": "May/17/2024 08:26"
   },
+  "CF262466718": {
+    "contest_id": 581,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/581/C.cpp",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Developing Skills",
+    "problem_url": "https://codeforces.com/contest/581/problem/C",
+    "submission_id": "CF262466718",
+    "submission_url": "https://codeforces.com/contest/581/submission/262466718",
+    "tags": [
+      "implementation",
+      "math",
+      "sortings",
+      "*1400"
+    ],
+    "timestamp": "May/25/2024 12:17"
+  },
   "CF262466762": {
     "contest_id": 1935,
     "language": "C++20 (GCC 13-64)",
