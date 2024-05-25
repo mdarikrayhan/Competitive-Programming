@@ -42089,6 +42089,23 @@
     ],
     "timestamp": "May/25/2024 11:55"
   },
+  "CF262464727": {
+    "contest_id": 1446,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1446/B.cpp",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Catching Cheaters",
+    "problem_url": "https://codeforces.com/contest/1446/problem/B",
+    "submission_id": "CF262464727",
+    "submission_url": "https://codeforces.com/contest/1446/submission/262464727",
+    "tags": [
+      "dp",
+      "strings",
+      "*1800"
+    ],
+    "timestamp": "May/25/2024 11:57"
+  },
   "CF262464749": {
     "contest_id": 762,
     "language": "C++20 (GCC 13-64)",
