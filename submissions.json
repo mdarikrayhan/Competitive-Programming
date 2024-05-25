@@ -39360,6 +39360,27 @@
     ],
     "timestamp": "May/25/2024 12:33"
   },
+  "CF262491950": {
+    "contest_id": 1560,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1560/F1.cpp",
+    "platform": "Codeforces",
+    "problem_index": "F1",
+    "problem_name": "Nearest Beautiful Number (easy version)",
+    "problem_url": "https://codeforces.com/contest/1560/problem/F1",
+    "submission_id": "CF262491950",
+    "submission_url": "https://codeforces.com/contest/1560/submission/262491950",
+    "tags": [
+      "binary search",
+      "bitmasks",
+      "brute force",
+      "constructive algorithms",
+      "dfs and similar",
+      "greedy",
+      "*1900"
+    ],
+    "timestamp": "May/25/2024 15:54"
+  },
   "CF262491990": {
     "contest_id": 1792,
     "language": "C++20 (GCC 13-64)",
