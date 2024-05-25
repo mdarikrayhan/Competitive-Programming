@@ -23393,6 +23393,26 @@
     ],
     "timestamp": "May/17/2024 08:26"
   },
+  "CF262621241": {
+    "contest_id": 527,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/527/D.cpp",
+    "platform": "Codeforces",
+    "problem_index": "D",
+    "problem_name": "Clique Problem",
+    "problem_url": "https://codeforces.com/contest/527/problem/D",
+    "submission_id": "CF262621241",
+    "submission_url": "https://codeforces.com/contest/527/submission/262621241",
+    "tags": [
+      "data structures",
+      "dp",
+      "greedy",
+      "implementation",
+      "sortings",
+      "*1800"
+    ],
+    "timestamp": "May/26/2024 02:00"
+  },
   "CF262621247": {
     "contest_id": 1416,
     "language": "C++20 (GCC 13-64)",
