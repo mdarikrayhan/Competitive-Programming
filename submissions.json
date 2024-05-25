@@ -40775,6 +40775,25 @@
     ],
     "timestamp": "May/25/2024 10:39"
   },
+  "CF262460001": {
+    "contest_id": 1660,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1660/D.cpp",
+    "platform": "Codeforces",
+    "problem_index": "D",
+    "problem_name": "Maximum Product Strikes Back",
+    "problem_url": "https://codeforces.com/contest/1660/problem/D",
+    "submission_id": "CF262460001",
+    "submission_url": "https://codeforces.com/contest/1660/submission/262460001",
+    "tags": [
+      "brute force",
+      "implementation",
+      "math",
+      "two pointers",
+      "*1600"
+    ],
+    "timestamp": "May/25/2024 11:07"
+  },
   "CF262460061": {
     "contest_id": 1369,
     "language": "C++20 (GCC 13-64)",
