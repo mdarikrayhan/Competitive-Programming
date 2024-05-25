@@ -23393,6 +23393,25 @@
     ],
     "timestamp": "May/17/2024 08:26"
   },
+  "CF262621395": {
+    "contest_id": 1780,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1780/D.cpp",
+    "platform": "Codeforces",
+    "problem_index": "D",
+    "problem_name": "Bit Guessing Game",
+    "problem_url": "https://codeforces.com/contest/1780/problem/D",
+    "submission_id": "CF262621395",
+    "submission_url": "https://codeforces.com/contest/1780/submission/262621395",
+    "tags": [
+      "binary search",
+      "bitmasks",
+      "constructive algorithms",
+      "interactive",
+      "*1800"
+    ],
+    "timestamp": "May/26/2024 02:02"
+  },
   "CF262621407": {
     "contest_id": 685,
     "language": "C++20 (GCC 13-64)",
