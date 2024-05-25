@@ -37906,6 +37906,23 @@
     ],
     "timestamp": "May/25/2024 10:39"
   },
+  "CF262464190": {
+    "contest_id": 1527,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1527/B2.cpp",
+    "platform": "Codeforces",
+    "problem_index": "B2",
+    "problem_name": "Palindrome Game (hard version)",
+    "problem_url": "https://codeforces.com/contest/1527/problem/B2",
+    "submission_id": "CF262464190",
+    "submission_url": "https://codeforces.com/contest/1527/submission/262464190",
+    "tags": [
+      "constructive algorithms",
+      "games",
+      "*1900"
+    ],
+    "timestamp": "May/25/2024 11:52"
+  },
   "CF262464354": {
     "contest_id": 1003,
     "language": "C++20 (GCC 13-64)",
