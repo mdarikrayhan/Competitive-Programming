@@ -42269,6 +42269,23 @@
     ],
     "timestamp": "May/25/2024 17:37"
   },
+  "CF262507804": {
+    "contest_id": 234,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/234/C.cpp",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Weather",
+    "problem_url": "https://codeforces.com/contest/234/problem/C",
+    "submission_id": "CF262507804",
+    "submission_url": "https://codeforces.com/contest/234/submission/262507804",
+    "tags": [
+      "dp",
+      "implementation",
+      "*1300"
+    ],
+    "timestamp": "May/25/2024 18:14"
+  },
   "CF262507824": {
     "contest_id": 1372,
     "language": "C++20 (GCC 13-64)",
