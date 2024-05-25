@@ -37906,6 +37906,23 @@
     ],
     "timestamp": "May/25/2024 10:39"
   },
+  "CF262461999": {
+    "contest_id": 731,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/731/B.cpp",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Coupons and Discounts",
+    "problem_url": "https://codeforces.com/contest/731/problem/B",
+    "submission_id": "CF262461999",
+    "submission_url": "https://codeforces.com/contest/731/submission/262461999",
+    "tags": [
+      "constructive algorithms",
+      "greedy",
+      "*1100"
+    ],
+    "timestamp": "May/25/2024 11:30"
+  },
   "CF262462013": {
     "contest_id": 1102,
     "language": "C++20 (GCC 13-64)",
