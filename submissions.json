@@ -23393,6 +23393,26 @@
     ],
     "timestamp": "May/17/2024 08:26"
   },
+  "CF262492651": {
+    "contest_id": 1851,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1851/F.cpp",
+    "platform": "Codeforces",
+    "problem_index": "F",
+    "problem_name": "Lisa and the Martians",
+    "problem_url": "https://codeforces.com/contest/1851/problem/F",
+    "submission_id": "CF262492651",
+    "submission_url": "https://codeforces.com/contest/1851/submission/262492651",
+    "tags": [
+      "bitmasks",
+      "greedy",
+      "math",
+      "strings",
+      "trees",
+      "*1800"
+    ],
+    "timestamp": "May/25/2024 15:59"
+  },
   "CF262492697": {
     "contest_id": 1416,
     "language": "C++20 (GCC 13-64)",
