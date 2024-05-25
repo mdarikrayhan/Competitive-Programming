@@ -39360,6 +39360,22 @@
     ],
     "timestamp": "May/25/2024 12:33"
   },
+  "CF262489416": {
+    "contest_id": 1776,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1776/H.cpp",
+    "platform": "Codeforces",
+    "problem_index": "H",
+    "problem_name": "Beppa and SwerChat",
+    "problem_url": "https://codeforces.com/contest/1776/problem/H",
+    "submission_id": "CF262489416",
+    "submission_url": "https://codeforces.com/contest/1776/submission/262489416",
+    "tags": [
+      "two pointers",
+      "*1300"
+    ],
+    "timestamp": "May/25/2024 15:34"
+  },
   "CF262491416": {
     "contest_id": 1490,
     "language": "C++20 (GCC 13-64)",
