@@ -39360,6 +39360,27 @@
     ],
     "timestamp": "May/25/2024 12:33"
   },
+  "CF262470760": {
+    "contest_id": 1859,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1859/D.cpp",
+    "platform": "Codeforces",
+    "problem_index": "D",
+    "problem_name": "Andrey and Escape from Capygrad",
+    "problem_url": "https://codeforces.com/contest/1859/problem/D",
+    "submission_id": "CF262470760",
+    "submission_url": "https://codeforces.com/contest/1859/submission/262470760",
+    "tags": [
+      "binary search",
+      "data structures",
+      "dp",
+      "dsu",
+      "greedy",
+      "sortings",
+      "*1800"
+    ],
+    "timestamp": "May/25/2024 12:48"
+  },
   "CF262470842": {
     "contest_id": 505,
     "language": "C++20 (GCC 13-64)",
