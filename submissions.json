@@ -46919,6 +46919,23 @@
     ],
     "timestamp": "May/26/2024 04:33"
   },
+  "CF262630163": {
+    "contest_id": 792,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/792/D.cpp",
+    "platform": "Codeforces",
+    "problem_index": "D",
+    "problem_name": "Paths in a Complete Binary Tree",
+    "problem_url": "https://codeforces.com/contest/792/problem/D",
+    "submission_id": "CF262630163",
+    "submission_url": "https://codeforces.com/contest/792/submission/262630163",
+    "tags": [
+      "bitmasks",
+      "trees",
+      "*1900"
+    ],
+    "timestamp": "May/26/2024 04:50"
+  },
   "CF262630170": {
     "contest_id": 46,
     "language": "C++20 (GCC 13-64)",
