@@ -55133,6 +55133,22 @@
     ],
     "timestamp": "May/26/2024 04:26"
   },
+  "CF262629397": {
+    "contest_id": 3,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/3/D.cpp",
+    "platform": "Codeforces",
+    "problem_index": "D",
+    "problem_name": "Least Cost Bracket Sequence",
+    "problem_url": "https://codeforces.com/contest/3/problem/D",
+    "submission_id": "CF262629397",
+    "submission_url": "https://codeforces.com/contest/3/submission/262629397",
+    "tags": [
+      "greedy",
+      "*2600"
+    ],
+    "timestamp": "May/26/2024 04:26"
+  },
   "CF262629405": {
     "contest_id": 1151,
     "language": "C++20 (GCC 13-64)",
