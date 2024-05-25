@@ -37906,6 +37906,22 @@
     ],
     "timestamp": "May/25/2024 10:39"
   },
+  "CF262462876": {
+    "contest_id": 1096,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1096/D.cpp",
+    "platform": "Codeforces",
+    "problem_index": "D",
+    "problem_name": "Easy Problem",
+    "problem_url": "https://codeforces.com/contest/1096/problem/D",
+    "submission_id": "CF262462876",
+    "submission_url": "https://codeforces.com/contest/1096/submission/262462876",
+    "tags": [
+      "dp",
+      "*1800"
+    ],
+    "timestamp": "May/25/2024 11:39"
+  },
   "CF262462893": {
     "contest_id": 686,
     "language": "C++20 (GCC 13-64)",
