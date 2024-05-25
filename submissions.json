@@ -23393,6 +23393,28 @@
     ],
     "timestamp": "May/17/2024 08:26"
   },
+  "CF262621790": {
+    "contest_id": 1857,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1857/G.cpp",
+    "platform": "Codeforces",
+    "problem_index": "G",
+    "problem_name": "Counting Graphs",
+    "problem_url": "https://codeforces.com/contest/1857/problem/G",
+    "submission_id": "CF262621790",
+    "submission_url": "https://codeforces.com/contest/1857/submission/262621790",
+    "tags": [
+      "combinatorics",
+      "divide and conquer",
+      "dsu",
+      "graphs",
+      "greedy",
+      "sortings",
+      "trees",
+      "*2000"
+    ],
+    "timestamp": "May/26/2024 02:07"
+  },
   "CF262621792": {
     "contest_id": 884,
     "language": "C++20 (GCC 13-64)",
