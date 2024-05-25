@@ -45337,6 +45337,24 @@
     ],
     "timestamp": "May/26/2024 03:07"
   },
+  "CF262625931": {
+    "contest_id": 1680,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1680/E.cpp",
+    "platform": "Codeforces",
+    "problem_index": "E",
+    "problem_name": "Moving Chips",
+    "problem_url": "https://codeforces.com/contest/1680/problem/E",
+    "submission_id": "CF262625931",
+    "submission_url": "https://codeforces.com/contest/1680/submission/262625931",
+    "tags": [
+      "bitmasks",
+      "dp",
+      "greedy",
+      "*2000"
+    ],
+    "timestamp": "May/26/2024 03:08"
+  },
   "CF262625955": {
     "contest_id": 10,
     "language": "C++20 (GCC 13-64)",
