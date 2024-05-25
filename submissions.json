@@ -45337,6 +45337,27 @@
     ],
     "timestamp": "May/26/2024 03:07"
   },
+  "CF262626014": {
+    "contest_id": 1919,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1919/D.cpp",
+    "platform": "Codeforces",
+    "problem_index": "D",
+    "problem_name": "01 Tree",
+    "problem_url": "https://codeforces.com/contest/1919/problem/D",
+    "submission_id": "CF262626014",
+    "submission_url": "https://codeforces.com/contest/1919/submission/262626014",
+    "tags": [
+      "constructive algorithms",
+      "data structures",
+      "dsu",
+      "greedy",
+      "sortings",
+      "trees",
+      "*2100"
+    ],
+    "timestamp": "May/26/2024 03:10"
+  },
   "CF262626023": {
     "contest_id": 1638,
     "language": "C++20 (GCC 13-64)",
