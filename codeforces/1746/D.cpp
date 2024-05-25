@@ -1,29 +1,61 @@
-#include<bits/stdc++.h>
+// LUOGU_RID: 160216146
+#include <bits/stdc++.h>
+
 using namespace std;
-enum{N=200009};
-basic_string<int>e[N]; 
-int s[N],o;
-long long ans;
-int dfs(int x,int y){
-	ans+=s[x]*1ll*y;
-	if(e[x].empty())return s[x];
-	basic_string<int>w;
-	for(int o:e[x]){
-		w+=dfs(o,y/e[x].size());
-	}
-	sort(begin(w),end(w),greater<int>());
-	int p=y%e[x].size();
-	for(int i=0;i<p;++i)ans+=w[i];
-	return s[x]+w[p];
+
+using i64 = long long;
+
+void solve() {
+    int n, k;
+    cin >> n >> k;
+
+    vector<vector<int>> adj(n + 1);
+    for (int i = 2; i <= n; i ++ ) {
+        int x;
+        cin >> x;
+        adj[x].emplace_back(i);
+    }
+
+    vector<int> s(n + 1);
+    for (int i = 1; i <= n; i ++ ) {
+        cin >> s[i];
+    }
+
+    i64 ans = 0;
+    auto dfs = [&](auto self, int u, int k) -> int {
+        ans += 1ll * k * s[u];
+        int son = adj[u].size(); 
+        if (!son) {
+            return s[u];
+        }   
+        priority_queue<int> heap;
+        for (auto v : adj[u]) {
+            int sum = self(self, v, k / son);
+            heap.push(sum);
+        }
+        int d = k % son;
+        while (d -- ) {
+            ans += heap.top();
+            heap.pop();
+        }
+        return heap.top() + s[u];
+    };
+
+    dfs(dfs, 1, k);
+
+    cout << ans << "\n";
 }
-int main(){
-	int T,n,i,j,k;
-	for(cin>>T;T--;){
-		cin>>n>>o;ans=0;
-		for(i=1;i<=n;++i)e[i]={};
-		for(i=2;i<=n;++i)cin>>j,e[j]+=i;
-		for(i=1;i<=n;++i)cin>>s[i];
-		dfs(1,o);
-		cout<<ans<<'\n';
-	}
+
+int main() {
+    ios::sync_with_stdio(false);
+    std::cin.tie(nullptr);
+    
+    int t = 1;
+    cin >> t;
+    
+    while (t --) {
+        solve();
+    }
+    
+    return 0;
 }
