@@ -42004,6 +42004,23 @@
     ],
     "timestamp": "May/25/2024 11:43"
   },
+  "CF262463871": {
+    "contest_id": 845,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/845/A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Chess Tourney",
+    "problem_url": "https://codeforces.com/contest/845/problem/A",
+    "submission_id": "CF262463871",
+    "submission_url": "https://codeforces.com/contest/845/submission/262463871",
+    "tags": [
+      "implementation",
+      "sortings",
+      "*1100"
+    ],
+    "timestamp": "May/25/2024 11:49"
+  },
   "CF262463902": {
     "contest_id": 739,
     "language": "C++20 (GCC 13-64)",
