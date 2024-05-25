@@ -23393,6 +23393,23 @@
     ],
     "timestamp": "May/17/2024 08:26"
   },
+  "CF262493803": {
+    "contest_id": 1151,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1151/C.cpp",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Problem for Nazar",
+    "problem_url": "https://codeforces.com/contest/1151/problem/C",
+    "submission_id": "CF262493803",
+    "submission_url": "https://codeforces.com/contest/1151/submission/262493803",
+    "tags": [
+      "constructive algorithms",
+      "math",
+      "*1800"
+    ],
+    "timestamp": "May/25/2024 16:07"
+  },
   "CF262493876": {
     "contest_id": 1433,
     "language": "C++20 (GCC 13-64)",
