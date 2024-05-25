@@ -23393,6 +23393,29 @@
     ],
     "timestamp": "May/17/2024 08:26"
   },
+  "CF262499207": {
+    "contest_id": 1493,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1493/D.cpp",
+    "platform": "Codeforces",
+    "problem_index": "D",
+    "problem_name": "GCD of an Array",
+    "problem_url": "https://codeforces.com/contest/1493/problem/D",
+    "submission_id": "CF262499207",
+    "submission_url": "https://codeforces.com/contest/1493/submission/262499207",
+    "tags": [
+      "brute force",
+      "data structures",
+      "hashing",
+      "implementation",
+      "math",
+      "number theory",
+      "sortings",
+      "two pointers",
+      "*2100"
+    ],
+    "timestamp": "May/25/2024 16:53"
+  },
   "CF262499234": {
     "contest_id": 1898,
     "language": "C++20 (GCC 13-64)",
