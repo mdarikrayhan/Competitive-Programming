@@ -46647,6 +46647,22 @@
     ],
     "timestamp": "May/26/2024 03:55"
   },
+  "CF262629358": {
+    "contest_id": 301,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/301/A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Yaroslav and Sequence",
+    "problem_url": "https://codeforces.com/contest/301/problem/A",
+    "submission_id": "CF262629358",
+    "submission_url": "https://codeforces.com/contest/301/submission/262629358",
+    "tags": [
+      "constructive algorithms",
+      "*1800"
+    ],
+    "timestamp": "May/26/2024 04:25"
+  },
   "CF262629359": {
     "contest_id": 1945,
     "language": "C++20 (GCC 13-64)",
