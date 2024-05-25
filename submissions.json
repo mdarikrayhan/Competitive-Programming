@@ -23393,6 +23393,25 @@
     ],
     "timestamp": "May/17/2024 08:26"
   },
+  "CF262621019": {
+    "contest_id": 161,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/161/A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Dress'em in Vests!",
+    "problem_url": "https://codeforces.com/contest/161/problem/A",
+    "submission_id": "CF262621019",
+    "submission_url": "https://codeforces.com/contest/161/submission/262621019",
+    "tags": [
+      "binary search",
+      "brute force",
+      "greedy",
+      "two pointers",
+      "*1300"
+    ],
+    "timestamp": "May/26/2024 01:57"
+  },
   "CF262621117": {
     "contest_id": 1753,
     "language": "C++20 (GCC 13-64)",
