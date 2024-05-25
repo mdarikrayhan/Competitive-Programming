@@ -40823,6 +40823,23 @@
     ],
     "timestamp": "May/25/2024 16:23"
   },
+  "CF262495873": {
+    "contest_id": 1030,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1030/D.cpp",
+    "platform": "Codeforces",
+    "problem_index": "D",
+    "problem_name": "Vasya and Triangle",
+    "problem_url": "https://codeforces.com/contest/1030/problem/D",
+    "submission_id": "CF262495873",
+    "submission_url": "https://codeforces.com/contest/1030/submission/262495873",
+    "tags": [
+      "geometry",
+      "number theory",
+      "*1800"
+    ],
+    "timestamp": "May/25/2024 16:25"
+  },
   "CF262495888": {
     "contest_id": 957,
     "language": "C++20 (GCC 13-64)",
