@@ -23393,6 +23393,25 @@
     ],
     "timestamp": "May/17/2024 08:26"
   },
+  "CF262629485": {
+    "contest_id": 1628,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1628/D1.cpp",
+    "platform": "Codeforces",
+    "problem_index": "D1",
+    "problem_name": "Game on Sum (Easy Version)",
+    "problem_url": "https://codeforces.com/contest/1628/problem/D1",
+    "submission_id": "CF262629485",
+    "submission_url": "https://codeforces.com/contest/1628/submission/262629485",
+    "tags": [
+      "combinatorics",
+      "dp",
+      "games",
+      "math",
+      "*2100"
+    ],
+    "timestamp": "May/26/2024 04:29"
+  },
   "CF262629506": {
     "contest_id": 822,
     "language": "C++20 (GCC 13-64)",
