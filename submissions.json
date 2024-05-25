@@ -46919,6 +46919,23 @@
     ],
     "timestamp": "May/26/2024 04:33"
   },
+  "CF262630021": {
+    "contest_id": 891,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/891/B.cpp",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Gluttony",
+    "problem_url": "https://codeforces.com/contest/891/problem/B",
+    "submission_id": "CF262630021",
+    "submission_url": "https://codeforces.com/contest/891/submission/262630021",
+    "tags": [
+      "constructive algorithms",
+      "greedy",
+      "*2000"
+    ],
+    "timestamp": "May/26/2024 04:46"
+  },
   "CF262630030": {
     "contest_id": 730,
     "language": "C++20 (GCC 13-64)",
