@@ -37906,6 +37906,25 @@
     ],
     "timestamp": "May/25/2024 10:39"
   },
+  "CF262461293": {
+    "contest_id": 1916,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1916/D.cpp",
+    "platform": "Codeforces",
+    "problem_index": "D",
+    "problem_name": "Mathematical Problem",
+    "problem_url": "https://codeforces.com/contest/1916/problem/D",
+    "submission_id": "CF262461293",
+    "submission_url": "https://codeforces.com/contest/1916/submission/262461293",
+    "tags": [
+      "brute force",
+      "constructive algorithms",
+      "geometry",
+      "math",
+      "*1700"
+    ],
+    "timestamp": "May/25/2024 11:22"
+  },
   "CF262461369": {
     "contest_id": 1367,
     "language": "C++20 (GCC 13-64)",
