@@ -45337,6 +45337,25 @@
     ],
     "timestamp": "May/26/2024 03:07"
   },
+  "CF262626023": {
+    "contest_id": 1638,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1638/D.cpp",
+    "platform": "Codeforces",
+    "problem_index": "D",
+    "problem_name": "Big Brush",
+    "problem_url": "https://codeforces.com/contest/1638/problem/D",
+    "submission_id": "CF262626023",
+    "submission_url": "https://codeforces.com/contest/1638/submission/262626023",
+    "tags": [
+      "constructive algorithms",
+      "data structures",
+      "greedy",
+      "implementation",
+      "*2000"
+    ],
+    "timestamp": "May/26/2024 03:10"
+  },
   "CF262626024": {
     "contest_id": 1955,
     "language": "C++20 (GCC 13-64)",
