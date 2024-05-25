@@ -23393,6 +23393,27 @@
     ],
     "timestamp": "May/17/2024 08:26"
   },
+  "CF262494615": {
+    "contest_id": 1793,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1793/D.cpp",
+    "platform": "Codeforces",
+    "problem_index": "D",
+    "problem_name": "Moscow Gorillas",
+    "problem_url": "https://codeforces.com/contest/1793/problem/D",
+    "submission_id": "CF262494615",
+    "submission_url": "https://codeforces.com/contest/1793/submission/262494615",
+    "tags": [
+      "binary search",
+      "dp",
+      "greedy",
+      "implementation",
+      "math",
+      "two pointers",
+      "*1800"
+    ],
+    "timestamp": "May/25/2024 16:14"
+  },
   "CF262494620": {
     "contest_id": 812,
     "language": "C++20 (GCC 13-64)",
