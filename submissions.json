@@ -48916,6 +48916,23 @@
     ],
     "timestamp": "May/25/2024 18:15"
   },
+  "CF262618062": {
+    "contest_id": 312,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/312/A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Whose sentence is it?",
+    "problem_url": "https://codeforces.com/contest/312/problem/A",
+    "submission_id": "CF262618062",
+    "submission_url": "https://codeforces.com/contest/312/submission/262618062",
+    "tags": [
+      "implementation",
+      "strings",
+      "*1100"
+    ],
+    "timestamp": "May/26/2024 01:28"
+  },
   "CF262618065": {
     "contest_id": 1428,
     "language": "C++20 (GCC 13-64)",
