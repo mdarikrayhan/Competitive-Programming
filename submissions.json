@@ -54857,6 +54857,23 @@
     ],
     "timestamp": "May/26/2024 03:55"
   },
+  "CF262629217": {
+    "contest_id": 675,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/675/D.cpp",
+    "platform": "Codeforces",
+    "problem_index": "D",
+    "problem_name": "Tree Construction",
+    "problem_url": "https://codeforces.com/contest/675/problem/D",
+    "submission_id": "CF262629217",
+    "submission_url": "https://codeforces.com/contest/675/submission/262629217",
+    "tags": [
+      "data structures",
+      "trees",
+      "*1800"
+    ],
+    "timestamp": "May/26/2024 04:21"
+  },
   "CF262629229": {
     "contest_id": 148,
     "language": "C++20 (GCC 13-64)",
