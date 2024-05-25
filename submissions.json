@@ -23393,6 +23393,24 @@
     ],
     "timestamp": "May/17/2024 08:26"
   },
+  "CF262622771": {
+    "contest_id": 11,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/11/D.cpp",
+    "platform": "Codeforces",
+    "problem_index": "D",
+    "problem_name": "A Simple Task",
+    "problem_url": "https://codeforces.com/contest/11/problem/D",
+    "submission_id": "CF262622771",
+    "submission_url": "https://codeforces.com/contest/11/submission/262622771",
+    "tags": [
+      "bitmasks",
+      "dp",
+      "graphs",
+      "*2200"
+    ],
+    "timestamp": "May/26/2024 02:20"
+  },
   "CF262622803": {
     "contest_id": 1872,
     "language": "C++20 (GCC 13-64)",
