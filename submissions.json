@@ -39201,6 +39201,23 @@
     ],
     "timestamp": "May/25/2024 12:26"
   },
+  "CF262468392": {
+    "contest_id": 954,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/954/B.cpp",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "String Typing",
+    "problem_url": "https://codeforces.com/contest/954/problem/B",
+    "submission_id": "CF262468392",
+    "submission_url": "https://codeforces.com/contest/954/submission/262468392",
+    "tags": [
+      "implementation",
+      "strings",
+      "*1400"
+    ],
+    "timestamp": "May/25/2024 12:30"
+  },
   "CF262468433": {
     "contest_id": 1063,
     "language": "C++20 (GCC 13-64)",
