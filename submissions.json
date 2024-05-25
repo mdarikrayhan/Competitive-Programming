@@ -23393,6 +23393,22 @@
     ],
     "timestamp": "May/17/2024 08:26"
   },
+  "CF262629619": {
+    "contest_id": 898,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/898/D.cpp",
+    "platform": "Codeforces",
+    "problem_index": "D",
+    "problem_name": "Alarm Clock",
+    "problem_url": "https://codeforces.com/contest/898/problem/D",
+    "submission_id": "CF262629619",
+    "submission_url": "https://codeforces.com/contest/898/submission/262629619",
+    "tags": [
+      "greedy",
+      "*1600"
+    ],
+    "timestamp": "May/26/2024 04:33"
+  },
   "CF262629632": {
     "contest_id": 359,
     "language": "C++20 (GCC 13-64)",
