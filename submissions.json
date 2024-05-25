@@ -23393,6 +23393,23 @@
     ],
     "timestamp": "May/17/2024 08:26"
   },
+  "CF262627672": {
+    "contest_id": 444,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/444/A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "DZY Loves Physics",
+    "problem_url": "https://codeforces.com/contest/444/problem/A",
+    "submission_id": "CF262627672",
+    "submission_url": "https://codeforces.com/contest/444/submission/262627672",
+    "tags": [
+      "greedy",
+      "math",
+      "*1600"
+    ],
+    "timestamp": "May/26/2024 03:42"
+  },
   "CF262627685": {
     "contest_id": 1427,
     "language": "C++20 (GCC 13-64)",
