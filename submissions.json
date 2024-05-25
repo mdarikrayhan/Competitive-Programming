@@ -37906,6 +37906,22 @@
     ],
     "timestamp": "May/25/2024 10:39"
   },
+  "CF262463027": {
+    "contest_id": 543,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/543/A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Writing Code",
+    "problem_url": "https://codeforces.com/contest/543/problem/A",
+    "submission_id": "CF262463027",
+    "submission_url": "https://codeforces.com/contest/543/submission/262463027",
+    "tags": [
+      "dp",
+      "*1800"
+    ],
+    "timestamp": "May/25/2024 11:41"
+  },
   "CF262463045": {
     "contest_id": 1875,
     "language": "C++20 (GCC 13-64)",
