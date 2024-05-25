@@ -55133,6 +55133,24 @@
     ],
     "timestamp": "May/26/2024 04:26"
   },
+  "CF262629411": {
+    "contest_id": 1299,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1299/C.cpp",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Water Balance",
+    "problem_url": "https://codeforces.com/contest/1299/problem/C",
+    "submission_id": "CF262629411",
+    "submission_url": "https://codeforces.com/contest/1299/submission/262629411",
+    "tags": [
+      "data structures",
+      "geometry",
+      "greedy",
+      "*2100"
+    ],
+    "timestamp": "May/26/2024 04:27"
+  },
   "CF262629420": {
     "contest_id": 1046,
     "language": "C++20 (GCC 13-64)",
