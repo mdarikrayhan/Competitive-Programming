@@ -45467,6 +45467,28 @@
     ],
     "timestamp": "May/26/2024 03:14"
   },
+  "CF262626378": {
+    "contest_id": 1726,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1726/D.cpp",
+    "platform": "Codeforces",
+    "problem_index": "D",
+    "problem_name": "Edge Split",
+    "problem_url": "https://codeforces.com/contest/1726/problem/D",
+    "submission_id": "CF262626378",
+    "submission_url": "https://codeforces.com/contest/1726/submission/262626378",
+    "tags": [
+      "brute force",
+      "constructive algorithms",
+      "dfs and similar",
+      "dsu",
+      "graphs",
+      "probabilities",
+      "trees",
+      "*2000"
+    ],
+    "timestamp": "May/26/2024 03:16"
+  },
   "CF262626409": {
     "contest_id": 1060,
     "language": "C++20 (GCC 13-64)",
