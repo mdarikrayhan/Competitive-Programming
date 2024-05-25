@@ -46919,6 +46919,26 @@
     ],
     "timestamp": "May/26/2024 04:33"
   },
+  "CF262629892": {
+    "contest_id": 1580,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1580/A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Portal",
+    "problem_url": "https://codeforces.com/contest/1580/problem/A",
+    "submission_id": "CF262629892",
+    "submission_url": "https://codeforces.com/contest/1580/submission/262629892",
+    "tags": [
+      "brute force",
+      "data structures",
+      "dp",
+      "greedy",
+      "implementation",
+      "*1700"
+    ],
+    "timestamp": "May/26/2024 04:41"
+  },
   "CF262629899": {
     "contest_id": 1209,
     "language": "C++20 (GCC 13-64)",
