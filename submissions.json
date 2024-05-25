@@ -46919,6 +46919,23 @@
     ],
     "timestamp": "May/26/2024 04:33"
   },
+  "CF262629868": {
+    "contest_id": 290,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/290/A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Mysterious strings",
+    "problem_url": "https://codeforces.com/contest/290/problem/A",
+    "submission_id": "CF262629868",
+    "submission_url": "https://codeforces.com/contest/290/submission/262629868",
+    "tags": [
+      "*special problem",
+      "implementation",
+      "*1400"
+    ],
+    "timestamp": "May/26/2024 04:40"
+  },
   "CF262629878": {
     "contest_id": 1472,
     "language": "C++20 (GCC 13-64)",
