@@ -23393,6 +23393,22 @@
     ],
     "timestamp": "May/17/2024 08:26"
   },
+  "CF262503827": {
+    "contest_id": 1952,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1952/H.cpp",
+    "platform": "Codeforces",
+    "problem_index": "H",
+    "problem_name": "Palindrome",
+    "problem_url": "https://codeforces.com/contest/1952/problem/H",
+    "submission_id": "CF262503827",
+    "submission_url": "https://codeforces.com/contest/1952/submission/262503827",
+    "tags": [
+      "implementation",
+      "strings"
+    ],
+    "timestamp": "May/25/2024 17:37"
+  },
   "CF262503868": {
     "contest_id": 1952,
     "language": "C++20 (GCC 13-64)",
