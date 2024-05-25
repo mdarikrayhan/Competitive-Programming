@@ -47861,6 +47861,28 @@
     ],
     "timestamp": "May/26/2024 05:12"
   },
+  "CF262630807": {
+    "contest_id": 1466,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1466/F.cpp",
+    "platform": "Codeforces",
+    "problem_index": "F",
+    "problem_name": "Euclid's nightmare",
+    "problem_url": "https://codeforces.com/contest/1466/problem/F",
+    "submission_id": "CF262630807",
+    "submission_url": "https://codeforces.com/contest/1466/submission/262630807",
+    "tags": [
+      "bitmasks",
+      "dfs and similar",
+      "dsu",
+      "graphs",
+      "greedy",
+      "math",
+      "sortings",
+      "*2100"
+    ],
+    "timestamp": "May/26/2024 05:12"
+  },
   "CF262630814": {
     "contest_id": 1863,
     "language": "C++20 (GCC 13-64)",
