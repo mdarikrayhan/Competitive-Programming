@@ -23393,6 +23393,24 @@
     ],
     "timestamp": "May/17/2024 08:26"
   },
+  "CF262621835": {
+    "contest_id": 597,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/597/B.cpp",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Restaurant",
+    "problem_url": "https://codeforces.com/contest/597/problem/B",
+    "submission_id": "CF262621835",
+    "submission_url": "https://codeforces.com/contest/597/submission/262621835",
+    "tags": [
+      "dp",
+      "greedy",
+      "sortings",
+      "*1600"
+    ],
+    "timestamp": "May/26/2024 02:07"
+  },
   "CF262621843": {
     "contest_id": 643,
     "language": "C++20 (GCC 13-64)",
