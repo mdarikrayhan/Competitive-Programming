@@ -48916,6 +48916,26 @@
     ],
     "timestamp": "May/25/2024 18:15"
   },
+  "CF262614117": {
+    "contest_id": 1882,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1882/D.cpp",
+    "platform": "Codeforces",
+    "problem_index": "D",
+    "problem_name": "Tree XOR",
+    "problem_url": "https://codeforces.com/contest/1882/problem/D",
+    "submission_id": "CF262614117",
+    "submission_url": "https://codeforces.com/contest/1882/submission/262614117",
+    "tags": [
+      "bitmasks",
+      "dfs and similar",
+      "dp",
+      "greedy",
+      "trees",
+      "*1900"
+    ],
+    "timestamp": "May/25/2024 23:50"
+  },
   "CF262614130": {
     "contest_id": 901,
     "language": "C++20 (GCC 13-64)",
