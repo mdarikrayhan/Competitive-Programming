@@ -48916,6 +48916,24 @@
     ],
     "timestamp": "May/25/2024 18:15"
   },
+  "CF262614903": {
+    "contest_id": 1108,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1108/E1.cpp",
+    "platform": "Codeforces",
+    "problem_index": "E1",
+    "problem_name": "Array and Segments (Easy version)",
+    "problem_url": "https://codeforces.com/contest/1108/problem/E1",
+    "submission_id": "CF262614903",
+    "submission_url": "https://codeforces.com/contest/1108/submission/262614903",
+    "tags": [
+      "brute force",
+      "greedy",
+      "implementation",
+      "*1800"
+    ],
+    "timestamp": "May/26/2024 00:00"
+  },
   "CF262614916": {
     "contest_id": 1883,
     "language": "C++20 (GCC 13-64)",
