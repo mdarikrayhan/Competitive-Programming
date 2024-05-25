@@ -23393,6 +23393,27 @@
     ],
     "timestamp": "May/17/2024 08:26"
   },
+  "CF262496610": {
+    "contest_id": 1739,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1739/D.cpp",
+    "platform": "Codeforces",
+    "problem_index": "D",
+    "problem_name": "Reset K Edges",
+    "problem_url": "https://codeforces.com/contest/1739/problem/D",
+    "submission_id": "CF262496610",
+    "submission_url": "https://codeforces.com/contest/1739/submission/262496610",
+    "tags": [
+      "binary search",
+      "data structures",
+      "dfs and similar",
+      "graphs",
+      "greedy",
+      "trees",
+      "*1900"
+    ],
+    "timestamp": "May/25/2024 16:31"
+  },
   "CF262496616": {
     "contest_id": 1118,
     "language": "C++20 (GCC 13-64)",
