@@ -23393,6 +23393,24 @@
     ],
     "timestamp": "May/17/2024 08:26"
   },
+  "CF262627860": {
+    "contest_id": 729,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/729/C.cpp",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Road to Cinema",
+    "problem_url": "https://codeforces.com/contest/729/problem/C",
+    "submission_id": "CF262627860",
+    "submission_url": "https://codeforces.com/contest/729/submission/262627860",
+    "tags": [
+      "binary search",
+      "greedy",
+      "sortings",
+      "*1700"
+    ],
+    "timestamp": "May/26/2024 03:46"
+  },
   "CF262627895": {
     "contest_id": 1956,
     "language": "C++20 (GCC 13-64)",
