@@ -23393,6 +23393,22 @@
     ],
     "timestamp": "May/17/2024 08:26"
   },
+  "CF262495175": {
+    "contest_id": 106,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/106/C.cpp",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Buns",
+    "problem_url": "https://codeforces.com/contest/106/problem/C",
+    "submission_id": "CF262495175",
+    "submission_url": "https://codeforces.com/contest/106/submission/262495175",
+    "tags": [
+      "dp",
+      "*1700"
+    ],
+    "timestamp": "May/25/2024 16:18"
+  },
   "CF262495193": {
     "contest_id": 190,
     "language": "C++20 (GCC 13-64)",
