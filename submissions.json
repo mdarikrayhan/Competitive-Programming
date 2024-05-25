@@ -37906,6 +37906,24 @@
     ],
     "timestamp": "May/25/2024 10:39"
   },
+  "CF262461387": {
+    "contest_id": 845,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/845/C.cpp",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Two TVs",
+    "problem_url": "https://codeforces.com/contest/845/problem/C",
+    "submission_id": "CF262461387",
+    "submission_url": "https://codeforces.com/contest/845/submission/262461387",
+    "tags": [
+      "data structures",
+      "greedy",
+      "sortings",
+      "*1500"
+    ],
+    "timestamp": "May/25/2024 11:23"
+  },
   "CF262461405": {
     "contest_id": 1688,
     "language": "C++20 (GCC 13-64)",
