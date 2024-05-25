@@ -23393,6 +23393,24 @@
     ],
     "timestamp": "May/17/2024 08:26"
   },
+  "CF262630212": {
+    "contest_id": 1866,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1866/C.cpp",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Completely Searching for Inversions",
+    "problem_url": "https://codeforces.com/contest/1866/problem/C",
+    "submission_id": "CF262630212",
+    "submission_url": "https://codeforces.com/contest/1866/submission/262630212",
+    "tags": [
+      "dfs and similar",
+      "dp",
+      "graphs",
+      "*1900"
+    ],
+    "timestamp": "May/26/2024 04:52"
+  },
   "CF262630225": {
     "contest_id": 595,
     "language": "C++20 (GCC 13-64)",
