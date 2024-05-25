@@ -45467,6 +45467,22 @@
     ],
     "timestamp": "May/26/2024 03:14"
   },
+  "CF262626297": {
+    "contest_id": 227,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/227/A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Where do I Turn?",
+    "problem_url": "https://codeforces.com/contest/227/problem/A",
+    "submission_id": "CF262626297",
+    "submission_url": "https://codeforces.com/contest/227/submission/262626297",
+    "tags": [
+      "geometry",
+      "*1300"
+    ],
+    "timestamp": "May/26/2024 03:15"
+  },
   "CF262626299": {
     "contest_id": 1808,
     "language": "C++20 (GCC 13-64)",
