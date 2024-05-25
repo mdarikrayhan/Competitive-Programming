@@ -23393,6 +23393,27 @@
     ],
     "timestamp": "May/17/2024 08:26"
   },
+  "CF262467070": {
+    "contest_id": 1244,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1244/D.cpp",
+    "platform": "Codeforces",
+    "problem_index": "D",
+    "problem_name": "Paint the Tree",
+    "problem_url": "https://codeforces.com/contest/1244/problem/D",
+    "submission_id": "CF262467070",
+    "submission_url": "https://codeforces.com/contest/1244/submission/262467070",
+    "tags": [
+      "brute force",
+      "constructive algorithms",
+      "dp",
+      "graphs",
+      "implementation",
+      "trees",
+      "*1800"
+    ],
+    "timestamp": "May/25/2024 12:20"
+  },
   "CF262467089": {
     "contest_id": 1061,
     "language": "C++20 (GCC 13-64)",
