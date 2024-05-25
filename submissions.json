@@ -42269,6 +42269,25 @@
     ],
     "timestamp": "May/25/2024 17:37"
   },
+  "CF262507824": {
+    "contest_id": 1372,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1372/D.cpp",
+    "platform": "Codeforces",
+    "problem_index": "D",
+    "problem_name": "Omkar and Circle",
+    "problem_url": "https://codeforces.com/contest/1372/problem/D",
+    "submission_id": "CF262507824",
+    "submission_url": "https://codeforces.com/contest/1372/submission/262507824",
+    "tags": [
+      "brute force",
+      "dp",
+      "games",
+      "greedy",
+      "*2100"
+    ],
+    "timestamp": "May/25/2024 18:14"
+  },
   "CF262507845": {
     "contest_id": 1425,
     "language": "C++20 (GCC 13-64)",
