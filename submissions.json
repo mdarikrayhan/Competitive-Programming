@@ -43897,6 +43897,24 @@
     ],
     "timestamp": "May/25/2024 12:43"
   },
+  "CF262470424": {
+    "contest_id": 1656,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1656/D.cpp",
+    "platform": "Codeforces",
+    "problem_index": "D",
+    "problem_name": "K-good",
+    "problem_url": "https://codeforces.com/contest/1656/problem/D",
+    "submission_id": "CF262470424",
+    "submission_url": "https://codeforces.com/contest/1656/submission/262470424",
+    "tags": [
+      "constructive algorithms",
+      "math",
+      "number theory",
+      "*1900"
+    ],
+    "timestamp": "May/25/2024 12:45"
+  },
   "CF262470464": {
     "contest_id": 1068,
     "language": "C++20 (GCC 13-64)",
