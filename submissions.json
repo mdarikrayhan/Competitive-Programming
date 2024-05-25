@@ -45188,6 +45188,26 @@
     ],
     "timestamp": "May/26/2024 02:34"
   },
+  "CF262625318": {
+    "contest_id": 1156,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1156/D.cpp",
+    "platform": "Codeforces",
+    "problem_index": "D",
+    "problem_name": "0-1-Tree",
+    "problem_url": "https://codeforces.com/contest/1156/problem/D",
+    "submission_id": "CF262625318",
+    "submission_url": "https://codeforces.com/contest/1156/submission/262625318",
+    "tags": [
+      "dfs and similar",
+      "divide and conquer",
+      "dp",
+      "dsu",
+      "trees",
+      "*2200"
+    ],
+    "timestamp": "May/26/2024 02:59"
+  },
   "CF262625346": {
     "contest_id": 988,
     "language": "C++20 (GCC 13-64)",
