@@ -23393,6 +23393,23 @@
     ],
     "timestamp": "May/17/2024 08:26"
   },
+  "CF262630367": {
+    "contest_id": 1092,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1092/D2.cpp",
+    "platform": "Codeforces",
+    "problem_index": "D2",
+    "problem_name": "Great Vova Wall (Version 2)",
+    "problem_url": "https://codeforces.com/contest/1092/problem/D2",
+    "submission_id": "CF262630367",
+    "submission_url": "https://codeforces.com/contest/1092/submission/262630367",
+    "tags": [
+      "data structures",
+      "implementation",
+      "*2200"
+    ],
+    "timestamp": "May/26/2024 04:58"
+  },
   "CF262630406": {
     "contest_id": 1041,
     "language": "C++20 (GCC 13-64)",
