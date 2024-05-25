@@ -37906,6 +37906,24 @@
     ],
     "timestamp": "May/25/2024 10:39"
   },
+  "CF262464022": {
+    "contest_id": 1928,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1928/C.cpp",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Physical Education Lesson",
+    "problem_url": "https://codeforces.com/contest/1928/problem/C",
+    "submission_id": "CF262464022",
+    "submission_url": "https://codeforces.com/contest/1928/submission/262464022",
+    "tags": [
+      "brute force",
+      "math",
+      "number theory",
+      "*1600"
+    ],
+    "timestamp": "May/25/2024 11:50"
+  },
   "CF262464190": {
     "contest_id": 1527,
     "language": "C++20 (GCC 13-64)",
