@@ -23393,6 +23393,23 @@
     ],
     "timestamp": "May/17/2024 08:26"
   },
+  "CF262627718": {
+    "contest_id": 62,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/62/A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "A Student's Dream",
+    "problem_url": "https://codeforces.com/contest/62/problem/A",
+    "submission_id": "CF262627718",
+    "submission_url": "https://codeforces.com/contest/62/submission/262627718",
+    "tags": [
+      "greedy",
+      "math",
+      "*1300"
+    ],
+    "timestamp": "May/26/2024 03:43"
+  },
   "CF262627725": {
     "contest_id": 1216,
     "language": "C++20 (GCC 13-64)",
