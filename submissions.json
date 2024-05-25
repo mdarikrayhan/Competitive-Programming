@@ -23393,6 +23393,24 @@
     ],
     "timestamp": "May/17/2024 08:26"
   },
+  "CF262468449": {
+    "contest_id": 1239,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1239/A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Ivan the Fool and the Probability Theory",
+    "problem_url": "https://codeforces.com/contest/1239/problem/A",
+    "submission_id": "CF262468449",
+    "submission_url": "https://codeforces.com/contest/1239/submission/262468449",
+    "tags": [
+      "combinatorics",
+      "dp",
+      "math",
+      "*1700"
+    ],
+    "timestamp": "May/25/2024 12:30"
+  },
   "CF262468584": {
     "contest_id": 320,
     "language": "C++20 (GCC 13-64)",
