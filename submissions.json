@@ -23393,6 +23393,22 @@
     ],
     "timestamp": "May/17/2024 08:26"
   },
+  "CF262621276": {
+    "contest_id": 1662,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1662/A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Organizing SWERC",
+    "problem_url": "https://codeforces.com/contest/1662/problem/A",
+    "submission_id": "CF262621276",
+    "submission_url": "https://codeforces.com/contest/1662/submission/262621276",
+    "tags": [
+      "brute force",
+      "implementation"
+    ],
+    "timestamp": "May/26/2024 02:00"
+  },
   "CF262621283": {
     "contest_id": 1423,
     "language": "C++20 (GCC 13-64)",
