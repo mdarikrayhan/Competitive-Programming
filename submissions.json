@@ -23393,6 +23393,23 @@
     ],
     "timestamp": "May/17/2024 08:26"
   },
+  "CF262620355": {
+    "contest_id": 569,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/569/A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Music",
+    "problem_url": "https://codeforces.com/contest/569/problem/A",
+    "submission_id": "CF262620355",
+    "submission_url": "https://codeforces.com/contest/569/submission/262620355",
+    "tags": [
+      "implementation",
+      "math",
+      "*1500"
+    ],
+    "timestamp": "May/26/2024 01:51"
+  },
   "CF262620358": {
     "contest_id": 154,
     "language": "C++20 (GCC 13-64)",
