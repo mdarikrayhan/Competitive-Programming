@@ -23393,6 +23393,24 @@
     ],
     "timestamp": "May/17/2024 08:26"
   },
+  "CF262498945": {
+    "contest_id": 1951,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1951/D.cpp",
+    "platform": "Codeforces",
+    "problem_index": "D",
+    "problem_name": "Buying Jewels",
+    "problem_url": "https://codeforces.com/contest/1951/problem/D",
+    "submission_id": "CF262498945",
+    "submission_url": "https://codeforces.com/contest/1951/submission/262498945",
+    "tags": [
+      "constructive algorithms",
+      "greedy",
+      "math",
+      "*2000"
+    ],
+    "timestamp": "May/25/2024 16:51"
+  },
   "CF262498980": {
     "contest_id": 1821,
     "language": "C++20 (GCC 13-64)",
