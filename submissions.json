@@ -46919,6 +46919,23 @@
     ],
     "timestamp": "May/26/2024 04:33"
   },
+  "CF262629799": {
+    "contest_id": 671,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/671/B.cpp",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Robin Hood",
+    "problem_url": "https://codeforces.com/contest/671/problem/B",
+    "submission_id": "CF262629799",
+    "submission_url": "https://codeforces.com/contest/671/submission/262629799",
+    "tags": [
+      "binary search",
+      "greedy",
+      "*2000"
+    ],
+    "timestamp": "May/26/2024 04:38"
+  },
   "CF262629800": {
     "contest_id": 297,
     "language": "C++20 (GCC 13-64)",
