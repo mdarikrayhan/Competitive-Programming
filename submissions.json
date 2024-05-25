@@ -46919,6 +46919,23 @@
     ],
     "timestamp": "May/26/2024 04:33"
   },
+  "CF262630111": {
+    "contest_id": 271,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/271/C.cpp",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Secret",
+    "problem_url": "https://codeforces.com/contest/271/problem/C",
+    "submission_id": "CF262630111",
+    "submission_url": "https://codeforces.com/contest/271/submission/262630111",
+    "tags": [
+      "constructive algorithms",
+      "implementation",
+      "*1500"
+    ],
+    "timestamp": "May/26/2024 04:49"
+  },
   "CF262630127": {
     "contest_id": 114,
     "language": "C++20 (GCC 13-64)",
