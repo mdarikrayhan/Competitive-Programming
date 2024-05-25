@@ -43897,6 +43897,22 @@
     ],
     "timestamp": "May/25/2024 12:43"
   },
+  "CF262470464": {
+    "contest_id": 1068,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1068/A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Birthday",
+    "problem_url": "https://codeforces.com/contest/1068/problem/A",
+    "submission_id": "CF262470464",
+    "submission_url": "https://codeforces.com/contest/1068/submission/262470464",
+    "tags": [
+      "math",
+      "*1400"
+    ],
+    "timestamp": "May/25/2024 12:46"
+  },
   "CF262470484": {
     "contest_id": 771,
     "language": "C++20 (GCC 13-64)",
