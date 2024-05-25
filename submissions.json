@@ -23393,6 +23393,24 @@
     ],
     "timestamp": "May/17/2024 08:26"
   },
+  "CF262495521": {
+    "contest_id": 820,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/820/B.cpp",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Mister B and Angle in Polygon",
+    "problem_url": "https://codeforces.com/contest/820/problem/B",
+    "submission_id": "CF262495521",
+    "submission_url": "https://codeforces.com/contest/820/submission/262495521",
+    "tags": [
+      "constructive algorithms",
+      "geometry",
+      "math",
+      "*1300"
+    ],
+    "timestamp": "May/25/2024 16:21"
+  },
   "CF262495555": {
     "contest_id": 455,
     "language": "C++20 (GCC 13-64)",
