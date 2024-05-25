@@ -23393,6 +23393,24 @@
     ],
     "timestamp": "May/17/2024 08:26"
   },
+  "CF262503099": {
+    "contest_id": 158,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/158/E.cpp",
+    "platform": "Codeforces",
+    "problem_index": "E",
+    "problem_name": "Phone Talks",
+    "problem_url": "https://codeforces.com/contest/158/problem/E",
+    "submission_id": "CF262503099",
+    "submission_url": "https://codeforces.com/contest/158/submission/262503099",
+    "tags": [
+      "*special problem",
+      "dp",
+      "sortings",
+      "*1900"
+    ],
+    "timestamp": "May/25/2024 17:30"
+  },
   "CF262503352": {
     "contest_id": 159,
     "language": "C++20 (GCC 13-64)",
