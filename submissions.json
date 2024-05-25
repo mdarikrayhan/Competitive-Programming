@@ -37906,6 +37906,23 @@
     ],
     "timestamp": "May/25/2024 10:39"
   },
+  "CF262462587": {
+    "contest_id": 544,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/544/A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Set of Strings",
+    "problem_url": "https://codeforces.com/contest/544/problem/A",
+    "submission_id": "CF262462587",
+    "submission_url": "https://codeforces.com/contest/544/submission/262462587",
+    "tags": [
+      "implementation",
+      "strings",
+      "*1100"
+    ],
+    "timestamp": "May/25/2024 11:36"
+  },
   "CF262462606": {
     "contest_id": 962,
     "language": "C++20 (GCC 13-64)",
