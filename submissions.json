@@ -23393,6 +23393,23 @@
     ],
     "timestamp": "May/17/2024 08:26"
   },
+  "CF262503780": {
+    "contest_id": 1952,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1952/G.cpp",
+    "platform": "Codeforces",
+    "problem_index": "G",
+    "problem_name": "Mathematician Takeover",
+    "problem_url": "https://codeforces.com/contest/1952/problem/G",
+    "submission_id": "CF262503780",
+    "submission_url": "https://codeforces.com/contest/1952/submission/262503780",
+    "tags": [
+      "binary search",
+      "dfs and similar",
+      "math"
+    ],
+    "timestamp": "May/25/2024 17:36"
+  },
   "CF262503827": {
     "contest_id": 1952,
     "language": "C++20 (GCC 13-64)",
