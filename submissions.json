@@ -23393,6 +23393,24 @@
     ],
     "timestamp": "May/17/2024 08:26"
   },
+  "CF262493474": {
+    "contest_id": 1137,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1137/B.cpp",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Camp Schedule",
+    "problem_url": "https://codeforces.com/contest/1137/problem/B",
+    "submission_id": "CF262493474",
+    "submission_url": "https://codeforces.com/contest/1137/submission/262493474",
+    "tags": [
+      "greedy",
+      "hashing",
+      "strings",
+      "*1600"
+    ],
+    "timestamp": "May/25/2024 16:05"
+  },
   "CF262493487": {
     "contest_id": 148,
     "language": "C++20 (GCC 13-64)",
