@@ -23393,6 +23393,22 @@
     ],
     "timestamp": "May/17/2024 08:26"
   },
+  "CF262630639": {
+    "contest_id": 622,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/622/D.cpp",
+    "platform": "Codeforces",
+    "problem_index": "D",
+    "problem_name": "Optimal Number Permutation",
+    "problem_url": "https://codeforces.com/contest/622/problem/D",
+    "submission_id": "CF262630639",
+    "submission_url": "https://codeforces.com/contest/622/submission/262630639",
+    "tags": [
+      "constructive algorithms",
+      "*1900"
+    ],
+    "timestamp": "May/26/2024 05:07"
+  },
   "CF262630649": {
     "contest_id": 1147,
     "language": "C++20 (GCC 13-64)",
