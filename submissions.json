@@ -40775,6 +40775,24 @@
     ],
     "timestamp": "May/25/2024 10:39"
   },
+  "CF262460657": {
+    "contest_id": 1422,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1422/C.cpp",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Bargain",
+    "problem_url": "https://codeforces.com/contest/1422/problem/C",
+    "submission_id": "CF262460657",
+    "submission_url": "https://codeforces.com/contest/1422/submission/262460657",
+    "tags": [
+      "combinatorics",
+      "dp",
+      "math",
+      "*1700"
+    ],
+    "timestamp": "May/25/2024 11:15"
+  },
   "CF262460714": {
     "contest_id": 485,
     "language": "C++20 (GCC 13-64)",
