@@ -23393,6 +23393,22 @@
     ],
     "timestamp": "May/17/2024 08:26"
   },
+  "CF262623637": {
+    "contest_id": 19,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/19/B.cpp",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Checkout Assistant",
+    "problem_url": "https://codeforces.com/contest/19/problem/B",
+    "submission_id": "CF262623637",
+    "submission_url": "https://codeforces.com/contest/19/submission/262623637",
+    "tags": [
+      "dp",
+      "*1900"
+    ],
+    "timestamp": "May/26/2024 02:32"
+  },
   "CF262623641": {
     "contest_id": 558,
     "language": "C++20 (GCC 13-64)",
