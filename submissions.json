@@ -39360,6 +39360,23 @@
     ],
     "timestamp": "May/25/2024 12:33"
   },
+  "CF262491760": {
+    "contest_id": 222,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/222/B.cpp",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Cosmic Tables",
+    "problem_url": "https://codeforces.com/contest/222/problem/B",
+    "submission_id": "CF262491760",
+    "submission_url": "https://codeforces.com/contest/222/submission/262491760",
+    "tags": [
+      "data structures",
+      "implementation",
+      "*1300"
+    ],
+    "timestamp": "May/25/2024 15:52"
+  },
   "CF262491782": {
     "contest_id": 478,
     "language": "C++20 (GCC 13-64)",
