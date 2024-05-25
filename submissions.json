@@ -40823,6 +40823,22 @@
     ],
     "timestamp": "May/25/2024 16:23"
   },
+  "CF262495888": {
+    "contest_id": 957,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/957/A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Tritonic Iridescence",
+    "problem_url": "https://codeforces.com/contest/957/problem/A",
+    "submission_id": "CF262495888",
+    "submission_url": "https://codeforces.com/contest/957/submission/262495888",
+    "tags": [
+      "implementation",
+      "*1300"
+    ],
+    "timestamp": "May/25/2024 16:25"
+  },
   "CF262495891": {
     "contest_id": 472,
     "language": "C++20 (GCC 13-64)",
