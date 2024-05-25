@@ -23393,6 +23393,23 @@
     ],
     "timestamp": "May/17/2024 08:26"
   },
+  "CF262630171": {
+    "contest_id": 181,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/181/B.cpp",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Number of Triplets",
+    "problem_url": "https://codeforces.com/contest/181/problem/B",
+    "submission_id": "CF262630171",
+    "submission_url": "https://codeforces.com/contest/181/submission/262630171",
+    "tags": [
+      "binary search",
+      "brute force",
+      "*1300"
+    ],
+    "timestamp": "May/26/2024 04:51"
+  },
   "CF262630183": {
     "contest_id": 1718,
     "language": "C++20 (GCC 13-64)",
