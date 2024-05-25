@@ -42004,6 +42004,23 @@
     ],
     "timestamp": "May/25/2024 11:43"
   },
+  "CF262463555": {
+    "contest_id": 1878,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1878/D.cpp",
+    "platform": "Codeforces",
+    "problem_index": "D",
+    "problem_name": "Reverse Madness",
+    "problem_url": "https://codeforces.com/contest/1878/problem/D",
+    "submission_id": "CF262463555",
+    "submission_url": "https://codeforces.com/contest/1878/submission/262463555",
+    "tags": [
+      "data structures",
+      "greedy",
+      "*1600"
+    ],
+    "timestamp": "May/25/2024 11:46"
+  },
   "CF262463621": {
     "contest_id": 1136,
     "language": "C++20 (GCC 13-64)",
