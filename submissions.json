@@ -23393,6 +23393,26 @@
     ],
     "timestamp": "May/17/2024 08:26"
   },
+  "CF262495065": {
+    "contest_id": 1920,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1920/D.cpp",
+    "platform": "Codeforces",
+    "problem_index": "D",
+    "problem_name": "Array Repetition",
+    "problem_url": "https://codeforces.com/contest/1920/problem/D",
+    "submission_id": "CF262495065",
+    "submission_url": "https://codeforces.com/contest/1920/submission/262495065",
+    "tags": [
+      "binary search",
+      "brute force",
+      "dsu",
+      "implementation",
+      "math",
+      "*1900"
+    ],
+    "timestamp": "May/25/2024 16:18"
+  },
   "CF262495135": {
     "contest_id": 895,
     "language": "C++20 (GCC 13-64)",
