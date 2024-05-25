@@ -23393,6 +23393,23 @@
     ],
     "timestamp": "May/17/2024 08:26"
   },
+  "CF262625798": {
+    "contest_id": 906,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/906/A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Shockers",
+    "problem_url": "https://codeforces.com/contest/906/problem/A",
+    "submission_id": "CF262625798",
+    "submission_url": "https://codeforces.com/contest/906/submission/262625798",
+    "tags": [
+      "implementation",
+      "strings",
+      "*1600"
+    ],
+    "timestamp": "May/26/2024 03:06"
+  },
   "CF262625812": {
     "contest_id": 1012,
     "language": "C++20 (GCC 13-64)",
