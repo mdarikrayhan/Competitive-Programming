@@ -46919,6 +46919,22 @@
     ],
     "timestamp": "May/26/2024 04:33"
   },
+  "CF262629829": {
+    "contest_id": 22,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/22/C.cpp",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "System Administrator",
+    "problem_url": "https://codeforces.com/contest/22/problem/C",
+    "submission_id": "CF262629829",
+    "submission_url": "https://codeforces.com/contest/22/submission/262629829",
+    "tags": [
+      "graphs",
+      "*1700"
+    ],
+    "timestamp": "May/26/2024 04:39"
+  },
   "CF262629837": {
     "contest_id": 145,
     "language": "C++20 (GCC 13-64)",
