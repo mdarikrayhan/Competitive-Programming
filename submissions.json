@@ -23393,6 +23393,22 @@
     ],
     "timestamp": "May/17/2024 08:26"
   },
+  "CF262630170": {
+    "contest_id": 46,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/46/B.cpp",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "T-shirts from Sponsor",
+    "problem_url": "https://codeforces.com/contest/46/problem/B",
+    "submission_id": "CF262630170",
+    "submission_url": "https://codeforces.com/contest/46/submission/262630170",
+    "tags": [
+      "implementation",
+      "*1100"
+    ],
+    "timestamp": "May/26/2024 04:51"
+  },
   "CF262630171": {
     "contest_id": 181,
     "language": "C++20 (GCC 13-64)",
