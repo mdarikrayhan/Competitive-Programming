@@ -23393,6 +23393,24 @@
     ],
     "timestamp": "May/17/2024 08:26"
   },
+  "CF262630256": {
+    "contest_id": 417,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/417/A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Elimination",
+    "problem_url": "https://codeforces.com/contest/417/problem/A",
+    "submission_id": "CF262630256",
+    "submission_url": "https://codeforces.com/contest/417/submission/262630256",
+    "tags": [
+      "dp",
+      "implementation",
+      "math",
+      "*1500"
+    ],
+    "timestamp": "May/26/2024 04:54"
+  },
   "CF262630263": {
     "contest_id": 1725,
     "language": "C++20 (GCC 13-64)",
