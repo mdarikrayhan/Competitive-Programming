@@ -39201,6 +39201,24 @@
     ],
     "timestamp": "May/25/2024 12:26"
   },
+  "CF262468330": {
+    "contest_id": 1811,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1811/D.cpp",
+    "platform": "Codeforces",
+    "problem_index": "D",
+    "problem_name": "Umka and a Long Flight",
+    "problem_url": "https://codeforces.com/contest/1811/problem/D",
+    "submission_id": "CF262468330",
+    "submission_url": "https://codeforces.com/contest/1811/submission/262468330",
+    "tags": [
+      "constructive algorithms",
+      "implementation",
+      "math",
+      "*1600"
+    ],
+    "timestamp": "May/25/2024 12:29"
+  },
   "CF262468392": {
     "contest_id": 954,
     "language": "C++20 (GCC 13-64)",
