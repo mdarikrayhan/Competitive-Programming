@@ -23393,6 +23393,26 @@
     ],
     "timestamp": "May/17/2024 08:26"
   },
+  "CF262626210": {
+    "contest_id": 1847,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1847/D.cpp",
+    "platform": "Codeforces",
+    "problem_index": "D",
+    "problem_name": "Professor Higashikata",
+    "problem_url": "https://codeforces.com/contest/1847/problem/D",
+    "submission_id": "CF262626210",
+    "submission_url": "https://codeforces.com/contest/1847/submission/262626210",
+    "tags": [
+      "data structures",
+      "dsu",
+      "greedy",
+      "implementation",
+      "strings",
+      "*1900"
+    ],
+    "timestamp": "May/26/2024 03:13"
+  },
   "CF262626219": {
     "contest_id": 1950,
     "language": "C++20 (GCC 13-64)",
