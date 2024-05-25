@@ -23393,6 +23393,24 @@
     ],
     "timestamp": "May/17/2024 08:26"
   },
+  "CF262627332": {
+    "contest_id": 1891,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1891/F.cpp",
+    "platform": "Codeforces",
+    "problem_index": "F",
+    "problem_name": "A Growing Tree",
+    "problem_url": "https://codeforces.com/contest/1891/problem/F",
+    "submission_id": "CF262627332",
+    "submission_url": "https://codeforces.com/contest/1891/submission/262627332",
+    "tags": [
+      "data structures",
+      "dfs and similar",
+      "trees",
+      "*2000"
+    ],
+    "timestamp": "May/26/2024 03:35"
+  },
   "CF262627346": {
     "contest_id": 842,
     "language": "C++20 (GCC 13-64)",
