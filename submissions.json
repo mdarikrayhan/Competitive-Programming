@@ -23393,6 +23393,23 @@
     ],
     "timestamp": "May/17/2024 08:26"
   },
+  "CF262630543": {
+    "contest_id": 1044,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1044/A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "The Tower is Going Home",
+    "problem_url": "https://codeforces.com/contest/1044/problem/A",
+    "submission_id": "CF262630543",
+    "submission_url": "https://codeforces.com/contest/1044/submission/262630543",
+    "tags": [
+      "binary search",
+      "two pointers",
+      "*1700"
+    ],
+    "timestamp": "May/26/2024 05:03"
+  },
   "CF262630556": {
     "contest_id": 288,
     "language": "C++20 (GCC 13-64)",
