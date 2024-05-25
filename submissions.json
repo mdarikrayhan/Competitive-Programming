@@ -48916,6 +48916,23 @@
     ],
     "timestamp": "May/25/2024 18:15"
   },
+  "CF262614026": {
+    "contest_id": 597,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/597/C.cpp",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Subsequences",
+    "problem_url": "https://codeforces.com/contest/597/problem/C",
+    "submission_id": "CF262614026",
+    "submission_url": "https://codeforces.com/contest/597/submission/262614026",
+    "tags": [
+      "data structures",
+      "dp",
+      "*1900"
+    ],
+    "timestamp": "May/25/2024 23:49"
+  },
   "CF262614032": {
     "contest_id": 404,
     "language": "C++20 (GCC 13-64)",
