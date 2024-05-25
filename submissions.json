@@ -45337,6 +45337,24 @@
     ],
     "timestamp": "May/26/2024 03:07"
   },
+  "CF262625988": {
+    "contest_id": 1282,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1282/C.cpp",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Petya and Exam",
+    "problem_url": "https://codeforces.com/contest/1282/problem/C",
+    "submission_id": "CF262625988",
+    "submission_url": "https://codeforces.com/contest/1282/submission/262625988",
+    "tags": [
+      "greedy",
+      "sortings",
+      "two pointers",
+      "*1800"
+    ],
+    "timestamp": "May/26/2024 03:09"
+  },
   "CF262625999": {
     "contest_id": 729,
     "language": "C++20 (GCC 13-64)",
