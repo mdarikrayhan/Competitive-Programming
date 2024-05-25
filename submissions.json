@@ -47829,6 +47829,23 @@
     ],
     "timestamp": "May/26/2024 05:10"
   },
+  "CF262630765": {
+    "contest_id": 1238,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1238/E.cpp",
+    "platform": "Codeforces",
+    "problem_index": "E",
+    "problem_name": "Keyboard Purchase",
+    "problem_url": "https://codeforces.com/contest/1238/problem/E",
+    "submission_id": "CF262630765",
+    "submission_url": "https://codeforces.com/contest/1238/submission/262630765",
+    "tags": [
+      "bitmasks",
+      "dp",
+      "*2200"
+    ],
+    "timestamp": "May/26/2024 05:11"
+  },
   "CF262630771": {
     "contest_id": 1067,
     "language": "C++20 (GCC 13-64)",
