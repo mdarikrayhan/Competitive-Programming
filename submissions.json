@@ -45188,6 +45188,23 @@
     ],
     "timestamp": "May/26/2024 02:34"
   },
+  "CF262625678": {
+    "contest_id": 864,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/864/E.cpp",
+    "platform": "Codeforces",
+    "problem_index": "E",
+    "problem_name": "Fire",
+    "problem_url": "https://codeforces.com/contest/864/problem/E",
+    "submission_id": "CF262625678",
+    "submission_url": "https://codeforces.com/contest/864/submission/262625678",
+    "tags": [
+      "dp",
+      "sortings",
+      "*2000"
+    ],
+    "timestamp": "May/26/2024 03:04"
+  },
   "CF262625679": {
     "contest_id": 746,
     "language": "C++20 (GCC 13-64)",
