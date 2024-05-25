@@ -40775,6 +40775,25 @@
     ],
     "timestamp": "May/25/2024 10:39"
   },
+  "CF262460390": {
+    "contest_id": 1893,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1893/B.cpp",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Neutral Tonality",
+    "problem_url": "https://codeforces.com/contest/1893/problem/B",
+    "submission_id": "CF262460390",
+    "submission_url": "https://codeforces.com/contest/1893/submission/262460390",
+    "tags": [
+      "constructive algorithms",
+      "greedy",
+      "sortings",
+      "two pointers",
+      "*1700"
+    ],
+    "timestamp": "May/25/2024 11:12"
+  },
   "CF262460399": {
     "contest_id": 1789,
     "language": "C++20 (GCC 13-64)",
