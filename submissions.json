@@ -23393,6 +23393,23 @@
     ],
     "timestamp": "May/17/2024 08:26"
   },
+  "CF262627395": {
+    "contest_id": 632,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/632/B.cpp",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Alice, Bob, Two Teams",
+    "problem_url": "https://codeforces.com/contest/632/problem/B",
+    "submission_id": "CF262627395",
+    "submission_url": "https://codeforces.com/contest/632/submission/262627395",
+    "tags": [
+      "brute force",
+      "constructive algorithms",
+      "*1400"
+    ],
+    "timestamp": "May/26/2024 03:36"
+  },
   "CF262627398": {
     "contest_id": 675,
     "language": "C++20 (GCC 13-64)",
