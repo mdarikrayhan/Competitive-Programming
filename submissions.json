@@ -48916,6 +48916,24 @@
     ],
     "timestamp": "May/25/2024 18:15"
   },
+  "CF262611582": {
+    "contest_id": 364,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/364/A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Matrix",
+    "problem_url": "https://codeforces.com/contest/364/problem/A",
+    "submission_id": "CF262611582",
+    "submission_url": "https://codeforces.com/contest/364/submission/262611582",
+    "tags": [
+      "combinatorics",
+      "data structures",
+      "implementation",
+      "*1600"
+    ],
+    "timestamp": "May/25/2024 23:29"
+  },
   "CF262611649": {
     "contest_id": 540,
     "language": "C++20 (GCC 13-64)",
