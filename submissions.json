@@ -37906,6 +37906,24 @@
     ],
     "timestamp": "May/25/2024 10:39"
   },
+  "CF262461433": {
+    "contest_id": 468,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/468/A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "24 Game",
+    "problem_url": "https://codeforces.com/contest/468/problem/A",
+    "submission_id": "CF262461433",
+    "submission_url": "https://codeforces.com/contest/468/submission/262461433",
+    "tags": [
+      "constructive algorithms",
+      "greedy",
+      "math",
+      "*1500"
+    ],
+    "timestamp": "May/25/2024 11:23"
+  },
   "CF262461480": {
     "contest_id": 629,
     "language": "C++20 (GCC 13-64)",
