@@ -39360,6 +39360,24 @@
     ],
     "timestamp": "May/25/2024 12:33"
   },
+  "CF262491916": {
+    "contest_id": 864,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/864/D.cpp",
+    "platform": "Codeforces",
+    "problem_index": "D",
+    "problem_name": "Make a Permutation!",
+    "problem_url": "https://codeforces.com/contest/864/problem/D",
+    "submission_id": "CF262491916",
+    "submission_url": "https://codeforces.com/contest/864/submission/262491916",
+    "tags": [
+      "greedy",
+      "implementation",
+      "math",
+      "*1500"
+    ],
+    "timestamp": "May/25/2024 15:53"
+  },
   "CF262491931": {
     "contest_id": 1085,
     "language": "C++20 (GCC 13-64)",
