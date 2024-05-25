@@ -23393,6 +23393,26 @@
     ],
     "timestamp": "May/17/2024 08:26"
   },
+  "CF262629520": {
+    "contest_id": 6,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/6/E.cpp",
+    "platform": "Codeforces",
+    "problem_index": "E",
+    "problem_name": "Exposition",
+    "problem_url": "https://codeforces.com/contest/6/problem/E",
+    "submission_id": "CF262629520",
+    "submission_url": "https://codeforces.com/contest/6/submission/262629520",
+    "tags": [
+      "binary search",
+      "data structures",
+      "dsu",
+      "trees",
+      "two pointers",
+      "*1900"
+    ],
+    "timestamp": "May/26/2024 04:30"
+  },
   "CF262629523": {
     "contest_id": 430,
     "language": "C++20 (GCC 13-64)",
