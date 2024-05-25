@@ -23393,6 +23393,24 @@
     ],
     "timestamp": "May/17/2024 08:26"
   },
+  "CF262630533": {
+    "contest_id": 641,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/641/C.cpp",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Little Artem and Dance",
+    "problem_url": "https://codeforces.com/contest/641/problem/C",
+    "submission_id": "CF262630533",
+    "submission_url": "https://codeforces.com/contest/641/submission/262630533",
+    "tags": [
+      "brute force",
+      "constructive algorithms",
+      "implementation",
+      "*1800"
+    ],
+    "timestamp": "May/26/2024 05:03"
+  },
   "CF262630543": {
     "contest_id": 1044,
     "language": "C++20 (GCC 13-64)",
