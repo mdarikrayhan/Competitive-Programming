@@ -37906,6 +37906,24 @@
     ],
     "timestamp": "May/25/2024 10:39"
   },
+  "CF262461405": {
+    "contest_id": 1688,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1688/C.cpp",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Manipulating History",
+    "problem_url": "https://codeforces.com/contest/1688/problem/C",
+    "submission_id": "CF262461405",
+    "submission_url": "https://codeforces.com/contest/1688/submission/262461405",
+    "tags": [
+      "constructive algorithms",
+      "greedy",
+      "strings",
+      "*1700"
+    ],
+    "timestamp": "May/25/2024 11:23"
+  },
   "CF262461433": {
     "contest_id": 468,
     "language": "C++20 (GCC 13-64)",
