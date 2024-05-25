@@ -23393,6 +23393,26 @@
     ],
     "timestamp": "May/17/2024 08:26"
   },
+  "CF262623225": {
+    "contest_id": 468,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/468/B.cpp",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Two Sets",
+    "problem_url": "https://codeforces.com/contest/468/problem/B",
+    "submission_id": "CF262623225",
+    "submission_url": "https://codeforces.com/contest/468/submission/262623225",
+    "tags": [
+      "2-sat",
+      "dfs and similar",
+      "dsu",
+      "graph matchings",
+      "greedy",
+      "*2000"
+    ],
+    "timestamp": "May/26/2024 02:27"
+  },
   "CF262623242": {
     "contest_id": 1613,
     "language": "C++20 (GCC 13-64)",
