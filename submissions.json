@@ -23393,6 +23393,26 @@
     ],
     "timestamp": "May/17/2024 08:26"
   },
+  "CF262494807": {
+    "contest_id": 538,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/538/C.cpp",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Tourist's Notes",
+    "problem_url": "https://codeforces.com/contest/538/problem/C",
+    "submission_id": "CF262494807",
+    "submission_url": "https://codeforces.com/contest/538/submission/262494807",
+    "tags": [
+      "binary search",
+      "brute force",
+      "greedy",
+      "implementation",
+      "math",
+      "*1600"
+    ],
+    "timestamp": "May/25/2024 16:15"
+  },
   "CF262494856": {
     "contest_id": 1042,
     "language": "C++20 (GCC 13-64)",
