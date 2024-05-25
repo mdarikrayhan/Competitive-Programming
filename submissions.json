@@ -45337,6 +45337,22 @@
     ],
     "timestamp": "May/26/2024 03:07"
   },
+  "CF262625955": {
+    "contest_id": 10,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/10/D.cpp",
+    "platform": "Codeforces",
+    "problem_index": "D",
+    "problem_name": "LCIS",
+    "problem_url": "https://codeforces.com/contest/10/problem/D",
+    "submission_id": "CF262625955",
+    "submission_url": "https://codeforces.com/contest/10/submission/262625955",
+    "tags": [
+      "dp",
+      "*2800"
+    ],
+    "timestamp": "May/26/2024 03:08"
+  },
   "CF262625970": {
     "contest_id": 949,
     "language": "C++20 (GCC 13-64)",
