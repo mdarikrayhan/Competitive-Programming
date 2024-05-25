@@ -23393,6 +23393,22 @@
     ],
     "timestamp": "May/17/2024 08:26"
   },
+  "CF262501052": {
+    "contest_id": 409,
+    "language": "C++14 (GCC 6-32)",
+    "path": "codeforces/409/A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "The Great Game",
+    "problem_url": "https://codeforces.com/contest/409/problem/A",
+    "submission_id": "CF262501052",
+    "submission_url": "https://codeforces.com/contest/409/submission/262501052",
+    "tags": [
+      "*special problem",
+      "*1700"
+    ],
+    "timestamp": "May/25/2024 17:11"
+  },
   "CF262503099": {
     "contest_id": 158,
     "language": "C++20 (GCC 13-64)",
