@@ -23393,6 +23393,25 @@
     ],
     "timestamp": "May/17/2024 08:26"
   },
+  "CF262497003": {
+    "contest_id": 1812,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1812/B.cpp",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Was it Rated?",
+    "problem_url": "https://codeforces.com/contest/1812/problem/B",
+    "submission_id": "CF262497003",
+    "submission_url": "https://codeforces.com/contest/1812/submission/262497003",
+    "tags": [
+      "*special problem",
+      "*special problem",
+      "*special problem",
+      "brute force",
+      "implementation"
+    ],
+    "timestamp": "May/25/2024 16:34"
+  },
   "CF262497054": {
     "contest_id": 843,
     "language": "C++20 (GCC 13-64)",
