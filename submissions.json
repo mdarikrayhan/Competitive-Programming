@@ -23393,6 +23393,24 @@
     ],
     "timestamp": "May/17/2024 08:26"
   },
+  "CF262630685": {
+    "contest_id": 57,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/57/A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Square Earth?",
+    "problem_url": "https://codeforces.com/contest/57/problem/A",
+    "submission_id": "CF262630685",
+    "submission_url": "https://codeforces.com/contest/57/submission/262630685",
+    "tags": [
+      "dfs and similar",
+      "greedy",
+      "implementation",
+      "*1300"
+    ],
+    "timestamp": "May/26/2024 05:08"
+  },
   "CF262630692": {
     "contest_id": 1538,
     "language": "C++20 (GCC 13-64)",
