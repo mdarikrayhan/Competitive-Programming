@@ -45467,6 +45467,22 @@
     ],
     "timestamp": "May/26/2024 03:14"
   },
+  "CF262627043": {
+    "contest_id": 1231,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1231/C.cpp",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Increasing Matrix",
+    "problem_url": "https://codeforces.com/contest/1231/problem/C",
+    "submission_id": "CF262627043",
+    "submission_url": "https://codeforces.com/contest/1231/submission/262627043",
+    "tags": [
+      "greedy",
+      "*1100"
+    ],
+    "timestamp": "May/26/2024 03:29"
+  },
   "CF262627067": {
     "contest_id": 917,
     "language": "C++20 (GCC 13-64)",
