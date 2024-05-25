@@ -23393,6 +23393,23 @@
     ],
     "timestamp": "May/17/2024 08:26"
   },
+  "CF262497302": {
+    "contest_id": 1424,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1424/G.cpp",
+    "platform": "Codeforces",
+    "problem_index": "G",
+    "problem_name": "Years",
+    "problem_url": "https://codeforces.com/contest/1424/problem/G",
+    "submission_id": "CF262497302",
+    "submission_url": "https://codeforces.com/contest/1424/submission/262497302",
+    "tags": [
+      "data structures",
+      "sortings",
+      "*1300"
+    ],
+    "timestamp": "May/25/2024 16:37"
+  },
   "CF262497339": {
     "contest_id": 1624,
     "language": "C++20 (GCC 13-64)",
