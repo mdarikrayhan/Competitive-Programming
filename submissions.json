@@ -23393,6 +23393,25 @@
     ],
     "timestamp": "May/17/2024 08:26"
   },
+  "CF262623714": {
+    "contest_id": 1796,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1796/D.cpp",
+    "platform": "Codeforces",
+    "problem_index": "D",
+    "problem_name": "Maximum Subarray",
+    "problem_url": "https://codeforces.com/contest/1796/problem/D",
+    "submission_id": "CF262623714",
+    "submission_url": "https://codeforces.com/contest/1796/submission/262623714",
+    "tags": [
+      "data structures",
+      "dp",
+      "greedy",
+      "two pointers",
+      "*2000"
+    ],
+    "timestamp": "May/26/2024 02:33"
+  },
   "CF262623726": {
     "contest_id": 773,
     "language": "C++20 (GCC 13-64)",
