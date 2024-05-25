@@ -46919,6 +46919,24 @@
     ],
     "timestamp": "May/26/2024 04:33"
   },
+  "CF262629986": {
+    "contest_id": 260,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/260/C.cpp",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Balls and Boxes",
+    "problem_url": "https://codeforces.com/contest/260/problem/C",
+    "submission_id": "CF262629986",
+    "submission_url": "https://codeforces.com/contest/260/submission/262629986",
+    "tags": [
+      "constructive algorithms",
+      "greedy",
+      "implementation",
+      "*1700"
+    ],
+    "timestamp": "May/26/2024 04:44"
+  },
   "CF262629995": {
     "contest_id": 304,
     "language": "C++20 (GCC 13-64)",
