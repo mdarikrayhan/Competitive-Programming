@@ -47903,6 +47903,24 @@
     ],
     "timestamp": "May/26/2024 05:12"
   },
+  "CF262630837": {
+    "contest_id": 846,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/846/C.cpp",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Four Segments",
+    "problem_url": "https://codeforces.com/contest/846/problem/C",
+    "submission_id": "CF262630837",
+    "submission_url": "https://codeforces.com/contest/846/submission/262630837",
+    "tags": [
+      "brute force",
+      "data structures",
+      "dp",
+      "*1800"
+    ],
+    "timestamp": "May/26/2024 05:13"
+  },
   "CF262630840": {
     "contest_id": 1654,
     "language": "C++20 (GCC 13-64)",
