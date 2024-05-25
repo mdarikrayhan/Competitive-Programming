@@ -39360,6 +39360,22 @@
     ],
     "timestamp": "May/25/2024 12:33"
   },
+  "CF262491791": {
+    "contest_id": 20,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/20/A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "BerOS file system",
+    "problem_url": "https://codeforces.com/contest/20/problem/A",
+    "submission_id": "CF262491791",
+    "submission_url": "https://codeforces.com/contest/20/submission/262491791",
+    "tags": [
+      "implementation",
+      "*1700"
+    ],
+    "timestamp": "May/25/2024 15:52"
+  },
   "CF262491864": {
     "contest_id": 463,
     "language": "C++20 (GCC 13-64)",
