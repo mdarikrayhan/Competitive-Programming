@@ -37906,6 +37906,26 @@
     ],
     "timestamp": "May/25/2024 10:39"
   },
+  "CF262462719": {
+    "contest_id": 1472,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1472/E.cpp",
+    "platform": "Codeforces",
+    "problem_index": "E",
+    "problem_name": "Correct Placement",
+    "problem_url": "https://codeforces.com/contest/1472/problem/E",
+    "submission_id": "CF262462719",
+    "submission_url": "https://codeforces.com/contest/1472/submission/262462719",
+    "tags": [
+      "binary search",
+      "data structures",
+      "dp",
+      "sortings",
+      "two pointers",
+      "*1700"
+    ],
+    "timestamp": "May/25/2024 11:37"
+  },
   "CF262462730": {
     "contest_id": 1740,
     "language": "C++20 (GCC 13-64)",
