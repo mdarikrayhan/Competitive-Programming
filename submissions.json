@@ -48916,6 +48916,25 @@
     ],
     "timestamp": "May/25/2024 18:15"
   },
+  "CF262611846": {
+    "contest_id": 1183,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1183/E.cpp",
+    "platform": "Codeforces",
+    "problem_index": "E",
+    "problem_name": "Subsequences (easy version)",
+    "problem_url": "https://codeforces.com/contest/1183/problem/E",
+    "submission_id": "CF262611846",
+    "submission_url": "https://codeforces.com/contest/1183/submission/262611846",
+    "tags": [
+      "dp",
+      "graphs",
+      "implementation",
+      "shortest paths",
+      "*2000"
+    ],
+    "timestamp": "May/25/2024 23:30"
+  },
   "CF262612302": {
     "contest_id": 402,
     "language": "C++20 (GCC 13-64)",
