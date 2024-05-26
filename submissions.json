@@ -59510,6 +59510,24 @@
     ],
     "timestamp": "May/27/2024 04:13"
   },
+  "CF262805652": {
+    "contest_id": 372,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/372/B.cpp",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Counting Rectangles is Fun",
+    "problem_url": "https://codeforces.com/contest/372/problem/B",
+    "submission_id": "CF262805652",
+    "submission_url": "https://codeforces.com/contest/372/submission/262805652",
+    "tags": [
+      "brute force",
+      "divide and conquer",
+      "dp",
+      "*1900"
+    ],
+    "timestamp": "May/27/2024 04:15"
+  },
   "CF262805662": {
     "contest_id": 340,
     "language": "C++20 (GCC 13-64)",
