@@ -23393,6 +23393,24 @@
     ],
     "timestamp": "May/17/2024 08:26"
   },
+  "CF262804000": {
+    "contest_id": 960,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/960/F.cpp",
+    "platform": "Codeforces",
+    "problem_index": "F",
+    "problem_name": "Pathwalks",
+    "problem_url": "https://codeforces.com/contest/960/problem/F",
+    "submission_id": "CF262804000",
+    "submission_url": "https://codeforces.com/contest/960/submission/262804000",
+    "tags": [
+      "data structures",
+      "dp",
+      "graphs",
+      "*2100"
+    ],
+    "timestamp": "May/27/2024 03:38"
+  },
   "CF262804007": {
     "contest_id": 590,
     "language": "C++20 (GCC 13-64)",
