@@ -59456,6 +59456,25 @@
     ],
     "timestamp": "May/27/2024 04:09"
   },
+  "CF262805433": {
+    "contest_id": 770,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/770/C.cpp",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Online Courses In BSU",
+    "problem_url": "https://codeforces.com/contest/770/problem/C",
+    "submission_id": "CF262805433",
+    "submission_url": "https://codeforces.com/contest/770/submission/262805433",
+    "tags": [
+      "*special problem",
+      "dfs and similar",
+      "graphs",
+      "implementation",
+      "*1500"
+    ],
+    "timestamp": "May/27/2024 04:11"
+  },
   "CF262805439": {
     "contest_id": 1228,
     "language": "C++20 (GCC 13-64)",
