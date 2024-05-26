@@ -23393,6 +23393,27 @@
     ],
     "timestamp": "May/17/2024 08:26"
   },
+  "CF262804308": {
+    "contest_id": 1535,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1535/E.cpp",
+    "platform": "Codeforces",
+    "problem_index": "E",
+    "problem_name": "Gold Transfer",
+    "problem_url": "https://codeforces.com/contest/1535/problem/E",
+    "submission_id": "CF262804308",
+    "submission_url": "https://codeforces.com/contest/1535/submission/262804308",
+    "tags": [
+      "binary search",
+      "data structures",
+      "dp",
+      "greedy",
+      "interactive",
+      "trees",
+      "*2200"
+    ],
+    "timestamp": "May/27/2024 03:45"
+  },
   "CF262804321": {
     "contest_id": 128,
     "language": "C++20 (GCC 13-64)",
