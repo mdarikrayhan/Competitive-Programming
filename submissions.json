@@ -23393,6 +23393,24 @@
     ],
     "timestamp": "May/17/2024 08:26"
   },
+  "CF262808941": {
+    "contest_id": 780,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/780/E.cpp",
+    "platform": "Codeforces",
+    "problem_index": "E",
+    "problem_name": "Underground Lab",
+    "problem_url": "https://codeforces.com/contest/780/problem/E",
+    "submission_id": "CF262808941",
+    "submission_url": "https://codeforces.com/contest/780/submission/262808941",
+    "tags": [
+      "constructive algorithms",
+      "dfs and similar",
+      "graphs",
+      "*2100"
+    ],
+    "timestamp": "May/27/2024 05:53"
+  },
   "CF262808951": {
     "contest_id": 135,
     "language": "C++20 (GCC 13-64)",
