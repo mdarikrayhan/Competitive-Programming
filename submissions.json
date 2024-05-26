@@ -49542,6 +49542,23 @@
     ],
     "timestamp": "May/27/2024 04:04"
   },
+  "CF262805782": {
+    "contest_id": 599,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/599/D.cpp",
+    "platform": "Codeforces",
+    "problem_index": "D",
+    "problem_name": "Spongebob and Squares",
+    "problem_url": "https://codeforces.com/contest/599/problem/D",
+    "submission_id": "CF262805782",
+    "submission_url": "https://codeforces.com/contest/599/submission/262805782",
+    "tags": [
+      "brute force",
+      "math",
+      "*1900"
+    ],
+    "timestamp": "May/27/2024 04:19"
+  },
   "CF262805787": {
     "contest_id": 1579,
     "language": "C++20 (GCC 13-64)",
