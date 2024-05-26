@@ -23393,6 +23393,23 @@
     ],
     "timestamp": "May/17/2024 08:26"
   },
+  "CF262804106": {
+    "contest_id": 120,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/120/E.cpp",
+    "platform": "Codeforces",
+    "problem_index": "E",
+    "problem_name": "Put Knight!",
+    "problem_url": "https://codeforces.com/contest/120/problem/E",
+    "submission_id": "CF262804106",
+    "submission_url": "https://codeforces.com/contest/120/submission/262804106",
+    "tags": [
+      "games",
+      "math",
+      "*1400"
+    ],
+    "timestamp": "May/27/2024 03:41"
+  },
   "CF262804115": {
     "contest_id": 125,
     "language": "C++20 (GCC 13-64)",
