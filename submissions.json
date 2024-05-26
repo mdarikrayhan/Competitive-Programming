@@ -49542,6 +49542,22 @@
     ],
     "timestamp": "May/27/2024 04:04"
   },
+  "CF262806313": {
+    "contest_id": 370,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/370/B.cpp",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Berland Bingo",
+    "problem_url": "https://codeforces.com/contest/370/problem/B",
+    "submission_id": "CF262806313",
+    "submission_url": "https://codeforces.com/contest/370/submission/262806313",
+    "tags": [
+      "implementation",
+      "*1300"
+    ],
+    "timestamp": "May/27/2024 04:32"
+  },
   "CF262806325": {
     "contest_id": 1732,
     "language": "C++20 (GCC 13-64)",
