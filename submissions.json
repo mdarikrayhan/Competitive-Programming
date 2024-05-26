@@ -59456,6 +59456,23 @@
     ],
     "timestamp": "May/27/2024 04:09"
   },
+  "CF262805419": {
+    "contest_id": 526,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/526/F.cpp",
+    "platform": "Codeforces",
+    "problem_index": "F",
+    "problem_name": "Pudding Monsters",
+    "problem_url": "https://codeforces.com/contest/526/problem/F",
+    "submission_id": "CF262805419",
+    "submission_url": "https://codeforces.com/contest/526/submission/262805419",
+    "tags": [
+      "data structures",
+      "divide and conquer",
+      "*3000"
+    ],
+    "timestamp": "May/27/2024 04:10"
+  },
   "CF262805431": {
     "contest_id": 1056,
     "language": "C++20 (GCC 13-64)",
