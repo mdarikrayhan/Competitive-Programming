@@ -49542,6 +49542,22 @@
     ],
     "timestamp": "May/27/2024 04:04"
   },
+  "CF262808588": {
+    "contest_id": 952,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/952/D.cpp",
+    "platform": "Codeforces",
+    "problem_index": "D",
+    "problem_name": "I'm Feeling Lucky!",
+    "problem_url": "https://codeforces.com/contest/952/problem/D",
+    "submission_id": "CF262808588",
+    "submission_url": "https://codeforces.com/contest/952/submission/262808588",
+    "tags": [
+      "probabilities",
+      "*1800"
+    ],
+    "timestamp": "May/27/2024 05:42"
+  },
   "CF262808595": {
     "contest_id": 1251,
     "language": "C++20 (GCC 13-64)",
