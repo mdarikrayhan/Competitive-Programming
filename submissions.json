@@ -23393,6 +23393,24 @@
     ],
     "timestamp": "May/17/2024 08:26"
   },
+  "CF262804076": {
+    "contest_id": 1551,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1551/D2.cpp",
+    "platform": "Codeforces",
+    "problem_index": "D2",
+    "problem_name": "Domino (hard version)",
+    "problem_url": "https://codeforces.com/contest/1551/problem/D2",
+    "submission_id": "CF262804076",
+    "submission_url": "https://codeforces.com/contest/1551/submission/262804076",
+    "tags": [
+      "constructive algorithms",
+      "implementation",
+      "math",
+      "*2100"
+    ],
+    "timestamp": "May/27/2024 03:40"
+  },
   "CF262804084": {
     "contest_id": 785,
     "language": "C++20 (GCC 13-64)",
