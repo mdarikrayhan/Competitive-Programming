@@ -49542,6 +49542,24 @@
     ],
     "timestamp": "May/27/2024 04:04"
   },
+  "CF262808567": {
+    "contest_id": 741,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/741/C.cpp",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Arpa\u2019s overnight party and Mehrdad\u2019s silent entering",
+    "problem_url": "https://codeforces.com/contest/741/problem/C",
+    "submission_id": "CF262808567",
+    "submission_url": "https://codeforces.com/contest/741/submission/262808567",
+    "tags": [
+      "constructive algorithms",
+      "dfs and similar",
+      "graphs",
+      "*2600"
+    ],
+    "timestamp": "May/27/2024 05:41"
+  },
   "CF262808571": {
     "contest_id": 534,
     "language": "C++20 (GCC 13-64)",
