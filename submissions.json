@@ -49542,6 +49542,24 @@
     ],
     "timestamp": "May/27/2024 04:04"
   },
+  "CF262806055": {
+    "contest_id": 1788,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1788/E.cpp",
+    "platform": "Codeforces",
+    "problem_index": "E",
+    "problem_name": "Sum Over Zero",
+    "problem_url": "https://codeforces.com/contest/1788/problem/E",
+    "submission_id": "CF262806055",
+    "submission_url": "https://codeforces.com/contest/1788/submission/262806055",
+    "tags": [
+      "data structures",
+      "dfs and similar",
+      "dp",
+      "*2200"
+    ],
+    "timestamp": "May/27/2024 04:25"
+  },
   "CF262806064": {
     "contest_id": 171,
     "language": "C++20 (GCC 13-64)",
