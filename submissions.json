@@ -49542,6 +49542,24 @@
     ],
     "timestamp": "May/27/2024 04:04"
   },
+  "CF262805848": {
+    "contest_id": 611,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/611/D.cpp",
+    "platform": "Codeforces",
+    "problem_index": "D",
+    "problem_name": "New Year and Ancient Prophecy",
+    "problem_url": "https://codeforces.com/contest/611/problem/D",
+    "submission_id": "CF262805848",
+    "submission_url": "https://codeforces.com/contest/611/submission/262805848",
+    "tags": [
+      "dp",
+      "hashing",
+      "strings",
+      "*2000"
+    ],
+    "timestamp": "May/27/2024 04:21"
+  },
   "CF262805856": {
     "contest_id": 335,
     "language": "C++20 (GCC 13-64)",
