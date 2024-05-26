@@ -23393,6 +23393,24 @@
     ],
     "timestamp": "May/17/2024 08:26"
   },
+  "CF262632309": {
+    "contest_id": 546,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/546/E.cpp",
+    "platform": "Codeforces",
+    "problem_index": "E",
+    "problem_name": "Soldier and Traveling",
+    "problem_url": "https://codeforces.com/contest/546/problem/E",
+    "submission_id": "CF262632309",
+    "submission_url": "https://codeforces.com/contest/546/submission/262632309",
+    "tags": [
+      "flows",
+      "graphs",
+      "math",
+      "*2100"
+    ],
+    "timestamp": "May/26/2024 06:08"
+  },
   "CF262632713": {
     "contest_id": 1975,
     "language": "C++20 (GCC 13-64)",
