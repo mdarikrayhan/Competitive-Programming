@@ -49542,6 +49542,24 @@
     ],
     "timestamp": "May/27/2024 04:04"
   },
+  "CF262805737": {
+    "contest_id": 1100,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1100/E.cpp",
+    "platform": "Codeforces",
+    "problem_index": "E",
+    "problem_name": "Andrew and Taxi",
+    "problem_url": "https://codeforces.com/contest/1100/problem/E",
+    "submission_id": "CF262805737",
+    "submission_url": "https://codeforces.com/contest/1100/submission/262805737",
+    "tags": [
+      "binary search",
+      "dfs and similar",
+      "graphs",
+      "*2200"
+    ],
+    "timestamp": "May/27/2024 04:18"
+  },
   "CF262805750": {
     "contest_id": 571,
     "language": "C++20 (GCC 13-64)",
