@@ -23393,6 +23393,27 @@
     ],
     "timestamp": "May/17/2024 08:26"
   },
+  "CF262809023": {
+    "contest_id": 1868,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1868/B2.cpp",
+    "platform": "Codeforces",
+    "problem_index": "B2",
+    "problem_name": "Candy Party (Hard Version)",
+    "problem_url": "https://codeforces.com/contest/1868/problem/B2",
+    "submission_id": "CF262809023",
+    "submission_url": "https://codeforces.com/contest/1868/submission/262809023",
+    "tags": [
+      "bitmasks",
+      "constructive algorithms",
+      "dp",
+      "greedy",
+      "implementation",
+      "math",
+      "*2100"
+    ],
+    "timestamp": "May/27/2024 05:55"
+  },
   "CF262809027": {
     "contest_id": 788,
     "language": "C++20 (GCC 13-64)",
