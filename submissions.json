@@ -59456,6 +59456,27 @@
     ],
     "timestamp": "May/27/2024 04:09"
   },
+  "CF262805401": {
+    "contest_id": 1641,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1641/C.cpp",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Anonymity Is Important",
+    "problem_url": "https://codeforces.com/contest/1641/problem/C",
+    "submission_id": "CF262805401",
+    "submission_url": "https://codeforces.com/contest/1641/submission/262805401",
+    "tags": [
+      "binary search",
+      "brute force",
+      "data structures",
+      "dsu",
+      "greedy",
+      "sortings",
+      "*2200"
+    ],
+    "timestamp": "May/27/2024 04:10"
+  },
   "CF262805411": {
     "contest_id": 845,
     "language": "C++20 (GCC 13-64)",
