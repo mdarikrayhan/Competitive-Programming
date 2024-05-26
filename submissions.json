@@ -49542,6 +49542,24 @@
     ],
     "timestamp": "May/27/2024 04:04"
   },
+  "CF262806686": {
+    "contest_id": 925,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/925/B.cpp",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Resource Distribution",
+    "problem_url": "https://codeforces.com/contest/925/problem/B",
+    "submission_id": "CF262806686",
+    "submission_url": "https://codeforces.com/contest/925/submission/262806686",
+    "tags": [
+      "binary search",
+      "implementation",
+      "sortings",
+      "*1700"
+    ],
+    "timestamp": "May/27/2024 04:41"
+  },
   "CF262806687": {
     "contest_id": 547,
     "language": "C++20 (GCC 13-64)",
