@@ -49542,6 +49542,25 @@
     ],
     "timestamp": "May/27/2024 04:04"
   },
+  "CF262808932": {
+    "contest_id": 1646,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1646/E.cpp",
+    "platform": "Codeforces",
+    "problem_index": "E",
+    "problem_name": "Power Board",
+    "problem_url": "https://codeforces.com/contest/1646/problem/E",
+    "submission_id": "CF262808932",
+    "submission_url": "https://codeforces.com/contest/1646/submission/262808932",
+    "tags": [
+      "brute force",
+      "dp",
+      "math",
+      "number theory",
+      "*2200"
+    ],
+    "timestamp": "May/27/2024 05:53"
+  },
   "CF262808941": {
     "contest_id": 780,
     "language": "C++20 (GCC 13-64)",
