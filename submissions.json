@@ -49542,6 +49542,24 @@
     ],
     "timestamp": "May/27/2024 04:04"
   },
+  "CF262806114": {
+    "contest_id": 853,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/853/B.cpp",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Jury Meeting",
+    "problem_url": "https://codeforces.com/contest/853/problem/B",
+    "submission_id": "CF262806114",
+    "submission_url": "https://codeforces.com/contest/853/submission/262806114",
+    "tags": [
+      "greedy",
+      "sortings",
+      "two pointers",
+      "*1800"
+    ],
+    "timestamp": "May/27/2024 04:27"
+  },
   "CF262806166": {
     "contest_id": 955,
     "language": "C++20 (GCC 13-64)",
