@@ -49542,6 +49542,23 @@
     ],
     "timestamp": "May/27/2024 04:04"
   },
+  "CF262806811": {
+    "contest_id": 1003,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1003/E.cpp",
+    "platform": "Codeforces",
+    "problem_index": "E",
+    "problem_name": "Tree Constructing",
+    "problem_url": "https://codeforces.com/contest/1003/problem/E",
+    "submission_id": "CF262806811",
+    "submission_url": "https://codeforces.com/contest/1003/submission/262806811",
+    "tags": [
+      "constructive algorithms",
+      "graphs",
+      "*2100"
+    ],
+    "timestamp": "May/27/2024 04:45"
+  },
   "CF262806830": {
     "contest_id": 19,
     "language": "C++20 (GCC 13-64)",
