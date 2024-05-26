@@ -23393,6 +23393,23 @@
     ],
     "timestamp": "May/17/2024 08:26"
   },
+  "CF262804778": {
+    "contest_id": 367,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/367/B.cpp",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Sereja ans Anagrams",
+    "problem_url": "https://codeforces.com/contest/367/problem/B",
+    "submission_id": "CF262804778",
+    "submission_url": "https://codeforces.com/contest/367/submission/262804778",
+    "tags": [
+      "binary search",
+      "data structures",
+      "*1900"
+    ],
+    "timestamp": "May/27/2024 03:56"
+  },
   "CF262804938": {
     "contest_id": 763,
     "language": "C++20 (GCC 13-64)",
