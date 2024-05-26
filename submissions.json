@@ -49542,6 +49542,26 @@
     ],
     "timestamp": "May/27/2024 04:04"
   },
+  "CF262805327": {
+    "contest_id": 1650,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1650/G.cpp",
+    "platform": "Codeforces",
+    "problem_index": "G",
+    "problem_name": "Counting Shortcuts",
+    "problem_url": "https://codeforces.com/contest/1650/problem/G",
+    "submission_id": "CF262805327",
+    "submission_url": "https://codeforces.com/contest/1650/submission/262805327",
+    "tags": [
+      "data structures",
+      "dfs and similar",
+      "dp",
+      "graphs",
+      "shortest paths",
+      "*2100"
+    ],
+    "timestamp": "May/27/2024 04:08"
+  },
   "CF262805343": {
     "contest_id": 57,
     "language": "C++20 (GCC 13-64)",
