@@ -49542,6 +49542,24 @@
     ],
     "timestamp": "May/27/2024 04:04"
   },
+  "CF262805457": {
+    "contest_id": 29,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/29/D.cpp",
+    "platform": "Codeforces",
+    "problem_index": "D",
+    "problem_name": "Ant on the Tree",
+    "problem_url": "https://codeforces.com/contest/29/problem/D",
+    "submission_id": "CF262805457",
+    "submission_url": "https://codeforces.com/contest/29/submission/262805457",
+    "tags": [
+      "constructive algorithms",
+      "dfs and similar",
+      "trees",
+      "*2000"
+    ],
+    "timestamp": "May/27/2024 04:11"
+  },
   "CF262805517": {
     "contest_id": 757,
     "language": "C++20 (GCC 13-64)",
