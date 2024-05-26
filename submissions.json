@@ -49542,6 +49542,25 @@
     ],
     "timestamp": "May/27/2024 04:04"
   },
+  "CF262806857": {
+    "contest_id": 1322,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1322/C.cpp",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Instant Noodles",
+    "problem_url": "https://codeforces.com/contest/1322/problem/C",
+    "submission_id": "CF262806857",
+    "submission_url": "https://codeforces.com/contest/1322/submission/262806857",
+    "tags": [
+      "graphs",
+      "hashing",
+      "math",
+      "number theory",
+      "*2300"
+    ],
+    "timestamp": "May/27/2024 04:47"
+  },
   "CF262806866": {
     "contest_id": 600,
     "language": "C++20 (GCC 13-64)",
