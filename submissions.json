@@ -49542,6 +49542,23 @@
     ],
     "timestamp": "May/27/2024 04:04"
   },
+  "CF262808835": {
+    "contest_id": 175,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/175/A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Robot Bicorn Attack",
+    "problem_url": "https://codeforces.com/contest/175/problem/A",
+    "submission_id": "CF262808835",
+    "submission_url": "https://codeforces.com/contest/175/submission/262808835",
+    "tags": [
+      "brute force",
+      "implementation",
+      "*1400"
+    ],
+    "timestamp": "May/27/2024 05:50"
+  },
   "CF262808840": {
     "contest_id": 1168,
     "language": "C++20 (GCC 13-64)",
