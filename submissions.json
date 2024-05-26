@@ -49542,6 +49542,25 @@
     ],
     "timestamp": "May/27/2024 04:04"
   },
+  "CF262806948": {
+    "contest_id": 1100,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1100/F.cpp",
+    "platform": "Codeforces",
+    "problem_index": "F",
+    "problem_name": "Ivan and Burgers",
+    "problem_url": "https://codeforces.com/contest/1100/problem/F",
+    "submission_id": "CF262806948",
+    "submission_url": "https://codeforces.com/contest/1100/submission/262806948",
+    "tags": [
+      "data structures",
+      "divide and conquer",
+      "greedy",
+      "math",
+      "*2500"
+    ],
+    "timestamp": "May/27/2024 04:49"
+  },
   "CF262806951": {
     "contest_id": 48,
     "language": "C++20 (GCC 13-64)",
