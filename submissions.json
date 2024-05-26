@@ -49542,6 +49542,23 @@
     ],
     "timestamp": "May/27/2024 04:04"
   },
+  "CF262806080": {
+    "contest_id": 38,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/38/E.cpp",
+    "platform": "Codeforces",
+    "problem_index": "E",
+    "problem_name": "Let's Go Rolling!",
+    "problem_url": "https://codeforces.com/contest/38/problem/E",
+    "submission_id": "CF262806080",
+    "submission_url": "https://codeforces.com/contest/38/submission/262806080",
+    "tags": [
+      "dp",
+      "sortings",
+      "*1800"
+    ],
+    "timestamp": "May/27/2024 04:26"
+  },
   "CF262806084": {
     "contest_id": 1598,
     "language": "C++20 (GCC 13-64)",
