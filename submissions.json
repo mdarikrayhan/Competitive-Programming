@@ -23393,6 +23393,22 @@
     ],
     "timestamp": "May/17/2024 08:26"
   },
+  "CF262804351": {
+    "contest_id": 163,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/163/A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Substring and Subsequence",
+    "problem_url": "https://codeforces.com/contest/163/problem/A",
+    "submission_id": "CF262804351",
+    "submission_url": "https://codeforces.com/contest/163/submission/262804351",
+    "tags": [
+      "dp",
+      "*1700"
+    ],
+    "timestamp": "May/27/2024 03:46"
+  },
   "CF262804361": {
     "contest_id": 1185,
     "language": "C++20 (GCC 13-64)",
