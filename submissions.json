@@ -49542,6 +49542,29 @@
     ],
     "timestamp": "May/27/2024 04:04"
   },
+  "CF262805996": {
+    "contest_id": 1494,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1494/D.cpp",
+    "platform": "Codeforces",
+    "problem_index": "D",
+    "problem_name": "Dogeforces",
+    "problem_url": "https://codeforces.com/contest/1494/problem/D",
+    "submission_id": "CF262805996",
+    "submission_url": "https://codeforces.com/contest/1494/submission/262805996",
+    "tags": [
+      "constructive algorithms",
+      "data structures",
+      "dfs and similar",
+      "divide and conquer",
+      "dsu",
+      "greedy",
+      "sortings",
+      "trees",
+      "*2300"
+    ],
+    "timestamp": "May/27/2024 04:24"
+  },
   "CF262805999": {
     "contest_id": 724,
     "language": "C++20 (GCC 13-64)",
