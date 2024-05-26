@@ -49542,6 +49542,27 @@
     ],
     "timestamp": "May/27/2024 04:04"
   },
+  "CF262806652": {
+    "contest_id": 613,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/613/B.cpp",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Skills",
+    "problem_url": "https://codeforces.com/contest/613/problem/B",
+    "submission_id": "CF262806652",
+    "submission_url": "https://codeforces.com/contest/613/submission/262806652",
+    "tags": [
+      "binary search",
+      "brute force",
+      "dp",
+      "greedy",
+      "sortings",
+      "two pointers",
+      "*1900"
+    ],
+    "timestamp": "May/27/2024 04:41"
+  },
   "CF262806663": {
     "contest_id": 1185,
     "language": "C++20 (GCC 13-64)",
