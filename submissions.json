@@ -23393,6 +23393,23 @@
     ],
     "timestamp": "May/17/2024 08:26"
   },
+  "CF262805031": {
+    "contest_id": 203,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/203/B.cpp",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Game on Paper",
+    "problem_url": "https://codeforces.com/contest/203/problem/B",
+    "submission_id": "CF262805031",
+    "submission_url": "https://codeforces.com/contest/203/submission/262805031",
+    "tags": [
+      "brute force",
+      "implementation",
+      "*1300"
+    ],
+    "timestamp": "May/27/2024 04:02"
+  },
   "CF262805045": {
     "contest_id": 1234,
     "language": "C++20 (GCC 13-64)",
