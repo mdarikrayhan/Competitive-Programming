@@ -57725,6 +57725,24 @@
     ],
     "timestamp": "May/26/2024 06:26"
   },
+  "CF262633003": {
+    "contest_id": 1854,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1854/B.cpp",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Earn or Unlock",
+    "problem_url": "https://codeforces.com/contest/1854/problem/B",
+    "submission_id": "CF262633003",
+    "submission_url": "https://codeforces.com/contest/1854/submission/262633003",
+    "tags": [
+      "bitmasks",
+      "brute force",
+      "dp",
+      "*2200"
+    ],
+    "timestamp": "May/26/2024 06:30"
+  },
   "CF262633015": {
     "contest_id": 1606,
     "language": "C++20 (GCC 13-64)",
