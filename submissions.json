@@ -49542,6 +49542,24 @@
     ],
     "timestamp": "May/27/2024 04:04"
   },
+  "CF262808551": {
+    "contest_id": 549,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/549/G.cpp",
+    "platform": "Codeforces",
+    "problem_index": "G",
+    "problem_name": "Happy Line",
+    "problem_url": "https://codeforces.com/contest/549/problem/G",
+    "submission_id": "CF262808551",
+    "submission_url": "https://codeforces.com/contest/549/submission/262808551",
+    "tags": [
+      "constructive algorithms",
+      "greedy",
+      "sortings",
+      "*2200"
+    ],
+    "timestamp": "May/27/2024 05:41"
+  },
   "CF262808560": {
     "contest_id": 691,
     "language": "C++20 (GCC 13-64)",
