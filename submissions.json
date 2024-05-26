@@ -59075,6 +59075,26 @@
     ],
     "timestamp": "May/27/2024 04:01"
   },
+  "CF262804992": {
+    "contest_id": 1612,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1612/E.cpp",
+    "platform": "Codeforces",
+    "problem_index": "E",
+    "problem_name": "Messages",
+    "problem_url": "https://codeforces.com/contest/1612/problem/E",
+    "submission_id": "CF262804992",
+    "submission_url": "https://codeforces.com/contest/1612/submission/262804992",
+    "tags": [
+      "brute force",
+      "dp",
+      "greedy",
+      "probabilities",
+      "sortings",
+      "*2000"
+    ],
+    "timestamp": "May/27/2024 04:01"
+  },
   "CF262805002": {
     "contest_id": 730,
     "language": "C++20 (GCC 13-64)",
