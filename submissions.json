@@ -23393,6 +23393,27 @@
     ],
     "timestamp": "May/17/2024 08:26"
   },
+  "CF262804460": {
+    "contest_id": 1771,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1771/D.cpp",
+    "platform": "Codeforces",
+    "problem_index": "D",
+    "problem_name": "Hossam and (sub-)palindromic tree",
+    "problem_url": "https://codeforces.com/contest/1771/problem/D",
+    "submission_id": "CF262804460",
+    "submission_url": "https://codeforces.com/contest/1771/submission/262804460",
+    "tags": [
+      "brute force",
+      "data structures",
+      "dfs and similar",
+      "dp",
+      "strings",
+      "trees",
+      "*2100"
+    ],
+    "timestamp": "May/27/2024 03:49"
+  },
   "CF262804464": {
     "contest_id": 741,
     "language": "C++20 (GCC 13-64)",
