@@ -49542,6 +49542,23 @@
     ],
     "timestamp": "May/27/2024 04:04"
   },
+  "CF262805868": {
+    "contest_id": 928,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/928/B.cpp",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Chat",
+    "problem_url": "https://codeforces.com/contest/928/problem/B",
+    "submission_id": "CF262805868",
+    "submission_url": "https://codeforces.com/contest/928/submission/262805868",
+    "tags": [
+      "*special problem",
+      "dp",
+      "*1400"
+    ],
+    "timestamp": "May/27/2024 04:21"
+  },
   "CF262805885": {
     "contest_id": 630,
     "language": "C++20 (GCC 13-64)",
