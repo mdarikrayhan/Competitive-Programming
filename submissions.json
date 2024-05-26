@@ -49542,6 +49542,25 @@
     ],
     "timestamp": "May/27/2024 04:04"
   },
+  "CF262808639": {
+    "contest_id": 336,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/336/C.cpp",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Vasily the Bear and Sequence",
+    "problem_url": "https://codeforces.com/contest/336/problem/C",
+    "submission_id": "CF262808639",
+    "submission_url": "https://codeforces.com/contest/336/submission/262808639",
+    "tags": [
+      "brute force",
+      "greedy",
+      "implementation",
+      "number theory",
+      "*1800"
+    ],
+    "timestamp": "May/27/2024 05:44"
+  },
   "CF262808643": {
     "contest_id": 762,
     "language": "C++20 (GCC 13-64)",
