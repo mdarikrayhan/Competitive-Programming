@@ -57725,6 +57725,24 @@
     ],
     "timestamp": "May/26/2024 06:26"
   },
+  "CF262633102": {
+    "contest_id": 1886,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1886/D.cpp",
+    "platform": "Codeforces",
+    "problem_index": "D",
+    "problem_name": "Monocarp and the Set",
+    "problem_url": "https://codeforces.com/contest/1886/problem/D",
+    "submission_id": "CF262633102",
+    "submission_url": "https://codeforces.com/contest/1886/submission/262633102",
+    "tags": [
+      "combinatorics",
+      "data structures",
+      "math",
+      "*2100"
+    ],
+    "timestamp": "May/26/2024 06:33"
+  },
   "CF262633105": {
     "contest_id": 1265,
     "language": "C++20 (GCC 13-64)",
