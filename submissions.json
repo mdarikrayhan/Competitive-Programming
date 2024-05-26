@@ -23393,6 +23393,23 @@
     ],
     "timestamp": "May/17/2024 08:26"
   },
+  "CF262803588": {
+    "contest_id": 847,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/847/F.cpp",
+    "platform": "Codeforces",
+    "problem_index": "F",
+    "problem_name": "Berland Elections",
+    "problem_url": "https://codeforces.com/contest/847/problem/F",
+    "submission_id": "CF262803588",
+    "submission_url": "https://codeforces.com/contest/847/submission/262803588",
+    "tags": [
+      "greedy",
+      "sortings",
+      "*2100"
+    ],
+    "timestamp": "May/27/2024 03:31"
+  },
   "CF262803602": {
     "contest_id": 847,
     "language": "C++20 (GCC 13-64)",
