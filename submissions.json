@@ -57725,6 +57725,23 @@
     ],
     "timestamp": "May/26/2024 06:26"
   },
+  "CF262633328": {
+    "contest_id": 1558,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1558/C.cpp",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Bottom-Tier Reversals",
+    "problem_url": "https://codeforces.com/contest/1558/problem/C",
+    "submission_id": "CF262633328",
+    "submission_url": "https://codeforces.com/contest/1558/submission/262633328",
+    "tags": [
+      "constructive algorithms",
+      "greedy",
+      "*2000"
+    ],
+    "timestamp": "May/26/2024 06:40"
+  },
   "CF262633365": {
     "contest_id": 645,
     "language": "C++20 (GCC 13-64)",
