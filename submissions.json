@@ -57725,6 +57725,24 @@
     ],
     "timestamp": "May/26/2024 06:26"
   },
+  "CF262633195": {
+    "contest_id": 550,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/550/D.cpp",
+    "platform": "Codeforces",
+    "problem_index": "D",
+    "problem_name": "Regular Bridge",
+    "problem_url": "https://codeforces.com/contest/550/problem/D",
+    "submission_id": "CF262633195",
+    "submission_url": "https://codeforces.com/contest/550/submission/262633195",
+    "tags": [
+      "constructive algorithms",
+      "graphs",
+      "implementation",
+      "*1900"
+    ],
+    "timestamp": "May/26/2024 06:36"
+  },
   "CF262633198": {
     "contest_id": 1777,
     "language": "C++20 (GCC 13-64)",
