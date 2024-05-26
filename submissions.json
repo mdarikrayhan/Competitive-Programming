@@ -23393,6 +23393,26 @@
     ],
     "timestamp": "May/17/2024 08:26"
   },
+  "CF262809027": {
+    "contest_id": 788,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/788/B.cpp",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Weird journey",
+    "problem_url": "https://codeforces.com/contest/788/problem/B",
+    "submission_id": "CF262809027",
+    "submission_url": "https://codeforces.com/contest/788/submission/262809027",
+    "tags": [
+      "combinatorics",
+      "constructive algorithms",
+      "dfs and similar",
+      "dsu",
+      "graphs",
+      "*2100"
+    ],
+    "timestamp": "May/27/2024 05:56"
+  },
   "CF262809030": {
     "contest_id": 813,
     "language": "C++20 (GCC 13-64)",
