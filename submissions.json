@@ -57725,6 +57725,25 @@
     ],
     "timestamp": "May/26/2024 06:26"
   },
+  "CF262634505": {
+    "contest_id": 1088,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1088/D.cpp",
+    "platform": "Codeforces",
+    "problem_index": "D",
+    "problem_name": "Ehab and another another xor problem",
+    "problem_url": "https://codeforces.com/contest/1088/problem/D",
+    "submission_id": "CF262634505",
+    "submission_url": "https://codeforces.com/contest/1088/submission/262634505",
+    "tags": [
+      "bitmasks",
+      "constructive algorithms",
+      "implementation",
+      "interactive",
+      "*2000"
+    ],
+    "timestamp": "May/26/2024 07:14"
+  },
   "CF262634541": {
     "contest_id": 1734,
     "language": "C++20 (GCC 13-64)",
