@@ -23393,6 +23393,24 @@
     ],
     "timestamp": "May/17/2024 08:26"
   },
+  "CF262803653": {
+    "contest_id": 847,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/847/K.cpp",
+    "platform": "Codeforces",
+    "problem_index": "K",
+    "problem_name": "Travel Cards",
+    "problem_url": "https://codeforces.com/contest/847/problem/K",
+    "submission_id": "CF262803653",
+    "submission_url": "https://codeforces.com/contest/847/submission/262803653",
+    "tags": [
+      "greedy",
+      "implementation",
+      "sortings",
+      "*1800"
+    ],
+    "timestamp": "May/27/2024 03:32"
+  },
   "CF262803688": {
     "contest_id": 847,
     "language": "C++20 (GCC 13-64)",
