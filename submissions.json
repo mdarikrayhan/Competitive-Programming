@@ -49542,6 +49542,25 @@
     ],
     "timestamp": "May/27/2024 04:04"
   },
+  "CF262805946": {
+    "contest_id": 615,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/615/C.cpp",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Running Track",
+    "problem_url": "https://codeforces.com/contest/615/problem/C",
+    "submission_id": "CF262805946",
+    "submission_url": "https://codeforces.com/contest/615/submission/262805946",
+    "tags": [
+      "dp",
+      "greedy",
+      "strings",
+      "trees",
+      "*2000"
+    ],
+    "timestamp": "May/27/2024 04:23"
+  },
   "CF262805963": {
     "contest_id": 1498,
     "language": "C++20 (GCC 13-64)",
