@@ -23393,6 +23393,25 @@
     ],
     "timestamp": "May/17/2024 08:26"
   },
+  "CF262803298": {
+    "contest_id": 1731,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1731/E.cpp",
+    "platform": "Codeforces",
+    "problem_index": "E",
+    "problem_name": "Graph Cost",
+    "problem_url": "https://codeforces.com/contest/1731/problem/E",
+    "submission_id": "CF262803298",
+    "submission_url": "https://codeforces.com/contest/1731/submission/262803298",
+    "tags": [
+      "dp",
+      "greedy",
+      "math",
+      "number theory",
+      "*2000"
+    ],
+    "timestamp": "May/27/2024 03:25"
+  },
   "CF262803556": {
     "contest_id": 847,
     "language": "C++20 (GCC 13-64)",
