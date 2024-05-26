@@ -57725,6 +57725,24 @@
     ],
     "timestamp": "May/26/2024 06:26"
   },
+  "CF262633279": {
+    "contest_id": 1673,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1673/D.cpp",
+    "platform": "Codeforces",
+    "problem_index": "D",
+    "problem_name": "Lost Arithmetic Progression",
+    "problem_url": "https://codeforces.com/contest/1673/problem/D",
+    "submission_id": "CF262633279",
+    "submission_url": "https://codeforces.com/contest/1673/submission/262633279",
+    "tags": [
+      "combinatorics",
+      "math",
+      "number theory",
+      "*1900"
+    ],
+    "timestamp": "May/26/2024 06:39"
+  },
   "CF262633287": {
     "contest_id": 896,
     "language": "C++20 (GCC 13-64)",
