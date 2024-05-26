@@ -57725,6 +57725,23 @@
     ],
     "timestamp": "May/26/2024 06:26"
   },
+  "CF262634741": {
+    "contest_id": 319,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/319/A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Malek Dance Club",
+    "problem_url": "https://codeforces.com/contest/319/problem/A",
+    "submission_id": "CF262634741",
+    "submission_url": "https://codeforces.com/contest/319/submission/262634741",
+    "tags": [
+      "combinatorics",
+      "math",
+      "*1600"
+    ],
+    "timestamp": "May/26/2024 07:20"
+  },
   "CF262634745": {
     "contest_id": 1203,
     "language": "C++20 (GCC 13-64)",
