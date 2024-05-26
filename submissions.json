@@ -49542,6 +49542,27 @@
     ],
     "timestamp": "May/27/2024 04:04"
   },
+  "CF262806325": {
+    "contest_id": 1732,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1732/C2.cpp",
+    "platform": "Codeforces",
+    "problem_index": "C2",
+    "problem_name": "Sheikh (Hard Version)",
+    "problem_url": "https://codeforces.com/contest/1732/problem/C2",
+    "submission_id": "CF262806325",
+    "submission_url": "https://codeforces.com/contest/1732/submission/262806325",
+    "tags": [
+      "binary search",
+      "bitmasks",
+      "brute force",
+      "greedy",
+      "implementation",
+      "two pointers",
+      "*2100"
+    ],
+    "timestamp": "May/27/2024 04:32"
+  },
   "CF262806362": {
     "contest_id": 755,
     "language": "C++20 (GCC 13-64)",
