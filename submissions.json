@@ -49542,6 +49542,28 @@
     ],
     "timestamp": "May/27/2024 04:04"
   },
+  "CF262806085": {
+    "contest_id": 1540,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1540/B.cpp",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Tree Array",
+    "problem_url": "https://codeforces.com/contest/1540/problem/B",
+    "submission_id": "CF262806085",
+    "submission_url": "https://codeforces.com/contest/1540/submission/262806085",
+    "tags": [
+      "brute force",
+      "combinatorics",
+      "dp",
+      "graphs",
+      "math",
+      "probabilities",
+      "trees",
+      "*2300"
+    ],
+    "timestamp": "May/27/2024 04:26"
+  },
   "CF262806099": {
     "contest_id": 691,
     "language": "C++20 (GCC 13-64)",
