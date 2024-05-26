@@ -59075,6 +59075,25 @@
     ],
     "timestamp": "May/27/2024 04:01"
   },
+  "CF262804989": {
+    "contest_id": 1778,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1778/D.cpp",
+    "platform": "Codeforces",
+    "problem_index": "D",
+    "problem_name": "Flexible String Revisit",
+    "problem_url": "https://codeforces.com/contest/1778/problem/D",
+    "submission_id": "CF262804989",
+    "submission_url": "https://codeforces.com/contest/1778/submission/262804989",
+    "tags": [
+      "combinatorics",
+      "dp",
+      "math",
+      "probabilities",
+      "*2100"
+    ],
+    "timestamp": "May/27/2024 04:01"
+  },
   "CF262804992": {
     "contest_id": 1612,
     "language": "C++20 (GCC 13-64)",
