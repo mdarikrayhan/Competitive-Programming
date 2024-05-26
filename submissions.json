@@ -59456,6 +59456,25 @@
     ],
     "timestamp": "May/27/2024 04:09"
   },
+  "CF262805431": {
+    "contest_id": 1056,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1056/C.cpp",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Pick Heroes",
+    "problem_url": "https://codeforces.com/contest/1056/problem/C",
+    "submission_id": "CF262805431",
+    "submission_url": "https://codeforces.com/contest/1056/submission/262805431",
+    "tags": [
+      "greedy",
+      "implementation",
+      "interactive",
+      "sortings",
+      "*1700"
+    ],
+    "timestamp": "May/27/2024 04:11"
+  },
   "CF262805433": {
     "contest_id": 770,
     "language": "C++20 (GCC 13-64)",
