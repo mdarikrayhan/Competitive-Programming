@@ -49542,6 +49542,25 @@
     ],
     "timestamp": "May/27/2024 04:04"
   },
+  "CF262808829": {
+    "contest_id": 1536,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1536/E.cpp",
+    "platform": "Codeforces",
+    "problem_index": "E",
+    "problem_name": "Omkar and Forest",
+    "problem_url": "https://codeforces.com/contest/1536/problem/E",
+    "submission_id": "CF262808829",
+    "submission_url": "https://codeforces.com/contest/1536/submission/262808829",
+    "tags": [
+      "combinatorics",
+      "graphs",
+      "math",
+      "shortest paths",
+      "*2300"
+    ],
+    "timestamp": "May/27/2024 05:50"
+  },
   "CF262808835": {
     "contest_id": 175,
     "language": "C++20 (GCC 13-64)",
