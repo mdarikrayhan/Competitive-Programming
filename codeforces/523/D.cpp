@@ -1,17 +1,33 @@
-#include<bits/stdc++.h>
+#include "bits/stdc++.h"
+
 using namespace std;
-typedef long long ll;
-priority_queue<ll,vector<ll>,greater<ll> >q;
-main() {
-	ll n,k,i,a,b,w;
-	scanf("%lld%lld",&n,&k);
-	for(i=1; i<=k; i++)
-		q.push(0);
-	while(n--) {
-		scanf("%lld%lld",&a,&b);
-		w=max(q.top(),a)+b;
-		printf("%lld\n",w);
-		q.pop();
-		q.push(w);
-	}
+
+#define int long long
+
+const int sz = 2e5 + 5;
+
+void solve()
+{
+    int n, k;
+    cin >> n >> k;
+    multiset<int> s;
+    for(int i = 1; i <= k; i++) s.insert(0);
+    for(int i = 1; i <= n; i++) 
+    {
+        int t, m;
+        cin >> t >> m;
+        cout << max(t, *s.begin()) + m << endl;
+        s.insert(max(t, *s.begin()) + m);
+        s.erase(s.begin());
+    }
+}
+
+signed main() 
+{
+    ios_base::sync_with_stdio(false);
+    cin.tie(nullptr);
+    cout.tie(nullptr);
+    int t = 1;
+    // cin >> t;
+    for(int i = 1; i <= t; i++) solve();
 }
