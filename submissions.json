@@ -59036,6 +59036,22 @@
     ],
     "timestamp": "May/27/2024 03:59"
   },
+  "CF262804940": {
+    "contest_id": 49,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/49/B.cpp",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Sum",
+    "problem_url": "https://codeforces.com/contest/49/problem/B",
+    "submission_id": "CF262804940",
+    "submission_url": "https://codeforces.com/contest/49/submission/262804940",
+    "tags": [
+      "math",
+      "*1500"
+    ],
+    "timestamp": "May/27/2024 03:59"
+  },
   "CF262804950": {
     "contest_id": 39,
     "language": "C++20 (GCC 13-64)",
