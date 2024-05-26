@@ -49542,6 +49542,23 @@
     ],
     "timestamp": "May/27/2024 04:04"
   },
+  "CF262805343": {
+    "contest_id": 57,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/57/C.cpp",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Array",
+    "problem_url": "https://codeforces.com/contest/57/problem/C",
+    "submission_id": "CF262805343",
+    "submission_url": "https://codeforces.com/contest/57/submission/262805343",
+    "tags": [
+      "combinatorics",
+      "math",
+      "*1900"
+    ],
+    "timestamp": "May/27/2024 04:09"
+  },
   "CF262805345": {
     "contest_id": 1542,
     "language": "C++20 (GCC 13-64)",
