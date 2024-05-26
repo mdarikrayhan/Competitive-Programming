@@ -59493,6 +59493,23 @@
     ],
     "timestamp": "May/27/2024 04:12"
   },
+  "CF262805536": {
+    "contest_id": 413,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/413/C.cpp",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Jeopardy!",
+    "problem_url": "https://codeforces.com/contest/413/problem/C",
+    "submission_id": "CF262805536",
+    "submission_url": "https://codeforces.com/contest/413/submission/262805536",
+    "tags": [
+      "greedy",
+      "math",
+      "*1400"
+    ],
+    "timestamp": "May/27/2024 04:13"
+  },
   "CF262805539": {
     "contest_id": 77,
     "language": "C++20 (GCC 13-64)",
