@@ -49542,6 +49542,22 @@
     ],
     "timestamp": "May/27/2024 04:04"
   },
+  "CF262808865": {
+    "contest_id": 138,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/138/A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Literature Lesson",
+    "problem_url": "https://codeforces.com/contest/138/problem/A",
+    "submission_id": "CF262808865",
+    "submission_url": "https://codeforces.com/contest/138/submission/262808865",
+    "tags": [
+      "implementation",
+      "*1600"
+    ],
+    "timestamp": "May/27/2024 05:51"
+  },
   "CF262808868": {
     "contest_id": 1216,
     "language": "C++20 (GCC 13-64)",
