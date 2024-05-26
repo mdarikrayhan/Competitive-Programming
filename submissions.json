@@ -59019,6 +59019,25 @@
     ],
     "timestamp": "May/27/2024 03:56"
   },
+  "CF262804874": {
+    "contest_id": 436,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/436/C.cpp",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Dungeons and Candies",
+    "problem_url": "https://codeforces.com/contest/436/problem/C",
+    "submission_id": "CF262804874",
+    "submission_url": "https://codeforces.com/contest/436/submission/262804874",
+    "tags": [
+      "dsu",
+      "graphs",
+      "greedy",
+      "trees",
+      "*1800"
+    ],
+    "timestamp": "May/27/2024 03:58"
+  },
   "CF262804876": {
     "contest_id": 1396,
     "language": "C++20 (GCC 13-64)",
