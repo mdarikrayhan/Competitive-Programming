@@ -59510,6 +59510,23 @@
     ],
     "timestamp": "May/27/2024 04:13"
   },
+  "CF262805585": {
+    "contest_id": 786,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/786/C.cpp",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Till I Collapse",
+    "problem_url": "https://codeforces.com/contest/786/problem/C",
+    "submission_id": "CF262805585",
+    "submission_url": "https://codeforces.com/contest/786/submission/262805585",
+    "tags": [
+      "data structures",
+      "divide and conquer",
+      "*2400"
+    ],
+    "timestamp": "May/27/2024 04:14"
+  },
   "CF262805599": {
     "contest_id": 533,
     "language": "C++20 (GCC 13-64)",
