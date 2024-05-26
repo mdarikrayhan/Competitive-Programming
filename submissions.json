@@ -23393,6 +23393,24 @@
     ],
     "timestamp": "May/17/2024 08:26"
   },
+  "CF262803620": {
+    "contest_id": 847,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/847/J.cpp",
+    "platform": "Codeforces",
+    "problem_index": "J",
+    "problem_name": "Students Initiation",
+    "problem_url": "https://codeforces.com/contest/847/problem/J",
+    "submission_id": "CF262803620",
+    "submission_url": "https://codeforces.com/contest/847/submission/262803620",
+    "tags": [
+      "binary search",
+      "flows",
+      "graphs",
+      "*2400"
+    ],
+    "timestamp": "May/27/2024 03:31"
+  },
   "CF262803653": {
     "contest_id": 847,
     "language": "C++20 (GCC 13-64)",
