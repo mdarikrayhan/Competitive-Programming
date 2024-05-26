@@ -23393,6 +23393,25 @@
     ],
     "timestamp": "May/17/2024 08:26"
   },
+  "CF262804513": {
+    "contest_id": 1658,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1658/D2.cpp",
+    "platform": "Codeforces",
+    "problem_index": "D2",
+    "problem_name": "388535 (Hard Version)",
+    "problem_url": "https://codeforces.com/contest/1658/problem/D2",
+    "submission_id": "CF262804513",
+    "submission_url": "https://codeforces.com/contest/1658/submission/262804513",
+    "tags": [
+      "bitmasks",
+      "brute force",
+      "data structures",
+      "math",
+      "*2300"
+    ],
+    "timestamp": "May/27/2024 03:50"
+  },
   "CF262804538": {
     "contest_id": 1730,
     "language": "C++20 (GCC 13-64)",
