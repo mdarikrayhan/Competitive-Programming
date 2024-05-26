@@ -23393,6 +23393,24 @@
     ],
     "timestamp": "May/17/2024 08:26"
   },
+  "CF262803769": {
+    "contest_id": 1912,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1912/B.cpp",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Blueprint for Seating",
+    "problem_url": "https://codeforces.com/contest/1912/problem/B",
+    "submission_id": "CF262803769",
+    "submission_url": "https://codeforces.com/contest/1912/submission/262803769",
+    "tags": [
+      "combinatorics",
+      "divide and conquer",
+      "math",
+      "*2100"
+    ],
+    "timestamp": "May/27/2024 03:34"
+  },
   "CF262803791": {
     "contest_id": 1912,
     "language": "C++20 (GCC 13-64)",
