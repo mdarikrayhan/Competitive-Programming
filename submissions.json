@@ -49542,6 +49542,23 @@
     ],
     "timestamp": "May/27/2024 04:04"
   },
+  "CF262808840": {
+    "contest_id": 1168,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1168/C.cpp",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "And Reachability",
+    "problem_url": "https://codeforces.com/contest/1168/problem/C",
+    "submission_id": "CF262808840",
+    "submission_url": "https://codeforces.com/contest/1168/submission/262808840",
+    "tags": [
+      "bitmasks",
+      "dp",
+      "*2200"
+    ],
+    "timestamp": "May/27/2024 05:50"
+  },
   "CF262808846": {
     "contest_id": 292,
     "language": "C++20 (GCC 13-64)",
