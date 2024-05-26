@@ -49542,6 +49542,23 @@
     ],
     "timestamp": "May/27/2024 04:04"
   },
+  "CF262805237": {
+    "contest_id": 1761,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1761/D.cpp",
+    "platform": "Codeforces",
+    "problem_index": "D",
+    "problem_name": "Carry Bit",
+    "problem_url": "https://codeforces.com/contest/1761/problem/D",
+    "submission_id": "CF262805237",
+    "submission_url": "https://codeforces.com/contest/1761/submission/262805237",
+    "tags": [
+      "combinatorics",
+      "math",
+      "*2100"
+    ],
+    "timestamp": "May/27/2024 04:06"
+  },
   "CF262805271": {
     "contest_id": 1559,
     "language": "C++20 (GCC 13-64)",
