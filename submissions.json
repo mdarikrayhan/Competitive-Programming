@@ -23393,6 +23393,24 @@
     ],
     "timestamp": "May/17/2024 08:26"
   },
+  "CF262803753": {
+    "contest_id": 1912,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1912/A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Accumulator Apex",
+    "problem_url": "https://codeforces.com/contest/1912/problem/A",
+    "submission_id": "CF262803753",
+    "submission_url": "https://codeforces.com/contest/1912/submission/262803753",
+    "tags": [
+      "data structures",
+      "implementation",
+      "sortings",
+      "*1900"
+    ],
+    "timestamp": "May/27/2024 03:34"
+  },
   "CF262803769": {
     "contest_id": 1912,
     "language": "C++20 (GCC 13-64)",
