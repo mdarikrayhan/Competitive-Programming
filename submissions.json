@@ -23393,6 +23393,25 @@
     ],
     "timestamp": "May/17/2024 08:26"
   },
+  "CF262809152": {
+    "contest_id": 1070,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1070/A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Find a Number",
+    "problem_url": "https://codeforces.com/contest/1070/problem/A",
+    "submission_id": "CF262809152",
+    "submission_url": "https://codeforces.com/contest/1070/submission/262809152",
+    "tags": [
+      "dp",
+      "graphs",
+      "number theory",
+      "shortest paths",
+      "*2200"
+    ],
+    "timestamp": "May/27/2024 05:59"
+  },
   "CF262809164": {
     "contest_id": 1627,
     "language": "C++20 (GCC 13-64)",
