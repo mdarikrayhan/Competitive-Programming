@@ -23393,6 +23393,23 @@
     ],
     "timestamp": "May/17/2024 08:26"
   },
+  "CF262804014": {
+    "contest_id": 725,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/725/D.cpp",
+    "platform": "Codeforces",
+    "problem_index": "D",
+    "problem_name": "Contest Balloons",
+    "problem_url": "https://codeforces.com/contest/725/problem/D",
+    "submission_id": "CF262804014",
+    "submission_url": "https://codeforces.com/contest/725/submission/262804014",
+    "tags": [
+      "data structures",
+      "greedy",
+      "*1800"
+    ],
+    "timestamp": "May/27/2024 03:39"
+  },
   "CF262804019": {
     "contest_id": 1748,
     "language": "C++20 (GCC 13-64)",
