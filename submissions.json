@@ -49542,6 +49542,23 @@
     ],
     "timestamp": "May/27/2024 04:04"
   },
+  "CF262806099": {
+    "contest_id": 691,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/691/C.cpp",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Exponential notation",
+    "problem_url": "https://codeforces.com/contest/691/problem/C",
+    "submission_id": "CF262806099",
+    "submission_url": "https://codeforces.com/contest/691/submission/262806099",
+    "tags": [
+      "implementation",
+      "strings",
+      "*1800"
+    ],
+    "timestamp": "May/27/2024 04:27"
+  },
   "CF262806100": {
     "contest_id": 190,
     "language": "C++20 (GCC 13-64)",
