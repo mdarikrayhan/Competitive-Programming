@@ -1,33 +1,40 @@
 #include <bits/stdc++.h>
 using namespace std;
-#define mod 1000000007
- 
-int n;
-long long ans;
-vector<vector<int>> to;
-int dfs(int x,int fa){
-	int re=1;
-	for(int y:to[x])if(y!=fa)
-		re=max(re,dfs(y,x)+1);
-	ans+=re;
-	return re;
+#define endl  "\n"
+#define int long long
+void dfs(int root,int par,vector<int> adj[],vector<int>& dp,int& ans){
+    for(auto it:adj[root]){
+        if(it != par){
+            dfs(it,root,adj,dp,ans);
+            dp[root]=max(dp[root],dp[it]+1);
+        }
+    }
+    ans+=dp[root];
 }
- 
-int main()
-{
-	int T;cin>>T;while(T--){
-		cin>>n;ans=0;
-		to.resize(n+1);
-		for(int i=1;i<=n;i++)
-			to[i].clear();
-		for(int i=1;i<n;i++){
-			int x,y;cin>>x>>y;
-			to[x].push_back(y);
-			to[y].push_back(x);
-		}
-		dfs(1,0);
-		for(int i=1;i<n;i++)
-			ans=2ll*ans%mod;
-		cout<<ans<<'\n';
-	}
+signed main(){
+    ios::sync_with_stdio(false);
+    cin.tie(0); cout.tie(0);
+    int t;
+    cin >> t;
+    while(t--){
+        int n;
+        cin >> n;
+        int mod=1e9+7;
+        vector<int>adj[n+1],dp(n+1,1);
+        for(int i=0;i<n-1;i++){
+            int u,v;
+            cin >> u >> v;
+            adj[u].push_back(v);
+            adj[v].push_back(u);
+        }
+        int ans=0;
+        dfs(1,-1,adj,dp,ans);
+        for(int i=0;i<n-1;i++){
+            ans=(ans%mod*2%mod)%mod;
+        }
+        cout << ans%mod << endl;
+
+
+    }
+
 }
