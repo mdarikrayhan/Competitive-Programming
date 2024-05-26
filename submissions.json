@@ -59019,6 +59019,24 @@
     ],
     "timestamp": "May/27/2024 03:56"
   },
+  "CF262804931": {
+    "contest_id": 1920,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1920/E.cpp",
+    "platform": "Codeforces",
+    "problem_index": "E",
+    "problem_name": "Counting Binary Strings",
+    "problem_url": "https://codeforces.com/contest/1920/problem/E",
+    "submission_id": "CF262804931",
+    "submission_url": "https://codeforces.com/contest/1920/submission/262804931",
+    "tags": [
+      "combinatorics",
+      "dp",
+      "math",
+      "*2100"
+    ],
+    "timestamp": "May/27/2024 03:59"
+  },
   "CF262804933": {
     "contest_id": 609,
     "language": "C++20 (GCC 13-64)",
