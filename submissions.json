@@ -49542,6 +49542,24 @@
     ],
     "timestamp": "May/27/2024 04:04"
   },
+  "CF262808677": {
+    "contest_id": 1152,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1152/D.cpp",
+    "platform": "Codeforces",
+    "problem_index": "D",
+    "problem_name": "Neko and Aki's Prank",
+    "problem_url": "https://codeforces.com/contest/1152/problem/D",
+    "submission_id": "CF262808677",
+    "submission_url": "https://codeforces.com/contest/1152/submission/262808677",
+    "tags": [
+      "dp",
+      "greedy",
+      "trees",
+      "*2100"
+    ],
+    "timestamp": "May/27/2024 05:45"
+  },
   "CF262808681": {
     "contest_id": 1537,
     "language": "C++20 (GCC 13-64)",
