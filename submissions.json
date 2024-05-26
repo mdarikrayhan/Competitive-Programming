@@ -59036,6 +59036,22 @@
     ],
     "timestamp": "May/27/2024 03:59"
   },
+  "CF262804950": {
+    "contest_id": 39,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/39/B.cpp",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Company Income Growth",
+    "problem_url": "https://codeforces.com/contest/39/problem/B",
+    "submission_id": "CF262804950",
+    "submission_url": "https://codeforces.com/contest/39/submission/262804950",
+    "tags": [
+      "greedy",
+      "*1300"
+    ],
+    "timestamp": "May/27/2024 04:00"
+  },
   "CF262804952": {
     "contest_id": 1616,
     "language": "C++20 (GCC 13-64)",
