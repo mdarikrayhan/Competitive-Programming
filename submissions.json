@@ -49542,6 +49542,23 @@
     ],
     "timestamp": "May/27/2024 04:04"
   },
+  "CF262806737": {
+    "contest_id": 108,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/108/B.cpp",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Datatypes",
+    "problem_url": "https://codeforces.com/contest/108/problem/B",
+    "submission_id": "CF262806737",
+    "submission_url": "https://codeforces.com/contest/108/submission/262806737",
+    "tags": [
+      "math",
+      "sortings",
+      "*1400"
+    ],
+    "timestamp": "May/27/2024 04:43"
+  },
   "CF262806738": {
     "contest_id": 1401,
     "language": "C++20 (GCC 13-64)",
