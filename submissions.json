@@ -59019,6 +59019,24 @@
     ],
     "timestamp": "May/27/2024 03:56"
   },
+  "CF262804876": {
+    "contest_id": 1396,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1396/C.cpp",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Monster Invaders",
+    "problem_url": "https://codeforces.com/contest/1396/problem/C",
+    "submission_id": "CF262804876",
+    "submission_url": "https://codeforces.com/contest/1396/submission/262804876",
+    "tags": [
+      "dp",
+      "greedy",
+      "implementation",
+      "*2300"
+    ],
+    "timestamp": "May/27/2024 03:58"
+  },
   "CF262804913": {
     "contest_id": 633,
     "language": "C++20 (GCC 13-64)",
