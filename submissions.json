@@ -49542,6 +49542,24 @@
     ],
     "timestamp": "May/27/2024 04:04"
   },
+  "CF262805750": {
+    "contest_id": 571,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/571/B.cpp",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Minimization",
+    "problem_url": "https://codeforces.com/contest/571/problem/B",
+    "submission_id": "CF262805750",
+    "submission_url": "https://codeforces.com/contest/571/submission/262805750",
+    "tags": [
+      "dp",
+      "greedy",
+      "sortings",
+      "*2000"
+    ],
+    "timestamp": "May/27/2024 04:18"
+  },
   "CF262805751": {
     "contest_id": 1061,
     "language": "C++20 (GCC 13-64)",
