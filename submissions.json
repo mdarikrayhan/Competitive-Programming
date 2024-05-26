@@ -23393,6 +23393,22 @@
     ],
     "timestamp": "May/17/2024 08:26"
   },
+  "CF262803791": {
+    "contest_id": 1912,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1912/D.cpp",
+    "platform": "Codeforces",
+    "problem_index": "D",
+    "problem_name": "Divisibility Test",
+    "problem_url": "https://codeforces.com/contest/1912/problem/D",
+    "submission_id": "CF262803791",
+    "submission_url": "https://codeforces.com/contest/1912/submission/262803791",
+    "tags": [
+      "math",
+      "*1900"
+    ],
+    "timestamp": "May/27/2024 03:34"
+  },
   "CF262803807": {
     "contest_id": 1912,
     "language": "C++20 (GCC 13-64)",
