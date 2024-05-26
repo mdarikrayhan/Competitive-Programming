@@ -60364,6 +60364,24 @@
     ],
     "timestamp": "May/27/2024 04:29"
   },
+  "CF262806212": {
+    "contest_id": 1557,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1557/D.cpp",
+    "platform": "Codeforces",
+    "problem_index": "D",
+    "problem_name": "Ezzat and Grid",
+    "problem_url": "https://codeforces.com/contest/1557/problem/D",
+    "submission_id": "CF262806212",
+    "submission_url": "https://codeforces.com/contest/1557/submission/262806212",
+    "tags": [
+      "data structures",
+      "dp",
+      "greedy",
+      "*2200"
+    ],
+    "timestamp": "May/27/2024 04:29"
+  },
   "CF262806274": {
     "contest_id": 1709,
     "language": "C++20 (GCC 13-64)",
