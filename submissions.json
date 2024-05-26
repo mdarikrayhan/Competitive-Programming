@@ -49542,6 +49542,23 @@
     ],
     "timestamp": "May/27/2024 04:04"
   },
+  "CF262806074": {
+    "contest_id": 113,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/113/A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Grammar Lessons",
+    "problem_url": "https://codeforces.com/contest/113/problem/A",
+    "submission_id": "CF262806074",
+    "submission_url": "https://codeforces.com/contest/113/submission/262806074",
+    "tags": [
+      "implementation",
+      "strings",
+      "*1600"
+    ],
+    "timestamp": "May/27/2024 04:26"
+  },
   "CF262806080": {
     "contest_id": 38,
     "language": "C++20 (GCC 13-64)",
