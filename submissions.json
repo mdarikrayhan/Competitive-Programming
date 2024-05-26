@@ -49542,6 +49542,24 @@
     ],
     "timestamp": "May/27/2024 04:04"
   },
+  "CF262806670": {
+    "contest_id": 373,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/373/B.cpp",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Making Sequences is Fun",
+    "problem_url": "https://codeforces.com/contest/373/problem/B",
+    "submission_id": "CF262806670",
+    "submission_url": "https://codeforces.com/contest/373/submission/262806670",
+    "tags": [
+      "binary search",
+      "implementation",
+      "math",
+      "*1600"
+    ],
+    "timestamp": "May/27/2024 04:41"
+  },
   "CF262806673": {
     "contest_id": 353,
     "language": "C++20 (GCC 13-64)",
