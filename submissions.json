@@ -59456,6 +59456,26 @@
     ],
     "timestamp": "May/27/2024 04:09"
   },
+  "CF262805392": {
+    "contest_id": 603,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/603/B.cpp",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Moodular Arithmetic",
+    "problem_url": "https://codeforces.com/contest/603/problem/B",
+    "submission_id": "CF262805392",
+    "submission_url": "https://codeforces.com/contest/603/submission/262805392",
+    "tags": [
+      "combinatorics",
+      "dfs and similar",
+      "dsu",
+      "math",
+      "number theory",
+      "*1800"
+    ],
+    "timestamp": "May/27/2024 04:10"
+  },
   "CF262805401": {
     "contest_id": 1641,
     "language": "C++20 (GCC 13-64)",
