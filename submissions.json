@@ -23393,6 +23393,23 @@
     ],
     "timestamp": "May/17/2024 08:26"
   },
+  "CF262803584": {
+    "contest_id": 847,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/847/E.cpp",
+    "platform": "Codeforces",
+    "problem_index": "E",
+    "problem_name": "Packmen",
+    "problem_url": "https://codeforces.com/contest/847/problem/E",
+    "submission_id": "CF262803584",
+    "submission_url": "https://codeforces.com/contest/847/submission/262803584",
+    "tags": [
+      "binary search",
+      "dp",
+      "*1800"
+    ],
+    "timestamp": "May/27/2024 03:31"
+  },
   "CF262803588": {
     "contest_id": 847,
     "language": "C++20 (GCC 13-64)",
