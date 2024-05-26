@@ -59456,6 +59456,24 @@
     ],
     "timestamp": "May/27/2024 04:09"
   },
+  "CF262805377": {
+    "contest_id": 653,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/653/D.cpp",
+    "platform": "Codeforces",
+    "problem_index": "D",
+    "problem_name": "Delivery Bears",
+    "problem_url": "https://codeforces.com/contest/653/problem/D",
+    "submission_id": "CF262805377",
+    "submission_url": "https://codeforces.com/contest/653/submission/262805377",
+    "tags": [
+      "binary search",
+      "flows",
+      "graphs",
+      "*2200"
+    ],
+    "timestamp": "May/27/2024 04:09"
+  },
   "CF262805392": {
     "contest_id": 603,
     "language": "C++20 (GCC 13-64)",
