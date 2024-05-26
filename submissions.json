@@ -49542,6 +49542,25 @@
     ],
     "timestamp": "May/27/2024 04:04"
   },
+  "CF262805897": {
+    "contest_id": 118,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/118/C.cpp",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Fancy Number",
+    "problem_url": "https://codeforces.com/contest/118/problem/C",
+    "submission_id": "CF262805897",
+    "submission_url": "https://codeforces.com/contest/118/submission/262805897",
+    "tags": [
+      "brute force",
+      "greedy",
+      "sortings",
+      "strings",
+      "*1900"
+    ],
+    "timestamp": "May/27/2024 04:22"
+  },
   "CF262805910": {
     "contest_id": 1725,
     "language": "C++20 (GCC 13-64)",
