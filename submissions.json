@@ -49542,6 +49542,22 @@
     ],
     "timestamp": "May/27/2024 04:04"
   },
+  "CF262805671": {
+    "contest_id": 435,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/435/C.cpp",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Cardiogram",
+    "problem_url": "https://codeforces.com/contest/435/problem/C",
+    "submission_id": "CF262805671",
+    "submission_url": "https://codeforces.com/contest/435/submission/262805671",
+    "tags": [
+      "implementation",
+      "*1600"
+    ],
+    "timestamp": "May/27/2024 04:16"
+  },
   "CF262805691": {
     "contest_id": 935,
     "language": "C++20 (GCC 13-64)",
