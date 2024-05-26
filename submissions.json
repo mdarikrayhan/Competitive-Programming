@@ -57725,6 +57725,24 @@
     ],
     "timestamp": "May/26/2024 06:26"
   },
+  "CF262632946": {
+    "contest_id": 1932,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1932/F.cpp",
+    "platform": "Codeforces",
+    "problem_index": "F",
+    "problem_name": "Feed Cats",
+    "problem_url": "https://codeforces.com/contest/1932/problem/F",
+    "submission_id": "CF262632946",
+    "submission_url": "https://codeforces.com/contest/1932/submission/262632946",
+    "tags": [
+      "data structures",
+      "dp",
+      "sortings",
+      "*1900"
+    ],
+    "timestamp": "May/26/2024 06:29"
+  },
   "CF262632950": {
     "contest_id": 1677,
     "language": "C++20 (GCC 13-64)",
