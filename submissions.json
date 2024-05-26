@@ -23393,6 +23393,28 @@
     ],
     "timestamp": "May/17/2024 08:26"
   },
+  "CF262804200": {
+    "contest_id": 1671,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1671/E.cpp",
+    "platform": "Codeforces",
+    "problem_index": "E",
+    "problem_name": "Preorder",
+    "problem_url": "https://codeforces.com/contest/1671/problem/E",
+    "submission_id": "CF262804200",
+    "submission_url": "https://codeforces.com/contest/1671/submission/262804200",
+    "tags": [
+      "combinatorics",
+      "divide and conquer",
+      "dp",
+      "dsu",
+      "hashing",
+      "sortings",
+      "trees",
+      "*2100"
+    ],
+    "timestamp": "May/27/2024 03:43"
+  },
   "CF262804236": {
     "contest_id": 1154,
     "language": "C++20 (GCC 13-64)",
