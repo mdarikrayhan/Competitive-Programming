@@ -57725,6 +57725,25 @@
     ],
     "timestamp": "May/26/2024 06:26"
   },
+  "CF262632932": {
+    "contest_id": 1943,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1943/B.cpp",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Non-Palindromic Substring",
+    "problem_url": "https://codeforces.com/contest/1943/problem/B",
+    "submission_id": "CF262632932",
+    "submission_url": "https://codeforces.com/contest/1943/submission/262632932",
+    "tags": [
+      "hashing",
+      "implementation",
+      "math",
+      "strings",
+      "*2000"
+    ],
+    "timestamp": "May/26/2024 06:28"
+  },
   "CF262632946": {
     "contest_id": 1932,
     "language": "C++20 (GCC 13-64)",
