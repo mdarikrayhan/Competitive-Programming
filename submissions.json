@@ -49542,6 +49542,24 @@
     ],
     "timestamp": "May/27/2024 04:04"
   },
+  "CF262808868": {
+    "contest_id": 1216,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1216/F.cpp",
+    "platform": "Codeforces",
+    "problem_index": "F",
+    "problem_name": "Wi-Fi",
+    "problem_url": "https://codeforces.com/contest/1216/problem/F",
+    "submission_id": "CF262808868",
+    "submission_url": "https://codeforces.com/contest/1216/submission/262808868",
+    "tags": [
+      "data structures",
+      "dp",
+      "greedy",
+      "*2100"
+    ],
+    "timestamp": "May/27/2024 05:51"
+  },
   "CF262808874": {
     "contest_id": 1106,
     "language": "C++20 (GCC 13-64)",
