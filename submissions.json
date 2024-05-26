@@ -49542,6 +49542,22 @@
     ],
     "timestamp": "May/27/2024 04:04"
   },
+  "CF262806362": {
+    "contest_id": 755,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/755/D.cpp",
+    "platform": "Codeforces",
+    "problem_index": "D",
+    "problem_name": "PolandBall and Polygon",
+    "problem_url": "https://codeforces.com/contest/755/problem/D",
+    "submission_id": "CF262806362",
+    "submission_url": "https://codeforces.com/contest/755/submission/262806362",
+    "tags": [
+      "data structures",
+      "*2000"
+    ],
+    "timestamp": "May/27/2024 04:33"
+  },
   "CF262806375": {
     "contest_id": 568,
     "language": "C++20 (GCC 13-64)",
