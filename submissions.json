@@ -23393,6 +23393,23 @@
     ],
     "timestamp": "May/17/2024 08:26"
   },
+  "CF262632713": {
+    "contest_id": 1975,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1975/H.cpp",
+    "platform": "Codeforces",
+    "problem_index": "H",
+    "problem_name": "378QAQ and Core",
+    "problem_url": "https://codeforces.com/contest/1975/problem/H",
+    "submission_id": "CF262632713",
+    "submission_url": "https://codeforces.com/contest/1975/submission/262632713",
+    "tags": [
+      "greedy",
+      "strings",
+      "*3500"
+    ],
+    "timestamp": "May/26/2024 06:21"
+  },
   "CF262632764": {
     "contest_id": 1975,
     "language": "C++20 (GCC 13-64)",
