@@ -48085,6 +48085,26 @@
     ],
     "timestamp": "May/26/2024 06:22"
   },
+  "CF262632838": {
+    "contest_id": 1687,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1687/B.cpp",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Railway System",
+    "problem_url": "https://codeforces.com/contest/1687/problem/B",
+    "submission_id": "CF262632838",
+    "submission_url": "https://codeforces.com/contest/1687/submission/262632838",
+    "tags": [
+      "constructive algorithms",
+      "graphs",
+      "greedy",
+      "interactive",
+      "sortings",
+      "*1700"
+    ],
+    "timestamp": "May/26/2024 06:25"
+  },
   "CF262632842": {
     "contest_id": 91,
     "language": "C++20 (GCC 13-64)",
