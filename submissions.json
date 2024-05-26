@@ -48085,6 +48085,25 @@
     ],
     "timestamp": "May/26/2024 06:22"
   },
+  "CF262632770": {
+    "contest_id": 1975,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1975/G.cpp",
+    "platform": "Codeforces",
+    "problem_index": "G",
+    "problem_name": "Zimpha Fan Club",
+    "problem_url": "https://codeforces.com/contest/1975/problem/G",
+    "submission_id": "CF262632770",
+    "submission_url": "https://codeforces.com/contest/1975/submission/262632770",
+    "tags": [
+      "fft",
+      "greedy",
+      "math",
+      "strings",
+      "*3000"
+    ],
+    "timestamp": "May/26/2024 06:22"
+  },
   "CF262632838": {
     "contest_id": 1687,
     "language": "C++20 (GCC 13-64)",
