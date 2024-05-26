@@ -49542,6 +49542,28 @@
     ],
     "timestamp": "May/27/2024 04:04"
   },
+  "CF262808728": {
+    "contest_id": 1710,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1710/B.cpp",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Rain",
+    "problem_url": "https://codeforces.com/contest/1710/problem/B",
+    "submission_id": "CF262808728",
+    "submission_url": "https://codeforces.com/contest/1710/submission/262808728",
+    "tags": [
+      "binary search",
+      "brute force",
+      "data structures",
+      "geometry",
+      "greedy",
+      "implementation",
+      "math",
+      "*2100"
+    ],
+    "timestamp": "May/27/2024 05:47"
+  },
   "CF262808761": {
     "contest_id": 891,
     "language": "C++20 (GCC 13-64)",
