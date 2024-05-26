@@ -57725,6 +57725,24 @@
     ],
     "timestamp": "May/26/2024 06:26"
   },
+  "CF262633251": {
+    "contest_id": 1637,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1637/E.cpp",
+    "platform": "Codeforces",
+    "problem_index": "E",
+    "problem_name": "Best Pair",
+    "problem_url": "https://codeforces.com/contest/1637/problem/E",
+    "submission_id": "CF262633251",
+    "submission_url": "https://codeforces.com/contest/1637/submission/262633251",
+    "tags": [
+      "binary search",
+      "brute force",
+      "implementation",
+      "*2100"
+    ],
+    "timestamp": "May/26/2024 06:38"
+  },
   "CF262633257": {
     "contest_id": 825,
     "language": "C++20 (GCC 13-64)",
