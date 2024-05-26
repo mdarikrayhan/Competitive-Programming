@@ -59510,6 +59510,26 @@
     ],
     "timestamp": "May/27/2024 04:13"
   },
+  "CF262805618": {
+    "contest_id": 253,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/253/C.cpp",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Text Editor",
+    "problem_url": "https://codeforces.com/contest/253/problem/C",
+    "submission_id": "CF262805618",
+    "submission_url": "https://codeforces.com/contest/253/submission/262805618",
+    "tags": [
+      "data structures",
+      "dfs and similar",
+      "graphs",
+      "greedy",
+      "shortest paths",
+      "*1600"
+    ],
+    "timestamp": "May/27/2024 04:15"
+  },
   "CF262805619": {
     "contest_id": 1371,
     "language": "C++20 (GCC 13-64)",
