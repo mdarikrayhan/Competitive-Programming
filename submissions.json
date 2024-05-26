@@ -49542,6 +49542,24 @@
     ],
     "timestamp": "May/27/2024 04:04"
   },
+  "CF262805856": {
+    "contest_id": 335,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/335/A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Banana",
+    "problem_url": "https://codeforces.com/contest/335/problem/A",
+    "submission_id": "CF262805856",
+    "submission_url": "https://codeforces.com/contest/335/submission/262805856",
+    "tags": [
+      "binary search",
+      "constructive algorithms",
+      "greedy",
+      "*1400"
+    ],
+    "timestamp": "May/27/2024 04:21"
+  },
   "CF262805860": {
     "contest_id": 1974,
     "language": "C++20 (GCC 13-64)",
