@@ -59456,6 +59456,24 @@
     ],
     "timestamp": "May/27/2024 04:09"
   },
+  "CF262805439": {
+    "contest_id": 1228,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1228/E.cpp",
+    "platform": "Codeforces",
+    "problem_index": "E",
+    "problem_name": "Another Filling the Grid",
+    "problem_url": "https://codeforces.com/contest/1228/problem/E",
+    "submission_id": "CF262805439",
+    "submission_url": "https://codeforces.com/contest/1228/submission/262805439",
+    "tags": [
+      "combinatorics",
+      "dp",
+      "math",
+      "*2300"
+    ],
+    "timestamp": "May/27/2024 04:11"
+  },
   "CF262805444": {
     "contest_id": 702,
     "language": "C++20 (GCC 13-64)",
