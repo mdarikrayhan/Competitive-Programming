@@ -23393,6 +23393,22 @@
     ],
     "timestamp": "May/17/2024 08:26"
   },
+  "CF262809036": {
+    "contest_id": 1184,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1184/C1.cpp",
+    "platform": "Codeforces",
+    "problem_index": "C1",
+    "problem_name": "Heidi and the Turing Test (Easy)",
+    "problem_url": "https://codeforces.com/contest/1184/problem/C1",
+    "submission_id": "CF262809036",
+    "submission_url": "https://codeforces.com/contest/1184/submission/262809036",
+    "tags": [
+      "implementation",
+      "*1600"
+    ],
+    "timestamp": "May/27/2024 05:56"
+  },
   "CF262809055": {
     "contest_id": 1248,
     "language": "C++20 (GCC 13-64)",
