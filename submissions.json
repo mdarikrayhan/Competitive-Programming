@@ -49797,6 +49797,24 @@
     ],
     "timestamp": "May/27/2024 05:57"
   },
+  "CF262809064": {
+    "contest_id": 526,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/526/C.cpp",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Om Nom and Candies",
+    "problem_url": "https://codeforces.com/contest/526/problem/C",
+    "submission_id": "CF262809064",
+    "submission_url": "https://codeforces.com/contest/526/submission/262809064",
+    "tags": [
+      "brute force",
+      "greedy",
+      "math",
+      "*2000"
+    ],
+    "timestamp": "May/27/2024 05:57"
+  },
   "CF262809073": {
     "contest_id": 1821,
     "language": "C++20 (GCC 13-64)",
