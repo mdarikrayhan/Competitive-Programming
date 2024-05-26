@@ -49542,6 +49542,23 @@
     ],
     "timestamp": "May/27/2024 04:04"
   },
+  "CF262808826": {
+    "contest_id": 846,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/846/D.cpp",
+    "platform": "Codeforces",
+    "problem_index": "D",
+    "problem_name": "Monitor",
+    "problem_url": "https://codeforces.com/contest/846/problem/D",
+    "submission_id": "CF262808826",
+    "submission_url": "https://codeforces.com/contest/846/submission/262808826",
+    "tags": [
+      "binary search",
+      "data structures",
+      "*1900"
+    ],
+    "timestamp": "May/27/2024 05:50"
+  },
   "CF262808829": {
     "contest_id": 1536,
     "language": "C++20 (GCC 13-64)",
