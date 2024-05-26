@@ -23393,6 +23393,28 @@
     ],
     "timestamp": "May/17/2024 08:26"
   },
+  "CF262632764": {
+    "contest_id": 1975,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1975/F.cpp",
+    "platform": "Codeforces",
+    "problem_index": "F",
+    "problem_name": "Set",
+    "problem_url": "https://codeforces.com/contest/1975/problem/F",
+    "submission_id": "CF262632764",
+    "submission_url": "https://codeforces.com/contest/1975/submission/262632764",
+    "tags": [
+      "bitmasks",
+      "brute force",
+      "combinatorics",
+      "dfs and similar",
+      "divide and conquer",
+      "dp",
+      "math",
+      "*2600"
+    ],
+    "timestamp": "May/26/2024 06:22"
+  },
   "CF262803298": {
     "contest_id": 1731,
     "language": "C++20 (GCC 13-64)",
