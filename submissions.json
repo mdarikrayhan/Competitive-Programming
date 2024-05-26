@@ -49542,6 +49542,24 @@
     ],
     "timestamp": "May/27/2024 04:04"
   },
+  "CF262806767": {
+    "contest_id": 765,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/765/D.cpp",
+    "platform": "Codeforces",
+    "problem_index": "D",
+    "problem_name": "Artsem and Saunders",
+    "problem_url": "https://codeforces.com/contest/765/problem/D",
+    "submission_id": "CF262806767",
+    "submission_url": "https://codeforces.com/contest/765/submission/262806767",
+    "tags": [
+      "constructive algorithms",
+      "dsu",
+      "math",
+      "*1700"
+    ],
+    "timestamp": "May/27/2024 04:44"
+  },
   "CF262806772": {
     "contest_id": 1583,
     "language": "C++20 (GCC 13-64)",
