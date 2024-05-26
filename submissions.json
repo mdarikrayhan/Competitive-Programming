@@ -57725,6 +57725,21 @@
     ],
     "timestamp": "May/26/2024 06:26"
   },
+  "CF262632916": {
+    "contest_id": 390,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/390/A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Inna and Alarm Clock",
+    "problem_url": "https://codeforces.com/contest/390/problem/A",
+    "submission_id": "CF262632916",
+    "submission_url": "https://codeforces.com/contest/390/submission/262632916",
+    "tags": [
+      "implementation"
+    ],
+    "timestamp": "May/26/2024 06:27"
+  },
   "CF262632927": {
     "contest_id": 718,
     "language": "C++20 (GCC 13-64)",
