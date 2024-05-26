@@ -49542,6 +49542,24 @@
     ],
     "timestamp": "May/27/2024 04:04"
   },
+  "CF262806609": {
+    "contest_id": 1839,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1839/D.cpp",
+    "platform": "Codeforces",
+    "problem_index": "D",
+    "problem_name": "Ball Sorting",
+    "problem_url": "https://codeforces.com/contest/1839/problem/D",
+    "submission_id": "CF262806609",
+    "submission_url": "https://codeforces.com/contest/1839/submission/262806609",
+    "tags": [
+      "data structures",
+      "dp",
+      "sortings",
+      "*2100"
+    ],
+    "timestamp": "May/27/2024 04:39"
+  },
   "CF262806614": {
     "contest_id": 1384,
     "language": "C++20 (GCC 13-64)",
