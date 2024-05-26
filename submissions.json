@@ -49542,6 +49542,26 @@
     ],
     "timestamp": "May/27/2024 04:04"
   },
+  "CF262808819": {
+    "contest_id": 1593,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1593/F.cpp",
+    "platform": "Codeforces",
+    "problem_index": "F",
+    "problem_name": "Red-Black Number",
+    "problem_url": "https://codeforces.com/contest/1593/problem/F",
+    "submission_id": "CF262808819",
+    "submission_url": "https://codeforces.com/contest/1593/submission/262808819",
+    "tags": [
+      "dfs and similar",
+      "dp",
+      "implementation",
+      "math",
+      "meet-in-the-middle",
+      "*2100"
+    ],
+    "timestamp": "May/27/2024 05:50"
+  },
   "CF262808826": {
     "contest_id": 846,
     "language": "C++20 (GCC 13-64)",
