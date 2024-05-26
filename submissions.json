@@ -49542,6 +49542,24 @@
     ],
     "timestamp": "May/27/2024 04:04"
   },
+  "CF262806410": {
+    "contest_id": 1931,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1931/G.cpp",
+    "platform": "Codeforces",
+    "problem_index": "G",
+    "problem_name": "One-Dimensional Puzzle",
+    "problem_url": "https://codeforces.com/contest/1931/problem/G",
+    "submission_id": "CF262806410",
+    "submission_url": "https://codeforces.com/contest/1931/submission/262806410",
+    "tags": [
+      "combinatorics",
+      "math",
+      "number theory",
+      "*2000"
+    ],
+    "timestamp": "May/27/2024 04:34"
+  },
   "CF262806427": {
     "contest_id": 1511,
     "language": "C++20 (GCC 13-64)",
