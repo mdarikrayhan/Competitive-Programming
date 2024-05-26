@@ -59493,6 +59493,23 @@
     ],
     "timestamp": "May/27/2024 04:12"
   },
+  "CF262805524": {
+    "contest_id": 1767,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1767/C.cpp",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Count Binary Strings",
+    "problem_url": "https://codeforces.com/contest/1767/problem/C",
+    "submission_id": "CF262805524",
+    "submission_url": "https://codeforces.com/contest/1767/submission/262805524",
+    "tags": [
+      "data structures",
+      "dp",
+      "*2100"
+    ],
+    "timestamp": "May/27/2024 04:13"
+  },
   "CF262805536": {
     "contest_id": 413,
     "language": "C++20 (GCC 13-64)",
