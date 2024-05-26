@@ -23393,6 +23393,26 @@
     ],
     "timestamp": "May/17/2024 08:26"
   },
+  "CF262804046": {
+    "contest_id": 1948,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1948/E.cpp",
+    "platform": "Codeforces",
+    "problem_index": "E",
+    "problem_name": "Clique Partition",
+    "problem_url": "https://codeforces.com/contest/1948/problem/E",
+    "submission_id": "CF262804046",
+    "submission_url": "https://codeforces.com/contest/1948/submission/262804046",
+    "tags": [
+      "brute force",
+      "constructive algorithms",
+      "graphs",
+      "greedy",
+      "implementation",
+      "*2100"
+    ],
+    "timestamp": "May/27/2024 03:39"
+  },
   "CF262804065": {
     "contest_id": 633,
     "language": "C++20 (GCC 13-64)",
