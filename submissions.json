@@ -57725,6 +57725,22 @@
     ],
     "timestamp": "May/26/2024 06:26"
   },
+  "CF262633405": {
+    "contest_id": 1784,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1784/B.cpp",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Letter Exchange",
+    "problem_url": "https://codeforces.com/contest/1784/problem/B",
+    "submission_id": "CF262633405",
+    "submission_url": "https://codeforces.com/contest/1784/submission/262633405",
+    "tags": [
+      "constructive algorithms",
+      "*1900"
+    ],
+    "timestamp": "May/26/2024 06:43"
+  },
   "CF262633453": {
     "contest_id": 59,
     "language": "C++20 (GCC 13-64)",
