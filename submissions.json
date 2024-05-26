@@ -23393,6 +23393,24 @@
     ],
     "timestamp": "May/17/2024 08:26"
   },
+  "CF262804464": {
+    "contest_id": 741,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/741/D.cpp",
+    "platform": "Codeforces",
+    "problem_index": "D",
+    "problem_name": "Arpa\u2019s letter-marked tree and Mehrdad\u2019s Dokhtar-kosh paths",
+    "problem_url": "https://codeforces.com/contest/741/problem/D",
+    "submission_id": "CF262804464",
+    "submission_url": "https://codeforces.com/contest/741/submission/262804464",
+    "tags": [
+      "data structures",
+      "dfs and similar",
+      "trees",
+      "*2900"
+    ],
+    "timestamp": "May/27/2024 03:49"
+  },
   "CF262804477": {
     "contest_id": 1067,
     "language": "C++20 (GCC 13-64)",
