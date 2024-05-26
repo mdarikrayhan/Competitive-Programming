@@ -49542,6 +49542,22 @@
     ],
     "timestamp": "May/27/2024 04:04"
   },
+  "CF262808560": {
+    "contest_id": 691,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/691/E.cpp",
+    "platform": "Codeforces",
+    "problem_index": "E",
+    "problem_name": "Xor-sequences",
+    "problem_url": "https://codeforces.com/contest/691/problem/E",
+    "submission_id": "CF262808560",
+    "submission_url": "https://codeforces.com/contest/691/submission/262808560",
+    "tags": [
+      "matrices",
+      "*1900"
+    ],
+    "timestamp": "May/27/2024 05:41"
+  },
   "CF262808567": {
     "contest_id": 741,
     "language": "C++20 (GCC 13-64)",
