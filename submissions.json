@@ -57725,6 +57725,21 @@
     ],
     "timestamp": "May/26/2024 06:26"
   },
+  "CF262634493": {
+    "contest_id": 690,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/690/A1.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A1",
+    "problem_name": "Collective Mindsets (easy)",
+    "problem_url": "https://codeforces.com/contest/690/problem/A1",
+    "submission_id": "CF262634493",
+    "submission_url": "https://codeforces.com/contest/690/submission/262634493",
+    "tags": [
+      "*1100"
+    ],
+    "timestamp": "May/26/2024 07:13"
+  },
   "CF262634505": {
     "contest_id": 1088,
     "language": "C++20 (GCC 13-64)",
