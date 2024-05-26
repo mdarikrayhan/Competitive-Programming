@@ -49542,6 +49542,25 @@
     ],
     "timestamp": "May/27/2024 04:04"
   },
+  "CF262805180": {
+    "contest_id": 1108,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1108/F.cpp",
+    "platform": "Codeforces",
+    "problem_index": "F",
+    "problem_name": "MST Unification",
+    "problem_url": "https://codeforces.com/contest/1108/problem/F",
+    "submission_id": "CF262805180",
+    "submission_url": "https://codeforces.com/contest/1108/submission/262805180",
+    "tags": [
+      "binary search",
+      "dsu",
+      "graphs",
+      "greedy",
+      "*2100"
+    ],
+    "timestamp": "May/27/2024 04:05"
+  },
   "CF262805182": {
     "contest_id": 141,
     "language": "C++20 (GCC 13-64)",
