@@ -59510,6 +59510,23 @@
     ],
     "timestamp": "May/27/2024 04:13"
   },
+  "CF262805640": {
+    "contest_id": 749,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/749/D.cpp",
+    "platform": "Codeforces",
+    "problem_index": "D",
+    "problem_name": "Leaving Auction",
+    "problem_url": "https://codeforces.com/contest/749/problem/D",
+    "submission_id": "CF262805640",
+    "submission_url": "https://codeforces.com/contest/749/submission/262805640",
+    "tags": [
+      "binary search",
+      "data structures",
+      "*2000"
+    ],
+    "timestamp": "May/27/2024 04:15"
+  },
   "CF262805649": {
     "contest_id": 468,
     "language": "C++20 (GCC 13-64)",
