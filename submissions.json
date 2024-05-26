@@ -49542,6 +49542,22 @@
     ],
     "timestamp": "May/27/2024 04:04"
   },
+  "CF262805226": {
+    "contest_id": 999,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/999/F.cpp",
+    "platform": "Codeforces",
+    "problem_index": "F",
+    "problem_name": "Cards and Joy",
+    "problem_url": "https://codeforces.com/contest/999/problem/F",
+    "submission_id": "CF262805226",
+    "submission_url": "https://codeforces.com/contest/999/submission/262805226",
+    "tags": [
+      "dp",
+      "*2000"
+    ],
+    "timestamp": "May/27/2024 04:06"
+  },
   "CF262805237": {
     "contest_id": 1761,
     "language": "C++20 (GCC 13-64)",
