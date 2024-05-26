@@ -23393,6 +23393,28 @@
     ],
     "timestamp": "May/17/2024 08:26"
   },
+  "CF262804349": {
+    "contest_id": 1942,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1942/D.cpp",
+    "platform": "Codeforces",
+    "problem_index": "D",
+    "problem_name": "Learning to Paint",
+    "problem_url": "https://codeforces.com/contest/1942/problem/D",
+    "submission_id": "CF262804349",
+    "submission_url": "https://codeforces.com/contest/1942/submission/262804349",
+    "tags": [
+      "binary search",
+      "data structures",
+      "dfs and similar",
+      "dp",
+      "greedy",
+      "implementation",
+      "sortings",
+      "*2100"
+    ],
+    "timestamp": "May/27/2024 03:46"
+  },
   "CF262804351": {
     "contest_id": 163,
     "language": "C++20 (GCC 13-64)",
