@@ -23393,6 +23393,26 @@
     ],
     "timestamp": "May/17/2024 08:26"
   },
+  "CF262803688": {
+    "contest_id": 847,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/847/L.cpp",
+    "platform": "Codeforces",
+    "problem_index": "L",
+    "problem_name": "Berland SU Computer Network",
+    "problem_url": "https://codeforces.com/contest/847/problem/L",
+    "submission_id": "CF262803688",
+    "submission_url": "https://codeforces.com/contest/847/submission/262803688",
+    "tags": [
+      "constructive algorithms",
+      "dfs and similar",
+      "graphs",
+      "hashing",
+      "trees",
+      "*2400"
+    ],
+    "timestamp": "May/27/2024 03:33"
+  },
   "CF262803753": {
     "contest_id": 1912,
     "language": "C++20 (GCC 13-64)",
