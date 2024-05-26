@@ -23393,6 +23393,22 @@
     ],
     "timestamp": "May/17/2024 08:26"
   },
+  "CF262804276": {
+    "contest_id": 292,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/292/A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "SMSC",
+    "problem_url": "https://codeforces.com/contest/292/problem/A",
+    "submission_id": "CF262804276",
+    "submission_url": "https://codeforces.com/contest/292/submission/262804276",
+    "tags": [
+      "implementation",
+      "*1100"
+    ],
+    "timestamp": "May/27/2024 03:44"
+  },
   "CF262804278": {
     "contest_id": 223,
     "language": "C++20 (GCC 13-64)",
