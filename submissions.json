@@ -23393,6 +23393,22 @@
     ],
     "timestamp": "May/17/2024 08:26"
   },
+  "CF262804115": {
+    "contest_id": 125,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/125/A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Measuring Lengths in Baden",
+    "problem_url": "https://codeforces.com/contest/125/problem/A",
+    "submission_id": "CF262804115",
+    "submission_url": "https://codeforces.com/contest/125/submission/262804115",
+    "tags": [
+      "math",
+      "*1400"
+    ],
+    "timestamp": "May/27/2024 03:41"
+  },
   "CF262804130": {
     "contest_id": 1334,
     "language": "C++20 (GCC 13-64)",
