@@ -49542,6 +49542,25 @@
     ],
     "timestamp": "May/27/2024 04:04"
   },
+  "CF262805941": {
+    "contest_id": 1848,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1848/D.cpp",
+    "platform": "Codeforces",
+    "problem_index": "D",
+    "problem_name": "Vika and Bonuses",
+    "problem_url": "https://codeforces.com/contest/1848/problem/D",
+    "submission_id": "CF262805941",
+    "submission_url": "https://codeforces.com/contest/1848/submission/262805941",
+    "tags": [
+      "binary search",
+      "brute force",
+      "math",
+      "ternary search",
+      "*2200"
+    ],
+    "timestamp": "May/27/2024 04:23"
+  },
   "CF262805946": {
     "contest_id": 615,
     "language": "C++20 (GCC 13-64)",
