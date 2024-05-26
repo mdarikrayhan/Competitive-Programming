@@ -49542,6 +49542,25 @@
     ],
     "timestamp": "May/27/2024 04:04"
   },
+  "CF262806928": {
+    "contest_id": 557,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/557/D.cpp",
+    "platform": "Codeforces",
+    "problem_index": "D",
+    "problem_name": "Vitaly and Cycle",
+    "problem_url": "https://codeforces.com/contest/557/problem/D",
+    "submission_id": "CF262806928",
+    "submission_url": "https://codeforces.com/contest/557/submission/262806928",
+    "tags": [
+      "combinatorics",
+      "dfs and similar",
+      "graphs",
+      "math",
+      "*2000"
+    ],
+    "timestamp": "May/27/2024 04:49"
+  },
   "CF262806937": {
     "contest_id": 1166,
     "language": "C++20 (GCC 13-64)",
