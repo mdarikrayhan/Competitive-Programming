@@ -49542,6 +49542,28 @@
     ],
     "timestamp": "May/27/2024 04:04"
   },
+  "CF262806923": {
+    "contest_id": 1706,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1706/E.cpp",
+    "platform": "Codeforces",
+    "problem_index": "E",
+    "problem_name": "Qpwoeirut and Vertices",
+    "problem_url": "https://codeforces.com/contest/1706/problem/E",
+    "submission_id": "CF262806923",
+    "submission_url": "https://codeforces.com/contest/1706/submission/262806923",
+    "tags": [
+      "binary search",
+      "data structures",
+      "dfs and similar",
+      "divide and conquer",
+      "dsu",
+      "greedy",
+      "trees",
+      "*2300"
+    ],
+    "timestamp": "May/27/2024 04:49"
+  },
   "CF262806928": {
     "contest_id": 557,
     "language": "C++20 (GCC 13-64)",
