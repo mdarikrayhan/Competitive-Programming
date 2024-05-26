@@ -57725,6 +57725,24 @@
     ],
     "timestamp": "May/26/2024 06:26"
   },
+  "CF262633042": {
+    "contest_id": 235,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/235/B.cpp",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Let's Play Osu!",
+    "problem_url": "https://codeforces.com/contest/235/problem/B",
+    "submission_id": "CF262633042",
+    "submission_url": "https://codeforces.com/contest/235/submission/262633042",
+    "tags": [
+      "dp",
+      "math",
+      "probabilities",
+      "*2000"
+    ],
+    "timestamp": "May/26/2024 06:32"
+  },
   "CF262633058": {
     "contest_id": 1738,
     "language": "C++20 (GCC 13-64)",
