@@ -59543,6 +59543,25 @@
     ],
     "timestamp": "May/27/2024 04:16"
   },
+  "CF262805690": {
+    "contest_id": 1201,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1201/D.cpp",
+    "platform": "Codeforces",
+    "problem_index": "D",
+    "problem_name": "Treasure Hunting",
+    "problem_url": "https://codeforces.com/contest/1201/problem/D",
+    "submission_id": "CF262805690",
+    "submission_url": "https://codeforces.com/contest/1201/submission/262805690",
+    "tags": [
+      "binary search",
+      "dp",
+      "greedy",
+      "implementation",
+      "*2100"
+    ],
+    "timestamp": "May/27/2024 04:17"
+  },
   "CF262805691": {
     "contest_id": 935,
     "language": "C++20 (GCC 13-64)",
