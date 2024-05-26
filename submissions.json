@@ -57725,6 +57725,24 @@
     ],
     "timestamp": "May/26/2024 06:26"
   },
+  "CF262632927": {
+    "contest_id": 718,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/718/C.cpp",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Sasha and Array",
+    "problem_url": "https://codeforces.com/contest/718/problem/C",
+    "submission_id": "CF262632927",
+    "submission_url": "https://codeforces.com/contest/718/submission/262632927",
+    "tags": [
+      "data structures",
+      "math",
+      "matrices",
+      "*2300"
+    ],
+    "timestamp": "May/26/2024 06:28"
+  },
   "CF262632932": {
     "contest_id": 1943,
     "language": "C++20 (GCC 13-64)",
