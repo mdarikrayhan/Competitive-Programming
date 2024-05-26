@@ -49542,6 +49542,25 @@
     ],
     "timestamp": "May/27/2024 04:04"
   },
+  "CF262806788": {
+    "contest_id": 1208,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1208/F.cpp",
+    "platform": "Codeforces",
+    "problem_index": "F",
+    "problem_name": "Bits And Pieces",
+    "problem_url": "https://codeforces.com/contest/1208/problem/F",
+    "submission_id": "CF262806788",
+    "submission_url": "https://codeforces.com/contest/1208/submission/262806788",
+    "tags": [
+      "bitmasks",
+      "dfs and similar",
+      "dp",
+      "greedy",
+      "*2600"
+    ],
+    "timestamp": "May/27/2024 04:44"
+  },
   "CF262806789": {
     "contest_id": 1073,
     "language": "C++20 (GCC 13-64)",
