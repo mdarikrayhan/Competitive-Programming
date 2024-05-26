@@ -57725,6 +57725,24 @@
     ],
     "timestamp": "May/26/2024 06:26"
   },
+  "CF262634455": {
+    "contest_id": 645,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/645/D.cpp",
+    "platform": "Codeforces",
+    "problem_index": "D",
+    "problem_name": "Robot Rapping Results Report",
+    "problem_url": "https://codeforces.com/contest/645/problem/D",
+    "submission_id": "CF262634455",
+    "submission_url": "https://codeforces.com/contest/645/submission/262634455",
+    "tags": [
+      "binary search",
+      "dp",
+      "graphs",
+      "*1800"
+    ],
+    "timestamp": "May/26/2024 07:12"
+  },
   "CF262634493": {
     "contest_id": 690,
     "language": "C++20 (GCC 13-64)",
