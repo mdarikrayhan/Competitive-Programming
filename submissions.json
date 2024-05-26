@@ -49542,6 +49542,23 @@
     ],
     "timestamp": "May/27/2024 04:04"
   },
+  "CF262806591": {
+    "contest_id": 140,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/140/D.cpp",
+    "platform": "Codeforces",
+    "problem_index": "D",
+    "problem_name": "New Year Contest",
+    "problem_url": "https://codeforces.com/contest/140/problem/D",
+    "submission_id": "CF262806591",
+    "submission_url": "https://codeforces.com/contest/140/submission/262806591",
+    "tags": [
+      "greedy",
+      "sortings",
+      "*1800"
+    ],
+    "timestamp": "May/27/2024 04:39"
+  },
   "CF262806598": {
     "contest_id": 432,
     "language": "C++20 (GCC 13-64)",
