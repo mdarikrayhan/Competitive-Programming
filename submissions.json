@@ -49542,6 +49542,23 @@
     ],
     "timestamp": "May/27/2024 04:04"
   },
+  "CF262806466": {
+    "contest_id": 523,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/523/C.cpp",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Name Quest",
+    "problem_url": "https://codeforces.com/contest/523/problem/C",
+    "submission_id": "CF262806466",
+    "submission_url": "https://codeforces.com/contest/523/submission/262806466",
+    "tags": [
+      "*special problem",
+      "greedy",
+      "*1400"
+    ],
+    "timestamp": "May/27/2024 04:36"
+  },
   "CF262806467": {
     "contest_id": 449,
     "language": "C++20 (GCC 13-64)",
