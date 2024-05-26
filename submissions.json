@@ -49542,6 +49542,27 @@
     ],
     "timestamp": "May/27/2024 04:04"
   },
+  "CF262806673": {
+    "contest_id": 353,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/353/B.cpp",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Two Heaps",
+    "problem_url": "https://codeforces.com/contest/353/problem/B",
+    "submission_id": "CF262806673",
+    "submission_url": "https://codeforces.com/contest/353/submission/262806673",
+    "tags": [
+      "combinatorics",
+      "constructive algorithms",
+      "greedy",
+      "implementation",
+      "math",
+      "sortings",
+      "*1900"
+    ],
+    "timestamp": "May/27/2024 04:41"
+  },
   "CF262806678": {
     "contest_id": 808,
     "language": "C++20 (GCC 13-64)",
