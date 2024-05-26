@@ -57725,6 +57725,26 @@
     ],
     "timestamp": "May/26/2024 06:26"
   },
+  "CF262634398": {
+    "contest_id": 1209,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1209/E1.cpp",
+    "platform": "Codeforces",
+    "problem_index": "E1",
+    "problem_name": "Rotate Columns (easy version)",
+    "problem_url": "https://codeforces.com/contest/1209/problem/E1",
+    "submission_id": "CF262634398",
+    "submission_url": "https://codeforces.com/contest/1209/submission/262634398",
+    "tags": [
+      "bitmasks",
+      "brute force",
+      "dp",
+      "greedy",
+      "sortings",
+      "*2000"
+    ],
+    "timestamp": "May/26/2024 07:10"
+  },
   "CF262634435": {
     "contest_id": 281,
     "language": "C++20 (GCC 13-64)",
