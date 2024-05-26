@@ -23393,6 +23393,19 @@
     ],
     "timestamp": "May/17/2024 08:26"
   },
+  "CF262803959": {
+    "contest_id": 1912,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1912/C.cpp",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Cactus Transformation",
+    "problem_url": "https://codeforces.com/contest/1912/problem/C",
+    "submission_id": "CF262803959",
+    "submission_url": "https://codeforces.com/contest/1912/submission/262803959",
+    "tags": [],
+    "timestamp": "May/27/2024 03:37"
+  },
   "CF262804000": {
     "contest_id": 960,
     "language": "C++20 (GCC 13-64)",
