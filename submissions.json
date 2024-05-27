@@ -23393,6 +23393,26 @@
     ],
     "timestamp": "May/17/2024 08:26"
   },
+  "CF262936198": {
+    "contest_id": 1551,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1551/F.cpp",
+    "platform": "Codeforces",
+    "problem_index": "F",
+    "problem_name": "Equidistant Vertices",
+    "problem_url": "https://codeforces.com/contest/1551/problem/F",
+    "submission_id": "CF262936198",
+    "submission_url": "https://codeforces.com/contest/1551/submission/262936198",
+    "tags": [
+      "brute force",
+      "combinatorics",
+      "dfs and similar",
+      "dp",
+      "trees",
+      "*2200"
+    ],
+    "timestamp": "May/28/2024 03:47"
+  },
   "CF262936219": {
     "contest_id": 1705,
     "language": "C++20 (GCC 13-64)",
