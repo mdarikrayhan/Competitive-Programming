@@ -52531,6 +52531,25 @@
     ],
     "timestamp": "May/28/2024 04:19"
   },
+  "CF262938656": {
+    "contest_id": 1399,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1399/F.cpp",
+    "platform": "Codeforces",
+    "problem_index": "F",
+    "problem_name": "Yet Another Segments Subset",
+    "problem_url": "https://codeforces.com/contest/1399/problem/F",
+    "submission_id": "CF262938656",
+    "submission_url": "https://codeforces.com/contest/1399/submission/262938656",
+    "tags": [
+      "data structures",
+      "dp",
+      "graphs",
+      "sortings",
+      "*2300"
+    ],
+    "timestamp": "May/28/2024 04:48"
+  },
   "CF262938675": {
     "contest_id": 1304,
     "language": "C++20 (GCC 13-64)",
