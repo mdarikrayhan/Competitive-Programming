@@ -66729,6 +66729,23 @@
     ],
     "timestamp": "May/28/2024 04:01"
   },
+  "CF262936853": {
+    "contest_id": 507,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/507/D.cpp",
+    "platform": "Codeforces",
+    "problem_index": "D",
+    "problem_name": "The Maths Lecture",
+    "problem_url": "https://codeforces.com/contest/507/problem/D",
+    "submission_id": "CF262936853",
+    "submission_url": "https://codeforces.com/contest/507/submission/262936853",
+    "tags": [
+      "dp",
+      "implementation",
+      "*2200"
+    ],
+    "timestamp": "May/28/2024 04:01"
+  },
   "CF262936887": {
     "contest_id": 1777,
     "language": "C++20 (GCC 13-64)",
