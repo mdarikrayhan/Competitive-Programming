@@ -23393,6 +23393,24 @@
     ],
     "timestamp": "May/17/2024 08:26"
   },
+  "CF262809345": {
+    "contest_id": 56,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/56/E.cpp",
+    "platform": "Codeforces",
+    "problem_index": "E",
+    "problem_name": "Domino Principle",
+    "problem_url": "https://codeforces.com/contest/56/problem/E",
+    "submission_id": "CF262809345",
+    "submission_url": "https://codeforces.com/contest/56/submission/262809345",
+    "tags": [
+      "binary search",
+      "data structures",
+      "sortings",
+      "*2200"
+    ],
+    "timestamp": "May/27/2024 06:05"
+  },
   "CF262809348": {
     "contest_id": 1559,
     "language": "C++20 (GCC 13-64)",
