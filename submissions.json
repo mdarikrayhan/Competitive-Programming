@@ -52531,6 +52531,23 @@
     ],
     "timestamp": "May/28/2024 04:19"
   },
+  "CF262939211": {
+    "contest_id": 5,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/5/D.cpp",
+    "platform": "Codeforces",
+    "problem_index": "D",
+    "problem_name": "Follow Traffic Rules",
+    "problem_url": "https://codeforces.com/contest/5/problem/D",
+    "submission_id": "CF262939211",
+    "submission_url": "https://codeforces.com/contest/5/submission/262939211",
+    "tags": [
+      "implementation",
+      "math",
+      "*2100"
+    ],
+    "timestamp": "May/28/2024 05:06"
+  },
   "CF262939249": {
     "contest_id": 439,
     "language": "C++20 (GCC 13-64)",
