@@ -66784,6 +66784,26 @@
     ],
     "timestamp": "May/28/2024 04:02"
   },
+  "CF262936989": {
+    "contest_id": 1844,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1844/E.cpp",
+    "platform": "Codeforces",
+    "problem_index": "E",
+    "problem_name": "Great Grids",
+    "problem_url": "https://codeforces.com/contest/1844/problem/E",
+    "submission_id": "CF262936989",
+    "submission_url": "https://codeforces.com/contest/1844/submission/262936989",
+    "tags": [
+      "2-sat",
+      "constructive algorithms",
+      "dfs and similar",
+      "dsu",
+      "graphs",
+      "*2400"
+    ],
+    "timestamp": "May/28/2024 04:04"
+  },
   "CF262937001": {
     "contest_id": 1042,
     "language": "C++20 (GCC 13-64)",
