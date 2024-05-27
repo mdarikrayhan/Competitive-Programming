@@ -67315,6 +67315,23 @@
     ],
     "timestamp": "May/28/2024 04:19"
   },
+  "CF262937999": {
+    "contest_id": 356,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/356/B.cpp",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Xenia and Hamming",
+    "problem_url": "https://codeforces.com/contest/356/problem/B",
+    "submission_id": "CF262937999",
+    "submission_url": "https://codeforces.com/contest/356/submission/262937999",
+    "tags": [
+      "implementation",
+      "math",
+      "*1900"
+    ],
+    "timestamp": "May/28/2024 04:29"
+  },
   "CF262938050": {
     "contest_id": 1609,
     "language": "C++20 (GCC 13-64)",
