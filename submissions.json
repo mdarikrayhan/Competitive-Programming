@@ -52531,6 +52531,25 @@
     ],
     "timestamp": "May/28/2024 04:19"
   },
+  "CF262938828": {
+    "contest_id": 1599,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1599/C.cpp",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Bubble Strike",
+    "problem_url": "https://codeforces.com/contest/1599/problem/C",
+    "submission_id": "CF262938828",
+    "submission_url": "https://codeforces.com/contest/1599/submission/262938828",
+    "tags": [
+      "combinatorics",
+      "math",
+      "probabilities",
+      "ternary search",
+      "*2000"
+    ],
+    "timestamp": "May/28/2024 04:53"
+  },
   "CF262938843": {
     "contest_id": 1681,
     "language": "C++20 (GCC 13-64)",
