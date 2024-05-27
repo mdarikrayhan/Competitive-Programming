@@ -52531,6 +52531,24 @@
     ],
     "timestamp": "May/28/2024 04:19"
   },
+  "CF262938606": {
+    "contest_id": 1468,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1468/A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "LaIS",
+    "problem_url": "https://codeforces.com/contest/1468/problem/A",
+    "submission_id": "CF262938606",
+    "submission_url": "https://codeforces.com/contest/1468/submission/262938606",
+    "tags": [
+      "data structures",
+      "dp",
+      "greedy",
+      "*2200"
+    ],
+    "timestamp": "May/28/2024 04:46"
+  },
   "CF262938622": {
     "contest_id": 1290,
     "language": "C++20 (GCC 13-64)",
