@@ -23393,6 +23393,26 @@
     ],
     "timestamp": "May/17/2024 08:26"
   },
+  "CF262936222": {
+    "contest_id": 1720,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1720/D2.cpp",
+    "platform": "Codeforces",
+    "problem_index": "D2",
+    "problem_name": "Xor-Subsequence (hard version)",
+    "problem_url": "https://codeforces.com/contest/1720/problem/D2",
+    "submission_id": "CF262936222",
+    "submission_url": "https://codeforces.com/contest/1720/submission/262936222",
+    "tags": [
+      "bitmasks",
+      "data structures",
+      "dp",
+      "strings",
+      "trees",
+      "*2400"
+    ],
+    "timestamp": "May/28/2024 03:47"
+  },
   "CF262936234": {
     "contest_id": 1176,
     "language": "C++20 (GCC 13-64)",
