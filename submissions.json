@@ -23393,6 +23393,26 @@
     ],
     "timestamp": "May/17/2024 08:26"
   },
+  "CF262809201": {
+    "contest_id": 1840,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1840/G1.cpp",
+    "platform": "Codeforces",
+    "problem_index": "G1",
+    "problem_name": "In Search of Truth (Easy Version)",
+    "problem_url": "https://codeforces.com/contest/1840/problem/G1",
+    "submission_id": "CF262809201",
+    "submission_url": "https://codeforces.com/contest/1840/submission/262809201",
+    "tags": [
+      "constructive algorithms",
+      "interactive",
+      "math",
+      "meet-in-the-middle",
+      "probabilities",
+      "*2200"
+    ],
+    "timestamp": "May/27/2024 06:01"
+  },
   "CF262809207": {
     "contest_id": 1741,
     "language": "C++20 (GCC 13-64)",
