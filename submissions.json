@@ -52531,6 +52531,25 @@
     ],
     "timestamp": "May/28/2024 04:19"
   },
+  "CF262939158": {
+    "contest_id": 811,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/811/D.cpp",
+    "platform": "Codeforces",
+    "problem_index": "D",
+    "problem_name": "Vladik and Favorite Game",
+    "problem_url": "https://codeforces.com/contest/811/problem/D",
+    "submission_id": "CF262939158",
+    "submission_url": "https://codeforces.com/contest/811/submission/262939158",
+    "tags": [
+      "constructive algorithms",
+      "dfs and similar",
+      "graphs",
+      "interactive",
+      "*2100"
+    ],
+    "timestamp": "May/28/2024 05:04"
+  },
   "CF262939165": {
     "contest_id": 1718,
     "language": "C++20 (GCC 13-64)",
