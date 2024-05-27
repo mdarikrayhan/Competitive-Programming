@@ -52531,6 +52531,22 @@
     ],
     "timestamp": "May/28/2024 04:19"
   },
+  "CF262938315": {
+    "contest_id": 1675,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1675/G.cpp",
+    "platform": "Codeforces",
+    "problem_index": "G",
+    "problem_name": "Sorting Pancakes",
+    "problem_url": "https://codeforces.com/contest/1675/problem/G",
+    "submission_id": "CF262938315",
+    "submission_url": "https://codeforces.com/contest/1675/submission/262938315",
+    "tags": [
+      "dp",
+      "*2300"
+    ],
+    "timestamp": "May/28/2024 04:37"
+  },
   "CF262938319": {
     "contest_id": 933,
     "language": "C++20 (GCC 13-64)",
