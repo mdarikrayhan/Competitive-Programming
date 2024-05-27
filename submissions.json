@@ -52531,6 +52531,22 @@
     ],
     "timestamp": "May/28/2024 04:19"
   },
+  "CF262938529": {
+    "contest_id": 215,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/215/D.cpp",
+    "platform": "Codeforces",
+    "problem_index": "D",
+    "problem_name": "Hot Days",
+    "problem_url": "https://codeforces.com/contest/215/problem/D",
+    "submission_id": "CF262938529",
+    "submission_url": "https://codeforces.com/contest/215/submission/262938529",
+    "tags": [
+      "greedy",
+      "*1900"
+    ],
+    "timestamp": "May/28/2024 04:43"
+  },
   "CF262938536": {
     "contest_id": 732,
     "language": "C++20 (GCC 13-64)",
