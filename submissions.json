@@ -51058,6 +51058,24 @@
     ],
     "timestamp": "May/27/2024 06:30"
   },
+  "CF262935120": {
+    "contest_id": 21,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/21/C.cpp",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Stripe 2",
+    "problem_url": "https://codeforces.com/contest/21/problem/C",
+    "submission_id": "CF262935120",
+    "submission_url": "https://codeforces.com/contest/21/submission/262935120",
+    "tags": [
+      "binary search",
+      "dp",
+      "sortings",
+      "*2000"
+    ],
+    "timestamp": "May/28/2024 03:25"
+  },
   "CF262935136": {
     "contest_id": 1469,
     "language": "C++20 (GCC 13-64)",
