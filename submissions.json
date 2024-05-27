@@ -66784,6 +66784,28 @@
     ],
     "timestamp": "May/28/2024 04:02"
   },
+  "CF262937026": {
+    "contest_id": 1179,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1179/C.cpp",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Serge and Dining Room",
+    "problem_url": "https://codeforces.com/contest/1179/problem/C",
+    "submission_id": "CF262937026",
+    "submission_url": "https://codeforces.com/contest/1179/submission/262937026",
+    "tags": [
+      "binary search",
+      "data structures",
+      "graph matchings",
+      "greedy",
+      "implementation",
+      "math",
+      "trees",
+      "*2200"
+    ],
+    "timestamp": "May/28/2024 04:05"
+  },
   "CF262937032": {
     "contest_id": 1776,
     "language": "C++20 (GCC 13-64)",
