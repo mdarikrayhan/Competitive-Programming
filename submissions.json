@@ -52531,6 +52531,25 @@
     ],
     "timestamp": "May/28/2024 04:19"
   },
+  "CF262938150": {
+    "contest_id": 269,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/269/C.cpp",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Flawed Flow",
+    "problem_url": "https://codeforces.com/contest/269/problem/C",
+    "submission_id": "CF262938150",
+    "submission_url": "https://codeforces.com/contest/269/submission/262938150",
+    "tags": [
+      "constructive algorithms",
+      "flows",
+      "graphs",
+      "greedy",
+      "*2100"
+    ],
+    "timestamp": "May/28/2024 04:33"
+  },
   "CF262938161": {
     "contest_id": 1815,
     "language": "C++20 (GCC 13-64)",
