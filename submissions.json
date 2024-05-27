@@ -52531,6 +52531,29 @@
     ],
     "timestamp": "May/28/2024 04:19"
   },
+  "CF262938733": {
+    "contest_id": 1929,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1929/E.cpp",
+    "platform": "Codeforces",
+    "problem_index": "E",
+    "problem_name": "Sasha and the Happy Tree Cutting",
+    "problem_url": "https://codeforces.com/contest/1929/problem/E",
+    "submission_id": "CF262938733",
+    "submission_url": "https://codeforces.com/contest/1929/submission/262938733",
+    "tags": [
+      "bitmasks",
+      "brute force",
+      "dfs and similar",
+      "dp",
+      "graphs",
+      "greedy",
+      "math",
+      "trees",
+      "*2300"
+    ],
+    "timestamp": "May/28/2024 04:50"
+  },
   "CF262938744": {
     "contest_id": 793,
     "language": "C++20 (GCC 13-64)",
