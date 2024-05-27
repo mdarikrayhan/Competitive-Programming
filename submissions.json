@@ -52531,6 +52531,26 @@
     ],
     "timestamp": "May/28/2024 04:19"
   },
+  "CF262938359": {
+    "contest_id": 911,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/911/F.cpp",
+    "platform": "Codeforces",
+    "problem_index": "F",
+    "problem_name": "Tree Destruction",
+    "problem_url": "https://codeforces.com/contest/911/problem/F",
+    "submission_id": "CF262938359",
+    "submission_url": "https://codeforces.com/contest/911/submission/262938359",
+    "tags": [
+      "constructive algorithms",
+      "dfs and similar",
+      "graphs",
+      "greedy",
+      "trees",
+      "*2400"
+    ],
+    "timestamp": "May/28/2024 04:38"
+  },
   "CF262938372": {
     "contest_id": 975,
     "language": "C++20 (GCC 13-64)",
