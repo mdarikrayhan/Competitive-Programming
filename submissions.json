@@ -52531,6 +52531,26 @@
     ],
     "timestamp": "May/28/2024 04:19"
   },
+  "CF262938324": {
+    "contest_id": 1634,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1634/E.cpp",
+    "platform": "Codeforces",
+    "problem_index": "E",
+    "problem_name": "Fair Share",
+    "problem_url": "https://codeforces.com/contest/1634/problem/E",
+    "submission_id": "CF262938324",
+    "submission_url": "https://codeforces.com/contest/1634/submission/262938324",
+    "tags": [
+      "constructive algorithms",
+      "data structures",
+      "dfs and similar",
+      "graph matchings",
+      "graphs",
+      "*2400"
+    ],
+    "timestamp": "May/28/2024 04:38"
+  },
   "CF262938337": {
     "contest_id": 1204,
     "language": "C++20 (GCC 13-64)",
