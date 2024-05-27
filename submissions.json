@@ -23393,6 +23393,22 @@
     ],
     "timestamp": "May/17/2024 08:26"
   },
+  "CF262936814": {
+    "contest_id": 1188,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1188/C.cpp",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Array Beauty",
+    "problem_url": "https://codeforces.com/contest/1188/problem/C",
+    "submission_id": "CF262936814",
+    "submission_url": "https://codeforces.com/contest/1188/submission/262936814",
+    "tags": [
+      "dp",
+      "*2500"
+    ],
+    "timestamp": "May/28/2024 04:00"
+  },
   "CF262936840": {
     "contest_id": 1763,
     "language": "C++20 (GCC 13-64)",
