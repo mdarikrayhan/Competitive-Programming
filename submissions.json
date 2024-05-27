@@ -51058,6 +51058,25 @@
     ],
     "timestamp": "May/27/2024 06:30"
   },
+  "CF262935349": {
+    "contest_id": 1943,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1943/C.cpp",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Tree Compass",
+    "problem_url": "https://codeforces.com/contest/1943/problem/C",
+    "submission_id": "CF262935349",
+    "submission_url": "https://codeforces.com/contest/1943/submission/262935349",
+    "tags": [
+      "constructive algorithms",
+      "dfs and similar",
+      "greedy",
+      "trees",
+      "*2300"
+    ],
+    "timestamp": "May/28/2024 03:29"
+  },
   "CF262935375": {
     "contest_id": 54,
     "language": "C++20 (GCC 13-64)",
