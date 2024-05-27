@@ -65912,6 +65912,23 @@
     ],
     "timestamp": "May/28/2024 03:44"
   },
+  "CF262936094": {
+    "contest_id": 855,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/855/C.cpp",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Helga Hufflepuff's Cup",
+    "problem_url": "https://codeforces.com/contest/855/problem/C",
+    "submission_id": "CF262936094",
+    "submission_url": "https://codeforces.com/contest/855/submission/262936094",
+    "tags": [
+      "dp",
+      "trees",
+      "*2000"
+    ],
+    "timestamp": "May/28/2024 03:44"
+  },
   "CF262936097": {
     "contest_id": 1423,
     "language": "C++20 (GCC 13-64)",
