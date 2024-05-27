@@ -23393,6 +23393,27 @@
     ],
     "timestamp": "May/17/2024 08:26"
   },
+  "CF262936495": {
+    "contest_id": 995,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/995/C.cpp",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Leaving the Bar",
+    "problem_url": "https://codeforces.com/contest/995/problem/C",
+    "submission_id": "CF262936495",
+    "submission_url": "https://codeforces.com/contest/995/submission/262936495",
+    "tags": [
+      "brute force",
+      "data structures",
+      "geometry",
+      "greedy",
+      "math",
+      "sortings",
+      "*2300"
+    ],
+    "timestamp": "May/28/2024 03:53"
+  },
   "CF262936515": {
     "contest_id": 1120,
     "language": "C++20 (GCC 13-64)",
