@@ -67315,6 +67315,23 @@
     ],
     "timestamp": "May/28/2024 04:19"
   },
+  "CF262937877": {
+    "contest_id": 653,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/653/C.cpp",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Bear and Up-Down",
+    "problem_url": "https://codeforces.com/contest/653/problem/C",
+    "submission_id": "CF262937877",
+    "submission_url": "https://codeforces.com/contest/653/submission/262937877",
+    "tags": [
+      "brute force",
+      "implementation",
+      "*1900"
+    ],
+    "timestamp": "May/28/2024 04:26"
+  },
   "CF262937886": {
     "contest_id": 1373,
     "language": "C++20 (GCC 13-64)",
