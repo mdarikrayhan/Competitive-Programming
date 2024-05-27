@@ -23393,6 +23393,23 @@
     ],
     "timestamp": "May/17/2024 08:26"
   },
+  "CF262809388": {
+    "contest_id": 237,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/237/B.cpp",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Young Table",
+    "problem_url": "https://codeforces.com/contest/237/problem/B",
+    "submission_id": "CF262809388",
+    "submission_url": "https://codeforces.com/contest/237/submission/262809388",
+    "tags": [
+      "implementation",
+      "sortings",
+      "*1500"
+    ],
+    "timestamp": "May/27/2024 06:06"
+  },
   "CF262809394": {
     "contest_id": 769,
     "language": "C++20 (GCC 13-64)",
