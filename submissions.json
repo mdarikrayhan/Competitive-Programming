@@ -52531,6 +52531,27 @@
     ],
     "timestamp": "May/28/2024 04:19"
   },
+  "CF262938956": {
+    "contest_id": 1830,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1830/C.cpp",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Hyperregular Bracket Strings",
+    "problem_url": "https://codeforces.com/contest/1830/problem/C",
+    "submission_id": "CF262938956",
+    "submission_url": "https://codeforces.com/contest/1830/submission/262938956",
+    "tags": [
+      "combinatorics",
+      "greedy",
+      "hashing",
+      "math",
+      "number theory",
+      "sortings",
+      "*2400"
+    ],
+    "timestamp": "May/28/2024 04:58"
+  },
   "CF262938966": {
     "contest_id": 37,
     "language": "C++20 (GCC 13-64)",
