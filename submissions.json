@@ -52531,6 +52531,24 @@
     ],
     "timestamp": "May/28/2024 04:19"
   },
+  "CF262938880": {
+    "contest_id": 1746,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1746/F.cpp",
+    "platform": "Codeforces",
+    "problem_index": "F",
+    "problem_name": "Kazaee",
+    "problem_url": "https://codeforces.com/contest/1746/problem/F",
+    "submission_id": "CF262938880",
+    "submission_url": "https://codeforces.com/contest/1746/submission/262938880",
+    "tags": [
+      "data structures",
+      "hashing",
+      "probabilities",
+      "*2800"
+    ],
+    "timestamp": "May/28/2024 04:55"
+  },
   "CF262938889": {
     "contest_id": 730,
     "language": "C++20 (GCC 13-64)",
