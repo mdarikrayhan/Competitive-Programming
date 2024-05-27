@@ -51058,6 +51058,23 @@
     ],
     "timestamp": "May/27/2024 06:30"
   },
+  "CF262935259": {
+    "contest_id": 1055,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1055/C.cpp",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Lucky Days",
+    "problem_url": "https://codeforces.com/contest/1055/problem/C",
+    "submission_id": "CF262935259",
+    "submission_url": "https://codeforces.com/contest/1055/submission/262935259",
+    "tags": [
+      "math",
+      "number theory",
+      "*1900"
+    ],
+    "timestamp": "May/28/2024 03:28"
+  },
   "CF262935261": {
     "contest_id": 5,
     "language": "C++20 (GCC 13-64)",
