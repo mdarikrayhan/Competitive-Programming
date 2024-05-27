@@ -66678,6 +66678,23 @@
     ],
     "timestamp": "May/28/2024 04:00"
   },
+  "CF262936800": {
+    "contest_id": 985,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/985/F.cpp",
+    "platform": "Codeforces",
+    "problem_index": "F",
+    "problem_name": "Isomorphic Strings",
+    "problem_url": "https://codeforces.com/contest/985/problem/F",
+    "submission_id": "CF262936800",
+    "submission_url": "https://codeforces.com/contest/985/submission/262936800",
+    "tags": [
+      "hashing",
+      "strings",
+      "*2300"
+    ],
+    "timestamp": "May/28/2024 04:00"
+  },
   "CF262936801": {
     "contest_id": 799,
     "language": "C++20 (GCC 13-64)",
