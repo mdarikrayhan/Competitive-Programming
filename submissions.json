@@ -23393,6 +23393,27 @@
     ],
     "timestamp": "May/17/2024 08:26"
   },
+  "CF262940083": {
+    "contest_id": 1659,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1659/E.cpp",
+    "platform": "Codeforces",
+    "problem_index": "E",
+    "problem_name": "AND-MEX Walk",
+    "problem_url": "https://codeforces.com/contest/1659/problem/E",
+    "submission_id": "CF262940083",
+    "submission_url": "https://codeforces.com/contest/1659/submission/262940083",
+    "tags": [
+      "bitmasks",
+      "brute force",
+      "constructive algorithms",
+      "dfs and similar",
+      "dsu",
+      "graphs",
+      "*2200"
+    ],
+    "timestamp": "May/28/2024 05:33"
+  },
   "CF262940124": {
     "contest_id": 1391,
     "language": "C++20 (GCC 13-64)",
