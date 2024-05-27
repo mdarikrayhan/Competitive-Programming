@@ -23393,6 +23393,25 @@
     ],
     "timestamp": "May/17/2024 08:26"
   },
+  "CF262936306": {
+    "contest_id": 1278,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1278/E.cpp",
+    "platform": "Codeforces",
+    "problem_index": "E",
+    "problem_name": "Tests for problem D",
+    "problem_url": "https://codeforces.com/contest/1278/problem/E",
+    "submission_id": "CF262936306",
+    "submission_url": "https://codeforces.com/contest/1278/submission/262936306",
+    "tags": [
+      "constructive algorithms",
+      "dfs and similar",
+      "divide and conquer",
+      "trees",
+      "*2200"
+    ],
+    "timestamp": "May/28/2024 03:49"
+  },
   "CF262936323": {
     "contest_id": 75,
     "language": "C++20 (GCC 13-64)",
