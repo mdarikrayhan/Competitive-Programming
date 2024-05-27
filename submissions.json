@@ -67315,6 +67315,22 @@
     ],
     "timestamp": "May/28/2024 04:19"
   },
+  "CF262937976": {
+    "contest_id": 14,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/14/E.cpp",
+    "platform": "Codeforces",
+    "problem_index": "E",
+    "problem_name": "Camels",
+    "problem_url": "https://codeforces.com/contest/14/problem/E",
+    "submission_id": "CF262937976",
+    "submission_url": "https://codeforces.com/contest/14/submission/262937976",
+    "tags": [
+      "dp",
+      "*1900"
+    ],
+    "timestamp": "May/28/2024 04:29"
+  },
   "CF262937988": {
     "contest_id": 1092,
     "language": "C++20 (GCC 13-64)",
