@@ -23393,6 +23393,25 @@
     ],
     "timestamp": "May/17/2024 08:26"
   },
+  "CF262940701": {
+    "contest_id": 76,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/76/A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Gift",
+    "problem_url": "https://codeforces.com/contest/76/problem/A",
+    "submission_id": "CF262940701",
+    "submission_url": "https://codeforces.com/contest/76/submission/262940701",
+    "tags": [
+      "dsu",
+      "graphs",
+      "sortings",
+      "trees",
+      "*2200"
+    ],
+    "timestamp": "May/28/2024 05:56"
+  },
   "CF262940736": {
     "contest_id": 1174,
     "language": "C++20 (GCC 13-64)",
