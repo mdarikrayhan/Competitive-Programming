@@ -52531,6 +52531,25 @@
     ],
     "timestamp": "May/28/2024 04:19"
   },
+  "CF262939053": {
+    "contest_id": 1523,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1523/E.cpp",
+    "platform": "Codeforces",
+    "problem_index": "E",
+    "problem_name": "Crypto Lights",
+    "problem_url": "https://codeforces.com/contest/1523/problem/E",
+    "submission_id": "CF262939053",
+    "submission_url": "https://codeforces.com/contest/1523/submission/262939053",
+    "tags": [
+      "combinatorics",
+      "dp",
+      "math",
+      "probabilities",
+      "*2600"
+    ],
+    "timestamp": "May/28/2024 05:01"
+  },
   "CF262939061": {
     "contest_id": 226,
     "language": "C++20 (GCC 13-64)",
