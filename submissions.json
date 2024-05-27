@@ -51058,6 +51058,26 @@
     ],
     "timestamp": "May/27/2024 06:30"
   },
+  "CF262933551": {
+    "contest_id": 896,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/896/B.cpp",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Ithea Plays With Chtholly",
+    "problem_url": "https://codeforces.com/contest/896/problem/B",
+    "submission_id": "CF262933551",
+    "submission_url": "https://codeforces.com/contest/896/submission/262933551",
+    "tags": [
+      "binary search",
+      "constructive algorithms",
+      "games",
+      "greedy",
+      "interactive",
+      "*2000"
+    ],
+    "timestamp": "May/28/2024 02:57"
+  },
   "CF262933828": {
     "contest_id": 250,
     "language": "C++20 (GCC 13-64)",
