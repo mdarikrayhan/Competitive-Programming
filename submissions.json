@@ -67315,6 +67315,26 @@
     ],
     "timestamp": "May/28/2024 04:19"
   },
+  "CF262937909": {
+    "contest_id": 1610,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1610/E.cpp",
+    "platform": "Codeforces",
+    "problem_index": "E",
+    "problem_name": "AmShZ and G.O.A.T.",
+    "problem_url": "https://codeforces.com/contest/1610/problem/E",
+    "submission_id": "CF262937909",
+    "submission_url": "https://codeforces.com/contest/1610/submission/262937909",
+    "tags": [
+      "binary search",
+      "brute force",
+      "greedy",
+      "implementation",
+      "math",
+      "*2300"
+    ],
+    "timestamp": "May/28/2024 04:27"
+  },
   "CF262937920": {
     "contest_id": 855,
     "language": "C++20 (GCC 13-64)",
