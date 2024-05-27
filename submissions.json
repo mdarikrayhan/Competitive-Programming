@@ -23393,6 +23393,23 @@
     ],
     "timestamp": "May/17/2024 08:26"
   },
+  "CF262936531": {
+    "contest_id": 10,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/10/B.cpp",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Cinema Cashier",
+    "problem_url": "https://codeforces.com/contest/10/problem/B",
+    "submission_id": "CF262936531",
+    "submission_url": "https://codeforces.com/contest/10/submission/262936531",
+    "tags": [
+      "dp",
+      "implementation",
+      "*1500"
+    ],
+    "timestamp": "May/28/2024 03:54"
+  },
   "CF262936533": {
     "contest_id": 1453,
     "language": "C++20 (GCC 13-64)",
