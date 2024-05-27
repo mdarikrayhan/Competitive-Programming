@@ -66678,6 +66678,24 @@
     ],
     "timestamp": "May/28/2024 04:00"
   },
+  "CF262936801": {
+    "contest_id": 799,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/799/D.cpp",
+    "platform": "Codeforces",
+    "problem_index": "D",
+    "problem_name": "Field expansion",
+    "problem_url": "https://codeforces.com/contest/799/problem/D",
+    "submission_id": "CF262936801",
+    "submission_url": "https://codeforces.com/contest/799/submission/262936801",
+    "tags": [
+      "brute force",
+      "dp",
+      "meet-in-the-middle",
+      "*2100"
+    ],
+    "timestamp": "May/28/2024 04:00"
+  },
   "CF262936814": {
     "contest_id": 1188,
     "language": "C++20 (GCC 13-64)",
