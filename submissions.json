@@ -23393,6 +23393,24 @@
     ],
     "timestamp": "May/17/2024 08:26"
   },
+  "CF262809938": {
+    "contest_id": 1436,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1436/E.cpp",
+    "platform": "Codeforces",
+    "problem_index": "E",
+    "problem_name": "Complicated Computations",
+    "problem_url": "https://codeforces.com/contest/1436/problem/E",
+    "submission_id": "CF262809938",
+    "submission_url": "https://codeforces.com/contest/1436/submission/262809938",
+    "tags": [
+      "binary search",
+      "data structures",
+      "two pointers",
+      "*2400"
+    ],
+    "timestamp": "May/27/2024 06:24"
+  },
   "CF262809974": {
     "contest_id": 1837,
     "language": "C++20 (GCC 13-64)",
