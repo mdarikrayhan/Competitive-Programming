@@ -52531,6 +52531,23 @@
     ],
     "timestamp": "May/28/2024 04:19"
   },
+  "CF262938500": {
+    "contest_id": 317,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/317/B.cpp",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Ants",
+    "problem_url": "https://codeforces.com/contest/317/problem/B",
+    "submission_id": "CF262938500",
+    "submission_url": "https://codeforces.com/contest/317/submission/262938500",
+    "tags": [
+      "brute force",
+      "implementation",
+      "*2000"
+    ],
+    "timestamp": "May/28/2024 04:43"
+  },
   "CF262938519": {
     "contest_id": 1842,
     "language": "C++20 (GCC 13-64)",
