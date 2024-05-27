@@ -23393,6 +23393,22 @@
     ],
     "timestamp": "May/17/2024 08:26"
   },
+  "CF262809776": {
+    "contest_id": 325,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/325/A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Square and Rectangles",
+    "problem_url": "https://codeforces.com/contest/325/problem/A",
+    "submission_id": "CF262809776",
+    "submission_url": "https://codeforces.com/contest/325/submission/262809776",
+    "tags": [
+      "implementation",
+      "*1500"
+    ],
+    "timestamp": "May/27/2024 06:19"
+  },
   "CF262809783": {
     "contest_id": 1108,
     "language": "C++20 (GCC 13-64)",
