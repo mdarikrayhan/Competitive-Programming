@@ -51058,6 +51058,22 @@
     ],
     "timestamp": "May/27/2024 06:30"
   },
+  "CF262934551": {
+    "contest_id": 44,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/44/B.cpp",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Cola",
+    "problem_url": "https://codeforces.com/contest/44/problem/B",
+    "submission_id": "CF262934551",
+    "submission_url": "https://codeforces.com/contest/44/submission/262934551",
+    "tags": [
+      "implementation",
+      "*1500"
+    ],
+    "timestamp": "May/28/2024 03:15"
+  },
   "CF262934565": {
     "contest_id": 41,
     "language": "C++20 (GCC 13-64)",
