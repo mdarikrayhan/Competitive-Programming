@@ -23393,6 +23393,27 @@
     ],
     "timestamp": "May/17/2024 08:26"
   },
+  "CF262937267": {
+    "contest_id": 1375,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1375/G.cpp",
+    "platform": "Codeforces",
+    "problem_index": "G",
+    "problem_name": "Tree Modification",
+    "problem_url": "https://codeforces.com/contest/1375/problem/G",
+    "submission_id": "CF262937267",
+    "submission_url": "https://codeforces.com/contest/1375/submission/262937267",
+    "tags": [
+      "brute force",
+      "constructive algorithms",
+      "dfs and similar",
+      "graph matchings",
+      "graphs",
+      "trees",
+      "*2800"
+    ],
+    "timestamp": "May/28/2024 04:10"
+  },
   "CF262937277": {
     "contest_id": 637,
     "language": "C++20 (GCC 13-64)",
