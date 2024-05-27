@@ -52531,6 +52531,27 @@
     ],
     "timestamp": "May/28/2024 04:19"
   },
+  "CF262938874": {
+    "contest_id": 1497,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1497/E2.cpp",
+    "platform": "Codeforces",
+    "problem_index": "E2",
+    "problem_name": "Square-free division (hard version)",
+    "problem_url": "https://codeforces.com/contest/1497/problem/E2",
+    "submission_id": "CF262938874",
+    "submission_url": "https://codeforces.com/contest/1497/submission/262938874",
+    "tags": [
+      "data structures",
+      "dp",
+      "greedy",
+      "math",
+      "number theory",
+      "two pointers",
+      "*2500"
+    ],
+    "timestamp": "May/28/2024 04:55"
+  },
   "CF262938880": {
     "contest_id": 1746,
     "language": "C++20 (GCC 13-64)",
