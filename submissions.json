@@ -52531,6 +52531,27 @@
     ],
     "timestamp": "May/28/2024 04:19"
   },
+  "CF262938228": {
+    "contest_id": 1197,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1197/E.cpp",
+    "platform": "Codeforces",
+    "problem_index": "E",
+    "problem_name": "Culture Code",
+    "problem_url": "https://codeforces.com/contest/1197/problem/E",
+    "submission_id": "CF262938228",
+    "submission_url": "https://codeforces.com/contest/1197/submission/262938228",
+    "tags": [
+      "binary search",
+      "combinatorics",
+      "data structures",
+      "dp",
+      "shortest paths",
+      "sortings",
+      "*2300"
+    ],
+    "timestamp": "May/28/2024 04:35"
+  },
   "CF262938263": {
     "contest_id": 1260,
     "language": "C++20 (GCC 13-64)",
