@@ -67095,6 +67095,25 @@
     ],
     "timestamp": "May/28/2024 04:13"
   },
+  "CF262937396": {
+    "contest_id": 1909,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1909/F1.cpp",
+    "platform": "Codeforces",
+    "problem_index": "F1",
+    "problem_name": "Small Permutation Problem (Easy Version)",
+    "problem_url": "https://codeforces.com/contest/1909/problem/F1",
+    "submission_id": "CF262937396",
+    "submission_url": "https://codeforces.com/contest/1909/submission/262937396",
+    "tags": [
+      "brute force",
+      "combinatorics",
+      "dp",
+      "math",
+      "*2200"
+    ],
+    "timestamp": "May/28/2024 04:14"
+  },
   "CF262937416": {
     "contest_id": 76,
     "language": "C++20 (GCC 13-64)",
