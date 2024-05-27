@@ -23393,6 +23393,23 @@
     ],
     "timestamp": "May/17/2024 08:26"
   },
+  "CF262809868": {
+    "contest_id": 549,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/549/D.cpp",
+    "platform": "Codeforces",
+    "problem_index": "D",
+    "problem_name": "Haar Features",
+    "problem_url": "https://codeforces.com/contest/549/problem/D",
+    "submission_id": "CF262809868",
+    "submission_url": "https://codeforces.com/contest/549/submission/262809868",
+    "tags": [
+      "greedy",
+      "implementation",
+      "*1900"
+    ],
+    "timestamp": "May/27/2024 06:22"
+  },
   "CF262809879": {
     "contest_id": 769,
     "language": "C++20 (GCC 13-64)",
