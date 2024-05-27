@@ -52531,6 +52531,22 @@
     ],
     "timestamp": "May/28/2024 04:19"
   },
+  "CF262938562": {
+    "contest_id": 2,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/2/C.cpp",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Commentator problem",
+    "problem_url": "https://codeforces.com/contest/2/problem/C",
+    "submission_id": "CF262938562",
+    "submission_url": "https://codeforces.com/contest/2/submission/262938562",
+    "tags": [
+      "geometry",
+      "*2600"
+    ],
+    "timestamp": "May/28/2024 04:45"
+  },
   "CF262938577": {
     "contest_id": 117,
     "language": "C++20 (GCC 13-64)",
