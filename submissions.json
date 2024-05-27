@@ -51058,6 +51058,24 @@
     ],
     "timestamp": "May/27/2024 06:30"
   },
+  "CF262934619": {
+    "contest_id": 1165,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1165/F2.cpp",
+    "platform": "Codeforces",
+    "problem_index": "F2",
+    "problem_name": "Microtransactions (hard version)",
+    "problem_url": "https://codeforces.com/contest/1165/problem/F2",
+    "submission_id": "CF262934619",
+    "submission_url": "https://codeforces.com/contest/1165/submission/262934619",
+    "tags": [
+      "binary search",
+      "greedy",
+      "implementation",
+      "*2000"
+    ],
+    "timestamp": "May/28/2024 03:17"
+  },
   "CF262934638": {
     "contest_id": 120,
     "language": "C++20 (GCC 13-64)",
