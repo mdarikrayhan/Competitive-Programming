@@ -52531,6 +52531,24 @@
     ],
     "timestamp": "May/28/2024 04:19"
   },
+  "CF262938900": {
+    "contest_id": 1626,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1626/E.cpp",
+    "platform": "Codeforces",
+    "problem_index": "E",
+    "problem_name": "Black and White Tree",
+    "problem_url": "https://codeforces.com/contest/1626/problem/E",
+    "submission_id": "CF262938900",
+    "submission_url": "https://codeforces.com/contest/1626/submission/262938900",
+    "tags": [
+      "dfs and similar",
+      "greedy",
+      "trees",
+      "*2400"
+    ],
+    "timestamp": "May/28/2024 04:56"
+  },
   "CF262938911": {
     "contest_id": 1592,
     "language": "C++20 (GCC 13-64)",
