@@ -23393,6 +23393,25 @@
     ],
     "timestamp": "May/17/2024 08:26"
   },
+  "CF262936887": {
+    "contest_id": 1777,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1777/E.cpp",
+    "platform": "Codeforces",
+    "problem_index": "E",
+    "problem_name": "Edge Reverse",
+    "problem_url": "https://codeforces.com/contest/1777/problem/E",
+    "submission_id": "CF262936887",
+    "submission_url": "https://codeforces.com/contest/1777/submission/262936887",
+    "tags": [
+      "binary search",
+      "dfs and similar",
+      "graphs",
+      "trees",
+      "*2200"
+    ],
+    "timestamp": "May/28/2024 04:02"
+  },
   "CF262936901": {
     "contest_id": 391,
     "language": "C++20 (GCC 13-64)",
