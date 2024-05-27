@@ -51058,6 +51058,22 @@
     ],
     "timestamp": "May/27/2024 06:30"
   },
+  "CF262840006": {
+    "contest_id": 1975,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1975/I.cpp",
+    "platform": "Codeforces",
+    "problem_index": "I",
+    "problem_name": "Mind Bloom",
+    "problem_url": "https://codeforces.com/contest/1975/problem/I",
+    "submission_id": "CF262840006",
+    "submission_url": "https://codeforces.com/contest/1975/submission/262840006",
+    "tags": [
+      "dp",
+      "*3500"
+    ],
+    "timestamp": "May/27/2024 13:06"
+  },
   "CF262932639": {
     "contest_id": 387,
     "language": "C++20 (GCC 13-64)",
