@@ -51058,6 +51058,24 @@
     ],
     "timestamp": "May/27/2024 06:30"
   },
+  "CF262934665": {
+    "contest_id": 623,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/623/B.cpp",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Array GCD",
+    "problem_url": "https://codeforces.com/contest/623/problem/B",
+    "submission_id": "CF262934665",
+    "submission_url": "https://codeforces.com/contest/623/submission/262934665",
+    "tags": [
+      "dp",
+      "greedy",
+      "number theory",
+      "*2300"
+    ],
+    "timestamp": "May/28/2024 03:17"
+  },
   "CF262934690": {
     "contest_id": 1270,
     "language": "C++20 (GCC 13-64)",
