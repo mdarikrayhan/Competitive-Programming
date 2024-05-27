@@ -23393,6 +23393,22 @@
     ],
     "timestamp": "May/17/2024 08:26"
   },
+  "CF262936691": {
+    "contest_id": 549,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/549/C.cpp",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "The Game Of Parity",
+    "problem_url": "https://codeforces.com/contest/549/problem/C",
+    "submission_id": "CF262936691",
+    "submission_url": "https://codeforces.com/contest/549/submission/262936691",
+    "tags": [
+      "games",
+      "*2200"
+    ],
+    "timestamp": "May/28/2024 03:57"
+  },
   "CF262936718": {
     "contest_id": 364,
     "language": "C++20 (GCC 13-64)",
