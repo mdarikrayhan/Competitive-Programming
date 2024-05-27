@@ -52531,6 +52531,23 @@
     ],
     "timestamp": "May/28/2024 04:19"
   },
+  "CF262938549": {
+    "contest_id": 899,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/899/F.cpp",
+    "platform": "Codeforces",
+    "problem_index": "F",
+    "problem_name": "Letters Removing",
+    "problem_url": "https://codeforces.com/contest/899/problem/F",
+    "submission_id": "CF262938549",
+    "submission_url": "https://codeforces.com/contest/899/submission/262938549",
+    "tags": [
+      "data structures",
+      "strings",
+      "*2100"
+    ],
+    "timestamp": "May/28/2024 04:44"
+  },
   "CF262938553": {
     "contest_id": 884,
     "language": "C++20 (GCC 13-64)",
