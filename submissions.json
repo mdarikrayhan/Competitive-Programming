@@ -23393,6 +23393,26 @@
     ],
     "timestamp": "May/17/2024 08:26"
   },
+  "CF262940124": {
+    "contest_id": 1391,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1391/E.cpp",
+    "platform": "Codeforces",
+    "problem_index": "E",
+    "problem_name": "Pairs of Pairs",
+    "problem_url": "https://codeforces.com/contest/1391/problem/E",
+    "submission_id": "CF262940124",
+    "submission_url": "https://codeforces.com/contest/1391/submission/262940124",
+    "tags": [
+      "constructive algorithms",
+      "dfs and similar",
+      "graphs",
+      "greedy",
+      "trees",
+      "*2600"
+    ],
+    "timestamp": "May/28/2024 05:34"
+  },
   "CF262940154": {
     "contest_id": 1242,
     "language": "C++20 (GCC 13-64)",
