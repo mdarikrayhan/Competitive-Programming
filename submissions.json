@@ -23393,6 +23393,25 @@
     ],
     "timestamp": "May/17/2024 08:26"
   },
+  "CF262937277": {
+    "contest_id": 637,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/637/D.cpp",
+    "platform": "Codeforces",
+    "problem_index": "D",
+    "problem_name": "Running with Obstacles",
+    "problem_url": "https://codeforces.com/contest/637/problem/D",
+    "submission_id": "CF262937277",
+    "submission_url": "https://codeforces.com/contest/637/submission/262937277",
+    "tags": [
+      "*special problem",
+      "data structures",
+      "dp",
+      "greedy",
+      "*1600"
+    ],
+    "timestamp": "May/28/2024 04:11"
+  },
   "CF262937279": {
     "contest_id": 291,
     "language": "C++20 (GCC 13-64)",
