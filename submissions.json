@@ -23393,6 +23393,24 @@
     ],
     "timestamp": "May/17/2024 08:26"
   },
+  "CF262940744": {
+    "contest_id": 1973,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1973/D.cpp",
+    "platform": "Codeforces",
+    "problem_index": "D",
+    "problem_name": "Cat, Fox and Maximum Array Split",
+    "problem_url": "https://codeforces.com/contest/1973/problem/D",
+    "submission_id": "CF262940744",
+    "submission_url": "https://codeforces.com/contest/1973/submission/262940744",
+    "tags": [
+      "brute force",
+      "interactive",
+      "math",
+      "*2400"
+    ],
+    "timestamp": "May/28/2024 05:57"
+  },
   "CF262940791": {
     "contest_id": 750,
     "language": "C++20 (GCC 13-64)",
