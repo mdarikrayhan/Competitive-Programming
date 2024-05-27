@@ -52531,6 +52531,25 @@
     ],
     "timestamp": "May/28/2024 04:19"
   },
+  "CF262938194": {
+    "contest_id": 1167,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1167/F.cpp",
+    "platform": "Codeforces",
+    "problem_index": "F",
+    "problem_name": "Scalar Queries",
+    "problem_url": "https://codeforces.com/contest/1167/problem/F",
+    "submission_id": "CF262938194",
+    "submission_url": "https://codeforces.com/contest/1167/submission/262938194",
+    "tags": [
+      "combinatorics",
+      "data structures",
+      "math",
+      "sortings",
+      "*2300"
+    ],
+    "timestamp": "May/28/2024 04:34"
+  },
   "CF262938207": {
     "contest_id": 45,
     "language": "C++20 (GCC 13-64)",
