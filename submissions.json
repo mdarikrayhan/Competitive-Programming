@@ -52531,6 +52531,23 @@
     ],
     "timestamp": "May/28/2024 04:19"
   },
+  "CF262938917": {
+    "contest_id": 257,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/257/D.cpp",
+    "platform": "Codeforces",
+    "problem_index": "D",
+    "problem_name": "Sum",
+    "problem_url": "https://codeforces.com/contest/257/problem/D",
+    "submission_id": "CF262938917",
+    "submission_url": "https://codeforces.com/contest/257/submission/262938917",
+    "tags": [
+      "greedy",
+      "math",
+      "*1900"
+    ],
+    "timestamp": "May/28/2024 04:56"
+  },
   "CF262938931": {
     "contest_id": 490,
     "language": "C++20 (GCC 13-64)",
