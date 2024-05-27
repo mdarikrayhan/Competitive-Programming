@@ -67315,6 +67315,25 @@
     ],
     "timestamp": "May/28/2024 04:19"
   },
+  "CF262937779": {
+    "contest_id": 1607,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1607/F.cpp",
+    "platform": "Codeforces",
+    "problem_index": "F",
+    "problem_name": "Robot on the Board 2",
+    "problem_url": "https://codeforces.com/contest/1607/problem/F",
+    "submission_id": "CF262937779",
+    "submission_url": "https://codeforces.com/contest/1607/submission/262937779",
+    "tags": [
+      "brute force",
+      "dfs and similar",
+      "graphs",
+      "implementation",
+      "*2300"
+    ],
+    "timestamp": "May/28/2024 04:24"
+  },
   "CF262937784": {
     "contest_id": 575,
     "language": "C++20 (GCC 13-64)",
