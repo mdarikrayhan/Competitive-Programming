@@ -51058,6 +51058,25 @@
     ],
     "timestamp": "May/27/2024 06:30"
   },
+  "CF262934082": {
+    "contest_id": 1800,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1800/G.cpp",
+    "platform": "Codeforces",
+    "problem_index": "G",
+    "problem_name": "Symmetree",
+    "problem_url": "https://codeforces.com/contest/1800/problem/G",
+    "submission_id": "CF262934082",
+    "submission_url": "https://codeforces.com/contest/1800/submission/262934082",
+    "tags": [
+      "dfs and similar",
+      "hashing",
+      "implementation",
+      "trees",
+      "*2200"
+    ],
+    "timestamp": "May/28/2024 03:06"
+  },
   "CF262934092": {
     "contest_id": 747,
     "language": "C++20 (GCC 13-64)",
