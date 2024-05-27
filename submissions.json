@@ -23393,6 +23393,26 @@
     ],
     "timestamp": "May/17/2024 08:26"
   },
+  "CF262936533": {
+    "contest_id": 1453,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1453/E.cpp",
+    "platform": "Codeforces",
+    "problem_index": "E",
+    "problem_name": "Dog Snacks",
+    "problem_url": "https://codeforces.com/contest/1453/problem/E",
+    "submission_id": "CF262936533",
+    "submission_url": "https://codeforces.com/contest/1453/submission/262936533",
+    "tags": [
+      "binary search",
+      "dfs and similar",
+      "dp",
+      "greedy",
+      "trees",
+      "*2300"
+    ],
+    "timestamp": "May/28/2024 03:54"
+  },
   "CF262936556": {
     "contest_id": 652,
     "language": "C++20 (GCC 13-64)",
