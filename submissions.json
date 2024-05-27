@@ -51058,6 +51058,22 @@
     ],
     "timestamp": "May/27/2024 06:30"
   },
+  "CF262934250": {
+    "contest_id": 82,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/82/D.cpp",
+    "platform": "Codeforces",
+    "problem_index": "D",
+    "problem_name": "Two out of Three",
+    "problem_url": "https://codeforces.com/contest/82/problem/D",
+    "submission_id": "CF262934250",
+    "submission_url": "https://codeforces.com/contest/82/submission/262934250",
+    "tags": [
+      "dp",
+      "*2000"
+    ],
+    "timestamp": "May/28/2024 03:09"
+  },
   "CF262934282": {
     "contest_id": 875,
     "language": "C++20 (GCC 13-64)",
