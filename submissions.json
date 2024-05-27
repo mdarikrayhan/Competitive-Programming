@@ -52531,6 +52531,23 @@
     ],
     "timestamp": "May/28/2024 04:19"
   },
+  "CF262938986": {
+    "contest_id": 1184,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1184/E1.cpp",
+    "platform": "Codeforces",
+    "problem_index": "E1",
+    "problem_name": "Daleks' Invasion (easy)",
+    "problem_url": "https://codeforces.com/contest/1184/problem/E1",
+    "submission_id": "CF262938986",
+    "submission_url": "https://codeforces.com/contest/1184/submission/262938986",
+    "tags": [
+      "graphs",
+      "trees",
+      "*1900"
+    ],
+    "timestamp": "May/28/2024 04:59"
+  },
   "CF262938997": {
     "contest_id": 1044,
     "language": "C++20 (GCC 13-64)",
