@@ -51058,6 +51058,21 @@
     ],
     "timestamp": "May/27/2024 06:30"
   },
+  "CF262813762": {
+    "contest_id": 929,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/929/D.cpp",
+    "platform": "Codeforces",
+    "problem_index": "D",
+    "problem_name": "\u041f\u043e\u0433\u0440\u0430\u043d\u0438\u0447\u043d\u044b\u0435 \u0432\u0440\u0430\u0442\u0430",
+    "problem_url": "https://codeforces.com/contest/929/problem/D",
+    "submission_id": "CF262813762",
+    "submission_url": "https://codeforces.com/contest/929/submission/262813762",
+    "tags": [
+      "*2400"
+    ],
+    "timestamp": "May/27/2024 08:04"
+  },
   "CF262840006": {
     "contest_id": 1975,
     "language": "C++20 (GCC 13-64)",
