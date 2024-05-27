@@ -65858,6 +65858,22 @@
     ],
     "timestamp": "May/28/2024 03:43"
   },
+  "CF262936049": {
+    "contest_id": 1090,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1090/D.cpp",
+    "platform": "Codeforces",
+    "problem_index": "D",
+    "problem_name": "Similar Arrays",
+    "problem_url": "https://codeforces.com/contest/1090/problem/D",
+    "submission_id": "CF262936049",
+    "submission_url": "https://codeforces.com/contest/1090/submission/262936049",
+    "tags": [
+      "constructive algorithms",
+      "*1800"
+    ],
+    "timestamp": "May/28/2024 03:43"
+  },
   "CF262936053": {
     "contest_id": 1066,
     "language": "C++20 (GCC 13-64)",
