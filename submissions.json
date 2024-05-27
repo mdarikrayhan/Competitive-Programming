@@ -51058,6 +51058,26 @@
     ],
     "timestamp": "May/27/2024 06:30"
   },
+  "CF262935492": {
+    "contest_id": 1114,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1114/F.cpp",
+    "platform": "Codeforces",
+    "problem_index": "F",
+    "problem_name": "Please, another Queries on Array?",
+    "problem_url": "https://codeforces.com/contest/1114/problem/F",
+    "submission_id": "CF262935492",
+    "submission_url": "https://codeforces.com/contest/1114/submission/262935492",
+    "tags": [
+      "bitmasks",
+      "data structures",
+      "divide and conquer",
+      "math",
+      "number theory",
+      "*2400"
+    ],
+    "timestamp": "May/28/2024 03:32"
+  },
   "CF262935501": {
     "contest_id": 1335,
     "language": "C++20 (GCC 13-64)",
