@@ -66283,6 +66283,23 @@
     ],
     "timestamp": "May/28/2024 03:52"
   },
+  "CF262936449": {
+    "contest_id": 524,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/524/C.cpp",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "The Art of Dealing with ATM",
+    "problem_url": "https://codeforces.com/contest/524/problem/C",
+    "submission_id": "CF262936449",
+    "submission_url": "https://codeforces.com/contest/524/submission/262936449",
+    "tags": [
+      "binary search",
+      "sortings",
+      "*1900"
+    ],
+    "timestamp": "May/28/2024 03:52"
+  },
   "CF262936455": {
     "contest_id": 1238,
     "language": "C++20 (GCC 13-64)",
