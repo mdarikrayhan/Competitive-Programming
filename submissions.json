@@ -52531,6 +52531,25 @@
     ],
     "timestamp": "May/28/2024 04:19"
   },
+  "CF262938050": {
+    "contest_id": 1609,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1609/E.cpp",
+    "platform": "Codeforces",
+    "problem_index": "E",
+    "problem_name": "William The Oblivious ",
+    "problem_url": "https://codeforces.com/contest/1609/problem/E",
+    "submission_id": "CF262938050",
+    "submission_url": "https://codeforces.com/contest/1609/submission/262938050",
+    "tags": [
+      "bitmasks",
+      "data structures",
+      "dp",
+      "matrices",
+      "*2400"
+    ],
+    "timestamp": "May/28/2024 04:31"
+  },
   "CF262938058": {
     "contest_id": 1101,
     "language": "C++20 (GCC 13-64)",
