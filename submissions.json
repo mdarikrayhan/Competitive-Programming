@@ -66784,6 +66784,23 @@
     ],
     "timestamp": "May/28/2024 04:02"
   },
+  "CF262936942": {
+    "contest_id": 1662,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1662/D.cpp",
+    "platform": "Codeforces",
+    "problem_index": "D",
+    "problem_name": "Evolution of Weasels",
+    "problem_url": "https://codeforces.com/contest/1662/problem/D",
+    "submission_id": "CF262936942",
+    "submission_url": "https://codeforces.com/contest/1662/submission/262936942",
+    "tags": [
+      "greedy",
+      "implementation",
+      "strings"
+    ],
+    "timestamp": "May/28/2024 04:03"
+  },
   "CF262936958": {
     "contest_id": 979,
     "language": "C++20 (GCC 13-64)",
