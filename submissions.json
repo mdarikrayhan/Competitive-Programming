@@ -23393,6 +23393,24 @@
     ],
     "timestamp": "May/17/2024 08:26"
   },
+  "CF262809258": {
+    "contest_id": 631,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/631/E.cpp",
+    "platform": "Codeforces",
+    "problem_index": "E",
+    "problem_name": "Product Sum",
+    "problem_url": "https://codeforces.com/contest/631/problem/E",
+    "submission_id": "CF262809258",
+    "submission_url": "https://codeforces.com/contest/631/submission/262809258",
+    "tags": [
+      "data structures",
+      "dp",
+      "geometry",
+      "*2600"
+    ],
+    "timestamp": "May/27/2024 06:03"
+  },
   "CF262809266": {
     "contest_id": 173,
     "language": "C++20 (GCC 13-64)",
