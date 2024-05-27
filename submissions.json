@@ -23393,6 +23393,28 @@
     ],
     "timestamp": "May/17/2024 08:26"
   },
+  "CF262809600": {
+    "contest_id": 1635,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1635/E.cpp",
+    "platform": "Codeforces",
+    "problem_index": "E",
+    "problem_name": "Cars ",
+    "problem_url": "https://codeforces.com/contest/1635/problem/E",
+    "submission_id": "CF262809600",
+    "submission_url": "https://codeforces.com/contest/1635/submission/262809600",
+    "tags": [
+      "2-sat",
+      "constructive algorithms",
+      "dfs and similar",
+      "dsu",
+      "graphs",
+      "greedy",
+      "sortings",
+      "*2200"
+    ],
+    "timestamp": "May/27/2024 06:13"
+  },
   "CF262809603": {
     "contest_id": 484,
     "language": "C++20 (GCC 13-64)",
