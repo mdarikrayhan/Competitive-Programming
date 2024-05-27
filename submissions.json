@@ -52531,6 +52531,27 @@
     ],
     "timestamp": "May/28/2024 04:19"
   },
+  "CF262939201": {
+    "contest_id": 1849,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1849/E.cpp",
+    "platform": "Codeforces",
+    "problem_index": "E",
+    "problem_name": "Max to the Right of Min",
+    "problem_url": "https://codeforces.com/contest/1849/problem/E",
+    "submission_id": "CF262939201",
+    "submission_url": "https://codeforces.com/contest/1849/submission/262939201",
+    "tags": [
+      "binary search",
+      "data structures",
+      "divide and conquer",
+      "dp",
+      "dsu",
+      "two pointers",
+      "*2300"
+    ],
+    "timestamp": "May/28/2024 05:06"
+  },
   "CF262939211": {
     "contest_id": 5,
     "language": "C++20 (GCC 13-64)",
