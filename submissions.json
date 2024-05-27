@@ -52531,6 +52531,23 @@
     ],
     "timestamp": "May/28/2024 04:19"
   },
+  "CF262939479": {
+    "contest_id": 1667,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1667/C.cpp",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Half Queen Cover",
+    "problem_url": "https://codeforces.com/contest/1667/problem/C",
+    "submission_id": "CF262939479",
+    "submission_url": "https://codeforces.com/contest/1667/submission/262939479",
+    "tags": [
+      "constructive algorithms",
+      "math",
+      "*2400"
+    ],
+    "timestamp": "May/28/2024 05:14"
+  },
   "CF262939486": {
     "contest_id": 1630,
     "language": "C++20 (GCC 13-64)",
