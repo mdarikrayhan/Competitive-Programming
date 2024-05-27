@@ -23393,6 +23393,26 @@
     ],
     "timestamp": "May/17/2024 08:26"
   },
+  "CF262936913": {
+    "contest_id": 1637,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1637/F.cpp",
+    "platform": "Codeforces",
+    "problem_index": "F",
+    "problem_name": "Towers",
+    "problem_url": "https://codeforces.com/contest/1637/problem/F",
+    "submission_id": "CF262936913",
+    "submission_url": "https://codeforces.com/contest/1637/submission/262936913",
+    "tags": [
+      "constructive algorithms",
+      "dfs and similar",
+      "dp",
+      "greedy",
+      "trees",
+      "*2500"
+    ],
+    "timestamp": "May/28/2024 04:02"
+  },
   "CF262937053": {
     "contest_id": 1023,
     "language": "C++20 (GCC 13-64)",
