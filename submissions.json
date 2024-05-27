@@ -66820,6 +66820,26 @@
     ],
     "timestamp": "May/28/2024 04:07"
   },
+  "CF262937105": {
+    "contest_id": 912,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/912/D.cpp",
+    "platform": "Codeforces",
+    "problem_index": "D",
+    "problem_name": "Fishes",
+    "problem_url": "https://codeforces.com/contest/912/problem/D",
+    "submission_id": "CF262937105",
+    "submission_url": "https://codeforces.com/contest/912/submission/262937105",
+    "tags": [
+      "data structures",
+      "graphs",
+      "greedy",
+      "probabilities",
+      "shortest paths",
+      "*2100"
+    ],
+    "timestamp": "May/28/2024 04:07"
+  },
   "CF262937108": {
     "contest_id": 916,
     "language": "C++20 (GCC 13-64)",
