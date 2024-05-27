@@ -67315,6 +67315,25 @@
     ],
     "timestamp": "May/28/2024 04:19"
   },
+  "CF262937855": {
+    "contest_id": 1861,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1861/E.cpp",
+    "platform": "Codeforces",
+    "problem_index": "E",
+    "problem_name": "Non-Intersecting Subpermutations",
+    "problem_url": "https://codeforces.com/contest/1861/problem/E",
+    "submission_id": "CF262937855",
+    "submission_url": "https://codeforces.com/contest/1861/submission/262937855",
+    "tags": [
+      "combinatorics",
+      "dp",
+      "implementation",
+      "math",
+      "*2300"
+    ],
+    "timestamp": "May/28/2024 04:26"
+  },
   "CF262937877": {
     "contest_id": 653,
     "language": "C++20 (GCC 13-64)",
