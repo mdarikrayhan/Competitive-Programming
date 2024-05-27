@@ -23393,6 +23393,22 @@
     ],
     "timestamp": "May/17/2024 08:26"
   },
+  "CF262936235": {
+    "contest_id": 52,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/52/B.cpp",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Right Triangles",
+    "problem_url": "https://codeforces.com/contest/52/problem/B",
+    "submission_id": "CF262936235",
+    "submission_url": "https://codeforces.com/contest/52/submission/262936235",
+    "tags": [
+      "combinatorics",
+      "*1600"
+    ],
+    "timestamp": "May/28/2024 03:48"
+  },
   "CF262936255": {
     "contest_id": 1267,
     "language": "C++20 (GCC 13-64)",
