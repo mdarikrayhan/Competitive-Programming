@@ -23393,6 +23393,24 @@
     ],
     "timestamp": "May/17/2024 08:26"
   },
+  "CF262809930": {
+    "contest_id": 229,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/229/D.cpp",
+    "platform": "Codeforces",
+    "problem_index": "D",
+    "problem_name": "Towers",
+    "problem_url": "https://codeforces.com/contest/229/problem/D",
+    "submission_id": "CF262809930",
+    "submission_url": "https://codeforces.com/contest/229/submission/262809930",
+    "tags": [
+      "dp",
+      "greedy",
+      "two pointers",
+      "*2100"
+    ],
+    "timestamp": "May/27/2024 06:23"
+  },
   "CF262809938": {
     "contest_id": 1436,
     "language": "C++20 (GCC 13-64)",
