@@ -23393,6 +23393,26 @@
     ],
     "timestamp": "May/17/2024 08:26"
   },
+  "CF262937139": {
+    "contest_id": 1439,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1439/C.cpp",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Greedy Shopping",
+    "problem_url": "https://codeforces.com/contest/1439/problem/C",
+    "submission_id": "CF262937139",
+    "submission_url": "https://codeforces.com/contest/1439/submission/262937139",
+    "tags": [
+      "binary search",
+      "data structures",
+      "divide and conquer",
+      "greedy",
+      "implementation",
+      "*2600"
+    ],
+    "timestamp": "May/28/2024 04:08"
+  },
   "CF262937162": {
     "contest_id": 328,
     "language": "C++20 (GCC 13-64)",
