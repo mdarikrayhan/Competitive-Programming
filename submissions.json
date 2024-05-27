@@ -52531,6 +52531,22 @@
     ],
     "timestamp": "May/28/2024 04:19"
   },
+  "CF262939380": {
+    "contest_id": 17,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/17/E.cpp",
+    "platform": "Codeforces",
+    "problem_index": "E",
+    "problem_name": "Palisection",
+    "problem_url": "https://codeforces.com/contest/17/problem/E",
+    "submission_id": "CF262939380",
+    "submission_url": "https://codeforces.com/contest/17/submission/262939380",
+    "tags": [
+      "strings",
+      "*2900"
+    ],
+    "timestamp": "May/28/2024 05:11"
+  },
   "CF262939388": {
     "contest_id": 1826,
     "language": "C++20 (GCC 13-64)",
