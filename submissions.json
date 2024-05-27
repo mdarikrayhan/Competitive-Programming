@@ -51058,6 +51058,19 @@
     ],
     "timestamp": "May/27/2024 06:30"
   },
+  "CF262934199": {
+    "contest_id": 393,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/393/B.cpp",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Three matrices",
+    "problem_url": "https://codeforces.com/contest/393/problem/B",
+    "submission_id": "CF262934199",
+    "submission_url": "https://codeforces.com/contest/393/submission/262934199",
+    "tags": [],
+    "timestamp": "May/28/2024 03:08"
+  },
   "CF262934212": {
     "contest_id": 638,
     "language": "C++20 (GCC 13-64)",
