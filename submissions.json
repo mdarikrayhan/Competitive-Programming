@@ -23393,6 +23393,25 @@
     ],
     "timestamp": "May/17/2024 08:26"
   },
+  "CF262940164": {
+    "contest_id": 1418,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1418/G.cpp",
+    "platform": "Codeforces",
+    "problem_index": "G",
+    "problem_name": "Three Occurrences",
+    "problem_url": "https://codeforces.com/contest/1418/problem/G",
+    "submission_id": "CF262940164",
+    "submission_url": "https://codeforces.com/contest/1418/submission/262940164",
+    "tags": [
+      "data structures",
+      "divide and conquer",
+      "hashing",
+      "two pointers",
+      "*2500"
+    ],
+    "timestamp": "May/28/2024 05:36"
+  },
   "CF262940170": {
     "contest_id": 1227,
     "language": "C++20 (GCC 13-64)",
