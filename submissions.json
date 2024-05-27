@@ -52531,6 +52531,25 @@
     ],
     "timestamp": "May/28/2024 04:19"
   },
+  "CF262938377": {
+    "contest_id": 1789,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1789/D.cpp",
+    "platform": "Codeforces",
+    "problem_index": "D",
+    "problem_name": "Serval and Shift-Shift-Shift",
+    "problem_url": "https://codeforces.com/contest/1789/problem/D",
+    "submission_id": "CF262938377",
+    "submission_url": "https://codeforces.com/contest/1789/submission/262938377",
+    "tags": [
+      "bitmasks",
+      "brute force",
+      "constructive algorithms",
+      "implementation",
+      "*2200"
+    ],
+    "timestamp": "May/28/2024 04:39"
+  },
   "CF262938387": {
     "contest_id": 492,
     "language": "C++20 (GCC 13-64)",
