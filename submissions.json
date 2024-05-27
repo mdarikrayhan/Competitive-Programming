@@ -23393,6 +23393,25 @@
     ],
     "timestamp": "May/17/2024 08:26"
   },
+  "CF262937496": {
+    "contest_id": 362,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/362/C.cpp",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Insertion Sort",
+    "problem_url": "https://codeforces.com/contest/362/problem/C",
+    "submission_id": "CF262937496",
+    "submission_url": "https://codeforces.com/contest/362/submission/262937496",
+    "tags": [
+      "data structures",
+      "dp",
+      "implementation",
+      "math",
+      "*1900"
+    ],
+    "timestamp": "May/28/2024 04:16"
+  },
   "CF262937530": {
     "contest_id": 464,
     "language": "C++20 (GCC 13-64)",
