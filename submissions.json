@@ -23393,6 +23393,22 @@
     ],
     "timestamp": "May/17/2024 08:26"
   },
+  "CF262936901": {
+    "contest_id": 391,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/391/A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Genetic Engineering",
+    "problem_url": "https://codeforces.com/contest/391/problem/A",
+    "submission_id": "CF262936901",
+    "submission_url": "https://codeforces.com/contest/391/submission/262936901",
+    "tags": [
+      "implementation",
+      "two pointers"
+    ],
+    "timestamp": "May/28/2024 04:02"
+  },
   "CF262936913": {
     "contest_id": 1637,
     "language": "C++20 (GCC 13-64)",
