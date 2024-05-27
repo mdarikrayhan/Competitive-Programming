@@ -23393,6 +23393,25 @@
     ],
     "timestamp": "May/17/2024 08:26"
   },
+  "CF262809198": {
+    "contest_id": 982,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/982/D.cpp",
+    "platform": "Codeforces",
+    "problem_index": "D",
+    "problem_name": "Shark",
+    "problem_url": "https://codeforces.com/contest/982/problem/D",
+    "submission_id": "CF262809198",
+    "submission_url": "https://codeforces.com/contest/982/submission/262809198",
+    "tags": [
+      "brute force",
+      "data structures",
+      "dsu",
+      "trees",
+      "*1900"
+    ],
+    "timestamp": "May/27/2024 06:01"
+  },
   "CF262809201": {
     "contest_id": 1840,
     "language": "C++20 (GCC 13-64)",
