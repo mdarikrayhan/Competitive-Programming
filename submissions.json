@@ -23393,6 +23393,22 @@
     ],
     "timestamp": "May/17/2024 08:26"
   },
+  "CF262936852": {
+    "contest_id": 58,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/58/C.cpp",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Trees",
+    "problem_url": "https://codeforces.com/contest/58/problem/C",
+    "submission_id": "CF262936852",
+    "submission_url": "https://codeforces.com/contest/58/submission/262936852",
+    "tags": [
+      "brute force",
+      "*1800"
+    ],
+    "timestamp": "May/28/2024 04:01"
+  },
   "CF262936887": {
     "contest_id": 1777,
     "language": "C++20 (GCC 13-64)",
