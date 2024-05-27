@@ -67315,6 +67315,24 @@
     ],
     "timestamp": "May/28/2024 04:19"
   },
+  "CF262937705": {
+    "contest_id": 877,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/877/F.cpp",
+    "platform": "Codeforces",
+    "problem_index": "F",
+    "problem_name": "Ann and Books",
+    "problem_url": "https://codeforces.com/contest/877/problem/F",
+    "submission_id": "CF262937705",
+    "submission_url": "https://codeforces.com/contest/877/submission/262937705",
+    "tags": [
+      "data structures",
+      "flows",
+      "hashing",
+      "*2300"
+    ],
+    "timestamp": "May/28/2024 04:21"
+  },
   "CF262937718": {
     "contest_id": 804,
     "language": "C++20 (GCC 13-64)",
