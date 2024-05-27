@@ -1,34 +1,40 @@
-// LUOGU_RID: 92342014
-#include<bits/stdc++.h>
+#include <bits/stdc++.h>
 using namespace std;
+typedef long long ll;
 const int N=3e5+5;
-int n,m,p,q,v[N];
-long long d[N],ans=1e18;
-vector<pair<int,int>> e[N];
-priority_queue<pair<long long,int>> c;
+int n,m,p,q;
+string mp[N];
+ll dis[N];
+vector<pair<int,int> >G[N];
+priority_queue<pair<ll,int> >Q;
+inline int id(int i,int j){if(!i||!j||i>n||j>m||mp[i][j-1]=='#')return -1;return (i-1)*m+j;}
+inline void adde(int u,int v,int w){if(u<0||v<0)return;G[u].push_back(make_pair(v,w));}
 int main(){
-scanf("%d%d%d%d",&n,&m,&p,&q);
-auto get=[&](int x,int y){return (x-1)*m+y;};
-for(int i=1;i<=n;i++){
-char s[N];scanf("%s",s+1);
-for(int j=1;j<=m;j++){
-d[get(i,j)]=s[j]=='.'?(c.emplace(0,get(i,j)),0):1e18;
-auto add=[&](int x,int y,int z){if(x>0&&x<=n&&y>0&&y<=m)e[get(x,y)].emplace_back(get(i,j),z);};
-if(s[j]=='L')add(i-1,j+1,p),add(i+1,j+1,p),add(i,j+2,q);
-if(s[j]=='R')add(i-1,j-1,p),add(i+1,j-1,p),add(i,j-2,q);
-if(s[j]=='U')add(i+1,j-1,p),add(i+1,j+1,p),add(i+2,j,q);
-if(s[j]=='D')add(i-1,j-1,p),add(i-1,j+1,p),add(i-2,j,q);
-}
-}
-while(c.size()){
-int x=c.top().second;c.pop();
-if(v[x])continue;v[x]=1;
-for(auto [y,z]:e[x])if(d[x]+z<d[y])d[y]=d[x]+z,c.emplace(-d[y],y);
-}
-for(int i=1;i<=n;i++)for(int j=1;j<=m;j++){
-if(i<n)ans=min(ans,d[get(i,j)]+d[get(i+1,j)]);
-if(j<m)ans=min(ans,d[get(i,j)]+d[get(i,j+1)]);
-}
-printf("%lld\n",ans<1e18?ans:-1);
-return 0;
+	ios::sync_with_stdio(0);
+	cin>>n>>m>>p>>q;
+	memset(dis,0x3f,sizeof dis);
+	for(int i=1;i<=n;i++)cin>>mp[i];
+	for(int i=1;i<=n;i++){
+		for(int j=1;j<=m;j++){
+			if(mp[i][j-1]=='L')adde(id(i-1,j+1),id(i,j),p),adde(id(i+1,j+1),id(i,j),p),adde(id(i,j+2),id(i,j),q);
+			if(mp[i][j-1]=='R')adde(id(i-1,j-1),id(i,j),p),adde(id(i+1,j-1),id(i,j),p),adde(id(i,j-2),id(i,j),q);
+			if(mp[i][j-1]=='U')adde(id(i+1,j-1),id(i,j),p),adde(id(i+1,j+1),id(i,j),p),adde(id(i+2,j),id(i,j),q);
+			if(mp[i][j-1]=='D')adde(id(i-1,j-1),id(i,j),p),adde(id(i-1,j+1),id(i,j),p),adde(id(i-2,j),id(i,j),q);
+			if(mp[i][j-1]=='.')Q.push(make_pair(dis[id(i,j)]=0,id(i,j)));
+		}
+	}
+	while(!Q.empty()){
+		int x=Q.top().second;Q.pop();
+		for(auto e:G[x]){
+			int y=e.first,z=e.second;
+			if(dis[y]>dis[x]+z){
+				dis[y]=dis[x]+z;
+				Q.push(make_pair(-dis[y],y));
+			}
+		}
+	}
+	ll ans=1e18;
+	for(int i=1;i<=n;i++)for(int j=1;j<m;j++)if(id(i,j)>=0&&id(i,j+1)>=0)ans=min(ans,dis[id(i,j)]+dis[id(i,j+1)]);
+	for(int i=1;i<n;i++)for(int j=1;j<=m;j++)if(id(i,j)>=0&&id(i+1,j)>=0)ans=min(ans,dis[id(i,j)]+dis[id(i+1,j)]);
+	cout<<(ans==1e18?-1:ans)<<'\n';
 }

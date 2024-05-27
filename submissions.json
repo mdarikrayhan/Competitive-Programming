@@ -66840,6 +66840,25 @@
     ],
     "timestamp": "May/28/2024 04:08"
   },
+  "CF262937153": {
+    "contest_id": 1753,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1753/D.cpp",
+    "platform": "Codeforces",
+    "problem_index": "D",
+    "problem_name": "The Beach",
+    "problem_url": "https://codeforces.com/contest/1753/problem/D",
+    "submission_id": "CF262937153",
+    "submission_url": "https://codeforces.com/contest/1753/submission/262937153",
+    "tags": [
+      "constructive algorithms",
+      "dfs and similar",
+      "graphs",
+      "shortest paths",
+      "*2400"
+    ],
+    "timestamp": "May/28/2024 04:08"
+  },
   "CF262937162": {
     "contest_id": 328,
     "language": "C++20 (GCC 13-64)",
