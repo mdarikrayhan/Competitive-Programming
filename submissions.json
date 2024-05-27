@@ -52531,6 +52531,22 @@
     ],
     "timestamp": "May/28/2024 04:19"
   },
+  "CF262938597": {
+    "contest_id": 765,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/765/F.cpp",
+    "platform": "Codeforces",
+    "problem_index": "F",
+    "problem_name": "Souvenirs",
+    "problem_url": "https://codeforces.com/contest/765/problem/F",
+    "submission_id": "CF262938597",
+    "submission_url": "https://codeforces.com/contest/765/submission/262938597",
+    "tags": [
+      "data structures",
+      "*3100"
+    ],
+    "timestamp": "May/28/2024 04:46"
+  },
   "CF262938606": {
     "contest_id": 1468,
     "language": "C++20 (GCC 13-64)",
