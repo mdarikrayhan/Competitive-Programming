@@ -23393,6 +23393,26 @@
     ],
     "timestamp": "May/17/2024 08:26"
   },
+  "CF262809179": {
+    "contest_id": 1772,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1772/F.cpp",
+    "platform": "Codeforces",
+    "problem_index": "F",
+    "problem_name": "Copy of a Copy of a Copy",
+    "problem_url": "https://codeforces.com/contest/1772/problem/F",
+    "submission_id": "CF262809179",
+    "submission_url": "https://codeforces.com/contest/1772/submission/262809179",
+    "tags": [
+      "constructive algorithms",
+      "dfs and similar",
+      "graphs",
+      "implementation",
+      "sortings",
+      "*2000"
+    ],
+    "timestamp": "May/27/2024 06:00"
+  },
   "CF262809198": {
     "contest_id": 982,
     "language": "C++20 (GCC 13-64)",
