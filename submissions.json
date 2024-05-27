@@ -51058,6 +51058,27 @@
     ],
     "timestamp": "May/27/2024 06:30"
   },
+  "CF262934645": {
+    "contest_id": 1712,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1712/E1.cpp",
+    "platform": "Codeforces",
+    "problem_index": "E1",
+    "problem_name": "LCM Sum (easy version)",
+    "problem_url": "https://codeforces.com/contest/1712/problem/E1",
+    "submission_id": "CF262934645",
+    "submission_url": "https://codeforces.com/contest/1712/submission/262934645",
+    "tags": [
+      "binary search",
+      "brute force",
+      "combinatorics",
+      "math",
+      "number theory",
+      "two pointers",
+      "*2300"
+    ],
+    "timestamp": "May/28/2024 03:17"
+  },
   "CF262934662": {
     "contest_id": 1194,
     "language": "C++20 (GCC 13-64)",
