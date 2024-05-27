@@ -23393,6 +23393,23 @@
     ],
     "timestamp": "May/17/2024 08:26"
   },
+  "CF262809266": {
+    "contest_id": 173,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/173/A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Rock-Paper-Scissors",
+    "problem_url": "https://codeforces.com/contest/173/problem/A",
+    "submission_id": "CF262809266",
+    "submission_url": "https://codeforces.com/contest/173/submission/262809266",
+    "tags": [
+      "implementation",
+      "math",
+      "*1300"
+    ],
+    "timestamp": "May/27/2024 06:03"
+  },
   "CF262809302": {
     "contest_id": 1704,
     "language": "C++20 (GCC 13-64)",
