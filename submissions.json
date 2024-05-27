@@ -51058,6 +51058,25 @@
     ],
     "timestamp": "May/27/2024 06:30"
   },
+  "CF262813533": {
+    "contest_id": 1977,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1977/D.cpp",
+    "platform": "Codeforces",
+    "problem_index": "D",
+    "problem_name": "XORificator",
+    "problem_url": "https://codeforces.com/contest/1977/problem/D",
+    "submission_id": "CF262813533",
+    "submission_url": "https://codeforces.com/contest/1977/submission/262813533",
+    "tags": [
+      "bitmasks",
+      "brute force",
+      "greedy",
+      "hashing",
+      "*2300"
+    ],
+    "timestamp": "May/27/2024 07:59"
+  },
   "CF262813633": {
     "contest_id": 7,
     "language": "C++20 (GCC 13-64)",
