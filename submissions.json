@@ -52531,6 +52531,24 @@
     ],
     "timestamp": "May/28/2024 04:19"
   },
+  "CF262938997": {
+    "contest_id": 1044,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1044/B.cpp",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Intersecting Subtrees",
+    "problem_url": "https://codeforces.com/contest/1044/problem/B",
+    "submission_id": "CF262938997",
+    "submission_url": "https://codeforces.com/contest/1044/submission/262938997",
+    "tags": [
+      "dfs and similar",
+      "interactive",
+      "trees",
+      "*1900"
+    ],
+    "timestamp": "May/28/2024 04:59"
+  },
   "CF262939009": {
     "contest_id": 1725,
     "language": "C++20 (GCC 13-64)",
