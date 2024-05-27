@@ -52531,6 +52531,28 @@
     ],
     "timestamp": "May/28/2024 04:19"
   },
+  "CF262938590": {
+    "contest_id": 1928,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1928/E.cpp",
+    "platform": "Codeforces",
+    "problem_index": "E",
+    "problem_name": "Modular Sequence",
+    "problem_url": "https://codeforces.com/contest/1928/problem/E",
+    "submission_id": "CF262938590",
+    "submission_url": "https://codeforces.com/contest/1928/submission/262938590",
+    "tags": [
+      "brute force",
+      "constructive algorithms",
+      "dp",
+      "graphs",
+      "greedy",
+      "math",
+      "number theory",
+      "*2300"
+    ],
+    "timestamp": "May/28/2024 04:46"
+  },
   "CF262938597": {
     "contest_id": 765,
     "language": "C++20 (GCC 13-64)",
