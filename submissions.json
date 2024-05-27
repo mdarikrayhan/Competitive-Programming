@@ -23393,6 +23393,22 @@
     ],
     "timestamp": "May/17/2024 08:26"
   },
+  "CF262936179": {
+    "contest_id": 1227,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1227/F1.cpp",
+    "platform": "Codeforces",
+    "problem_index": "F1",
+    "problem_name": "Wrong Answer on test 233 (Easy Version)",
+    "problem_url": "https://codeforces.com/contest/1227/problem/F1",
+    "submission_id": "CF262936179",
+    "submission_url": "https://codeforces.com/contest/1227/submission/262936179",
+    "tags": [
+      "dp",
+      "*2200"
+    ],
+    "timestamp": "May/28/2024 03:46"
+  },
   "CF262936196": {
     "contest_id": 1056,
     "language": "C++20 (GCC 13-64)",
