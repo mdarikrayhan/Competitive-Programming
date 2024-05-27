@@ -23393,6 +23393,28 @@
     ],
     "timestamp": "May/17/2024 08:26"
   },
+  "CF262936470": {
+    "contest_id": 1748,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1748/E.cpp",
+    "platform": "Codeforces",
+    "problem_index": "E",
+    "problem_name": "Yet Another Array Counting Problem",
+    "problem_url": "https://codeforces.com/contest/1748/problem/E",
+    "submission_id": "CF262936470",
+    "submission_url": "https://codeforces.com/contest/1748/submission/262936470",
+    "tags": [
+      "binary search",
+      "data structures",
+      "divide and conquer",
+      "dp",
+      "flows",
+      "math",
+      "trees",
+      "*2300"
+    ],
+    "timestamp": "May/28/2024 03:53"
+  },
   "CF262936495": {
     "contest_id": 995,
     "language": "C++20 (GCC 13-64)",
