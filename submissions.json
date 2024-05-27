@@ -51058,6 +51058,23 @@
     ],
     "timestamp": "May/27/2024 06:30"
   },
+  "CF262934803": {
+    "contest_id": 1896,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1896/E.cpp",
+    "platform": "Codeforces",
+    "problem_index": "E",
+    "problem_name": "Permutation Sorting",
+    "problem_url": "https://codeforces.com/contest/1896/problem/E",
+    "submission_id": "CF262934803",
+    "submission_url": "https://codeforces.com/contest/1896/submission/262934803",
+    "tags": [
+      "data structures",
+      "sortings",
+      "*2100"
+    ],
+    "timestamp": "May/28/2024 03:20"
+  },
   "CF262934833": {
     "contest_id": 305,
     "language": "C++20 (GCC 13-64)",
