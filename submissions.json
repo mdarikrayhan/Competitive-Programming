@@ -23393,6 +23393,23 @@
     ],
     "timestamp": "May/17/2024 08:26"
   },
+  "CF262936578": {
+    "contest_id": 850,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/850/B.cpp",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Arpa and a list of numbers",
+    "problem_url": "https://codeforces.com/contest/850/problem/B",
+    "submission_id": "CF262936578",
+    "submission_url": "https://codeforces.com/contest/850/submission/262936578",
+    "tags": [
+      "implementation",
+      "number theory",
+      "*2100"
+    ],
+    "timestamp": "May/28/2024 03:55"
+  },
   "CF262936579": {
     "contest_id": 1621,
     "language": "C++20 (GCC 13-64)",
