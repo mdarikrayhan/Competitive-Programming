@@ -52531,6 +52531,22 @@
     ],
     "timestamp": "May/28/2024 04:19"
   },
+  "CF262939288": {
+    "contest_id": 1607,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1607/G.cpp",
+    "platform": "Codeforces",
+    "problem_index": "G",
+    "problem_name": "Banquet Preparations 1",
+    "problem_url": "https://codeforces.com/contest/1607/problem/G",
+    "submission_id": "CF262939288",
+    "submission_url": "https://codeforces.com/contest/1607/submission/262939288",
+    "tags": [
+      "greedy",
+      "*2200"
+    ],
+    "timestamp": "May/28/2024 05:08"
+  },
   "CF262939312": {
     "contest_id": 513,
     "language": "C++20 (GCC 13-64)",
