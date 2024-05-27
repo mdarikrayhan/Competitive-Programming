@@ -23393,6 +23393,24 @@
     ],
     "timestamp": "May/17/2024 08:26"
   },
+  "CF262810082": {
+    "contest_id": 386,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/386/B.cpp",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Fly, freebies, fly!",
+    "problem_url": "https://codeforces.com/contest/386/problem/B",
+    "submission_id": "CF262810082",
+    "submission_url": "https://codeforces.com/contest/386/submission/262810082",
+    "tags": [
+      "binary search",
+      "brute force",
+      "implementation",
+      "*1400"
+    ],
+    "timestamp": "May/27/2024 06:28"
+  },
   "CF262810087": {
     "contest_id": 767,
     "language": "C++20 (GCC 13-64)",
