@@ -51058,6 +51058,26 @@
     ],
     "timestamp": "May/27/2024 06:30"
   },
+  "CF262934662": {
+    "contest_id": 1194,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1194/E.cpp",
+    "platform": "Codeforces",
+    "problem_index": "E",
+    "problem_name": "Count The Rectangles",
+    "problem_url": "https://codeforces.com/contest/1194/problem/E",
+    "submission_id": "CF262934662",
+    "submission_url": "https://codeforces.com/contest/1194/submission/262934662",
+    "tags": [
+      "bitmasks",
+      "brute force",
+      "data structures",
+      "geometry",
+      "sortings",
+      "*2200"
+    ],
+    "timestamp": "May/28/2024 03:17"
+  },
   "CF262934665": {
     "contest_id": 623,
     "language": "C++20 (GCC 13-64)",
