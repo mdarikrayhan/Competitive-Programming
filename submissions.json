@@ -23393,6 +23393,25 @@
     ],
     "timestamp": "May/17/2024 08:26"
   },
+  "CF262939913": {
+    "contest_id": 1497,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1497/D.cpp",
+    "platform": "Codeforces",
+    "problem_index": "D",
+    "problem_name": "Genius",
+    "problem_url": "https://codeforces.com/contest/1497/problem/D",
+    "submission_id": "CF262939913",
+    "submission_url": "https://codeforces.com/contest/1497/submission/262939913",
+    "tags": [
+      "bitmasks",
+      "dp",
+      "graphs",
+      "number theory",
+      "*2500"
+    ],
+    "timestamp": "May/28/2024 05:28"
+  },
   "CF262939933": {
     "contest_id": 1137,
     "language": "C++20 (GCC 13-64)",
