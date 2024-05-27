@@ -67315,6 +67315,25 @@
     ],
     "timestamp": "May/28/2024 04:19"
   },
+  "CF262937629": {
+    "contest_id": 1236,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1236/D.cpp",
+    "platform": "Codeforces",
+    "problem_index": "D",
+    "problem_name": "Alice and the Doll",
+    "problem_url": "https://codeforces.com/contest/1236/problem/D",
+    "submission_id": "CF262937629",
+    "submission_url": "https://codeforces.com/contest/1236/submission/262937629",
+    "tags": [
+      "brute force",
+      "data structures",
+      "greedy",
+      "implementation",
+      "*2300"
+    ],
+    "timestamp": "May/28/2024 04:20"
+  },
   "CF262937647": {
     "contest_id": 1039,
     "language": "C++20 (GCC 13-64)",
