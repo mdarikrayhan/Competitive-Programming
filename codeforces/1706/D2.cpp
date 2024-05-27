@@ -1,11 +1,45 @@
-#include<bits/stdc++.h>
-using namespace std;const int N=1e5+7;
-int T_T,n,i,j,k,x,l,r,ans,a[N],f[N];
-int main(){
-for(scanf("%d",&T_T);T_T--;){
-for(scanf("%d%d",&n,&k),ans=N,i=1;i<=n;++i)scanf("%d",a+i);
-for(i=0;i<=a[1];++i)f[i]=-1;
-for(i=1;i<=n;++i)for(x=a[i],l=1,r=0;l<=x;l=r+1)r=x/(x/l),f[l]=max(f[l],x/min(x/l,k));
-for(i=1;i<=a[1];++i)f[i]=max(f[i-1],f[i]),ans=min(ans,f[i]-i);printf("%d\n",ans);
-}
+/*
+ * d.cc
+ * 2022-07-18 23:02:12
+*/
+#include <bits/stdc++.h>
+using namespace std;
+const int INF = 1e9;
+int main() {
+  ios::sync_with_stdio(false);
+  cin.tie(nullptr);
+  int tt;
+  cin >> tt;
+  while (tt--) {
+    int n, k;
+    cin >> n >> k;
+    vector<int> a(n);
+    for (int i = 0; i < n; i++) cin >> a[i];
+    const int N = (int) 1e5 + 1;
+    vector<vector<int>> at(N);
+    for (int i = 0; i < n; i++) {
+      at[a[i]].push_back(i);
+    }
+    int ans = N, mn = a[0];
+    for (int mx = N - 1; mx >= 0; mx--) {
+      ans = min(ans, mx - mn);
+      if (mx > 0) {
+        bool fail = false;
+        for (int i : at[mx]) {
+          int p = a[i] / mx + 1;
+          if (p > k) {
+            fail = true;
+            break;
+          }
+          int r = a[i] / p;
+          mn = min(mn, r);
+          at[r].push_back(i);
+        }
+        if (fail) break;
+        vector<int>().swap(at[mx]);
+      }
+    }
+    cout << ans << "\n";
+  }
+  return 0;
 }

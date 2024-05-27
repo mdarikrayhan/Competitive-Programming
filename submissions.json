@@ -23393,6 +23393,29 @@
     ],
     "timestamp": "May/17/2024 08:26"
   },
+  "CF262937434": {
+    "contest_id": 1706,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1706/D2.cpp",
+    "platform": "Codeforces",
+    "problem_index": "D2",
+    "problem_name": "Chopping Carrots (Hard Version)",
+    "problem_url": "https://codeforces.com/contest/1706/problem/D2",
+    "submission_id": "CF262937434",
+    "submission_url": "https://codeforces.com/contest/1706/submission/262937434",
+    "tags": [
+      "brute force",
+      "constructive algorithms",
+      "data structures",
+      "dp",
+      "greedy",
+      "math",
+      "number theory",
+      "two pointers",
+      "*2400"
+    ],
+    "timestamp": "May/28/2024 04:15"
+  },
   "CF262937443": {
     "contest_id": 409,
     "language": "C++20 (GCC 13-64)",
