@@ -52531,6 +52531,25 @@
     ],
     "timestamp": "May/28/2024 04:19"
   },
+  "CF262938868": {
+    "contest_id": 576,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/576/B.cpp",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Invariance of Tree",
+    "problem_url": "https://codeforces.com/contest/576/problem/B",
+    "submission_id": "CF262938868",
+    "submission_url": "https://codeforces.com/contest/576/submission/262938868",
+    "tags": [
+      "constructive algorithms",
+      "dfs and similar",
+      "greedy",
+      "trees",
+      "*2100"
+    ],
+    "timestamp": "May/28/2024 04:54"
+  },
   "CF262938874": {
     "contest_id": 1497,
     "language": "C++20 (GCC 13-64)",
