@@ -23393,6 +23393,25 @@
     ],
     "timestamp": "May/17/2024 08:26"
   },
+  "CF262936270": {
+    "contest_id": 808,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/808/E.cpp",
+    "platform": "Codeforces",
+    "problem_index": "E",
+    "problem_name": "Selling Souvenirs",
+    "problem_url": "https://codeforces.com/contest/808/problem/E",
+    "submission_id": "CF262936270",
+    "submission_url": "https://codeforces.com/contest/808/submission/262936270",
+    "tags": [
+      "binary search",
+      "dp",
+      "greedy",
+      "ternary search",
+      "*2300"
+    ],
+    "timestamp": "May/28/2024 03:48"
+  },
   "CF262936297": {
     "contest_id": 1572,
     "language": "C++20 (GCC 13-64)",
