@@ -52531,6 +52531,23 @@
     ],
     "timestamp": "May/28/2024 04:19"
   },
+  "CF262938973": {
+    "contest_id": 1784,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1784/C.cpp",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Monsters (hard version)",
+    "problem_url": "https://codeforces.com/contest/1784/problem/C",
+    "submission_id": "CF262938973",
+    "submission_url": "https://codeforces.com/contest/1784/submission/262938973",
+    "tags": [
+      "data structures",
+      "greedy",
+      "*2200"
+    ],
+    "timestamp": "May/28/2024 04:58"
+  },
   "CF262938986": {
     "contest_id": 1184,
     "language": "C++20 (GCC 13-64)",
