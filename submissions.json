@@ -51058,6 +51058,22 @@
     ],
     "timestamp": "May/27/2024 06:30"
   },
+  "CF262813392": {
+    "contest_id": 314,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/314/A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Sereja and Contest",
+    "problem_url": "https://codeforces.com/contest/314/problem/A",
+    "submission_id": "CF262813392",
+    "submission_url": "https://codeforces.com/contest/314/submission/262813392",
+    "tags": [
+      "implementation",
+      "*1600"
+    ],
+    "timestamp": "May/27/2024 07:55"
+  },
   "CF262813471": {
     "contest_id": 222,
     "language": "C++20 (GCC 13-64)",
