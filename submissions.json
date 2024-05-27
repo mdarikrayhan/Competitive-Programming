@@ -52531,6 +52531,27 @@
     ],
     "timestamp": "May/28/2024 04:19"
   },
+  "CF262938542": {
+    "contest_id": 1698,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1698/E.cpp",
+    "platform": "Codeforces",
+    "problem_index": "E",
+    "problem_name": "PermutationForces II",
+    "problem_url": "https://codeforces.com/contest/1698/problem/E",
+    "submission_id": "CF262938542",
+    "submission_url": "https://codeforces.com/contest/1698/submission/262938542",
+    "tags": [
+      "brute force",
+      "combinatorics",
+      "greedy",
+      "sortings",
+      "trees",
+      "two pointers",
+      "*2300"
+    ],
+    "timestamp": "May/28/2024 04:44"
+  },
   "CF262938549": {
     "contest_id": 899,
     "language": "C++20 (GCC 13-64)",

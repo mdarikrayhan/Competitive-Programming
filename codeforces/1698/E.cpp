@@ -1,15 +1,40 @@
 #include<bits/stdc++.h>
-using namespace std;const int N=2e5+7,mod=998244353;
-int n,k,T_T,a[N],b[N],c[N],vis[N],res,ans,i;
-int main(){
-	for(scanf("%d",&T_T);T_T--;){
-		for(scanf("%d%d",&n,&k),res=0,ans=1,i=1;i<=n;++i)scanf("%d",a+i),c[a[i]]=i,vis[i]=0;
-		for(i=1;i<=n;++i)scanf("%d",b+i),vis[max(b[i],0)]=i;
-		for(i=1;i<=k;++i)if(b[c[i]]==-1)res++;
-		for(i=1;i<=n;++i){
-			if(i+k<=n&&b[c[i+k]]==-1)res++;
-			if(vis[i]&&a[vis[i]]-i>k)ans=0;
-			if(!vis[i])ans=1LL*ans*res%mod,res--;
-		}printf("%d\n",ans);
-	}
+using namespace std;
+
+#define ll long long
+
+const int sz = 2e5 + 5;
+const int mod = 998244353;
+
+int a[sz], b[sz];
+
+void solve(){
+    int n, s, res = 1; cin >> n >> s;
+    bool flag = true; set<int>st;
+    for(int i = 1; i <= n; i++) cin >> a[i], st.insert(i);
+    vector<int>v1, v2;
+    for(int i = 1; i <= n; i++){
+        cin >> b[i];
+        if(b[i] != -1) st.erase(b[i]);
+        if(b[i] == -1) v1.push_back(a[i]);
+        if(b[i] != -1 and a[i] - b[i] > s) flag = false;
+    }
+    if(!flag){ cout << 0 << '\n'; return;}
+    for(int i = 1; i <= n; i++) if(st.count(i)) v2.push_back(i);
+    sort(v1.rbegin(), v1.rend());
+    for(int i = 0; i < v1.size(); i++){
+        int k = lower_bound(v2.begin(), v2.end(), v1[i] - s) - v2.begin();
+        int sum = v2.size() - k;
+        res = 1LL * res * (sum - i) % mod;
+    }
+    cout << res << '\n';
+}
+
+signed main(){
+    ios_base::sync_with_stdio(0);
+    cin.tie(0);
+    cout.tie(0);
+    int t; cin >> t;
+    while(t--) solve();
+    return 0;
 }
