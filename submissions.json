@@ -23393,6 +23393,25 @@
     ],
     "timestamp": "May/17/2024 08:26"
   },
+  "CF262936598": {
+    "contest_id": 377,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/377/B.cpp",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Preparing for the Contest",
+    "problem_url": "https://codeforces.com/contest/377/problem/B",
+    "submission_id": "CF262936598",
+    "submission_url": "https://codeforces.com/contest/377/submission/262936598",
+    "tags": [
+      "binary search",
+      "data structures",
+      "greedy",
+      "sortings",
+      "*1900"
+    ],
+    "timestamp": "May/28/2024 03:56"
+  },
   "CF262936641": {
     "contest_id": 1062,
     "language": "C++20 (GCC 13-64)",
