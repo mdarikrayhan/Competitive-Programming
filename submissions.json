@@ -23393,6 +23393,24 @@
     ],
     "timestamp": "May/17/2024 08:26"
   },
+  "CF262937197": {
+    "contest_id": 1859,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1859/E.cpp",
+    "platform": "Codeforces",
+    "problem_index": "E",
+    "problem_name": "Maximum Monogonosity",
+    "problem_url": "https://codeforces.com/contest/1859/problem/E",
+    "submission_id": "CF262937197",
+    "submission_url": "https://codeforces.com/contest/1859/submission/262937197",
+    "tags": [
+      "brute force",
+      "dp",
+      "math",
+      "*2500"
+    ],
+    "timestamp": "May/28/2024 04:09"
+  },
   "CF262937209": {
     "contest_id": 715,
     "language": "C++20 (GCC 13-64)",
