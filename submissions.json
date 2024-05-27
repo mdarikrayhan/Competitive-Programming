@@ -51058,6 +51058,26 @@
     ],
     "timestamp": "May/27/2024 06:30"
   },
+  "CF262934037": {
+    "contest_id": 1795,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1795/E.cpp",
+    "platform": "Codeforces",
+    "problem_index": "E",
+    "problem_name": "Explosions?",
+    "problem_url": "https://codeforces.com/contest/1795/problem/E",
+    "submission_id": "CF262934037",
+    "submission_url": "https://codeforces.com/contest/1795/submission/262934037",
+    "tags": [
+      "binary search",
+      "data structures",
+      "dp",
+      "greedy",
+      "math",
+      "*2200"
+    ],
+    "timestamp": "May/28/2024 03:05"
+  },
   "CF262934047": {
     "contest_id": 1600,
     "language": "C++20 (GCC 13-64)",
