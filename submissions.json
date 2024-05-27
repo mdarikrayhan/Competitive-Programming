@@ -51058,6 +51058,23 @@
     ],
     "timestamp": "May/27/2024 06:30"
   },
+  "CF262934802": {
+    "contest_id": 1144,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1144/G.cpp",
+    "platform": "Codeforces",
+    "problem_index": "G",
+    "problem_name": "Two Merged Sequences",
+    "problem_url": "https://codeforces.com/contest/1144/problem/G",
+    "submission_id": "CF262934802",
+    "submission_url": "https://codeforces.com/contest/1144/submission/262934802",
+    "tags": [
+      "dp",
+      "greedy",
+      "*2400"
+    ],
+    "timestamp": "May/28/2024 03:20"
+  },
   "CF262934803": {
     "contest_id": 1896,
     "language": "C++20 (GCC 13-64)",
