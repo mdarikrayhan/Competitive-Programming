@@ -52531,6 +52531,23 @@
     ],
     "timestamp": "May/28/2024 04:19"
   },
+  "CF262938281": {
+    "contest_id": 185,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/185/B.cpp",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Mushroom Scientists",
+    "problem_url": "https://codeforces.com/contest/185/problem/B",
+    "submission_id": "CF262938281",
+    "submission_url": "https://codeforces.com/contest/185/submission/262938281",
+    "tags": [
+      "math",
+      "ternary search",
+      "*1800"
+    ],
+    "timestamp": "May/28/2024 04:36"
+  },
   "CF262938289": {
     "contest_id": 992,
     "language": "C++20 (GCC 13-64)",
