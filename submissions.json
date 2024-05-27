@@ -52531,6 +52531,23 @@
     ],
     "timestamp": "May/28/2024 04:19"
   },
+  "CF262939087": {
+    "contest_id": 1798,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1798/E.cpp",
+    "platform": "Codeforces",
+    "problem_index": "E",
+    "problem_name": "Multitest Generator",
+    "problem_url": "https://codeforces.com/contest/1798/problem/E",
+    "submission_id": "CF262939087",
+    "submission_url": "https://codeforces.com/contest/1798/submission/262939087",
+    "tags": [
+      "brute force",
+      "dp",
+      "*2300"
+    ],
+    "timestamp": "May/28/2024 05:02"
+  },
   "CF262939104": {
     "contest_id": 660,
     "language": "C++20 (GCC 13-64)",
