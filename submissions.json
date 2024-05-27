@@ -23393,6 +23393,22 @@
     ],
     "timestamp": "May/17/2024 08:26"
   },
+  "CF262936441": {
+    "contest_id": 31,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/31/C.cpp",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Schedule",
+    "problem_url": "https://codeforces.com/contest/31/problem/C",
+    "submission_id": "CF262936441",
+    "submission_url": "https://codeforces.com/contest/31/submission/262936441",
+    "tags": [
+      "implementation",
+      "*1700"
+    ],
+    "timestamp": "May/28/2024 03:52"
+  },
   "CF262936470": {
     "contest_id": 1748,
     "language": "C++20 (GCC 13-64)",
