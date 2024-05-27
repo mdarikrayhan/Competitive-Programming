@@ -52531,6 +52531,25 @@
     ],
     "timestamp": "May/28/2024 04:19"
   },
+  "CF262939486": {
+    "contest_id": 1630,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1630/D.cpp",
+    "platform": "Codeforces",
+    "problem_index": "D",
+    "problem_name": "Flipping Range",
+    "problem_url": "https://codeforces.com/contest/1630/problem/D",
+    "submission_id": "CF262939486",
+    "submission_url": "https://codeforces.com/contest/1630/submission/262939486",
+    "tags": [
+      "constructive algorithms",
+      "dp",
+      "greedy",
+      "number theory",
+      "*2400"
+    ],
+    "timestamp": "May/28/2024 05:14"
+  },
   "CF262939498": {
     "contest_id": 1027,
     "language": "C++20 (GCC 13-64)",
