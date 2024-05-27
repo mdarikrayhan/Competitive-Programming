@@ -51058,6 +51058,25 @@
     ],
     "timestamp": "May/27/2024 06:30"
   },
+  "CF262935445": {
+    "contest_id": 818,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/818/E.cpp",
+    "platform": "Codeforces",
+    "problem_index": "E",
+    "problem_name": "Card Game Again",
+    "problem_url": "https://codeforces.com/contest/818/problem/E",
+    "submission_id": "CF262935445",
+    "submission_url": "https://codeforces.com/contest/818/submission/262935445",
+    "tags": [
+      "binary search",
+      "data structures",
+      "number theory",
+      "two pointers",
+      "*1900"
+    ],
+    "timestamp": "May/28/2024 03:31"
+  },
   "CF262935446": {
     "contest_id": 1737,
     "language": "C++20 (GCC 13-64)",
