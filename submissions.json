@@ -23393,6 +23393,21 @@
     ],
     "timestamp": "May/17/2024 08:26"
   },
+  "CF262809986": {
+    "contest_id": 690,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/690/F1.cpp",
+    "platform": "Codeforces",
+    "problem_index": "F1",
+    "problem_name": "Tree of Life (easy)",
+    "problem_url": "https://codeforces.com/contest/690/problem/F1",
+    "submission_id": "CF262809986",
+    "submission_url": "https://codeforces.com/contest/690/submission/262809986",
+    "tags": [
+      "*1300"
+    ],
+    "timestamp": "May/27/2024 06:25"
+  },
   "CF262810033": {
     "contest_id": 1553,
     "language": "C++20 (GCC 13-64)",
