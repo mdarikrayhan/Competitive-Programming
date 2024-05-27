@@ -23393,6 +23393,22 @@
     ],
     "timestamp": "May/17/2024 08:26"
   },
+  "CF262809313": {
+    "contest_id": 149,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/149/B.cpp",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Martian Clock",
+    "problem_url": "https://codeforces.com/contest/149/problem/B",
+    "submission_id": "CF262809313",
+    "submission_url": "https://codeforces.com/contest/149/submission/262809313",
+    "tags": [
+      "implementation",
+      "*1600"
+    ],
+    "timestamp": "May/27/2024 06:04"
+  },
   "CF262809317": {
     "contest_id": 327,
     "language": "C++20 (GCC 13-64)",
