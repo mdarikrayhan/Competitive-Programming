@@ -51058,6 +51058,22 @@
     ],
     "timestamp": "May/27/2024 06:30"
   },
+  "CF262934541": {
+    "contest_id": 93,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/93/A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Frames",
+    "problem_url": "https://codeforces.com/contest/93/problem/A",
+    "submission_id": "CF262934541",
+    "submission_url": "https://codeforces.com/contest/93/submission/262934541",
+    "tags": [
+      "implementation",
+      "*1700"
+    ],
+    "timestamp": "May/28/2024 03:15"
+  },
   "CF262934551": {
     "contest_id": 44,
     "language": "C++20 (GCC 13-64)",
