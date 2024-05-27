@@ -52531,6 +52531,26 @@
     ],
     "timestamp": "May/28/2024 04:19"
   },
+  "CF262939346": {
+    "contest_id": 1713,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1713/E.cpp",
+    "platform": "Codeforces",
+    "problem_index": "E",
+    "problem_name": "Cross Swapping",
+    "problem_url": "https://codeforces.com/contest/1713/problem/E",
+    "submission_id": "CF262939346",
+    "submission_url": "https://codeforces.com/contest/1713/submission/262939346",
+    "tags": [
+      "2-sat",
+      "data structures",
+      "dsu",
+      "greedy",
+      "matrices",
+      "*2400"
+    ],
+    "timestamp": "May/28/2024 05:10"
+  },
   "CF262939364": {
     "contest_id": 290,
     "language": "C++20 (GCC 13-64)",
