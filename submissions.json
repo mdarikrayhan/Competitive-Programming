@@ -51058,6 +51058,27 @@
     ],
     "timestamp": "May/27/2024 06:30"
   },
+  "CF262935446": {
+    "contest_id": 1737,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1737/D.cpp",
+    "platform": "Codeforces",
+    "problem_index": "D",
+    "problem_name": "Ela and the Wiring Wizard",
+    "problem_url": "https://codeforces.com/contest/1737/problem/D",
+    "submission_id": "CF262935446",
+    "submission_url": "https://codeforces.com/contest/1737/submission/262935446",
+    "tags": [
+      "brute force",
+      "dp",
+      "graphs",
+      "greedy",
+      "implementation",
+      "shortest paths",
+      "*2200"
+    ],
+    "timestamp": "May/28/2024 03:31"
+  },
   "CF262935472": {
     "contest_id": 571,
     "language": "C++20 (GCC 13-64)",
