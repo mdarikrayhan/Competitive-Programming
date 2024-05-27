@@ -23393,6 +23393,27 @@
     ],
     "timestamp": "May/17/2024 08:26"
   },
+  "CF262936323": {
+    "contest_id": 75,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/75/D.cpp",
+    "platform": "Codeforces",
+    "problem_index": "D",
+    "problem_name": "Big Maximum Sum",
+    "problem_url": "https://codeforces.com/contest/75/problem/D",
+    "submission_id": "CF262936323",
+    "submission_url": "https://codeforces.com/contest/75/submission/262936323",
+    "tags": [
+      "data structures",
+      "dp",
+      "greedy",
+      "implementation",
+      "math",
+      "trees",
+      "*2000"
+    ],
+    "timestamp": "May/28/2024 03:49"
+  },
   "CF262936327": {
     "contest_id": 949,
     "language": "C++20 (GCC 13-64)",
