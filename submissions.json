@@ -23393,6 +23393,25 @@
     ],
     "timestamp": "May/17/2024 08:26"
   },
+  "CF262809339": {
+    "contest_id": 1933,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1933/F.cpp",
+    "platform": "Codeforces",
+    "problem_index": "F",
+    "problem_name": "Turtle Mission: Robot and the Earthquake",
+    "problem_url": "https://codeforces.com/contest/1933/problem/F",
+    "submission_id": "CF262809339",
+    "submission_url": "https://codeforces.com/contest/1933/submission/262809339",
+    "tags": [
+      "dfs and similar",
+      "dp",
+      "graphs",
+      "shortest paths",
+      "*2100"
+    ],
+    "timestamp": "May/27/2024 06:05"
+  },
   "CF262809345": {
     "contest_id": 56,
     "language": "C++20 (GCC 13-64)",
