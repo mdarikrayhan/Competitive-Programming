@@ -52531,6 +52531,23 @@
     ],
     "timestamp": "May/28/2024 04:19"
   },
+  "CF262938463": {
+    "contest_id": 84,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/84/C.cpp",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Biathlon",
+    "problem_url": "https://codeforces.com/contest/84/problem/C",
+    "submission_id": "CF262938463",
+    "submission_url": "https://codeforces.com/contest/84/submission/262938463",
+    "tags": [
+      "binary search",
+      "implementation",
+      "*1700"
+    ],
+    "timestamp": "May/28/2024 04:42"
+  },
   "CF262938484": {
     "contest_id": 348,
     "language": "C++20 (GCC 13-64)",
