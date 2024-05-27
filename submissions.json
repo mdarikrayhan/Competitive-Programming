@@ -23393,6 +23393,25 @@
     ],
     "timestamp": "May/17/2024 08:26"
   },
+  "CF262936196": {
+    "contest_id": 1056,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1056/E.cpp",
+    "platform": "Codeforces",
+    "problem_index": "E",
+    "problem_name": "Check Transcription",
+    "problem_url": "https://codeforces.com/contest/1056/problem/E",
+    "submission_id": "CF262936196",
+    "submission_url": "https://codeforces.com/contest/1056/submission/262936196",
+    "tags": [
+      "brute force",
+      "data structures",
+      "hashing",
+      "strings",
+      "*2100"
+    ],
+    "timestamp": "May/28/2024 03:47"
+  },
   "CF262936198": {
     "contest_id": 1551,
     "language": "C++20 (GCC 13-64)",
