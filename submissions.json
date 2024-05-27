@@ -67315,6 +67315,23 @@
     ],
     "timestamp": "May/28/2024 04:19"
   },
+  "CF262937821": {
+    "contest_id": 95,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/95/A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Hockey",
+    "problem_url": "https://codeforces.com/contest/95/problem/A",
+    "submission_id": "CF262937821",
+    "submission_url": "https://codeforces.com/contest/95/submission/262937821",
+    "tags": [
+      "implementation",
+      "strings",
+      "*1600"
+    ],
+    "timestamp": "May/28/2024 04:25"
+  },
   "CF262937823": {
     "contest_id": 1019,
     "language": "C++20 (GCC 13-64)",
