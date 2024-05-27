@@ -23393,6 +23393,25 @@
     ],
     "timestamp": "May/17/2024 08:26"
   },
+  "CF262809824": {
+    "contest_id": 222,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/222/D.cpp",
+    "platform": "Codeforces",
+    "problem_index": "D",
+    "problem_name": "Olympiad",
+    "problem_url": "https://codeforces.com/contest/222/problem/D",
+    "submission_id": "CF262809824",
+    "submission_url": "https://codeforces.com/contest/222/submission/262809824",
+    "tags": [
+      "binary search",
+      "greedy",
+      "sortings",
+      "two pointers",
+      "*1900"
+    ],
+    "timestamp": "May/27/2024 06:21"
+  },
   "CF262809860": {
     "contest_id": 254,
     "language": "C++20 (GCC 13-64)",
