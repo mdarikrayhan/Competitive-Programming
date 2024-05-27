@@ -23393,6 +23393,27 @@
     ],
     "timestamp": "May/17/2024 08:26"
   },
+  "CF262940046": {
+    "contest_id": 1276,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1276/C.cpp",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Beautiful Rectangle",
+    "problem_url": "https://codeforces.com/contest/1276/problem/C",
+    "submission_id": "CF262940046",
+    "submission_url": "https://codeforces.com/contest/1276/submission/262940046",
+    "tags": [
+      "brute force",
+      "combinatorics",
+      "constructive algorithms",
+      "data structures",
+      "greedy",
+      "math",
+      "*2300"
+    ],
+    "timestamp": "May/28/2024 05:32"
+  },
   "CF262940068": {
     "contest_id": 549,
     "language": "C++20 (GCC 13-64)",
