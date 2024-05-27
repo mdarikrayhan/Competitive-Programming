@@ -23393,6 +23393,23 @@
     ],
     "timestamp": "May/17/2024 08:26"
   },
+  "CF262809471": {
+    "contest_id": 1054,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1054/D.cpp",
+    "platform": "Codeforces",
+    "problem_index": "D",
+    "problem_name": "Changing Array",
+    "problem_url": "https://codeforces.com/contest/1054/problem/D",
+    "submission_id": "CF262809471",
+    "submission_url": "https://codeforces.com/contest/1054/submission/262809471",
+    "tags": [
+      "greedy",
+      "implementation",
+      "*1900"
+    ],
+    "timestamp": "May/27/2024 06:09"
+  },
   "CF262809484": {
     "contest_id": 41,
     "language": "C++20 (GCC 13-64)",
