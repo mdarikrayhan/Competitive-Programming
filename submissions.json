@@ -23393,6 +23393,25 @@
     ],
     "timestamp": "May/17/2024 08:26"
   },
+  "CF262809519": {
+    "contest_id": 1808,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1808/D.cpp",
+    "platform": "Codeforces",
+    "problem_index": "D",
+    "problem_name": "Petya, Petya, Petr, and Palindromes",
+    "problem_url": "https://codeforces.com/contest/1808/problem/D",
+    "submission_id": "CF262809519",
+    "submission_url": "https://codeforces.com/contest/1808/submission/262809519",
+    "tags": [
+      "binary search",
+      "brute force",
+      "data structures",
+      "two pointers",
+      "*2100"
+    ],
+    "timestamp": "May/27/2024 06:11"
+  },
   "CF262809539": {
     "contest_id": 1398,
     "language": "C++20 (GCC 13-64)",
