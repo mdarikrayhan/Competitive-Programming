@@ -66570,6 +66570,25 @@
     ],
     "timestamp": "May/28/2024 03:57"
   },
+  "CF262936704": {
+    "contest_id": 1840,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1840/F.cpp",
+    "platform": "Codeforces",
+    "problem_index": "F",
+    "problem_name": "Railguns",
+    "problem_url": "https://codeforces.com/contest/1840/problem/F",
+    "submission_id": "CF262936704",
+    "submission_url": "https://codeforces.com/contest/1840/submission/262936704",
+    "tags": [
+      "brute force",
+      "dfs and similar",
+      "dp",
+      "graphs",
+      "*2200"
+    ],
+    "timestamp": "May/28/2024 03:58"
+  },
   "CF262936718": {
     "contest_id": 364,
     "language": "C++20 (GCC 13-64)",
