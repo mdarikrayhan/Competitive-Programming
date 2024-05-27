@@ -23393,6 +23393,27 @@
     ],
     "timestamp": "May/17/2024 08:26"
   },
+  "CF262936579": {
+    "contest_id": 1621,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1621/E.cpp",
+    "platform": "Codeforces",
+    "problem_index": "E",
+    "problem_name": "New School",
+    "problem_url": "https://codeforces.com/contest/1621/problem/E",
+    "submission_id": "CF262936579",
+    "submission_url": "https://codeforces.com/contest/1621/submission/262936579",
+    "tags": [
+      "binary search",
+      "data structures",
+      "dp",
+      "greedy",
+      "implementation",
+      "sortings",
+      "*2300"
+    ],
+    "timestamp": "May/28/2024 03:55"
+  },
   "CF262936598": {
     "contest_id": 377,
     "language": "C++20 (GCC 13-64)",
