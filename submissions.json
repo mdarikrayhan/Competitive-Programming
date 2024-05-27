@@ -52531,6 +52531,25 @@
     ],
     "timestamp": "May/28/2024 04:19"
   },
+  "CF262938800": {
+    "contest_id": 1411,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1411/E.cpp",
+    "platform": "Codeforces",
+    "problem_index": "E",
+    "problem_name": "Poman Numbers",
+    "problem_url": "https://codeforces.com/contest/1411/problem/E",
+    "submission_id": "CF262938800",
+    "submission_url": "https://codeforces.com/contest/1411/submission/262938800",
+    "tags": [
+      "bitmasks",
+      "greedy",
+      "math",
+      "strings",
+      "*2300"
+    ],
+    "timestamp": "May/28/2024 04:52"
+  },
   "CF262938828": {
     "contest_id": 1599,
     "language": "C++20 (GCC 13-64)",
