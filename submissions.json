@@ -52531,6 +52531,22 @@
     ],
     "timestamp": "May/28/2024 04:19"
   },
+  "CF262939373": {
+    "contest_id": 234,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/234/D.cpp",
+    "platform": "Codeforces",
+    "problem_index": "D",
+    "problem_name": "Cinema",
+    "problem_url": "https://codeforces.com/contest/234/problem/D",
+    "submission_id": "CF262939373",
+    "submission_url": "https://codeforces.com/contest/234/submission/262939373",
+    "tags": [
+      "implementation",
+      "*1600"
+    ],
+    "timestamp": "May/28/2024 05:11"
+  },
   "CF262939380": {
     "contest_id": 17,
     "language": "C++20 (GCC 13-64)",
