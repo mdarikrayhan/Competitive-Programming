@@ -23393,6 +23393,26 @@
     ],
     "timestamp": "May/17/2024 08:26"
   },
+  "CF262809171": {
+    "contest_id": 840,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/840/B.cpp",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Leha and another game about graph",
+    "problem_url": "https://codeforces.com/contest/840/problem/B",
+    "submission_id": "CF262809171",
+    "submission_url": "https://codeforces.com/contest/840/submission/262809171",
+    "tags": [
+      "constructive algorithms",
+      "data structures",
+      "dfs and similar",
+      "dp",
+      "graphs",
+      "*2100"
+    ],
+    "timestamp": "May/27/2024 06:00"
+  },
   "CF262809179": {
     "contest_id": 1772,
     "language": "C++20 (GCC 13-64)",
