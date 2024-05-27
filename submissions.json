@@ -52531,6 +52531,23 @@
     ],
     "timestamp": "May/28/2024 04:19"
   },
+  "CF262938171": {
+    "contest_id": 827,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/827/C.cpp",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "DNA Evolution",
+    "problem_url": "https://codeforces.com/contest/827/problem/C",
+    "submission_id": "CF262938171",
+    "submission_url": "https://codeforces.com/contest/827/submission/262938171",
+    "tags": [
+      "data structures",
+      "strings",
+      "*2100"
+    ],
+    "timestamp": "May/28/2024 04:34"
+  },
   "CF262938194": {
     "contest_id": 1167,
     "language": "C++20 (GCC 13-64)",
