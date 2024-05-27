@@ -51058,6 +51058,24 @@
     ],
     "timestamp": "May/27/2024 06:30"
   },
+  "CF262934047": {
+    "contest_id": 1600,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1600/E.cpp",
+    "platform": "Codeforces",
+    "problem_index": "E",
+    "problem_name": "Array Game",
+    "problem_url": "https://codeforces.com/contest/1600/problem/E",
+    "submission_id": "CF262934047",
+    "submission_url": "https://codeforces.com/contest/1600/submission/262934047",
+    "tags": [
+      "games",
+      "greedy",
+      "two pointers",
+      "*1900"
+    ],
+    "timestamp": "May/28/2024 03:05"
+  },
   "CF262934060": {
     "contest_id": 547,
     "language": "C++20 (GCC 13-64)",
