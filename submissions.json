@@ -67315,6 +67315,23 @@
     ],
     "timestamp": "May/28/2024 04:19"
   },
+  "CF262937805": {
+    "contest_id": 496,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/496/E.cpp",
+    "platform": "Codeforces",
+    "problem_index": "E",
+    "problem_name": "Distributing Parts ",
+    "problem_url": "https://codeforces.com/contest/496/problem/E",
+    "submission_id": "CF262937805",
+    "submission_url": "https://codeforces.com/contest/496/submission/262937805",
+    "tags": [
+      "greedy",
+      "sortings",
+      "*2100"
+    ],
+    "timestamp": "May/28/2024 04:24"
+  },
   "CF262937821": {
     "contest_id": 95,
     "language": "C++20 (GCC 13-64)",
