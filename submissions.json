@@ -23393,6 +23393,22 @@
     ],
     "timestamp": "May/17/2024 08:26"
   },
+  "CF262809726": {
+    "contest_id": 510,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/510/E.cpp",
+    "platform": "Codeforces",
+    "problem_index": "E",
+    "problem_name": "Fox And Dinner",
+    "problem_url": "https://codeforces.com/contest/510/problem/E",
+    "submission_id": "CF262809726",
+    "submission_url": "https://codeforces.com/contest/510/submission/262809726",
+    "tags": [
+      "flows",
+      "*2300"
+    ],
+    "timestamp": "May/27/2024 06:18"
+  },
   "CF262809735": {
     "contest_id": 1946,
     "language": "C++20 (GCC 13-64)",
