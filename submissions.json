@@ -23393,6 +23393,22 @@
     ],
     "timestamp": "May/17/2024 08:26"
   },
+  "CF262809563": {
+    "contest_id": 15,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/15/C.cpp",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Industrial Nim",
+    "problem_url": "https://codeforces.com/contest/15/problem/C",
+    "submission_id": "CF262809563",
+    "submission_url": "https://codeforces.com/contest/15/submission/262809563",
+    "tags": [
+      "games",
+      "*2000"
+    ],
+    "timestamp": "May/27/2024 06:13"
+  },
   "CF262809590": {
     "contest_id": 414,
     "language": "C++20 (GCC 13-64)",
