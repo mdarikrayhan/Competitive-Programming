@@ -23393,6 +23393,25 @@
     ],
     "timestamp": "May/17/2024 08:26"
   },
+  "CF262809735": {
+    "contest_id": 1946,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1946/E.cpp",
+    "platform": "Codeforces",
+    "problem_index": "E",
+    "problem_name": "Girl Permutation",
+    "problem_url": "https://codeforces.com/contest/1946/problem/E",
+    "submission_id": "CF262809735",
+    "submission_url": "https://codeforces.com/contest/1946/submission/262809735",
+    "tags": [
+      "combinatorics",
+      "dp",
+      "math",
+      "number theory",
+      "*2200"
+    ],
+    "timestamp": "May/27/2024 06:18"
+  },
   "CF262809738": {
     "contest_id": 533,
     "language": "C++20 (GCC 13-64)",
