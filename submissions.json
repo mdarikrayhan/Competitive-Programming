@@ -51058,6 +51058,19 @@
     ],
     "timestamp": "May/27/2024 06:30"
   },
+  "CF262935411": {
+    "contest_id": 399,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/399/B.cpp",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Red and Blue Balls",
+    "problem_url": "https://codeforces.com/contest/399/problem/B",
+    "submission_id": "CF262935411",
+    "submission_url": "https://codeforces.com/contest/399/submission/262935411",
+    "tags": [],
+    "timestamp": "May/28/2024 03:31"
+  },
   "CF262935412": {
     "contest_id": 335,
     "language": "C++20 (GCC 13-64)",
