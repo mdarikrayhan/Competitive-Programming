@@ -23393,6 +23393,23 @@
     ],
     "timestamp": "May/17/2024 08:26"
   },
+  "CF262939976": {
+    "contest_id": 254,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/254/C.cpp",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Anagram",
+    "problem_url": "https://codeforces.com/contest/254/problem/C",
+    "submission_id": "CF262939976",
+    "submission_url": "https://codeforces.com/contest/254/submission/262939976",
+    "tags": [
+      "greedy",
+      "strings",
+      "*1800"
+    ],
+    "timestamp": "May/28/2024 05:30"
+  },
   "CF262939982": {
     "contest_id": 1852,
     "language": "C++20 (GCC 13-64)",
