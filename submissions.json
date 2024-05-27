@@ -23393,6 +23393,25 @@
     ],
     "timestamp": "May/17/2024 08:26"
   },
+  "CF262937279": {
+    "contest_id": 291,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/291/C.cpp",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Network Mask",
+    "problem_url": "https://codeforces.com/contest/291/problem/C",
+    "submission_id": "CF262937279",
+    "submission_url": "https://codeforces.com/contest/291/submission/262937279",
+    "tags": [
+      "*special problem",
+      "bitmasks",
+      "brute force",
+      "implementation",
+      "*1600"
+    ],
+    "timestamp": "May/28/2024 04:11"
+  },
   "CF262937312": {
     "contest_id": 295,
     "language": "C++20 (GCC 13-64)",
