@@ -23393,6 +23393,27 @@
     ],
     "timestamp": "May/17/2024 08:26"
   },
+  "CF262940228": {
+    "contest_id": 1848,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1848/F.cpp",
+    "platform": "Codeforces",
+    "problem_index": "F",
+    "problem_name": "Vika and Wiki",
+    "problem_url": "https://codeforces.com/contest/1848/problem/F",
+    "submission_id": "CF262940228",
+    "submission_url": "https://codeforces.com/contest/1848/submission/262940228",
+    "tags": [
+      "binary search",
+      "bitmasks",
+      "combinatorics",
+      "divide and conquer",
+      "dp",
+      "math",
+      "*2400"
+    ],
+    "timestamp": "May/28/2024 05:38"
+  },
   "CF262940242": {
     "contest_id": 1633,
     "language": "C++20 (GCC 13-64)",
