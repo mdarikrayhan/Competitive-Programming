@@ -65912,6 +65912,23 @@
     ],
     "timestamp": "May/28/2024 03:44"
   },
+  "CF262936177": {
+    "contest_id": 896,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/896/E.cpp",
+    "platform": "Codeforces",
+    "problem_index": "E",
+    "problem_name": "Welcome home, Chtholly",
+    "problem_url": "https://codeforces.com/contest/896/problem/E",
+    "submission_id": "CF262936177",
+    "submission_url": "https://codeforces.com/contest/896/submission/262936177",
+    "tags": [
+      "data structures",
+      "dsu",
+      "*3100"
+    ],
+    "timestamp": "May/28/2024 03:46"
+  },
   "CF262936179": {
     "contest_id": 1227,
     "language": "C++20 (GCC 13-64)",
