@@ -66784,6 +66784,27 @@
     ],
     "timestamp": "May/28/2024 04:02"
   },
+  "CF262937020": {
+    "contest_id": 1515,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1515/F.cpp",
+    "platform": "Codeforces",
+    "problem_index": "F",
+    "problem_name": "Phoenix and Earthquake",
+    "problem_url": "https://codeforces.com/contest/1515/problem/F",
+    "submission_id": "CF262937020",
+    "submission_url": "https://codeforces.com/contest/1515/submission/262937020",
+    "tags": [
+      "constructive algorithms",
+      "dfs and similar",
+      "dsu",
+      "graphs",
+      "greedy",
+      "trees",
+      "*2600"
+    ],
+    "timestamp": "May/28/2024 04:05"
+  },
   "CF262937026": {
     "contest_id": 1179,
     "language": "C++20 (GCC 13-64)",
