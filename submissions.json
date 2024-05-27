@@ -23393,6 +23393,23 @@
     ],
     "timestamp": "May/17/2024 08:26"
   },
+  "CF262936393": {
+    "contest_id": 1662,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1662/I.cpp",
+    "platform": "Codeforces",
+    "problem_index": "I",
+    "problem_name": "Ice Cream Shop",
+    "problem_url": "https://codeforces.com/contest/1662/problem/I",
+    "submission_id": "CF262936393",
+    "submission_url": "https://codeforces.com/contest/1662/submission/262936393",
+    "tags": [
+      "brute force",
+      "implementation",
+      "sortings"
+    ],
+    "timestamp": "May/28/2024 03:51"
+  },
   "CF262936397": {
     "contest_id": 1325,
     "language": "C++20 (GCC 13-64)",
