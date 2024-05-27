@@ -52531,6 +52531,24 @@
     ],
     "timestamp": "May/28/2024 04:19"
   },
+  "CF262939029": {
+    "contest_id": 1401,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1401/F.cpp",
+    "platform": "Codeforces",
+    "problem_index": "F",
+    "problem_name": "Reverse and Swap",
+    "problem_url": "https://codeforces.com/contest/1401/problem/F",
+    "submission_id": "CF262939029",
+    "submission_url": "https://codeforces.com/contest/1401/submission/262939029",
+    "tags": [
+      "binary search",
+      "bitmasks",
+      "data structures",
+      "*2400"
+    ],
+    "timestamp": "May/28/2024 05:00"
+  },
   "CF262939040": {
     "contest_id": 56,
     "language": "C++20 (GCC 13-64)",
