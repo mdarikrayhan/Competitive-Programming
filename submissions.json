@@ -52531,6 +52531,23 @@
     ],
     "timestamp": "May/28/2024 04:19"
   },
+  "CF262938553": {
+    "contest_id": 884,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/884/D.cpp",
+    "platform": "Codeforces",
+    "problem_index": "D",
+    "problem_name": "Boxes And Balls",
+    "problem_url": "https://codeforces.com/contest/884/problem/D",
+    "submission_id": "CF262938553",
+    "submission_url": "https://codeforces.com/contest/884/submission/262938553",
+    "tags": [
+      "data structures",
+      "greedy",
+      "*2300"
+    ],
+    "timestamp": "May/28/2024 04:44"
+  },
   "CF262938562": {
     "contest_id": 2,
     "language": "C++20 (GCC 13-64)",
