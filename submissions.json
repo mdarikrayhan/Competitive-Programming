@@ -51058,6 +51058,25 @@
     ],
     "timestamp": "May/27/2024 06:30"
   },
+  "CF262934442": {
+    "contest_id": 134,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/134/B.cpp",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Pairs of Numbers",
+    "problem_url": "https://codeforces.com/contest/134/problem/B",
+    "submission_id": "CF262934442",
+    "submission_url": "https://codeforces.com/contest/134/submission/262934442",
+    "tags": [
+      "brute force",
+      "dfs and similar",
+      "math",
+      "number theory",
+      "*1900"
+    ],
+    "timestamp": "May/28/2024 03:13"
+  },
   "CF262934456": {
     "contest_id": 1413,
     "language": "C++20 (GCC 13-64)",
