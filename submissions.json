@@ -23393,6 +23393,26 @@
     ],
     "timestamp": "May/17/2024 08:26"
   },
+  "CF262809655": {
+    "contest_id": 1876,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1876/C.cpp",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Autosynthesis",
+    "problem_url": "https://codeforces.com/contest/1876/problem/C",
+    "submission_id": "CF262809655",
+    "submission_url": "https://codeforces.com/contest/1876/submission/262809655",
+    "tags": [
+      "constructive algorithms",
+      "dfs and similar",
+      "graphs",
+      "greedy",
+      "sortings",
+      "*2100"
+    ],
+    "timestamp": "May/27/2024 06:15"
+  },
   "CF262809680": {
     "contest_id": 729,
     "language": "C++20 (GCC 13-64)",
