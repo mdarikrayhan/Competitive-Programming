@@ -51058,6 +51058,26 @@
     ],
     "timestamp": "May/27/2024 06:30"
   },
+  "CF262933883": {
+    "contest_id": 1392,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1392/F.cpp",
+    "platform": "Codeforces",
+    "problem_index": "F",
+    "problem_name": "Omkar and Landslide",
+    "problem_url": "https://codeforces.com/contest/1392/problem/F",
+    "submission_id": "CF262933883",
+    "submission_url": "https://codeforces.com/contest/1392/submission/262933883",
+    "tags": [
+      "binary search",
+      "constructive algorithms",
+      "data structures",
+      "greedy",
+      "math",
+      "*2400"
+    ],
+    "timestamp": "May/28/2024 03:03"
+  },
   "CF262933896": {
     "contest_id": 959,
     "language": "C++20 (GCC 13-64)",
