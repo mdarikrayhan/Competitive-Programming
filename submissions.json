@@ -67315,6 +67315,25 @@
     ],
     "timestamp": "May/28/2024 04:19"
   },
+  "CF262937784": {
+    "contest_id": 575,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/575/H.cpp",
+    "platform": "Codeforces",
+    "problem_index": "H",
+    "problem_name": "Bots",
+    "problem_url": "https://codeforces.com/contest/575/problem/H",
+    "submission_id": "CF262937784",
+    "submission_url": "https://codeforces.com/contest/575/submission/262937784",
+    "tags": [
+      "combinatorics",
+      "dp",
+      "math",
+      "number theory",
+      "*1800"
+    ],
+    "timestamp": "May/28/2024 04:24"
+  },
   "CF262937794": {
     "contest_id": 1811,
     "language": "C++20 (GCC 13-64)",
