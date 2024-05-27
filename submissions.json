@@ -67315,6 +67315,25 @@
     ],
     "timestamp": "May/28/2024 04:19"
   },
+  "CF262937997": {
+    "contest_id": 1593,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1593/G.cpp",
+    "platform": "Codeforces",
+    "problem_index": "G",
+    "problem_name": "Changing Brackets",
+    "problem_url": "https://codeforces.com/contest/1593/problem/G",
+    "submission_id": "CF262937997",
+    "submission_url": "https://codeforces.com/contest/1593/submission/262937997",
+    "tags": [
+      "constructive algorithms",
+      "data structures",
+      "dp",
+      "greedy",
+      "*2200"
+    ],
+    "timestamp": "May/28/2024 04:29"
+  },
   "CF262937999": {
     "contest_id": 356,
     "language": "C++20 (GCC 13-64)",
