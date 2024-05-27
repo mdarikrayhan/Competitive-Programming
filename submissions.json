@@ -52531,6 +52531,24 @@
     ],
     "timestamp": "May/28/2024 04:19"
   },
+  "CF262938768": {
+    "contest_id": 883,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/883/H.cpp",
+    "platform": "Codeforces",
+    "problem_index": "H",
+    "problem_name": "Palindromic Cut",
+    "problem_url": "https://codeforces.com/contest/883/problem/H",
+    "submission_id": "CF262938768",
+    "submission_url": "https://codeforces.com/contest/883/submission/262938768",
+    "tags": [
+      "brute force",
+      "implementation",
+      "strings",
+      "*1800"
+    ],
+    "timestamp": "May/28/2024 04:51"
+  },
   "CF262938774": {
     "contest_id": 1096,
     "language": "C++20 (GCC 13-64)",
