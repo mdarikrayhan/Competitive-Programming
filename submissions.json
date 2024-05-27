@@ -67315,6 +67315,25 @@
     ],
     "timestamp": "May/28/2024 04:19"
   },
+  "CF262937739": {
+    "contest_id": 1344,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1344/C.cpp",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Quantifier Question",
+    "problem_url": "https://codeforces.com/contest/1344/problem/C",
+    "submission_id": "CF262937739",
+    "submission_url": "https://codeforces.com/contest/1344/submission/262937739",
+    "tags": [
+      "dfs and similar",
+      "dp",
+      "graphs",
+      "math",
+      "*2600"
+    ],
+    "timestamp": "May/28/2024 04:22"
+  },
   "CF262937756": {
     "contest_id": 49,
     "language": "C++20 (GCC 13-64)",
