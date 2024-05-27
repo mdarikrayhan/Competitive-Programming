@@ -23393,6 +23393,23 @@
     ],
     "timestamp": "May/17/2024 08:26"
   },
+  "CF262940178": {
+    "contest_id": 291,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/291/D.cpp",
+    "platform": "Codeforces",
+    "problem_index": "D",
+    "problem_name": "Parallel Programming",
+    "problem_url": "https://codeforces.com/contest/291/problem/D",
+    "submission_id": "CF262940178",
+    "submission_url": "https://codeforces.com/contest/291/submission/262940178",
+    "tags": [
+      "*special problem",
+      "greedy",
+      "*1600"
+    ],
+    "timestamp": "May/28/2024 05:36"
+  },
   "CF262940185": {
     "contest_id": 1098,
     "language": "C++20 (GCC 13-64)",
