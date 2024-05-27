@@ -66174,6 +66174,24 @@
     ],
     "timestamp": "May/28/2024 03:49"
   },
+  "CF262936346": {
+    "contest_id": 1811,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1811/F.cpp",
+    "platform": "Codeforces",
+    "problem_index": "F",
+    "problem_name": "Is It Flower?",
+    "problem_url": "https://codeforces.com/contest/1811/problem/F",
+    "submission_id": "CF262936346",
+    "submission_url": "https://codeforces.com/contest/1811/submission/262936346",
+    "tags": [
+      "dfs and similar",
+      "graphs",
+      "implementation",
+      "*2100"
+    ],
+    "timestamp": "May/28/2024 03:50"
+  },
   "CF262936348": {
     "contest_id": 452,
     "language": "C++20 (GCC 13-64)",
