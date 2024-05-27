@@ -65928,6 +65928,26 @@
     ],
     "timestamp": "May/28/2024 03:46"
   },
+  "CF262936188": {
+    "contest_id": 1278,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1278/F.cpp",
+    "platform": "Codeforces",
+    "problem_index": "F",
+    "problem_name": "Cards",
+    "problem_url": "https://codeforces.com/contest/1278/problem/F",
+    "submission_id": "CF262936188",
+    "submission_url": "https://codeforces.com/contest/1278/submission/262936188",
+    "tags": [
+      "combinatorics",
+      "dp",
+      "math",
+      "number theory",
+      "probabilities",
+      "*2600"
+    ],
+    "timestamp": "May/28/2024 03:46"
+  },
   "CF262936196": {
     "contest_id": 1056,
     "language": "C++20 (GCC 13-64)",
