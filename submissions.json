@@ -52531,6 +52531,25 @@
     ],
     "timestamp": "May/28/2024 04:19"
   },
+  "CF262939165": {
+    "contest_id": 1718,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1718/C.cpp",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Tonya and Burenka-179",
+    "problem_url": "https://codeforces.com/contest/1718/problem/C",
+    "submission_id": "CF262939165",
+    "submission_url": "https://codeforces.com/contest/1718/submission/262939165",
+    "tags": [
+      "data structures",
+      "greedy",
+      "math",
+      "number theory",
+      "*2400"
+    ],
+    "timestamp": "May/28/2024 05:04"
+  },
   "CF262939191": {
     "contest_id": 677,
     "language": "C++20 (GCC 13-64)",
