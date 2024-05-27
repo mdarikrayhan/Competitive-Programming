@@ -52531,6 +52531,24 @@
     ],
     "timestamp": "May/28/2024 04:19"
   },
+  "CF262938774": {
+    "contest_id": 1096,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1096/F.cpp",
+    "platform": "Codeforces",
+    "problem_index": "F",
+    "problem_name": "Inversion Expectation",
+    "problem_url": "https://codeforces.com/contest/1096/problem/F",
+    "submission_id": "CF262938774",
+    "submission_url": "https://codeforces.com/contest/1096/submission/262938774",
+    "tags": [
+      "dp",
+      "math",
+      "probabilities",
+      "*2300"
+    ],
+    "timestamp": "May/28/2024 04:51"
+  },
   "CF262938795": {
     "contest_id": 490,
     "language": "C++20 (GCC 13-64)",
