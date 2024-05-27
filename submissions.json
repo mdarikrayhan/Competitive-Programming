@@ -52531,6 +52531,24 @@
     ],
     "timestamp": "May/28/2024 04:19"
   },
+  "CF262938718": {
+    "contest_id": 704,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/704/B.cpp",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Ant Man",
+    "problem_url": "https://codeforces.com/contest/704/problem/B",
+    "submission_id": "CF262938718",
+    "submission_url": "https://codeforces.com/contest/704/submission/262938718",
+    "tags": [
+      "dp",
+      "graphs",
+      "greedy",
+      "*2500"
+    ],
+    "timestamp": "May/28/2024 04:49"
+  },
   "CF262938733": {
     "contest_id": 1929,
     "language": "C++20 (GCC 13-64)",
