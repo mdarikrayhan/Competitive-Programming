@@ -52531,6 +52531,22 @@
     ],
     "timestamp": "May/28/2024 04:19"
   },
+  "CF262938319": {
+    "contest_id": 933,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/933/B.cpp",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "A Determined Cleanup",
+    "problem_url": "https://codeforces.com/contest/933/problem/B",
+    "submission_id": "CF262938319",
+    "submission_url": "https://codeforces.com/contest/933/submission/262938319",
+    "tags": [
+      "math",
+      "*2000"
+    ],
+    "timestamp": "May/28/2024 04:37"
+  },
   "CF262938324": {
     "contest_id": 1634,
     "language": "C++20 (GCC 13-64)",
