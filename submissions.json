@@ -23393,6 +23393,23 @@
     ],
     "timestamp": "May/17/2024 08:26"
   },
+  "CF262937479": {
+    "contest_id": 703,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/703/C.cpp",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Chris and Road",
+    "problem_url": "https://codeforces.com/contest/703/problem/C",
+    "submission_id": "CF262937479",
+    "submission_url": "https://codeforces.com/contest/703/submission/262937479",
+    "tags": [
+      "geometry",
+      "implementation",
+      "*2100"
+    ],
+    "timestamp": "May/28/2024 04:16"
+  },
   "CF262937496": {
     "contest_id": 362,
     "language": "C++20 (GCC 13-64)",
