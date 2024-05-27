@@ -23393,6 +23393,24 @@
     ],
     "timestamp": "May/17/2024 08:26"
   },
+  "CF262937538": {
+    "contest_id": 862,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/862/D.cpp",
+    "platform": "Codeforces",
+    "problem_index": "D",
+    "problem_name": "Mahmoud and Ehab and the binary string",
+    "problem_url": "https://codeforces.com/contest/862/problem/D",
+    "submission_id": "CF262937538",
+    "submission_url": "https://codeforces.com/contest/862/submission/262937538",
+    "tags": [
+      "binary search",
+      "divide and conquer",
+      "interactive",
+      "*2000"
+    ],
+    "timestamp": "May/28/2024 04:17"
+  },
   "CF262937551": {
     "contest_id": 1929,
     "language": "C++20 (GCC 13-64)",
