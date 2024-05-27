@@ -51058,6 +51058,23 @@
     ],
     "timestamp": "May/27/2024 06:30"
   },
+  "CF262935412": {
+    "contest_id": 335,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/335/B.cpp",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Palindrome",
+    "problem_url": "https://codeforces.com/contest/335/problem/B",
+    "submission_id": "CF262935412",
+    "submission_url": "https://codeforces.com/contest/335/submission/262935412",
+    "tags": [
+      "constructive algorithms",
+      "dp",
+      "*1900"
+    ],
+    "timestamp": "May/28/2024 03:31"
+  },
   "CF262935445": {
     "contest_id": 818,
     "language": "C++20 (GCC 13-64)",
