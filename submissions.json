@@ -51058,6 +51058,26 @@
     ],
     "timestamp": "May/27/2024 06:30"
   },
+  "CF262934835": {
+    "contest_id": 1416,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1416/D.cpp",
+    "platform": "Codeforces",
+    "problem_index": "D",
+    "problem_name": "Graph and Queries",
+    "problem_url": "https://codeforces.com/contest/1416/problem/D",
+    "submission_id": "CF262934835",
+    "submission_url": "https://codeforces.com/contest/1416/submission/262934835",
+    "tags": [
+      "data structures",
+      "dsu",
+      "graphs",
+      "implementation",
+      "trees",
+      "*2600"
+    ],
+    "timestamp": "May/28/2024 03:21"
+  },
   "CF262934862": {
     "contest_id": 1491,
     "language": "C++20 (GCC 13-64)",
