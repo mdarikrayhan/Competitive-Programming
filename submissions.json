@@ -23393,6 +23393,23 @@
     ],
     "timestamp": "May/17/2024 08:26"
   },
+  "CF262986932": {
+    "contest_id": 37,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/37/B.cpp",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Computer Game",
+    "problem_url": "https://codeforces.com/contest/37/problem/B",
+    "submission_id": "CF262986932",
+    "submission_url": "https://codeforces.com/contest/37/submission/262986932",
+    "tags": [
+      "greedy",
+      "implementation",
+      "*1800"
+    ],
+    "timestamp": "May/28/2024 15:15"
+  },
   "CF262986956": {
     "contest_id": 119,
     "language": "C++20 (GCC 13-64)",
