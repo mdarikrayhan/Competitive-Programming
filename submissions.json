@@ -56079,6 +56079,24 @@
     ],
     "timestamp": "May/28/2024 09:19"
   },
+  "CF262951536": {
+    "contest_id": 662,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/662/E.cpp",
+    "platform": "Codeforces",
+    "problem_index": "E",
+    "problem_name": "To Hack or not to Hack",
+    "problem_url": "https://codeforces.com/contest/662/problem/E",
+    "submission_id": "CF262951536",
+    "submission_url": "https://codeforces.com/contest/662/submission/262951536",
+    "tags": [
+      "brute force",
+      "dp",
+      "greedy",
+      "*3100"
+    ],
+    "timestamp": "May/28/2024 09:37"
+  },
   "CF262951541": {
     "contest_id": 679,
     "language": "C++20 (GCC 13-64)",
