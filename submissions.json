@@ -23393,6 +23393,22 @@
     ],
     "timestamp": "May/17/2024 08:26"
   },
+  "CF263071188": {
+    "contest_id": 161,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/161/C.cpp",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Abracadabra",
+    "problem_url": "https://codeforces.com/contest/161/problem/C",
+    "submission_id": "CF263071188",
+    "submission_url": "https://codeforces.com/contest/161/submission/263071188",
+    "tags": [
+      "divide and conquer",
+      "*2400"
+    ],
+    "timestamp": "May/29/2024 05:36"
+  },
   "CF263071212": {
     "contest_id": 161,
     "language": "C++20 (GCC 13-64)",
