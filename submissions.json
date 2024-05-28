@@ -27377,6 +27377,24 @@
     ],
     "timestamp": "May/29/2024 01:55"
   },
+  "CF263060771": {
+    "contest_id": 1817,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1817/D.cpp",
+    "platform": "Codeforces",
+    "problem_index": "D",
+    "problem_name": "Toy Machine",
+    "problem_url": "https://codeforces.com/contest/1817/problem/D",
+    "submission_id": "CF263060771",
+    "submission_url": "https://codeforces.com/contest/1817/submission/263060771",
+    "tags": [
+      "constructive algorithms",
+      "games",
+      "implementation",
+      "*2700"
+    ],
+    "timestamp": "May/29/2024 01:58"
+  },
   "CF263060923": {
     "contest_id": 153,
     "language": "Cobol",
