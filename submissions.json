@@ -23996,6 +23996,23 @@
     ],
     "timestamp": "May/28/2024 08:13"
   },
+  "CF262948750": {
+    "contest_id": 1070,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1070/E.cpp",
+    "platform": "Codeforces",
+    "problem_index": "E",
+    "problem_name": "Getting Deals Done",
+    "problem_url": "https://codeforces.com/contest/1070/problem/E",
+    "submission_id": "CF262948750",
+    "submission_url": "https://codeforces.com/contest/1070/submission/262948750",
+    "tags": [
+      "binary search",
+      "data structures",
+      "*2100"
+    ],
+    "timestamp": "May/28/2024 08:53"
+  },
   "CF262948768": {
     "contest_id": 1971,
     "language": "C++20 (GCC 13-64)",
