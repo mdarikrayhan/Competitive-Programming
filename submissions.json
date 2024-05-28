@@ -23393,6 +23393,23 @@
     ],
     "timestamp": "May/17/2024 08:26"
   },
+  "CF263056685": {
+    "contest_id": 722,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/722/E.cpp",
+    "platform": "Codeforces",
+    "problem_index": "E",
+    "problem_name": "Research Rover",
+    "problem_url": "https://codeforces.com/contest/722/problem/E",
+    "submission_id": "CF263056685",
+    "submission_url": "https://codeforces.com/contest/722/submission/263056685",
+    "tags": [
+      "combinatorics",
+      "dp",
+      "*2900"
+    ],
+    "timestamp": "May/29/2024 01:06"
+  },
   "CF263056702": {
     "contest_id": 627,
     "language": "C++20 (GCC 13-64)",
