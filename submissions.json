@@ -26086,6 +26086,23 @@
     ],
     "timestamp": "May/28/2024 12:32"
   },
+  "CF262967914": {
+    "contest_id": 174,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/174/C.cpp",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Range Increments",
+    "problem_url": "https://codeforces.com/contest/174/problem/C",
+    "submission_id": "CF262967914",
+    "submission_url": "https://codeforces.com/contest/174/submission/262967914",
+    "tags": [
+      "data structures",
+      "greedy",
+      "*1800"
+    ],
+    "timestamp": "May/28/2024 12:33"
+  },
   "CF262968059": {
     "contest_id": 870,
     "language": "C++20 (GCC 13-64)",
