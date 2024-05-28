@@ -23393,6 +23393,26 @@
     ],
     "timestamp": "May/17/2024 08:26"
   },
+  "CF262946442": {
+    "contest_id": 1779,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1779/E.cpp",
+    "platform": "Codeforces",
+    "problem_index": "E",
+    "problem_name": "Anya's Simultaneous Exhibition",
+    "problem_url": "https://codeforces.com/contest/1779/problem/E",
+    "submission_id": "CF262946442",
+    "submission_url": "https://codeforces.com/contest/1779/submission/262946442",
+    "tags": [
+      "constructive algorithms",
+      "graphs",
+      "greedy",
+      "interactive",
+      "sortings",
+      "*2400"
+    ],
+    "timestamp": "May/28/2024 08:12"
+  },
   "CF262946464": {
     "contest_id": 223,
     "language": "C++20 (GCC 13-64)",

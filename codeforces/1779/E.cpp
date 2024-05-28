@@ -1,21 +1,49 @@
-#include<bits/stdc++.h>
+/**
+    author : archisman.juno1
+    created : 24/05/2024
+**/
+
+#include <bits/stdc++.h>
 using namespace std;
-const int N=260;
-int n,d[N],p[N],x;
-char ans[N];
-int main(){
-	scanf("%d",&n);
-	for(int i=1;i<=n;i++){
-		printf("? %d ",i);
-		for(int j=1;j<=n;j++) putchar(i^j?'1':'0');
-		puts(""),fflush(stdout);
-		scanf("%d",&d[i]),p[i]=i,ans[i]='0';
-	}
-	sort(p+1,p+1+n,[](int x,int y){return d[x]>d[y];});
-	for(int i=1,s=0;i<=n;i++){
-		ans[p[i]]='1',s+=d[p[i]];
-		if(s==i*(i-1)/2+i*(n-i)) break;
-	}
-	printf("! %s\n",ans+1),fflush(stdout);
-	return 0;
+
+#ifdef LOCAL
+#include "algo/debug.h"
+#else 
+#define debug(...) 42
+#endif
+#define ll long long
+
+int main() 
+{
+  ios::sync_with_stdio(false);
+  cin.tie(0);
+  int n;
+  cin >> n;
+  vector<int> deg(n);
+  for (int i = 0; i < n; i++) {
+    string s(n, '1');
+    s[i] = '0';
+    cout << "? " << i + 1 << " " << s << endl;
+    cin >> deg[i];
+  }
+  vector<int> order(n);
+  iota(order.begin(), order.end(), 0);
+  sort(order.begin(), order.end(), [&](int i, int j) {
+    return deg[i] > deg[j];
+  });
+  string res(n, '0');
+  for (int i = 1; i <= n; i++) {
+    res[order[i - 1]] = '1';
+    int sum = 0;
+    for (int j = 0; j < i; j++) {
+      sum += deg[order[j]];
+    }
+    sum -= i * (i - 1) / 2;
+    if (sum == i * (n - i)) {
+      cout << "! " << res << endl;
+      return 0;
+    }
+  }
+  assert(false);
+  return 0;
 }
