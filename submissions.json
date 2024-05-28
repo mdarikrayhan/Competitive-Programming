@@ -23393,6 +23393,24 @@
     ],
     "timestamp": "May/17/2024 08:26"
   },
+  "CF262965322": {
+    "contest_id": 802,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/802/N.cpp",
+    "platform": "Codeforces",
+    "problem_index": "N",
+    "problem_name": "April Fools' Problem (medium)",
+    "problem_url": "https://codeforces.com/contest/802/problem/N",
+    "submission_id": "CF262965322",
+    "submission_url": "https://codeforces.com/contest/802/submission/262965322",
+    "tags": [
+      "binary search",
+      "flows",
+      "graphs",
+      "*2400"
+    ],
+    "timestamp": "May/28/2024 12:09"
+  },
   "CF262965346": {
     "contest_id": 757,
     "language": "C++20 (GCC 13-64)",
