@@ -23393,6 +23393,22 @@
     ],
     "timestamp": "May/17/2024 08:26"
   },
+  "CF262980921": {
+    "contest_id": 45,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/45/C.cpp",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Dancing Lessons",
+    "problem_url": "https://codeforces.com/contest/45/problem/C",
+    "submission_id": "CF262980921",
+    "submission_url": "https://codeforces.com/contest/45/submission/262980921",
+    "tags": [
+      "data structures",
+      "*1900"
+    ],
+    "timestamp": "May/28/2024 14:24"
+  },
   "CF262980989": {
     "contest_id": 559,
     "language": "C++20 (GCC 13-64)",
