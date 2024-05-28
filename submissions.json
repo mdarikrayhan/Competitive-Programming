@@ -23393,6 +23393,24 @@
     ],
     "timestamp": "May/17/2024 08:26"
   },
+  "CF263065503": {
+    "contest_id": 1503,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1503/E.cpp",
+    "platform": "Codeforces",
+    "problem_index": "E",
+    "problem_name": "2-Coloring",
+    "problem_url": "https://codeforces.com/contest/1503/problem/E",
+    "submission_id": "CF263065503",
+    "submission_url": "https://codeforces.com/contest/1503/submission/263065503",
+    "tags": [
+      "combinatorics",
+      "dp",
+      "math",
+      "*3100"
+    ],
+    "timestamp": "May/29/2024 03:14"
+  },
   "CF263065520": {
     "contest_id": 993,
     "language": "C++20 (GCC 13-64)",
