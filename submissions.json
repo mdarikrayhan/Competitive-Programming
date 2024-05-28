@@ -72602,6 +72602,23 @@
     ],
     "timestamp": "May/29/2024 00:59"
   },
+  "CF263056210": {
+    "contest_id": 601,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/601/E.cpp",
+    "platform": "Codeforces",
+    "problem_index": "E",
+    "problem_name": "A Museum Robbery",
+    "problem_url": "https://codeforces.com/contest/601/problem/E",
+    "submission_id": "CF263056210",
+    "submission_url": "https://codeforces.com/contest/601/submission/263056210",
+    "tags": [
+      "data structures",
+      "dp",
+      "*2800"
+    ],
+    "timestamp": "May/29/2024 01:00"
+  },
   "CF263056224": {
     "contest_id": 830,
     "language": "C++20 (GCC 13-64)",
