@@ -26105,6 +26105,24 @@
     ],
     "timestamp": "May/28/2024 12:34"
   },
+  "CF262968090": {
+    "contest_id": 1221,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1221/F.cpp",
+    "platform": "Codeforces",
+    "problem_index": "F",
+    "problem_name": "Choose a Square",
+    "problem_url": "https://codeforces.com/contest/1221/problem/F",
+    "submission_id": "CF262968090",
+    "submission_url": "https://codeforces.com/contest/1221/submission/262968090",
+    "tags": [
+      "binary search",
+      "data structures",
+      "sortings",
+      "*2400"
+    ],
+    "timestamp": "May/28/2024 12:34"
+  },
   "CF262968202": {
     "contest_id": 1398,
     "language": "C++20 (GCC 13-64)",
