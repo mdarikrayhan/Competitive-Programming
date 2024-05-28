@@ -29631,6 +29631,23 @@
     ],
     "timestamp": "May/29/2024 03:14"
   },
+  "CF263067185": {
+    "contest_id": 109,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/109/B.cpp",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Lucky Probability",
+    "problem_url": "https://codeforces.com/contest/109/problem/B",
+    "submission_id": "CF263067185",
+    "submission_url": "https://codeforces.com/contest/109/submission/263067185",
+    "tags": [
+      "brute force",
+      "probabilities",
+      "*1900"
+    ],
+    "timestamp": "May/29/2024 03:47"
+  },
   "CF263067203": {
     "contest_id": 1765,
     "language": "C++20 (GCC 13-64)",
