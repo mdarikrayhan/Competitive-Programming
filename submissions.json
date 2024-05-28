@@ -27664,6 +27664,23 @@
     ],
     "timestamp": "May/28/2024 15:53"
   },
+  "CF262991274": {
+    "contest_id": 1279,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1279/F.cpp",
+    "platform": "Codeforces",
+    "problem_index": "F",
+    "problem_name": "New Year and Handle Change",
+    "problem_url": "https://codeforces.com/contest/1279/problem/F",
+    "submission_id": "CF262991274",
+    "submission_url": "https://codeforces.com/contest/1279/submission/262991274",
+    "tags": [
+      "binary search",
+      "dp",
+      "*2800"
+    ],
+    "timestamp": "May/28/2024 15:54"
+  },
   "CF262991346": {
     "contest_id": 1372,
     "language": "C++20 (GCC 13-64)",
