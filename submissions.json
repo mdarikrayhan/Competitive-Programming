@@ -23393,6 +23393,23 @@
     ],
     "timestamp": "May/17/2024 08:26"
   },
+  "CF262980989": {
+    "contest_id": 559,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/559/E.cpp",
+    "platform": "Codeforces",
+    "problem_index": "E",
+    "problem_name": "Gerald and Path",
+    "problem_url": "https://codeforces.com/contest/559/problem/E",
+    "submission_id": "CF262980989",
+    "submission_url": "https://codeforces.com/contest/559/submission/262980989",
+    "tags": [
+      "dp",
+      "sortings",
+      "*3000"
+    ],
+    "timestamp": "May/28/2024 14:25"
+  },
   "CF262981161": {
     "contest_id": 354,
     "language": "C++20 (GCC 13-64)",
