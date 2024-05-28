@@ -26298,6 +26298,25 @@
     ],
     "timestamp": "May/28/2024 12:41"
   },
+  "CF262977095": {
+    "contest_id": 1468,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1468/L.cpp",
+    "platform": "Codeforces",
+    "problem_index": "L",
+    "problem_name": "Prime Divisors Selection",
+    "problem_url": "https://codeforces.com/contest/1468/problem/L",
+    "submission_id": "CF262977095",
+    "submission_url": "https://codeforces.com/contest/1468/submission/262977095",
+    "tags": [
+      "binary search",
+      "greedy",
+      "math",
+      "number theory",
+      "*2700"
+    ],
+    "timestamp": "May/28/2024 13:52"
+  },
   "CF262977110": {
     "contest_id": 1099,
     "language": "C++20 (GCC 13-64)",
