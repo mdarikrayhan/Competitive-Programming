@@ -23393,6 +23393,23 @@
     ],
     "timestamp": "May/17/2024 08:26"
   },
+  "CF263058109": {
+    "contest_id": 704,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/704/D.cpp",
+    "platform": "Codeforces",
+    "problem_index": "D",
+    "problem_name": "Captain America",
+    "problem_url": "https://codeforces.com/contest/704/problem/D",
+    "submission_id": "CF263058109",
+    "submission_url": "https://codeforces.com/contest/704/submission/263058109",
+    "tags": [
+      "flows",
+      "greedy",
+      "*3100"
+    ],
+    "timestamp": "May/29/2024 01:23"
+  },
   "CF263058238": {
     "contest_id": 1292,
     "language": "C++20 (GCC 13-64)",
