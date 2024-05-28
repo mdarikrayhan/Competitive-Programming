@@ -59861,6 +59861,19 @@
     ],
     "timestamp": "May/28/2024 06:21"
   },
+  "CF262942155": {
+    "contest_id": 1938,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1938/H.cpp",
+    "platform": "Codeforces",
+    "problem_index": "H",
+    "problem_name": "Pho Restaurant",
+    "problem_url": "https://codeforces.com/contest/1938/problem/H",
+    "submission_id": "CF262942155",
+    "submission_url": "https://codeforces.com/contest/1938/submission/262942155",
+    "tags": [],
+    "timestamp": "May/28/2024 06:38"
+  },
   "CF262942173": {
     "contest_id": 405,
     "language": "C++20 (GCC 13-64)",
