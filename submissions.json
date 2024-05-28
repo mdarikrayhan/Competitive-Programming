@@ -70753,6 +70753,22 @@
     ],
     "timestamp": "May/28/2024 16:21"
   },
+  "CF262995390": {
+    "contest_id": 45,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/45/J.cpp",
+    "platform": "Codeforces",
+    "problem_index": "J",
+    "problem_name": "Planting Trees",
+    "problem_url": "https://codeforces.com/contest/45/problem/J",
+    "submission_id": "CF262995390",
+    "submission_url": "https://codeforces.com/contest/45/submission/262995390",
+    "tags": [
+      "constructive algorithms",
+      "*1800"
+    ],
+    "timestamp": "May/28/2024 16:30"
+  },
   "CF262995414": {
     "contest_id": 1129,
     "language": "C++20 (GCC 13-64)",
