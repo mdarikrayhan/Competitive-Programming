@@ -25822,6 +25822,26 @@
     ],
     "timestamp": "May/28/2024 15:59"
   },
+  "CF263055202": {
+    "contest_id": 1876,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1876/D.cpp",
+    "platform": "Codeforces",
+    "problem_index": "D",
+    "problem_name": "Lexichromatography",
+    "problem_url": "https://codeforces.com/contest/1876/problem/D",
+    "submission_id": "CF263055202",
+    "submission_url": "https://codeforces.com/contest/1876/submission/263055202",
+    "tags": [
+      "combinatorics",
+      "dfs and similar",
+      "dsu",
+      "graphs",
+      "two pointers",
+      "*2500"
+    ],
+    "timestamp": "May/29/2024 00:49"
+  },
   "CF263055228": {
     "contest_id": 1814,
     "language": "C++20 (GCC 13-64)",
