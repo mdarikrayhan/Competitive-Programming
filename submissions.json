@@ -23393,6 +23393,25 @@
     ],
     "timestamp": "May/17/2024 08:26"
   },
+  "CF262987003": {
+    "contest_id": 1806,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1806/D.cpp",
+    "platform": "Codeforces",
+    "problem_index": "D",
+    "problem_name": "DSU Master",
+    "problem_url": "https://codeforces.com/contest/1806/problem/D",
+    "submission_id": "CF262987003",
+    "submission_url": "https://codeforces.com/contest/1806/submission/262987003",
+    "tags": [
+      "combinatorics",
+      "dp",
+      "dsu",
+      "math",
+      "*2500"
+    ],
+    "timestamp": "May/28/2024 15:16"
+  },
   "CF262987060": {
     "contest_id": 566,
     "language": "C++20 (GCC 13-64)",
