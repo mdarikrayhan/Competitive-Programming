@@ -23393,6 +23393,23 @@
     ],
     "timestamp": "May/17/2024 08:26"
   },
+  "CF262990524": {
+    "contest_id": 613,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/613/C.cpp",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Necklace",
+    "problem_url": "https://codeforces.com/contest/613/problem/C",
+    "submission_id": "CF262990524",
+    "submission_url": "https://codeforces.com/contest/613/submission/262990524",
+    "tags": [
+      "constructive algorithms",
+      "math",
+      "*2500"
+    ],
+    "timestamp": "May/28/2024 15:47"
+  },
   "CF262990535": {
     "contest_id": 138,
     "language": "C++20 (GCC 13-64)",
