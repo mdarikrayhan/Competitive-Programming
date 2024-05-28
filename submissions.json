@@ -82208,6 +82208,28 @@
     ],
     "timestamp": "May/28/2024 15:30"
   },
+  "CF262989355": {
+    "contest_id": 1553,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1553/G.cpp",
+    "platform": "Codeforces",
+    "problem_index": "G",
+    "problem_name": "Common Divisor Graph",
+    "problem_url": "https://codeforces.com/contest/1553/problem/G",
+    "submission_id": "CF262989355",
+    "submission_url": "https://codeforces.com/contest/1553/submission/262989355",
+    "tags": [
+      "brute force",
+      "constructive algorithms",
+      "dsu",
+      "graphs",
+      "hashing",
+      "math",
+      "number theory",
+      "*2700"
+    ],
+    "timestamp": "May/28/2024 15:37"
+  },
   "CF262989518": {
     "contest_id": 1111,
     "language": "C++20 (GCC 13-64)",
