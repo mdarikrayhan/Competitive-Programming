@@ -35174,6 +35174,25 @@
     ],
     "timestamp": "May/29/2024 03:55"
   },
+  "CF263068139": {
+    "contest_id": 1895,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1895/F.cpp",
+    "platform": "Codeforces",
+    "problem_index": "F",
+    "problem_name": "Fancy Arrays",
+    "problem_url": "https://codeforces.com/contest/1895/problem/F",
+    "submission_id": "CF263068139",
+    "submission_url": "https://codeforces.com/contest/1895/submission/263068139",
+    "tags": [
+      "combinatorics",
+      "dp",
+      "math",
+      "matrices",
+      "*2600"
+    ],
+    "timestamp": "May/29/2024 04:08"
+  },
   "CF263068179": {
     "contest_id": 15,
     "language": "C++20 (GCC 13-64)",
