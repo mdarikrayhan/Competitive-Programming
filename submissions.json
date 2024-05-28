@@ -26298,6 +26298,24 @@
     ],
     "timestamp": "May/28/2024 12:41"
   },
+  "CF262977153": {
+    "contest_id": 120,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/120/J.cpp",
+    "platform": "Codeforces",
+    "problem_index": "J",
+    "problem_name": "Minimum Sum",
+    "problem_url": "https://codeforces.com/contest/120/problem/J",
+    "submission_id": "CF262977153",
+    "submission_url": "https://codeforces.com/contest/120/submission/262977153",
+    "tags": [
+      "divide and conquer",
+      "geometry",
+      "sortings",
+      "*1900"
+    ],
+    "timestamp": "May/28/2024 13:53"
+  },
   "CF262977193": {
     "contest_id": 1468,
     "language": "C++20 (GCC 13-64)",
