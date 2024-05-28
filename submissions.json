@@ -23792,6 +23792,22 @@
     ],
     "timestamp": "May/28/2024 12:14"
   },
+  "CF262966936": {
+    "contest_id": 35,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/35/B.cpp",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Warehouse",
+    "problem_url": "https://codeforces.com/contest/35/problem/B",
+    "submission_id": "CF262966936",
+    "submission_url": "https://codeforces.com/contest/35/submission/262966936",
+    "tags": [
+      "implementation",
+      "*1700"
+    ],
+    "timestamp": "May/28/2024 12:24"
+  },
   "CF262966940": {
     "contest_id": 997,
     "language": "C++20 (GCC 13-64)",
