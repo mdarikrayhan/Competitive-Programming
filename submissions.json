@@ -23393,6 +23393,24 @@
     ],
     "timestamp": "May/17/2024 08:26"
   },
+  "CF263056340": {
+    "contest_id": 1387,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1387/B2.cpp",
+    "platform": "Codeforces",
+    "problem_index": "B2",
+    "problem_name": "Village (Maximum)",
+    "problem_url": "https://codeforces.com/contest/1387/problem/B2",
+    "submission_id": "CF263056340",
+    "submission_url": "https://codeforces.com/contest/1387/submission/263056340",
+    "tags": [
+      "*special problem",
+      "dfs and similar",
+      "trees",
+      "*2500"
+    ],
+    "timestamp": "May/29/2024 01:02"
+  },
   "CF263056360": {
     "contest_id": 126,
     "language": "C++20 (GCC 13-64)",
