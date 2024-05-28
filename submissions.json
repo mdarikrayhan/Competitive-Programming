@@ -23393,6 +23393,23 @@
     ],
     "timestamp": "May/17/2024 08:26"
   },
+  "CF263056591": {
+    "contest_id": 397,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/397/B.cpp",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "On Corruption and Numbers",
+    "problem_url": "https://codeforces.com/contest/397/problem/B",
+    "submission_id": "CF263056591",
+    "submission_url": "https://codeforces.com/contest/397/submission/263056591",
+    "tags": [
+      "constructive algorithms",
+      "implementation",
+      "math"
+    ],
+    "timestamp": "May/29/2024 01:05"
+  },
   "CF263056641": {
     "contest_id": 10,
     "language": "C++20 (GCC 13-64)",
