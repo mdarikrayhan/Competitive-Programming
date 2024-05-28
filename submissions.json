@@ -23393,6 +23393,27 @@
     ],
     "timestamp": "May/17/2024 08:26"
   },
+  "CF263065043": {
+    "contest_id": 1778,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1778/F.cpp",
+    "platform": "Codeforces",
+    "problem_index": "F",
+    "problem_name": "Maximizing Root",
+    "problem_url": "https://codeforces.com/contest/1778/problem/F",
+    "submission_id": "CF263065043",
+    "submission_url": "https://codeforces.com/contest/1778/submission/263065043",
+    "tags": [
+      "dfs and similar",
+      "dp",
+      "graphs",
+      "math",
+      "number theory",
+      "trees",
+      "*2600"
+    ],
+    "timestamp": "May/29/2024 03:06"
+  },
   "CF263065057": {
     "contest_id": 1540,
     "language": "C++20 (GCC 13-64)",
