@@ -23393,6 +23393,23 @@
     ],
     "timestamp": "May/17/2024 08:26"
   },
+  "CF263064095": {
+    "contest_id": 1205,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1205/D.cpp",
+    "platform": "Codeforces",
+    "problem_index": "D",
+    "problem_name": "Almost All",
+    "problem_url": "https://codeforces.com/contest/1205/problem/D",
+    "submission_id": "CF263064095",
+    "submission_url": "https://codeforces.com/contest/1205/submission/263064095",
+    "tags": [
+      "constructive algorithms",
+      "trees",
+      "*2700"
+    ],
+    "timestamp": "May/29/2024 02:49"
+  },
   "CF263064104": {
     "contest_id": 86,
     "language": "C++20 (GCC 13-64)",
