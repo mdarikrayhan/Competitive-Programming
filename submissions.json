@@ -26225,6 +26225,25 @@
     ],
     "timestamp": "May/29/2024 00:54"
   },
+  "CF263055748": {
+    "contest_id": 1542,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1542/E2.cpp",
+    "platform": "Codeforces",
+    "problem_index": "E2",
+    "problem_name": "Abnormal Permutation Pairs (hard version)",
+    "problem_url": "https://codeforces.com/contest/1542/problem/E2",
+    "submission_id": "CF263055748",
+    "submission_url": "https://codeforces.com/contest/1542/submission/263055748",
+    "tags": [
+      "combinatorics",
+      "dp",
+      "fft",
+      "math",
+      "*2700"
+    ],
+    "timestamp": "May/29/2024 00:55"
+  },
   "CF263055800": {
     "contest_id": 1380,
     "language": "C++20 (GCC 13-64)",
