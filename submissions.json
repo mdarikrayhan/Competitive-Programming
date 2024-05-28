@@ -67931,6 +67931,22 @@
     ],
     "timestamp": "May/29/2024 02:24"
   },
+  "CF263062691": {
+    "contest_id": 1810,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1810/G.cpp",
+    "platform": "Codeforces",
+    "problem_index": "G",
+    "problem_name": "The Maximum Prefix",
+    "problem_url": "https://codeforces.com/contest/1810/problem/G",
+    "submission_id": "CF263062691",
+    "submission_url": "https://codeforces.com/contest/1810/submission/263062691",
+    "tags": [
+      "dp",
+      "*3200"
+    ],
+    "timestamp": "May/29/2024 02:26"
+  },
   "CF263062711": {
     "contest_id": 1956,
     "language": "C++20 (GCC 13-64)",
