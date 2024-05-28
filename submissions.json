@@ -25840,6 +25840,24 @@
     ],
     "timestamp": "May/29/2024 00:33"
   },
+  "CF263054104": {
+    "contest_id": 1672,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1672/F2.cpp",
+    "platform": "Codeforces",
+    "problem_index": "F2",
+    "problem_name": "Checker for Array Shuffling",
+    "problem_url": "https://codeforces.com/contest/1672/problem/F2",
+    "submission_id": "CF263054104",
+    "submission_url": "https://codeforces.com/contest/1672/submission/263054104",
+    "tags": [
+      "constructive algorithms",
+      "dfs and similar",
+      "graphs",
+      "*2800"
+    ],
+    "timestamp": "May/29/2024 00:37"
+  },
   "CF263054138": {
     "contest_id": 103,
     "language": "C++20 (GCC 13-64)",
