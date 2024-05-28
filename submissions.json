@@ -23393,6 +23393,24 @@
     ],
     "timestamp": "May/17/2024 08:26"
   },
+  "CF262968404": {
+    "contest_id": 119,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/119/B.cpp",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Before Exam",
+    "problem_url": "https://codeforces.com/contest/119/problem/B",
+    "submission_id": "CF262968404",
+    "submission_url": "https://codeforces.com/contest/119/submission/262968404",
+    "tags": [
+      "constructive algorithms",
+      "implementation",
+      "sortings",
+      "*1900"
+    ],
+    "timestamp": "May/28/2024 12:37"
+  },
   "CF262968517": {
     "contest_id": 1285,
     "language": "C++20 (GCC 13-64)",
