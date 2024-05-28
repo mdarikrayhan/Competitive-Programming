@@ -23393,6 +23393,23 @@
     ],
     "timestamp": "May/17/2024 08:26"
   },
+  "CF262991141": {
+    "contest_id": 954,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/954/I.cpp",
+    "platform": "Codeforces",
+    "problem_index": "I",
+    "problem_name": "Yet Another String Matching Problem",
+    "problem_url": "https://codeforces.com/contest/954/problem/I",
+    "submission_id": "CF262991141",
+    "submission_url": "https://codeforces.com/contest/954/submission/262991141",
+    "tags": [
+      "fft",
+      "math",
+      "*2200"
+    ],
+    "timestamp": "May/28/2024 15:53"
+  },
   "CF262991478": {
     "contest_id": 387,
     "language": "C++20 (GCC 13-64)",
