@@ -23792,6 +23792,25 @@
     ],
     "timestamp": "May/28/2024 12:14"
   },
+  "CF262966351": {
+    "contest_id": 1301,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1301/F.cpp",
+    "platform": "Codeforces",
+    "problem_index": "F",
+    "problem_name": "Super Jaber",
+    "problem_url": "https://codeforces.com/contest/1301/problem/F",
+    "submission_id": "CF262966351",
+    "submission_url": "https://codeforces.com/contest/1301/submission/262966351",
+    "tags": [
+      "dfs and similar",
+      "graphs",
+      "implementation",
+      "shortest paths",
+      "*2600"
+    ],
+    "timestamp": "May/28/2024 12:18"
+  },
   "CF262966375": {
     "contest_id": 784,
     "language": "C++20 (GCC 13-64)",
