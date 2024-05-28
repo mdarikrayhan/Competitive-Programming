@@ -23393,6 +23393,23 @@
     ],
     "timestamp": "May/17/2024 08:26"
   },
+  "CF263064132": {
+    "contest_id": 526,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/526/G.cpp",
+    "platform": "Codeforces",
+    "problem_index": "G",
+    "problem_name": "Spiders Evil Plan",
+    "problem_url": "https://codeforces.com/contest/526/problem/G",
+    "submission_id": "CF263064132",
+    "submission_url": "https://codeforces.com/contest/526/submission/263064132",
+    "tags": [
+      "greedy",
+      "trees",
+      "*3300"
+    ],
+    "timestamp": "May/29/2024 02:50"
+  },
   "CF263064138": {
     "contest_id": 1342,
     "language": "C++20 (GCC 13-64)",
