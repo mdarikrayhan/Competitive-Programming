@@ -27011,6 +27011,26 @@
     ],
     "timestamp": "May/28/2024 15:02"
   },
+  "CF262985614": {
+    "contest_id": 1571,
+    "language": "Kotlin 1.7",
+    "path": "codeforces/1571/D.kt",
+    "platform": "Codeforces",
+    "problem_index": "D",
+    "problem_name": "Sweepstake",
+    "problem_url": "https://codeforces.com/contest/1571/problem/D",
+    "submission_id": "CF262985614",
+    "submission_url": "https://codeforces.com/contest/1571/submission/262985614",
+    "tags": [
+      "*special problem",
+      "brute force",
+      "constructive algorithms",
+      "implementation",
+      "math",
+      "*1800"
+    ],
+    "timestamp": "May/28/2024 15:05"
+  },
   "CF262985650": {
     "contest_id": 1571,
     "language": "Kotlin 1.7",
