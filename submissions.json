@@ -23393,6 +23393,24 @@
     ],
     "timestamp": "May/17/2024 08:26"
   },
+  "CF263057006": {
+    "contest_id": 385,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/385/D.cpp",
+    "platform": "Codeforces",
+    "problem_index": "D",
+    "problem_name": "Bear and Floodlight",
+    "problem_url": "https://codeforces.com/contest/385/problem/D",
+    "submission_id": "CF263057006",
+    "submission_url": "https://codeforces.com/contest/385/submission/263057006",
+    "tags": [
+      "bitmasks",
+      "dp",
+      "geometry",
+      "*2200"
+    ],
+    "timestamp": "May/29/2024 01:10"
+  },
   "CF263057034": {
     "contest_id": 362,
     "language": "C++20 (GCC 13-64)",
