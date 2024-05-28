@@ -26298,6 +26298,27 @@
     ],
     "timestamp": "May/28/2024 12:41"
   },
+  "CF262977110": {
+    "contest_id": 1099,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1099/F.cpp",
+    "platform": "Codeforces",
+    "problem_index": "F",
+    "problem_name": "Cookies",
+    "problem_url": "https://codeforces.com/contest/1099/problem/F",
+    "submission_id": "CF262977110",
+    "submission_url": "https://codeforces.com/contest/1099/submission/262977110",
+    "tags": [
+      "binary search",
+      "data structures",
+      "dfs and similar",
+      "dp",
+      "games",
+      "trees",
+      "*2400"
+    ],
+    "timestamp": "May/28/2024 13:52"
+  },
   "CF262977153": {
     "contest_id": 120,
     "language": "C++20 (GCC 13-64)",
