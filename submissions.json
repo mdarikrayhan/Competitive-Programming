@@ -26298,6 +26298,25 @@
     ],
     "timestamp": "May/28/2024 12:41"
   },
+  "CF262978974": {
+    "contest_id": 835,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/835/F.cpp",
+    "platform": "Codeforces",
+    "problem_index": "F",
+    "problem_name": "Roads in the Kingdom",
+    "problem_url": "https://codeforces.com/contest/835/problem/F",
+    "submission_id": "CF262978974",
+    "submission_url": "https://codeforces.com/contest/835/submission/262978974",
+    "tags": [
+      "dfs and similar",
+      "dp",
+      "graphs",
+      "trees",
+      "*2500"
+    ],
+    "timestamp": "May/28/2024 14:08"
+  },
   "CF262979019": {
     "contest_id": 1716,
     "language": "C++20 (GCC 13-64)",
