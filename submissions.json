@@ -25822,6 +25822,30 @@
     ],
     "timestamp": "May/28/2024 15:59"
   },
+  "CF263001760": {
+    "contest_id": 1617,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1617/E.cpp",
+    "platform": "Codeforces",
+    "problem_index": "E",
+    "problem_name": "Christmas Chocolates",
+    "problem_url": "https://codeforces.com/contest/1617/problem/E",
+    "submission_id": "CF263001760",
+    "submission_url": "https://codeforces.com/contest/1617/submission/263001760",
+    "tags": [
+      "dfs and similar",
+      "dp",
+      "games",
+      "graphs",
+      "implementation",
+      "math",
+      "number theory",
+      "shortest paths",
+      "trees",
+      "*2700"
+    ],
+    "timestamp": "May/28/2024 17:23"
+  },
   "CF263001927": {
     "contest_id": 1100,
     "language": "C++20 (GCC 13-64)",
