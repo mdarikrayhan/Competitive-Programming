@@ -67500,6 +67500,23 @@
     ],
     "timestamp": "May/29/2024 02:04"
   },
+  "CF263061994": {
+    "contest_id": 39,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/39/A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "C*++ Calculations",
+    "problem_url": "https://codeforces.com/contest/39/problem/A",
+    "submission_id": "CF263061994",
+    "submission_url": "https://codeforces.com/contest/39/submission/263061994",
+    "tags": [
+      "expression parsing",
+      "greedy",
+      "*2000"
+    ],
+    "timestamp": "May/29/2024 02:15"
+  },
   "CF263062055": {
     "contest_id": 630,
     "language": "C++20 (GCC 13-64)",
