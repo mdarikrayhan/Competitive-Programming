@@ -23996,6 +23996,25 @@
     ],
     "timestamp": "May/28/2024 08:13"
   },
+  "CF262957099": {
+    "contest_id": 1889,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1889/B.cpp",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Doremy's Connecting Plan",
+    "problem_url": "https://codeforces.com/contest/1889/problem/B",
+    "submission_id": "CF262957099",
+    "submission_url": "https://codeforces.com/contest/1889/submission/262957099",
+    "tags": [
+      "constructive algorithms",
+      "greedy",
+      "math",
+      "sortings",
+      "*1700"
+    ],
+    "timestamp": "May/28/2024 10:46"
+  },
   "CF262957114": {
     "contest_id": 257,
     "language": "C++20 (GCC 13-64)",
