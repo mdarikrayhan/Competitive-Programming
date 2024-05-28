@@ -70165,6 +70165,23 @@
     ],
     "timestamp": "May/29/2024 03:55"
   },
+  "CF263067628": {
+    "contest_id": 946,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/946/G.cpp",
+    "platform": "Codeforces",
+    "problem_index": "G",
+    "problem_name": "Almost Increasing Array",
+    "problem_url": "https://codeforces.com/contest/946/problem/G",
+    "submission_id": "CF263067628",
+    "submission_url": "https://codeforces.com/contest/946/submission/263067628",
+    "tags": [
+      "data structures",
+      "dp",
+      "*2500"
+    ],
+    "timestamp": "May/29/2024 03:57"
+  },
   "CF263067634": {
     "contest_id": 1184,
     "language": "C++20 (GCC 13-64)",
