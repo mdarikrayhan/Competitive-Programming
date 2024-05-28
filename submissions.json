@@ -23996,6 +23996,25 @@
     ],
     "timestamp": "May/28/2024 08:13"
   },
+  "CF262947840": {
+    "contest_id": 1934,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1934/D2.cpp",
+    "platform": "Codeforces",
+    "problem_index": "D2",
+    "problem_name": "XOR Break --- Game Version",
+    "problem_url": "https://codeforces.com/contest/1934/problem/D2",
+    "submission_id": "CF262947840",
+    "submission_url": "https://codeforces.com/contest/1934/submission/262947840",
+    "tags": [
+      "bitmasks",
+      "games",
+      "greedy",
+      "interactive",
+      "*2400"
+    ],
+    "timestamp": "May/28/2024 08:38"
+  },
   "CF262947851": {
     "contest_id": 630,
     "language": "C++20 (GCC 13-64)",
