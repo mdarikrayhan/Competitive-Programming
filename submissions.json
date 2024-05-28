@@ -26298,6 +26298,25 @@
     ],
     "timestamp": "May/28/2024 12:41"
   },
+  "CF262978376": {
+    "contest_id": 1184,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1184/E2.cpp",
+    "platform": "Codeforces",
+    "problem_index": "E2",
+    "problem_name": "Daleks' Invasion (medium)",
+    "problem_url": "https://codeforces.com/contest/1184/problem/E2",
+    "submission_id": "CF262978376",
+    "submission_url": "https://codeforces.com/contest/1184/submission/262978376",
+    "tags": [
+      "dfs and similar",
+      "graphs",
+      "shortest paths",
+      "trees",
+      "*2100"
+    ],
+    "timestamp": "May/28/2024 14:04"
+  },
   "CF262978403": {
     "contest_id": 900,
     "language": "C++20 (GCC 13-64)",
