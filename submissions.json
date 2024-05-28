@@ -26298,6 +26298,25 @@
     ],
     "timestamp": "May/28/2024 12:41"
   },
+  "CF262978583": {
+    "contest_id": 1735,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1735/E.cpp",
+    "platform": "Codeforces",
+    "problem_index": "E",
+    "problem_name": "House Planning",
+    "problem_url": "https://codeforces.com/contest/1735/problem/E",
+    "submission_id": "CF262978583",
+    "submission_url": "https://codeforces.com/contest/1735/submission/262978583",
+    "tags": [
+      "constructive algorithms",
+      "data structures",
+      "graph matchings",
+      "greedy",
+      "*2400"
+    ],
+    "timestamp": "May/28/2024 14:05"
+  },
   "CF262978603": {
     "contest_id": 914,
     "language": "C++20 (GCC 13-64)",
