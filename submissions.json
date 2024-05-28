@@ -70753,6 +70753,24 @@
     ],
     "timestamp": "May/28/2024 16:21"
   },
+  "CF262997334": {
+    "contest_id": 533,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/533/F.cpp",
+    "platform": "Codeforces",
+    "problem_index": "F",
+    "problem_name": "Encoding",
+    "problem_url": "https://codeforces.com/contest/533/problem/F",
+    "submission_id": "CF262997334",
+    "submission_url": "https://codeforces.com/contest/533/submission/262997334",
+    "tags": [
+      "hashing",
+      "string suffix structures",
+      "strings",
+      "*2400"
+    ],
+    "timestamp": "May/28/2024 16:47"
+  },
   "CF262997353": {
     "contest_id": 1225,
     "language": "C++20 (GCC 13-64)",
