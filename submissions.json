@@ -35174,6 +35174,23 @@
     ],
     "timestamp": "May/29/2024 03:55"
   },
+  "CF263068109": {
+    "contest_id": 954,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/954/H.cpp",
+    "platform": "Codeforces",
+    "problem_index": "H",
+    "problem_name": "Path Counting",
+    "problem_url": "https://codeforces.com/contest/954/problem/H",
+    "submission_id": "CF263068109",
+    "submission_url": "https://codeforces.com/contest/954/submission/263068109",
+    "tags": [
+      "combinatorics",
+      "dp",
+      "*2500"
+    ],
+    "timestamp": "May/29/2024 04:08"
+  },
   "CF263068130": {
     "contest_id": 1383,
     "language": "C++20 (GCC 13-64)",
