@@ -23812,6 +23812,22 @@
     ],
     "timestamp": "May/28/2024 12:25"
   },
+  "CF262967168": {
+    "contest_id": 57,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/57/B.cpp",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Martian Architecture",
+    "problem_url": "https://codeforces.com/contest/57/problem/B",
+    "submission_id": "CF262967168",
+    "submission_url": "https://codeforces.com/contest/57/submission/262967168",
+    "tags": [
+      "implementation",
+      "*1600"
+    ],
+    "timestamp": "May/28/2024 12:26"
+  },
   "CF262967286": {
     "contest_id": 1619,
     "language": "C++20 (GCC 13-64)",
