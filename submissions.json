@@ -59861,6 +59861,27 @@
     ],
     "timestamp": "May/28/2024 06:21"
   },
+  "CF262942438": {
+    "contest_id": 848,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/848/B.cpp",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Rooter's Song",
+    "problem_url": "https://codeforces.com/contest/848/problem/B",
+    "submission_id": "CF262942438",
+    "submission_url": "https://codeforces.com/contest/848/submission/262942438",
+    "tags": [
+      "constructive algorithms",
+      "data structures",
+      "geometry",
+      "implementation",
+      "sortings",
+      "two pointers",
+      "*1900"
+    ],
+    "timestamp": "May/28/2024 06:45"
+  },
   "CF262942477": {
     "contest_id": 86,
     "language": "C++20 (GCC 13-64)",
