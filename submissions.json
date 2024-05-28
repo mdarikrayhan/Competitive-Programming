@@ -70165,6 +70165,22 @@
     ],
     "timestamp": "May/29/2024 03:55"
   },
+  "CF263067682": {
+    "contest_id": 837,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/837/G.cpp",
+    "platform": "Codeforces",
+    "problem_index": "G",
+    "problem_name": "Functions On The Segments",
+    "problem_url": "https://codeforces.com/contest/837/problem/G",
+    "submission_id": "CF263067682",
+    "submission_url": "https://codeforces.com/contest/837/submission/263067682",
+    "tags": [
+      "data structures",
+      "*2500"
+    ],
+    "timestamp": "May/29/2024 03:58"
+  },
   "CF263067687": {
     "contest_id": 295,
     "language": "C++20 (GCC 13-64)",
