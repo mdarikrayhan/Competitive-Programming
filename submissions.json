@@ -82208,6 +82208,23 @@
     ],
     "timestamp": "May/28/2024 15:30"
   },
+  "CF262988893": {
+    "contest_id": 1037,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1037/H.cpp",
+    "platform": "Codeforces",
+    "problem_index": "H",
+    "problem_name": "Security",
+    "problem_url": "https://codeforces.com/contest/1037/problem/H",
+    "submission_id": "CF262988893",
+    "submission_url": "https://codeforces.com/contest/1037/submission/262988893",
+    "tags": [
+      "data structures",
+      "string suffix structures",
+      "*3200"
+    ],
+    "timestamp": "May/28/2024 15:33"
+  },
   "CF262988898": {
     "contest_id": 611,
     "language": "C++20 (GCC 13-64)",
