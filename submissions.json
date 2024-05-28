@@ -23792,6 +23792,24 @@
     ],
     "timestamp": "May/28/2024 12:14"
   },
+  "CF262966681": {
+    "contest_id": 895,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/895/D.cpp",
+    "platform": "Codeforces",
+    "problem_index": "D",
+    "problem_name": "String Mark",
+    "problem_url": "https://codeforces.com/contest/895/problem/D",
+    "submission_id": "CF262966681",
+    "submission_url": "https://codeforces.com/contest/895/submission/262966681",
+    "tags": [
+      "combinatorics",
+      "math",
+      "strings",
+      "*2100"
+    ],
+    "timestamp": "May/28/2024 12:21"
+  },
   "CF262966690": {
     "contest_id": 66,
     "language": "C++20 (GCC 13-64)",
