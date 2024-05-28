@@ -25840,6 +25840,24 @@
     ],
     "timestamp": "May/29/2024 00:33"
   },
+  "CF263054078": {
+    "contest_id": 928,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/928/D.cpp",
+    "platform": "Codeforces",
+    "problem_index": "D",
+    "problem_name": "Autocompletion",
+    "problem_url": "https://codeforces.com/contest/928/problem/D",
+    "submission_id": "CF263054078",
+    "submission_url": "https://codeforces.com/contest/928/submission/263054078",
+    "tags": [
+      "*special problem",
+      "strings",
+      "trees",
+      "*1900"
+    ],
+    "timestamp": "May/29/2024 00:37"
+  },
   "CF263054080": {
     "contest_id": 1673,
     "language": "C++20 (GCC 13-64)",
