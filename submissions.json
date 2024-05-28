@@ -27011,6 +27011,23 @@
     ],
     "timestamp": "May/28/2024 15:02"
   },
+  "CF262985590": {
+    "contest_id": 1571,
+    "language": "Kotlin 1.7",
+    "path": "codeforces/1571/C.kt",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Rhyme",
+    "problem_url": "https://codeforces.com/contest/1571/problem/C",
+    "submission_id": "CF262985590",
+    "submission_url": "https://codeforces.com/contest/1571/submission/262985590",
+    "tags": [
+      "*special problem",
+      "implementation",
+      "*1800"
+    ],
+    "timestamp": "May/28/2024 15:05"
+  },
   "CF262985614": {
     "contest_id": 1571,
     "language": "Kotlin 1.7",
