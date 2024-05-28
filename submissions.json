@@ -70753,6 +70753,22 @@
     ],
     "timestamp": "May/28/2024 16:21"
   },
+  "CF262996052": {
+    "contest_id": 676,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/676/E.cpp",
+    "platform": "Codeforces",
+    "problem_index": "E",
+    "problem_name": "The Last Fight Between Human and AI",
+    "problem_url": "https://codeforces.com/contest/676/problem/E",
+    "submission_id": "CF262996052",
+    "submission_url": "https://codeforces.com/contest/676/submission/262996052",
+    "tags": [
+      "math",
+      "*2400"
+    ],
+    "timestamp": "May/28/2024 16:36"
+  },
   "CF262996077": {
     "contest_id": 932,
     "language": "C++20 (GCC 13-64)",
