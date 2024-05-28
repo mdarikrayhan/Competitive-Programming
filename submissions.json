@@ -70165,6 +70165,22 @@
     ],
     "timestamp": "May/29/2024 03:55"
   },
+  "CF263067563": {
+    "contest_id": 256,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/256/E.cpp",
+    "platform": "Codeforces",
+    "problem_index": "E",
+    "problem_name": "Lucky Arrays",
+    "problem_url": "https://codeforces.com/contest/256/problem/E",
+    "submission_id": "CF263067563",
+    "submission_url": "https://codeforces.com/contest/256/submission/263067563",
+    "tags": [
+      "data structures",
+      "*2400"
+    ],
+    "timestamp": "May/29/2024 03:56"
+  },
   "CF263067572": {
     "contest_id": 455,
     "language": "C++20 (GCC 13-64)",
