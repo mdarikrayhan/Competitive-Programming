@@ -23393,6 +23393,23 @@
     ],
     "timestamp": "May/17/2024 08:26"
   },
+  "CF262990556": {
+    "contest_id": 1575,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1575/I.cpp",
+    "platform": "Codeforces",
+    "problem_index": "I",
+    "problem_name": "Illusions of the Desert",
+    "problem_url": "https://codeforces.com/contest/1575/problem/I",
+    "submission_id": "CF262990556",
+    "submission_url": "https://codeforces.com/contest/1575/submission/262990556",
+    "tags": [
+      "data structures",
+      "trees",
+      "*2300"
+    ],
+    "timestamp": "May/28/2024 15:48"
+  },
   "CF262990565": {
     "contest_id": 1422,
     "language": "C++20 (GCC 13-64)",
