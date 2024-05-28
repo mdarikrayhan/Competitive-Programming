@@ -23792,6 +23792,25 @@
     ],
     "timestamp": "May/28/2024 12:14"
   },
+  "CF262966202": {
+    "contest_id": 369,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/369/D.cpp",
+    "platform": "Codeforces",
+    "problem_index": "D",
+    "problem_name": "Valera and Fools",
+    "problem_url": "https://codeforces.com/contest/369/problem/D",
+    "submission_id": "CF262966202",
+    "submission_url": "https://codeforces.com/contest/369/submission/262966202",
+    "tags": [
+      "dfs and similar",
+      "dp",
+      "graphs",
+      "shortest paths",
+      "*2200"
+    ],
+    "timestamp": "May/28/2024 12:17"
+  },
   "CF262966317": {
     "contest_id": 601,
     "language": "C++20 (GCC 13-64)",
