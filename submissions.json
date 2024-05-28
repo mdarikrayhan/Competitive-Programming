@@ -59861,6 +59861,24 @@
     ],
     "timestamp": "May/28/2024 06:21"
   },
+  "CF262945511": {
+    "contest_id": 873,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/873/F.cpp",
+    "platform": "Codeforces",
+    "problem_index": "F",
+    "problem_name": "Forbidden Indices",
+    "problem_url": "https://codeforces.com/contest/873/problem/F",
+    "submission_id": "CF262945511",
+    "submission_url": "https://codeforces.com/contest/873/submission/262945511",
+    "tags": [
+      "dsu",
+      "string suffix structures",
+      "strings",
+      "*2400"
+    ],
+    "timestamp": "May/28/2024 07:54"
+  },
   "CF262945545": {
     "contest_id": 87,
     "language": "C++20 (GCC 13-64)",
