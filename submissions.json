@@ -26225,6 +26225,23 @@
     ],
     "timestamp": "May/29/2024 00:54"
   },
+  "CF263055889": {
+    "contest_id": 865,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/865/C.cpp",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Gotta Go Fast",
+    "problem_url": "https://codeforces.com/contest/865/problem/C",
+    "submission_id": "CF263055889",
+    "submission_url": "https://codeforces.com/contest/865/submission/263055889",
+    "tags": [
+      "binary search",
+      "dp",
+      "*2400"
+    ],
+    "timestamp": "May/29/2024 00:57"
+  },
   "CF263055986": {
     "contest_id": 949,
     "language": "C++20 (GCC 13-64)",
