@@ -74176,6 +74176,24 @@
     ],
     "timestamp": "May/29/2024 01:32"
   },
+  "CF263059196": {
+    "contest_id": 1421,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1421/E.cpp",
+    "platform": "Codeforces",
+    "problem_index": "E",
+    "problem_name": "Swedish Heroes",
+    "problem_url": "https://codeforces.com/contest/1421/problem/E",
+    "submission_id": "CF263059196",
+    "submission_url": "https://codeforces.com/contest/1421/submission/263059196",
+    "tags": [
+      "brute force",
+      "dp",
+      "implementation",
+      "*2700"
+    ],
+    "timestamp": "May/29/2024 01:37"
+  },
   "CF263059222": {
     "contest_id": 261,
     "language": "C++20 (GCC 13-64)",
