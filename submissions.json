@@ -23996,6 +23996,25 @@
     ],
     "timestamp": "May/28/2024 08:13"
   },
+  "CF262959540": {
+    "contest_id": 518,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/518/D.cpp",
+    "platform": "Codeforces",
+    "problem_index": "D",
+    "problem_name": "Ilya and Escalator",
+    "problem_url": "https://codeforces.com/contest/518/problem/D",
+    "submission_id": "CF262959540",
+    "submission_url": "https://codeforces.com/contest/518/submission/262959540",
+    "tags": [
+      "combinatorics",
+      "dp",
+      "math",
+      "probabilities",
+      "*1700"
+    ],
+    "timestamp": "May/28/2024 11:11"
+  },
   "CF262959558": {
     "contest_id": 272,
     "language": "C++20 (GCC 13-64)",
