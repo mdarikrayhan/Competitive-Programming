@@ -83307,6 +83307,23 @@
     ],
     "timestamp": "May/28/2024 16:21"
   },
+  "CF262994611": {
+    "contest_id": 294,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/294/E.cpp",
+    "platform": "Codeforces",
+    "problem_index": "E",
+    "problem_name": "Shaass the Great",
+    "problem_url": "https://codeforces.com/contest/294/problem/E",
+    "submission_id": "CF262994611",
+    "submission_url": "https://codeforces.com/contest/294/submission/262994611",
+    "tags": [
+      "dp",
+      "trees",
+      "*2300"
+    ],
+    "timestamp": "May/28/2024 16:23"
+  },
   "CF262994642": {
     "contest_id": 1906,
     "language": "C++20 (GCC 13-64)",
