@@ -70753,6 +70753,24 @@
     ],
     "timestamp": "May/28/2024 16:21"
   },
+  "CF262995704": {
+    "contest_id": 440,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/440/C.cpp",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "One-Based Arithmetic",
+    "problem_url": "https://codeforces.com/contest/440/problem/C",
+    "submission_id": "CF262995704",
+    "submission_url": "https://codeforces.com/contest/440/submission/262995704",
+    "tags": [
+      "brute force",
+      "dfs and similar",
+      "divide and conquer",
+      "*1800"
+    ],
+    "timestamp": "May/28/2024 16:33"
+  },
   "CF262995723": {
     "contest_id": 868,
     "language": "C++20 (GCC 13-64)",
