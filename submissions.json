@@ -23393,6 +23393,23 @@
     ],
     "timestamp": "May/17/2024 08:26"
   },
+  "CF263057053": {
+    "contest_id": 105,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/105/B.cpp",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Dark Assembly",
+    "problem_url": "https://codeforces.com/contest/105/problem/B",
+    "submission_id": "CF263057053",
+    "submission_url": "https://codeforces.com/contest/105/submission/263057053",
+    "tags": [
+      "brute force",
+      "probabilities",
+      "*1800"
+    ],
+    "timestamp": "May/29/2024 01:11"
+  },
   "CF263057059": {
     "contest_id": 1658,
     "language": "C++20 (GCC 13-64)",
