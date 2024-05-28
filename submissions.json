@@ -23996,6 +23996,25 @@
     ],
     "timestamp": "May/28/2024 08:13"
   },
+  "CF262957191": {
+    "contest_id": 148,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/148/D.cpp",
+    "platform": "Codeforces",
+    "problem_index": "D",
+    "problem_name": "Bag of mice",
+    "problem_url": "https://codeforces.com/contest/148/problem/D",
+    "submission_id": "CF262957191",
+    "submission_url": "https://codeforces.com/contest/148/submission/262957191",
+    "tags": [
+      "dp",
+      "games",
+      "math",
+      "probabilities",
+      "*1800"
+    ],
+    "timestamp": "May/28/2024 10:47"
+  },
   "CF262957210": {
     "contest_id": 761,
     "language": "C++20 (GCC 13-64)",
