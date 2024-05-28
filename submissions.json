@@ -82208,6 +82208,24 @@
     ],
     "timestamp": "May/28/2024 15:30"
   },
+  "CF262989649": {
+    "contest_id": 954,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/954/F.cpp",
+    "platform": "Codeforces",
+    "problem_index": "F",
+    "problem_name": "Runner's Problem",
+    "problem_url": "https://codeforces.com/contest/954/problem/F",
+    "submission_id": "CF262989649",
+    "submission_url": "https://codeforces.com/contest/954/submission/262989649",
+    "tags": [
+      "dp",
+      "matrices",
+      "sortings",
+      "*2100"
+    ],
+    "timestamp": "May/28/2024 15:40"
+  },
   "CF262989670": {
     "contest_id": 1635,
     "language": "C++20 (GCC 13-64)",
