@@ -23393,6 +23393,22 @@
     ],
     "timestamp": "May/17/2024 08:26"
   },
+  "CF262965218": {
+    "contest_id": 40,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/40/B.cpp",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Repaintings",
+    "problem_url": "https://codeforces.com/contest/40/problem/B",
+    "submission_id": "CF262965218",
+    "submission_url": "https://codeforces.com/contest/40/submission/262965218",
+    "tags": [
+      "math",
+      "*1600"
+    ],
+    "timestamp": "May/28/2024 12:08"
+  },
   "CF262965246": {
     "contest_id": 18,
     "language": "C++20 (GCC 13-64)",
