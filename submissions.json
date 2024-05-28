@@ -79705,6 +79705,22 @@
     ],
     "timestamp": "May/28/2024 12:49"
   },
+  "CF262975588": {
+    "contest_id": 1533,
+    "language": "Kotlin 1.7",
+    "path": "codeforces/1533/D.kt",
+    "platform": "Codeforces",
+    "problem_index": "D",
+    "problem_name": "String Searching",
+    "problem_url": "https://codeforces.com/contest/1533/problem/D",
+    "submission_id": "CF262975588",
+    "submission_url": "https://codeforces.com/contest/1533/submission/262975588",
+    "tags": [
+      "*special problem",
+      "hashing"
+    ],
+    "timestamp": "May/28/2024 13:39"
+  },
   "CF262975616": {
     "contest_id": 1533,
     "language": "Kotlin 1.7",
