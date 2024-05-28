@@ -26152,6 +26152,24 @@
     ],
     "timestamp": "May/29/2024 00:50"
   },
+  "CF263055332": {
+    "contest_id": 1198,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1198/F.cpp",
+    "platform": "Codeforces",
+    "problem_index": "F",
+    "problem_name": "GCD Groups 2",
+    "problem_url": "https://codeforces.com/contest/1198/problem/F",
+    "submission_id": "CF263055332",
+    "submission_url": "https://codeforces.com/contest/1198/submission/263055332",
+    "tags": [
+      "greedy",
+      "number theory",
+      "probabilities",
+      "*2900"
+    ],
+    "timestamp": "May/29/2024 00:50"
+  },
   "CF263055360": {
     "contest_id": 1326,
     "language": "C++20 (GCC 13-64)",
