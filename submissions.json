@@ -56079,6 +56079,23 @@
     ],
     "timestamp": "May/28/2024 09:19"
   },
+  "CF262950634": {
+    "contest_id": 773,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/773/B.cpp",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Dynamic Problem Scoring",
+    "problem_url": "https://codeforces.com/contest/773/problem/B",
+    "submission_id": "CF262950634",
+    "submission_url": "https://codeforces.com/contest/773/submission/262950634",
+    "tags": [
+      "brute force",
+      "greedy",
+      "*2000"
+    ],
+    "timestamp": "May/28/2024 09:23"
+  },
   "CF262950636": {
     "contest_id": 463,
     "language": "C++20 (GCC 13-64)",
