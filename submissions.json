@@ -25822,6 +25822,25 @@
     ],
     "timestamp": "May/28/2024 15:59"
   },
+  "CF263054455": {
+    "contest_id": 1666,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1666/J.cpp",
+    "platform": "Codeforces",
+    "problem_index": "J",
+    "problem_name": "Job Lookup",
+    "problem_url": "https://codeforces.com/contest/1666/problem/J",
+    "submission_id": "CF263054455",
+    "submission_url": "https://codeforces.com/contest/1666/submission/263054455",
+    "tags": [
+      "constructive algorithms",
+      "dp",
+      "shortest paths",
+      "trees",
+      "*2100"
+    ],
+    "timestamp": "May/29/2024 00:41"
+  },
   "CF263054469": {
     "contest_id": 1039,
     "language": "C++20 (GCC 13-64)",
