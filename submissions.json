@@ -70165,6 +70165,23 @@
     ],
     "timestamp": "May/29/2024 03:55"
   },
+  "CF263067621": {
+    "contest_id": 39,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/39/C.cpp",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Moon Craters",
+    "problem_url": "https://codeforces.com/contest/39/problem/C",
+    "submission_id": "CF263067621",
+    "submission_url": "https://codeforces.com/contest/39/submission/263067621",
+    "tags": [
+      "dp",
+      "sortings",
+      "*2100"
+    ],
+    "timestamp": "May/29/2024 03:57"
+  },
   "CF263067628": {
     "contest_id": 946,
     "language": "C++20 (GCC 13-64)",
