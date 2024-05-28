@@ -59861,6 +59861,23 @@
     ],
     "timestamp": "May/28/2024 06:21"
   },
+  "CF262942597": {
+    "contest_id": 666,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/666/E.cpp",
+    "platform": "Codeforces",
+    "problem_index": "E",
+    "problem_name": "Forensic Examination",
+    "problem_url": "https://codeforces.com/contest/666/problem/E",
+    "submission_id": "CF262942597",
+    "submission_url": "https://codeforces.com/contest/666/submission/262942597",
+    "tags": [
+      "data structures",
+      "string suffix structures",
+      "*3100"
+    ],
+    "timestamp": "May/28/2024 06:48"
+  },
   "CF262942606": {
     "contest_id": 1310,
     "language": "C++20 (GCC 13-64)",
