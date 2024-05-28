@@ -27664,6 +27664,24 @@
     ],
     "timestamp": "May/28/2024 15:53"
   },
+  "CF262991346": {
+    "contest_id": 1372,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1372/E.cpp",
+    "platform": "Codeforces",
+    "problem_index": "E",
+    "problem_name": "Omkar and Last Floor",
+    "problem_url": "https://codeforces.com/contest/1372/problem/E",
+    "submission_id": "CF262991346",
+    "submission_url": "https://codeforces.com/contest/1372/submission/262991346",
+    "tags": [
+      "dp",
+      "greedy",
+      "two pointers",
+      "*2900"
+    ],
+    "timestamp": "May/28/2024 15:55"
+  },
   "CF262991432": {
     "contest_id": 585,
     "language": "C++20 (GCC 13-64)",
