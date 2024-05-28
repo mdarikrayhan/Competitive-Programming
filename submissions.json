@@ -67500,6 +67500,23 @@
     ],
     "timestamp": "May/29/2024 02:04"
   },
+  "CF263062078": {
+    "contest_id": 111,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/111/D.cpp",
+    "platform": "Codeforces",
+    "problem_index": "D",
+    "problem_name": "Petya and Coloring",
+    "problem_url": "https://codeforces.com/contest/111/problem/D",
+    "submission_id": "CF263062078",
+    "submission_url": "https://codeforces.com/contest/111/submission/263062078",
+    "tags": [
+      "combinatorics",
+      "dp",
+      "*2300"
+    ],
+    "timestamp": "May/29/2024 02:16"
+  },
   "CF263062110": {
     "contest_id": 113,
     "language": "C++20 (GCC 13-64)",
