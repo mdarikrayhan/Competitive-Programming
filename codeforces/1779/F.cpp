@@ -1,43 +1,98 @@
-#include<cstdio>
-#include<cstring>
-unsigned dp[200001];
-int a[200001],c[200001],f[200001],l[200001][32],v[200001];
-int main()
-{
-	int n,i,x,y,p=0;unsigned t;
-	scanf("%d",&n);
-	memset(l,-1,sizeof(l));
-	for(i=1;i<=n;i++)scanf("%d",a+i),dp[i]=1<<a[i],c[i]=1;
-	for(i=2;i<=n;i++)scanf("%d",f+i);
-	for(i=n;i;i--)
-	{
-		c[f[i]]+=c[i];
-		if(~c[i]&1)dp[i]|=1;
-		t=0;
-		for(x=0;x<32;x++)
-			if(dp[f[i]]&(1<<x))
-				for(y=0;y<32;y++)
-					if(dp[i]&(1<<y))
-					{
-						t|=1<<(x^y);
-						l[i][x^y]=x;
-					}
-		dp[f[i]]=t;
-	}
-	if(!(dp[1]&1))return puts("-1"),0;
+#include <bits/stdc++.h>
 
-	dp[1]=1,v[p++]=1;
-	for(i=2;i<=n;i++)
-	{
-		x=__builtin_ctz(dp[f[i]]),t=0;
-		if(x<32&&~l[i][x])
-		{
-			dp[f[i]]=1<<l[i][x];
-			t=1<<(x^l[i][x]);
-		}
-		if(t==1&&(~c[i]&1))t=0,v[p++]=i;
-		dp[i]=t;
-	}
-	printf("%d\n",p*2);
-	while(p--)printf("%d %d%c",v[p],v[p]," \n"[!p]);
+using namespace std;
+
+int main() {
+    ios::sync_with_stdio(false);
+    cin.tie(nullptr);
+
+    int n;
+    cin >> n;
+
+    vector<int> a(n);
+    for (int i = 0; i < n; i++) cin >> a[i];
+
+    vector<vector<int>> adj(n);
+
+    for (int i = 1; i < n; i++) {
+        int p;
+        cin >> p;
+        p--;
+
+        adj[p].push_back(i);
+        adj[i].push_back(p);
+    }
+
+    vector<vector<bool>> dp(n, vector<bool>(32));
+    vector<vector<vector<int>>> prev(n);
+    vector<int> size(n);
+
+    auto dfs = [&](auto self, int v, int p) -> void {
+        dp[v][a[v]] = true;
+        size[v] = 1;
+
+        for (auto u : adj[v]) {
+            if (u == p) continue;
+            self(self, u, v);
+
+            size[v] += size[u];
+
+            vector<bool> upd(32);
+
+            prev[v].push_back(vector<int>(32));
+
+            for (int i = 0; i < 32; i++) {
+                if (!dp[v][i]) continue;
+                for (int j = 0; j < 32; j++) {
+                    if (!dp[u][j]) continue;
+
+                    if (!upd[i ^ j]) {
+                        upd[i ^ j] = true;
+                        prev[v][prev[v].size() - 1][i ^ j] = j;
+                    }
+                }
+            }
+
+            dp[v] = upd;
+        }
+
+        if (size[v] % 2 == 0) {
+            dp[v][0] = true;
+        }
+    };
+
+    dfs(dfs, 0, -1);
+
+    if (!dp[0][0]) cout << -1 << "\n";
+    else {
+        vector<int> ans;
+        auto recover = [&](auto self, int v, int p, int want) -> void {
+            reverse(adj[v].begin(), adj[v].end());
+
+            if (want == 0 && size[v] % 2 == 0) {
+                ans.push_back(v);
+                ans.push_back(v);
+                return;
+            }
+
+            int c = prev[v].size() - 1;
+            for (auto u : adj[v]) {
+                if (u == p) continue;
+                self(self, u, v, prev[v][c][want]);
+                want ^= prev[v][c][want];
+                c--;
+            }
+        };
+
+        recover(recover, 0, -1, 0);
+
+        ans.push_back(0);
+
+        cout << ans.size() << "\n";
+        for (int i = 0; i < ans.size(); i++) {
+            cout << ans[i] + 1 << " \n"[i == ans.size() - 1];
+        }
+    }
+
+    return 0;
 }
