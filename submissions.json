@@ -29631,6 +29631,25 @@
     ],
     "timestamp": "May/29/2024 03:14"
   },
+  "CF263067275": {
+    "contest_id": 1592,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1592/F2.cpp",
+    "platform": "Codeforces",
+    "problem_index": "F2",
+    "problem_name": "Alice and Recoloring 2",
+    "problem_url": "https://codeforces.com/contest/1592/problem/F2",
+    "submission_id": "CF263067275",
+    "submission_url": "https://codeforces.com/contest/1592/submission/263067275",
+    "tags": [
+      "constructive algorithms",
+      "flows",
+      "graph matchings",
+      "greedy",
+      "*2800"
+    ],
+    "timestamp": "May/29/2024 03:49"
+  },
   "CF263067301": {
     "contest_id": 671,
     "language": "C++20 (GCC 13-64)",
