@@ -74789,6 +74789,25 @@
     ],
     "timestamp": "May/29/2024 02:04"
   },
+  "CF263061706": {
+    "contest_id": 1673,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1673/E.cpp",
+    "platform": "Codeforces",
+    "problem_index": "E",
+    "problem_name": "Power or XOR?",
+    "problem_url": "https://codeforces.com/contest/1673/problem/E",
+    "submission_id": "CF263061706",
+    "submission_url": "https://codeforces.com/contest/1673/submission/263061706",
+    "tags": [
+      "bitmasks",
+      "combinatorics",
+      "math",
+      "number theory",
+      "*2500"
+    ],
+    "timestamp": "May/29/2024 02:11"
+  },
   "CF263061726": {
     "contest_id": 1609,
     "language": "C++20 (GCC 13-64)",
