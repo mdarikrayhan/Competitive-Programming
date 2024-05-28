@@ -23393,6 +23393,26 @@
     ],
     "timestamp": "May/17/2024 08:26"
   },
+  "CF262967749": {
+    "contest_id": 333,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/333/E.cpp",
+    "platform": "Codeforces",
+    "problem_index": "E",
+    "problem_name": "Summer Earnings",
+    "problem_url": "https://codeforces.com/contest/333/problem/E",
+    "submission_id": "CF262967749",
+    "submission_url": "https://codeforces.com/contest/333/submission/262967749",
+    "tags": [
+      "binary search",
+      "bitmasks",
+      "brute force",
+      "geometry",
+      "sortings",
+      "*2500"
+    ],
+    "timestamp": "May/28/2024 12:31"
+  },
   "CF262967806": {
     "contest_id": 1458,
     "language": "C++20 (GCC 13-64)",
