@@ -59861,6 +59861,23 @@
     ],
     "timestamp": "May/28/2024 06:21"
   },
+  "CF262942577": {
+    "contest_id": 220,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/220/E.cpp",
+    "platform": "Codeforces",
+    "problem_index": "E",
+    "problem_name": "Little Elephant and Inversions",
+    "problem_url": "https://codeforces.com/contest/220/problem/E",
+    "submission_id": "CF262942577",
+    "submission_url": "https://codeforces.com/contest/220/submission/262942577",
+    "tags": [
+      "data structures",
+      "two pointers",
+      "*2400"
+    ],
+    "timestamp": "May/28/2024 06:48"
+  },
   "CF262942597": {
     "contest_id": 666,
     "language": "C++20 (GCC 13-64)",
