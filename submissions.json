@@ -59861,6 +59861,23 @@
     ],
     "timestamp": "May/28/2024 06:21"
   },
+  "CF262942229": {
+    "contest_id": 53,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/53/B.cpp",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Blog Photo",
+    "problem_url": "https://codeforces.com/contest/53/problem/B",
+    "submission_id": "CF262942229",
+    "submission_url": "https://codeforces.com/contest/53/submission/262942229",
+    "tags": [
+      "binary search",
+      "implementation",
+      "*1700"
+    ],
+    "timestamp": "May/28/2024 06:39"
+  },
   "CF262942252": {
     "contest_id": 815,
     "language": "C++20 (GCC 13-64)",
