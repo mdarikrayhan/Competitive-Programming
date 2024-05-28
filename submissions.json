@@ -23996,6 +23996,23 @@
     ],
     "timestamp": "May/28/2024 08:13"
   },
+  "CF262950358": {
+    "contest_id": 524,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/524/E.cpp",
+    "platform": "Codeforces",
+    "problem_index": "E",
+    "problem_name": "Rooks and Rectangles",
+    "problem_url": "https://codeforces.com/contest/524/problem/E",
+    "submission_id": "CF262950358",
+    "submission_url": "https://codeforces.com/contest/524/submission/262950358",
+    "tags": [
+      "data structures",
+      "sortings",
+      "*2400"
+    ],
+    "timestamp": "May/28/2024 09:19"
+  },
   "CF262950370": {
     "contest_id": 1738,
     "language": "C++20 (GCC 13-64)",
