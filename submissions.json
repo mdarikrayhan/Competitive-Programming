@@ -35174,6 +35174,28 @@
     ],
     "timestamp": "May/29/2024 03:55"
   },
+  "CF263067919": {
+    "contest_id": 1682,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1682/E.cpp",
+    "platform": "Codeforces",
+    "problem_index": "E",
+    "problem_name": "Unordered Swaps",
+    "problem_url": "https://codeforces.com/contest/1682/problem/E",
+    "submission_id": "CF263067919",
+    "submission_url": "https://codeforces.com/contest/1682/submission/263067919",
+    "tags": [
+      "constructive algorithms",
+      "dfs and similar",
+      "graphs",
+      "greedy",
+      "math",
+      "sortings",
+      "trees",
+      "*2700"
+    ],
+    "timestamp": "May/29/2024 04:03"
+  },
   "CF263067931": {
     "contest_id": 1582,
     "language": "C++20 (GCC 13-64)",
