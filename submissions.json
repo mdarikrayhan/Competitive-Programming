@@ -23996,6 +23996,23 @@
     ],
     "timestamp": "May/28/2024 08:13"
   },
+  "CF262949554": {
+    "contest_id": 243,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/243/B.cpp",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Hydra",
+    "problem_url": "https://codeforces.com/contest/243/problem/B",
+    "submission_id": "CF262949554",
+    "submission_url": "https://codeforces.com/contest/243/submission/262949554",
+    "tags": [
+      "graphs",
+      "sortings",
+      "*2000"
+    ],
+    "timestamp": "May/28/2024 09:06"
+  },
   "CF262949638": {
     "contest_id": 123,
     "language": "C++20 (GCC 13-64)",
