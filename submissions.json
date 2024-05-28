@@ -23393,6 +23393,25 @@
     ],
     "timestamp": "May/17/2024 08:26"
   },
+  "CF262941315": {
+    "contest_id": 1854,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1854/C.cpp",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Expected Destruction",
+    "problem_url": "https://codeforces.com/contest/1854/problem/C",
+    "submission_id": "CF262941315",
+    "submission_url": "https://codeforces.com/contest/1854/submission/262941315",
+    "tags": [
+      "combinatorics",
+      "dp",
+      "math",
+      "probabilities",
+      "*2500"
+    ],
+    "timestamp": "May/28/2024 06:14"
+  },
   "CF262941328": {
     "contest_id": 552,
     "language": "C++20 (GCC 13-64)",
