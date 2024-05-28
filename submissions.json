@@ -54625,6 +54625,25 @@
     ],
     "timestamp": "May/28/2024 08:13"
   },
+  "CF262947287": {
+    "contest_id": 1584,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1584/E.cpp",
+    "platform": "Codeforces",
+    "problem_index": "E",
+    "problem_name": "Game with Stones",
+    "problem_url": "https://codeforces.com/contest/1584/problem/E",
+    "submission_id": "CF262947287",
+    "submission_url": "https://codeforces.com/contest/1584/submission/262947287",
+    "tags": [
+      "binary search",
+      "data structures",
+      "games",
+      "greedy",
+      "*2300"
+    ],
+    "timestamp": "May/28/2024 08:28"
+  },
   "CF262947305": {
     "contest_id": 1583,
     "language": "C++20 (GCC 13-64)",
