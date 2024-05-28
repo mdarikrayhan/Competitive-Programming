@@ -26225,6 +26225,25 @@
     ],
     "timestamp": "May/29/2024 00:54"
   },
+  "CF263056000": {
+    "contest_id": 1848,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1848/E.cpp",
+    "platform": "Codeforces",
+    "problem_index": "E",
+    "problem_name": "Vika and Stone Skipping",
+    "problem_url": "https://codeforces.com/contest/1848/problem/E",
+    "submission_id": "CF263056000",
+    "submission_url": "https://codeforces.com/contest/1848/submission/263056000",
+    "tags": [
+      "brute force",
+      "implementation",
+      "math",
+      "number theory",
+      "*2600"
+    ],
+    "timestamp": "May/29/2024 00:58"
+  },
   "CF263056015": {
     "contest_id": 253,
     "language": "C++20 (GCC 13-64)",
