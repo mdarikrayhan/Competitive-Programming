@@ -29631,6 +29631,23 @@
     ],
     "timestamp": "May/29/2024 03:14"
   },
+  "CF263067268": {
+    "contest_id": 8,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/8/E.cpp",
+    "platform": "Codeforces",
+    "problem_index": "E",
+    "problem_name": "Beads",
+    "problem_url": "https://codeforces.com/contest/8/problem/E",
+    "submission_id": "CF263067268",
+    "submission_url": "https://codeforces.com/contest/8/submission/263067268",
+    "tags": [
+      "dp",
+      "graphs",
+      "*2600"
+    ],
+    "timestamp": "May/29/2024 03:49"
+  },
   "CF263067275": {
     "contest_id": 1592,
     "language": "C++20 (GCC 13-64)",
