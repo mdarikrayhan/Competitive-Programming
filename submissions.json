@@ -23393,6 +23393,22 @@
     ],
     "timestamp": "May/17/2024 08:26"
   },
+  "CF263063200": {
+    "contest_id": 850,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/850/F.cpp",
+    "platform": "Codeforces",
+    "problem_index": "F",
+    "problem_name": "Rainbow Balls",
+    "problem_url": "https://codeforces.com/contest/850/problem/F",
+    "submission_id": "CF263063200",
+    "submission_url": "https://codeforces.com/contest/850/submission/263063200",
+    "tags": [
+      "math",
+      "*2800"
+    ],
+    "timestamp": "May/29/2024 02:34"
+  },
   "CF263063300": {
     "contest_id": 796,
     "language": "C++20 (GCC 13-64)",
