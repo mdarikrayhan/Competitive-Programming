@@ -23996,6 +23996,22 @@
     ],
     "timestamp": "May/28/2024 08:13"
   },
+  "CF262947963": {
+    "contest_id": 690,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/690/D2.cpp",
+    "platform": "Codeforces",
+    "problem_index": "D2",
+    "problem_name": "The Wall (medium)",
+    "problem_url": "https://codeforces.com/contest/690/problem/D2",
+    "submission_id": "CF262947963",
+    "submission_url": "https://codeforces.com/contest/690/submission/262947963",
+    "tags": [
+      "combinatorics",
+      "*1800"
+    ],
+    "timestamp": "May/28/2024 08:40"
+  },
   "CF262947999": {
     "contest_id": 1866,
     "language": "C++20 (GCC 13-64)",
