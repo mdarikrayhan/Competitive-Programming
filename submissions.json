@@ -26298,6 +26298,24 @@
     ],
     "timestamp": "May/28/2024 12:41"
   },
+  "CF262969027": {
+    "contest_id": 615,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/615/E.cpp",
+    "platform": "Codeforces",
+    "problem_index": "E",
+    "problem_name": "Hexagons",
+    "problem_url": "https://codeforces.com/contest/615/problem/E",
+    "submission_id": "CF262969027",
+    "submission_url": "https://codeforces.com/contest/615/submission/262969027",
+    "tags": [
+      "binary search",
+      "implementation",
+      "math",
+      "*2100"
+    ],
+    "timestamp": "May/28/2024 12:42"
+  },
   "CF262969236": {
     "contest_id": 1835,
     "language": "C++20 (GCC 13-64)",
