@@ -69583,6 +69583,27 @@
     ],
     "timestamp": "May/29/2024 03:14"
   },
+  "CF263066230": {
+    "contest_id": 1545,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1545/C.cpp",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "AquaMoon and Permutations",
+    "problem_url": "https://codeforces.com/contest/1545/problem/C",
+    "submission_id": "CF263066230",
+    "submission_url": "https://codeforces.com/contest/1545/submission/263066230",
+    "tags": [
+      "2-sat",
+      "brute force",
+      "combinatorics",
+      "constructive algorithms",
+      "graph matchings",
+      "graphs",
+      "*2800"
+    ],
+    "timestamp": "May/29/2024 03:27"
+  },
   "CF263066301": {
     "contest_id": 1270,
     "language": "C++20 (GCC 13-64)",
