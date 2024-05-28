@@ -27763,6 +27763,24 @@
     ],
     "timestamp": "May/28/2024 15:57"
   },
+  "CF262991698": {
+    "contest_id": 802,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/802/O.cpp",
+    "platform": "Codeforces",
+    "problem_index": "O",
+    "problem_name": "April Fools' Problem (hard)",
+    "problem_url": "https://codeforces.com/contest/802/problem/O",
+    "submission_id": "CF262991698",
+    "submission_url": "https://codeforces.com/contest/802/submission/262991698",
+    "tags": [
+      "binary search",
+      "data structures",
+      "flows",
+      "*2900"
+    ],
+    "timestamp": "May/28/2024 15:58"
+  },
   "CF262991740": {
     "contest_id": 1805,
     "language": "C++20 (GCC 13-64)",
