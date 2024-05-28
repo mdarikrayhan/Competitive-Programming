@@ -23393,6 +23393,24 @@
     ],
     "timestamp": "May/17/2024 08:26"
   },
+  "CF263062899": {
+    "contest_id": 346,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/346/D.cpp",
+    "platform": "Codeforces",
+    "problem_index": "D",
+    "problem_name": "Robot Control",
+    "problem_url": "https://codeforces.com/contest/346/problem/D",
+    "submission_id": "CF263062899",
+    "submission_url": "https://codeforces.com/contest/346/submission/263062899",
+    "tags": [
+      "dp",
+      "graphs",
+      "shortest paths",
+      "*2600"
+    ],
+    "timestamp": "May/29/2024 02:29"
+  },
   "CF263062913": {
     "contest_id": 748,
     "language": "C++20 (GCC 13-64)",
