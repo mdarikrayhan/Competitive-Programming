@@ -23393,6 +23393,23 @@
     ],
     "timestamp": "May/17/2024 08:26"
   },
+  "CF262987414": {
+    "contest_id": 504,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/504/C.cpp",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Misha and Palindrome Degree",
+    "problem_url": "https://codeforces.com/contest/504/problem/C",
+    "submission_id": "CF262987414",
+    "submission_url": "https://codeforces.com/contest/504/submission/262987414",
+    "tags": [
+      "implementation",
+      "math",
+      "*2500"
+    ],
+    "timestamp": "May/28/2024 15:20"
+  },
   "CF262987625": {
     "contest_id": 1750,
     "language": "C++20 (GCC 13-64)",
