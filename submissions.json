@@ -67931,6 +67931,24 @@
     ],
     "timestamp": "May/29/2024 02:24"
   },
+  "CF263062724": {
+    "contest_id": 1004,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1004/F.cpp",
+    "platform": "Codeforces",
+    "problem_index": "F",
+    "problem_name": "Sonya and Bitwise OR",
+    "problem_url": "https://codeforces.com/contest/1004/problem/F",
+    "submission_id": "CF263062724",
+    "submission_url": "https://codeforces.com/contest/1004/submission/263062724",
+    "tags": [
+      "bitmasks",
+      "data structures",
+      "divide and conquer",
+      "*2600"
+    ],
+    "timestamp": "May/29/2024 02:26"
+  },
   "CF263062734": {
     "contest_id": 1511,
     "language": "C++20 (GCC 13-64)",
