@@ -79705,6 +79705,23 @@
     ],
     "timestamp": "May/28/2024 12:49"
   },
+  "CF262976132": {
+    "contest_id": 1769,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1769/C2.cpp",
+    "platform": "Codeforces",
+    "problem_index": "C2",
+    "problem_name": "\u041f\u043e\u0434\u043a\u0440\u0443\u0442\u043a\u0430 II",
+    "problem_url": "https://codeforces.com/contest/1769/problem/C2",
+    "submission_id": "CF262976132",
+    "submission_url": "https://codeforces.com/contest/1769/submission/262976132",
+    "tags": [
+      "*special problem",
+      "dp",
+      "*1300"
+    ],
+    "timestamp": "May/28/2024 13:44"
+  },
   "CF262976186": {
     "contest_id": 163,
     "language": "C++20 (GCC 13-64)",
