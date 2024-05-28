@@ -70165,6 +70165,23 @@
     ],
     "timestamp": "May/29/2024 03:55"
   },
+  "CF263067539": {
+    "contest_id": 772,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/772/D.cpp",
+    "platform": "Codeforces",
+    "problem_index": "D",
+    "problem_name": "Varying Kibibits",
+    "problem_url": "https://codeforces.com/contest/772/problem/D",
+    "submission_id": "CF263067539",
+    "submission_url": "https://codeforces.com/contest/772/submission/263067539",
+    "tags": [
+      "bitmasks",
+      "dp",
+      "*2700"
+    ],
+    "timestamp": "May/29/2024 03:55"
+  },
   "CF263067555": {
     "contest_id": 1874,
     "language": "C++20 (GCC 13-64)",
