@@ -56079,6 +56079,23 @@
     ],
     "timestamp": "May/28/2024 09:19"
   },
+  "CF262951584": {
+    "contest_id": 1205,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1205/C.cpp",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Palindromic Paths",
+    "problem_url": "https://codeforces.com/contest/1205/problem/C",
+    "submission_id": "CF262951584",
+    "submission_url": "https://codeforces.com/contest/1205/submission/262951584",
+    "tags": [
+      "implementation",
+      "interactive",
+      "*2400"
+    ],
+    "timestamp": "May/28/2024 09:38"
+  },
   "CF262954072": {
     "contest_id": 377,
     "language": "C++20 (GCC 13-64)",
