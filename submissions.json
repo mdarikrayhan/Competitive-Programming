@@ -23393,6 +23393,24 @@
     ],
     "timestamp": "May/17/2024 08:26"
   },
+  "CF263064077": {
+    "contest_id": 1557,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1557/E.cpp",
+    "platform": "Codeforces",
+    "problem_index": "E",
+    "problem_name": "Assiut Chess",
+    "problem_url": "https://codeforces.com/contest/1557/problem/E",
+    "submission_id": "CF263064077",
+    "submission_url": "https://codeforces.com/contest/1557/submission/263064077",
+    "tags": [
+      "brute force",
+      "constructive algorithms",
+      "interactive",
+      "*2800"
+    ],
+    "timestamp": "May/29/2024 02:49"
+  },
   "CF263064091": {
     "contest_id": 44,
     "language": "C++20 (GCC 13-64)",
