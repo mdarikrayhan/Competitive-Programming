@@ -23996,6 +23996,23 @@
     ],
     "timestamp": "May/28/2024 08:13"
   },
+  "CF262947999": {
+    "contest_id": 1866,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1866/D.cpp",
+    "platform": "Codeforces",
+    "problem_index": "D",
+    "problem_name": "Digital Wallet",
+    "problem_url": "https://codeforces.com/contest/1866/problem/D",
+    "submission_id": "CF262947999",
+    "submission_url": "https://codeforces.com/contest/1866/submission/262947999",
+    "tags": [
+      "dp",
+      "greedy",
+      "*2300"
+    ],
+    "timestamp": "May/28/2024 08:40"
+  },
   "CF262948021": {
     "contest_id": 1458,
     "language": "C++20 (GCC 13-64)",
