@@ -23393,6 +23393,22 @@
     ],
     "timestamp": "May/17/2024 08:26"
   },
+  "CF262964149": {
+    "contest_id": 1170,
+    "language": "Kotlin 1.7",
+    "path": "codeforces/1170/E.kt",
+    "platform": "Codeforces",
+    "problem_index": "E",
+    "problem_name": "Sliding Doors",
+    "problem_url": "https://codeforces.com/contest/1170/problem/E",
+    "submission_id": "CF262964149",
+    "submission_url": "https://codeforces.com/contest/1170/submission/262964149",
+    "tags": [
+      "*special problem",
+      "binary search"
+    ],
+    "timestamp": "May/28/2024 11:58"
+  },
   "CF262965040": {
     "contest_id": 894,
     "language": "C++20 (GCC 13-64)",
