@@ -59861,6 +59861,24 @@
     ],
     "timestamp": "May/28/2024 06:21"
   },
+  "CF262945545": {
+    "contest_id": 87,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/87/C.cpp",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Interesting Game",
+    "problem_url": "https://codeforces.com/contest/87/problem/C",
+    "submission_id": "CF262945545",
+    "submission_url": "https://codeforces.com/contest/87/submission/262945545",
+    "tags": [
+      "dp",
+      "games",
+      "math",
+      "*2000"
+    ],
+    "timestamp": "May/28/2024 07:55"
+  },
   "CF262945591": {
     "contest_id": 21,
     "language": "C++20 (GCC 13-64)",
