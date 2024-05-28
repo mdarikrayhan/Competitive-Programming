@@ -23393,6 +23393,25 @@
     ],
     "timestamp": "May/17/2024 08:26"
   },
+  "CF262941339": {
+    "contest_id": 279,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/279/E.cpp",
+    "platform": "Codeforces",
+    "problem_index": "E",
+    "problem_name": "Beautiful Decomposition",
+    "problem_url": "https://codeforces.com/contest/279/problem/E",
+    "submission_id": "CF262941339",
+    "submission_url": "https://codeforces.com/contest/279/submission/262941339",
+    "tags": [
+      "dp",
+      "games",
+      "greedy",
+      "number theory",
+      "*1900"
+    ],
+    "timestamp": "May/28/2024 06:15"
+  },
   "CF262941348": {
     "contest_id": 1970,
     "language": "C++20 (GCC 13-64)",
