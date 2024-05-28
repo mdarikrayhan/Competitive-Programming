@@ -23393,6 +23393,26 @@
     ],
     "timestamp": "May/17/2024 08:26"
   },
+  "CF263064423": {
+    "contest_id": 1286,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1286/C2.cpp",
+    "platform": "Codeforces",
+    "problem_index": "C2",
+    "problem_name": "Madhouse (Hard version)",
+    "problem_url": "https://codeforces.com/contest/1286/problem/C2",
+    "submission_id": "CF263064423",
+    "submission_url": "https://codeforces.com/contest/1286/submission/263064423",
+    "tags": [
+      "brute force",
+      "constructive algorithms",
+      "hashing",
+      "interactive",
+      "math",
+      "*2800"
+    ],
+    "timestamp": "May/29/2024 02:55"
+  },
   "CF263064431": {
     "contest_id": 884,
     "language": "C++20 (GCC 13-64)",
