@@ -29631,6 +29631,23 @@
     ],
     "timestamp": "May/29/2024 03:14"
   },
+  "CF263067396": {
+    "contest_id": 311,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/311/D.cpp",
+    "platform": "Codeforces",
+    "problem_index": "D",
+    "problem_name": "Interval Cubing",
+    "problem_url": "https://codeforces.com/contest/311/problem/D",
+    "submission_id": "CF263067396",
+    "submission_url": "https://codeforces.com/contest/311/submission/263067396",
+    "tags": [
+      "data structures",
+      "math",
+      "*2600"
+    ],
+    "timestamp": "May/29/2024 03:52"
+  },
   "CF263067420": {
     "contest_id": 1771,
     "language": "C++20 (GCC 13-64)",
