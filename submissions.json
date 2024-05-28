@@ -24088,6 +24088,25 @@
     ],
     "timestamp": "May/28/2024 12:32"
   },
+  "CF262967897": {
+    "contest_id": 827,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/827/D.cpp",
+    "platform": "Codeforces",
+    "problem_index": "D",
+    "problem_name": "Best Edge Weight",
+    "problem_url": "https://codeforces.com/contest/827/problem/D",
+    "submission_id": "CF262967897",
+    "submission_url": "https://codeforces.com/contest/827/submission/262967897",
+    "tags": [
+      "data structures",
+      "dfs and similar",
+      "graphs",
+      "trees",
+      "*2700"
+    ],
+    "timestamp": "May/28/2024 12:32"
+  },
   "CF262968059": {
     "contest_id": 870,
     "language": "C++20 (GCC 13-64)",
