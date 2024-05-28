@@ -69583,6 +69583,23 @@
     ],
     "timestamp": "May/29/2024 03:14"
   },
+  "CF263066432": {
+    "contest_id": 1725,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1725/K.cpp",
+    "platform": "Codeforces",
+    "problem_index": "K",
+    "problem_name": "Kingdom of Criticism",
+    "problem_url": "https://codeforces.com/contest/1725/problem/K",
+    "submission_id": "CF263066432",
+    "submission_url": "https://codeforces.com/contest/1725/submission/263066432",
+    "tags": [
+      "data structures",
+      "dsu",
+      "*2500"
+    ],
+    "timestamp": "May/29/2024 03:31"
+  },
   "CF263066444": {
     "contest_id": 1698,
     "language": "C++20 (GCC 13-64)",
