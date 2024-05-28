@@ -70165,6 +70165,25 @@
     ],
     "timestamp": "May/29/2024 03:55"
   },
+  "CF263067599": {
+    "contest_id": 1896,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1896/F.cpp",
+    "platform": "Codeforces",
+    "problem_index": "F",
+    "problem_name": "Bracket Xoring",
+    "problem_url": "https://codeforces.com/contest/1896/problem/F",
+    "submission_id": "CF263067599",
+    "submission_url": "https://codeforces.com/contest/1896/submission/263067599",
+    "tags": [
+      "constructive algorithms",
+      "greedy",
+      "implementation",
+      "math",
+      "*2600"
+    ],
+    "timestamp": "May/29/2024 03:57"
+  },
   "CF263067604": {
     "contest_id": 323,
     "language": "C++20 (GCC 13-64)",
