@@ -70165,6 +70165,25 @@
     ],
     "timestamp": "May/29/2024 03:55"
   },
+  "CF263067619": {
+    "contest_id": 383,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/383/B.cpp",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Volcanoes",
+    "problem_url": "https://codeforces.com/contest/383/problem/B",
+    "submission_id": "CF263067619",
+    "submission_url": "https://codeforces.com/contest/383/submission/263067619",
+    "tags": [
+      "binary search",
+      "implementation",
+      "sortings",
+      "two pointers",
+      "*2500"
+    ],
+    "timestamp": "May/29/2024 03:57"
+  },
   "CF263067621": {
     "contest_id": 39,
     "language": "C++20 (GCC 13-64)",
