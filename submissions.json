@@ -25822,6 +25822,21 @@
     ],
     "timestamp": "May/28/2024 15:59"
   },
+  "CF263002277": {
+    "contest_id": 398,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/398/D.cpp",
+    "platform": "Codeforces",
+    "problem_index": "D",
+    "problem_name": "Instant Messanger",
+    "problem_url": "https://codeforces.com/contest/398/problem/D",
+    "submission_id": "CF263002277",
+    "submission_url": "https://codeforces.com/contest/398/submission/263002277",
+    "tags": [
+      "data structures"
+    ],
+    "timestamp": "May/28/2024 17:28"
+  },
   "CF263002767": {
     "contest_id": 196,
     "language": "C++20 (GCC 13-64)",
