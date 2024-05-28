@@ -27110,6 +27110,24 @@
     ],
     "timestamp": "May/29/2024 01:24"
   },
+  "CF263058486": {
+    "contest_id": 467,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/467/E.cpp",
+    "platform": "Codeforces",
+    "problem_index": "E",
+    "problem_name": "Alex and Complicated Task",
+    "problem_url": "https://codeforces.com/contest/467/problem/E",
+    "submission_id": "CF263058486",
+    "submission_url": "https://codeforces.com/contest/467/submission/263058486",
+    "tags": [
+      "data structures",
+      "dp",
+      "greedy",
+      "*2300"
+    ],
+    "timestamp": "May/29/2024 01:27"
+  },
   "CF263058499": {
     "contest_id": 1491,
     "language": "C++20 (GCC 13-64)",
