@@ -79705,6 +79705,24 @@
     ],
     "timestamp": "May/28/2024 12:49"
   },
+  "CF262975878": {
+    "contest_id": 1814,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1814/E.cpp",
+    "platform": "Codeforces",
+    "problem_index": "E",
+    "problem_name": "Chain Chips",
+    "problem_url": "https://codeforces.com/contest/1814/problem/E",
+    "submission_id": "CF262975878",
+    "submission_url": "https://codeforces.com/contest/1814/submission/262975878",
+    "tags": [
+      "data structures",
+      "dp",
+      "matrices",
+      "*2300"
+    ],
+    "timestamp": "May/28/2024 13:41"
+  },
   "CF262975912": {
     "contest_id": 1111,
     "language": "C++20 (GCC 13-64)",
