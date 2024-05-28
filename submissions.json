@@ -23393,6 +23393,23 @@
     ],
     "timestamp": "May/17/2024 08:26"
   },
+  "CF263063693": {
+    "contest_id": 1575,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1575/K.cpp",
+    "platform": "Codeforces",
+    "problem_index": "K",
+    "problem_name": "Knitting Batik",
+    "problem_url": "https://codeforces.com/contest/1575/problem/K",
+    "submission_id": "CF263063693",
+    "submission_url": "https://codeforces.com/contest/1575/submission/263063693",
+    "tags": [
+      "implementation",
+      "math",
+      "*2200"
+    ],
+    "timestamp": "May/29/2024 02:43"
+  },
   "CF263063798": {
     "contest_id": 903,
     "language": "C++20 (GCC 13-64)",
