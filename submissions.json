@@ -25840,6 +25840,25 @@
     ],
     "timestamp": "May/29/2024 00:33"
   },
+  "CF263053903": {
+    "contest_id": 1734,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1734/F.cpp",
+    "platform": "Codeforces",
+    "problem_index": "F",
+    "problem_name": "Zeros and Ones",
+    "problem_url": "https://codeforces.com/contest/1734/problem/F",
+    "submission_id": "CF263053903",
+    "submission_url": "https://codeforces.com/contest/1734/submission/263053903",
+    "tags": [
+      "bitmasks",
+      "divide and conquer",
+      "dp",
+      "math",
+      "*2500"
+    ],
+    "timestamp": "May/29/2024 00:35"
+  },
   "CF263054040": {
     "contest_id": 928,
     "language": "C++20 (GCC 13-64)",
