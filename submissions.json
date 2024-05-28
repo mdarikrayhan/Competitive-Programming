@@ -69583,6 +69583,23 @@
     ],
     "timestamp": "May/29/2024 03:14"
   },
+  "CF263066115": {
+    "contest_id": 150,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/150/D.cpp",
+    "platform": "Codeforces",
+    "problem_index": "D",
+    "problem_name": "Mission Impassable",
+    "problem_url": "https://codeforces.com/contest/150/problem/D",
+    "submission_id": "CF263066115",
+    "submission_url": "https://codeforces.com/contest/150/submission/263066115",
+    "tags": [
+      "dp",
+      "strings",
+      "*2600"
+    ],
+    "timestamp": "May/29/2024 03:25"
+  },
   "CF263066135": {
     "contest_id": 115,
     "language": "C++20 (GCC 13-64)",
