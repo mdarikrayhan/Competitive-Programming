@@ -23393,6 +23393,26 @@
     ],
     "timestamp": "May/17/2024 08:26"
   },
+  "CF263062951": {
+    "contest_id": 1866,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1866/M.cpp",
+    "platform": "Codeforces",
+    "problem_index": "M",
+    "problem_name": "Mighty Rock Tower",
+    "problem_url": "https://codeforces.com/contest/1866/problem/M",
+    "submission_id": "CF263062951",
+    "submission_url": "https://codeforces.com/contest/1866/submission/263062951",
+    "tags": [
+      "brute force",
+      "combinatorics",
+      "dp",
+      "math",
+      "probabilities",
+      "*2400"
+    ],
+    "timestamp": "May/29/2024 02:30"
+  },
   "CF263063042": {
     "contest_id": 1019,
     "language": "C++20 (GCC 13-64)",
