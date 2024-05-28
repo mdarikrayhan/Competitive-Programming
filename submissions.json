@@ -74413,6 +74413,22 @@
     ],
     "timestamp": "May/29/2024 01:46"
   },
+  "CF263060045": {
+    "contest_id": 162,
+    "language": "Factor",
+    "path": "codeforces/162/F.factor",
+    "platform": "Codeforces",
+    "problem_index": "F",
+    "problem_name": "Factorial zeros",
+    "problem_url": "https://codeforces.com/contest/162/problem/F",
+    "submission_id": "CF263060045",
+    "submission_url": "https://codeforces.com/contest/162/submission/263060045",
+    "tags": [
+      "*special problem",
+      "*1800"
+    ],
+    "timestamp": "May/29/2024 01:48"
+  },
   "CF263060106": {
     "contest_id": 162,
     "language": "Factor",
