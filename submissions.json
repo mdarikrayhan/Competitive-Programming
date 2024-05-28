@@ -29631,6 +29631,24 @@
     ],
     "timestamp": "May/29/2024 03:14"
   },
+  "CF263067337": {
+    "contest_id": 1951,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1951/F.cpp",
+    "platform": "Codeforces",
+    "problem_index": "F",
+    "problem_name": "Inversion Composition",
+    "problem_url": "https://codeforces.com/contest/1951/problem/F",
+    "submission_id": "CF263067337",
+    "submission_url": "https://codeforces.com/contest/1951/submission/263067337",
+    "tags": [
+      "constructive algorithms",
+      "data structures",
+      "greedy",
+      "*2500"
+    ],
+    "timestamp": "May/29/2024 03:51"
+  },
   "CF263067384": {
     "contest_id": 200,
     "language": "C++20 (GCC 13-64)",
