@@ -23393,6 +23393,24 @@
     ],
     "timestamp": "May/17/2024 08:26"
   },
+  "CF262967827": {
+    "contest_id": 886,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/886/E.cpp",
+    "platform": "Codeforces",
+    "problem_index": "E",
+    "problem_name": "Maximum Element",
+    "problem_url": "https://codeforces.com/contest/886/problem/E",
+    "submission_id": "CF262967827",
+    "submission_url": "https://codeforces.com/contest/886/submission/262967827",
+    "tags": [
+      "combinatorics",
+      "dp",
+      "math",
+      "*2400"
+    ],
+    "timestamp": "May/28/2024 12:32"
+  },
   "CF262968404": {
     "contest_id": 119,
     "language": "C++20 (GCC 13-64)",
