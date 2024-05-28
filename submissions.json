@@ -23996,6 +23996,24 @@
     ],
     "timestamp": "May/28/2024 08:13"
   },
+  "CF262947754": {
+    "contest_id": 1097,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1097/F.cpp",
+    "platform": "Codeforces",
+    "problem_index": "F",
+    "problem_name": "Alex and a TV Show",
+    "problem_url": "https://codeforces.com/contest/1097/problem/F",
+    "submission_id": "CF262947754",
+    "submission_url": "https://codeforces.com/contest/1097/submission/262947754",
+    "tags": [
+      "bitmasks",
+      "combinatorics",
+      "number theory",
+      "*2500"
+    ],
+    "timestamp": "May/28/2024 08:36"
+  },
   "CF262947769": {
     "contest_id": 818,
     "language": "C++20 (GCC 13-64)",
