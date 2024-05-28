@@ -54625,6 +54625,27 @@
     ],
     "timestamp": "May/28/2024 08:13"
   },
+  "CF262947128": {
+    "contest_id": 1914,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1914/G2.cpp",
+    "platform": "Codeforces",
+    "problem_index": "G2",
+    "problem_name": "Light Bulbs (Hard Version)",
+    "problem_url": "https://codeforces.com/contest/1914/problem/G2",
+    "submission_id": "CF262947128",
+    "submission_url": "https://codeforces.com/contest/1914/submission/262947128",
+    "tags": [
+      "combinatorics",
+      "data structures",
+      "dfs and similar",
+      "dp",
+      "graphs",
+      "hashing",
+      "*2300"
+    ],
+    "timestamp": "May/28/2024 08:25"
+  },
   "CF262947181": {
     "contest_id": 489,
     "language": "C++20 (GCC 13-64)",
