@@ -72602,6 +72602,22 @@
     ],
     "timestamp": "May/29/2024 00:59"
   },
+  "CF263056242": {
+    "contest_id": 412,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/412/E.cpp",
+    "platform": "Codeforces",
+    "problem_index": "E",
+    "problem_name": "E-mail Addresses",
+    "problem_url": "https://codeforces.com/contest/412/problem/E",
+    "submission_id": "CF263056242",
+    "submission_url": "https://codeforces.com/contest/412/submission/263056242",
+    "tags": [
+      "implementation",
+      "*1900"
+    ],
+    "timestamp": "May/29/2024 01:00"
+  },
   "CF263056262": {
     "contest_id": 852,
     "language": "C++20 (GCC 13-64)",
