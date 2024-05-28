@@ -23393,6 +23393,23 @@
     ],
     "timestamp": "May/17/2024 08:26"
   },
+  "CF263056908": {
+    "contest_id": 1147,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1147/D.cpp",
+    "platform": "Codeforces",
+    "problem_index": "D",
+    "problem_name": "Palindrome XOR",
+    "problem_url": "https://codeforces.com/contest/1147/problem/D",
+    "submission_id": "CF263056908",
+    "submission_url": "https://codeforces.com/contest/1147/submission/263056908",
+    "tags": [
+      "dfs and similar",
+      "graphs",
+      "*2400"
+    ],
+    "timestamp": "May/29/2024 01:09"
+  },
   "CF263057006": {
     "contest_id": 385,
     "language": "C++20 (GCC 13-64)",
