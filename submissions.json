@@ -56079,6 +56079,24 @@
     ],
     "timestamp": "May/28/2024 09:19"
   },
+  "CF262955931": {
+    "contest_id": 1585,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1585/F.cpp",
+    "platform": "Codeforces",
+    "problem_index": "F",
+    "problem_name": "Non-equal Neighbours",
+    "problem_url": "https://codeforces.com/contest/1585/problem/F",
+    "submission_id": "CF262955931",
+    "submission_url": "https://codeforces.com/contest/1585/submission/262955931",
+    "tags": [
+      "combinatorics",
+      "dp",
+      "math",
+      "*2400"
+    ],
+    "timestamp": "May/28/2024 10:34"
+  },
   "CF262956004": {
     "contest_id": 1040,
     "language": "C++20 (GCC 13-64)",
