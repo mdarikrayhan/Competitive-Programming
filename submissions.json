@@ -23393,6 +23393,22 @@
     ],
     "timestamp": "May/17/2024 08:26"
   },
+  "CF263071518": {
+    "contest_id": 50,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/50/C.cpp",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Happy Farm 5",
+    "problem_url": "https://codeforces.com/contest/50/problem/C",
+    "submission_id": "CF263071518",
+    "submission_url": "https://codeforces.com/contest/50/submission/263071518",
+    "tags": [
+      "geometry",
+      "*2000"
+    ],
+    "timestamp": "May/29/2024 05:44"
+  },
   "CF263071556": {
     "contest_id": 241,
     "language": "C++20 (GCC 13-64)",
