@@ -27377,6 +27377,24 @@
     ],
     "timestamp": "May/29/2024 01:55"
   },
+  "CF263060621": {
+    "contest_id": 360,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/360/E.cpp",
+    "platform": "Codeforces",
+    "problem_index": "E",
+    "problem_name": "Levko and Game",
+    "problem_url": "https://codeforces.com/contest/360/problem/E",
+    "submission_id": "CF263060621",
+    "submission_url": "https://codeforces.com/contest/360/submission/263060621",
+    "tags": [
+      "graphs",
+      "greedy",
+      "shortest paths",
+      "*2800"
+    ],
+    "timestamp": "May/29/2024 01:56"
+  },
   "CF263060744": {
     "contest_id": 71,
     "language": "C++20 (GCC 13-64)",
