@@ -54625,6 +54625,23 @@
     ],
     "timestamp": "May/28/2024 08:13"
   },
+  "CF262947409": {
+    "contest_id": 700,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/700/C.cpp",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Break Up",
+    "problem_url": "https://codeforces.com/contest/700/problem/C",
+    "submission_id": "CF262947409",
+    "submission_url": "https://codeforces.com/contest/700/submission/262947409",
+    "tags": [
+      "dfs and similar",
+      "graphs",
+      "*2600"
+    ],
+    "timestamp": "May/28/2024 08:30"
+  },
   "CF262947425": {
     "contest_id": 962,
     "language": "C++20 (GCC 13-64)",
