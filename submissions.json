@@ -26298,6 +26298,22 @@
     ],
     "timestamp": "May/28/2024 12:41"
   },
+  "CF262978675": {
+    "contest_id": 18,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/18/E.cpp",
+    "platform": "Codeforces",
+    "problem_index": "E",
+    "problem_name": "Flag 2",
+    "problem_url": "https://codeforces.com/contest/18/problem/E",
+    "submission_id": "CF262978675",
+    "submission_url": "https://codeforces.com/contest/18/submission/262978675",
+    "tags": [
+      "dp",
+      "*2000"
+    ],
+    "timestamp": "May/28/2024 14:06"
+  },
   "CF262978749": {
     "contest_id": 351,
     "language": "C++20 (GCC 13-64)",
