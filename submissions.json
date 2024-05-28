@@ -23393,6 +23393,22 @@
     ],
     "timestamp": "May/17/2024 08:26"
   },
+  "CF263060478": {
+    "contest_id": 28,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/28/A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Bender Problem",
+    "problem_url": "https://codeforces.com/contest/28/problem/A",
+    "submission_id": "CF263060478",
+    "submission_url": "https://codeforces.com/contest/28/submission/263060478",
+    "tags": [
+      "implementation",
+      "*1600"
+    ],
+    "timestamp": "May/29/2024 01:54"
+  },
   "CF263060575": {
     "contest_id": 28,
     "language": "C++20 (GCC 13-64)",
