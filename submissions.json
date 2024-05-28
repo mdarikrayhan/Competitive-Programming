@@ -67931,6 +67931,25 @@
     ],
     "timestamp": "May/29/2024 02:24"
   },
+  "CF263062711": {
+    "contest_id": 1956,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1956/E2.cpp",
+    "platform": "Codeforces",
+    "problem_index": "E2",
+    "problem_name": "Nene vs. Monsters (Hard Version)",
+    "problem_url": "https://codeforces.com/contest/1956/problem/E2",
+    "submission_id": "CF263062711",
+    "submission_url": "https://codeforces.com/contest/1956/submission/263062711",
+    "tags": [
+      "brute force",
+      "greedy",
+      "implementation",
+      "math",
+      "*2700"
+    ],
+    "timestamp": "May/29/2024 02:26"
+  },
   "CF263062724": {
     "contest_id": 1004,
     "language": "C++20 (GCC 13-64)",
