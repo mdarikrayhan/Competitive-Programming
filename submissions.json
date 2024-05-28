@@ -26298,6 +26298,21 @@
     ],
     "timestamp": "May/28/2024 12:41"
   },
+  "CF262978011": {
+    "contest_id": 396,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/396/E.cpp",
+    "platform": "Codeforces",
+    "problem_index": "E",
+    "problem_name": "On Iteration of One Well-Known Function",
+    "problem_url": "https://codeforces.com/contest/396/problem/E",
+    "submission_id": "CF262978011",
+    "submission_url": "https://codeforces.com/contest/396/submission/262978011",
+    "tags": [
+      "math"
+    ],
+    "timestamp": "May/28/2024 14:00"
+  },
   "CF262978059": {
     "contest_id": 431,
     "language": "C++20 (GCC 13-64)",
