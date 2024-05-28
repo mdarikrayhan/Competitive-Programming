@@ -83307,6 +83307,22 @@
     ],
     "timestamp": "May/28/2024 16:21"
   },
+  "CF262994421": {
+    "contest_id": 643,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/643/G.cpp",
+    "platform": "Codeforces",
+    "problem_index": "G",
+    "problem_name": "Choosing Ads",
+    "problem_url": "https://codeforces.com/contest/643/problem/G",
+    "submission_id": "CF262994421",
+    "submission_url": "https://codeforces.com/contest/643/submission/262994421",
+    "tags": [
+      "data structures",
+      "*3200"
+    ],
+    "timestamp": "May/28/2024 16:22"
+  },
   "CF262994442": {
     "contest_id": 1536,
     "language": "C++20 (GCC 13-64)",
