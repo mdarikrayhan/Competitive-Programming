@@ -27110,6 +27110,23 @@
     ],
     "timestamp": "May/29/2024 01:24"
   },
+  "CF263058581": {
+    "contest_id": 666,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/666/C.cpp",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Codeword",
+    "problem_url": "https://codeforces.com/contest/666/problem/C",
+    "submission_id": "CF263058581",
+    "submission_url": "https://codeforces.com/contest/666/submission/263058581",
+    "tags": [
+      "combinatorics",
+      "strings",
+      "*2500"
+    ],
+    "timestamp": "May/29/2024 01:28"
+  },
   "CF263058590": {
     "contest_id": 575,
     "language": "C++20 (GCC 13-64)",
