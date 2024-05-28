@@ -67931,6 +67931,23 @@
     ],
     "timestamp": "May/29/2024 02:24"
   },
+  "CF263062615": {
+    "contest_id": 1413,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1413/F.cpp",
+    "platform": "Codeforces",
+    "problem_index": "F",
+    "problem_name": "Roads and Ramen",
+    "problem_url": "https://codeforces.com/contest/1413/problem/F",
+    "submission_id": "CF263062615",
+    "submission_url": "https://codeforces.com/contest/1413/submission/263062615",
+    "tags": [
+      "data structures",
+      "trees",
+      "*2800"
+    ],
+    "timestamp": "May/29/2024 02:24"
+  },
   "CF263062634": {
     "contest_id": 279,
     "language": "C++20 (GCC 13-64)",
