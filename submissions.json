@@ -83307,6 +83307,22 @@
     ],
     "timestamp": "May/28/2024 16:21"
   },
+  "CF262994851": {
+    "contest_id": 838,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/838/A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Binary Blocks",
+    "problem_url": "https://codeforces.com/contest/838/problem/A",
+    "submission_id": "CF262994851",
+    "submission_url": "https://codeforces.com/contest/838/submission/262994851",
+    "tags": [
+      "brute force",
+      "*1400"
+    ],
+    "timestamp": "May/28/2024 16:26"
+  },
   "CF262994913": {
     "contest_id": 1840,
     "language": "C++20 (GCC 13-64)",
