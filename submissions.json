@@ -74789,6 +74789,23 @@
     ],
     "timestamp": "May/29/2024 02:04"
   },
+  "CF263061700": {
+    "contest_id": 54,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/54/B.cpp",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Cutting Jigsaw Puzzle",
+    "problem_url": "https://codeforces.com/contest/54/problem/B",
+    "submission_id": "CF263061700",
+    "submission_url": "https://codeforces.com/contest/54/submission/263061700",
+    "tags": [
+      "hashing",
+      "implementation",
+      "*1800"
+    ],
+    "timestamp": "May/29/2024 02:10"
+  },
   "CF263061706": {
     "contest_id": 1673,
     "language": "C++20 (GCC 13-64)",
