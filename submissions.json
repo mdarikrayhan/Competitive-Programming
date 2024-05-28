@@ -23393,6 +23393,26 @@
     ],
     "timestamp": "May/17/2024 08:26"
   },
+  "CF263071966": {
+    "contest_id": 553,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/553/E.cpp",
+    "platform": "Codeforces",
+    "problem_index": "E",
+    "problem_name": "Kyoya and Train",
+    "problem_url": "https://codeforces.com/contest/553/problem/E",
+    "submission_id": "CF263071966",
+    "submission_url": "https://codeforces.com/contest/553/submission/263071966",
+    "tags": [
+      "dp",
+      "fft",
+      "graphs",
+      "math",
+      "probabilities",
+      "*3200"
+    ],
+    "timestamp": "May/29/2024 05:57"
+  },
   "CF263071973": {
     "contest_id": 215,
     "language": "C++20 (GCC 13-64)",
