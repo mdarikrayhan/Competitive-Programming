@@ -23393,6 +23393,23 @@
     ],
     "timestamp": "May/17/2024 08:26"
   },
+  "CF262991508": {
+    "contest_id": 628,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/628/E.cpp",
+    "platform": "Codeforces",
+    "problem_index": "E",
+    "problem_name": "Zbazi in Zeydabad",
+    "problem_url": "https://codeforces.com/contest/628/problem/E",
+    "submission_id": "CF262991508",
+    "submission_url": "https://codeforces.com/contest/628/submission/262991508",
+    "tags": [
+      "data structures",
+      "implementation",
+      "*2300"
+    ],
+    "timestamp": "May/28/2024 15:56"
+  },
   "CF262991618": {
     "contest_id": 1227,
     "language": "C++20 (GCC 13-64)",
