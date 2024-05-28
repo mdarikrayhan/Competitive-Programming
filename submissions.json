@@ -56079,6 +56079,25 @@
     ],
     "timestamp": "May/28/2024 09:19"
   },
+  "CF262951110": {
+    "contest_id": 1910,
+    "language": "Kotlin 1.7",
+    "path": "codeforces/1910/C.kt",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Poisonous Swamp",
+    "problem_url": "https://codeforces.com/contest/1910/problem/C",
+    "submission_id": "CF262951110",
+    "submission_url": "https://codeforces.com/contest/1910/submission/262951110",
+    "tags": [
+      "*special problem",
+      "*special problem",
+      "implementation",
+      "implementation",
+      "*1600"
+    ],
+    "timestamp": "May/28/2024 09:30"
+  },
   "CF262951120": {
     "contest_id": 1910,
     "language": "Kotlin 1.7",
