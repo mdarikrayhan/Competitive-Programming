@@ -23393,6 +23393,25 @@
     ],
     "timestamp": "May/17/2024 08:26"
   },
+  "CF262941085": {
+    "contest_id": 748,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/748/E.cpp",
+    "platform": "Codeforces",
+    "problem_index": "E",
+    "problem_name": "Santa Claus and Tangerines",
+    "problem_url": "https://codeforces.com/contest/748/problem/E",
+    "submission_id": "CF262941085",
+    "submission_url": "https://codeforces.com/contest/748/submission/262941085",
+    "tags": [
+      "binary search",
+      "data structures",
+      "greedy",
+      "two pointers",
+      "*2100"
+    ],
+    "timestamp": "May/28/2024 06:07"
+  },
   "CF262941090": {
     "contest_id": 909,
     "language": "C++20 (GCC 13-64)",
