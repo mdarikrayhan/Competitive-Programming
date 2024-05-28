@@ -23393,6 +23393,25 @@
     ],
     "timestamp": "May/17/2024 08:26"
   },
+  "CF262967569": {
+    "contest_id": 1580,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1580/B.cpp",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Mathematics Curriculum",
+    "problem_url": "https://codeforces.com/contest/1580/problem/B",
+    "submission_id": "CF262967569",
+    "submission_url": "https://codeforces.com/contest/1580/submission/262967569",
+    "tags": [
+      "brute force",
+      "combinatorics",
+      "dp",
+      "trees",
+      "*2600"
+    ],
+    "timestamp": "May/28/2024 12:29"
+  },
   "CF262967582": {
     "contest_id": 883,
     "language": "C++20 (GCC 13-64)",
