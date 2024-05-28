@@ -23393,6 +23393,24 @@
     ],
     "timestamp": "May/17/2024 08:26"
   },
+  "CF263057628": {
+    "contest_id": 266,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/266/D.cpp",
+    "platform": "Codeforces",
+    "problem_index": "D",
+    "problem_name": "BerDonalds",
+    "problem_url": "https://codeforces.com/contest/266/problem/D",
+    "submission_id": "CF263057628",
+    "submission_url": "https://codeforces.com/contest/266/submission/263057628",
+    "tags": [
+      "graphs",
+      "math",
+      "shortest paths",
+      "*2400"
+    ],
+    "timestamp": "May/29/2024 01:17"
+  },
   "CF263057636": {
     "contest_id": 1030,
     "language": "C++20 (GCC 13-64)",
