@@ -56079,6 +56079,24 @@
     ],
     "timestamp": "May/28/2024 09:19"
   },
+  "CF262951143": {
+    "contest_id": 1910,
+    "language": "Kotlin 1.7",
+    "path": "codeforces/1910/F.kt",
+    "platform": "Codeforces",
+    "problem_index": "F",
+    "problem_name": "Build Railway Stations",
+    "problem_url": "https://codeforces.com/contest/1910/problem/F",
+    "submission_id": "CF262951143",
+    "submission_url": "https://codeforces.com/contest/1910/submission/262951143",
+    "tags": [
+      "*special problem",
+      "greedy",
+      "trees",
+      "*2000"
+    ],
+    "timestamp": "May/28/2024 09:31"
+  },
   "CF262951195": {
     "contest_id": 1910,
     "language": "Kotlin 1.7",
