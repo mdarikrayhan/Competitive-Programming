@@ -27110,6 +27110,25 @@
     ],
     "timestamp": "May/29/2024 01:24"
   },
+  "CF263058823": {
+    "contest_id": 1166,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1166/F.cpp",
+    "platform": "Codeforces",
+    "problem_index": "F",
+    "problem_name": "Vicky's Delivery Service",
+    "problem_url": "https://codeforces.com/contest/1166/problem/F",
+    "submission_id": "CF263058823",
+    "submission_url": "https://codeforces.com/contest/1166/submission/263058823",
+    "tags": [
+      "data structures",
+      "dsu",
+      "graphs",
+      "hashing",
+      "*2400"
+    ],
+    "timestamp": "May/29/2024 01:32"
+  },
   "CF263058848": {
     "contest_id": 66,
     "language": "C++20 (GCC 13-64)",
