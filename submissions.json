@@ -56079,6 +56079,24 @@
     ],
     "timestamp": "May/28/2024 09:19"
   },
+  "CF262951541": {
+    "contest_id": 679,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/679/C.cpp",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Bear and Square Grid",
+    "problem_url": "https://codeforces.com/contest/679/problem/C",
+    "submission_id": "CF262951541",
+    "submission_url": "https://codeforces.com/contest/679/submission/262951541",
+    "tags": [
+      "dfs and similar",
+      "dsu",
+      "implementation",
+      "*2400"
+    ],
+    "timestamp": "May/28/2024 09:37"
+  },
   "CF262951561": {
     "contest_id": 406,
     "language": "C++20 (GCC 13-64)",
