@@ -23393,6 +23393,24 @@
     ],
     "timestamp": "May/17/2024 08:26"
   },
+  "CF263071351": {
+    "contest_id": 1599,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1599/A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Weights",
+    "problem_url": "https://codeforces.com/contest/1599/problem/A",
+    "submission_id": "CF263071351",
+    "submission_url": "https://codeforces.com/contest/1599/submission/263071351",
+    "tags": [
+      "constructive algorithms",
+      "greedy",
+      "two pointers",
+      "*2600"
+    ],
+    "timestamp": "May/29/2024 05:40"
+  },
   "CF263071371": {
     "contest_id": 762,
     "language": "C++20 (GCC 13-64)",
