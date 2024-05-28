@@ -1,0 +1,25 @@
+co read{
+eq [999] [1000] 0
+if [999] ac
+iin [1001]
+inc [[1001]]
+dec [1000]
+}
+
+co print{
+eq [999] [1000] 101
+if [999] ac
+if [[1000]] iout [1000]
+if [[1000]] cout 32
+if [[1000]] dec [[1000]]
+if [[1000]] dec [1000]
+
+inc [1000]
+}
+
+iin [1000]
+
+ca read
+ca print
+
+ac
