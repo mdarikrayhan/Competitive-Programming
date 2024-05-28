@@ -23393,6 +23393,24 @@
     ],
     "timestamp": "May/17/2024 08:26"
   },
+  "CF262946226": {
+    "contest_id": 1418,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1418/E.cpp",
+    "platform": "Codeforces",
+    "problem_index": "E",
+    "problem_name": "Expected Damage",
+    "problem_url": "https://codeforces.com/contest/1418/problem/E",
+    "submission_id": "CF262946226",
+    "submission_url": "https://codeforces.com/contest/1418/submission/262946226",
+    "tags": [
+      "binary search",
+      "combinatorics",
+      "probabilities",
+      "*2400"
+    ],
+    "timestamp": "May/28/2024 08:08"
+  },
   "CF262946227": {
     "contest_id": 1772,
     "language": "C++20 (GCC 13-64)",
