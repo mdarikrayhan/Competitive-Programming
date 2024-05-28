@@ -29631,6 +29631,23 @@
     ],
     "timestamp": "May/29/2024 03:14"
   },
+  "CF263069156": {
+    "contest_id": 1428,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1428/G1.cpp",
+    "platform": "Codeforces",
+    "problem_index": "G1",
+    "problem_name": "Lucky Numbers (Easy Version)",
+    "problem_url": "https://codeforces.com/contest/1428/problem/G1",
+    "submission_id": "CF263069156",
+    "submission_url": "https://codeforces.com/contest/1428/submission/263069156",
+    "tags": [
+      "dp",
+      "greedy",
+      "*2900"
+    ],
+    "timestamp": "May/29/2024 04:33"
+  },
   "CF263069213": {
     "contest_id": 623,
     "language": "C++20 (GCC 13-64)",
