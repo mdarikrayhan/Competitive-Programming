@@ -23393,6 +23393,23 @@
     ],
     "timestamp": "May/17/2024 08:26"
   },
+  "CF262986770": {
+    "contest_id": 575,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/575/G.cpp",
+    "platform": "Codeforces",
+    "problem_index": "G",
+    "problem_name": "Run for beer",
+    "problem_url": "https://codeforces.com/contest/575/problem/G",
+    "submission_id": "CF262986770",
+    "submission_url": "https://codeforces.com/contest/575/submission/262986770",
+    "tags": [
+      "dfs and similar",
+      "shortest paths",
+      "*2200"
+    ],
+    "timestamp": "May/28/2024 15:14"
+  },
   "CF262986932": {
     "contest_id": 37,
     "language": "C++20 (GCC 13-64)",
