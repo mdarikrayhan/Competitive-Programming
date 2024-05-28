@@ -27478,6 +27478,26 @@
     ],
     "timestamp": "May/29/2024 02:02"
   },
+  "CF263061136": {
+    "contest_id": 235,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/235/E.cpp",
+    "platform": "Codeforces",
+    "problem_index": "E",
+    "problem_name": "Number Challenge",
+    "problem_url": "https://codeforces.com/contest/235/problem/E",
+    "submission_id": "CF263061136",
+    "submission_url": "https://codeforces.com/contest/235/submission/263061136",
+    "tags": [
+      "combinatorics",
+      "dp",
+      "implementation",
+      "math",
+      "number theory",
+      "*2600"
+    ],
+    "timestamp": "May/29/2024 02:02"
+  },
   "CF263061252": {
     "contest_id": 67,
     "language": "C++20 (GCC 13-64)",
