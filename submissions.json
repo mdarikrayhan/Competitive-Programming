@@ -27110,6 +27110,23 @@
     ],
     "timestamp": "May/29/2024 01:24"
   },
+  "CF263058499": {
+    "contest_id": 1491,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1491/H.cpp",
+    "platform": "Codeforces",
+    "problem_index": "H",
+    "problem_name": "Yuezheng Ling and Dynamic Tree",
+    "problem_url": "https://codeforces.com/contest/1491/problem/H",
+    "submission_id": "CF263058499",
+    "submission_url": "https://codeforces.com/contest/1491/submission/263058499",
+    "tags": [
+      "data structures",
+      "trees",
+      "*3400"
+    ],
+    "timestamp": "May/29/2024 01:27"
+  },
   "CF263058535": {
     "contest_id": 343,
     "language": "C++20 (GCC 13-64)",
