@@ -70753,6 +70753,22 @@
     ],
     "timestamp": "May/28/2024 16:21"
   },
+  "CF262996680": {
+    "contest_id": 1725,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1725/L.cpp",
+    "platform": "Codeforces",
+    "problem_index": "L",
+    "problem_name": "Lemper Cooking Competition",
+    "problem_url": "https://codeforces.com/contest/1725/problem/L",
+    "submission_id": "CF262996680",
+    "submission_url": "https://codeforces.com/contest/1725/submission/262996680",
+    "tags": [
+      "data structures",
+      "*2400"
+    ],
+    "timestamp": "May/28/2024 16:41"
+  },
   "CF262996850": {
     "contest_id": 200,
     "language": "C++20 (GCC 13-64)",
