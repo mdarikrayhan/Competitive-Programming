@@ -29631,6 +29631,24 @@
     ],
     "timestamp": "May/29/2024 03:14"
   },
+  "CF263067088": {
+    "contest_id": 37,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/37/E.cpp",
+    "platform": "Codeforces",
+    "problem_index": "E",
+    "problem_name": "Trial for Chief",
+    "problem_url": "https://codeforces.com/contest/37/problem/E",
+    "submission_id": "CF263067088",
+    "submission_url": "https://codeforces.com/contest/37/submission/263067088",
+    "tags": [
+      "graphs",
+      "greedy",
+      "shortest paths",
+      "*2600"
+    ],
+    "timestamp": "May/29/2024 03:46"
+  },
   "CF263067114": {
     "contest_id": 101,
     "language": "C++20 (GCC 13-64)",
