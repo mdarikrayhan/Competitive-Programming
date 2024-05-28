@@ -23393,6 +23393,25 @@
     ],
     "timestamp": "May/17/2024 08:26"
   },
+  "CF263071393": {
+    "contest_id": 175,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/175/C.cpp",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Geometry Horse",
+    "problem_url": "https://codeforces.com/contest/175/problem/C",
+    "submission_id": "CF263071393",
+    "submission_url": "https://codeforces.com/contest/175/submission/263071393",
+    "tags": [
+      "greedy",
+      "implementation",
+      "sortings",
+      "two pointers",
+      "*1600"
+    ],
+    "timestamp": "May/29/2024 05:41"
+  },
   "CF263071395": {
     "contest_id": 1810,
     "language": "C++20 (GCC 13-64)",
