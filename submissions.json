@@ -23393,6 +23393,23 @@
     ],
     "timestamp": "May/17/2024 08:26"
   },
+  "CF263057946": {
+    "contest_id": 1091,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1091/F.cpp",
+    "platform": "Codeforces",
+    "problem_index": "F",
+    "problem_name": "New Year and the Mallard Expedition",
+    "problem_url": "https://codeforces.com/contest/1091/problem/F",
+    "submission_id": "CF263057946",
+    "submission_url": "https://codeforces.com/contest/1091/submission/263057946",
+    "tags": [
+      "constructive algorithms",
+      "greedy",
+      "*2600"
+    ],
+    "timestamp": "May/29/2024 01:21"
+  },
   "CF263057977": {
     "contest_id": 277,
     "language": "C++20 (GCC 13-64)",
