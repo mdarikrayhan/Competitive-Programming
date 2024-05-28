@@ -67500,6 +67500,26 @@
     ],
     "timestamp": "May/29/2024 02:04"
   },
+  "CF263061758": {
+    "contest_id": 1720,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1720/E.cpp",
+    "platform": "Codeforces",
+    "problem_index": "E",
+    "problem_name": "Misha and Paintings",
+    "problem_url": "https://codeforces.com/contest/1720/problem/E",
+    "submission_id": "CF263061758",
+    "submission_url": "https://codeforces.com/contest/1720/submission/263061758",
+    "tags": [
+      "constructive algorithms",
+      "data structures",
+      "greedy",
+      "implementation",
+      "math",
+      "*2700"
+    ],
+    "timestamp": "May/29/2024 02:11"
+  },
   "CF263061769": {
     "contest_id": 1423,
     "language": "C++20 (GCC 13-64)",
