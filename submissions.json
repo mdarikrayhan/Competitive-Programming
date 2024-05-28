@@ -23996,6 +23996,25 @@
     ],
     "timestamp": "May/28/2024 08:13"
   },
+  "CF262947499": {
+    "contest_id": 420,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/420/C.cpp",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Bug in Code",
+    "problem_url": "https://codeforces.com/contest/420/problem/C",
+    "submission_id": "CF262947499",
+    "submission_url": "https://codeforces.com/contest/420/submission/262947499",
+    "tags": [
+      "data structures",
+      "graphs",
+      "implementation",
+      "two pointers",
+      "*1900"
+    ],
+    "timestamp": "May/28/2024 08:32"
+  },
   "CF262947528": {
     "contest_id": 516,
     "language": "C++20 (GCC 13-64)",
