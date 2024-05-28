@@ -23393,6 +23393,24 @@
     ],
     "timestamp": "May/17/2024 08:26"
   },
+  "CF262965040": {
+    "contest_id": 894,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/894/D.cpp",
+    "platform": "Codeforces",
+    "problem_index": "D",
+    "problem_name": "Ralph And His Tour in Binary Country",
+    "problem_url": "https://codeforces.com/contest/894/problem/D",
+    "submission_id": "CF262965040",
+    "submission_url": "https://codeforces.com/contest/894/submission/262965040",
+    "tags": [
+      "brute force",
+      "data structures",
+      "trees",
+      "*2200"
+    ],
+    "timestamp": "May/28/2024 12:06"
+  },
   "CF262965102": {
     "contest_id": 1632,
     "language": "C++20 (GCC 13-64)",
