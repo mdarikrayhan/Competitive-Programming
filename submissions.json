@@ -23996,6 +23996,24 @@
     ],
     "timestamp": "May/28/2024 08:13"
   },
+  "CF262959217": {
+    "contest_id": 1288,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1288/D.cpp",
+    "platform": "Codeforces",
+    "problem_index": "D",
+    "problem_name": "Minimax Problem",
+    "problem_url": "https://codeforces.com/contest/1288/problem/D",
+    "submission_id": "CF262959217",
+    "submission_url": "https://codeforces.com/contest/1288/submission/262959217",
+    "tags": [
+      "binary search",
+      "bitmasks",
+      "dp",
+      "*2000"
+    ],
+    "timestamp": "May/28/2024 11:07"
+  },
   "CF262959227": {
     "contest_id": 934,
     "language": "C++20 (GCC 13-64)",
