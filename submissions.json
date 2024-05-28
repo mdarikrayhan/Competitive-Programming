@@ -23792,6 +23792,22 @@
     ],
     "timestamp": "May/28/2024 12:14"
   },
+  "CF262966437": {
+    "contest_id": 707,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/707/E.cpp",
+    "platform": "Codeforces",
+    "problem_index": "E",
+    "problem_name": "Garlands",
+    "problem_url": "https://codeforces.com/contest/707/problem/E",
+    "submission_id": "CF262966437",
+    "submission_url": "https://codeforces.com/contest/707/submission/262966437",
+    "tags": [
+      "data structures",
+      "*2400"
+    ],
+    "timestamp": "May/28/2024 12:19"
+  },
   "CF262966466": {
     "contest_id": 1699,
     "language": "C++20 (GCC 13-64)",
