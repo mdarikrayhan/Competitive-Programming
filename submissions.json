@@ -82208,6 +82208,28 @@
     ],
     "timestamp": "May/28/2024 15:30"
   },
+  "CF262989765": {
+    "contest_id": 87,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/87/D.cpp",
+    "platform": "Codeforces",
+    "problem_index": "D",
+    "problem_name": "Beautiful Road",
+    "problem_url": "https://codeforces.com/contest/87/problem/D",
+    "submission_id": "CF262989765",
+    "submission_url": "https://codeforces.com/contest/87/submission/262989765",
+    "tags": [
+      "dfs and similar",
+      "dp",
+      "dsu",
+      "graphs",
+      "implementation",
+      "sortings",
+      "trees",
+      "*2300"
+    ],
+    "timestamp": "May/28/2024 15:41"
+  },
   "CF262989794": {
     "contest_id": 1349,
     "language": "C++20 (GCC 13-64)",
