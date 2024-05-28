@@ -29631,6 +29631,26 @@
     ],
     "timestamp": "May/29/2024 03:14"
   },
+  "CF263067235": {
+    "contest_id": 1257,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1257/G.cpp",
+    "platform": "Codeforces",
+    "problem_index": "G",
+    "problem_name": "Divisor Set",
+    "problem_url": "https://codeforces.com/contest/1257/problem/G",
+    "submission_id": "CF263067235",
+    "submission_url": "https://codeforces.com/contest/1257/submission/263067235",
+    "tags": [
+      "divide and conquer",
+      "fft",
+      "greedy",
+      "math",
+      "number theory",
+      "*2600"
+    ],
+    "timestamp": "May/29/2024 03:48"
+  },
   "CF263067237": {
     "contest_id": 1849,
     "language": "C++20 (GCC 13-64)",
