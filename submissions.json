@@ -23996,6 +23996,23 @@
     ],
     "timestamp": "May/28/2024 08:13"
   },
+  "CF262959227": {
+    "contest_id": 934,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/934/A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "A Compatible Pair",
+    "problem_url": "https://codeforces.com/contest/934/problem/A",
+    "submission_id": "CF262959227",
+    "submission_url": "https://codeforces.com/contest/934/submission/262959227",
+    "tags": [
+      "brute force",
+      "games",
+      "*1400"
+    ],
+    "timestamp": "May/28/2024 11:08"
+  },
   "CF262959246": {
     "contest_id": 1479,
     "language": "C++20 (GCC 13-64)",
