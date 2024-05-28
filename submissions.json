@@ -67500,6 +67500,24 @@
     ],
     "timestamp": "May/29/2024 02:04"
   },
+  "CF263061805": {
+    "contest_id": 809,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/809/C.cpp",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Find a car",
+    "problem_url": "https://codeforces.com/contest/809/problem/C",
+    "submission_id": "CF263061805",
+    "submission_url": "https://codeforces.com/contest/809/submission/263061805",
+    "tags": [
+      "combinatorics",
+      "divide and conquer",
+      "dp",
+      "*2600"
+    ],
+    "timestamp": "May/29/2024 02:12"
+  },
   "CF263061818": {
     "contest_id": 1303,
     "language": "C++20 (GCC 13-64)",
