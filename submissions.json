@@ -67500,6 +67500,22 @@
     ],
     "timestamp": "May/29/2024 02:04"
   },
+  "CF263062055": {
+    "contest_id": 630,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/630/O.cpp",
+    "platform": "Codeforces",
+    "problem_index": "O",
+    "problem_name": "Arrow",
+    "problem_url": "https://codeforces.com/contest/630/problem/O",
+    "submission_id": "CF263062055",
+    "submission_url": "https://codeforces.com/contest/630/submission/263062055",
+    "tags": [
+      "geometry",
+      "*2000"
+    ],
+    "timestamp": "May/29/2024 02:16"
+  },
   "CF263062068": {
     "contest_id": 283,
     "language": "C++20 (GCC 13-64)",
