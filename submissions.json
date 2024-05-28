@@ -74176,6 +74176,24 @@
     ],
     "timestamp": "May/29/2024 01:32"
   },
+  "CF263058921": {
+    "contest_id": 1615,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1615/F.cpp",
+    "platform": "Codeforces",
+    "problem_index": "F",
+    "problem_name": "LEGOndary Grandmaster",
+    "problem_url": "https://codeforces.com/contest/1615/problem/F",
+    "submission_id": "CF263058921",
+    "submission_url": "https://codeforces.com/contest/1615/submission/263058921",
+    "tags": [
+      "combinatorics",
+      "dp",
+      "math",
+      "*2800"
+    ],
+    "timestamp": "May/29/2024 01:33"
+  },
   "CF263059004": {
     "contest_id": 920,
     "language": "C++20 (GCC 13-64)",
