@@ -26298,6 +26298,23 @@
     ],
     "timestamp": "May/28/2024 12:41"
   },
+  "CF262977836": {
+    "contest_id": 53,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/53/E.cpp",
+    "platform": "Codeforces",
+    "problem_index": "E",
+    "problem_name": "Dead Ends",
+    "problem_url": "https://codeforces.com/contest/53/problem/E",
+    "submission_id": "CF262977836",
+    "submission_url": "https://codeforces.com/contest/53/submission/262977836",
+    "tags": [
+      "bitmasks",
+      "dp",
+      "*2500"
+    ],
+    "timestamp": "May/28/2024 13:59"
+  },
   "CF262977958": {
     "contest_id": 396,
     "language": "C++20 (GCC 13-64)",
