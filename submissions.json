@@ -23393,6 +23393,21 @@
     ],
     "timestamp": "May/17/2024 08:26"
   },
+  "CF263064507": {
+    "contest_id": 690,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/690/E1.cpp",
+    "platform": "Codeforces",
+    "problem_index": "E1",
+    "problem_name": "Photographs (I)",
+    "problem_url": "https://codeforces.com/contest/690/problem/E1",
+    "submission_id": "CF263064507",
+    "submission_url": "https://codeforces.com/contest/690/submission/263064507",
+    "tags": [
+      "*1800"
+    ],
+    "timestamp": "May/29/2024 02:57"
+  },
   "CF263064541": {
     "contest_id": 582,
     "language": "C++20 (GCC 13-64)",
