@@ -26298,6 +26298,22 @@
     ],
     "timestamp": "May/28/2024 12:41"
   },
+  "CF262978296": {
+    "contest_id": 17,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/17/D.cpp",
+    "platform": "Codeforces",
+    "problem_index": "D",
+    "problem_name": "Notepad",
+    "problem_url": "https://codeforces.com/contest/17/problem/D",
+    "submission_id": "CF262978296",
+    "submission_url": "https://codeforces.com/contest/17/submission/262978296",
+    "tags": [
+      "number theory",
+      "*2400"
+    ],
+    "timestamp": "May/28/2024 14:03"
+  },
   "CF262978324": {
     "contest_id": 1172,
     "language": "C++20 (GCC 13-64)",
