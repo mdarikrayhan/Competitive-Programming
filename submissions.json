@@ -25840,6 +25840,23 @@
     ],
     "timestamp": "May/29/2024 00:33"
   },
+  "CF263054300": {
+    "contest_id": 251,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/251/B.cpp",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Playing with Permutations",
+    "problem_url": "https://codeforces.com/contest/251/problem/B",
+    "submission_id": "CF263054300",
+    "submission_url": "https://codeforces.com/contest/251/submission/263054300",
+    "tags": [
+      "implementation",
+      "math",
+      "*1800"
+    ],
+    "timestamp": "May/29/2024 00:39"
+  },
   "CF263054384": {
     "contest_id": 993,
     "language": "C++20 (GCC 13-64)",
