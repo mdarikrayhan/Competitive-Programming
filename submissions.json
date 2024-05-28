@@ -23393,6 +23393,24 @@
     ],
     "timestamp": "May/17/2024 08:26"
   },
+  "CF262965246": {
+    "contest_id": 18,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/18/D.cpp",
+    "platform": "Codeforces",
+    "problem_index": "D",
+    "problem_name": "Seller Bob",
+    "problem_url": "https://codeforces.com/contest/18/problem/D",
+    "submission_id": "CF262965246",
+    "submission_url": "https://codeforces.com/contest/18/submission/262965246",
+    "tags": [
+      "brute force",
+      "dp",
+      "greedy",
+      "*2000"
+    ],
+    "timestamp": "May/28/2024 12:08"
+  },
   "CF262965276": {
     "contest_id": 1209,
     "language": "C++20 (GCC 13-64)",
