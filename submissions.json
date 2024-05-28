@@ -23996,6 +23996,26 @@
     ],
     "timestamp": "May/28/2024 08:13"
   },
+  "CF262948885": {
+    "contest_id": 772,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/772/C.cpp",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Vulnerable Kerbals",
+    "problem_url": "https://codeforces.com/contest/772/problem/C",
+    "submission_id": "CF262948885",
+    "submission_url": "https://codeforces.com/contest/772/submission/262948885",
+    "tags": [
+      "constructive algorithms",
+      "dp",
+      "graphs",
+      "math",
+      "number theory",
+      "*2300"
+    ],
+    "timestamp": "May/28/2024 08:55"
+  },
   "CF262948958": {
     "contest_id": 137,
     "language": "C++20 (GCC 13-64)",
