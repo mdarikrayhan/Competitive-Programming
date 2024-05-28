@@ -23393,6 +23393,24 @@
     ],
     "timestamp": "May/17/2024 08:26"
   },
+  "CF262967582": {
+    "contest_id": 883,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/883/K.cpp",
+    "platform": "Codeforces",
+    "problem_index": "K",
+    "problem_name": "Road Widening",
+    "problem_url": "https://codeforces.com/contest/883/problem/K",
+    "submission_id": "CF262967582",
+    "submission_url": "https://codeforces.com/contest/883/submission/262967582",
+    "tags": [
+      "constructive algorithms",
+      "greedy",
+      "implementation",
+      "*1800"
+    ],
+    "timestamp": "May/28/2024 12:29"
+  },
   "CF262967601": {
     "contest_id": 460,
     "language": "C++20 (GCC 13-64)",
