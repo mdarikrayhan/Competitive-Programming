@@ -74176,6 +74176,23 @@
     ],
     "timestamp": "May/29/2024 01:32"
   },
+  "CF263059124": {
+    "contest_id": 843,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/843/D.cpp",
+    "platform": "Codeforces",
+    "problem_index": "D",
+    "problem_name": "Dynamic Shortest Path",
+    "problem_url": "https://codeforces.com/contest/843/problem/D",
+    "submission_id": "CF263059124",
+    "submission_url": "https://codeforces.com/contest/843/submission/263059124",
+    "tags": [
+      "graphs",
+      "shortest paths",
+      "*3400"
+    ],
+    "timestamp": "May/29/2024 01:36"
+  },
   "CF263059175": {
     "contest_id": 1866,
     "language": "C++20 (GCC 13-64)",
