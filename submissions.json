@@ -59861,6 +59861,25 @@
     ],
     "timestamp": "May/28/2024 06:21"
   },
+  "CF262945639": {
+    "contest_id": 1793,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1793/F.cpp",
+    "platform": "Codeforces",
+    "problem_index": "F",
+    "problem_name": "Rebrending",
+    "problem_url": "https://codeforces.com/contest/1793/problem/F",
+    "submission_id": "CF262945639",
+    "submission_url": "https://codeforces.com/contest/1793/submission/262945639",
+    "tags": [
+      "brute force",
+      "data structures",
+      "divide and conquer",
+      "implementation",
+      "*2600"
+    ],
+    "timestamp": "May/28/2024 07:56"
+  },
   "CF262945665": {
     "contest_id": 1770,
     "language": "C++20 (GCC 13-64)",
