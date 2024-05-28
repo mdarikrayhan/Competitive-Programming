@@ -67931,6 +67931,24 @@
     ],
     "timestamp": "May/29/2024 02:24"
   },
+  "CF263062648": {
+    "contest_id": 1799,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1799/G.cpp",
+    "platform": "Codeforces",
+    "problem_index": "G",
+    "problem_name": "Count Voting",
+    "problem_url": "https://codeforces.com/contest/1799/problem/G",
+    "submission_id": "CF263062648",
+    "submission_url": "https://codeforces.com/contest/1799/submission/263062648",
+    "tags": [
+      "combinatorics",
+      "dp",
+      "math",
+      "*2600"
+    ],
+    "timestamp": "May/29/2024 02:25"
+  },
   "CF263062691": {
     "contest_id": 1810,
     "language": "C++20 (GCC 13-64)",
