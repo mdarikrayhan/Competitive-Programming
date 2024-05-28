@@ -25822,6 +25822,23 @@
     ],
     "timestamp": "May/28/2024 15:59"
   },
+  "CF263003102": {
+    "contest_id": 494,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/494/C.cpp",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Helping People",
+    "problem_url": "https://codeforces.com/contest/494/problem/C",
+    "submission_id": "CF263003102",
+    "submission_url": "https://codeforces.com/contest/494/submission/263003102",
+    "tags": [
+      "dp",
+      "probabilities",
+      "*2600"
+    ],
+    "timestamp": "May/28/2024 17:35"
+  },
   "CF263003480": {
     "contest_id": 255,
     "language": "C++20 (GCC 13-64)",
