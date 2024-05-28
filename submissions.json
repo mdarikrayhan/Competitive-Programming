@@ -25822,6 +25822,23 @@
     ],
     "timestamp": "May/28/2024 15:59"
   },
+  "CF263000280": {
+    "contest_id": 610,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/610/E.cpp",
+    "platform": "Codeforces",
+    "problem_index": "E",
+    "problem_name": "Alphabet Permutations",
+    "problem_url": "https://codeforces.com/contest/610/problem/E",
+    "submission_id": "CF263000280",
+    "submission_url": "https://codeforces.com/contest/610/submission/263000280",
+    "tags": [
+      "data structures",
+      "strings",
+      "*2500"
+    ],
+    "timestamp": "May/28/2024 17:11"
+  },
   "CF263000441": {
     "contest_id": 1340,
     "language": "C++20 (GCC 13-64)",
