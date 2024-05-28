@@ -23393,6 +23393,27 @@
     ],
     "timestamp": "May/17/2024 08:26"
   },
+  "CF263057545": {
+    "contest_id": 1918,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1918/F.cpp",
+    "platform": "Codeforces",
+    "problem_index": "F",
+    "problem_name": "Caterpillar on a Tree",
+    "problem_url": "https://codeforces.com/contest/1918/problem/F",
+    "submission_id": "CF263057545",
+    "submission_url": "https://codeforces.com/contest/1918/submission/263057545",
+    "tags": [
+      "dfs and similar",
+      "graphs",
+      "greedy",
+      "implementation",
+      "sortings",
+      "trees",
+      "*2500"
+    ],
+    "timestamp": "May/29/2024 01:16"
+  },
   "CF263057581": {
     "contest_id": 1146,
     "language": "C++20 (GCC 13-64)",
