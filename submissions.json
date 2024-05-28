@@ -27839,6 +27839,26 @@
     ],
     "timestamp": "May/28/2024 15:59"
   },
+  "CF262992558": {
+    "contest_id": 1970,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1970/G2.cpp",
+    "platform": "Codeforces",
+    "problem_index": "G2",
+    "problem_name": "Min-Fund Prison (Medium)",
+    "problem_url": "https://codeforces.com/contest/1970/problem/G2",
+    "submission_id": "CF262992558",
+    "submission_url": "https://codeforces.com/contest/1970/submission/262992558",
+    "tags": [
+      "brute force",
+      "dfs and similar",
+      "dp",
+      "graphs",
+      "trees",
+      "*2200"
+    ],
+    "timestamp": "May/28/2024 16:06"
+  },
   "CF262992602": {
     "contest_id": 1970,
     "language": "C++20 (GCC 13-64)",
