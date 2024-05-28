@@ -23393,6 +23393,22 @@
     ],
     "timestamp": "May/17/2024 08:26"
   },
+  "CF262984189": {
+    "contest_id": 188,
+    "language": "Roco",
+    "path": "codeforces/188/A.roco",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Hexagonal Numbers",
+    "problem_url": "https://codeforces.com/contest/188/problem/A",
+    "submission_id": "CF262984189",
+    "submission_url": "https://codeforces.com/contest/188/submission/262984189",
+    "tags": [
+      "*special problem",
+      "*1100"
+    ],
+    "timestamp": "May/28/2024 14:52"
+  },
   "CF262984272": {
     "contest_id": 188,
     "language": "Roco",
