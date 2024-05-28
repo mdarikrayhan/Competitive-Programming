@@ -23393,6 +23393,23 @@
     ],
     "timestamp": "May/17/2024 08:26"
   },
+  "CF263062289": {
+    "contest_id": 239,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/239/B.cpp",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Easy Tape Programming",
+    "problem_url": "https://codeforces.com/contest/239/problem/B",
+    "submission_id": "CF263062289",
+    "submission_url": "https://codeforces.com/contest/239/submission/263062289",
+    "tags": [
+      "brute force",
+      "implementation",
+      "*1500"
+    ],
+    "timestamp": "May/29/2024 02:20"
+  },
   "CF263062312": {
     "contest_id": 1608,
     "language": "C++20 (GCC 13-64)",
