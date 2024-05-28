@@ -23393,6 +23393,23 @@
     ],
     "timestamp": "May/17/2024 08:26"
   },
+  "CF263056674": {
+    "contest_id": 1017,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1017/F.cpp",
+    "platform": "Codeforces",
+    "problem_index": "F",
+    "problem_name": "The Neutral Zone",
+    "problem_url": "https://codeforces.com/contest/1017/problem/F",
+    "submission_id": "CF263056674",
+    "submission_url": "https://codeforces.com/contest/1017/submission/263056674",
+    "tags": [
+      "brute force",
+      "math",
+      "*2500"
+    ],
+    "timestamp": "May/29/2024 01:06"
+  },
   "CF263056685": {
     "contest_id": 722,
     "language": "C++20 (GCC 13-64)",
