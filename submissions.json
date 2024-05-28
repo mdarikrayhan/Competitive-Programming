@@ -23393,6 +23393,27 @@
     ],
     "timestamp": "May/17/2024 08:26"
   },
+  "CF263071929": {
+    "contest_id": 1430,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1430/G.cpp",
+    "platform": "Codeforces",
+    "problem_index": "G",
+    "problem_name": "Yet Another DAG Problem",
+    "problem_url": "https://codeforces.com/contest/1430/problem/G",
+    "submission_id": "CF263071929",
+    "submission_url": "https://codeforces.com/contest/1430/submission/263071929",
+    "tags": [
+      "bitmasks",
+      "dfs and similar",
+      "dp",
+      "flows",
+      "graphs",
+      "math",
+      "*2600"
+    ],
+    "timestamp": "May/29/2024 05:56"
+  },
   "CF263071966": {
     "contest_id": 553,
     "language": "C++20 (GCC 13-64)",
