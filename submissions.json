@@ -23393,6 +23393,24 @@
     ],
     "timestamp": "May/17/2024 08:26"
   },
+  "CF263057915": {
+    "contest_id": 417,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/417/E.cpp",
+    "platform": "Codeforces",
+    "problem_index": "E",
+    "problem_name": "Square Table",
+    "problem_url": "https://codeforces.com/contest/417/problem/E",
+    "submission_id": "CF263057915",
+    "submission_url": "https://codeforces.com/contest/417/submission/263057915",
+    "tags": [
+      "constructive algorithms",
+      "math",
+      "probabilities",
+      "*2400"
+    ],
+    "timestamp": "May/29/2024 01:20"
+  },
   "CF263057946": {
     "contest_id": 1091,
     "language": "C++20 (GCC 13-64)",
