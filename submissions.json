@@ -67931,6 +67931,22 @@
     ],
     "timestamp": "May/29/2024 02:24"
   },
+  "CF263062760": {
+    "contest_id": 522,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/522/C.cpp",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Chicken or Fish?",
+    "problem_url": "https://codeforces.com/contest/522/problem/C",
+    "submission_id": "CF263062760",
+    "submission_url": "https://codeforces.com/contest/522/submission/263062760",
+    "tags": [
+      "greedy",
+      "*2100"
+    ],
+    "timestamp": "May/29/2024 02:27"
+  },
   "CF263062770": {
     "contest_id": 1827,
     "language": "C++20 (GCC 13-64)",
