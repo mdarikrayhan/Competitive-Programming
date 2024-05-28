@@ -56079,6 +56079,27 @@
     ],
     "timestamp": "May/28/2024 09:19"
   },
+  "CF262950478": {
+    "contest_id": 1827,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1827/C.cpp",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Palindrome Partition",
+    "problem_url": "https://codeforces.com/contest/1827/problem/C",
+    "submission_id": "CF262950478",
+    "submission_url": "https://codeforces.com/contest/1827/submission/262950478",
+    "tags": [
+      "binary search",
+      "brute force",
+      "data structures",
+      "dp",
+      "hashing",
+      "strings",
+      "*2600"
+    ],
+    "timestamp": "May/28/2024 09:21"
+  },
   "CF262950512": {
     "contest_id": 498,
     "language": "C++20 (GCC 13-64)",
