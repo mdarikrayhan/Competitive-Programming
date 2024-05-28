@@ -26298,6 +26298,25 @@
     ],
     "timestamp": "May/28/2024 12:41"
   },
+  "CF262977371": {
+    "contest_id": 518,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/518/E.cpp",
+    "platform": "Codeforces",
+    "problem_index": "E",
+    "problem_name": "Arthur and Questions",
+    "problem_url": "https://codeforces.com/contest/518/problem/E",
+    "submission_id": "CF262977371",
+    "submission_url": "https://codeforces.com/contest/518/submission/262977371",
+    "tags": [
+      "greedy",
+      "implementation",
+      "math",
+      "ternary search",
+      "*2200"
+    ],
+    "timestamp": "May/28/2024 13:55"
+  },
   "CF262977392": {
     "contest_id": 1917,
     "language": "C++20 (GCC 13-64)",
