@@ -59861,6 +59861,25 @@
     ],
     "timestamp": "May/28/2024 06:21"
   },
+  "CF262941727": {
+    "contest_id": 232,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/232/B.cpp",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Table",
+    "problem_url": "https://codeforces.com/contest/232/problem/B",
+    "submission_id": "CF262941727",
+    "submission_url": "https://codeforces.com/contest/232/submission/262941727",
+    "tags": [
+      "bitmasks",
+      "combinatorics",
+      "dp",
+      "math",
+      "*1900"
+    ],
+    "timestamp": "May/28/2024 06:26"
+  },
   "CF262941733": {
     "contest_id": 1361,
     "language": "C++20 (GCC 13-64)",
