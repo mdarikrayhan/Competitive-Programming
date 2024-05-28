@@ -56079,6 +56079,23 @@
     ],
     "timestamp": "May/28/2024 09:19"
   },
+  "CF262951238": {
+    "contest_id": 1910,
+    "language": "Kotlin 1.7",
+    "path": "codeforces/1910/G.kt",
+    "platform": "Codeforces",
+    "problem_index": "G",
+    "problem_name": "Pool Records",
+    "problem_url": "https://codeforces.com/contest/1910/problem/G",
+    "submission_id": "CF262951238",
+    "submission_url": "https://codeforces.com/contest/1910/submission/262951238",
+    "tags": [
+      "*special problem",
+      "greedy",
+      "*2700"
+    ],
+    "timestamp": "May/28/2024 09:32"
+  },
   "CF262951253": {
     "contest_id": 1910,
     "language": "Kotlin 1.7",
