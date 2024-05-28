@@ -83307,6 +83307,23 @@
     ],
     "timestamp": "May/28/2024 16:21"
   },
+  "CF262994642": {
+    "contest_id": 1906,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1906/F.cpp",
+    "platform": "Codeforces",
+    "problem_index": "F",
+    "problem_name": "Maximize The Value",
+    "problem_url": "https://codeforces.com/contest/1906/problem/F",
+    "submission_id": "CF262994642",
+    "submission_url": "https://codeforces.com/contest/1906/submission/262994642",
+    "tags": [
+      "data structures",
+      "sortings",
+      "*2100"
+    ],
+    "timestamp": "May/28/2024 16:24"
+  },
   "CF262994717": {
     "contest_id": 1473,
     "language": "C++20 (GCC 13-64)",
