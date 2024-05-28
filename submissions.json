@@ -59861,6 +59861,28 @@
     ],
     "timestamp": "May/28/2024 06:21"
   },
+  "CF262945665": {
+    "contest_id": 1770,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1770/E.cpp",
+    "platform": "Codeforces",
+    "problem_index": "E",
+    "problem_name": "Koxia and Tree",
+    "problem_url": "https://codeforces.com/contest/1770/problem/E",
+    "submission_id": "CF262945665",
+    "submission_url": "https://codeforces.com/contest/1770/submission/262945665",
+    "tags": [
+      "combinatorics",
+      "dfs and similar",
+      "dp",
+      "dsu",
+      "math",
+      "probabilities",
+      "trees",
+      "*2400"
+    ],
+    "timestamp": "May/28/2024 07:57"
+  },
   "CF262946016": {
     "contest_id": 425,
     "language": "C++20 (GCC 13-64)",
