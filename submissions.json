@@ -24088,6 +24088,23 @@
     ],
     "timestamp": "May/28/2024 12:32"
   },
+  "CF262967861": {
+    "contest_id": 164,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/164/A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Variable, or There and Back Again",
+    "problem_url": "https://codeforces.com/contest/164/problem/A",
+    "submission_id": "CF262967861",
+    "submission_url": "https://codeforces.com/contest/164/submission/262967861",
+    "tags": [
+      "dfs and similar",
+      "graphs",
+      "*1700"
+    ],
+    "timestamp": "May/28/2024 12:32"
+  },
   "CF262967897": {
     "contest_id": 827,
     "language": "C++20 (GCC 13-64)",
