@@ -23776,6 +23776,27 @@
     ],
     "timestamp": "May/28/2024 12:13"
   },
+  "CF262965946": {
+    "contest_id": 1004,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1004/E.cpp",
+    "platform": "Codeforces",
+    "problem_index": "E",
+    "problem_name": "Sonya and Ice Cream",
+    "problem_url": "https://codeforces.com/contest/1004/problem/E",
+    "submission_id": "CF262965946",
+    "submission_url": "https://codeforces.com/contest/1004/submission/262965946",
+    "tags": [
+      "binary search",
+      "data structures",
+      "dp",
+      "greedy",
+      "shortest paths",
+      "trees",
+      "*2400"
+    ],
+    "timestamp": "May/28/2024 12:14"
+  },
   "CF262965962": {
     "contest_id": 605,
     "language": "C++20 (GCC 13-64)",
