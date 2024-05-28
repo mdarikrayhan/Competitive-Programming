@@ -23393,6 +23393,26 @@
     ],
     "timestamp": "May/17/2024 08:26"
   },
+  "CF263056372": {
+    "contest_id": 1648,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1648/D.cpp",
+    "platform": "Codeforces",
+    "problem_index": "D",
+    "problem_name": "Serious Business",
+    "problem_url": "https://codeforces.com/contest/1648/problem/D",
+    "submission_id": "CF263056372",
+    "submission_url": "https://codeforces.com/contest/1648/submission/263056372",
+    "tags": [
+      "data structures",
+      "divide and conquer",
+      "dp",
+      "implementation",
+      "shortest paths",
+      "*2800"
+    ],
+    "timestamp": "May/29/2024 01:02"
+  },
   "CF263056383": {
     "contest_id": 1425,
     "language": "C++20 (GCC 13-64)",
