@@ -81846,6 +81846,22 @@
     ],
     "timestamp": "May/28/2024 15:20"
   },
+  "CF262987457": {
+    "contest_id": 504,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/504/D.cpp",
+    "platform": "Codeforces",
+    "problem_index": "D",
+    "problem_name": "Misha and XOR",
+    "problem_url": "https://codeforces.com/contest/504/problem/D",
+    "submission_id": "CF262987457",
+    "submission_url": "https://codeforces.com/contest/504/submission/262987457",
+    "tags": [
+      "bitmasks",
+      "*2700"
+    ],
+    "timestamp": "May/28/2024 15:20"
+  },
   "CF262987625": {
     "contest_id": 1750,
     "language": "C++20 (GCC 13-64)",
