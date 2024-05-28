@@ -29631,6 +29631,22 @@
     ],
     "timestamp": "May/29/2024 03:14"
   },
+  "CF263068847": {
+    "contest_id": 261,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/261/D.cpp",
+    "platform": "Codeforces",
+    "problem_index": "D",
+    "problem_name": "Maxim and Increasing Subsequence",
+    "problem_url": "https://codeforces.com/contest/261/problem/D",
+    "submission_id": "CF263068847",
+    "submission_url": "https://codeforces.com/contest/261/submission/263068847",
+    "tags": [
+      "dp",
+      "*2600"
+    ],
+    "timestamp": "May/29/2024 04:25"
+  },
   "CF263068941": {
     "contest_id": 1217,
     "language": "C++20 (GCC 13-64)",
