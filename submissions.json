@@ -29631,6 +29631,25 @@
     ],
     "timestamp": "May/29/2024 03:14"
   },
+  "CF263067333": {
+    "contest_id": 1487,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1487/G.cpp",
+    "platform": "Codeforces",
+    "problem_index": "G",
+    "problem_name": "String Counting",
+    "problem_url": "https://codeforces.com/contest/1487/problem/G",
+    "submission_id": "CF263067333",
+    "submission_url": "https://codeforces.com/contest/1487/submission/263067333",
+    "tags": [
+      "combinatorics",
+      "dp",
+      "fft",
+      "math",
+      "*2700"
+    ],
+    "timestamp": "May/29/2024 03:51"
+  },
   "CF263067337": {
     "contest_id": 1951,
     "language": "C++20 (GCC 13-64)",
