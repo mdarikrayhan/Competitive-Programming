@@ -23996,6 +23996,24 @@
     ],
     "timestamp": "May/28/2024 08:13"
   },
+  "CF262950304": {
+    "contest_id": 1948,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1948/F.cpp",
+    "platform": "Codeforces",
+    "problem_index": "F",
+    "problem_name": "Rare Coins",
+    "problem_url": "https://codeforces.com/contest/1948/problem/F",
+    "submission_id": "CF262950304",
+    "submission_url": "https://codeforces.com/contest/1948/submission/262950304",
+    "tags": [
+      "combinatorics",
+      "math",
+      "probabilities",
+      "*2500"
+    ],
+    "timestamp": "May/28/2024 09:18"
+  },
   "CF262950316": {
     "contest_id": 710,
     "language": "C++20 (GCC 13-64)",
