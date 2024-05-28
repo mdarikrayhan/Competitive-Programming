@@ -23393,6 +23393,21 @@
     ],
     "timestamp": "May/17/2024 08:26"
   },
+  "CF262961306": {
+    "contest_id": 926,
+    "language": "PHP",
+    "path": "codeforces/926/D.php",
+    "platform": "Codeforces",
+    "problem_index": "D",
+    "problem_name": "Choose Place",
+    "problem_url": "https://codeforces.com/contest/926/problem/D",
+    "submission_id": "CF262961306",
+    "submission_url": "https://codeforces.com/contest/926/submission/262961306",
+    "tags": [
+      "*1600"
+    ],
+    "timestamp": "May/28/2024 11:29"
+  },
   "CF262961478": {
     "contest_id": 926,
     "language": "Ruby 3",
