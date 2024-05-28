@@ -29631,6 +29631,25 @@
     ],
     "timestamp": "May/29/2024 03:14"
   },
+  "CF263067219": {
+    "contest_id": 1942,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1942/F.cpp",
+    "platform": "Codeforces",
+    "problem_index": "F",
+    "problem_name": "Farmer John's Favorite Function",
+    "problem_url": "https://codeforces.com/contest/1942/problem/F",
+    "submission_id": "CF263067219",
+    "submission_url": "https://codeforces.com/contest/1942/submission/263067219",
+    "tags": [
+      "brute force",
+      "data structures",
+      "implementation",
+      "math",
+      "*2700"
+    ],
+    "timestamp": "May/29/2024 03:48"
+  },
   "CF263067225": {
     "contest_id": 1220,
     "language": "C++20 (GCC 13-64)",
