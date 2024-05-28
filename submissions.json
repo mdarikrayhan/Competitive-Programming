@@ -23393,6 +23393,22 @@
     ],
     "timestamp": "May/17/2024 08:26"
   },
+  "CF263060958": {
+    "contest_id": 153,
+    "language": "Cobol",
+    "path": "codeforces/153/B.cob",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Binary notation",
+    "problem_url": "https://codeforces.com/contest/153/problem/B",
+    "submission_id": "CF263060958",
+    "submission_url": "https://codeforces.com/contest/153/submission/263060958",
+    "tags": [
+      "*special problem",
+      "*1800"
+    ],
+    "timestamp": "May/29/2024 02:00"
+  },
   "CF263061023": {
     "contest_id": 153,
     "language": "Cobol",
