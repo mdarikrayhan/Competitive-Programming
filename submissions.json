@@ -25822,6 +25822,24 @@
     ],
     "timestamp": "May/28/2024 15:59"
   },
+  "CF262999255": {
+    "contest_id": 581,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/581/F.cpp",
+    "platform": "Codeforces",
+    "problem_index": "F",
+    "problem_name": "Zublicanes and Mumocrates",
+    "problem_url": "https://codeforces.com/contest/581/problem/F",
+    "submission_id": "CF262999255",
+    "submission_url": "https://codeforces.com/contest/581/submission/262999255",
+    "tags": [
+      "dp",
+      "trees",
+      "two pointers",
+      "*2400"
+    ],
+    "timestamp": "May/28/2024 17:02"
+  },
   "CF262999423": {
     "contest_id": 1696,
     "language": "C++20 (GCC 13-64)",
