@@ -82208,6 +82208,25 @@
     ],
     "timestamp": "May/28/2024 15:30"
   },
+  "CF262988824": {
+    "contest_id": 1804,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1804/F.cpp",
+    "platform": "Codeforces",
+    "problem_index": "F",
+    "problem_name": "Approximate Diameter",
+    "problem_url": "https://codeforces.com/contest/1804/problem/F",
+    "submission_id": "CF262988824",
+    "submission_url": "https://codeforces.com/contest/1804/submission/262988824",
+    "tags": [
+      "binary search",
+      "divide and conquer",
+      "graphs",
+      "shortest paths",
+      "*2700"
+    ],
+    "timestamp": "May/28/2024 15:32"
+  },
   "CF262988860": {
     "contest_id": 303,
     "language": "C++20 (GCC 13-64)",
