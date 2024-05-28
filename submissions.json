@@ -54625,6 +54625,23 @@
     ],
     "timestamp": "May/28/2024 08:13"
   },
+  "CF262947209": {
+    "contest_id": 893,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/893/F.cpp",
+    "platform": "Codeforces",
+    "problem_index": "F",
+    "problem_name": "Subtree Minimum Query",
+    "problem_url": "https://codeforces.com/contest/893/problem/F",
+    "submission_id": "CF262947209",
+    "submission_url": "https://codeforces.com/contest/893/submission/262947209",
+    "tags": [
+      "data structures",
+      "trees",
+      "*2300"
+    ],
+    "timestamp": "May/28/2024 08:26"
+  },
   "CF262947220": {
     "contest_id": 696,
     "language": "C++20 (GCC 13-64)",
