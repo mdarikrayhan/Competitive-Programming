@@ -82208,6 +82208,23 @@
     ],
     "timestamp": "May/28/2024 15:30"
   },
+  "CF262988906": {
+    "contest_id": 575,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/575/F.cpp",
+    "platform": "Codeforces",
+    "problem_index": "F",
+    "problem_name": "Bulbo",
+    "problem_url": "https://codeforces.com/contest/575/problem/F",
+    "submission_id": "CF262988906",
+    "submission_url": "https://codeforces.com/contest/575/submission/262988906",
+    "tags": [
+      "dp",
+      "greedy",
+      "*2100"
+    ],
+    "timestamp": "May/28/2024 15:33"
+  },
   "CF262989075": {
     "contest_id": 28,
     "language": "C++20 (GCC 13-64)",
