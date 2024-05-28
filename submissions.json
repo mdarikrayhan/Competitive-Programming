@@ -26298,6 +26298,21 @@
     ],
     "timestamp": "May/28/2024 12:41"
   },
+  "CF262969261": {
+    "contest_id": 392,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/392/A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Blocked Points",
+    "problem_url": "https://codeforces.com/contest/392/problem/A",
+    "submission_id": "CF262969261",
+    "submission_url": "https://codeforces.com/contest/392/submission/262969261",
+    "tags": [
+      "math"
+    ],
+    "timestamp": "May/28/2024 12:45"
+  },
   "CF262969329": {
     "contest_id": 557,
     "language": "C++20 (GCC 13-64)",
