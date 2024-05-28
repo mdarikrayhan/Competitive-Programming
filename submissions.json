@@ -35174,6 +35174,25 @@
     ],
     "timestamp": "May/29/2024 03:55"
   },
+  "CF263068190": {
+    "contest_id": 1236,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1236/E.cpp",
+    "platform": "Codeforces",
+    "problem_index": "E",
+    "problem_name": "Alice and the Unfair Game",
+    "problem_url": "https://codeforces.com/contest/1236/problem/E",
+    "submission_id": "CF263068190",
+    "submission_url": "https://codeforces.com/contest/1236/submission/263068190",
+    "tags": [
+      "binary search",
+      "data structures",
+      "dp",
+      "dsu",
+      "*2500"
+    ],
+    "timestamp": "May/29/2024 04:10"
+  },
   "CF263068193": {
     "contest_id": 1442,
     "language": "C++20 (GCC 13-64)",
