@@ -35174,6 +35174,23 @@
     ],
     "timestamp": "May/29/2024 03:55"
   },
+  "CF263067931": {
+    "contest_id": 1582,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1582/G.cpp",
+    "platform": "Codeforces",
+    "problem_index": "G",
+    "problem_name": "Kuzya and Homework",
+    "problem_url": "https://codeforces.com/contest/1582/problem/G",
+    "submission_id": "CF263067931",
+    "submission_url": "https://codeforces.com/contest/1582/submission/263067931",
+    "tags": [
+      "data structures",
+      "number theory",
+      "*2600"
+    ],
+    "timestamp": "May/29/2024 04:03"
+  },
   "CF263067949": {
     "contest_id": 682,
     "language": "C++20 (GCC 13-64)",
