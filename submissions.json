@@ -23393,6 +23393,24 @@
     ],
     "timestamp": "May/17/2024 08:26"
   },
+  "CF263057995": {
+    "contest_id": 1016,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1016/F.cpp",
+    "platform": "Codeforces",
+    "problem_index": "F",
+    "problem_name": "Road Projects",
+    "problem_url": "https://codeforces.com/contest/1016/problem/F",
+    "submission_id": "CF263057995",
+    "submission_url": "https://codeforces.com/contest/1016/submission/263057995",
+    "tags": [
+      "dfs and similar",
+      "dp",
+      "trees",
+      "*2600"
+    ],
+    "timestamp": "May/29/2024 01:21"
+  },
   "CF263058011": {
     "contest_id": 763,
     "language": "C++20 (GCC 13-64)",
