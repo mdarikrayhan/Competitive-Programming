@@ -25822,6 +25822,25 @@
     ],
     "timestamp": "May/28/2024 15:59"
   },
+  "CF263000441": {
+    "contest_id": 1340,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1340/D.cpp",
+    "platform": "Codeforces",
+    "problem_index": "D",
+    "problem_name": "Nastya and Time Machine",
+    "problem_url": "https://codeforces.com/contest/1340/problem/D",
+    "submission_id": "CF263000441",
+    "submission_url": "https://codeforces.com/contest/1340/submission/263000441",
+    "tags": [
+      "constructive algorithms",
+      "dfs and similar",
+      "graphs",
+      "trees",
+      "*2600"
+    ],
+    "timestamp": "May/28/2024 17:12"
+  },
   "CF263000590": {
     "contest_id": 670,
     "language": "C++20 (GCC 13-64)",
