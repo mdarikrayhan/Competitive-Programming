@@ -23393,6 +23393,22 @@
     ],
     "timestamp": "May/17/2024 08:26"
   },
+  "CF262979671": {
+    "contest_id": 45,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/45/G.cpp",
+    "platform": "Codeforces",
+    "problem_index": "G",
+    "problem_name": "Prime Problem",
+    "problem_url": "https://codeforces.com/contest/45/problem/G",
+    "submission_id": "CF262979671",
+    "submission_url": "https://codeforces.com/contest/45/submission/262979671",
+    "tags": [
+      "number theory",
+      "*2200"
+    ],
+    "timestamp": "May/28/2024 14:14"
+  },
   "CF262979681": {
     "contest_id": 425,
     "language": "C++20 (GCC 13-64)",
