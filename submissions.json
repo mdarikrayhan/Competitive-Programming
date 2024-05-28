@@ -23996,6 +23996,24 @@
     ],
     "timestamp": "May/28/2024 08:13"
   },
+  "CF262948099": {
+    "contest_id": 371,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/371/E.cpp",
+    "platform": "Codeforces",
+    "problem_index": "E",
+    "problem_name": "Subway Innovation",
+    "problem_url": "https://codeforces.com/contest/371/problem/E",
+    "submission_id": "CF262948099",
+    "submission_url": "https://codeforces.com/contest/371/submission/262948099",
+    "tags": [
+      "greedy",
+      "math",
+      "two pointers",
+      "*2000"
+    ],
+    "timestamp": "May/28/2024 08:42"
+  },
   "CF262948345": {
     "contest_id": 1797,
     "language": "C++20 (GCC 13-64)",
