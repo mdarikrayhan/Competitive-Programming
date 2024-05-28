@@ -29631,6 +29631,23 @@
     ],
     "timestamp": "May/29/2024 03:14"
   },
+  "CF263067384": {
+    "contest_id": 200,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/200/A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Cinema",
+    "problem_url": "https://codeforces.com/contest/200/problem/A",
+    "submission_id": "CF263067384",
+    "submission_url": "https://codeforces.com/contest/200/submission/263067384",
+    "tags": [
+      "brute force",
+      "data structures",
+      "*2400"
+    ],
+    "timestamp": "May/29/2024 03:52"
+  },
   "CF263067396": {
     "contest_id": 311,
     "language": "C++20 (GCC 13-64)",
