@@ -23393,6 +23393,24 @@
     ],
     "timestamp": "May/17/2024 08:26"
   },
+  "CF262965119": {
+    "contest_id": 558,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/558/D.cpp",
+    "platform": "Codeforces",
+    "problem_index": "D",
+    "problem_name": "Guess Your Way Out! II",
+    "problem_url": "https://codeforces.com/contest/558/problem/D",
+    "submission_id": "CF262965119",
+    "submission_url": "https://codeforces.com/contest/558/submission/262965119",
+    "tags": [
+      "data structures",
+      "implementation",
+      "sortings",
+      "*2300"
+    ],
+    "timestamp": "May/28/2024 12:07"
+  },
   "CF262965153": {
     "contest_id": 771,
     "language": "C++20 (GCC 13-64)",
