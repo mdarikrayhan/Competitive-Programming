@@ -23393,6 +23393,24 @@
     ],
     "timestamp": "May/17/2024 08:26"
   },
+  "CF263057581": {
+    "contest_id": 1146,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1146/G.cpp",
+    "platform": "Codeforces",
+    "problem_index": "G",
+    "problem_name": "Zoning Restrictions",
+    "problem_url": "https://codeforces.com/contest/1146/problem/G",
+    "submission_id": "CF263057581",
+    "submission_url": "https://codeforces.com/contest/1146/submission/263057581",
+    "tags": [
+      "dp",
+      "flows",
+      "graphs",
+      "*2700"
+    ],
+    "timestamp": "May/29/2024 01:16"
+  },
   "CF263057628": {
     "contest_id": 266,
     "language": "C++20 (GCC 13-64)",
