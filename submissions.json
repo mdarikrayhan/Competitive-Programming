@@ -23409,6 +23409,23 @@
     ],
     "timestamp": "May/28/2024 11:58"
   },
+  "CF262964184": {
+    "contest_id": 1170,
+    "language": "Kotlin 1.7",
+    "path": "codeforces/1170/F.kt",
+    "platform": "Codeforces",
+    "problem_index": "F",
+    "problem_name": "Wheels",
+    "problem_url": "https://codeforces.com/contest/1170/problem/F",
+    "submission_id": "CF262964184",
+    "submission_url": "https://codeforces.com/contest/1170/submission/262964184",
+    "tags": [
+      "*special problem",
+      "binary search",
+      "greedy"
+    ],
+    "timestamp": "May/28/2024 11:58"
+  },
   "CF262964245": {
     "contest_id": 1170,
     "language": "Kotlin 1.7",
