@@ -59861,6 +59861,24 @@
     ],
     "timestamp": "May/28/2024 06:21"
   },
+  "CF262942334": {
+    "contest_id": 746,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/746/G.cpp",
+    "platform": "Codeforces",
+    "problem_index": "G",
+    "problem_name": "New Roads",
+    "problem_url": "https://codeforces.com/contest/746/problem/G",
+    "submission_id": "CF262942334",
+    "submission_url": "https://codeforces.com/contest/746/submission/262942334",
+    "tags": [
+      "constructive algorithms",
+      "graphs",
+      "trees",
+      "*2100"
+    ],
+    "timestamp": "May/28/2024 06:42"
+  },
   "CF262942358": {
     "contest_id": 821,
     "language": "C++20 (GCC 13-64)",
