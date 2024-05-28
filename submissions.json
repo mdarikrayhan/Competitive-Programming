@@ -74789,6 +74789,24 @@
     ],
     "timestamp": "May/29/2024 02:04"
   },
+  "CF263061338": {
+    "contest_id": 386,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/386/C.cpp",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Diverse Substrings",
+    "problem_url": "https://codeforces.com/contest/386/problem/C",
+    "submission_id": "CF263061338",
+    "submission_url": "https://codeforces.com/contest/386/submission/263061338",
+    "tags": [
+      "dp",
+      "strings",
+      "two pointers",
+      "*2000"
+    ],
+    "timestamp": "May/29/2024 02:05"
+  },
   "CF263061377": {
     "contest_id": 241,
     "language": "C++20 (GCC 13-64)",
