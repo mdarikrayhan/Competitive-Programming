@@ -67500,6 +67500,24 @@
     ],
     "timestamp": "May/29/2024 02:04"
   },
+  "CF263061870": {
+    "contest_id": 1795,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1795/G.cpp",
+    "platform": "Codeforces",
+    "problem_index": "G",
+    "problem_name": "Removal Sequences",
+    "problem_url": "https://codeforces.com/contest/1795/problem/G",
+    "submission_id": "CF263061870",
+    "submission_url": "https://codeforces.com/contest/1795/submission/263061870",
+    "tags": [
+      "bitmasks",
+      "dfs and similar",
+      "graphs",
+      "*2700"
+    ],
+    "timestamp": "May/29/2024 02:13"
+  },
   "CF263061892": {
     "contest_id": 1107,
     "language": "C++20 (GCC 13-64)",
