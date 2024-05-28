@@ -23393,6 +23393,25 @@
     ],
     "timestamp": "May/17/2024 08:26"
   },
+  "CF262941366": {
+    "contest_id": 1499,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1499/E.cpp",
+    "platform": "Codeforces",
+    "problem_index": "E",
+    "problem_name": "Chaotic Merge",
+    "problem_url": "https://codeforces.com/contest/1499/problem/E",
+    "submission_id": "CF262941366",
+    "submission_url": "https://codeforces.com/contest/1499/submission/262941366",
+    "tags": [
+      "combinatorics",
+      "dp",
+      "math",
+      "strings",
+      "*2400"
+    ],
+    "timestamp": "May/28/2024 06:16"
+  },
   "CF262941378": {
     "contest_id": 1615,
     "language": "C++20 (GCC 13-64)",
