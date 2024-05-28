@@ -23393,6 +23393,23 @@
     ],
     "timestamp": "May/17/2024 08:26"
   },
+  "CF263071139": {
+    "contest_id": 167,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/167/C.cpp",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Wizards and Numbers",
+    "problem_url": "https://codeforces.com/contest/167/problem/C",
+    "submission_id": "CF263071139",
+    "submission_url": "https://codeforces.com/contest/167/submission/263071139",
+    "tags": [
+      "games",
+      "math",
+      "*2300"
+    ],
+    "timestamp": "May/29/2024 05:34"
+  },
   "CF263071154": {
     "contest_id": 60,
     "language": "C++20 (GCC 13-64)",
