@@ -26298,6 +26298,26 @@
     ],
     "timestamp": "May/28/2024 12:41"
   },
+  "CF262969236": {
+    "contest_id": 1835,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1835/C.cpp",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Twin Clusters",
+    "problem_url": "https://codeforces.com/contest/1835/problem/C",
+    "submission_id": "CF262969236",
+    "submission_url": "https://codeforces.com/contest/1835/submission/262969236",
+    "tags": [
+      "bitmasks",
+      "brute force",
+      "constructive algorithms",
+      "math",
+      "probabilities",
+      "*2600"
+    ],
+    "timestamp": "May/28/2024 12:44"
+  },
   "CF262969261": {
     "contest_id": 392,
     "language": "C++20 (GCC 13-64)",
