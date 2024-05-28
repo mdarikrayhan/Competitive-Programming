@@ -24015,6 +24015,28 @@
     ],
     "timestamp": "May/28/2024 12:30"
   },
+  "CF262967635": {
+    "contest_id": 1625,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1625/E1.cpp",
+    "platform": "Codeforces",
+    "problem_index": "E1",
+    "problem_name": "Cats on the Upgrade (easy version)",
+    "problem_url": "https://codeforces.com/contest/1625/problem/E1",
+    "submission_id": "CF262967635",
+    "submission_url": "https://codeforces.com/contest/1625/submission/262967635",
+    "tags": [
+      "brute force",
+      "data structures",
+      "dfs and similar",
+      "divide and conquer",
+      "dp",
+      "graphs",
+      "trees",
+      "*2500"
+    ],
+    "timestamp": "May/28/2024 12:30"
+  },
   "CF262967736": {
     "contest_id": 367,
     "language": "C++20 (GCC 13-64)",
