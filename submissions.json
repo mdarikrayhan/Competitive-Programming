@@ -59861,6 +59861,23 @@
     ],
     "timestamp": "May/28/2024 06:21"
   },
+  "CF262941761": {
+    "contest_id": 117,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/117/A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Elevator",
+    "problem_url": "https://codeforces.com/contest/117/problem/A",
+    "submission_id": "CF262941761",
+    "submission_url": "https://codeforces.com/contest/117/submission/262941761",
+    "tags": [
+      "implementation",
+      "math",
+      "*1300"
+    ],
+    "timestamp": "May/28/2024 06:27"
+  },
   "CF262941768": {
     "contest_id": 382,
     "language": "C++20 (GCC 13-64)",
