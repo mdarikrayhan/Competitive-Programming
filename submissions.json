@@ -23996,6 +23996,27 @@
     ],
     "timestamp": "May/28/2024 08:13"
   },
+  "CF262948840": {
+    "contest_id": 1495,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1495/D.cpp",
+    "platform": "Codeforces",
+    "problem_index": "D",
+    "problem_name": "BFS Trees",
+    "problem_url": "https://codeforces.com/contest/1495/problem/D",
+    "submission_id": "CF262948840",
+    "submission_url": "https://codeforces.com/contest/1495/submission/262948840",
+    "tags": [
+      "combinatorics",
+      "dfs and similar",
+      "graphs",
+      "math",
+      "shortest paths",
+      "trees",
+      "*2600"
+    ],
+    "timestamp": "May/28/2024 08:55"
+  },
   "CF262948871": {
     "contest_id": 863,
     "language": "C++20 (GCC 13-64)",
