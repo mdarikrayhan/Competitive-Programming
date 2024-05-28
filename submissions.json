@@ -56079,6 +56079,22 @@
     ],
     "timestamp": "May/28/2024 09:19"
   },
+  "CF262950907": {
+    "contest_id": 1970,
+    "language": "C++17 (GCC 7-32)",
+    "path": "codeforces/1970/E1.cpp",
+    "platform": "Codeforces",
+    "problem_index": "E1",
+    "problem_name": "Trails (Easy)",
+    "problem_url": "https://codeforces.com/contest/1970/problem/E1",
+    "submission_id": "CF262950907",
+    "submission_url": "https://codeforces.com/contest/1970/submission/262950907",
+    "tags": [
+      "dp",
+      "*1800"
+    ],
+    "timestamp": "May/28/2024 09:27"
+  },
   "CF262951081": {
     "contest_id": 1910,
     "language": "Kotlin 1.7",
