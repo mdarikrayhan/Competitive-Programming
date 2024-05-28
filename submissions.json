@@ -27801,6 +27801,24 @@
     ],
     "timestamp": "May/28/2024 15:58"
   },
+  "CF262991763": {
+    "contest_id": 573,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/573/C.cpp",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Bear and Drawing",
+    "problem_url": "https://codeforces.com/contest/573/problem/C",
+    "submission_id": "CF262991763",
+    "submission_url": "https://codeforces.com/contest/573/submission/262991763",
+    "tags": [
+      "constructive algorithms",
+      "dfs and similar",
+      "trees",
+      "*2300"
+    ],
+    "timestamp": "May/28/2024 15:58"
+  },
   "CF262991785": {
     "contest_id": 407,
     "language": "C++20 (GCC 13-64)",
