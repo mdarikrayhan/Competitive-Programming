@@ -72135,6 +72135,24 @@
     ],
     "timestamp": "May/28/2024 07:48"
   },
+  "CF262945286": {
+    "contest_id": 242,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/242/D.cpp",
+    "platform": "Codeforces",
+    "problem_index": "D",
+    "problem_name": "Dispute",
+    "problem_url": "https://codeforces.com/contest/242/problem/D",
+    "submission_id": "CF262945286",
+    "submission_url": "https://codeforces.com/contest/242/submission/262945286",
+    "tags": [
+      "dfs and similar",
+      "graphs",
+      "greedy",
+      "*2100"
+    ],
+    "timestamp": "May/28/2024 07:50"
+  },
   "CF262945296": {
     "contest_id": 135,
     "language": "C++20 (GCC 13-64)",
