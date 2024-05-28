@@ -70753,6 +70753,23 @@
     ],
     "timestamp": "May/28/2024 16:21"
   },
+  "CF262995438": {
+    "contest_id": 1889,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1889/C2.cpp",
+    "platform": "Codeforces",
+    "problem_index": "C2",
+    "problem_name": "Doremy's Drying Plan (Hard Version)",
+    "problem_url": "https://codeforces.com/contest/1889/problem/C2",
+    "submission_id": "CF262995438",
+    "submission_url": "https://codeforces.com/contest/1889/submission/262995438",
+    "tags": [
+      "data structures",
+      "dp",
+      "*2600"
+    ],
+    "timestamp": "May/28/2024 16:30"
+  },
   "CF262995478": {
     "contest_id": 1661,
     "language": "C++20 (GCC 13-64)",
