@@ -23393,6 +23393,23 @@
     ],
     "timestamp": "May/17/2024 08:26"
   },
+  "CF263071154": {
+    "contest_id": 60,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/60/C.cpp",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Mushroom Strife",
+    "problem_url": "https://codeforces.com/contest/60/problem/C",
+    "submission_id": "CF263071154",
+    "submission_url": "https://codeforces.com/contest/60/submission/263071154",
+    "tags": [
+      "brute force",
+      "dfs and similar",
+      "*2100"
+    ],
+    "timestamp": "May/29/2024 05:35"
+  },
   "CF263071188": {
     "contest_id": 161,
     "language": "C++20 (GCC 13-64)",
