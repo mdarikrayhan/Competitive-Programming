@@ -23393,6 +23393,24 @@
     ],
     "timestamp": "May/17/2024 08:26"
   },
+  "CF263057756": {
+    "contest_id": 1924,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1924/D.cpp",
+    "platform": "Codeforces",
+    "problem_index": "D",
+    "problem_name": "Balanced Subsequences",
+    "problem_url": "https://codeforces.com/contest/1924/problem/D",
+    "submission_id": "CF263057756",
+    "submission_url": "https://codeforces.com/contest/1924/submission/263057756",
+    "tags": [
+      "combinatorics",
+      "dp",
+      "math",
+      "*2700"
+    ],
+    "timestamp": "May/29/2024 01:19"
+  },
   "CF263057787": {
     "contest_id": 1569,
     "language": "C++20 (GCC 13-64)",
