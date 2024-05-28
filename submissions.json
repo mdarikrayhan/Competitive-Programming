@@ -70753,6 +70753,27 @@
     ],
     "timestamp": "May/28/2024 16:21"
   },
+  "CF262995478": {
+    "contest_id": 1661,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1661/E.cpp",
+    "platform": "Codeforces",
+    "problem_index": "E",
+    "problem_name": "Narrow Components",
+    "problem_url": "https://codeforces.com/contest/1661/problem/E",
+    "submission_id": "CF262995478",
+    "submission_url": "https://codeforces.com/contest/1661/submission/262995478",
+    "tags": [
+      "brute force",
+      "data structures",
+      "dp",
+      "dsu",
+      "math",
+      "trees",
+      "*2500"
+    ],
+    "timestamp": "May/28/2024 16:31"
+  },
   "CF262995515": {
     "contest_id": 429,
     "language": "C++20 (GCC 13-64)",
