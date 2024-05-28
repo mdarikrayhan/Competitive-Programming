@@ -23792,6 +23792,23 @@
     ],
     "timestamp": "May/28/2024 12:14"
   },
+  "CF262967005": {
+    "contest_id": 713,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/713/D.cpp",
+    "platform": "Codeforces",
+    "problem_index": "D",
+    "problem_name": "Animals and Puzzle",
+    "problem_url": "https://codeforces.com/contest/713/problem/D",
+    "submission_id": "CF262967005",
+    "submission_url": "https://codeforces.com/contest/713/submission/262967005",
+    "tags": [
+      "binary search",
+      "data structures",
+      "*2700"
+    ],
+    "timestamp": "May/28/2024 12:24"
+  },
   "CF262967020": {
     "contest_id": 204,
     "language": "C++20 (GCC 13-64)",
