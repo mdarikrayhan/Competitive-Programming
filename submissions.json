@@ -27355,6 +27355,23 @@
     ],
     "timestamp": "May/28/2024 15:24"
   },
+  "CF262988034": {
+    "contest_id": 191,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/191/D.cpp",
+    "platform": "Codeforces",
+    "problem_index": "D",
+    "problem_name": "Metro Scheme",
+    "problem_url": "https://codeforces.com/contest/191/problem/D",
+    "submission_id": "CF262988034",
+    "submission_url": "https://codeforces.com/contest/191/submission/262988034",
+    "tags": [
+      "graphs",
+      "greedy",
+      "*2700"
+    ],
+    "timestamp": "May/28/2024 15:25"
+  },
   "CF262988063": {
     "contest_id": 191,
     "language": "C++20 (GCC 13-64)",
