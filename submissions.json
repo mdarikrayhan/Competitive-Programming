@@ -23996,6 +23996,25 @@
     ],
     "timestamp": "May/28/2024 08:13"
   },
+  "CF262950107": {
+    "contest_id": 1437,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1437/F.cpp",
+    "platform": "Codeforces",
+    "problem_index": "F",
+    "problem_name": "Emotional Fishermen",
+    "problem_url": "https://codeforces.com/contest/1437/problem/F",
+    "submission_id": "CF262950107",
+    "submission_url": "https://codeforces.com/contest/1437/submission/262950107",
+    "tags": [
+      "combinatorics",
+      "dp",
+      "math",
+      "two pointers",
+      "*2600"
+    ],
+    "timestamp": "May/28/2024 09:15"
+  },
   "CF262950120": {
     "contest_id": 1728,
     "language": "C++20 (GCC 13-64)",
