@@ -27664,6 +27664,27 @@
     ],
     "timestamp": "May/28/2024 15:53"
   },
+  "CF262991201": {
+    "contest_id": 1503,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1503/D.cpp",
+    "platform": "Codeforces",
+    "problem_index": "D",
+    "problem_name": "Flip the Cards",
+    "problem_url": "https://codeforces.com/contest/1503/problem/D",
+    "submission_id": "CF262991201",
+    "submission_url": "https://codeforces.com/contest/1503/submission/262991201",
+    "tags": [
+      "2-sat",
+      "constructive algorithms",
+      "data structures",
+      "greedy",
+      "sortings",
+      "two pointers",
+      "*2600"
+    ],
+    "timestamp": "May/28/2024 15:53"
+  },
   "CF262991224": {
     "contest_id": 1539,
     "language": "C++20 (GCC 13-64)",
