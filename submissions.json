@@ -23996,6 +23996,24 @@
     ],
     "timestamp": "May/28/2024 08:13"
   },
+  "CF262950086": {
+    "contest_id": 272,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/272/E.cpp",
+    "platform": "Codeforces",
+    "problem_index": "E",
+    "problem_name": "Dima and Horses",
+    "problem_url": "https://codeforces.com/contest/272/problem/E",
+    "submission_id": "CF262950086",
+    "submission_url": "https://codeforces.com/contest/272/submission/262950086",
+    "tags": [
+      "combinatorics",
+      "constructive algorithms",
+      "graphs",
+      "*2200"
+    ],
+    "timestamp": "May/28/2024 09:15"
+  },
   "CF262950107": {
     "contest_id": 1437,
     "language": "C++20 (GCC 13-64)",
