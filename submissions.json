@@ -27839,6 +27839,22 @@
     ],
     "timestamp": "May/28/2024 15:59"
   },
+  "CF262993301": {
+    "contest_id": 338,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/338/E.cpp",
+    "platform": "Codeforces",
+    "problem_index": "E",
+    "problem_name": "Optimize!",
+    "problem_url": "https://codeforces.com/contest/338/problem/E",
+    "submission_id": "CF262993301",
+    "submission_url": "https://codeforces.com/contest/338/submission/262993301",
+    "tags": [
+      "data structures",
+      "*2600"
+    ],
+    "timestamp": "May/28/2024 16:12"
+  },
   "CF262994009": {
     "contest_id": 523,
     "language": "C++20 (GCC 13-64)",
