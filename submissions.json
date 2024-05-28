@@ -23393,6 +23393,24 @@
     ],
     "timestamp": "May/17/2024 08:26"
   },
+  "CF263065381": {
+    "contest_id": 50,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/50/D.cpp",
+    "platform": "Codeforces",
+    "problem_index": "D",
+    "problem_name": "Bombing",
+    "problem_url": "https://codeforces.com/contest/50/problem/D",
+    "submission_id": "CF263065381",
+    "submission_url": "https://codeforces.com/contest/50/submission/263065381",
+    "tags": [
+      "binary search",
+      "dp",
+      "probabilities",
+      "*2100"
+    ],
+    "timestamp": "May/29/2024 03:12"
+  },
   "CF263065413": {
     "contest_id": 1622,
     "language": "C++20 (GCC 13-64)",
