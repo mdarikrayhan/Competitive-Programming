@@ -35174,6 +35174,25 @@
     ],
     "timestamp": "May/29/2024 03:55"
   },
+  "CF263067999": {
+    "contest_id": 1286,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1286/D.cpp",
+    "platform": "Codeforces",
+    "problem_index": "D",
+    "problem_name": "LCC",
+    "problem_url": "https://codeforces.com/contest/1286/problem/D",
+    "submission_id": "CF263067999",
+    "submission_url": "https://codeforces.com/contest/1286/submission/263067999",
+    "tags": [
+      "data structures",
+      "math",
+      "matrices",
+      "probabilities",
+      "*3100"
+    ],
+    "timestamp": "May/29/2024 04:05"
+  },
   "CF263068010": {
     "contest_id": 1667,
     "language": "C++20 (GCC 13-64)",
