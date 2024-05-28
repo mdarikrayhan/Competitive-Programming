@@ -74789,6 +74789,26 @@
     ],
     "timestamp": "May/29/2024 02:04"
   },
+  "CF263061389": {
+    "contest_id": 1919,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1919/F2.cpp",
+    "platform": "Codeforces",
+    "problem_index": "F2",
+    "problem_name": "Wine Factory (Hard Version)",
+    "problem_url": "https://codeforces.com/contest/1919/problem/F2",
+    "submission_id": "CF263061389",
+    "submission_url": "https://codeforces.com/contest/1919/submission/263061389",
+    "tags": [
+      "data structures",
+      "dp",
+      "flows",
+      "greedy",
+      "matrices",
+      "*2800"
+    ],
+    "timestamp": "May/29/2024 02:06"
+  },
   "CF263061395": {
     "contest_id": 1290,
     "language": "C++20 (GCC 13-64)",
