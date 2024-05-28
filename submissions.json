@@ -23996,6 +23996,25 @@
     ],
     "timestamp": "May/28/2024 08:13"
   },
+  "CF262947951": {
+    "contest_id": 1188,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1188/A2.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A2",
+    "problem_name": "Add on a Tree: Revolution",
+    "problem_url": "https://codeforces.com/contest/1188/problem/A2",
+    "submission_id": "CF262947951",
+    "submission_url": "https://codeforces.com/contest/1188/submission/262947951",
+    "tags": [
+      "constructive algorithms",
+      "dfs and similar",
+      "implementation",
+      "trees",
+      "*2500"
+    ],
+    "timestamp": "May/28/2024 08:39"
+  },
   "CF262947963": {
     "contest_id": 690,
     "language": "C++20 (GCC 13-64)",
