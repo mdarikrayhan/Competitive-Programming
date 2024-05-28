@@ -23393,6 +23393,22 @@
     ],
     "timestamp": "May/17/2024 08:26"
   },
+  "CF263064267": {
+    "contest_id": 36,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/36/D.cpp",
+    "platform": "Codeforces",
+    "problem_index": "D",
+    "problem_name": "New Game with a Chess Piece",
+    "problem_url": "https://codeforces.com/contest/36/problem/D",
+    "submission_id": "CF263064267",
+    "submission_url": "https://codeforces.com/contest/36/submission/263064267",
+    "tags": [
+      "games",
+      "*2300"
+    ],
+    "timestamp": "May/29/2024 02:52"
+  },
   "CF263064272": {
     "contest_id": 1792,
     "language": "C++20 (GCC 13-64)",
