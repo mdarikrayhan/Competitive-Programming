@@ -23393,6 +23393,22 @@
     ],
     "timestamp": "May/17/2024 08:26"
   },
+  "CF263071556": {
+    "contest_id": 241,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/241/G.cpp",
+    "platform": "Codeforces",
+    "problem_index": "G",
+    "problem_name": "Challenging Balloons",
+    "problem_url": "https://codeforces.com/contest/241/problem/G",
+    "submission_id": "CF263071556",
+    "submission_url": "https://codeforces.com/contest/241/submission/263071556",
+    "tags": [
+      "constructive algorithms",
+      "*1900"
+    ],
+    "timestamp": "May/29/2024 05:46"
+  },
   "CF263071766": {
     "contest_id": 283,
     "language": "C++20 (GCC 13-64)",
