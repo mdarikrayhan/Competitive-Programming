@@ -23393,6 +23393,27 @@
     ],
     "timestamp": "May/17/2024 08:26"
   },
+  "CF262965276": {
+    "contest_id": 1209,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1209/F.cpp",
+    "platform": "Codeforces",
+    "problem_index": "F",
+    "problem_name": "Koala and Notebook",
+    "problem_url": "https://codeforces.com/contest/1209/problem/F",
+    "submission_id": "CF262965276",
+    "submission_url": "https://codeforces.com/contest/1209/submission/262965276",
+    "tags": [
+      "data structures",
+      "dfs and similar",
+      "graphs",
+      "shortest paths",
+      "strings",
+      "trees",
+      "*2600"
+    ],
+    "timestamp": "May/28/2024 12:08"
+  },
   "CF262965317": {
     "contest_id": 632,
     "language": "C++20 (GCC 13-64)",
