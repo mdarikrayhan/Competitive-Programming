@@ -70753,6 +70753,27 @@
     ],
     "timestamp": "May/28/2024 16:21"
   },
+  "CF262996444": {
+    "contest_id": 1933,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1933/G.cpp",
+    "platform": "Codeforces",
+    "problem_index": "G",
+    "problem_name": "Turtle Magic: Royal Turtle Shell Pattern",
+    "problem_url": "https://codeforces.com/contest/1933/problem/G",
+    "submission_id": "CF262996444",
+    "submission_url": "https://codeforces.com/contest/1933/submission/262996444",
+    "tags": [
+      "bitmasks",
+      "brute force",
+      "combinatorics",
+      "constructive algorithms",
+      "dfs and similar",
+      "math",
+      "*2300"
+    ],
+    "timestamp": "May/28/2024 16:39"
+  },
   "CF262996662": {
     "contest_id": 1157,
     "language": "C++20 (GCC 13-64)",
