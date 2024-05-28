@@ -23393,6 +23393,25 @@
     ],
     "timestamp": "May/17/2024 08:26"
   },
+  "CF262967286": {
+    "contest_id": 1619,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1619/H.cpp",
+    "platform": "Codeforces",
+    "problem_index": "H",
+    "problem_name": "Permutation and Queries",
+    "problem_url": "https://codeforces.com/contest/1619/problem/H",
+    "submission_id": "CF262967286",
+    "submission_url": "https://codeforces.com/contest/1619/submission/262967286",
+    "tags": [
+      "brute force",
+      "data structures",
+      "divide and conquer",
+      "two pointers",
+      "*2400"
+    ],
+    "timestamp": "May/28/2024 12:27"
+  },
   "CF262967310": {
     "contest_id": 1019,
     "language": "C++20 (GCC 13-64)",
