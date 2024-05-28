@@ -59861,6 +59861,22 @@
     ],
     "timestamp": "May/28/2024 06:21"
   },
+  "CF262942385": {
+    "contest_id": 120,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/120/H.cpp",
+    "platform": "Codeforces",
+    "problem_index": "H",
+    "problem_name": "Brevity is Soul of Wit",
+    "problem_url": "https://codeforces.com/contest/120/problem/H",
+    "submission_id": "CF262942385",
+    "submission_url": "https://codeforces.com/contest/120/submission/262942385",
+    "tags": [
+      "graph matchings",
+      "*1800"
+    ],
+    "timestamp": "May/28/2024 06:43"
+  },
   "CF262942387": {
     "contest_id": 6,
     "language": "C++20 (GCC 13-64)",
