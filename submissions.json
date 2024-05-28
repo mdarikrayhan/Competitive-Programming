@@ -23393,6 +23393,22 @@
     ],
     "timestamp": "May/17/2024 08:26"
   },
+  "CF262986224": {
+    "contest_id": 661,
+    "language": "J",
+    "path": "codeforces/661/G.ijs",
+    "platform": "Codeforces",
+    "problem_index": "G",
+    "problem_name": "Hungarian Notation",
+    "problem_url": "https://codeforces.com/contest/661/problem/G",
+    "submission_id": "CF262986224",
+    "submission_url": "https://codeforces.com/contest/661/submission/262986224",
+    "tags": [
+      "*special problem",
+      "*2200"
+    ],
+    "timestamp": "May/28/2024 15:10"
+  },
   "CF262986251": {
     "contest_id": 661,
     "language": "J",
