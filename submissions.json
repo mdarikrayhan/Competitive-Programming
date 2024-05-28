@@ -29631,6 +29631,23 @@
     ],
     "timestamp": "May/29/2024 03:14"
   },
+  "CF263066872": {
+    "contest_id": 364,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/364/C.cpp",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Beautiful Set",
+    "problem_url": "https://codeforces.com/contest/364/problem/C",
+    "submission_id": "CF263066872",
+    "submission_url": "https://codeforces.com/contest/364/submission/263066872",
+    "tags": [
+      "brute force",
+      "number theory",
+      "*2300"
+    ],
+    "timestamp": "May/29/2024 03:40"
+  },
   "CF263067026": {
     "contest_id": 1379,
     "language": "C++20 (GCC 13-64)",
