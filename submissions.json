@@ -74789,6 +74789,25 @@
     ],
     "timestamp": "May/29/2024 02:04"
   },
+  "CF263061509": {
+    "contest_id": 1898,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1898/F.cpp",
+    "platform": "Codeforces",
+    "problem_index": "F",
+    "problem_name": "Vova Escapes the Matrix",
+    "problem_url": "https://codeforces.com/contest/1898/problem/F",
+    "submission_id": "CF263061509",
+    "submission_url": "https://codeforces.com/contest/1898/submission/263061509",
+    "tags": [
+      "brute force",
+      "dfs and similar",
+      "divide and conquer",
+      "shortest paths",
+      "*2600"
+    ],
+    "timestamp": "May/29/2024 02:08"
+  },
   "CF263061520": {
     "contest_id": 1505,
     "language": "C++20 (GCC 13-64)",
