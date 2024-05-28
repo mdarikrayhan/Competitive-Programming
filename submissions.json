@@ -25822,6 +25822,26 @@
     ],
     "timestamp": "May/28/2024 15:59"
   },
+  "CF263055069": {
+    "contest_id": 1500,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1500/C.cpp",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Matrix Sorting",
+    "problem_url": "https://codeforces.com/contest/1500/problem/C",
+    "submission_id": "CF263055069",
+    "submission_url": "https://codeforces.com/contest/1500/submission/263055069",
+    "tags": [
+      "bitmasks",
+      "brute force",
+      "constructive algorithms",
+      "greedy",
+      "two pointers",
+      "*2600"
+    ],
+    "timestamp": "May/29/2024 00:48"
+  },
   "CF263055143": {
     "contest_id": 1146,
     "language": "C++20 (GCC 13-64)",
