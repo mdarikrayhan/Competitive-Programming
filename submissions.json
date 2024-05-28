@@ -23393,6 +23393,23 @@
     ],
     "timestamp": "May/17/2024 08:26"
   },
+  "CF262980435": {
+    "contest_id": 140,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/140/E.cpp",
+    "platform": "Codeforces",
+    "problem_index": "E",
+    "problem_name": "New Year Garland",
+    "problem_url": "https://codeforces.com/contest/140/problem/E",
+    "submission_id": "CF262980435",
+    "submission_url": "https://codeforces.com/contest/140/submission/262980435",
+    "tags": [
+      "combinatorics",
+      "dp",
+      "*2600"
+    ],
+    "timestamp": "May/28/2024 14:20"
+  },
   "CF262980470": {
     "contest_id": 482,
     "language": "C++20 (GCC 13-64)",
