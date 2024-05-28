@@ -83307,6 +83307,23 @@
     ],
     "timestamp": "May/28/2024 16:21"
   },
+  "CF262994750": {
+    "contest_id": 895,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/895/E.cpp",
+    "platform": "Codeforces",
+    "problem_index": "E",
+    "problem_name": "Eyes Closed",
+    "problem_url": "https://codeforces.com/contest/895/problem/E",
+    "submission_id": "CF262994750",
+    "submission_url": "https://codeforces.com/contest/895/submission/262994750",
+    "tags": [
+      "data structures",
+      "probabilities",
+      "*2300"
+    ],
+    "timestamp": "May/28/2024 16:24"
+  },
   "CF262994792": {
     "contest_id": 1793,
     "language": "C++20 (GCC 13-64)",
