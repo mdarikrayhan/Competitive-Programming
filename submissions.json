@@ -23393,6 +23393,25 @@
     ],
     "timestamp": "May/17/2024 08:26"
   },
+  "CF262991805": {
+    "contest_id": 852,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/852/D.cpp",
+    "platform": "Codeforces",
+    "problem_index": "D",
+    "problem_name": "Exploration plan",
+    "problem_url": "https://codeforces.com/contest/852/problem/D",
+    "submission_id": "CF262991805",
+    "submission_url": "https://codeforces.com/contest/852/submission/262991805",
+    "tags": [
+      "binary search",
+      "flows",
+      "graph matchings",
+      "shortest paths",
+      "*2100"
+    ],
+    "timestamp": "May/28/2024 15:59"
+  },
   "CF263056262": {
     "contest_id": 852,
     "language": "C++20 (GCC 13-64)",
