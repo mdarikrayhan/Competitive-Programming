@@ -23393,6 +23393,24 @@
     ],
     "timestamp": "May/17/2024 08:26"
   },
+  "CF262985331": {
+    "contest_id": 188,
+    "language": "Roco",
+    "path": "codeforces/188/C.roco",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "LCM",
+    "problem_url": "https://codeforces.com/contest/188/problem/C",
+    "submission_id": "CF262985331",
+    "submission_url": "https://codeforces.com/contest/188/submission/262985331",
+    "tags": [
+      "*special problem",
+      "implementation",
+      "math",
+      "*1400"
+    ],
+    "timestamp": "May/28/2024 15:02"
+  },
   "CF262985362": {
     "contest_id": 188,
     "language": "Roco",
