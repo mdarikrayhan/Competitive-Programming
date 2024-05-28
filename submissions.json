@@ -70753,6 +70753,25 @@
     ],
     "timestamp": "May/28/2024 16:21"
   },
+  "CF262995578": {
+    "contest_id": 1737,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1737/E.cpp",
+    "platform": "Codeforces",
+    "problem_index": "E",
+    "problem_name": "Ela Goes Hiking",
+    "problem_url": "https://codeforces.com/contest/1737/problem/E",
+    "submission_id": "CF262995578",
+    "submission_url": "https://codeforces.com/contest/1737/submission/262995578",
+    "tags": [
+      "combinatorics",
+      "dp",
+      "math",
+      "probabilities",
+      "*2500"
+    ],
+    "timestamp": "May/28/2024 16:32"
+  },
   "CF262995671": {
     "contest_id": 362,
     "language": "C++20 (GCC 13-64)",
