@@ -79705,6 +79705,23 @@
     ],
     "timestamp": "May/28/2024 12:49"
   },
+  "CF262975644": {
+    "contest_id": 1533,
+    "language": "Kotlin 1.7",
+    "path": "codeforces/1533/F.kt",
+    "platform": "Codeforces",
+    "problem_index": "F",
+    "problem_name": "Binary String Partition",
+    "problem_url": "https://codeforces.com/contest/1533/problem/F",
+    "submission_id": "CF262975644",
+    "submission_url": "https://codeforces.com/contest/1533/submission/262975644",
+    "tags": [
+      "*special problem",
+      "binary search",
+      "greedy"
+    ],
+    "timestamp": "May/28/2024 13:40"
+  },
   "CF262975688": {
     "contest_id": 1533,
     "language": "Kotlin 1.7",
