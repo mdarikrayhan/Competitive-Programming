@@ -54625,6 +54625,24 @@
     ],
     "timestamp": "May/28/2024 08:13"
   },
+  "CF262947192": {
+    "contest_id": 229,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/229/C.cpp",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Triangles",
+    "problem_url": "https://codeforces.com/contest/229/problem/C",
+    "submission_id": "CF262947192",
+    "submission_url": "https://codeforces.com/contest/229/submission/262947192",
+    "tags": [
+      "combinatorics",
+      "graphs",
+      "math",
+      "*1900"
+    ],
+    "timestamp": "May/28/2024 08:26"
+  },
   "CF262947195": {
     "contest_id": 356,
     "language": "C++20 (GCC 13-64)",
