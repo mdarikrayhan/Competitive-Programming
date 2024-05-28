@@ -67500,6 +67500,23 @@
     ],
     "timestamp": "May/29/2024 02:04"
   },
+  "CF263061830": {
+    "contest_id": 464,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/464/D.cpp",
+    "platform": "Codeforces",
+    "problem_index": "D",
+    "problem_name": "World of Darkraft - 2",
+    "problem_url": "https://codeforces.com/contest/464/problem/D",
+    "submission_id": "CF263061830",
+    "submission_url": "https://codeforces.com/contest/464/submission/263061830",
+    "tags": [
+      "dp",
+      "probabilities",
+      "*2700"
+    ],
+    "timestamp": "May/29/2024 02:12"
+  },
   "CF263061867": {
     "contest_id": 1422,
     "language": "C++20 (GCC 13-64)",
