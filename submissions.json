@@ -23393,6 +23393,24 @@
     ],
     "timestamp": "May/17/2024 08:26"
   },
+  "CF262983867": {
+    "contest_id": 648,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/648/C.cpp",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "\u041f\u0443\u0442\u044c \u0420\u043e\u0431\u043e\u0442\u0430",
+    "problem_url": "https://codeforces.com/contest/648/problem/C",
+    "submission_id": "CF262983867",
+    "submission_url": "https://codeforces.com/contest/648/submission/262983867",
+    "tags": [
+      "constructive algorithms",
+      "dfs and similar",
+      "graphs",
+      "*1100"
+    ],
+    "timestamp": "May/28/2024 14:49"
+  },
   "CF262983917": {
     "contest_id": 1034,
     "language": "C++20 (GCC 13-64)",
