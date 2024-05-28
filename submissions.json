@@ -59861,6 +59861,27 @@
     ],
     "timestamp": "May/28/2024 06:21"
   },
+  "CF262941642": {
+    "contest_id": 1901,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1901/E.cpp",
+    "platform": "Codeforces",
+    "problem_index": "E",
+    "problem_name": "Compressed Tree",
+    "problem_url": "https://codeforces.com/contest/1901/problem/E",
+    "submission_id": "CF262941642",
+    "submission_url": "https://codeforces.com/contest/1901/submission/262941642",
+    "tags": [
+      "dfs and similar",
+      "dp",
+      "graphs",
+      "greedy",
+      "sortings",
+      "trees",
+      "*2200"
+    ],
+    "timestamp": "May/28/2024 06:24"
+  },
   "CF262941667": {
     "contest_id": 95,
     "language": "C++20 (GCC 13-64)",
