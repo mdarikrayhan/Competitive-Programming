@@ -23393,6 +23393,22 @@
     ],
     "timestamp": "May/17/2024 08:26"
   },
+  "CF262941118": {
+    "contest_id": 802,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/802/I.cpp",
+    "platform": "Codeforces",
+    "problem_index": "I",
+    "problem_name": "Fake News (hard)",
+    "problem_url": "https://codeforces.com/contest/802/problem/I",
+    "submission_id": "CF262941118",
+    "submission_url": "https://codeforces.com/contest/802/submission/262941118",
+    "tags": [
+      "string suffix structures",
+      "*2300"
+    ],
+    "timestamp": "May/28/2024 06:08"
+  },
   "CF262941270": {
     "contest_id": 713,
     "language": "C++20 (GCC 13-64)",
