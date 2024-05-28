@@ -59861,6 +59861,24 @@
     ],
     "timestamp": "May/28/2024 06:21"
   },
+  "CF262942606": {
+    "contest_id": 1310,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1310/D.cpp",
+    "platform": "Codeforces",
+    "problem_index": "D",
+    "problem_name": "Tourism",
+    "problem_url": "https://codeforces.com/contest/1310/problem/D",
+    "submission_id": "CF262942606",
+    "submission_url": "https://codeforces.com/contest/1310/submission/262942606",
+    "tags": [
+      "dp",
+      "graphs",
+      "probabilities",
+      "*2300"
+    ],
+    "timestamp": "May/28/2024 06:49"
+  },
   "CF262942619": {
     "contest_id": 303,
     "language": "C++20 (GCC 13-64)",
