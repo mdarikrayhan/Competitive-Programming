@@ -25840,6 +25840,24 @@
     ],
     "timestamp": "May/29/2024 00:33"
   },
+  "CF263054040": {
+    "contest_id": 928,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/928/C.cpp",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Dependency management",
+    "problem_url": "https://codeforces.com/contest/928/problem/C",
+    "submission_id": "CF263054040",
+    "submission_url": "https://codeforces.com/contest/928/submission/263054040",
+    "tags": [
+      "*special problem",
+      "graphs",
+      "implementation",
+      "*1900"
+    ],
+    "timestamp": "May/29/2024 00:37"
+  },
   "CF263054049": {
     "contest_id": 568,
     "language": "C++20 (GCC 13-64)",
