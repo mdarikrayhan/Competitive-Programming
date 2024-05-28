@@ -70165,6 +70165,26 @@
     ],
     "timestamp": "May/29/2024 03:55"
   },
+  "CF263067634": {
+    "contest_id": 1184,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1184/B2.cpp",
+    "platform": "Codeforces",
+    "problem_index": "B2",
+    "problem_name": "The Doctor Meets Vader (Medium)",
+    "problem_url": "https://codeforces.com/contest/1184/problem/B2",
+    "submission_id": "CF263067634",
+    "submission_url": "https://codeforces.com/contest/1184/submission/263067634",
+    "tags": [
+      "flows",
+      "graph matchings",
+      "graphs",
+      "shortest paths",
+      "sortings",
+      "*2200"
+    ],
+    "timestamp": "May/29/2024 03:57"
+  },
   "CF263067662": {
     "contest_id": 40,
     "language": "C++20 (GCC 13-64)",
