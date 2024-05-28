@@ -23393,6 +23393,26 @@
     ],
     "timestamp": "May/17/2024 08:26"
   },
+  "CF263057656": {
+    "contest_id": 1400,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1400/F.cpp",
+    "platform": "Codeforces",
+    "problem_index": "F",
+    "problem_name": "x-prime Substrings",
+    "problem_url": "https://codeforces.com/contest/1400/problem/F",
+    "submission_id": "CF263057656",
+    "submission_url": "https://codeforces.com/contest/1400/submission/263057656",
+    "tags": [
+      "brute force",
+      "dfs and similar",
+      "dp",
+      "string suffix structures",
+      "strings",
+      "*2800"
+    ],
+    "timestamp": "May/29/2024 01:17"
+  },
   "CF263057702": {
     "contest_id": 827,
     "language": "C++20 (GCC 13-64)",
