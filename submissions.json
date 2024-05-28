@@ -23393,6 +23393,24 @@
     ],
     "timestamp": "May/17/2024 08:26"
   },
+  "CF263064138": {
+    "contest_id": 1342,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1342/F.cpp",
+    "platform": "Codeforces",
+    "problem_index": "F",
+    "problem_name": "Make It Ascending",
+    "problem_url": "https://codeforces.com/contest/1342/problem/F",
+    "submission_id": "CF263064138",
+    "submission_url": "https://codeforces.com/contest/1342/submission/263064138",
+    "tags": [
+      "bitmasks",
+      "brute force",
+      "dp",
+      "*3000"
+    ],
+    "timestamp": "May/29/2024 02:50"
+  },
   "CF263064165": {
     "contest_id": 506,
     "language": "C++20 (GCC 13-64)",
