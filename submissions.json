@@ -56079,6 +56079,23 @@
     ],
     "timestamp": "May/28/2024 09:19"
   },
+  "CF262951472": {
+    "contest_id": 700,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/700/E.cpp",
+    "platform": "Codeforces",
+    "problem_index": "E",
+    "problem_name": "Cool Slogans",
+    "problem_url": "https://codeforces.com/contest/700/problem/E",
+    "submission_id": "CF262951472",
+    "submission_url": "https://codeforces.com/contest/700/submission/262951472",
+    "tags": [
+      "string suffix structures",
+      "strings",
+      "*3300"
+    ],
+    "timestamp": "May/28/2024 09:36"
+  },
   "CF262951482": {
     "contest_id": 662,
     "language": "C++20 (GCC 13-64)",
