@@ -29631,6 +29631,23 @@
     ],
     "timestamp": "May/29/2024 03:14"
   },
+  "CF263067476": {
+    "contest_id": 1949,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1949/G.cpp",
+    "platform": "Codeforces",
+    "problem_index": "G",
+    "problem_name": "Scooter",
+    "problem_url": "https://codeforces.com/contest/1949/problem/G",
+    "submission_id": "CF263067476",
+    "submission_url": "https://codeforces.com/contest/1949/submission/263067476",
+    "tags": [
+      "graphs",
+      "greedy",
+      "*2300"
+    ],
+    "timestamp": "May/29/2024 03:54"
+  },
   "CF263067504": {
     "contest_id": 382,
     "language": "C++20 (GCC 13-64)",
