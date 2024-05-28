@@ -29631,6 +29631,26 @@
     ],
     "timestamp": "May/29/2024 03:14"
   },
+  "CF263067437": {
+    "contest_id": 1731,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1731/F.cpp",
+    "platform": "Codeforces",
+    "problem_index": "F",
+    "problem_name": "Function Sum",
+    "problem_url": "https://codeforces.com/contest/1731/problem/F",
+    "submission_id": "CF263067437",
+    "submission_url": "https://codeforces.com/contest/1731/submission/263067437",
+    "tags": [
+      "brute force",
+      "combinatorics",
+      "dp",
+      "fft",
+      "math",
+      "*2500"
+    ],
+    "timestamp": "May/29/2024 03:53"
+  },
   "CF263067450": {
     "contest_id": 961,
     "language": "C++20 (GCC 13-64)",
