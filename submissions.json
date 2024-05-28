@@ -72241,6 +72241,22 @@
     ],
     "timestamp": "May/29/2024 00:54"
   },
+  "CF263055619": {
+    "contest_id": 48,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/48/C.cpp",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "The Race",
+    "problem_url": "https://codeforces.com/contest/48/problem/C",
+    "submission_id": "CF263055619",
+    "submission_url": "https://codeforces.com/contest/48/submission/263055619",
+    "tags": [
+      "math",
+      "*1800"
+    ],
+    "timestamp": "May/29/2024 00:54"
+  },
   "CF263055641": {
     "contest_id": 444,
     "language": "C++20 (GCC 13-64)",
