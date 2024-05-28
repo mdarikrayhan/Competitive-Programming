@@ -69583,6 +69583,26 @@
     ],
     "timestamp": "May/29/2024 03:14"
   },
+  "CF263066320": {
+    "contest_id": 650,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/650/E.cpp",
+    "platform": "Codeforces",
+    "problem_index": "E",
+    "problem_name": "Clockwork Bomb",
+    "problem_url": "https://codeforces.com/contest/650/problem/E",
+    "submission_id": "CF263066320",
+    "submission_url": "https://codeforces.com/contest/650/submission/263066320",
+    "tags": [
+      "data structures",
+      "dfs and similar",
+      "dsu",
+      "greedy",
+      "trees",
+      "*3200"
+    ],
+    "timestamp": "May/29/2024 03:29"
+  },
   "CF263066333": {
     "contest_id": 91,
     "language": "C++20 (GCC 13-64)",
