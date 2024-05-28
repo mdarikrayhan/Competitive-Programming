@@ -59861,6 +59861,23 @@
     ],
     "timestamp": "May/28/2024 06:21"
   },
+  "CF262945140": {
+    "contest_id": 51,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/51/C.cpp",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Three Base Stations",
+    "problem_url": "https://codeforces.com/contest/51/problem/C",
+    "submission_id": "CF262945140",
+    "submission_url": "https://codeforces.com/contest/51/submission/262945140",
+    "tags": [
+      "binary search",
+      "greedy",
+      "*1800"
+    ],
+    "timestamp": "May/28/2024 07:47"
+  },
   "CF262945156": {
     "contest_id": 1521,
     "language": "C++20 (GCC 13-64)",
