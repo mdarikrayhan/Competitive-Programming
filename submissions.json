@@ -23393,6 +23393,27 @@
     ],
     "timestamp": "May/17/2024 08:26"
   },
+  "CF263064026": {
+    "contest_id": 1387,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1387/A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Graph",
+    "problem_url": "https://codeforces.com/contest/1387/problem/A",
+    "submission_id": "CF263064026",
+    "submission_url": "https://codeforces.com/contest/1387/submission/263064026",
+    "tags": [
+      "*special problem",
+      "binary search",
+      "dfs and similar",
+      "dp",
+      "math",
+      "ternary search",
+      "*2100"
+    ],
+    "timestamp": "May/29/2024 02:48"
+  },
   "CF263064061": {
     "contest_id": 61,
     "language": "C++20 (GCC 13-64)",
