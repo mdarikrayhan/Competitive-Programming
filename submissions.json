@@ -23393,6 +23393,25 @@
     ],
     "timestamp": "May/17/2024 08:26"
   },
+  "CF262960537": {
+    "contest_id": 814,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/814/E.cpp",
+    "platform": "Codeforces",
+    "problem_index": "E",
+    "problem_name": "An unavoidable detour for home",
+    "problem_url": "https://codeforces.com/contest/814/problem/E",
+    "submission_id": "CF262960537",
+    "submission_url": "https://codeforces.com/contest/814/submission/262960537",
+    "tags": [
+      "combinatorics",
+      "dp",
+      "graphs",
+      "shortest paths",
+      "*2600"
+    ],
+    "timestamp": "May/28/2024 11:21"
+  },
   "CF262960772": {
     "contest_id": 926,
     "language": "JavaScript",
