@@ -70165,6 +70165,22 @@
     ],
     "timestamp": "May/29/2024 03:55"
   },
+  "CF263067687": {
+    "contest_id": 295,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/295/E.cpp",
+    "platform": "Codeforces",
+    "problem_index": "E",
+    "problem_name": "Yaroslav and Points",
+    "problem_url": "https://codeforces.com/contest/295/problem/E",
+    "submission_id": "CF263067687",
+    "submission_url": "https://codeforces.com/contest/295/submission/263067687",
+    "tags": [
+      "data structures",
+      "*2500"
+    ],
+    "timestamp": "May/29/2024 03:58"
+  },
   "CF263067694": {
     "contest_id": 1117,
     "language": "C++20 (GCC 13-64)",
