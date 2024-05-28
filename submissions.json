@@ -23393,6 +23393,22 @@
     ],
     "timestamp": "May/17/2024 08:26"
   },
+  "CF263056432": {
+    "contest_id": 202,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/202/B.cpp",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Brand New Easy Problem",
+    "problem_url": "https://codeforces.com/contest/202/problem/B",
+    "submission_id": "CF263056432",
+    "submission_url": "https://codeforces.com/contest/202/submission/263056432",
+    "tags": [
+      "brute force",
+      "*1700"
+    ],
+    "timestamp": "May/29/2024 01:03"
+  },
   "CF263056457": {
     "contest_id": 97,
     "language": "C++20 (GCC 13-64)",
