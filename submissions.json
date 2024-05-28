@@ -56079,6 +56079,23 @@
     ],
     "timestamp": "May/28/2024 09:19"
   },
+  "CF262951195": {
+    "contest_id": 1910,
+    "language": "Kotlin 1.7",
+    "path": "codeforces/1910/B.kt",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Security Guard",
+    "problem_url": "https://codeforces.com/contest/1910/problem/B",
+    "submission_id": "CF262951195",
+    "submission_url": "https://codeforces.com/contest/1910/submission/262951195",
+    "tags": [
+      "*special problem",
+      "greedy",
+      "*1600"
+    ],
+    "timestamp": "May/28/2024 09:32"
+  },
   "CF262951238": {
     "contest_id": 1910,
     "language": "Kotlin 1.7",
