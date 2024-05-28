@@ -73890,6 +73890,24 @@
     ],
     "timestamp": "May/29/2024 01:24"
   },
+  "CF263058326": {
+    "contest_id": 1179,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1179/D.cpp",
+    "platform": "Codeforces",
+    "problem_index": "D",
+    "problem_name": "Fedor Runs for President",
+    "problem_url": "https://codeforces.com/contest/1179/problem/D",
+    "submission_id": "CF263058326",
+    "submission_url": "https://codeforces.com/contest/1179/submission/263058326",
+    "tags": [
+      "data structures",
+      "dp",
+      "trees",
+      "*2700"
+    ],
+    "timestamp": "May/29/2024 01:25"
+  },
   "CF263058339": {
     "contest_id": 1195,
     "language": "C++20 (GCC 13-64)",
