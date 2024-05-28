@@ -59861,6 +59861,25 @@
     ],
     "timestamp": "May/28/2024 06:21"
   },
+  "CF262942252": {
+    "contest_id": 815,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/815/B.cpp",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Karen and Test",
+    "problem_url": "https://codeforces.com/contest/815/problem/B",
+    "submission_id": "CF262942252",
+    "submission_url": "https://codeforces.com/contest/815/submission/262942252",
+    "tags": [
+      "brute force",
+      "combinatorics",
+      "constructive algorithms",
+      "math",
+      "*2200"
+    ],
+    "timestamp": "May/28/2024 06:40"
+  },
   "CF262942257": {
     "contest_id": 30,
     "language": "C++20 (GCC 13-64)",
