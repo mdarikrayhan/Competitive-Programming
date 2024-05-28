@@ -23393,6 +23393,25 @@
     ],
     "timestamp": "May/17/2024 08:26"
   },
+  "CF262946249": {
+    "contest_id": 903,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/903/E.cpp",
+    "platform": "Codeforces",
+    "problem_index": "E",
+    "problem_name": "Swapping Characters",
+    "problem_url": "https://codeforces.com/contest/903/problem/E",
+    "submission_id": "CF262946249",
+    "submission_url": "https://codeforces.com/contest/903/submission/262946249",
+    "tags": [
+      "brute force",
+      "hashing",
+      "implementation",
+      "strings",
+      "*2200"
+    ],
+    "timestamp": "May/28/2024 08:08"
+  },
   "CF262946259": {
     "contest_id": 1761,
     "language": "C++20 (GCC 13-64)",
