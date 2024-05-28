@@ -67500,6 +67500,24 @@
     ],
     "timestamp": "May/29/2024 02:04"
   },
+  "CF263062141": {
+    "contest_id": 853,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/853/D.cpp",
+    "platform": "Codeforces",
+    "problem_index": "D",
+    "problem_name": "Michael and Charging Stations",
+    "problem_url": "https://codeforces.com/contest/853/problem/D",
+    "submission_id": "CF263062141",
+    "submission_url": "https://codeforces.com/contest/853/submission/263062141",
+    "tags": [
+      "binary search",
+      "dp",
+      "greedy",
+      "*2400"
+    ],
+    "timestamp": "May/29/2024 02:17"
+  },
   "CF263062167": {
     "contest_id": 913,
     "language": "C++20 (GCC 13-64)",
