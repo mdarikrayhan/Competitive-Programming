@@ -27011,6 +27011,24 @@
     ],
     "timestamp": "May/28/2024 15:02"
   },
+  "CF262985791": {
+    "contest_id": 1571,
+    "language": "Kotlin 1.7",
+    "path": "codeforces/1571/I.kt",
+    "platform": "Codeforces",
+    "problem_index": "I",
+    "problem_name": "Physical Examination",
+    "problem_url": "https://codeforces.com/contest/1571/problem/I",
+    "submission_id": "CF262985791",
+    "submission_url": "https://codeforces.com/contest/1571/submission/262985791",
+    "tags": [
+      "*special problem",
+      "binary search",
+      "data structures",
+      "*3200"
+    ],
+    "timestamp": "May/28/2024 15:06"
+  },
   "CF262985829": {
     "contest_id": 1571,
     "language": "Kotlin 1.7",
