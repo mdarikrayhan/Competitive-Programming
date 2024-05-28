@@ -23393,6 +23393,24 @@
     ],
     "timestamp": "May/17/2024 08:26"
   },
+  "CF263057514": {
+    "contest_id": 1949,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1949/F.cpp",
+    "platform": "Codeforces",
+    "problem_index": "F",
+    "problem_name": "Dating",
+    "problem_url": "https://codeforces.com/contest/1949/problem/F",
+    "submission_id": "CF263057514",
+    "submission_url": "https://codeforces.com/contest/1949/submission/263057514",
+    "tags": [
+      "greedy",
+      "sortings",
+      "trees",
+      "*2200"
+    ],
+    "timestamp": "May/29/2024 01:16"
+  },
   "CF263057531": {
     "contest_id": 1946,
     "language": "C++20 (GCC 13-64)",
