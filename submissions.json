@@ -23393,6 +23393,24 @@
     ],
     "timestamp": "May/17/2024 08:26"
   },
+  "CF263062948": {
+    "contest_id": 150,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/150/C.cpp",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Smart Cheater",
+    "problem_url": "https://codeforces.com/contest/150/problem/C",
+    "submission_id": "CF263062948",
+    "submission_url": "https://codeforces.com/contest/150/submission/263062948",
+    "tags": [
+      "data structures",
+      "math",
+      "probabilities",
+      "*2200"
+    ],
+    "timestamp": "May/29/2024 02:30"
+  },
   "CF263062951": {
     "contest_id": 1866,
     "language": "C++20 (GCC 13-64)",
