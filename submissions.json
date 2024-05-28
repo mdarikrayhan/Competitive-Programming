@@ -23393,6 +23393,22 @@
     ],
     "timestamp": "May/17/2024 08:26"
   },
+  "CF262979921": {
+    "contest_id": 329,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/329/C.cpp",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Graph Reconstruction",
+    "problem_url": "https://codeforces.com/contest/329/problem/C",
+    "submission_id": "CF262979921",
+    "submission_url": "https://codeforces.com/contest/329/submission/262979921",
+    "tags": [
+      "constructive algorithms",
+      "*2400"
+    ],
+    "timestamp": "May/28/2024 14:16"
+  },
   "CF262979947": {
     "contest_id": 1282,
     "language": "C++20 (GCC 13-64)",
