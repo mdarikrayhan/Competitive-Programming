@@ -23393,6 +23393,23 @@
     ],
     "timestamp": "May/17/2024 08:26"
   },
+  "CF263071470": {
+    "contest_id": 1060,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1060/F.cpp",
+    "platform": "Codeforces",
+    "problem_index": "F",
+    "problem_name": "Shrinking Tree",
+    "problem_url": "https://codeforces.com/contest/1060/problem/F",
+    "submission_id": "CF263071470",
+    "submission_url": "https://codeforces.com/contest/1060/submission/263071470",
+    "tags": [
+      "combinatorics",
+      "dp",
+      "*2900"
+    ],
+    "timestamp": "May/29/2024 05:43"
+  },
   "CF263071494": {
     "contest_id": 856,
     "language": "C++20 (GCC 13-64)",
