@@ -23393,6 +23393,23 @@
     ],
     "timestamp": "May/17/2024 08:26"
   },
+  "CF263056824": {
+    "contest_id": 535,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/535/E.cpp",
+    "platform": "Codeforces",
+    "problem_index": "E",
+    "problem_name": "Tavas and Pashmaks",
+    "problem_url": "https://codeforces.com/contest/535/problem/E",
+    "submission_id": "CF263056824",
+    "submission_url": "https://codeforces.com/contest/535/submission/263056824",
+    "tags": [
+      "geometry",
+      "math",
+      "*2600"
+    ],
+    "timestamp": "May/29/2024 01:08"
+  },
   "CF263056886": {
     "contest_id": 784,
     "language": "C++20 (GCC 13-64)",
