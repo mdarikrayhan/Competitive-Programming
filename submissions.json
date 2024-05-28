@@ -23996,6 +23996,24 @@
     ],
     "timestamp": "May/28/2024 08:13"
   },
+  "CF262948718": {
+    "contest_id": 1534,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1534/F1.cpp",
+    "platform": "Codeforces",
+    "problem_index": "F1",
+    "problem_name": "Falling Sand (Easy Version)",
+    "problem_url": "https://codeforces.com/contest/1534/problem/F1",
+    "submission_id": "CF262948718",
+    "submission_url": "https://codeforces.com/contest/1534/submission/262948718",
+    "tags": [
+      "dfs and similar",
+      "graphs",
+      "greedy",
+      "*2500"
+    ],
+    "timestamp": "May/28/2024 08:53"
+  },
   "CF262948750": {
     "contest_id": 1070,
     "language": "C++20 (GCC 13-64)",
