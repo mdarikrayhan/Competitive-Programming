@@ -23393,6 +23393,26 @@
     ],
     "timestamp": "May/17/2024 08:26"
   },
+  "CF263063564": {
+    "contest_id": 1948,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1948/G.cpp",
+    "platform": "Codeforces",
+    "problem_index": "G",
+    "problem_name": "MST with Matching",
+    "problem_url": "https://codeforces.com/contest/1948/problem/G",
+    "submission_id": "CF263063564",
+    "submission_url": "https://codeforces.com/contest/1948/submission/263063564",
+    "tags": [
+      "bitmasks",
+      "brute force",
+      "dsu",
+      "graph matchings",
+      "trees",
+      "*3100"
+    ],
+    "timestamp": "May/29/2024 02:41"
+  },
   "CF263063674": {
     "contest_id": 717,
     "language": "C++20 (GCC 13-64)",
