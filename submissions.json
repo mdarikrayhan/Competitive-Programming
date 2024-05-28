@@ -70165,6 +70165,25 @@
     ],
     "timestamp": "May/29/2024 03:55"
   },
+  "CF263067555": {
+    "contest_id": 1874,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1874/D.cpp",
+    "platform": "Codeforces",
+    "problem_index": "D",
+    "problem_name": "Jellyfish and Miku",
+    "problem_url": "https://codeforces.com/contest/1874/problem/D",
+    "submission_id": "CF263067555",
+    "submission_url": "https://codeforces.com/contest/1874/submission/263067555",
+    "tags": [
+      "divide and conquer",
+      "dp",
+      "math",
+      "probabilities",
+      "*2800"
+    ],
+    "timestamp": "May/29/2024 03:55"
+  },
   "CF263067563": {
     "contest_id": 256,
     "language": "C++20 (GCC 13-64)",
