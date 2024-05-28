@@ -25822,6 +25822,23 @@
     ],
     "timestamp": "May/28/2024 15:59"
   },
+  "CF263001114": {
+    "contest_id": 1684,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1684/F.cpp",
+    "platform": "Codeforces",
+    "problem_index": "F",
+    "problem_name": "Diverse Segments",
+    "problem_url": "https://codeforces.com/contest/1684/problem/F",
+    "submission_id": "CF263001114",
+    "submission_url": "https://codeforces.com/contest/1684/submission/263001114",
+    "tags": [
+      "data structures",
+      "two pointers",
+      "*2600"
+    ],
+    "timestamp": "May/28/2024 17:18"
+  },
   "CF263001270": {
     "contest_id": 720,
     "language": "C++20 (GCC 13-64)",
