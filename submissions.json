@@ -74582,6 +74582,21 @@
     ],
     "timestamp": "May/29/2024 01:58"
   },
+  "CF263060820": {
+    "contest_id": 1531,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1531/B2.cpp",
+    "platform": "Codeforces",
+    "problem_index": "B2",
+    "problem_name": "\u041c\u043e\u043d\u0438\u0442\u043e\u0440\u0438\u043d\u0433",
+    "problem_url": "https://codeforces.com/contest/1531/problem/B2",
+    "submission_id": "CF263060820",
+    "submission_url": "https://codeforces.com/contest/1531/submission/263060820",
+    "tags": [
+      "*special problem"
+    ],
+    "timestamp": "May/29/2024 01:59"
+  },
   "CF263060911": {
     "contest_id": 1553,
     "language": "C++20 (GCC 13-64)",
