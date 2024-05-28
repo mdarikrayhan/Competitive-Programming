@@ -82208,6 +82208,23 @@
     ],
     "timestamp": "May/28/2024 15:30"
   },
+  "CF262989548": {
+    "contest_id": 1264,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1264/D2.cpp",
+    "platform": "Codeforces",
+    "problem_index": "D2",
+    "problem_name": "Beautiful Bracket Sequence (hard version)",
+    "problem_url": "https://codeforces.com/contest/1264/problem/D2",
+    "submission_id": "CF262989548",
+    "submission_url": "https://codeforces.com/contest/1264/submission/262989548",
+    "tags": [
+      "combinatorics",
+      "probabilities",
+      "*2900"
+    ],
+    "timestamp": "May/28/2024 15:39"
+  },
   "CF262989649": {
     "contest_id": 954,
     "language": "C++20 (GCC 13-64)",
