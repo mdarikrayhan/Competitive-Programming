@@ -23996,6 +23996,23 @@
     ],
     "timestamp": "May/28/2024 08:13"
   },
+  "CF262950069": {
+    "contest_id": 1739,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1739/E.cpp",
+    "platform": "Codeforces",
+    "problem_index": "E",
+    "problem_name": "Cleaning Robot",
+    "problem_url": "https://codeforces.com/contest/1739/problem/E",
+    "submission_id": "CF262950069",
+    "submission_url": "https://codeforces.com/contest/1739/submission/262950069",
+    "tags": [
+      "bitmasks",
+      "dp",
+      "*2400"
+    ],
+    "timestamp": "May/28/2024 09:14"
+  },
   "CF262950086": {
     "contest_id": 272,
     "language": "C++20 (GCC 13-64)",
