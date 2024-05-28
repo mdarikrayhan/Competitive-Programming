@@ -23393,6 +23393,28 @@
     ],
     "timestamp": "May/17/2024 08:26"
   },
+  "CF262968838": {
+    "contest_id": 1955,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1955/H.cpp",
+    "platform": "Codeforces",
+    "problem_index": "H",
+    "problem_name": "The Most Reckless Defense",
+    "problem_url": "https://codeforces.com/contest/1955/problem/H",
+    "submission_id": "CF262968838",
+    "submission_url": "https://codeforces.com/contest/1955/submission/262968838",
+    "tags": [
+      "bitmasks",
+      "brute force",
+      "constructive algorithms",
+      "dp",
+      "flows",
+      "graph matchings",
+      "shortest paths",
+      "*2300"
+    ],
+    "timestamp": "May/28/2024 12:41"
+  },
   "CF262979641": {
     "contest_id": 587,
     "language": "C++20 (GCC 13-64)",
