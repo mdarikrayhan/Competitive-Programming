@@ -23393,6 +23393,23 @@
     ],
     "timestamp": "May/17/2024 08:26"
   },
+  "CF262967310": {
+    "contest_id": 1019,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1019/C.cpp",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Sergey's problem",
+    "problem_url": "https://codeforces.com/contest/1019/problem/C",
+    "submission_id": "CF262967310",
+    "submission_url": "https://codeforces.com/contest/1019/submission/262967310",
+    "tags": [
+      "constructive algorithms",
+      "graphs",
+      "*3000"
+    ],
+    "timestamp": "May/28/2024 12:27"
+  },
   "CF262967339": {
     "contest_id": 1207,
     "language": "C++20 (GCC 13-64)",
