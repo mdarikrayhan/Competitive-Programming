@@ -23393,6 +23393,23 @@
     ],
     "timestamp": "May/17/2024 08:26"
   },
+  "CF263063300": {
+    "contest_id": 796,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/796/E.cpp",
+    "platform": "Codeforces",
+    "problem_index": "E",
+    "problem_name": "Exam Cheating",
+    "problem_url": "https://codeforces.com/contest/796/problem/E",
+    "submission_id": "CF263063300",
+    "submission_url": "https://codeforces.com/contest/796/submission/263063300",
+    "tags": [
+      "binary search",
+      "dp",
+      "*2400"
+    ],
+    "timestamp": "May/29/2024 02:36"
+  },
   "CF263063316": {
     "contest_id": 1486,
     "language": "C++20 (GCC 13-64)",
