@@ -59861,6 +59861,29 @@
     ],
     "timestamp": "May/28/2024 06:21"
   },
+  "CF262945156": {
+    "contest_id": 1521,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1521/D.cpp",
+    "platform": "Codeforces",
+    "problem_index": "D",
+    "problem_name": "Nastia Plays with a Tree",
+    "problem_url": "https://codeforces.com/contest/1521/problem/D",
+    "submission_id": "CF262945156",
+    "submission_url": "https://codeforces.com/contest/1521/submission/262945156",
+    "tags": [
+      "constructive algorithms",
+      "data structures",
+      "dfs and similar",
+      "dp",
+      "dsu",
+      "greedy",
+      "implementation",
+      "trees",
+      "*2500"
+    ],
+    "timestamp": "May/28/2024 07:48"
+  },
   "CF262945296": {
     "contest_id": 135,
     "language": "C++20 (GCC 13-64)",
