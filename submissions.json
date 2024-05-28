@@ -69583,6 +69583,23 @@
     ],
     "timestamp": "May/29/2024 03:14"
   },
+  "CF263065535": {
+    "contest_id": 870,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/870/F.cpp",
+    "platform": "Codeforces",
+    "problem_index": "F",
+    "problem_name": "Paths",
+    "problem_url": "https://codeforces.com/contest/870/problem/F",
+    "submission_id": "CF263065535",
+    "submission_url": "https://codeforces.com/contest/870/submission/263065535",
+    "tags": [
+      "data structures",
+      "number theory",
+      "*2700"
+    ],
+    "timestamp": "May/29/2024 03:15"
+  },
   "CF263065614": {
     "contest_id": 1366,
     "language": "C++20 (GCC 13-64)",
