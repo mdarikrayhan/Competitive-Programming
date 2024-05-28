@@ -25822,6 +25822,24 @@
     ],
     "timestamp": "May/28/2024 15:59"
   },
+  "CF263055258": {
+    "contest_id": 83,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/83/D.cpp",
+    "platform": "Codeforces",
+    "problem_index": "D",
+    "problem_name": "Numbers",
+    "problem_url": "https://codeforces.com/contest/83/problem/D",
+    "submission_id": "CF263055258",
+    "submission_url": "https://codeforces.com/contest/83/submission/263055258",
+    "tags": [
+      "dp",
+      "math",
+      "number theory",
+      "*2400"
+    ],
+    "timestamp": "May/29/2024 00:50"
+  },
   "CF263055282": {
     "contest_id": 1778,
     "language": "C++20 (GCC 13-64)",
