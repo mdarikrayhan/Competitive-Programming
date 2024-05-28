@@ -23393,6 +23393,21 @@
     ],
     "timestamp": "May/17/2024 08:26"
   },
+  "CF262941107": {
+    "contest_id": 1145,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1145/B.cpp",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Kanban Numbers",
+    "problem_url": "https://codeforces.com/contest/1145/problem/B",
+    "submission_id": "CF262941107",
+    "submission_url": "https://codeforces.com/contest/1145/submission/262941107",
+    "tags": [
+      "brute force"
+    ],
+    "timestamp": "May/28/2024 06:08"
+  },
   "CF262941118": {
     "contest_id": 802,
     "language": "C++20 (GCC 13-64)",
