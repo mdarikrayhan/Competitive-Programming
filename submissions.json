@@ -23393,6 +23393,24 @@
     ],
     "timestamp": "May/17/2024 08:26"
   },
+  "CF263063818": {
+    "contest_id": 1045,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1045/C.cpp",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Hyperspace Highways",
+    "problem_url": "https://codeforces.com/contest/1045/problem/C",
+    "submission_id": "CF263063818",
+    "submission_url": "https://codeforces.com/contest/1045/submission/263063818",
+    "tags": [
+      "dfs and similar",
+      "graphs",
+      "trees",
+      "*2300"
+    ],
+    "timestamp": "May/29/2024 02:45"
+  },
   "CF263063840": {
     "contest_id": 599,
     "language": "C++20 (GCC 13-64)",
