@@ -23393,6 +23393,24 @@
     ],
     "timestamp": "May/17/2024 08:26"
   },
+  "CF263069760": {
+    "contest_id": 1477,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1477/D.cpp",
+    "platform": "Codeforces",
+    "problem_index": "D",
+    "problem_name": "Nezzar and Hidden Permutations",
+    "problem_url": "https://codeforces.com/contest/1477/problem/D",
+    "submission_id": "CF263069760",
+    "submission_url": "https://codeforces.com/contest/1477/submission/263069760",
+    "tags": [
+      "constructive algorithms",
+      "dfs and similar",
+      "graphs",
+      "*2800"
+    ],
+    "timestamp": "May/29/2024 04:52"
+  },
   "CF263070242": {
     "contest_id": 1070,
     "language": "C++20 (GCC 13-64)",
