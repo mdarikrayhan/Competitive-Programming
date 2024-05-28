@@ -56079,6 +56079,24 @@
     ],
     "timestamp": "May/28/2024 09:19"
   },
+  "CF262954105": {
+    "contest_id": 172,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/172/C.cpp",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Bus",
+    "problem_url": "https://codeforces.com/contest/172/problem/C",
+    "submission_id": "CF262954105",
+    "submission_url": "https://codeforces.com/contest/172/submission/262954105",
+    "tags": [
+      "*special problem",
+      "implementation",
+      "sortings",
+      "*1500"
+    ],
+    "timestamp": "May/28/2024 10:15"
+  },
   "CF262954150": {
     "contest_id": 457,
     "language": "C++20 (GCC 13-64)",
