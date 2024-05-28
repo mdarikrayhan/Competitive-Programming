@@ -25822,6 +25822,26 @@
     ],
     "timestamp": "May/28/2024 15:59"
   },
+  "CF263053651": {
+    "contest_id": 1891,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1891/E.cpp",
+    "platform": "Codeforces",
+    "problem_index": "E",
+    "problem_name": "Brukhovich and Exams",
+    "problem_url": "https://codeforces.com/contest/1891/problem/E",
+    "submission_id": "CF263053651",
+    "submission_url": "https://codeforces.com/contest/1891/submission/263053651",
+    "tags": [
+      "brute force",
+      "greedy",
+      "implementation",
+      "math",
+      "sortings",
+      "*2500"
+    ],
+    "timestamp": "May/29/2024 00:32"
+  },
   "CF263053675": {
     "contest_id": 1799,
     "language": "C++20 (GCC 13-64)",
