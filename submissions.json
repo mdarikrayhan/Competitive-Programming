@@ -26152,6 +26152,23 @@
     ],
     "timestamp": "May/29/2024 00:50"
   },
+  "CF263055284": {
+    "contest_id": 809,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/809/D.cpp",
+    "platform": "Codeforces",
+    "problem_index": "D",
+    "problem_name": "Hitchhiking in the Baltic States",
+    "problem_url": "https://codeforces.com/contest/809/problem/D",
+    "submission_id": "CF263055284",
+    "submission_url": "https://codeforces.com/contest/809/submission/263055284",
+    "tags": [
+      "data structures",
+      "dp",
+      "*2900"
+    ],
+    "timestamp": "May/29/2024 00:50"
+  },
   "CF263055332": {
     "contest_id": 1198,
     "language": "C++20 (GCC 13-64)",
