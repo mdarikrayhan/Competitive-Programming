@@ -23996,6 +23996,23 @@
     ],
     "timestamp": "May/28/2024 08:13"
   },
+  "CF262948021": {
+    "contest_id": 1458,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1458/C.cpp",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Latin Square",
+    "problem_url": "https://codeforces.com/contest/1458/problem/C",
+    "submission_id": "CF262948021",
+    "submission_url": "https://codeforces.com/contest/1458/submission/262948021",
+    "tags": [
+      "math",
+      "matrices",
+      "*2700"
+    ],
+    "timestamp": "May/28/2024 08:41"
+  },
   "CF262948043": {
     "contest_id": 113,
     "language": "C++20 (GCC 13-64)",
