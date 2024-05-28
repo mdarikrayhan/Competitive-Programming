@@ -23393,6 +23393,22 @@
     ],
     "timestamp": "May/17/2024 08:26"
   },
+  "CF263064169": {
+    "contest_id": 1070,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1070/J.cpp",
+    "platform": "Codeforces",
+    "problem_index": "J",
+    "problem_name": "Streets and Avenues in Berhattan",
+    "problem_url": "https://codeforces.com/contest/1070/problem/J",
+    "submission_id": "CF263064169",
+    "submission_url": "https://codeforces.com/contest/1070/submission/263064169",
+    "tags": [
+      "dp",
+      "*2300"
+    ],
+    "timestamp": "May/29/2024 02:51"
+  },
   "CF263064177": {
     "contest_id": 1055,
     "language": "C++20 (GCC 13-64)",
