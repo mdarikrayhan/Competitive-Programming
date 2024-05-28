@@ -23996,6 +23996,23 @@
     ],
     "timestamp": "May/28/2024 08:13"
   },
+  "CF262959263": {
+    "contest_id": 625,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/625/C.cpp",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "K-special Tables",
+    "problem_url": "https://codeforces.com/contest/625/problem/C",
+    "submission_id": "CF262959263",
+    "submission_url": "https://codeforces.com/contest/625/submission/262959263",
+    "tags": [
+      "constructive algorithms",
+      "implementation",
+      "*1300"
+    ],
+    "timestamp": "May/28/2024 11:08"
+  },
   "CF262959280": {
     "contest_id": 962,
     "language": "C++20 (GCC 13-64)",
