@@ -23393,6 +23393,23 @@
     ],
     "timestamp": "May/17/2024 08:26"
   },
+  "CF262985362": {
+    "contest_id": 188,
+    "language": "Roco",
+    "path": "codeforces/188/E.roco",
+    "platform": "Codeforces",
+    "problem_index": "E",
+    "problem_name": "HQ9+",
+    "problem_url": "https://codeforces.com/contest/188/problem/E",
+    "submission_id": "CF262985362",
+    "submission_url": "https://codeforces.com/contest/188/submission/262985362",
+    "tags": [
+      "*special problem",
+      "implementation",
+      "*1400"
+    ],
+    "timestamp": "May/28/2024 15:02"
+  },
   "CF262986046": {
     "contest_id": 661,
     "language": "J",
