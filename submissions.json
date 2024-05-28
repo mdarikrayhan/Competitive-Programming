@@ -23393,6 +23393,21 @@
     ],
     "timestamp": "May/17/2024 08:26"
   },
+  "CF262960286": {
+    "contest_id": 1812,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1812/C.cpp",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Digits",
+    "problem_url": "https://codeforces.com/contest/1812/problem/C",
+    "submission_id": "CF262960286",
+    "submission_url": "https://codeforces.com/contest/1812/submission/262960286",
+    "tags": [
+      "*special problem"
+    ],
+    "timestamp": "May/28/2024 11:18"
+  },
   "CF262960449": {
     "contest_id": 394,
     "language": "C++20 (GCC 13-64)",
