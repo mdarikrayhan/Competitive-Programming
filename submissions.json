@@ -23776,6 +23776,23 @@
     ],
     "timestamp": "May/28/2024 12:13"
   },
+  "CF262965921": {
+    "contest_id": 125,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/125/E.cpp",
+    "platform": "Codeforces",
+    "problem_index": "E",
+    "problem_name": "MST Company",
+    "problem_url": "https://codeforces.com/contest/125/problem/E",
+    "submission_id": "CF262965921",
+    "submission_url": "https://codeforces.com/contest/125/submission/262965921",
+    "tags": [
+      "binary search",
+      "graphs",
+      "*2400"
+    ],
+    "timestamp": "May/28/2024 12:14"
+  },
   "CF262965944": {
     "contest_id": 1284,
     "language": "C++20 (GCC 13-64)",
