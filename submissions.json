@@ -23996,6 +23996,25 @@
     ],
     "timestamp": "May/28/2024 08:13"
   },
+  "CF262949035": {
+    "contest_id": 1554,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1554/E.cpp",
+    "platform": "Codeforces",
+    "problem_index": "E",
+    "problem_name": "You",
+    "problem_url": "https://codeforces.com/contest/1554/problem/E",
+    "submission_id": "CF262949035",
+    "submission_url": "https://codeforces.com/contest/1554/submission/262949035",
+    "tags": [
+      "dfs and similar",
+      "dp",
+      "math",
+      "number theory",
+      "*2600"
+    ],
+    "timestamp": "May/28/2024 08:58"
+  },
   "CF262949109": {
     "contest_id": 639,
     "language": "C++20 (GCC 13-64)",
