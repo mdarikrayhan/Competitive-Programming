@@ -79705,6 +79705,26 @@
     ],
     "timestamp": "May/28/2024 12:49"
   },
+  "CF262976639": {
+    "contest_id": 372,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/372/D.cpp",
+    "platform": "Codeforces",
+    "problem_index": "D",
+    "problem_name": "Choosing Subtree is Fun",
+    "problem_url": "https://codeforces.com/contest/372/problem/D",
+    "submission_id": "CF262976639",
+    "submission_url": "https://codeforces.com/contest/372/submission/262976639",
+    "tags": [
+      "binary search",
+      "data structures",
+      "dfs and similar",
+      "trees",
+      "two pointers",
+      "*2600"
+    ],
+    "timestamp": "May/28/2024 13:48"
+  },
   "CF262976660": {
     "contest_id": 1863,
     "language": "C++20 (GCC 13-64)",
