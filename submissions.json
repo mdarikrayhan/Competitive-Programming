@@ -23996,6 +23996,27 @@
     ],
     "timestamp": "May/28/2024 08:13"
   },
+  "CF262959320": {
+    "contest_id": 570,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/570/D.cpp",
+    "platform": "Codeforces",
+    "problem_index": "D",
+    "problem_name": "Tree Requests",
+    "problem_url": "https://codeforces.com/contest/570/problem/D",
+    "submission_id": "CF262959320",
+    "submission_url": "https://codeforces.com/contest/570/submission/262959320",
+    "tags": [
+      "binary search",
+      "bitmasks",
+      "constructive algorithms",
+      "dfs and similar",
+      "graphs",
+      "trees",
+      "*2200"
+    ],
+    "timestamp": "May/28/2024 11:08"
+  },
   "CF262959333": {
     "contest_id": 1155,
     "language": "C++20 (GCC 13-64)",
