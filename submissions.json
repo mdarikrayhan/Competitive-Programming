@@ -23996,6 +23996,23 @@
     ],
     "timestamp": "May/28/2024 08:13"
   },
+  "CF262948382": {
+    "contest_id": 168,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/168/B.cpp",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Wizards and Minimal Spell",
+    "problem_url": "https://codeforces.com/contest/168/problem/B",
+    "submission_id": "CF262948382",
+    "submission_url": "https://codeforces.com/contest/168/submission/262948382",
+    "tags": [
+      "implementation",
+      "strings",
+      "*1700"
+    ],
+    "timestamp": "May/28/2024 08:47"
+  },
   "CF262948420": {
     "contest_id": 1513,
     "language": "C++20 (GCC 13-64)",
