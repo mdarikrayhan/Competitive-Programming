@@ -83307,6 +83307,24 @@
     ],
     "timestamp": "May/28/2024 16:21"
   },
+  "CF262994304": {
+    "contest_id": 1704,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1704/F.cpp",
+    "platform": "Codeforces",
+    "problem_index": "F",
+    "problem_name": "Colouring Game",
+    "problem_url": "https://codeforces.com/contest/1704/problem/F",
+    "submission_id": "CF262994304",
+    "submission_url": "https://codeforces.com/contest/1704/submission/262994304",
+    "tags": [
+      "constructive algorithms",
+      "dp",
+      "games",
+      "*2600"
+    ],
+    "timestamp": "May/28/2024 16:21"
+  },
   "CF262994375": {
     "contest_id": 690,
     "language": "C++20 (GCC 13-64)",
