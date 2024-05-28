@@ -26225,6 +26225,26 @@
     ],
     "timestamp": "May/29/2024 00:54"
   },
+  "CF263055830": {
+    "contest_id": 1530,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1530/F.cpp",
+    "platform": "Codeforces",
+    "problem_index": "F",
+    "problem_name": "Bingo",
+    "problem_url": "https://codeforces.com/contest/1530/problem/F",
+    "submission_id": "CF263055830",
+    "submission_url": "https://codeforces.com/contest/1530/submission/263055830",
+    "tags": [
+      "bitmasks",
+      "combinatorics",
+      "dp",
+      "math",
+      "probabilities",
+      "*2600"
+    ],
+    "timestamp": "May/29/2024 00:56"
+  },
   "CF263055844": {
     "contest_id": 755,
     "language": "C++20 (GCC 13-64)",
