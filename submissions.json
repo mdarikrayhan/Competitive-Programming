@@ -69692,6 +69692,25 @@
     ],
     "timestamp": "May/29/2024 03:46"
   },
+  "CF263067121": {
+    "contest_id": 677,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/677/E.cpp",
+    "platform": "Codeforces",
+    "problem_index": "E",
+    "problem_name": "Vanya and Balloons",
+    "problem_url": "https://codeforces.com/contest/677/problem/E",
+    "submission_id": "CF263067121",
+    "submission_url": "https://codeforces.com/contest/677/submission/263067121",
+    "tags": [
+      "binary search",
+      "brute force",
+      "dp",
+      "implementation",
+      "*2300"
+    ],
+    "timestamp": "May/29/2024 03:46"
+  },
   "CF263067156": {
     "contest_id": 1906,
     "language": "C++20 (GCC 13-64)",
