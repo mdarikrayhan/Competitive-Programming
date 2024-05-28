@@ -79705,6 +79705,23 @@
     ],
     "timestamp": "May/28/2024 12:49"
   },
+  "CF262975565": {
+    "contest_id": 1533,
+    "language": "Kotlin 1.7",
+    "path": "codeforces/1533/C.kt",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Sweets",
+    "problem_url": "https://codeforces.com/contest/1533/problem/C",
+    "submission_id": "CF262975565",
+    "submission_url": "https://codeforces.com/contest/1533/submission/262975565",
+    "tags": [
+      "*special problem",
+      "data structures",
+      "implementation"
+    ],
+    "timestamp": "May/28/2024 13:39"
+  },
   "CF262975588": {
     "contest_id": 1533,
     "language": "Kotlin 1.7",
