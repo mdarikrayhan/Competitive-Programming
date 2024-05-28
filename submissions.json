@@ -23409,6 +23409,23 @@
     ],
     "timestamp": "May/28/2024 11:58"
   },
+  "CF262964759": {
+    "contest_id": 706,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/706/E.cpp",
+    "platform": "Codeforces",
+    "problem_index": "E",
+    "problem_name": "Working routine",
+    "problem_url": "https://codeforces.com/contest/706/problem/E",
+    "submission_id": "CF262964759",
+    "submission_url": "https://codeforces.com/contest/706/submission/262964759",
+    "tags": [
+      "data structures",
+      "implementation",
+      "*2500"
+    ],
+    "timestamp": "May/28/2024 12:04"
+  },
   "CF262964774": {
     "contest_id": 576,
     "language": "C++20 (GCC 13-64)",
