@@ -23393,6 +23393,25 @@
     ],
     "timestamp": "May/17/2024 08:26"
   },
+  "CF263058011": {
+    "contest_id": 763,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/763/C.cpp",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Timofey and remoduling",
+    "problem_url": "https://codeforces.com/contest/763/problem/C",
+    "submission_id": "CF263058011",
+    "submission_url": "https://codeforces.com/contest/763/submission/263058011",
+    "tags": [
+      "brute force",
+      "implementation",
+      "math",
+      "number theory",
+      "*2600"
+    ],
+    "timestamp": "May/29/2024 01:22"
+  },
   "CF263058028": {
     "contest_id": 620,
     "language": "C++20 (GCC 13-64)",
