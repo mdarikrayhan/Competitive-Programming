@@ -23393,6 +23393,25 @@
     ],
     "timestamp": "May/17/2024 08:26"
   },
+  "CF263059680": {
+    "contest_id": 1392,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1392/H.cpp",
+    "platform": "Codeforces",
+    "problem_index": "H",
+    "problem_name": "ZS Shuffles Cards",
+    "problem_url": "https://codeforces.com/contest/1392/problem/H",
+    "submission_id": "CF263059680",
+    "submission_url": "https://codeforces.com/contest/1392/submission/263059680",
+    "tags": [
+      "combinatorics",
+      "dp",
+      "math",
+      "probabilities",
+      "*3000"
+    ],
+    "timestamp": "May/29/2024 01:43"
+  },
   "CF263059690": {
     "contest_id": 607,
     "language": "C++20 (GCC 13-64)",
