@@ -23996,6 +23996,24 @@
     ],
     "timestamp": "May/28/2024 08:13"
   },
+  "CF262949240": {
+    "contest_id": 1764,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1764/E.cpp",
+    "platform": "Codeforces",
+    "problem_index": "E",
+    "problem_name": "Doremy's Number Line",
+    "problem_url": "https://codeforces.com/contest/1764/problem/E",
+    "submission_id": "CF262949240",
+    "submission_url": "https://codeforces.com/contest/1764/submission/262949240",
+    "tags": [
+      "dp",
+      "greedy",
+      "sortings",
+      "*2400"
+    ],
+    "timestamp": "May/28/2024 09:01"
+  },
   "CF262949259": {
     "contest_id": 1712,
     "language": "C++20 (GCC 13-64)",
