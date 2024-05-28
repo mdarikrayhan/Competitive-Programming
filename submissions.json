@@ -23393,6 +23393,22 @@
     ],
     "timestamp": "May/17/2024 08:26"
   },
+  "CF263064436": {
+    "contest_id": 1067,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1067/C.cpp",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Knights",
+    "problem_url": "https://codeforces.com/contest/1067/problem/C",
+    "submission_id": "CF263064436",
+    "submission_url": "https://codeforces.com/contest/1067/submission/263064436",
+    "tags": [
+      "constructive algorithms",
+      "*2600"
+    ],
+    "timestamp": "May/29/2024 02:55"
+  },
   "CF263064442": {
     "contest_id": 413,
     "language": "C++20 (GCC 13-64)",
