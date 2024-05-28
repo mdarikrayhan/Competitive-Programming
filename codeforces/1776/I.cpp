@@ -1,36 +1,125 @@
-#include<iostream>
+#include <bits/stdc++.h>
 using namespace std;
-long long x[100],y[100],vis[100];
-long long calcarea(int i,int j,int k){
-	return llabs((y[i]-y[j])*(x[i]-x[k])-(y[i]-y[k])*(x[i]-x[j]));
+using ui = unsigned int;
+using ull = unsigned long long;
+using ll = long long;
+// #define endl '\n'
+using pii = pair<int, int>;
+using pll = pair<ll, ll>;
+const int maxn = 2e5 + 10;
+const int mod = 1000000007;
+#define inl inline
+#define fr(i, a, b) for (int i = a; i <= b; i++)
+#define ford(i, a, b) for (int i = a; i >= b; i--)
+#define forall(i, a) for (auto &i : a)
+
+/**
+   ____         ___ _____
+  / ___| _   _ / _ \___ /
+  \___ \| | | | | | ||_ \
+   ___) | |_| | |_| |__) |
+  |____/ \__, |\___/____/
+         |___/
+*/
+istream &operator>>(istream &in, vector<int> &v)
+{
+    for (auto &i : v)
+        in >> i;
+    return in;
 }
-int main(){
-	int n,i,j,k,T,mxp,q;
-	long long curmx,cura;
-	cin>>n;
-	for(i=0;i<n;i++) cin>>x[i]>>y[i];
-	if(n%2==0)cout<<"Alberto"<<endl;
-	else{
-		cout<<"Beatrice\n";
-		cin>>q;
-		vis[q-1]=1;
-	}
-	for(T=(n-2)/2;T>0;T--){
-		curmx=1e18;
-		for(i=0;i<n;i++){
-			if(vis[i]) continue;
-			for(j=i+n-1;vis[j%n]==1;j--);
-			for(k=i+1;vis[k%n]==1;k++);
-                cura=calcarea(i,j%n,k%n);
-			if(cura<curmx){
-				curmx=cura;
-				mxp=i;
-			}
-		}
-		cout<<mxp+1<<endl;
-		vis[mxp]=1;
-		cin>>q;
-		vis[q-1]=1;
-	}
-	return 0;
+ostream &operator<<(ostream &out, vector<int> &v)
+{
+    for (auto &i : v)
+        out << i << " ";
+    return out;
+}
+bool _output = 0;
+
+#define int ll
+struct point
+{
+    int x, y, id;
+    point operator-(point &b)
+    {
+        return {x - b.x, y - b.y};
+    }
+};
+
+int cross(point a, point b)
+{
+    return a.x * b.y - a.y * b.x;
+};
+
+void solve()
+{
+    int n;
+    cin >> n;
+    vector<point> ps(n);
+    for (auto i = 0; i < n; i++)
+    {
+        cin >> ps[i].x >> ps[i].y;
+        ps[i].id = i + 1;
+    }
+    auto del = [&](int id)
+    {
+        for (auto it = ps.begin(); it != ps.end(); it++)
+        {
+            if (it->id == id)
+            {
+                ps.erase(it);
+                return;
+            }
+        }
+    };
+    if (n & 1)
+    {
+        cout << "Beatrice" << endl;
+        int x;
+        cin >> x;
+        del(x);
+    }
+    else
+    {
+        cout << "Alberto" << endl;
+    }
+    auto make = [&]()
+    {
+        int sz = ps.size();
+        int ar = cross(ps[1] - ps[0], ps[sz - 1] - ps[0]);
+        int t_id = ps[0].id;
+        for (int i = 1; i < sz; i++)
+        {
+            int t_ar = cross(ps[(i + 1) % sz] - ps[i], ps[(i - 1) % sz] - ps[i]);
+            if (t_ar < ar)
+            {
+                ar = t_ar;
+                t_id = ps[i].id;
+            }
+        }
+        cout << t_id << endl;
+        del(t_id);
+        int x;
+        cin >> x;
+        del(x);
+    };
+    while (1)
+    {
+        make();
+        if (ps.size() <= 2)
+        {
+            break;
+        }
+    }
+}
+signed main()
+{
+    ios::sync_with_stdio(false);
+    cin.tie(0);
+    cout.tie(0);
+    int _ = 1;
+    if (_output)
+        cin >> _;
+    while (_--)
+        solve();
+    return 0;
 }
