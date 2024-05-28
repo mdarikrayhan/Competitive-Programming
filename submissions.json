@@ -23393,6 +23393,23 @@
     ],
     "timestamp": "May/17/2024 08:26"
   },
+  "CF263063798": {
+    "contest_id": 903,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/903/F.cpp",
+    "platform": "Codeforces",
+    "problem_index": "F",
+    "problem_name": "Clear The Matrix",
+    "problem_url": "https://codeforces.com/contest/903/problem/F",
+    "submission_id": "CF263063798",
+    "submission_url": "https://codeforces.com/contest/903/submission/263063798",
+    "tags": [
+      "bitmasks",
+      "dp",
+      "*2200"
+    ],
+    "timestamp": "May/29/2024 02:44"
+  },
   "CF263063818": {
     "contest_id": 1045,
     "language": "C++20 (GCC 13-64)",
