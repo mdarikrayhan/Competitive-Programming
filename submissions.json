@@ -23393,6 +23393,24 @@
     ],
     "timestamp": "May/17/2024 08:26"
   },
+  "CF262946049": {
+    "contest_id": 755,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/755/F.cpp",
+    "platform": "Codeforces",
+    "problem_index": "F",
+    "problem_name": "PolandBall and Gifts",
+    "problem_url": "https://codeforces.com/contest/755/problem/F",
+    "submission_id": "CF262946049",
+    "submission_url": "https://codeforces.com/contest/755/submission/262946049",
+    "tags": [
+      "bitmasks",
+      "dp",
+      "greedy",
+      "*2600"
+    ],
+    "timestamp": "May/28/2024 08:04"
+  },
   "CF262946064": {
     "contest_id": 1917,
     "language": "C++20 (GCC 13-64)",
