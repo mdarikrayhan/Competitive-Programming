@@ -23393,6 +23393,21 @@
     ],
     "timestamp": "May/17/2024 08:26"
   },
+  "CF262960948": {
+    "contest_id": 926,
+    "language": "GNU C11",
+    "path": "codeforces/926/F.cpp",
+    "platform": "Codeforces",
+    "problem_index": "F",
+    "problem_name": "Mobile Communications",
+    "problem_url": "https://codeforces.com/contest/926/problem/F",
+    "submission_id": "CF262960948",
+    "submission_url": "https://codeforces.com/contest/926/submission/262960948",
+    "tags": [
+      "*2000"
+    ],
+    "timestamp": "May/28/2024 11:25"
+  },
   "CF262961306": {
     "contest_id": 926,
     "language": "PHP",
