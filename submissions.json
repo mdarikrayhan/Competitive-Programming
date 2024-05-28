@@ -23996,6 +23996,26 @@
     ],
     "timestamp": "May/28/2024 08:13"
   },
+  "CF262949002": {
+    "contest_id": 1935,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1935/E.cpp",
+    "platform": "Codeforces",
+    "problem_index": "E",
+    "problem_name": "Distance Learning Courses in MAC",
+    "problem_url": "https://codeforces.com/contest/1935/problem/E",
+    "submission_id": "CF262949002",
+    "submission_url": "https://codeforces.com/contest/1935/submission/262949002",
+    "tags": [
+      "bitmasks",
+      "brute force",
+      "data structures",
+      "greedy",
+      "math",
+      "*2400"
+    ],
+    "timestamp": "May/28/2024 08:57"
+  },
   "CF262949035": {
     "contest_id": 1554,
     "language": "C++20 (GCC 13-64)",
