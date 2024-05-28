@@ -23792,6 +23792,22 @@
     ],
     "timestamp": "May/28/2024 12:14"
   },
+  "CF262966873": {
+    "contest_id": 398,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/398/B.cpp",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Painting The Wall",
+    "problem_url": "https://codeforces.com/contest/398/problem/B",
+    "submission_id": "CF262966873",
+    "submission_url": "https://codeforces.com/contest/398/submission/262966873",
+    "tags": [
+      "dp",
+      "probabilities"
+    ],
+    "timestamp": "May/28/2024 12:23"
+  },
   "CF262966936": {
     "contest_id": 35,
     "language": "C++20 (GCC 13-64)",
