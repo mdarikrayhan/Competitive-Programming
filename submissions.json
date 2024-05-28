@@ -25822,6 +25822,22 @@
     ],
     "timestamp": "May/28/2024 15:59"
   },
+  "CF263001270": {
+    "contest_id": 720,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/720/A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Closing ceremony",
+    "problem_url": "https://codeforces.com/contest/720/problem/A",
+    "submission_id": "CF263001270",
+    "submission_url": "https://codeforces.com/contest/720/submission/263001270",
+    "tags": [
+      "greedy",
+      "*2000"
+    ],
+    "timestamp": "May/28/2024 17:19"
+  },
   "CF263001440": {
     "contest_id": 429,
     "language": "C++20 (GCC 13-64)",
