@@ -59861,6 +59861,22 @@
     ],
     "timestamp": "May/28/2024 06:21"
   },
+  "CF262942422": {
+    "contest_id": 1970,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1970/C1.cpp",
+    "platform": "Codeforces",
+    "problem_index": "C1",
+    "problem_name": "Game on Tree (Easy)",
+    "problem_url": "https://codeforces.com/contest/1970/problem/C1",
+    "submission_id": "CF262942422",
+    "submission_url": "https://codeforces.com/contest/1970/submission/262942422",
+    "tags": [
+      "games",
+      "*1400"
+    ],
+    "timestamp": "May/28/2024 06:44"
+  },
   "CF262942426": {
     "contest_id": 1132,
     "language": "C++20 (GCC 13-64)",
