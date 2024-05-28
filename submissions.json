@@ -23393,6 +23393,22 @@
     ],
     "timestamp": "May/17/2024 08:26"
   },
+  "CF262940962": {
+    "contest_id": 280,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/280/A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Rectangle Puzzle",
+    "problem_url": "https://codeforces.com/contest/280/problem/A",
+    "submission_id": "CF262940962",
+    "submission_url": "https://codeforces.com/contest/280/submission/262940962",
+    "tags": [
+      "geometry",
+      "*2000"
+    ],
+    "timestamp": "May/28/2024 06:04"
+  },
   "CF262940968": {
     "contest_id": 1531,
     "language": "C++20 (GCC 13-64)",
