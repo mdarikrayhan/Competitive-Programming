@@ -23393,6 +23393,24 @@
     ],
     "timestamp": "May/17/2024 08:26"
   },
+  "CF263056782": {
+    "contest_id": 983,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/983/C.cpp",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Elevator",
+    "problem_url": "https://codeforces.com/contest/983/problem/C",
+    "submission_id": "CF263056782",
+    "submission_url": "https://codeforces.com/contest/983/submission/263056782",
+    "tags": [
+      "dp",
+      "graphs",
+      "shortest paths",
+      "*2400"
+    ],
+    "timestamp": "May/29/2024 01:07"
+  },
   "CF263056807": {
     "contest_id": 1788,
     "language": "C++20 (GCC 13-64)",
