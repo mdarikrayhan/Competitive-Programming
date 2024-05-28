@@ -23792,6 +23792,23 @@
     ],
     "timestamp": "May/28/2024 12:14"
   },
+  "CF262966144": {
+    "contest_id": 1146,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1146/F.cpp",
+    "platform": "Codeforces",
+    "problem_index": "F",
+    "problem_name": "Leaf Partition",
+    "problem_url": "https://codeforces.com/contest/1146/problem/F",
+    "submission_id": "CF262966144",
+    "submission_url": "https://codeforces.com/contest/1146/submission/262966144",
+    "tags": [
+      "dp",
+      "trees",
+      "*2500"
+    ],
+    "timestamp": "May/28/2024 12:16"
+  },
   "CF262966172": {
     "contest_id": 337,
     "language": "C++20 (GCC 13-64)",
