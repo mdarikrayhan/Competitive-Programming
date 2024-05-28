@@ -23393,6 +23393,23 @@
     ],
     "timestamp": "May/17/2024 08:26"
   },
+  "CF262941011": {
+    "contest_id": 524,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/524/B.cpp",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "\u0424\u043e\u0442\u043e \u043d\u0430 \u043f\u0430\u043c\u044f\u0442\u044c - 2 (round version)",
+    "problem_url": "https://codeforces.com/contest/524/problem/B",
+    "submission_id": "CF262941011",
+    "submission_url": "https://codeforces.com/contest/524/submission/262941011",
+    "tags": [
+      "dp",
+      "greedy",
+      "*1700"
+    ],
+    "timestamp": "May/28/2024 06:05"
+  },
   "CF262941073": {
     "contest_id": 1227,
     "language": "C++20 (GCC 13-64)",
