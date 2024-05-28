@@ -23393,6 +23393,22 @@
     ],
     "timestamp": "May/17/2024 08:26"
   },
+  "CF262941424": {
+    "contest_id": 739,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/739/C.cpp",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Alyona and towers",
+    "problem_url": "https://codeforces.com/contest/739/problem/C",
+    "submission_id": "CF262941424",
+    "submission_url": "https://codeforces.com/contest/739/submission/262941424",
+    "tags": [
+      "data structures",
+      "*2500"
+    ],
+    "timestamp": "May/28/2024 06:18"
+  },
   "CF262941431": {
     "contest_id": 126,
     "language": "C++20 (GCC 13-64)",
