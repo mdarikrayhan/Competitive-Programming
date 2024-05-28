@@ -59861,6 +59861,23 @@
     ],
     "timestamp": "May/28/2024 06:21"
   },
+  "CF262942368": {
+    "contest_id": 543,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/543/C.cpp",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Remembering Strings",
+    "problem_url": "https://codeforces.com/contest/543/problem/C",
+    "submission_id": "CF262942368",
+    "submission_url": "https://codeforces.com/contest/543/submission/262942368",
+    "tags": [
+      "bitmasks",
+      "dp",
+      "*2500"
+    ],
+    "timestamp": "May/28/2024 06:43"
+  },
   "CF262942370": {
     "contest_id": 676,
     "language": "C++20 (GCC 13-64)",
