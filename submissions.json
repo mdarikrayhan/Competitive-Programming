@@ -82208,6 +82208,23 @@
     ],
     "timestamp": "May/28/2024 15:30"
   },
+  "CF262989088": {
+    "contest_id": 39,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/39/E.cpp",
+    "platform": "Codeforces",
+    "problem_index": "E",
+    "problem_name": "What Has Dirichlet Got to Do with That?",
+    "problem_url": "https://codeforces.com/contest/39/problem/E",
+    "submission_id": "CF262989088",
+    "submission_url": "https://codeforces.com/contest/39/submission/262989088",
+    "tags": [
+      "dp",
+      "games",
+      "*2000"
+    ],
+    "timestamp": "May/28/2024 15:34"
+  },
   "CF262989182": {
     "contest_id": 1354,
     "language": "C++20 (GCC 13-64)",
