@@ -23393,6 +23393,26 @@
     ],
     "timestamp": "May/17/2024 08:26"
   },
+  "CF263063943": {
+    "contest_id": 1770,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1770/F.cpp",
+    "platform": "Codeforces",
+    "problem_index": "F",
+    "problem_name": "Koxia and Sequence",
+    "problem_url": "https://codeforces.com/contest/1770/problem/F",
+    "submission_id": "CF263063943",
+    "submission_url": "https://codeforces.com/contest/1770/submission/263063943",
+    "tags": [
+      "bitmasks",
+      "combinatorics",
+      "dp",
+      "math",
+      "number theory",
+      "*3100"
+    ],
+    "timestamp": "May/29/2024 02:46"
+  },
   "CF263063959": {
     "contest_id": 1076,
     "language": "C++20 (GCC 13-64)",
