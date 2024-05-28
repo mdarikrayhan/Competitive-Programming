@@ -23393,6 +23393,22 @@
     ],
     "timestamp": "May/17/2024 08:26"
   },
+  "CF262946069": {
+    "contest_id": 926,
+    "language": "Delphi",
+    "path": "codeforces/926/C.dpr",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Is This a Zebra?",
+    "problem_url": "https://codeforces.com/contest/926/problem/C",
+    "submission_id": "CF262946069",
+    "submission_url": "https://codeforces.com/contest/926/submission/262946069",
+    "tags": [
+      "implementation",
+      "*1700"
+    ],
+    "timestamp": "May/28/2024 08:05"
+  },
   "CF262946109": {
     "contest_id": 342,
     "language": "C++20 (GCC 13-64)",
