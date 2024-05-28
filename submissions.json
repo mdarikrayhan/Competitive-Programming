@@ -67500,6 +67500,24 @@
     ],
     "timestamp": "May/29/2024 02:04"
   },
+  "CF263061993": {
+    "contest_id": 1354,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1354/G.cpp",
+    "platform": "Codeforces",
+    "problem_index": "G",
+    "problem_name": "Find a Gift",
+    "problem_url": "https://codeforces.com/contest/1354/problem/G",
+    "submission_id": "CF263061993",
+    "submission_url": "https://codeforces.com/contest/1354/submission/263061993",
+    "tags": [
+      "binary search",
+      "interactive",
+      "probabilities",
+      "*2600"
+    ],
+    "timestamp": "May/29/2024 02:15"
+  },
   "CF263061994": {
     "contest_id": 39,
     "language": "C++20 (GCC 13-64)",
