@@ -23393,6 +23393,25 @@
     ],
     "timestamp": "May/17/2024 08:26"
   },
+  "CF263071385": {
+    "contest_id": 1534,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1534/G.cpp",
+    "platform": "Codeforces",
+    "problem_index": "G",
+    "problem_name": "A New Beginning",
+    "problem_url": "https://codeforces.com/contest/1534/problem/G",
+    "submission_id": "CF263071385",
+    "submission_url": "https://codeforces.com/contest/1534/submission/263071385",
+    "tags": [
+      "data structures",
+      "dp",
+      "geometry",
+      "sortings",
+      "*3300"
+    ],
+    "timestamp": "May/29/2024 05:41"
+  },
   "CF263071393": {
     "contest_id": 175,
     "language": "C++20 (GCC 13-64)",
