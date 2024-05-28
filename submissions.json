@@ -23393,6 +23393,22 @@
     ],
     "timestamp": "May/17/2024 08:26"
   },
+  "CF262962034": {
+    "contest_id": 926,
+    "language": "C# 10",
+    "path": "codeforces/926/J.cs",
+    "platform": "Codeforces",
+    "problem_index": "J",
+    "problem_name": "Segments",
+    "problem_url": "https://codeforces.com/contest/926/problem/J",
+    "submission_id": "CF262962034",
+    "submission_url": "https://codeforces.com/contest/926/submission/262962034",
+    "tags": [
+      "data structures",
+      "*2100"
+    ],
+    "timestamp": "May/28/2024 11:37"
+  },
   "CF262962611": {
     "contest_id": 926,
     "language": "D",
