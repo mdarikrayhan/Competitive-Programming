@@ -56079,6 +56079,24 @@
     ],
     "timestamp": "May/28/2024 09:19"
   },
+  "CF262950658": {
+    "contest_id": 1065,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1065/F.cpp",
+    "platform": "Codeforces",
+    "problem_index": "F",
+    "problem_name": "Up and Down the Tree",
+    "problem_url": "https://codeforces.com/contest/1065/problem/F",
+    "submission_id": "CF262950658",
+    "submission_url": "https://codeforces.com/contest/1065/submission/262950658",
+    "tags": [
+      "dfs and similar",
+      "dp",
+      "trees",
+      "*2500"
+    ],
+    "timestamp": "May/28/2024 09:23"
+  },
   "CF262950690": {
     "contest_id": 627,
     "language": "C++20 (GCC 13-64)",
