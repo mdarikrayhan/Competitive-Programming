@@ -26298,6 +26298,22 @@
     ],
     "timestamp": "May/28/2024 12:41"
   },
+  "CF262979150": {
+    "contest_id": 1080,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1080/E.cpp",
+    "platform": "Codeforces",
+    "problem_index": "E",
+    "problem_name": "Sonya and Matrix Beauty",
+    "problem_url": "https://codeforces.com/contest/1080/problem/E",
+    "submission_id": "CF262979150",
+    "submission_url": "https://codeforces.com/contest/1080/submission/262979150",
+    "tags": [
+      "strings",
+      "*2400"
+    ],
+    "timestamp": "May/28/2024 14:10"
+  },
   "CF262979155": {
     "contest_id": 31,
     "language": "C++20 (GCC 13-64)",
