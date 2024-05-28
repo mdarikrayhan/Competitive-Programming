@@ -23393,6 +23393,24 @@
     ],
     "timestamp": "May/17/2024 08:26"
   },
+  "CF263063428": {
+    "contest_id": 625,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/625/D.cpp",
+    "platform": "Codeforces",
+    "problem_index": "D",
+    "problem_name": "Finals in arithmetic",
+    "problem_url": "https://codeforces.com/contest/625/problem/D",
+    "submission_id": "CF263063428",
+    "submission_url": "https://codeforces.com/contest/625/submission/263063428",
+    "tags": [
+      "constructive algorithms",
+      "implementation",
+      "math",
+      "*2400"
+    ],
+    "timestamp": "May/29/2024 02:38"
+  },
   "CF263063447": {
     "contest_id": 952,
     "language": "C++20 (GCC 13-64)",
