@@ -25822,6 +25822,25 @@
     ],
     "timestamp": "May/28/2024 15:59"
   },
+  "CF263055360": {
+    "contest_id": 1326,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1326/F1.cpp",
+    "platform": "Codeforces",
+    "problem_index": "F1",
+    "problem_name": "Wise Men (Easy Version)",
+    "problem_url": "https://codeforces.com/contest/1326/problem/F1",
+    "submission_id": "CF263055360",
+    "submission_url": "https://codeforces.com/contest/1326/submission/263055360",
+    "tags": [
+      "bitmasks",
+      "brute force",
+      "dp",
+      "meet-in-the-middle",
+      "*2600"
+    ],
+    "timestamp": "May/29/2024 00:51"
+  },
   "CF263055373": {
     "contest_id": 838,
     "language": "C++20 (GCC 13-64)",
