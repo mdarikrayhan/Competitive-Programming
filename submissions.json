@@ -27011,6 +27011,23 @@
     ],
     "timestamp": "May/28/2024 15:02"
   },
+  "CF262985401": {
+    "contest_id": 188,
+    "language": "Roco",
+    "path": "codeforces/188/F.roco",
+    "platform": "Codeforces",
+    "problem_index": "F",
+    "problem_name": "Binary Notation",
+    "problem_url": "https://codeforces.com/contest/188/problem/F",
+    "submission_id": "CF262985401",
+    "submission_url": "https://codeforces.com/contest/188/submission/262985401",
+    "tags": [
+      "*special problem",
+      "implementation",
+      "*1400"
+    ],
+    "timestamp": "May/28/2024 15:03"
+  },
   "CF262985430": {
     "contest_id": 188,
     "language": "Roco",
