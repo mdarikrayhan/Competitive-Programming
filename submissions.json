@@ -29631,6 +29631,25 @@
     ],
     "timestamp": "May/29/2024 03:14"
   },
+  "CF263067420": {
+    "contest_id": 1771,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1771/E.cpp",
+    "platform": "Codeforces",
+    "problem_index": "E",
+    "problem_name": "Hossam and a Letter",
+    "problem_url": "https://codeforces.com/contest/1771/problem/E",
+    "submission_id": "CF263067420",
+    "submission_url": "https://codeforces.com/contest/1771/submission/263067420",
+    "tags": [
+      "brute force",
+      "dp",
+      "implementation",
+      "two pointers",
+      "*2500"
+    ],
+    "timestamp": "May/29/2024 03:52"
+  },
   "CF263067437": {
     "contest_id": 1731,
     "language": "C++20 (GCC 13-64)",
