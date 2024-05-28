@@ -27110,6 +27110,22 @@
     ],
     "timestamp": "May/29/2024 01:24"
   },
+  "CF263058556": {
+    "contest_id": 407,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/407/E.cpp",
+    "platform": "Codeforces",
+    "problem_index": "E",
+    "problem_name": "k-d-sequence",
+    "problem_url": "https://codeforces.com/contest/407/problem/E",
+    "submission_id": "CF263058556",
+    "submission_url": "https://codeforces.com/contest/407/submission/263058556",
+    "tags": [
+      "data structures",
+      "*3100"
+    ],
+    "timestamp": "May/29/2024 01:28"
+  },
   "CF263058581": {
     "contest_id": 666,
     "language": "C++20 (GCC 13-64)",
