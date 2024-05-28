@@ -35174,6 +35174,22 @@
     ],
     "timestamp": "May/29/2024 03:55"
   },
+  "CF263068023": {
+    "contest_id": 878,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/878/D.cpp",
+    "platform": "Codeforces",
+    "problem_index": "D",
+    "problem_name": "Magic Breeding",
+    "problem_url": "https://codeforces.com/contest/878/problem/D",
+    "submission_id": "CF263068023",
+    "submission_url": "https://codeforces.com/contest/878/submission/263068023",
+    "tags": [
+      "bitmasks",
+      "*2900"
+    ],
+    "timestamp": "May/29/2024 04:06"
+  },
   "CF263068025": {
     "contest_id": 976,
     "language": "C++20 (GCC 13-64)",
