@@ -59861,6 +59861,24 @@
     ],
     "timestamp": "May/28/2024 06:21"
   },
+  "CF262945296": {
+    "contest_id": 135,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/135/C.cpp",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Zero-One",
+    "problem_url": "https://codeforces.com/contest/135/problem/C",
+    "submission_id": "CF262945296",
+    "submission_url": "https://codeforces.com/contest/135/submission/262945296",
+    "tags": [
+      "constructive algorithms",
+      "games",
+      "greedy",
+      "*1900"
+    ],
+    "timestamp": "May/28/2024 07:50"
+  },
   "CF262945400": {
     "contest_id": 1860,
     "language": "C++20 (GCC 13-64)",
