@@ -35174,6 +35174,26 @@
     ],
     "timestamp": "May/29/2024 03:55"
   },
+  "CF263067701": {
+    "contest_id": 1903,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1903/F.cpp",
+    "platform": "Codeforces",
+    "problem_index": "F",
+    "problem_name": "Babysitting",
+    "problem_url": "https://codeforces.com/contest/1903/problem/F",
+    "submission_id": "CF263067701",
+    "submission_url": "https://codeforces.com/contest/1903/submission/263067701",
+    "tags": [
+      "2-sat",
+      "binary search",
+      "data structures",
+      "graphs",
+      "trees",
+      "*2500"
+    ],
+    "timestamp": "May/29/2024 03:59"
+  },
   "CF263067726": {
     "contest_id": 986,
     "language": "C++20 (GCC 13-64)",
