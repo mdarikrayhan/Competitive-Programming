@@ -23393,6 +23393,22 @@
     ],
     "timestamp": "May/17/2024 08:26"
   },
+  "CF263064431": {
+    "contest_id": 884,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/884/E.cpp",
+    "platform": "Codeforces",
+    "problem_index": "E",
+    "problem_name": "Binary Matrix",
+    "problem_url": "https://codeforces.com/contest/884/problem/E",
+    "submission_id": "CF263064431",
+    "submission_url": "https://codeforces.com/contest/884/submission/263064431",
+    "tags": [
+      "dsu",
+      "*2500"
+    ],
+    "timestamp": "May/29/2024 02:55"
+  },
   "CF263064436": {
     "contest_id": 1067,
     "language": "C++20 (GCC 13-64)",
