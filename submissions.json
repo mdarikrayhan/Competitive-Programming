@@ -74789,6 +74789,26 @@
     ],
     "timestamp": "May/29/2024 02:04"
   },
+  "CF263061672": {
+    "contest_id": 837,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/837/F.cpp",
+    "platform": "Codeforces",
+    "problem_index": "F",
+    "problem_name": "Prefix Sums",
+    "problem_url": "https://codeforces.com/contest/837/problem/F",
+    "submission_id": "CF263061672",
+    "submission_url": "https://codeforces.com/contest/837/submission/263061672",
+    "tags": [
+      "binary search",
+      "brute force",
+      "combinatorics",
+      "math",
+      "matrices",
+      "*2400"
+    ],
+    "timestamp": "May/29/2024 02:10"
+  },
   "CF263061689": {
     "contest_id": 300,
     "language": "C++20 (GCC 13-64)",
