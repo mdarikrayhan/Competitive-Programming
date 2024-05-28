@@ -35174,6 +35174,24 @@
     ],
     "timestamp": "May/29/2024 03:55"
   },
+  "CF263068095": {
+    "contest_id": 852,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/852/F.cpp",
+    "platform": "Codeforces",
+    "problem_index": "F",
+    "problem_name": "Product transformation",
+    "problem_url": "https://codeforces.com/contest/852/problem/F",
+    "submission_id": "CF263068095",
+    "submission_url": "https://codeforces.com/contest/852/submission/263068095",
+    "tags": [
+      "combinatorics",
+      "math",
+      "number theory",
+      "*2200"
+    ],
+    "timestamp": "May/29/2024 04:08"
+  },
   "CF263068109": {
     "contest_id": 954,
     "language": "C++20 (GCC 13-64)",
