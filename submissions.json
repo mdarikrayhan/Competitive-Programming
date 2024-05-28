@@ -23393,6 +23393,22 @@
     ],
     "timestamp": "May/17/2024 08:26"
   },
+  "CF262967431": {
+    "contest_id": 411,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/411/C.cpp",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Kicker",
+    "problem_url": "https://codeforces.com/contest/411/problem/C",
+    "submission_id": "CF262967431",
+    "submission_url": "https://codeforces.com/contest/411/submission/262967431",
+    "tags": [
+      "implementation",
+      "*1700"
+    ],
+    "timestamp": "May/28/2024 12:28"
+  },
   "CF262967452": {
     "contest_id": 1790,
     "language": "C++20 (GCC 13-64)",
