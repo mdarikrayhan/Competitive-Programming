@@ -74789,6 +74789,24 @@
     ],
     "timestamp": "May/29/2024 02:04"
   },
+  "CF263061651": {
+    "contest_id": 435,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/435/D.cpp",
+    "platform": "Codeforces",
+    "problem_index": "D",
+    "problem_name": "Special Grid",
+    "problem_url": "https://codeforces.com/contest/435/problem/D",
+    "submission_id": "CF263061651",
+    "submission_url": "https://codeforces.com/contest/435/submission/263061651",
+    "tags": [
+      "brute force",
+      "dp",
+      "greedy",
+      "*2000"
+    ],
+    "timestamp": "May/29/2024 02:10"
+  },
   "CF263061672": {
     "contest_id": 837,
     "language": "C++20 (GCC 13-64)",
