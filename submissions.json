@@ -74789,6 +74789,22 @@
     ],
     "timestamp": "May/29/2024 02:04"
   },
+  "CF263061471": {
+    "contest_id": 47,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/47/C.cpp",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Crossword",
+    "problem_url": "https://codeforces.com/contest/47/problem/C",
+    "submission_id": "CF263061471",
+    "submission_url": "https://codeforces.com/contest/47/submission/263061471",
+    "tags": [
+      "implementation",
+      "*2000"
+    ],
+    "timestamp": "May/29/2024 02:07"
+  },
   "CF263061484": {
     "contest_id": 995,
     "language": "C++20 (GCC 13-64)",
