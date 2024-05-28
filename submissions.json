@@ -23393,6 +23393,23 @@
     ],
     "timestamp": "May/17/2024 08:26"
   },
+  "CF263056728": {
+    "contest_id": 509,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/509/D.cpp",
+    "platform": "Codeforces",
+    "problem_index": "D",
+    "problem_name": "Restoring Numbers",
+    "problem_url": "https://codeforces.com/contest/509/problem/D",
+    "submission_id": "CF263056728",
+    "submission_url": "https://codeforces.com/contest/509/submission/263056728",
+    "tags": [
+      "constructive algorithms",
+      "math",
+      "*2200"
+    ],
+    "timestamp": "May/29/2024 01:07"
+  },
   "CF263056751": {
     "contest_id": 1491,
     "language": "C++20 (GCC 13-64)",
