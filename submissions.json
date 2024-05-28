@@ -56079,6 +56079,24 @@
     ],
     "timestamp": "May/28/2024 09:19"
   },
+  "CF262950547": {
+    "contest_id": 1036,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1036/F.cpp",
+    "platform": "Codeforces",
+    "problem_index": "F",
+    "problem_name": "Relatively Prime Powers",
+    "problem_url": "https://codeforces.com/contest/1036/problem/F",
+    "submission_id": "CF262950547",
+    "submission_url": "https://codeforces.com/contest/1036/submission/262950547",
+    "tags": [
+      "combinatorics",
+      "math",
+      "number theory",
+      "*2400"
+    ],
+    "timestamp": "May/28/2024 09:22"
+  },
   "CF262950549": {
     "contest_id": 1689,
     "language": "C++20 (GCC 13-64)",
