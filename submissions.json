@@ -23393,6 +23393,23 @@
     ],
     "timestamp": "May/17/2024 08:26"
   },
+  "CF262946342": {
+    "contest_id": 1594,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1594/F.cpp",
+    "platform": "Codeforces",
+    "problem_index": "F",
+    "problem_name": "Ideal Farm",
+    "problem_url": "https://codeforces.com/contest/1594/problem/F",
+    "submission_id": "CF262946342",
+    "submission_url": "https://codeforces.com/contest/1594/submission/262946342",
+    "tags": [
+      "constructive algorithms",
+      "math",
+      "*2400"
+    ],
+    "timestamp": "May/28/2024 08:10"
+  },
   "CF262946363": {
     "contest_id": 590,
     "language": "C++20 (GCC 13-64)",
