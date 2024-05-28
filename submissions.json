@@ -70753,6 +70753,22 @@
     ],
     "timestamp": "May/28/2024 16:21"
   },
+  "CF262995805": {
+    "contest_id": 171,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/171/G.cpp",
+    "platform": "Codeforces",
+    "problem_index": "G",
+    "problem_name": "Mysterious numbers - 2",
+    "problem_url": "https://codeforces.com/contest/171/problem/G",
+    "submission_id": "CF262995805",
+    "submission_url": "https://codeforces.com/contest/171/submission/262995805",
+    "tags": [
+      "*special problem",
+      "*1600"
+    ],
+    "timestamp": "May/28/2024 16:34"
+  },
   "CF262995821": {
     "contest_id": 1920,
     "language": "C++20 (GCC 13-64)",
