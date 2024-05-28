@@ -27011,6 +27011,24 @@
     ],
     "timestamp": "May/28/2024 15:02"
   },
+  "CF262985454": {
+    "contest_id": 188,
+    "language": "Roco",
+    "path": "codeforces/188/H.roco",
+    "platform": "Codeforces",
+    "problem_index": "H",
+    "problem_name": "Stack",
+    "problem_url": "https://codeforces.com/contest/188/problem/H",
+    "submission_id": "CF262985454",
+    "submission_url": "https://codeforces.com/contest/188/submission/262985454",
+    "tags": [
+      "*special problem",
+      "expression parsing",
+      "implementation",
+      "*1800"
+    ],
+    "timestamp": "May/28/2024 15:03"
+  },
   "CF262985540": {
     "contest_id": 1571,
     "language": "Kotlin 1.7",
