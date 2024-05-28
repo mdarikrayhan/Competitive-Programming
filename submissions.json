@@ -23393,6 +23393,24 @@
     ],
     "timestamp": "May/17/2024 08:26"
   },
+  "CF263070242": {
+    "contest_id": 1070,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1070/I.cpp",
+    "platform": "Codeforces",
+    "problem_index": "I",
+    "problem_name": "Privatization of Roads in Berland",
+    "problem_url": "https://codeforces.com/contest/1070/problem/I",
+    "submission_id": "CF263070242",
+    "submission_url": "https://codeforces.com/contest/1070/submission/263070242",
+    "tags": [
+      "flows",
+      "graph matchings",
+      "graphs",
+      "*2400"
+    ],
+    "timestamp": "May/29/2024 05:07"
+  },
   "CF263071090": {
     "contest_id": 470,
     "language": "FALSE",
