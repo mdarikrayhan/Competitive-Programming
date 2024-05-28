@@ -25822,6 +25822,24 @@
     ],
     "timestamp": "May/28/2024 15:59"
   },
+  "CF263053702": {
+    "contest_id": 475,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/475/C.cpp",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Kamal-ol-molk's Painting",
+    "problem_url": "https://codeforces.com/contest/475/problem/C",
+    "submission_id": "CF263053702",
+    "submission_url": "https://codeforces.com/contest/475/submission/263053702",
+    "tags": [
+      "brute force",
+      "constructive algorithms",
+      "greedy",
+      "*2100"
+    ],
+    "timestamp": "May/29/2024 00:33"
+  },
   "CF263054384": {
     "contest_id": 993,
     "language": "C++20 (GCC 13-64)",
