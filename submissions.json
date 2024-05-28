@@ -74789,6 +74789,25 @@
     ],
     "timestamp": "May/29/2024 02:04"
   },
+  "CF263061611": {
+    "contest_id": 1844,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1844/F1.cpp",
+    "platform": "Codeforces",
+    "problem_index": "F1",
+    "problem_name": "Min Cost Permutation (Easy Version)",
+    "problem_url": "https://codeforces.com/contest/1844/problem/F1",
+    "submission_id": "CF263061611",
+    "submission_url": "https://codeforces.com/contest/1844/submission/263061611",
+    "tags": [
+      "brute force",
+      "constructive algorithms",
+      "greedy",
+      "math",
+      "*2600"
+    ],
+    "timestamp": "May/29/2024 02:09"
+  },
   "CF263061631": {
     "contest_id": 628,
     "language": "C++20 (GCC 13-64)",
