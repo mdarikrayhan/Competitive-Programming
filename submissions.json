@@ -23409,6 +23409,22 @@
     ],
     "timestamp": "May/28/2024 11:58"
   },
+  "CF262964279": {
+    "contest_id": 1170,
+    "language": "Kotlin 1.7",
+    "path": "codeforces/1170/I.kt",
+    "platform": "Codeforces",
+    "problem_index": "I",
+    "problem_name": "Good Subsets",
+    "problem_url": "https://codeforces.com/contest/1170/problem/I",
+    "submission_id": "CF262964279",
+    "submission_url": "https://codeforces.com/contest/1170/submission/262964279",
+    "tags": [
+      "*special problem",
+      "dp"
+    ],
+    "timestamp": "May/28/2024 11:59"
+  },
   "CF262964342": {
     "contest_id": 1170,
     "language": "Kotlin 1.7",
