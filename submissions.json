@@ -23996,6 +23996,23 @@
     ],
     "timestamp": "May/28/2024 08:13"
   },
+  "CF262948627": {
+    "contest_id": 1677,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1677/D.cpp",
+    "platform": "Codeforces",
+    "problem_index": "D",
+    "problem_name": "Tokitsukaze and Permutations",
+    "problem_url": "https://codeforces.com/contest/1677/problem/D",
+    "submission_id": "CF262948627",
+    "submission_url": "https://codeforces.com/contest/1677/submission/262948627",
+    "tags": [
+      "dp",
+      "math",
+      "*2500"
+    ],
+    "timestamp": "May/28/2024 08:51"
+  },
   "CF262948694": {
     "contest_id": 702,
     "language": "C++20 (GCC 13-64)",
