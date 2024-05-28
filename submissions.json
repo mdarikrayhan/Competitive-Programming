@@ -27110,6 +27110,24 @@
     ],
     "timestamp": "May/29/2024 01:24"
   },
+  "CF263058726": {
+    "contest_id": 638,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/638/D.cpp",
+    "platform": "Codeforces",
+    "problem_index": "D",
+    "problem_name": "Three-dimensional Turtle Super Computer ",
+    "problem_url": "https://codeforces.com/contest/638/problem/D",
+    "submission_id": "CF263058726",
+    "submission_url": "https://codeforces.com/contest/638/submission/263058726",
+    "tags": [
+      "brute force",
+      "dfs and similar",
+      "graphs",
+      "*1800"
+    ],
+    "timestamp": "May/29/2024 01:30"
+  },
   "CF263058823": {
     "contest_id": 1166,
     "language": "C++20 (GCC 13-64)",
