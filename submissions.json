@@ -23393,6 +23393,22 @@
     ],
     "timestamp": "May/17/2024 08:26"
   },
+  "CF263071866": {
+    "contest_id": 67,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/67/C.cpp",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Sequence of Balls",
+    "problem_url": "https://codeforces.com/contest/67/problem/C",
+    "submission_id": "CF263071866",
+    "submission_url": "https://codeforces.com/contest/67/submission/263071866",
+    "tags": [
+      "dp",
+      "*2600"
+    ],
+    "timestamp": "May/29/2024 05:54"
+  },
   "CF263071883": {
     "contest_id": 319,
     "language": "C++20 (GCC 13-64)",
