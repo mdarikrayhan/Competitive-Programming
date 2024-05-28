@@ -27839,6 +27839,23 @@
     ],
     "timestamp": "May/28/2024 15:59"
   },
+  "CF262994009": {
+    "contest_id": 523,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/523/B.cpp",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Mean Requests",
+    "problem_url": "https://codeforces.com/contest/523/problem/B",
+    "submission_id": "CF262994009",
+    "submission_url": "https://codeforces.com/contest/523/submission/262994009",
+    "tags": [
+      "*special problem",
+      "implementation",
+      "*1500"
+    ],
+    "timestamp": "May/28/2024 16:18"
+  },
   "CF262994065": {
     "contest_id": 103,
     "language": "C++20 (GCC 13-64)",
