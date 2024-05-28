@@ -25822,6 +25822,25 @@
     ],
     "timestamp": "May/28/2024 15:59"
   },
+  "CF262998207": {
+    "contest_id": 245,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/245/F.cpp",
+    "platform": "Codeforces",
+    "problem_index": "F",
+    "problem_name": "Log Stream Analysis",
+    "problem_url": "https://codeforces.com/contest/245/problem/F",
+    "submission_id": "CF262998207",
+    "submission_url": "https://codeforces.com/contest/245/submission/262998207",
+    "tags": [
+      "binary search",
+      "brute force",
+      "implementation",
+      "strings",
+      "*2000"
+    ],
+    "timestamp": "May/28/2024 16:54"
+  },
   "CF262998550": {
     "contest_id": 846,
     "language": "C++20 (GCC 13-64)",
