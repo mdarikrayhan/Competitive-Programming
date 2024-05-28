@@ -27110,6 +27110,24 @@
     ],
     "timestamp": "May/29/2024 01:24"
   },
+  "CF263058609": {
+    "contest_id": 1740,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1740/F.cpp",
+    "platform": "Codeforces",
+    "problem_index": "F",
+    "problem_name": "Conditional Mix",
+    "problem_url": "https://codeforces.com/contest/1740/problem/F",
+    "submission_id": "CF263058609",
+    "submission_url": "https://codeforces.com/contest/1740/submission/263058609",
+    "tags": [
+      "combinatorics",
+      "dp",
+      "math",
+      "*2600"
+    ],
+    "timestamp": "May/29/2024 01:29"
+  },
   "CF263058684": {
     "contest_id": 1061,
     "language": "C++20 (GCC 13-64)",

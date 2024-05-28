@@ -1,11 +1,27 @@
 #include<bits/stdc++.h>
-typedef long long ll;
-enum{N=2013,mod=998244353};
-ll a[N],t[N],c[N],n,dp[N][N],r;
-int main(){
-    std::cin>>n;dp[0][0]=1;
-    for(int i=1,x;i<=n;i++)std::cin>>x,t[++c[x]]++;
-    for(int i=1;i<=n;i++)t[i]+=t[i-1];
-    for(int v=n;v;v--)for(int j=1;j*v<=n;j++)for(int k=v*j;k<=t[j];k++)(dp[j][k]+=dp[j-1][k-v])%=mod;
-    for(int i=1;i<=n;i++)(r+=dp[i][n])%=mod;std::cout<<r<<'\n';
+using namespace std;
+#define ll long long
+int n,a,cnt[2005],sum[2005];
+ll dp[2005][2005],sumdp[2005][2005],ans;
+const ll mod = 998244353;
+int main()
+{
+	scanf("%d",&n);
+	for(int i = 1;i <= n;i++)scanf("%d",&a),sum[++cnt[a]]++;
+	n++;
+	for(int i = 1;i <= n;i++)sum[i] += sum[i - 1];
+	for(int i = 0;i <= sum[1];i++)sumdp[i][i] = dp[i][i] = 1;
+	for(int i = 2;i <= n;i++)
+	{
+		for(int k = 1;k <= sum[i];k++)
+			for(int j = 0;j <= k / i;j++)
+				if(!j)dp[j][k] = sumdp[(k - j) / (i - 1)][k - j] % mod;
+				else dp[j][k] = (mod + sumdp[(k - j) / (i - 1)][k - j] - sumdp[j - 1][k - j]) % mod;
+		for(int k = 1;k <= sum[i];k++)
+			for(int j = 0;j <= k / i;j++)
+				if(!j)sumdp[j][k] = dp[j][k];
+				else sumdp[j][k] = (sumdp[j - 1][k] + dp[j][k]) % mod;
+	}
+	printf("%lld",dp[0][n - 1]);
 }
+				    		  	 	 			 	 	    			
