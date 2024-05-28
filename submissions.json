@@ -23393,6 +23393,26 @@
     ],
     "timestamp": "May/17/2024 08:26"
   },
+  "CF263062442": {
+    "contest_id": 1809,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1809/F.cpp",
+    "platform": "Codeforces",
+    "problem_index": "F",
+    "problem_name": "Traveling in Berland",
+    "problem_url": "https://codeforces.com/contest/1809/problem/F",
+    "submission_id": "CF263062442",
+    "submission_url": "https://codeforces.com/contest/1809/submission/263062442",
+    "tags": [
+      "binary search",
+      "data structures",
+      "graphs",
+      "greedy",
+      "implementation",
+      "*2500"
+    ],
+    "timestamp": "May/29/2024 02:22"
+  },
   "CF263062452": {
     "contest_id": 730,
     "language": "C++20 (GCC 13-64)",
