@@ -67931,6 +67931,25 @@
     ],
     "timestamp": "May/29/2024 02:24"
   },
+  "CF263062879": {
+    "contest_id": 209,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/209/C.cpp",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Trails and Glades",
+    "problem_url": "https://codeforces.com/contest/209/problem/C",
+    "submission_id": "CF263062879",
+    "submission_url": "https://codeforces.com/contest/209/submission/263062879",
+    "tags": [
+      "constructive algorithms",
+      "dsu",
+      "graphs",
+      "greedy",
+      "*2400"
+    ],
+    "timestamp": "May/29/2024 02:29"
+  },
   "CF263062886": {
     "contest_id": 1662,
     "language": "C++20 (GCC 13-64)",
