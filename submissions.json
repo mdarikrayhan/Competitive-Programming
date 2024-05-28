@@ -23393,6 +23393,22 @@
     ],
     "timestamp": "May/17/2024 08:26"
   },
+  "CF262986956": {
+    "contest_id": 119,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/119/C.cpp",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Education Reform",
+    "problem_url": "https://codeforces.com/contest/119/problem/C",
+    "submission_id": "CF262986956",
+    "submission_url": "https://codeforces.com/contest/119/submission/262986956",
+    "tags": [
+      "dp",
+      "*2000"
+    ],
+    "timestamp": "May/28/2024 15:16"
+  },
   "CF262986981": {
     "contest_id": 457,
     "language": "C++20 (GCC 13-64)",
