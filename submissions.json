@@ -23393,6 +23393,24 @@
     ],
     "timestamp": "May/17/2024 08:26"
   },
+  "CF262990565": {
+    "contest_id": 1422,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1422/F.cpp",
+    "platform": "Codeforces",
+    "problem_index": "F",
+    "problem_name": "Boring Queries",
+    "problem_url": "https://codeforces.com/contest/1422/problem/F",
+    "submission_id": "CF262990565",
+    "submission_url": "https://codeforces.com/contest/1422/submission/262990565",
+    "tags": [
+      "data structures",
+      "math",
+      "number theory",
+      "*2700"
+    ],
+    "timestamp": "May/28/2024 15:48"
+  },
   "CF262990715": {
     "contest_id": 811,
     "language": "C++20 (GCC 13-64)",
