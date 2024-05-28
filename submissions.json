@@ -25949,6 +25949,26 @@
     ],
     "timestamp": "May/29/2024 00:43"
   },
+  "CF263054847": {
+    "contest_id": 325,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/325/E.cpp",
+    "platform": "Codeforces",
+    "problem_index": "E",
+    "problem_name": "The Red Button",
+    "problem_url": "https://codeforces.com/contest/325/problem/E",
+    "submission_id": "CF263054847",
+    "submission_url": "https://codeforces.com/contest/325/submission/263054847",
+    "tags": [
+      "combinatorics",
+      "dfs and similar",
+      "dsu",
+      "graphs",
+      "greedy",
+      "*2800"
+    ],
+    "timestamp": "May/29/2024 00:45"
+  },
   "CF263054896": {
     "contest_id": 413,
     "language": "C++20 (GCC 13-64)",
