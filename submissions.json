@@ -23393,6 +23393,30 @@
     ],
     "timestamp": "May/17/2024 08:26"
   },
+  "CF262946259": {
+    "contest_id": 1761,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1761/E.cpp",
+    "platform": "Codeforces",
+    "problem_index": "E",
+    "problem_name": "Make It Connected",
+    "problem_url": "https://codeforces.com/contest/1761/problem/E",
+    "submission_id": "CF262946259",
+    "submission_url": "https://codeforces.com/contest/1761/submission/262946259",
+    "tags": [
+      "binary search",
+      "brute force",
+      "constructive algorithms",
+      "dsu",
+      "graphs",
+      "greedy",
+      "matrices",
+      "trees",
+      "two pointers",
+      "*2400"
+    ],
+    "timestamp": "May/28/2024 08:09"
+  },
   "CF262946275": {
     "contest_id": 1505,
     "language": "C++20 (GCC 13-64)",
