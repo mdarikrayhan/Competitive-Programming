@@ -23393,6 +23393,23 @@
     ],
     "timestamp": "May/17/2024 08:26"
   },
+  "CF263062589": {
+    "contest_id": 126,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/126/C.cpp",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "E-reader Display",
+    "problem_url": "https://codeforces.com/contest/126/problem/C",
+    "submission_id": "CF263062589",
+    "submission_url": "https://codeforces.com/contest/126/submission/263062589",
+    "tags": [
+      "constructive algorithms",
+      "greedy",
+      "*2000"
+    ],
+    "timestamp": "May/29/2024 02:24"
+  },
   "CF263062886": {
     "contest_id": 1662,
     "language": "C++20 (GCC 13-64)",
