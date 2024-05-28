@@ -23393,6 +23393,24 @@
     ],
     "timestamp": "May/17/2024 08:26"
   },
+  "CF262979739": {
+    "contest_id": 859,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/859/D.cpp",
+    "platform": "Codeforces",
+    "problem_index": "D",
+    "problem_name": "Third Month Insanity",
+    "problem_url": "https://codeforces.com/contest/859/problem/D",
+    "submission_id": "CF262979739",
+    "submission_url": "https://codeforces.com/contest/859/submission/262979739",
+    "tags": [
+      "dp",
+      "probabilities",
+      "trees",
+      "*2100"
+    ],
+    "timestamp": "May/28/2024 14:14"
+  },
   "CF262979768": {
     "contest_id": 1930,
     "language": "C++20 (GCC 13-64)",
