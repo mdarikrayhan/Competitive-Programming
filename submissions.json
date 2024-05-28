@@ -56079,6 +56079,22 @@
     ],
     "timestamp": "May/28/2024 09:19"
   },
+  "CF262954150": {
+    "contest_id": 457,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/457/B.cpp",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Distributed Join",
+    "problem_url": "https://codeforces.com/contest/457/problem/B",
+    "submission_id": "CF262954150",
+    "submission_url": "https://codeforces.com/contest/457/submission/262954150",
+    "tags": [
+      "greedy",
+      "*1900"
+    ],
+    "timestamp": "May/28/2024 10:15"
+  },
   "CF262954220": {
     "contest_id": 835,
     "language": "C++20 (GCC 13-64)",
