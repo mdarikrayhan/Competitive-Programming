@@ -59861,6 +59861,23 @@
     ],
     "timestamp": "May/28/2024 06:21"
   },
+  "CF262941768": {
+    "contest_id": 382,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/382/B.cpp",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Number Busters",
+    "problem_url": "https://codeforces.com/contest/382/problem/B",
+    "submission_id": "CF262941768",
+    "submission_url": "https://codeforces.com/contest/382/submission/262941768",
+    "tags": [
+      "binary search",
+      "math",
+      "*2000"
+    ],
+    "timestamp": "May/28/2024 06:28"
+  },
   "CF262941786": {
     "contest_id": 1096,
     "language": "C++20 (GCC 13-64)",
