@@ -23393,6 +23393,24 @@
     ],
     "timestamp": "May/17/2024 08:26"
   },
+  "CF262946285": {
+    "contest_id": 886,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/886/D.cpp",
+    "platform": "Codeforces",
+    "problem_index": "D",
+    "problem_name": "Restoration of string",
+    "problem_url": "https://codeforces.com/contest/886/problem/D",
+    "submission_id": "CF262946285",
+    "submission_url": "https://codeforces.com/contest/886/submission/262946285",
+    "tags": [
+      "constructive algorithms",
+      "graphs",
+      "implementation",
+      "*2000"
+    ],
+    "timestamp": "May/28/2024 08:09"
+  },
   "CF262946294": {
     "contest_id": 1943,
     "language": "C++20 (GCC 13-64)",
