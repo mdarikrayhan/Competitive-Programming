@@ -67500,6 +67500,25 @@
     ],
     "timestamp": "May/29/2024 02:04"
   },
+  "CF263061726": {
+    "contest_id": 1609,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1609/F.cpp",
+    "platform": "Codeforces",
+    "problem_index": "F",
+    "problem_name": "Interesting Sections",
+    "problem_url": "https://codeforces.com/contest/1609/problem/F",
+    "submission_id": "CF263061726",
+    "submission_url": "https://codeforces.com/contest/1609/submission/263061726",
+    "tags": [
+      "data structures",
+      "divide and conquer",
+      "meet-in-the-middle",
+      "two pointers",
+      "*2800"
+    ],
+    "timestamp": "May/29/2024 02:11"
+  },
   "CF263061729": {
     "contest_id": 679,
     "language": "C++20 (GCC 13-64)",
