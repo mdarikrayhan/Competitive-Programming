@@ -56079,6 +56079,24 @@
     ],
     "timestamp": "May/28/2024 09:19"
   },
+  "CF262950512": {
+    "contest_id": 498,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/498/B.cpp",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Name That Tune",
+    "problem_url": "https://codeforces.com/contest/498/problem/B",
+    "submission_id": "CF262950512",
+    "submission_url": "https://codeforces.com/contest/498/submission/262950512",
+    "tags": [
+      "dp",
+      "probabilities",
+      "two pointers",
+      "*2400"
+    ],
+    "timestamp": "May/28/2024 09:21"
+  },
   "CF262950536": {
     "contest_id": 171,
     "language": "C++20 (GCC 13-64)",
