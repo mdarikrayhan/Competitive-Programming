@@ -26298,6 +26298,22 @@
     ],
     "timestamp": "May/28/2024 12:41"
   },
+  "CF262978953": {
+    "contest_id": 138,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/138/B.cpp",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Digits Permutations",
+    "problem_url": "https://codeforces.com/contest/138/problem/B",
+    "submission_id": "CF262978953",
+    "submission_url": "https://codeforces.com/contest/138/submission/262978953",
+    "tags": [
+      "greedy",
+      "*1900"
+    ],
+    "timestamp": "May/28/2024 14:08"
+  },
   "CF262978974": {
     "contest_id": 835,
     "language": "C++20 (GCC 13-64)",
