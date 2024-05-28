@@ -74176,6 +74176,24 @@
     ],
     "timestamp": "May/29/2024 01:32"
   },
+  "CF263059175": {
+    "contest_id": 1866,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1866/I.cpp",
+    "platform": "Codeforces",
+    "problem_index": "I",
+    "problem_name": "Imagination Castle",
+    "problem_url": "https://codeforces.com/contest/1866/problem/I",
+    "submission_id": "CF263059175",
+    "submission_url": "https://codeforces.com/contest/1866/submission/263059175",
+    "tags": [
+      "dp",
+      "games",
+      "two pointers",
+      "*2300"
+    ],
+    "timestamp": "May/29/2024 01:36"
+  },
   "CF263059196": {
     "contest_id": 1421,
     "language": "C++20 (GCC 13-64)",
