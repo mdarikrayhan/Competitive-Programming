@@ -23996,6 +23996,24 @@
     ],
     "timestamp": "May/28/2024 08:13"
   },
+  "CF262948358": {
+    "contest_id": 1607,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1607/H.cpp",
+    "platform": "Codeforces",
+    "problem_index": "H",
+    "problem_name": "Banquet Preparations 2",
+    "problem_url": "https://codeforces.com/contest/1607/problem/H",
+    "submission_id": "CF262948358",
+    "submission_url": "https://codeforces.com/contest/1607/submission/262948358",
+    "tags": [
+      "greedy",
+      "sortings",
+      "two pointers",
+      "*2200"
+    ],
+    "timestamp": "May/28/2024 08:47"
+  },
   "CF262948382": {
     "contest_id": 168,
     "language": "C++20 (GCC 13-64)",
