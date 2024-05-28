@@ -29631,6 +29631,24 @@
     ],
     "timestamp": "May/29/2024 03:14"
   },
+  "CF263067527": {
+    "contest_id": 1218,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1218/I.cpp",
+    "platform": "Codeforces",
+    "problem_index": "I",
+    "problem_name": "The Light Square",
+    "problem_url": "https://codeforces.com/contest/1218/problem/I",
+    "submission_id": "CF263067527",
+    "submission_url": "https://codeforces.com/contest/1218/submission/263067527",
+    "tags": [
+      "2-sat",
+      "dfs and similar",
+      "greedy",
+      "*2100"
+    ],
+    "timestamp": "May/29/2024 03:55"
+  },
   "CF263068847": {
     "contest_id": 261,
     "language": "C++20 (GCC 13-64)",
