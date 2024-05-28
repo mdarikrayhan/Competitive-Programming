@@ -27337,6 +27337,23 @@
     ],
     "timestamp": "May/28/2024 15:22"
   },
+  "CF262987700": {
+    "contest_id": 509,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/509/F.cpp",
+    "platform": "Codeforces",
+    "problem_index": "F",
+    "problem_name": "Progress Monitoring",
+    "problem_url": "https://codeforces.com/contest/509/problem/F",
+    "submission_id": "CF262987700",
+    "submission_url": "https://codeforces.com/contest/509/submission/262987700",
+    "tags": [
+      "dp",
+      "trees",
+      "*2300"
+    ],
+    "timestamp": "May/28/2024 15:22"
+  },
   "CF262987892": {
     "contest_id": 91,
     "language": "C++20 (GCC 13-64)",
