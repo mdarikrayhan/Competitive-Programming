@@ -26105,6 +26105,23 @@
     ],
     "timestamp": "May/28/2024 12:34"
   },
+  "CF262968382": {
+    "contest_id": 360,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/360/C.cpp",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Levko and Strings",
+    "problem_url": "https://codeforces.com/contest/360/problem/C",
+    "submission_id": "CF262968382",
+    "submission_url": "https://codeforces.com/contest/360/submission/262968382",
+    "tags": [
+      "combinatorics",
+      "dp",
+      "*2500"
+    ],
+    "timestamp": "May/28/2024 12:37"
+  },
   "CF262968404": {
     "contest_id": 119,
     "language": "C++20 (GCC 13-64)",
