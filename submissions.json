@@ -23393,6 +23393,23 @@
     ],
     "timestamp": "May/17/2024 08:26"
   },
+  "CF263062417": {
+    "contest_id": 1185,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1185/G2.cpp",
+    "platform": "Codeforces",
+    "problem_index": "G2",
+    "problem_name": "Playlist for Polycarp (hard version)",
+    "problem_url": "https://codeforces.com/contest/1185/problem/G2",
+    "submission_id": "CF263062417",
+    "submission_url": "https://codeforces.com/contest/1185/submission/263062417",
+    "tags": [
+      "combinatorics",
+      "dp",
+      "*2600"
+    ],
+    "timestamp": "May/29/2024 02:21"
+  },
   "CF263062428": {
     "contest_id": 1163,
     "language": "C++20 (GCC 13-64)",
