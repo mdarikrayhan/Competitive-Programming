@@ -23393,6 +23393,24 @@
     ],
     "timestamp": "May/17/2024 08:26"
   },
+  "CF262946278": {
+    "contest_id": 293,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/293/E.cpp",
+    "platform": "Codeforces",
+    "problem_index": "E",
+    "problem_name": "Close Vertices",
+    "problem_url": "https://codeforces.com/contest/293/problem/E",
+    "submission_id": "CF262946278",
+    "submission_url": "https://codeforces.com/contest/293/submission/262946278",
+    "tags": [
+      "data structures",
+      "divide and conquer",
+      "trees",
+      "*2700"
+    ],
+    "timestamp": "May/28/2024 08:09"
+  },
   "CF262946285": {
     "contest_id": 886,
     "language": "C++20 (GCC 13-64)",
