@@ -1,91 +1,247 @@
 #include<bits/stdc++.h>
 using namespace std;
+typedef long long ll;
+typedef pair<int,int> pii;
+const int MAXN = 3e5 + 5;
+const int MAXL = MAXN * 2;
+const int LB = 19 + 2;
+const int inf = 0x3f3f3f3f;
 
-const int N=3e5+5,w=79,mod=998244353;
+namespace Fast
+{
+	const int SIZ = 1<<23;
+	char buf1[SIZ], *s1 = buf1, *t1 = buf1;
+	char buf2[SIZ], *s2 = buf2, *t2 = buf2;
+	inline char gc(void)
+	{
+		if (s1 == t1)
+		{
+			t1 = (s1 = buf1) + fread(buf1,1,SIZ,stdin);
+			if (s1 == t1) return EOF;
+		}
+		return *s1++;
+	}
+	void pc(char c)
+	{
+	    *t2++ = c;
+	    if (t2 - s2 == SIZ)
+	        fwrite(buf2, 1, SIZ, stdout), t2 = buf2;
+	}
+	void flush()
+	{
+		fwrite(buf2, 1, t2 - s2, stdout); 
+	}
+	inline int read(void)
+	{
+		int res=0;
+		char c=gc();
+		while(c<'0'||c>'9') c=gc();
+		while(c>='0'&&c<='9') res=res*10+c-'0', c=gc();
+		return res;
+	}
+	inline void write(int x)
+	{
+		if(x>=10) write(x / 10);
+		pc(x % 10 + '0');
+	}
+} using Fast::read; using Fast::write;
 
-int n,m,pw[N],ipw[N],fa[N],dep[N],siz[N],son[N],top[N],f1[N],f2[N],dfn[N],tot,idfn[N];
-char s[N];
-vector<int>g[N];
-
-int qpow(int x,int y){
-int res=1;
-for(;y;y>>=1,x=1ll*x*x%mod){
-if(y&1)res=1ll*res*x%mod;
-}
-return res;
-}
-
-void dfs1(int u){
-f1[u]=(f1[fa[u]]+1ll*pw[dep[u]-1]*(s[u]-'a')%mod)%mod;
-f2[u]=(1ll*w*f2[fa[u]]%mod+s[u]-'a')%mod;
-siz[u]=1;
-for(auto v:g[u]){
-if(v==fa[u])continue;
-fa[v]=u,dep[v]=dep[u]+1,dfs1(v);
-siz[u]+=siz[v];
-if(siz[v]>siz[son[u]])son[u]=v;
-}
+namespace Hash
+{
+	mt19937 rnd((unsigned long long)new char ^ time(0));
+	const int mod = 1e9 + 7;
+	const int base = (rnd()>>1) % (mod / 10) + (mod / 10);
+	
+	ll h[MAXL], pwb[MAXL];
+	void build(char s[],int n)
+	{
+		pwb[0] = 1;
+		for(int i=1; i<=n; ++i) pwb[i] = pwb[i-1] * base %mod;
+		for(int i=1; i<=n; ++i) h[i+1] = (h[i] * base + s[i]) %mod;
+	}
+	inline bool eq(int x,int y,int k)
+	{
+		int t = h[x+k] - h[y+k];
+		return (t<0? t+mod: t) == (h[x] - h[y] + mod) * pwb[k] %mod;
+	}
 }
 
-void dfs2(int u,int topf){
-top[u]=topf,dfn[u]=++tot,idfn[tot]=u;
-if(son[u])dfs2(son[u],topf);
-for(auto v:g[u]){
-if(v==fa[u]||v==son[u])continue;
-dfs2(v,v);
-}
-}
-
-int lca(int u,int v){
-while(top[u]!=top[v]){
-if(dep[top[u]]<dep[top[v]])swap(u,v);
-u=fa[top[u]];
-}
-return dep[u]<dep[v]?u:v;
+struct Edge
+{
+	int next,to;
+}e[MAXN<<1];
+int head[MAXN], etot=0;
+inline void add_edge(int u,int v)
+{
+	e[++etot] = (Edge){ head[u],v};
+	head[u] = etot;
 }
 
-int kfa(int u,int k){
-while(k&&dep[u]-dep[fa[top[u]]]<=k){
-k-=dep[u]-dep[fa[top[u]]],u=fa[top[u]];
-}
-return idfn[dfn[u]-k];
+int n;
+char s[MAXN];
+
+int anc[MAXN], dep[MAXN], siz[MAXN], son[MAXN], mxl[MAXN];
+void dfs_tree(int u,int fa)
+{
+	anc[u] = fa;
+	dep[u] = dep[fa] + 1;
+	siz[u] = 1; son[u] = -1;
+	mxl[u] = s[u] == s[fa]? mxl[fa] + 1: 1;
+	for(int i=head[u]; i; i=e[i].next)
+	{
+		int v = e[i].to;
+		if(v == fa) continue;
+		dfs_tree(v,u);
+		siz[u] += siz[v];
+		if(son[u] == -1 || siz[v] > siz[son[u]]) son[u] = v;
+	}
 }
 
-int hsh(int u,int v,int l,int len){
-if(len<=dep[u]-dep[l]+1){
-return 1ll*((f1[u]+mod-f1[kfa(u,len)])%mod)*ipw[dep[u]-len]%mod;
-}
-int res1=1ll*((f1[u]+mod-f1[fa[l]])%mod)*ipw[dep[l]-1]%mod;
-int res2=(f2[kfa(v,dep[v]-dep[l]-len+dep[u]-dep[l]+1)]+mod-1ll*pw[len-dep[u]+dep[l]-1]*f2[l]%mod)%mod;
-return(1ll*res1*pw[len-dep[u]+dep[l]-1]%mod+res2)%mod;
+char ss[MAXL];
+int dfn[MAXN], seq[MAXN], curdfn = 0, top[MAXN];
+void dfs_dfn(int u,int fa,int tp)
+{
+	top[u] = tp;
+	dfn[u] = ++curdfn; seq[curdfn] = u;
+	ss[curdfn] = ss[2*n-curdfn+1] = s[u];
+	if(son[u] != -1)
+	{
+		dfs_dfn(son[u], u, tp);
+		for(int i=head[u]; i; i=e[i].next)
+		{
+			int v = e[i].to;
+			if(v == fa || v == son[u]) continue;
+			dfs_dfn(v, u, v);
+		}
+	}
 }
 
-int main(){
-scanf("%d%s",&n,s+1);
-pw[0]=ipw[0]=1;
-for(int i=1;i<=n;i++){
-pw[i]=1ll*w*pw[i-1]%mod;
-ipw[i]=qpow(pw[i],mod-2);
+struct Seg
+{
+	int l,r;
+	Seg(void){}
+	Seg(int _l,int _r): l(_l), r(_r) {}
+};
+
+inline int lca(int u,int v)
+{
+	while(top[u] != top[v]) dep[top[u]] > dep[top[v]]? u = anc[top[u]]: v = anc[top[v]];
+	return dep[u] < dep[v]? u: v;
 }
-for(int i=1;i<n;i++){
-int u,v;
-scanf("%d%d",&u,&v);
-g[u].push_back(v);
-g[v].push_back(u);
+inline int dist(int u,int v)
+{
+	return dep[u] + dep[v] - 2 * dep[lca(u,v)];
 }
-dep[1]=1,dfs1(1),dfs2(1,1);
-scanf("%d",&m);
-while(m--){
-int a,b,c,d;
-scanf("%d%d%d%d",&a,&b,&c,&d);
-int l1=lca(a,b),l2=lca(c,d);
-int l=0,r=min(dep[a]+dep[b]-2*dep[l1],dep[c]+dep[d]-2*dep[l2])+1;
-while(l<r){
-int mid=(l+r+1)>>1;
-if(hsh(a,b,l1,mid)==hsh(c,d,l2,mid))l=mid;
-else r=mid-1;
+inline Seg* getseg(int u,int v,Seg* res,int &lcadep)
+{
+	static Seg res2[20];
+	int len2 = 0;
+	
+	int nn = 2 * n + 1;
+	int tu = top[u], tv = top[v];
+	while(top[u] != top[v])
+	{
+		if(dep[tu] > dep[tv])
+		{
+			*res++ = Seg(nn-dfn[u], nn-dfn[tu]);
+			u = anc[tu]; tu = top[u];
+		}
+		else
+		{
+			res2[++len2] = Seg(dfn[tv], dfn[v]);
+			v = anc[tv]; tv = top[v];
+		}
+	}
+	if(dep[u] < dep[v])
+		*res++ = Seg(dfn[u], dfn[v]);
+	else
+		*res++ = Seg(nn-dfn[u], nn-dfn[v]);
+	for(int i=len2; i>=1; --i)
+		*res++ = res2[i];
+	lcadep = min(dep[u], dep[v]);
+	return res;
 }
-printf("%d\n",l);
-}
-return 0;
+
+int main(void)
+{
+	n = read();
+	for(int i=1; i<=n; ++i) s[i] = Fast::gc();
+	for(int i=1; i<n; ++i)
+	{
+		int u = read(), v = read();
+		add_edge(u,v); add_edge(v, u);
+	}
+	
+	bool allsame = 1;
+	for(int i=1; i<=n; ++i)
+		if(s[i] != s[1])
+		{
+			allsame = 0;
+			break;
+		}
+	
+	dep[0] = -1;
+	dfs_tree(1,0);
+	dfs_dfn(1,0,1);
+	if(!allsame) Hash::build(ss, 2*n);
+	
+	int Q = read();
+	while(Q--)
+	{
+		int u1 = read(), v1 = read(), u2 = read(), v2 = read();
+		if(s[u1] != s[u2])
+		{
+			Fast::pc('0');
+			Fast::pc('\n');
+			continue;
+		}
+		if(allsame)
+		{
+			write(min(dist(u1, v1), dist(u2, v2)) + 1);
+			Fast::pc('\n');
+			continue;
+		}
+		
+		static Seg A[40], B[40];
+		int k1, k2;
+		int Alen = getseg(u1, v1, A, k1) - A, Blen = getseg(u2, v2, B, k2) - B;
+		
+		int skip = min({dep[u1] - k1 + 1, dep[u2] - k2 + 1, mxl[u1], mxl[u2]});
+		
+		int i = 0, ip = A[0].l;
+		int j = 0, jp = B[0].l;
+		int ans = 0;
+		while(i<Alen && j<Blen)
+		{
+			int step = min(A[i].r - ip + 1, B[j].r - jp + 1);
+			if(ans+step > skip && !Hash::eq(ip, jp, step))
+				break;
+			
+			ans += step;
+			ip += step; jp += step;
+			if(ip > A[i].r) ip = A[++i].l;
+			if(jp > B[j].r) jp = B[++j].l;
+		}
+		if(i<Alen && j<Blen)
+		{
+			int step = min(A[i].r - ip + 1, B[j].r - jp + 1);
+			int k = 1;
+			for(; k<=step && Hash::eq(ip, jp, k); k<<=1);
+			int l = k >> 1, r = min(step, k);
+			while(l<r)
+			{
+				int mid = (l+r+1)>>1;
+				if(Hash::eq(ip, jp, mid))
+					l = mid;
+				else
+					r = mid-1;
+			}
+			ans += l;
+		}
+		
+		write(ans);
+		Fast::pc('\n');
+	}
+	Fast::flush();
+	return 0;
 }
