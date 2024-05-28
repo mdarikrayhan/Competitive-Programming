@@ -26298,6 +26298,25 @@
     ],
     "timestamp": "May/28/2024 12:41"
   },
+  "CF262978565": {
+    "contest_id": 1932,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1932/G.cpp",
+    "platform": "Codeforces",
+    "problem_index": "G",
+    "problem_name": "Moving Platforms",
+    "problem_url": "https://codeforces.com/contest/1932/problem/G",
+    "submission_id": "CF262978565",
+    "submission_url": "https://codeforces.com/contest/1932/submission/262978565",
+    "tags": [
+      "graphs",
+      "math",
+      "number theory",
+      "shortest paths",
+      "*2300"
+    ],
+    "timestamp": "May/28/2024 14:05"
+  },
   "CF262978583": {
     "contest_id": 1735,
     "language": "C++20 (GCC 13-64)",
