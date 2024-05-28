@@ -23393,6 +23393,25 @@
     ],
     "timestamp": "May/17/2024 08:26"
   },
+  "CF263064165": {
+    "contest_id": 506,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/506/E.cpp",
+    "platform": "Codeforces",
+    "problem_index": "E",
+    "problem_name": "Mr. Kitayuta's Gift",
+    "problem_url": "https://codeforces.com/contest/506/problem/E",
+    "submission_id": "CF263064165",
+    "submission_url": "https://codeforces.com/contest/506/submission/263064165",
+    "tags": [
+      "combinatorics",
+      "dp",
+      "matrices",
+      "strings",
+      "*3000"
+    ],
+    "timestamp": "May/29/2024 02:50"
+  },
   "CF263064169": {
     "contest_id": 1070,
     "language": "C++20 (GCC 13-64)",
