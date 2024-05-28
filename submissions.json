@@ -79705,6 +79705,21 @@
     ],
     "timestamp": "May/28/2024 12:49"
   },
+  "CF262975803": {
+    "contest_id": 1533,
+    "language": "Kotlin 1.7",
+    "path": "codeforces/1533/J.kt",
+    "platform": "Codeforces",
+    "problem_index": "J",
+    "problem_name": "Pawns",
+    "problem_url": "https://codeforces.com/contest/1533/problem/J",
+    "submission_id": "CF262975803",
+    "submission_url": "https://codeforces.com/contest/1533/submission/262975803",
+    "tags": [
+      "*special problem"
+    ],
+    "timestamp": "May/28/2024 13:41"
+  },
   "CF262975878": {
     "contest_id": 1814,
     "language": "C++20 (GCC 13-64)",
