@@ -56079,6 +56079,27 @@
     ],
     "timestamp": "May/28/2024 09:19"
   },
+  "CF262951489": {
+    "contest_id": 901,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/901/C.cpp",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Bipartite Segments",
+    "problem_url": "https://codeforces.com/contest/901/problem/C",
+    "submission_id": "CF262951489",
+    "submission_url": "https://codeforces.com/contest/901/submission/262951489",
+    "tags": [
+      "binary search",
+      "data structures",
+      "dfs and similar",
+      "dsu",
+      "graphs",
+      "two pointers",
+      "*2300"
+    ],
+    "timestamp": "May/28/2024 09:36"
+  },
   "CF262951526": {
     "contest_id": 1334,
     "language": "C++20 (GCC 13-64)",
