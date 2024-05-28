@@ -73852,6 +73852,26 @@
     ],
     "timestamp": "May/29/2024 01:22"
   },
+  "CF263058089": {
+    "contest_id": 1693,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1693/D.cpp",
+    "platform": "Codeforces",
+    "problem_index": "D",
+    "problem_name": "Decinc Dividing",
+    "problem_url": "https://codeforces.com/contest/1693/problem/D",
+    "submission_id": "CF263058089",
+    "submission_url": "https://codeforces.com/contest/1693/submission/263058089",
+    "tags": [
+      "brute force",
+      "data structures",
+      "divide and conquer",
+      "dp",
+      "greedy",
+      "*2800"
+    ],
+    "timestamp": "May/29/2024 01:23"
+  },
   "CF263058109": {
     "contest_id": 704,
     "language": "C++20 (GCC 13-64)",
