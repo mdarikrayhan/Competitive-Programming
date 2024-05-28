@@ -26298,6 +26298,24 @@
     ],
     "timestamp": "May/28/2024 12:41"
   },
+  "CF262979404": {
+    "contest_id": 332,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/332/C.cpp",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Students' Revenge",
+    "problem_url": "https://codeforces.com/contest/332/problem/C",
+    "submission_id": "CF262979404",
+    "submission_url": "https://codeforces.com/contest/332/submission/262979404",
+    "tags": [
+      "data structures",
+      "greedy",
+      "sortings",
+      "*2200"
+    ],
+    "timestamp": "May/28/2024 14:12"
+  },
   "CF262979457": {
     "contest_id": 690,
     "language": "C++20 (GCC 13-64)",
