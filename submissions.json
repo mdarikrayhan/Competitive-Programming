@@ -23393,6 +23393,23 @@
     ],
     "timestamp": "May/17/2024 08:26"
   },
+  "CF262960207": {
+    "contest_id": 1812,
+    "language": "Mysterious Language",
+    "path": "codeforces/1812/J.txt",
+    "platform": "Codeforces",
+    "problem_index": "J",
+    "problem_name": "Unmysterious Language",
+    "problem_url": "https://codeforces.com/contest/1812/problem/J",
+    "submission_id": "CF262960207",
+    "submission_url": "https://codeforces.com/contest/1812/submission/262960207",
+    "tags": [
+      "*special problem",
+      "constructive algorithms",
+      "strings"
+    ],
+    "timestamp": "May/28/2024 11:17"
+  },
   "CF262960286": {
     "contest_id": 1812,
     "language": "C++20 (GCC 13-64)",
