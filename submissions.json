@@ -74176,6 +74176,24 @@
     ],
     "timestamp": "May/29/2024 01:32"
   },
+  "CF263059004": {
+    "contest_id": 920,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/920/D.cpp",
+    "platform": "Codeforces",
+    "problem_index": "D",
+    "problem_name": "Tanks",
+    "problem_url": "https://codeforces.com/contest/920/problem/D",
+    "submission_id": "CF263059004",
+    "submission_url": "https://codeforces.com/contest/920/submission/263059004",
+    "tags": [
+      "dp",
+      "greedy",
+      "implementation",
+      "*2400"
+    ],
+    "timestamp": "May/29/2024 01:34"
+  },
   "CF263059026": {
     "contest_id": 730,
     "language": "C++20 (GCC 13-64)",
