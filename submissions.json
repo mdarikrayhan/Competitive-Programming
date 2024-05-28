@@ -74582,6 +74582,27 @@
     ],
     "timestamp": "May/29/2024 01:58"
   },
+  "CF263060789": {
+    "contest_id": 1780,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1780/G.cpp",
+    "platform": "Codeforces",
+    "problem_index": "G",
+    "problem_name": "Delicious Dessert",
+    "problem_url": "https://codeforces.com/contest/1780/problem/G",
+    "submission_id": "CF263060789",
+    "submission_url": "https://codeforces.com/contest/1780/submission/263060789",
+    "tags": [
+      "binary search",
+      "dsu",
+      "hashing",
+      "math",
+      "number theory",
+      "string suffix structures",
+      "*2400"
+    ],
+    "timestamp": "May/29/2024 01:58"
+  },
   "CF263060820": {
     "contest_id": 1531,
     "language": "C++20 (GCC 13-64)",
