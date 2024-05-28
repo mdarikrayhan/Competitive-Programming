@@ -23393,6 +23393,25 @@
     ],
     "timestamp": "May/17/2024 08:26"
   },
+  "CF262941097": {
+    "contest_id": 723,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/723/F.cpp",
+    "platform": "Codeforces",
+    "problem_index": "F",
+    "problem_name": "st-Spanning Tree",
+    "problem_url": "https://codeforces.com/contest/723/problem/F",
+    "submission_id": "CF262941097",
+    "submission_url": "https://codeforces.com/contest/723/submission/262941097",
+    "tags": [
+      "dsu",
+      "graphs",
+      "greedy",
+      "implementation",
+      "*2300"
+    ],
+    "timestamp": "May/28/2024 06:07"
+  },
   "CF262941107": {
     "contest_id": 1145,
     "language": "C++20 (GCC 13-64)",
