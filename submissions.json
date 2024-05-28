@@ -23393,6 +23393,23 @@
     ],
     "timestamp": "May/17/2024 08:26"
   },
+  "CF262985300": {
+    "contest_id": 188,
+    "language": "Roco",
+    "path": "codeforces/188/B.roco",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "A + Reverse B",
+    "problem_url": "https://codeforces.com/contest/188/problem/B",
+    "submission_id": "CF262985300",
+    "submission_url": "https://codeforces.com/contest/188/submission/262985300",
+    "tags": [
+      "*special problem",
+      "implementation",
+      "*1300"
+    ],
+    "timestamp": "May/28/2024 15:02"
+  },
   "CF262985331": {
     "contest_id": 188,
     "language": "Roco",

@@ -1,0 +1,15 @@
+co R{
+	mod [3] [1] 10
+	div [1] [1] 10
+	mul [2] [2] 10
+	add [2] [2] [3]
+	if [1] ca R
+	ac
+}
+
+iin [0]
+iin [1]
+ca R
+add [0] [0] [2]
+iout [0]
+ac
