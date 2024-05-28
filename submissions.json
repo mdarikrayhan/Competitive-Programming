@@ -25822,6 +25822,24 @@
     ],
     "timestamp": "May/28/2024 15:59"
   },
+  "CF263055432": {
+    "contest_id": 1163,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1163/F.cpp",
+    "platform": "Codeforces",
+    "problem_index": "F",
+    "problem_name": "Indecisive Taxi Fee",
+    "problem_url": "https://codeforces.com/contest/1163/problem/F",
+    "submission_id": "CF263055432",
+    "submission_url": "https://codeforces.com/contest/1163/submission/263055432",
+    "tags": [
+      "data structures",
+      "graphs",
+      "shortest paths",
+      "*3000"
+    ],
+    "timestamp": "May/29/2024 00:52"
+  },
   "CF263055641": {
     "contest_id": 444,
     "language": "C++20 (GCC 13-64)",
