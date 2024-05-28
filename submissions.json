@@ -83307,6 +83307,25 @@
     ],
     "timestamp": "May/28/2024 16:21"
   },
+  "CF262995222": {
+    "contest_id": 958,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/958/E2.cpp",
+    "platform": "Codeforces",
+    "problem_index": "E2",
+    "problem_name": "Guard Duty (medium)",
+    "problem_url": "https://codeforces.com/contest/958/problem/E2",
+    "submission_id": "CF262995222",
+    "submission_url": "https://codeforces.com/contest/958/submission/262995222",
+    "tags": [
+      "binary search",
+      "dp",
+      "greedy",
+      "sortings",
+      "*2200"
+    ],
+    "timestamp": "May/28/2024 16:29"
+  },
   "CF262995239": {
     "contest_id": 142,
     "language": "C++20 (GCC 13-64)",
