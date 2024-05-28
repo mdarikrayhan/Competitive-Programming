@@ -82208,6 +82208,23 @@
     ],
     "timestamp": "May/28/2024 15:30"
   },
+  "CF262989670": {
+    "contest_id": 1635,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1635/F.cpp",
+    "platform": "Codeforces",
+    "problem_index": "F",
+    "problem_name": "Closest Pair ",
+    "problem_url": "https://codeforces.com/contest/1635/problem/F",
+    "submission_id": "CF262989670",
+    "submission_url": "https://codeforces.com/contest/1635/submission/262989670",
+    "tags": [
+      "data structures",
+      "greedy",
+      "*2800"
+    ],
+    "timestamp": "May/28/2024 15:40"
+  },
   "CF262989765": {
     "contest_id": 87,
     "language": "C++20 (GCC 13-64)",
