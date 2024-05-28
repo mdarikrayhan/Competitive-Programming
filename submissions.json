@@ -23393,6 +23393,22 @@
     ],
     "timestamp": "May/17/2024 08:26"
   },
+  "CF263059957": {
+    "contest_id": 162,
+    "language": "Factor",
+    "path": "codeforces/162/E.factor",
+    "platform": "Codeforces",
+    "problem_index": "E",
+    "problem_name": "HQ9+",
+    "problem_url": "https://codeforces.com/contest/162/problem/E",
+    "submission_id": "CF263059957",
+    "submission_url": "https://codeforces.com/contest/162/submission/263059957",
+    "tags": [
+      "*special problem",
+      "*1800"
+    ],
+    "timestamp": "May/29/2024 01:46"
+  },
   "CF263060106": {
     "contest_id": 162,
     "language": "Factor",
