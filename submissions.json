@@ -23393,6 +23393,24 @@
     ],
     "timestamp": "May/17/2024 08:26"
   },
+  "CF263064572": {
+    "contest_id": 1611,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1611/G.cpp",
+    "platform": "Codeforces",
+    "problem_index": "G",
+    "problem_name": "Robot and Candies",
+    "problem_url": "https://codeforces.com/contest/1611/problem/G",
+    "submission_id": "CF263064572",
+    "submission_url": "https://codeforces.com/contest/1611/submission/263064572",
+    "tags": [
+      "data structures",
+      "graph matchings",
+      "greedy",
+      "*2500"
+    ],
+    "timestamp": "May/29/2024 02:58"
+  },
   "CF263064598": {
     "contest_id": 1188,
     "language": "C++20 (GCC 13-64)",
