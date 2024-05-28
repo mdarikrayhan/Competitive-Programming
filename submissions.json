@@ -23996,6 +23996,25 @@
     ],
     "timestamp": "May/28/2024 08:13"
   },
+  "CF262950161": {
+    "contest_id": 1442,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1442/C.cpp",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Graph Transpositions",
+    "problem_url": "https://codeforces.com/contest/1442/problem/C",
+    "submission_id": "CF262950161",
+    "submission_url": "https://codeforces.com/contest/1442/submission/262950161",
+    "tags": [
+      "dfs and similar",
+      "graphs",
+      "greedy",
+      "shortest paths",
+      "*2400"
+    ],
+    "timestamp": "May/28/2024 09:16"
+  },
   "CF262950175": {
     "contest_id": 1175,
     "language": "C++20 (GCC 13-64)",
