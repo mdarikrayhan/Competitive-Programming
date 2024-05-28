@@ -23393,6 +23393,26 @@
     ],
     "timestamp": "May/17/2024 08:26"
   },
+  "CF262968582": {
+    "contest_id": 1194,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1194/F.cpp",
+    "platform": "Codeforces",
+    "problem_index": "F",
+    "problem_name": "Crossword Expert",
+    "problem_url": "https://codeforces.com/contest/1194/problem/F",
+    "submission_id": "CF262968582",
+    "submission_url": "https://codeforces.com/contest/1194/submission/262968582",
+    "tags": [
+      "combinatorics",
+      "dp",
+      "number theory",
+      "probabilities",
+      "two pointers",
+      "*2400"
+    ],
+    "timestamp": "May/28/2024 12:38"
+  },
   "CF262968761": {
     "contest_id": 1305,
     "language": "C++20 (GCC 13-64)",
