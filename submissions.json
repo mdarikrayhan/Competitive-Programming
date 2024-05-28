@@ -23393,6 +23393,22 @@
     ],
     "timestamp": "May/17/2024 08:26"
   },
+  "CF263064061": {
+    "contest_id": 61,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/61/C.cpp",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Capture Valerian",
+    "problem_url": "https://codeforces.com/contest/61/problem/C",
+    "submission_id": "CF263064061",
+    "submission_url": "https://codeforces.com/contest/61/submission/263064061",
+    "tags": [
+      "math",
+      "*2000"
+    ],
+    "timestamp": "May/29/2024 02:49"
+  },
   "CF263064063": {
     "contest_id": 578,
     "language": "C++20 (GCC 13-64)",
