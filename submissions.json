@@ -26298,6 +26298,23 @@
     ],
     "timestamp": "May/28/2024 12:41"
   },
+  "CF262979358": {
+    "contest_id": 1662,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1662/L.cpp",
+    "platform": "Codeforces",
+    "problem_index": "L",
+    "problem_name": "Il Derby della Madonnina",
+    "problem_url": "https://codeforces.com/contest/1662/problem/L",
+    "submission_id": "CF262979358",
+    "submission_url": "https://codeforces.com/contest/1662/submission/262979358",
+    "tags": [
+      "data structures",
+      "dp",
+      "math"
+    ],
+    "timestamp": "May/28/2024 14:11"
+  },
   "CF262979404": {
     "contest_id": 332,
     "language": "C++20 (GCC 13-64)",
