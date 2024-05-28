@@ -23409,6 +23409,22 @@
     ],
     "timestamp": "May/28/2024 11:58"
   },
+  "CF262964848": {
+    "contest_id": 1089,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1089/A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Alice the Fan",
+    "problem_url": "https://codeforces.com/contest/1089/problem/A",
+    "submission_id": "CF262964848",
+    "submission_url": "https://codeforces.com/contest/1089/submission/262964848",
+    "tags": [
+      "dp",
+      "*2200"
+    ],
+    "timestamp": "May/28/2024 12:05"
+  },
   "CF262964902": {
     "contest_id": 1364,
     "language": "C++20 (GCC 13-64)",
