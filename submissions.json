@@ -35174,6 +35174,23 @@
     ],
     "timestamp": "May/29/2024 03:55"
   },
+  "CF263068307": {
+    "contest_id": 44,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/44/J.cpp",
+    "platform": "Codeforces",
+    "problem_index": "J",
+    "problem_name": "Triminoes",
+    "problem_url": "https://codeforces.com/contest/44/problem/J",
+    "submission_id": "CF263068307",
+    "submission_url": "https://codeforces.com/contest/44/submission/263068307",
+    "tags": [
+      "constructive algorithms",
+      "greedy",
+      "*2000"
+    ],
+    "timestamp": "May/29/2024 04:12"
+  },
   "CF263068338": {
     "contest_id": 1045,
     "language": "C++20 (GCC 13-64)",
