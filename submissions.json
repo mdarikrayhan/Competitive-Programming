@@ -23393,6 +23393,23 @@
     ],
     "timestamp": "May/17/2024 08:26"
   },
+  "CF263062388": {
+    "contest_id": 1025,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1025/G.cpp",
+    "platform": "Codeforces",
+    "problem_index": "G",
+    "problem_name": "Company Acquisitions",
+    "problem_url": "https://codeforces.com/contest/1025/problem/G",
+    "submission_id": "CF263062388",
+    "submission_url": "https://codeforces.com/contest/1025/submission/263062388",
+    "tags": [
+      "constructive algorithms",
+      "math",
+      "*3200"
+    ],
+    "timestamp": "May/29/2024 02:21"
+  },
   "CF263062394": {
     "contest_id": 1312,
     "language": "C++20 (GCC 13-64)",
