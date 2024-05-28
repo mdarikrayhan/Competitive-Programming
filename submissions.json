@@ -23393,6 +23393,24 @@
     ],
     "timestamp": "May/17/2024 08:26"
   },
+  "CF262990715": {
+    "contest_id": 811,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/811/E.cpp",
+    "platform": "Codeforces",
+    "problem_index": "E",
+    "problem_name": "Vladik and Entertaining Flags",
+    "problem_url": "https://codeforces.com/contest/811/problem/E",
+    "submission_id": "CF262990715",
+    "submission_url": "https://codeforces.com/contest/811/submission/262990715",
+    "tags": [
+      "data structures",
+      "dsu",
+      "graphs",
+      "*2600"
+    ],
+    "timestamp": "May/28/2024 15:49"
+  },
   "CF262990758": {
     "contest_id": 1263,
     "language": "C++20 (GCC 13-64)",
