@@ -26298,6 +26298,23 @@
     ],
     "timestamp": "May/28/2024 12:41"
   },
+  "CF262978374": {
+    "contest_id": 878,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/878/B.cpp",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Teams Formation",
+    "problem_url": "https://codeforces.com/contest/878/problem/B",
+    "submission_id": "CF262978374",
+    "submission_url": "https://codeforces.com/contest/878/submission/262978374",
+    "tags": [
+      "data structures",
+      "implementation",
+      "*2300"
+    ],
+    "timestamp": "May/28/2024 14:04"
+  },
   "CF262978376": {
     "contest_id": 1184,
     "language": "C++20 (GCC 13-64)",
