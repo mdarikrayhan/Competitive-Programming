@@ -26298,6 +26298,23 @@
     ],
     "timestamp": "May/28/2024 12:41"
   },
+  "CF262979062": {
+    "contest_id": 1599,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1599/H.cpp",
+    "platform": "Codeforces",
+    "problem_index": "H",
+    "problem_name": "Hidden Fortress",
+    "problem_url": "https://codeforces.com/contest/1599/problem/H",
+    "submission_id": "CF262979062",
+    "submission_url": "https://codeforces.com/contest/1599/submission/262979062",
+    "tags": [
+      "interactive",
+      "math",
+      "*2100"
+    ],
+    "timestamp": "May/28/2024 14:09"
+  },
   "CF262979093": {
     "contest_id": 744,
     "language": "C++20 (GCC 13-64)",
