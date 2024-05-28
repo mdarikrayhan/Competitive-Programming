@@ -27374,6 +27374,22 @@
     ],
     "timestamp": "May/28/2024 15:26"
   },
+  "CF262988190": {
+    "contest_id": 234,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/234/E.cpp",
+    "platform": "Codeforces",
+    "problem_index": "E",
+    "problem_name": "Champions' League",
+    "problem_url": "https://codeforces.com/contest/234/problem/E",
+    "submission_id": "CF262988190",
+    "submission_url": "https://codeforces.com/contest/234/submission/262988190",
+    "tags": [
+      "implementation",
+      "*1600"
+    ],
+    "timestamp": "May/28/2024 15:26"
+  },
   "CF262988216": {
     "contest_id": 234,
     "language": "C++20 (GCC 13-64)",
