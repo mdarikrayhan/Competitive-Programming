@@ -56079,6 +56079,25 @@
     ],
     "timestamp": "May/28/2024 09:19"
   },
+  "CF262951526": {
+    "contest_id": 1334,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1334/F.cpp",
+    "platform": "Codeforces",
+    "problem_index": "F",
+    "problem_name": "Strange Function",
+    "problem_url": "https://codeforces.com/contest/1334/problem/F",
+    "submission_id": "CF262951526",
+    "submission_url": "https://codeforces.com/contest/1334/submission/262951526",
+    "tags": [
+      "binary search",
+      "data structures",
+      "dp",
+      "greedy",
+      "*2500"
+    ],
+    "timestamp": "May/28/2024 09:37"
+  },
   "CF262951536": {
     "contest_id": 662,
     "language": "C++20 (GCC 13-64)",
