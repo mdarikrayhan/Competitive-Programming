@@ -54625,6 +54625,25 @@
     ],
     "timestamp": "May/28/2024 08:13"
   },
+  "CF262947330": {
+    "contest_id": 1949,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1949/I.cpp",
+    "platform": "Codeforces",
+    "problem_index": "I",
+    "problem_name": "Disks",
+    "problem_url": "https://codeforces.com/contest/1949/problem/I",
+    "submission_id": "CF262947330",
+    "submission_url": "https://codeforces.com/contest/1949/submission/262947330",
+    "tags": [
+      "dfs and similar",
+      "geometry",
+      "graph matchings",
+      "graphs",
+      "*1800"
+    ],
+    "timestamp": "May/28/2024 08:29"
+  },
   "CF262947365": {
     "contest_id": 813,
     "language": "C++20 (GCC 13-64)",
