@@ -23393,6 +23393,23 @@
     ],
     "timestamp": "May/17/2024 08:26"
   },
+  "CF263072025": {
+    "contest_id": 1906,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1906/H.cpp",
+    "platform": "Codeforces",
+    "problem_index": "H",
+    "problem_name": "Twin Friends",
+    "problem_url": "https://codeforces.com/contest/1906/problem/H",
+    "submission_id": "CF263072025",
+    "submission_url": "https://codeforces.com/contest/1906/submission/263072025",
+    "tags": [
+      "combinatorics",
+      "dp",
+      "*2200"
+    ],
+    "timestamp": "May/29/2024 05:59"
+  },
   "CF263072033": {
     "contest_id": 1267,
     "language": "C++20 (GCC 13-64)",
