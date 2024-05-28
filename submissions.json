@@ -27011,6 +27011,22 @@
     ],
     "timestamp": "May/28/2024 15:02"
   },
+  "CF262985876": {
+    "contest_id": 1571,
+    "language": "Kotlin 1.7",
+    "path": "codeforces/1571/J.kt",
+    "platform": "Codeforces",
+    "problem_index": "J",
+    "problem_name": "Two Railroads",
+    "problem_url": "https://codeforces.com/contest/1571/problem/J",
+    "submission_id": "CF262985876",
+    "submission_url": "https://codeforces.com/contest/1571/submission/262985876",
+    "tags": [
+      "*special problem",
+      "*3000"
+    ],
+    "timestamp": "May/28/2024 15:07"
+  },
   "CF262986008": {
     "contest_id": 661,
     "language": "J",
