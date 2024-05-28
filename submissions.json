@@ -23996,6 +23996,24 @@
     ],
     "timestamp": "May/28/2024 08:13"
   },
+  "CF262948043": {
+    "contest_id": 113,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/113/C.cpp",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Double Happiness",
+    "problem_url": "https://codeforces.com/contest/113/problem/C",
+    "submission_id": "CF262948043",
+    "submission_url": "https://codeforces.com/contest/113/submission/262948043",
+    "tags": [
+      "brute force",
+      "math",
+      "number theory",
+      "*2200"
+    ],
+    "timestamp": "May/28/2024 08:41"
+  },
   "CF262948078": {
     "contest_id": 258,
     "language": "C++20 (GCC 13-64)",
