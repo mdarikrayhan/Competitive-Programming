@@ -23393,6 +23393,24 @@
     ],
     "timestamp": "May/17/2024 08:26"
   },
+  "CF262965346": {
+    "contest_id": 757,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/757/F.cpp",
+    "platform": "Codeforces",
+    "problem_index": "F",
+    "problem_name": "Team Rocket Rises Again",
+    "problem_url": "https://codeforces.com/contest/757/problem/F",
+    "submission_id": "CF262965346",
+    "submission_url": "https://codeforces.com/contest/757/submission/262965346",
+    "tags": [
+      "data structures",
+      "graphs",
+      "shortest paths",
+      "*2800"
+    ],
+    "timestamp": "May/28/2024 12:09"
+  },
   "CF262965376": {
     "contest_id": 1733,
     "language": "C++20 (GCC 13-64)",
