@@ -23393,6 +23393,24 @@
     ],
     "timestamp": "May/17/2024 08:26"
   },
+  "CF263064104": {
+    "contest_id": 86,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/86/C.cpp",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Genetic engineering",
+    "problem_url": "https://codeforces.com/contest/86/problem/C",
+    "submission_id": "CF263064104",
+    "submission_url": "https://codeforces.com/contest/86/submission/263064104",
+    "tags": [
+      "dp",
+      "string suffix structures",
+      "trees",
+      "*2500"
+    ],
+    "timestamp": "May/29/2024 02:49"
+  },
   "CF263064113": {
     "contest_id": 101,
     "language": "C++20 (GCC 13-64)",
