@@ -54625,6 +54625,24 @@
     ],
     "timestamp": "May/28/2024 08:13"
   },
+  "CF262947305": {
+    "contest_id": 1583,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1583/F.cpp",
+    "platform": "Codeforces",
+    "problem_index": "F",
+    "problem_name": "Defender of Childhood Dreams",
+    "problem_url": "https://codeforces.com/contest/1583/problem/F",
+    "submission_id": "CF262947305",
+    "submission_url": "https://codeforces.com/contest/1583/submission/262947305",
+    "tags": [
+      "bitmasks",
+      "constructive algorithms",
+      "divide and conquer",
+      "*2500"
+    ],
+    "timestamp": "May/28/2024 08:28"
+  },
   "CF262947326": {
     "contest_id": 55,
     "language": "C++20 (GCC 13-64)",
