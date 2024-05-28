@@ -26188,6 +26188,25 @@
     ],
     "timestamp": "May/29/2024 00:51"
   },
+  "CF263055423": {
+    "contest_id": 1153,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1153/F.cpp",
+    "platform": "Codeforces",
+    "problem_index": "F",
+    "problem_name": "Serval and Bonus Problem",
+    "problem_url": "https://codeforces.com/contest/1153/problem/F",
+    "submission_id": "CF263055423",
+    "submission_url": "https://codeforces.com/contest/1153/submission/263055423",
+    "tags": [
+      "combinatorics",
+      "dp",
+      "math",
+      "probabilities",
+      "*2600"
+    ],
+    "timestamp": "May/29/2024 00:52"
+  },
   "CF263055432": {
     "contest_id": 1163,
     "language": "C++20 (GCC 13-64)",
