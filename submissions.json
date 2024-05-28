@@ -74176,6 +74176,24 @@
     ],
     "timestamp": "May/29/2024 01:32"
   },
+  "CF263059038": {
+    "contest_id": 794,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/794/D.cpp",
+    "platform": "Codeforces",
+    "problem_index": "D",
+    "problem_name": "Labelling Cities",
+    "problem_url": "https://codeforces.com/contest/794/problem/D",
+    "submission_id": "CF263059038",
+    "submission_url": "https://codeforces.com/contest/794/submission/263059038",
+    "tags": [
+      "dfs and similar",
+      "graphs",
+      "hashing",
+      "*2400"
+    ],
+    "timestamp": "May/29/2024 01:35"
+  },
   "CF263059124": {
     "contest_id": 843,
     "language": "C++20 (GCC 13-64)",
