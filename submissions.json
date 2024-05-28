@@ -23393,6 +23393,25 @@
     ],
     "timestamp": "May/17/2024 08:26"
   },
+  "CF263062223": {
+    "contest_id": 913,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/913/F.cpp",
+    "platform": "Codeforces",
+    "problem_index": "F",
+    "problem_name": "Strongly Connected Tournament",
+    "problem_url": "https://codeforces.com/contest/913/problem/F",
+    "submission_id": "CF263062223",
+    "submission_url": "https://codeforces.com/contest/913/submission/263062223",
+    "tags": [
+      "dp",
+      "graphs",
+      "math",
+      "probabilities",
+      "*2800"
+    ],
+    "timestamp": "May/29/2024 02:18"
+  },
   "CF263062239": {
     "contest_id": 1736,
     "language": "C++20 (GCC 13-64)",
