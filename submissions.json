@@ -23393,6 +23393,22 @@
     ],
     "timestamp": "May/17/2024 08:26"
   },
+  "CF263060151": {
+    "contest_id": 162,
+    "language": "Factor",
+    "path": "codeforces/162/H.factor",
+    "platform": "Codeforces",
+    "problem_index": "H",
+    "problem_name": "Alternating case",
+    "problem_url": "https://codeforces.com/contest/162/problem/H",
+    "submission_id": "CF263060151",
+    "submission_url": "https://codeforces.com/contest/162/submission/263060151",
+    "tags": [
+      "*special problem",
+      "*1800"
+    ],
+    "timestamp": "May/29/2024 01:49"
+  },
   "CF263060358": {
     "contest_id": 162,
     "language": "Factor",
