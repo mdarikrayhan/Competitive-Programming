@@ -1,61 +1,59 @@
+// LUOGU_RID: 160406924
 #include <bits/stdc++.h>
 
 using namespace std;
 
-int n, m;
-string s[2005];
-int d[4][2] = {{0, -1}, {0, 1}, {1, 0}, {-1, 0}};
-string t = "><^v";
-int mx, mx2;
-int cnt = 0;
+// #define int long long 
+constexpr int MAXL=2e3+10, MAXN=4e6+10;
+int n, m; char a[MAXL][MAXL]; int id[MAXL][MAXL], vtot;
+vector<int> g[MAXN];
+int deg[MAXN], dis[MAXN][2], cnt;
 
-void recalc(int cur)
-{
-	if (cur > mx)
-	{
-		mx2 = mx;
-		mx = cur;
-	}
-	else mx2 = max(mx2, cur);
+void add(int u, int v) {
+    // swap(u,v);
+    g[u].push_back(v); deg[v]++;
 }
 
-int dfs(int x, int y)
-{
-	//cout << x << " " << y << '\n';
-	cnt++;
-	
-	int ans = 0;
-	for (int i = 0; i < 4; i++)
-	{
-		int x2 = x + d[i][0], y2 = y + d[i][1];
-		if (x2 < 0 || y2 < 0 || x2 >= n || y2 >= m) continue;
-		if (s[x2][y2] != t[i]) continue;
-		
-		if (s[x][y] == '#') recalc(dfs(x2, y2));
-		else ans = max(ans, dfs(x2, y2));
-	}
-	
-	return ans + 1;
+void topo() {
+    queue<int> q;
+    for (int i=1; i<=vtot; ++i) if (!deg[i]) q.push(i);
+    while (q.size()) { 
+        ++cnt;
+        int u=q.front(); q.pop();
+        for (auto v: g[u]) {
+            if (dis[u][0]+1>=dis[v][0]) {
+                dis[v][1]=dis[v][0];
+                dis[v][0]=dis[u][0]+1;
+            }
+            else if (dis[u][0]+1>dis[v][1]) {
+                dis[v][1]=dis[u][0]+1;
+            }
+            if (!--deg[v]) q.push(v);
+        }
+    }
 }
 
-int main()
-{
-	cin >> n >> m;
-	
-	for (int i = 0; i < n; i++)
-		cin >> s[i];
-		
-	for (int i = 0; i < n; i++)
-		for (int j = 0; j < m; j++)
-			if (s[i][j] == '#') dfs(i, j);
-	
-	//cout << cnt << '\n';
-	if (cnt < n * m) 
-	{
-		cout << -1;
-		return 0;
-	}
-	
-	if (mx == mx2) cout << mx * 2;
-	else cout << mx * 2 - 1;
+signed main() {
+    ios::sync_with_stdio(false);
+    cin.tie(nullptr); cout.tie(nullptr);
+    cin>>n>>m;
+    for (int i=1; i<=n; ++i) for (int j=1; j<=m; ++j) cin>>a[i][j], id[i][j]=++vtot;
+    for (int i=1; i<=n; ++i) for (int j=1; j<=m; ++j) if (a[i][j]!='#') {
+        if (a[i][j]=='^') add(id[i][j],id[i-1][j]);
+        if (a[i][j]=='v') add(id[i][j],id[i+1][j]);
+        if (a[i][j]=='<') add(id[i][j],id[i][j-1]);
+        if (a[i][j]=='>') add(id[i][j],id[i][j+1]);
+    }
+    topo();
+    if (cnt!=vtot) return cout<<-1, 0;
+    vector<int> v;
+    for (int i=1; i<=n; ++i) for (int j=1; j<=m; ++j)
+        if(a[i][j]=='#') v.push_back(dis[id[i][j]][0]), v.push_back(dis[id[i][j]][1]);
+    sort(v.begin(),v.end()); reverse(v.begin(),v.end());
+    int ans=0;
+    if (v.size()==1) ans=v[0]*2-1;
+    else {
+        ans=max(v[0]+v[1],v[0]*2-1);
+    }
+    cout<<ans;
 }
