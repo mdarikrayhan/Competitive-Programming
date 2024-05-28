@@ -25822,6 +25822,24 @@
     ],
     "timestamp": "May/28/2024 15:59"
   },
+  "CF263055041": {
+    "contest_id": 727,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/727/F.cpp",
+    "platform": "Codeforces",
+    "problem_index": "F",
+    "problem_name": "Polycarp's problems",
+    "problem_url": "https://codeforces.com/contest/727/problem/F",
+    "submission_id": "CF263055041",
+    "submission_url": "https://codeforces.com/contest/727/submission/263055041",
+    "tags": [
+      "binary search",
+      "dp",
+      "greedy",
+      "*2300"
+    ],
+    "timestamp": "May/29/2024 00:48"
+  },
   "CF263055069": {
     "contest_id": 1500,
     "language": "C++20 (GCC 13-64)",
