@@ -27011,6 +27011,22 @@
     ],
     "timestamp": "May/28/2024 15:02"
   },
+  "CF262986008": {
+    "contest_id": 661,
+    "language": "J",
+    "path": "codeforces/661/A.ijs",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Lazy Caterer Sequence",
+    "problem_url": "https://codeforces.com/contest/661/problem/A",
+    "submission_id": "CF262986008",
+    "submission_url": "https://codeforces.com/contest/661/submission/262986008",
+    "tags": [
+      "*special problem",
+      "*1300"
+    ],
+    "timestamp": "May/28/2024 15:08"
+  },
   "CF262986046": {
     "contest_id": 661,
     "language": "J",
