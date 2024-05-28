@@ -59861,6 +59861,23 @@
     ],
     "timestamp": "May/28/2024 06:21"
   },
+  "CF262942619": {
+    "contest_id": 303,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/303/B.cpp",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Rectangle Puzzle II",
+    "problem_url": "https://codeforces.com/contest/303/problem/B",
+    "submission_id": "CF262942619",
+    "submission_url": "https://codeforces.com/contest/303/submission/262942619",
+    "tags": [
+      "implementation",
+      "math",
+      "*1700"
+    ],
+    "timestamp": "May/28/2024 06:49"
+  },
   "CF262942666": {
     "contest_id": 266,
     "language": "C++20 (GCC 13-64)",
