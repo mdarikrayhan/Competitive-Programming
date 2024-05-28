@@ -23393,6 +23393,24 @@
     ],
     "timestamp": "May/17/2024 08:26"
   },
+  "CF263057272": {
+    "contest_id": 1239,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1239/C.cpp",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Queue in the Train",
+    "problem_url": "https://codeforces.com/contest/1239/problem/C",
+    "submission_id": "CF263057272",
+    "submission_url": "https://codeforces.com/contest/1239/submission/263057272",
+    "tags": [
+      "data structures",
+      "greedy",
+      "implementation",
+      "*2300"
+    ],
+    "timestamp": "May/29/2024 01:13"
+  },
   "CF263057277": {
     "contest_id": 323,
     "language": "C++20 (GCC 13-64)",
