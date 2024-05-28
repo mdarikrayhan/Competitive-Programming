@@ -23393,6 +23393,24 @@
     ],
     "timestamp": "May/17/2024 08:26"
   },
+  "CF263058028": {
+    "contest_id": 620,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/620/F.cpp",
+    "platform": "Codeforces",
+    "problem_index": "F",
+    "problem_name": "Xors on Segments",
+    "problem_url": "https://codeforces.com/contest/620/problem/F",
+    "submission_id": "CF263058028",
+    "submission_url": "https://codeforces.com/contest/620/submission/263058028",
+    "tags": [
+      "data structures",
+      "strings",
+      "trees",
+      "*2800"
+    ],
+    "timestamp": "May/29/2024 01:22"
+  },
   "CF263058109": {
     "contest_id": 704,
     "language": "C++20 (GCC 13-64)",
