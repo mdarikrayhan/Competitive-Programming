@@ -23996,6 +23996,26 @@
     ],
     "timestamp": "May/28/2024 08:13"
   },
+  "CF262949259": {
+    "contest_id": 1712,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1712/E2.cpp",
+    "platform": "Codeforces",
+    "problem_index": "E2",
+    "problem_name": "LCM Sum (hard version)",
+    "problem_url": "https://codeforces.com/contest/1712/problem/E2",
+    "submission_id": "CF262949259",
+    "submission_url": "https://codeforces.com/contest/1712/submission/262949259",
+    "tags": [
+      "brute force",
+      "data structures",
+      "math",
+      "number theory",
+      "two pointers",
+      "*2500"
+    ],
+    "timestamp": "May/28/2024 09:01"
+  },
   "CF262949396": {
     "contest_id": 906,
     "language": "C++20 (GCC 13-64)",
