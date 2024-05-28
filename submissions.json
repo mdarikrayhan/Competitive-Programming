@@ -67500,6 +67500,22 @@
     ],
     "timestamp": "May/29/2024 02:04"
   },
+  "CF263061729": {
+    "contest_id": 679,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/679/E.cpp",
+    "platform": "Codeforces",
+    "problem_index": "E",
+    "problem_name": "Bear and Bad Powers of 42",
+    "problem_url": "https://codeforces.com/contest/679/problem/E",
+    "submission_id": "CF263061729",
+    "submission_url": "https://codeforces.com/contest/679/submission/263061729",
+    "tags": [
+      "data structures",
+      "*3100"
+    ],
+    "timestamp": "May/29/2024 02:11"
+  },
   "CF263061758": {
     "contest_id": 1720,
     "language": "C++20 (GCC 13-64)",
