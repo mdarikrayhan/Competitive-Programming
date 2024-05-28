@@ -26225,6 +26225,24 @@
     ],
     "timestamp": "May/29/2024 00:54"
   },
+  "CF263055735": {
+    "contest_id": 1516,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1516/E.cpp",
+    "platform": "Codeforces",
+    "problem_index": "E",
+    "problem_name": "Baby Ehab Plays with Permutations",
+    "problem_url": "https://codeforces.com/contest/1516/problem/E",
+    "submission_id": "CF263055735",
+    "submission_url": "https://codeforces.com/contest/1516/submission/263055735",
+    "tags": [
+      "combinatorics",
+      "dp",
+      "math",
+      "*2500"
+    ],
+    "timestamp": "May/29/2024 00:55"
+  },
   "CF263055748": {
     "contest_id": 1542,
     "language": "C++20 (GCC 13-64)",
