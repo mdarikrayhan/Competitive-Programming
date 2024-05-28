@@ -54625,6 +54625,22 @@
     ],
     "timestamp": "May/28/2024 08:13"
   },
+  "CF262947326": {
+    "contest_id": 55,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/55/C.cpp",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Pie or die",
+    "problem_url": "https://codeforces.com/contest/55/problem/C",
+    "submission_id": "CF262947326",
+    "submission_url": "https://codeforces.com/contest/55/submission/262947326",
+    "tags": [
+      "games",
+      "*1900"
+    ],
+    "timestamp": "May/28/2024 08:28"
+  },
   "CF262947330": {
     "contest_id": 1949,
     "language": "C++20 (GCC 13-64)",
