@@ -1,53 +1,114 @@
+// LUOGU_RID: 159878589
 #include<bits/stdc++.h>
+#define int long long
 using namespace std;
-typedef long long ll;
-typedef pair<int,int> pii;
-const int N = 2e5+4;
-const int N1 = 5e2+4;
+const int N=2e5+10;
+const int V=2e5;
 
-struct Sqrt{
-ll n,k,ans;
-ll a1[N],a2[N]; // a1 = 0,1 		a2 = x
-ll a3[N1],a4[N1],a5[N1],a6[N1]; // [a3 = #a1 = 1] [a4 = x] [a5 = sum] [a6 = sum^2]
+struct segtree{
+	struct node{
+		int f,w,lazy;
+	}tree[N*4];
+	
+	void pushup(int x){
+		tree[x].w=tree[x*2].w+tree[x*2+1].w;
+		tree[x].f=tree[x*2].f+tree[x*2+1].f;
+	}
+	
+	void pushtag(int x,int tag,int l,int r){
+		tree[x].f+=tag*tree[x].w;
+		tree[x].lazy+=tag;
+	}
+	
+	void pushdown(int x,int l,int r){
+		int tag=tree[x].lazy;
+		if(!tag) return; int mid=(l+r)>>1;
+		pushtag(x*2,tag,l,mid);
+		pushtag(x*2+1,tag,mid+1,r);
+		tree[x].lazy=0;
+	}
+	
+	void modifysum(int x,int l,int r,int pos,int val){
+		if(l==r&&l==pos){
+			tree[x].w+=val;
+			return;
+		}
+		if(pos<l||r<pos) return;
+		int mid=(l+r)>>1;
+		pushdown(x,l,r);
+		modifysum(x*2,l,mid,pos,val);
+		modifysum(x*2+1,mid+1,r,pos,val);
+		pushup(x);
+	}
+	
+	void modifyF(int x,int l,int r,int L,int R,int val){
+		if(l<=L&&R<=r){
+			pushtag(x,val,L,R);
+			return;
+		}
+		if(R<l||r<L) return;
+		int mid=(L+R)>>1;
+		pushdown(x,L,R);
+		modifyF(x*2,l,r,L,mid,val);
+		modifyF(x*2+1,l,r,mid+1,R,val);
+		pushup(x);
+	}
+	
+	int querysum(int x,int l,int r,int L,int R){
+		if(l<=L&&R<=r){
+			return tree[x].w;
+		}
+		if(R<l||r<L) return 0;
+		int mid=(L+R)>>1;
+		pushdown(x,L,R);
+		return querysum(x*2,l,r,L,mid)+querysum(x*2+1,l,r,mid+1,R);
+	}
+	
+	int queryF(int x,int l,int r,int L,int R){
+		if(l<=L&&R<=r){
+			return tree[x].f;
+		}
+		if(R<l||r<L) return 0;
+		int mid=(L+R)>>1;
+		pushdown(x,L,R);
+		return queryF(x*2,l,r,L,mid)+queryF(x*2+1,l,r,mid+1,R);
+	}
+}q;
 
-void build(int _n,int _k){ n = _n, k = _k;
+int vis[N];
 
+inline void fake_main(){
+	int n,d; cin>>n>>d; int ans=0;
+	for(int i=1;i<=n;i++){
+		int pos; cin>>pos;
+		if(!vis[pos]){
+			int t=q.queryF(1,pos-d,pos-1,1,V);
+			ans+=t; //cout<<t<<" ";
+			t=q.querysum(1,pos+1,pos+d,1,V);
+			if(t!=0) ans+=t*(t-1)/2; //cout<<t<<"\n";
+			q.modifysum(1,1,V,pos,1);
+			q.modifyF(1,pos-d,pos-1,1,V,1);
+			q.modifyF(1,pos,pos,1,V,t);
+			
+		}else{
+			int t=q.queryF(1,pos-d,pos-1,1,V);
+			int cnt=q.querysum(1,pos-d,pos-1,1,V);
+			ans-=t-cnt;
+			t=q.querysum(1,pos+1,pos+d,1,V);
+			if(t!=0) ans-=t*(t-1)/2; //cout<<"T "<<t<<"\n";
+			
+			q.modifyF(1,pos-d,pos-1,1,V,-1);
+			q.modifyF(1,pos,pos,1,V,-t);
+			q.modifysum(1,1,V,pos,-1);
+		}
+		//for(int j=1;j<=10;j++) cout<<q.queryF(1,j,j,1,V)<<" "; cout<<"\n";
+		vis[pos]^=1;
+		cout<<ans<<"\n";
+	}
 }
 
-void up(int l,int r,ll val){ int id = (l-1)/k;
-a1[l-1] += val, a3[id] += val, a5[id] += val*a2[l-1], a6[id] += val*a2[l-1]*a2[l-1];
-for (int i=l/k,il,ir; i<=r/k && l<=r; i++){ il = i*k, ir = min(n-1, il+k-1);
-if (l <= il && ir <= r) a4[i] += val;
-else{ a5[i] = a6[i] = 0;
-for (int j=max(l, il); j<=min(r, ir); j++) a2[j] += val;
-for (int j=il; j<=ir; j++) if (a1[j])
-a5[i] += a2[j], a6[i] += a2[j]*a2[j];
-}
-}
-ans = 0;
-for (int i=0; i<=(n-1)/k; i++)
-ans += a6[i] + (2*a4[i]-1)*a5[i] + (a4[i]*a4[i]-a4[i])*a3[i];
-cout << ans/2 << "\n";
-}
-
-} d1;
-
-int n,q,d;
-
-void go(){
-cin >> q >> d; n = 2e5; d1.build(n, 450);
-
-for (int x; q; q--){ cin >> x; x--;
-d1.up(x+1, min(n-1, x+d), d1.a1[x] ? -1 : 1);
-}
-}
-
-int main(){
-// ios_base::sync_with_stdio(0); cin.tie(0); cout.tie(0);
-
-int t=1;
-// cin >> t;
-for (int i=0; i<t; i++) go();
-
-return 0;
+signed main(){
+	ios::sync_with_stdio(false);
+	int t; t=1;
+	while(t--) fake_main();
 }
