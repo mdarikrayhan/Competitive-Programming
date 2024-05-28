@@ -25822,6 +25822,23 @@
     ],
     "timestamp": "May/28/2024 15:59"
   },
+  "CF263055373": {
+    "contest_id": 838,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/838/D.cpp",
+    "platform": "Codeforces",
+    "problem_index": "D",
+    "problem_name": "Airplane Arrangements",
+    "problem_url": "https://codeforces.com/contest/838/problem/D",
+    "submission_id": "CF263055373",
+    "submission_url": "https://codeforces.com/contest/838/submission/263055373",
+    "tags": [
+      "math",
+      "number theory",
+      "*2700"
+    ],
+    "timestamp": "May/29/2024 00:51"
+  },
   "CF263055432": {
     "contest_id": 1163,
     "language": "C++20 (GCC 13-64)",
