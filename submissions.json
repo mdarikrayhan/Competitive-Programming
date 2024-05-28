@@ -23996,6 +23996,26 @@
     ],
     "timestamp": "May/28/2024 08:13"
   },
+  "CF262948442": {
+    "contest_id": 1823,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1823/E.cpp",
+    "platform": "Codeforces",
+    "problem_index": "E",
+    "problem_name": "Removing Graph",
+    "problem_url": "https://codeforces.com/contest/1823/problem/E",
+    "submission_id": "CF262948442",
+    "submission_url": "https://codeforces.com/contest/1823/submission/262948442",
+    "tags": [
+      "brute force",
+      "dp",
+      "games",
+      "graphs",
+      "math",
+      "*2500"
+    ],
+    "timestamp": "May/28/2024 08:48"
+  },
   "CF262948473": {
     "contest_id": 609,
     "language": "C++20 (GCC 13-64)",
