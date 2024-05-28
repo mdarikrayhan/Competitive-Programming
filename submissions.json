@@ -23393,6 +23393,23 @@
     ],
     "timestamp": "May/17/2024 08:26"
   },
+  "CF263065029": {
+    "contest_id": 131,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/131/F.cpp",
+    "platform": "Codeforces",
+    "problem_index": "F",
+    "problem_name": "Present to Mom",
+    "problem_url": "https://codeforces.com/contest/131/problem/F",
+    "submission_id": "CF263065029",
+    "submission_url": "https://codeforces.com/contest/131/submission/263065029",
+    "tags": [
+      "binary search",
+      "two pointers",
+      "*2000"
+    ],
+    "timestamp": "May/29/2024 03:06"
+  },
   "CF263065039": {
     "contest_id": 1387,
     "language": "C++20 (GCC 13-64)",
