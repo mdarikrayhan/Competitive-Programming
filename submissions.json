@@ -29631,6 +29631,25 @@
     ],
     "timestamp": "May/29/2024 03:14"
   },
+  "CF263067254": {
+    "contest_id": 1158,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1158/D.cpp",
+    "platform": "Codeforces",
+    "problem_index": "D",
+    "problem_name": "Winding polygonal line",
+    "problem_url": "https://codeforces.com/contest/1158/problem/D",
+    "submission_id": "CF263067254",
+    "submission_url": "https://codeforces.com/contest/1158/submission/263067254",
+    "tags": [
+      "constructive algorithms",
+      "geometry",
+      "greedy",
+      "math",
+      "*2600"
+    ],
+    "timestamp": "May/29/2024 03:49"
+  },
   "CF263067268": {
     "contest_id": 8,
     "language": "C++20 (GCC 13-64)",
