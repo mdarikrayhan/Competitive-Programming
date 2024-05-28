@@ -23393,6 +23393,27 @@
     ],
     "timestamp": "May/17/2024 08:26"
   },
+  "CF262979836": {
+    "contest_id": 1656,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1656/F.cpp",
+    "platform": "Codeforces",
+    "problem_index": "F",
+    "problem_name": "Parametric MST",
+    "problem_url": "https://codeforces.com/contest/1656/problem/F",
+    "submission_id": "CF262979836",
+    "submission_url": "https://codeforces.com/contest/1656/submission/262979836",
+    "tags": [
+      "binary search",
+      "constructive algorithms",
+      "graphs",
+      "greedy",
+      "math",
+      "sortings",
+      "*2600"
+    ],
+    "timestamp": "May/28/2024 14:15"
+  },
   "CF262979921": {
     "contest_id": 329,
     "language": "C++20 (GCC 13-64)",
