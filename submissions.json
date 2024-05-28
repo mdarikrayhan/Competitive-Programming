@@ -23393,6 +23393,23 @@
     ],
     "timestamp": "May/17/2024 08:26"
   },
+  "CF262964091": {
+    "contest_id": 1170,
+    "language": "Kotlin 1.7",
+    "path": "codeforces/1170/C.kt",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Minus and Minus Give Plus",
+    "problem_url": "https://codeforces.com/contest/1170/problem/C",
+    "submission_id": "CF262964091",
+    "submission_url": "https://codeforces.com/contest/1170/submission/262964091",
+    "tags": [
+      "*special problem",
+      "implementation",
+      "strings"
+    ],
+    "timestamp": "May/28/2024 11:57"
+  },
   "CF262964149": {
     "contest_id": 1170,
     "language": "Kotlin 1.7",
