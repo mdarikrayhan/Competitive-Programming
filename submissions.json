@@ -27128,6 +27128,22 @@
     ],
     "timestamp": "May/29/2024 01:39"
   },
+  "CF263059517": {
+    "contest_id": 1145,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1145/C.cpp",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Mystery Circuit",
+    "problem_url": "https://codeforces.com/contest/1145/problem/C",
+    "submission_id": "CF263059517",
+    "submission_url": "https://codeforces.com/contest/1145/submission/263059517",
+    "tags": [
+      "bitmasks",
+      "brute force"
+    ],
+    "timestamp": "May/29/2024 01:41"
+  },
   "CF263059518": {
     "contest_id": 232,
     "language": "C++20 (GCC 13-64)",
