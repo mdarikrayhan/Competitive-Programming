@@ -26298,6 +26298,22 @@
     ],
     "timestamp": "May/28/2024 12:41"
   },
+  "CF262977958": {
+    "contest_id": 396,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/396/D.cpp",
+    "platform": "Codeforces",
+    "problem_index": "D",
+    "problem_name": "On Sum of Number of Inversions in Permutations",
+    "problem_url": "https://codeforces.com/contest/396/problem/D",
+    "submission_id": "CF262977958",
+    "submission_url": "https://codeforces.com/contest/396/submission/262977958",
+    "tags": [
+      "combinatorics",
+      "math"
+    ],
+    "timestamp": "May/28/2024 14:00"
+  },
   "CF262978011": {
     "contest_id": 396,
     "language": "C++20 (GCC 13-64)",
