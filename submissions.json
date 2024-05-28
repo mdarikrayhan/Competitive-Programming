@@ -23393,6 +23393,25 @@
     ],
     "timestamp": "May/17/2024 08:26"
   },
+  "CF263065169": {
+    "contest_id": 815,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/815/D.cpp",
+    "platform": "Codeforces",
+    "problem_index": "D",
+    "problem_name": "Karen and Cards",
+    "problem_url": "https://codeforces.com/contest/815/problem/D",
+    "submission_id": "CF263065169",
+    "submission_url": "https://codeforces.com/contest/815/submission/263065169",
+    "tags": [
+      "binary search",
+      "combinatorics",
+      "data structures",
+      "geometry",
+      "*2800"
+    ],
+    "timestamp": "May/29/2024 03:08"
+  },
   "CF263065283": {
     "contest_id": 13,
     "language": "C++20 (GCC 13-64)",
