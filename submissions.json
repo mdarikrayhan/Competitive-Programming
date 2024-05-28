@@ -23393,6 +23393,23 @@
     ],
     "timestamp": "May/17/2024 08:26"
   },
+  "CF262991652": {
+    "contest_id": 1784,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1784/D.cpp",
+    "platform": "Codeforces",
+    "problem_index": "D",
+    "problem_name": "Wooden Spoon",
+    "problem_url": "https://codeforces.com/contest/1784/problem/D",
+    "submission_id": "CF262991652",
+    "submission_url": "https://codeforces.com/contest/1784/submission/262991652",
+    "tags": [
+      "combinatorics",
+      "dp",
+      "*2400"
+    ],
+    "timestamp": "May/28/2024 15:57"
+  },
   "CF262991740": {
     "contest_id": 1805,
     "language": "C++20 (GCC 13-64)",
