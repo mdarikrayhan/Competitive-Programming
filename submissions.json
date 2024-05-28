@@ -35174,6 +35174,23 @@
     ],
     "timestamp": "May/29/2024 03:55"
   },
+  "CF263067821": {
+    "contest_id": 1906,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1906/J.cpp",
+    "platform": "Codeforces",
+    "problem_index": "J",
+    "problem_name": "Count BFS Graph",
+    "problem_url": "https://codeforces.com/contest/1906/problem/J",
+    "submission_id": "CF263067821",
+    "submission_url": "https://codeforces.com/contest/1906/submission/263067821",
+    "tags": [
+      "combinatorics",
+      "dp",
+      "*2100"
+    ],
+    "timestamp": "May/29/2024 04:01"
+  },
   "CF263067824": {
     "contest_id": 1765,
     "language": "C++20 (GCC 13-64)",
