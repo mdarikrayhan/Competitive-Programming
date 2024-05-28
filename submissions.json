@@ -26225,6 +26225,23 @@
     ],
     "timestamp": "May/29/2024 00:54"
   },
+  "CF263056075": {
+    "contest_id": 1614,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1614/E.cpp",
+    "platform": "Codeforces",
+    "problem_index": "E",
+    "problem_name": "Divan and a Cottage",
+    "problem_url": "https://codeforces.com/contest/1614/problem/E",
+    "submission_id": "CF263056075",
+    "submission_url": "https://codeforces.com/contest/1614/submission/263056075",
+    "tags": [
+      "binary search",
+      "data structures",
+      "*2600"
+    ],
+    "timestamp": "May/29/2024 00:59"
+  },
   "CF263056087": {
     "contest_id": 1453,
     "language": "C++20 (GCC 13-64)",
