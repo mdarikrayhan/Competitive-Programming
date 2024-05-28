@@ -23393,6 +23393,22 @@
     ],
     "timestamp": "May/17/2024 08:26"
   },
+  "CF262940919": {
+    "contest_id": 131,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/131/E.cpp",
+    "platform": "Codeforces",
+    "problem_index": "E",
+    "problem_name": "Yet Another Task with Queens",
+    "problem_url": "https://codeforces.com/contest/131/problem/E",
+    "submission_id": "CF262940919",
+    "submission_url": "https://codeforces.com/contest/131/submission/262940919",
+    "tags": [
+      "sortings",
+      "*1700"
+    ],
+    "timestamp": "May/28/2024 06:03"
+  },
   "CF262940930": {
     "contest_id": 89,
     "language": "C++20 (GCC 13-64)",
