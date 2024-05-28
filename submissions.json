@@ -23393,6 +23393,23 @@
     ],
     "timestamp": "May/17/2024 08:26"
   },
+  "CF263062476": {
+    "contest_id": 536,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/536/D.cpp",
+    "platform": "Codeforces",
+    "problem_index": "D",
+    "problem_name": "Tavas in Kansas",
+    "problem_url": "https://codeforces.com/contest/536/problem/D",
+    "submission_id": "CF263062476",
+    "submission_url": "https://codeforces.com/contest/536/submission/263062476",
+    "tags": [
+      "dp",
+      "games",
+      "*2900"
+    ],
+    "timestamp": "May/29/2024 02:22"
+  },
   "CF263062494": {
     "contest_id": 1821,
     "language": "C++20 (GCC 13-64)",
