@@ -23393,6 +23393,23 @@
     ],
     "timestamp": "May/17/2024 08:26"
   },
+  "CF262979951": {
+    "contest_id": 958,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/958/A2.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A2",
+    "problem_name": "Death Stars (medium)",
+    "problem_url": "https://codeforces.com/contest/958/problem/A2",
+    "submission_id": "CF262979951",
+    "submission_url": "https://codeforces.com/contest/958/submission/262979951",
+    "tags": [
+      "hashing",
+      "strings",
+      "*2000"
+    ],
+    "timestamp": "May/28/2024 14:16"
+  },
   "CF262980126": {
     "contest_id": 193,
     "language": "C++20 (GCC 13-64)",
