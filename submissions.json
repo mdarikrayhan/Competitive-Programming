@@ -23393,6 +23393,27 @@
     ],
     "timestamp": "May/17/2024 08:26"
   },
+  "CF263056487": {
+    "contest_id": 1616,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1616/H.cpp",
+    "platform": "Codeforces",
+    "problem_index": "H",
+    "problem_name": "Keep XOR Low",
+    "problem_url": "https://codeforces.com/contest/1616/problem/H",
+    "submission_id": "CF263056487",
+    "submission_url": "https://codeforces.com/contest/1616/submission/263056487",
+    "tags": [
+      "bitmasks",
+      "combinatorics",
+      "data structures",
+      "divide and conquer",
+      "dp",
+      "math",
+      "*3000"
+    ],
+    "timestamp": "May/29/2024 01:04"
+  },
   "CF263056547": {
     "contest_id": 1182,
     "language": "C++20 (GCC 13-64)",
