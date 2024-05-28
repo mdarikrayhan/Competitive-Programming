@@ -56079,6 +56079,22 @@
     ],
     "timestamp": "May/28/2024 09:19"
   },
+  "CF262950709": {
+    "contest_id": 590,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/590/D.cpp",
+    "platform": "Codeforces",
+    "problem_index": "D",
+    "problem_name": "Top Secret Task",
+    "problem_url": "https://codeforces.com/contest/590/problem/D",
+    "submission_id": "CF262950709",
+    "submission_url": "https://codeforces.com/contest/590/submission/262950709",
+    "tags": [
+      "dp",
+      "*2300"
+    ],
+    "timestamp": "May/28/2024 09:24"
+  },
   "CF262950770": {
     "contest_id": 1145,
     "language": "C++20 (GCC 13-64)",
