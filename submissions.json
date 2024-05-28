@@ -27374,6 +27374,25 @@
     ],
     "timestamp": "May/28/2024 15:26"
   },
+  "CF262988621": {
+    "contest_id": 1769,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1769/B2.cpp",
+    "platform": "Codeforces",
+    "problem_index": "B2",
+    "problem_name": "\u041a\u043e\u043f\u0438\u0440\u043e\u0432\u0430\u043d\u0438\u0435 \u0444\u0430\u0439\u043b\u043e\u0432 II",
+    "problem_url": "https://codeforces.com/contest/1769/problem/B2",
+    "submission_id": "CF262988621",
+    "submission_url": "https://codeforces.com/contest/1769/submission/262988621",
+    "tags": [
+      "*special problem",
+      "binary search",
+      "brute force",
+      "math",
+      "*1400"
+    ],
+    "timestamp": "May/28/2024 15:30"
+  },
   "CF262988652": {
     "contest_id": 555,
     "language": "C++20 (GCC 13-64)",
