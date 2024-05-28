@@ -23393,6 +23393,24 @@
     ],
     "timestamp": "May/17/2024 08:26"
   },
+  "CF262946170": {
+    "contest_id": 1662,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1662/O.cpp",
+    "platform": "Codeforces",
+    "problem_index": "O",
+    "problem_name": "Circular Maze",
+    "problem_url": "https://codeforces.com/contest/1662/problem/O",
+    "submission_id": "CF262946170",
+    "submission_url": "https://codeforces.com/contest/1662/submission/262946170",
+    "tags": [
+      "brute force",
+      "dfs and similar",
+      "graphs",
+      "implementation"
+    ],
+    "timestamp": "May/28/2024 08:07"
+  },
   "CF262946187": {
     "contest_id": 659,
     "language": "C++20 (GCC 13-64)",
