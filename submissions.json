@@ -70753,6 +70753,24 @@
     ],
     "timestamp": "May/28/2024 16:21"
   },
+  "CF262997502": {
+    "contest_id": 935,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/935/E.cpp",
+    "platform": "Codeforces",
+    "problem_index": "E",
+    "problem_name": "Fafa and Ancient Mathematics",
+    "problem_url": "https://codeforces.com/contest/935/problem/E",
+    "submission_id": "CF262997502",
+    "submission_url": "https://codeforces.com/contest/935/submission/262997502",
+    "tags": [
+      "dfs and similar",
+      "dp",
+      "trees",
+      "*2300"
+    ],
+    "timestamp": "May/28/2024 16:48"
+  },
   "CF262997835": {
     "contest_id": 778,
     "language": "C++20 (GCC 13-64)",
