@@ -27128,6 +27128,23 @@
     ],
     "timestamp": "May/29/2024 01:39"
   },
+  "CF263059452": {
+    "contest_id": 888,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/888/F.cpp",
+    "platform": "Codeforces",
+    "problem_index": "F",
+    "problem_name": "Connecting Vertices",
+    "problem_url": "https://codeforces.com/contest/888/problem/F",
+    "submission_id": "CF263059452",
+    "submission_url": "https://codeforces.com/contest/888/submission/263059452",
+    "tags": [
+      "dp",
+      "graphs",
+      "*2500"
+    ],
+    "timestamp": "May/29/2024 01:40"
+  },
   "CF263059517": {
     "contest_id": 1145,
     "language": "C++20 (GCC 13-64)",
