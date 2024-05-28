@@ -56079,6 +56079,24 @@
     ],
     "timestamp": "May/28/2024 09:19"
   },
+  "CF262954565": {
+    "contest_id": 936,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/936/C.cpp",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Lock Puzzle",
+    "problem_url": "https://codeforces.com/contest/936/problem/C",
+    "submission_id": "CF262954565",
+    "submission_url": "https://codeforces.com/contest/936/submission/262954565",
+    "tags": [
+      "constructive algorithms",
+      "implementation",
+      "strings",
+      "*2300"
+    ],
+    "timestamp": "May/28/2024 10:20"
+  },
   "CF262954582": {
     "contest_id": 1137,
     "language": "C++20 (GCC 13-64)",
