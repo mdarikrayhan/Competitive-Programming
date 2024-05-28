@@ -23996,6 +23996,26 @@
     ],
     "timestamp": "May/28/2024 08:13"
   },
+  "CF262959659": {
+    "contest_id": 1706,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1706/D1.cpp",
+    "platform": "Codeforces",
+    "problem_index": "D1",
+    "problem_name": "Chopping Carrots (Easy Version)",
+    "problem_url": "https://codeforces.com/contest/1706/problem/D1",
+    "submission_id": "CF262959659",
+    "submission_url": "https://codeforces.com/contest/1706/submission/262959659",
+    "tags": [
+      "binary search",
+      "brute force",
+      "constructive algorithms",
+      "greedy",
+      "number theory",
+      "*1700"
+    ],
+    "timestamp": "May/28/2024 11:12"
+  },
   "CF262959681": {
     "contest_id": 888,
     "language": "C++20 (GCC 13-64)",

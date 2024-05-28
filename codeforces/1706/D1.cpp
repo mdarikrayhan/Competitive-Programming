@@ -1,24 +1,44 @@
-#include<bits/stdc++.h>
+#include <bits/stdc++.h>
 using namespace std;
-int T,n,k;
-int a[100010];
+
+typedef long long LL;
+
+const int N = 3005;
+
+int a[N];
+
+void solve() {
+    int n, m;
+    scanf("%d %d", &n, &m);
+    for (int i = 0; i < n; i++) {
+        scanf("%d", a + i);
+    }
+    if (m > *max_element(a, a + n)) {
+        printf("0\n");
+        return;
+    }
+    int ret = 1e9, mn = *min_element(a, a + n);
+    for (int i = 1; i <= mn; i++) {
+        int mx = -1;
+        for (int j = 0; j < n; j++) {
+            int t = a[j] / min(m, a[j] / i);
+            if (t < i) {
+                mx = -1;
+                break;
+            }
+            mx = max(mx, t);
+        }
+        if (mx != -1) ret = min(ret, mx - i);
+    }
+    printf("%d\n", ret);
+}
+
 int main() {
-cin>>T;
-while(T--) {
-cin>>n>>k;
-for(int i=1;i<=n;i++)cin>>a[i];
-int ans=3001;
-for(int i=1;i<=a[1];i++){
-int t=0;
-for(int j=1;j<=n;j++){
-int y=k;
-y=min(k,a[j]/i);
-int x=a[j]/y;
-t=max(t,x);
-}
-ans=min(t-i,ans);
-}
-cout<<ans<<endl;
-}
-return 0;
+    int t;
+    scanf("%d", &t);
+    while (t--) {
+        solve();
+    }
+    
+    return 0;
 }
