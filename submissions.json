@@ -74210,6 +74210,25 @@
     ],
     "timestamp": "May/29/2024 01:38"
   },
+  "CF263059355": {
+    "contest_id": 441,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/441/E.cpp",
+    "platform": "Codeforces",
+    "problem_index": "E",
+    "problem_name": "Valera and Number",
+    "problem_url": "https://codeforces.com/contest/441/problem/E",
+    "submission_id": "CF263059355",
+    "submission_url": "https://codeforces.com/contest/441/submission/263059355",
+    "tags": [
+      "bitmasks",
+      "dp",
+      "math",
+      "probabilities",
+      "*2400"
+    ],
+    "timestamp": "May/29/2024 01:39"
+  },
   "CF263059363": {
     "contest_id": 26,
     "language": "C++20 (GCC 13-64)",
