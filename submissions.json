@@ -23996,6 +23996,24 @@
     ],
     "timestamp": "May/28/2024 08:13"
   },
+  "CF262949109": {
+    "contest_id": 639,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/639/C.cpp",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Bear and Polynomials",
+    "problem_url": "https://codeforces.com/contest/639/problem/C",
+    "submission_id": "CF262949109",
+    "submission_url": "https://codeforces.com/contest/639/submission/262949109",
+    "tags": [
+      "hashing",
+      "implementation",
+      "math",
+      "*2200"
+    ],
+    "timestamp": "May/28/2024 08:59"
+  },
   "CF262949145": {
     "contest_id": 341,
     "language": "C++20 (GCC 13-64)",
