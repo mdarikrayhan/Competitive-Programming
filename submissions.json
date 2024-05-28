@@ -23393,6 +23393,24 @@
     ],
     "timestamp": "May/17/2024 08:26"
   },
+  "CF263057034": {
+    "contest_id": 362,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/362/E.cpp",
+    "platform": "Codeforces",
+    "problem_index": "E",
+    "problem_name": "Petya and Pipes",
+    "problem_url": "https://codeforces.com/contest/362/problem/E",
+    "submission_id": "CF263057034",
+    "submission_url": "https://codeforces.com/contest/362/submission/263057034",
+    "tags": [
+      "flows",
+      "graphs",
+      "shortest paths",
+      "*2300"
+    ],
+    "timestamp": "May/29/2024 01:10"
+  },
   "CF263057053": {
     "contest_id": 105,
     "language": "C++20 (GCC 13-64)",
