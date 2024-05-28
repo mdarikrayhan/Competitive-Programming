@@ -27374,6 +27374,22 @@
     ],
     "timestamp": "May/28/2024 15:26"
   },
+  "CF262990009": {
+    "contest_id": 1093,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1093/F.cpp",
+    "platform": "Codeforces",
+    "problem_index": "F",
+    "problem_name": "Vasya and Array",
+    "problem_url": "https://codeforces.com/contest/1093/problem/F",
+    "submission_id": "CF262990009",
+    "submission_url": "https://codeforces.com/contest/1093/submission/262990009",
+    "tags": [
+      "dp",
+      "*2400"
+    ],
+    "timestamp": "May/28/2024 15:43"
+  },
   "CF262990038": {
     "contest_id": 1332,
     "language": "C++20 (GCC 13-64)",
