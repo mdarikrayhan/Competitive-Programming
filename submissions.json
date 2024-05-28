@@ -23393,6 +23393,23 @@
     ],
     "timestamp": "May/17/2024 08:26"
   },
+  "CF263062394": {
+    "contest_id": 1312,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1312/F.cpp",
+    "platform": "Codeforces",
+    "problem_index": "F",
+    "problem_name": "Attack on Red Kingdom",
+    "problem_url": "https://codeforces.com/contest/1312/problem/F",
+    "submission_id": "CF263062394",
+    "submission_url": "https://codeforces.com/contest/1312/submission/263062394",
+    "tags": [
+      "games",
+      "two pointers",
+      "*2500"
+    ],
+    "timestamp": "May/29/2024 02:21"
+  },
   "CF263062408": {
     "contest_id": 49,
     "language": "C++20 (GCC 13-64)",
