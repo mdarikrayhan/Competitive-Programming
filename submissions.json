@@ -23393,6 +23393,28 @@
     ],
     "timestamp": "May/17/2024 08:26"
   },
+  "CF262982177": {
+    "contest_id": 1498,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1498/F.cpp",
+    "platform": "Codeforces",
+    "problem_index": "F",
+    "problem_name": "Christmas Game",
+    "problem_url": "https://codeforces.com/contest/1498/problem/F",
+    "submission_id": "CF262982177",
+    "submission_url": "https://codeforces.com/contest/1498/submission/262982177",
+    "tags": [
+      "bitmasks",
+      "data structures",
+      "dfs and similar",
+      "dp",
+      "games",
+      "math",
+      "trees",
+      "*2500"
+    ],
+    "timestamp": "May/28/2024 14:35"
+  },
   "CF262982424": {
     "contest_id": 433,
     "language": "C++20 (GCC 13-64)",
