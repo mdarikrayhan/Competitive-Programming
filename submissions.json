@@ -23776,6 +23776,24 @@
     ],
     "timestamp": "May/28/2024 12:13"
   },
+  "CF262965855": {
+    "contest_id": 1585,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1585/E.cpp",
+    "platform": "Codeforces",
+    "problem_index": "E",
+    "problem_name": "Frequency Queries",
+    "problem_url": "https://codeforces.com/contest/1585/problem/E",
+    "submission_id": "CF262965855",
+    "submission_url": "https://codeforces.com/contest/1585/submission/262965855",
+    "tags": [
+      "data structures",
+      "dfs and similar",
+      "trees",
+      "*2400"
+    ],
+    "timestamp": "May/28/2024 12:13"
+  },
   "CF262965912": {
     "contest_id": 630,
     "language": "C++20 (GCC 13-64)",
