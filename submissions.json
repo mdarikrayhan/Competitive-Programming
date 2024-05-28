@@ -23393,6 +23393,22 @@
     ],
     "timestamp": "May/17/2024 08:26"
   },
+  "CF262960449": {
+    "contest_id": 394,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/394/A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Counting Sticks",
+    "problem_url": "https://codeforces.com/contest/394/problem/A",
+    "submission_id": "CF262960449",
+    "submission_url": "https://codeforces.com/contest/394/submission/262960449",
+    "tags": [
+      "brute force",
+      "implementation"
+    ],
+    "timestamp": "May/28/2024 11:20"
+  },
   "CF262960509": {
     "contest_id": 814,
     "language": "C++20 (GCC 13-64)",
