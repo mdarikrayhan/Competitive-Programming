@@ -27839,6 +27839,26 @@
     ],
     "timestamp": "May/28/2024 15:59"
   },
+  "CF262994106": {
+    "contest_id": 1566,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1566/F.cpp",
+    "platform": "Codeforces",
+    "problem_index": "F",
+    "problem_name": "Points Movement",
+    "problem_url": "https://codeforces.com/contest/1566/problem/F",
+    "submission_id": "CF262994106",
+    "submission_url": "https://codeforces.com/contest/1566/submission/262994106",
+    "tags": [
+      "data structures",
+      "dp",
+      "greedy",
+      "implementation",
+      "sortings",
+      "*2600"
+    ],
+    "timestamp": "May/28/2024 16:19"
+  },
   "CF262994134": {
     "contest_id": 1389,
     "language": "C++20 (GCC 13-64)",
