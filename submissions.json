@@ -70753,6 +70753,28 @@
     ],
     "timestamp": "May/28/2024 16:21"
   },
+  "CF262995821": {
+    "contest_id": 1920,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1920/F1.cpp",
+    "platform": "Codeforces",
+    "problem_index": "F1",
+    "problem_name": "Smooth Sailing (Easy Version)",
+    "problem_url": "https://codeforces.com/contest/1920/problem/F1",
+    "submission_id": "CF262995821",
+    "submission_url": "https://codeforces.com/contest/1920/submission/262995821",
+    "tags": [
+      "binary search",
+      "brute force",
+      "data structures",
+      "dfs and similar",
+      "dsu",
+      "graphs",
+      "shortest paths",
+      "*2500"
+    ],
+    "timestamp": "May/28/2024 16:34"
+  },
   "CF262995844": {
     "contest_id": 878,
     "language": "C++20 (GCC 13-64)",
