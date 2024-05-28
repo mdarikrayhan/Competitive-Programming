@@ -23393,6 +23393,24 @@
     ],
     "timestamp": "May/17/2024 08:26"
   },
+  "CF262980470": {
+    "contest_id": 482,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/482/C.cpp",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Game with Strings",
+    "problem_url": "https://codeforces.com/contest/482/problem/C",
+    "submission_id": "CF262980470",
+    "submission_url": "https://codeforces.com/contest/482/submission/262980470",
+    "tags": [
+      "bitmasks",
+      "dp",
+      "probabilities",
+      "*2600"
+    ],
+    "timestamp": "May/28/2024 14:21"
+  },
   "CF262980658": {
     "contest_id": 990,
     "language": "C++20 (GCC 13-64)",
