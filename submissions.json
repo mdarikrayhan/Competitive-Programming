@@ -56079,6 +56079,24 @@
     ],
     "timestamp": "May/28/2024 09:19"
   },
+  "CF262950424": {
+    "contest_id": 923,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/923/D.cpp",
+    "platform": "Codeforces",
+    "problem_index": "D",
+    "problem_name": "Picking Strings",
+    "problem_url": "https://codeforces.com/contest/923/problem/D",
+    "submission_id": "CF262950424",
+    "submission_url": "https://codeforces.com/contest/923/submission/262950424",
+    "tags": [
+      "constructive algorithms",
+      "implementation",
+      "strings",
+      "*2500"
+    ],
+    "timestamp": "May/28/2024 09:20"
+  },
   "CF262950437": {
     "contest_id": 36,
     "language": "C++20 (GCC 13-64)",
