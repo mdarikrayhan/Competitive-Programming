@@ -23996,6 +23996,24 @@
     ],
     "timestamp": "May/28/2024 08:13"
   },
+  "CF262948768": {
+    "contest_id": 1971,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1971/H.cpp",
+    "platform": "Codeforces",
+    "problem_index": "H",
+    "problem_name": "\u00b11",
+    "problem_url": "https://codeforces.com/contest/1971/problem/H",
+    "submission_id": "CF262948768",
+    "submission_url": "https://codeforces.com/contest/1971/submission/262948768",
+    "tags": [
+      "2-sat",
+      "dfs and similar",
+      "graphs",
+      "*2100"
+    ],
+    "timestamp": "May/28/2024 08:54"
+  },
   "CF262948804": {
     "contest_id": 958,
     "language": "C++20 (GCC 13-64)",
