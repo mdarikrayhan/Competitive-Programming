@@ -23393,6 +23393,27 @@
     ],
     "timestamp": "May/17/2024 08:26"
   },
+  "CF262965102": {
+    "contest_id": 1632,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1632/E1.cpp",
+    "platform": "Codeforces",
+    "problem_index": "E1",
+    "problem_name": "Distance Tree (easy version)",
+    "problem_url": "https://codeforces.com/contest/1632/problem/E1",
+    "submission_id": "CF262965102",
+    "submission_url": "https://codeforces.com/contest/1632/submission/262965102",
+    "tags": [
+      "binary search",
+      "data structures",
+      "dfs and similar",
+      "graphs",
+      "shortest paths",
+      "trees",
+      "*2400"
+    ],
+    "timestamp": "May/28/2024 12:07"
+  },
   "CF262965119": {
     "contest_id": 558,
     "language": "C++20 (GCC 13-64)",
