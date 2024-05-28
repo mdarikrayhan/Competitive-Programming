@@ -27839,6 +27839,28 @@
     ],
     "timestamp": "May/28/2024 15:59"
   },
+  "CF262991932": {
+    "contest_id": 1887,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1887/D.cpp",
+    "platform": "Codeforces",
+    "problem_index": "D",
+    "problem_name": "Split",
+    "problem_url": "https://codeforces.com/contest/1887/problem/D",
+    "submission_id": "CF262991932",
+    "submission_url": "https://codeforces.com/contest/1887/submission/262991932",
+    "tags": [
+      "binary search",
+      "data structures",
+      "divide and conquer",
+      "dsu",
+      "math",
+      "trees",
+      "two pointers",
+      "*2700"
+    ],
+    "timestamp": "May/28/2024 16:00"
+  },
   "CF262991979": {
     "contest_id": 542,
     "language": "C++20 (GCC 13-64)",
