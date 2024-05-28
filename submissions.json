@@ -23393,6 +23393,27 @@
     ],
     "timestamp": "May/17/2024 08:26"
   },
+  "CF262946227": {
+    "contest_id": 1772,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1772/G.cpp",
+    "platform": "Codeforces",
+    "problem_index": "G",
+    "problem_name": "Gaining Rating",
+    "problem_url": "https://codeforces.com/contest/1772/problem/G",
+    "submission_id": "CF262946227",
+    "submission_url": "https://codeforces.com/contest/1772/submission/262946227",
+    "tags": [
+      "binary search",
+      "greedy",
+      "implementation",
+      "math",
+      "sortings",
+      "two pointers",
+      "*2200"
+    ],
+    "timestamp": "May/28/2024 08:08"
+  },
   "CF262946249": {
     "contest_id": 903,
     "language": "C++20 (GCC 13-64)",
