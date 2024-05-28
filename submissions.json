@@ -35174,6 +35174,22 @@
     ],
     "timestamp": "May/29/2024 03:55"
   },
+  "CF263067842": {
+    "contest_id": 69,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/69/C.cpp",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Game",
+    "problem_url": "https://codeforces.com/contest/69/problem/C",
+    "submission_id": "CF263067842",
+    "submission_url": "https://codeforces.com/contest/69/submission/263067842",
+    "tags": [
+      "implementation",
+      "*2000"
+    ],
+    "timestamp": "May/29/2024 04:01"
+  },
   "CF263067905": {
     "contest_id": 1774,
     "language": "C++20 (GCC 13-64)",
