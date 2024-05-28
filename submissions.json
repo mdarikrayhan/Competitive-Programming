@@ -82208,6 +82208,25 @@
     ],
     "timestamp": "May/28/2024 15:30"
   },
+  "CF262989882": {
+    "contest_id": 756,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/756/D.cpp",
+    "platform": "Codeforces",
+    "problem_index": "D",
+    "problem_name": "Bacterial Melee",
+    "problem_url": "https://codeforces.com/contest/756/problem/D",
+    "submission_id": "CF262989882",
+    "submission_url": "https://codeforces.com/contest/756/submission/262989882",
+    "tags": [
+      "brute force",
+      "combinatorics",
+      "dp",
+      "string suffix structures",
+      "*2400"
+    ],
+    "timestamp": "May/28/2024 15:42"
+  },
   "CF262989996": {
     "contest_id": 1628,
     "language": "C++20 (GCC 13-64)",
