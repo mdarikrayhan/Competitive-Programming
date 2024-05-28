@@ -23792,6 +23792,25 @@
     ],
     "timestamp": "May/28/2024 12:14"
   },
+  "CF262966388": {
+    "contest_id": 733,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/733/F.cpp",
+    "platform": "Codeforces",
+    "problem_index": "F",
+    "problem_name": "Drivers Dissatisfaction",
+    "problem_url": "https://codeforces.com/contest/733/problem/F",
+    "submission_id": "CF262966388",
+    "submission_url": "https://codeforces.com/contest/733/submission/262966388",
+    "tags": [
+      "data structures",
+      "dsu",
+      "graphs",
+      "trees",
+      "*2200"
+    ],
+    "timestamp": "May/28/2024 12:19"
+  },
   "CF262966412": {
     "contest_id": 1868,
     "language": "C++20 (GCC 13-64)",
