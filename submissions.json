@@ -29631,6 +29631,26 @@
     ],
     "timestamp": "May/29/2024 03:14"
   },
+  "CF263067114": {
+    "contest_id": 101,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/101/D.cpp",
+    "platform": "Codeforces",
+    "problem_index": "D",
+    "problem_name": "Castle",
+    "problem_url": "https://codeforces.com/contest/101/problem/D",
+    "submission_id": "CF263067114",
+    "submission_url": "https://codeforces.com/contest/101/submission/263067114",
+    "tags": [
+      "dp",
+      "greedy",
+      "probabilities",
+      "sortings",
+      "trees",
+      "*2300"
+    ],
+    "timestamp": "May/29/2024 03:46"
+  },
   "CF263067156": {
     "contest_id": 1906,
     "language": "C++20 (GCC 13-64)",
