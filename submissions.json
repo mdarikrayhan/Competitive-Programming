@@ -23393,6 +23393,22 @@
     ],
     "timestamp": "May/17/2024 08:26"
   },
+  "CF263061082": {
+    "contest_id": 153,
+    "language": "Cobol",
+    "path": "codeforces/153/E.cob",
+    "platform": "Codeforces",
+    "problem_index": "E",
+    "problem_name": "Euclidean Distance",
+    "problem_url": "https://codeforces.com/contest/153/problem/E",
+    "submission_id": "CF263061082",
+    "submission_url": "https://codeforces.com/contest/153/submission/263061082",
+    "tags": [
+      "*special problem",
+      "*2100"
+    ],
+    "timestamp": "May/29/2024 02:02"
+  },
   "CF263061252": {
     "contest_id": 67,
     "language": "C++20 (GCC 13-64)",
