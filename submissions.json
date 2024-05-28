@@ -25822,6 +25822,21 @@
     ],
     "timestamp": "May/28/2024 15:59"
   },
+  "CF263048347": {
+    "contest_id": 399,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/399/C.cpp",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Cards",
+    "problem_url": "https://codeforces.com/contest/399/problem/C",
+    "submission_id": "CF263048347",
+    "submission_url": "https://codeforces.com/contest/399/submission/263048347",
+    "tags": [
+      "number theory"
+    ],
+    "timestamp": "May/28/2024 23:45"
+  },
   "CF263048403": {
     "contest_id": 399,
     "language": "C++20 (GCC 13-64)",
