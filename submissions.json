@@ -25822,6 +25822,24 @@
     ],
     "timestamp": "May/28/2024 15:59"
   },
+  "CF263034483": {
+    "contest_id": 1623,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1623/D.cpp",
+    "platform": "Codeforces",
+    "problem_index": "D",
+    "problem_name": "Robot Cleaner Revisit",
+    "problem_url": "https://codeforces.com/contest/1623/problem/D",
+    "submission_id": "CF263034483",
+    "submission_url": "https://codeforces.com/contest/1623/submission/263034483",
+    "tags": [
+      "implementation",
+      "math",
+      "probabilities",
+      "*2300"
+    ],
+    "timestamp": "May/28/2024 21:44"
+  },
   "CF263048347": {
     "contest_id": 399,
     "language": "C++20 (GCC 13-64)",
