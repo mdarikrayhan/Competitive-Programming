@@ -23393,6 +23393,26 @@
     ],
     "timestamp": "May/17/2024 08:26"
   },
+  "CF262941445": {
+    "contest_id": 1819,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1819/C.cpp",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "The Fox and the Complete Tree Traversal",
+    "problem_url": "https://codeforces.com/contest/1819/problem/C",
+    "submission_id": "CF262941445",
+    "submission_url": "https://codeforces.com/contest/1819/submission/262941445",
+    "tags": [
+      "constructive algorithms",
+      "dp",
+      "implementation",
+      "math",
+      "trees",
+      "*2400"
+    ],
+    "timestamp": "May/28/2024 06:18"
+  },
   "CF262941449": {
     "contest_id": 844,
     "language": "C++20 (GCC 13-64)",

@@ -1,33 +1,71 @@
-#include <bits/stdc++.h>
+// LUOGU_RID: 160380272
+#include<bits/stdc++.h>
 using namespace std;
-#define N 1000005
-#define ll long long
-#define pb push_back
-#define mid ((l+r)/2)
-int n,U,dg[N],a[N],ans[N];vector<int> e[N];
-void dfs(int u,int f)
-{
-	if(!dg[u]) return;a[++a[0]]=u;
-	for(auto v:e[u]) if(v!=f) dfs(v,u);
+vector<int>adj[200100];
+bool on[200100];
+int far,fard;
+void FAR(int n,int p,int d){
+    if(d>fard)far=n,fard=d;
+    for(auto i:adj[n]) if(i-p) 
+        FAR(i,n,d+1);
 }
-int main()
-{
-	scanf("%d",&n);
-	for(int i=1,u,v;i<n;++i)
-		scanf("%d %d",&u,&v),e[u].pb(v),e[v].pb(u);
-	for(int i=1;i<=n;++i) dg[i]=e[i].size();
-	for(int i=1;i<=n;++i) if(e[i].size()==1) dg[i]=0,--dg[e[i][0]];
-	for(int i=1;i<=n;++i) if(dg[i]>2) {printf("No\n");return 0;}
-	for(int i=1;i<=n;++i) if(dg[i]==1 || e[i].size()==n-1) U=i;
-	printf("Yes\n");dg[U]=1;dfs(U,0);
-	for(int i=1;i<=a[0];i+=2)
-	{
-		printf("%d ",a[i]);
-		if(i<a[0]) for(auto j:e[a[i+1]]) if(!dg[j]) printf("%d ",j);
-	}if(a[0]&1) {for(auto j:e[a[a[0]]]) if(!dg[j]) printf("%d ",j);--a[0];}
-	for(int i=a[0];i;i-=2)
-	{
-		printf("%d ",a[i]);
-		for(auto j:e[a[i-1]]) if(!dg[j]) printf("%d ",j);
-	}return 0;
+vector<int>path;
+bool gp(int n,int p,int t){
+    path.push_back(n);
+    if(n==t)return on[n]=1;
+    for(auto i:adj[n])
+        if(i-p&&gp(i,n,t))
+            return on[n]=1;
+    path.pop_back();
+    return on[n]=0;
+}
+int main(){
+    cin.tie(0)->sync_with_stdio(0);
+    int n;
+    cin>>n;
+    if(n<=3){
+        cout<<"Yes\n";
+        for(int i=0;i<n;)
+            cout<<++i<<' ';
+        return 0;
+    }
+    for(int i=1;i<n;i++){
+        int a,b;
+        cin>>a>>b;
+        adj[a].push_back(b);
+        adj[b].push_back(a);
+    }
+    FAR(1,0,0);
+    int X=far,Y;
+    fard=0;
+    FAR(X,0,0);
+    Y=far;
+    gp(X,0,Y);
+    for(int i=1;i<=n;i++)
+        if(!on[i]&&adj[i].size()>1)
+            return puts("No"),0;
+    cout<<"Yes\n";
+    if(path.size()%2){
+        for(int i=path.size()-1;i+2;i-=2){
+            cout<<path[i]<<' ';
+            if(i)for(auto x:adj[path[i-1]])
+                if(!on[x])cout<<x<<' ';
+        }
+        for(int i=1;i<path.size();i+=2){
+            for(auto x:adj[path[i-1]])
+                if(!on[x])cout<<x<<' ';
+            cout<<path[i]<<' ';
+        }
+    } else {
+        for(int i=path.size()-1;i+1;i-=2){
+            cout<<path[i]<<' ';
+            for(auto x:adj[path[i-1]])
+                if(!on[x])cout<<x<<' ';
+        }
+        for(int i=0;i<path.size();i+=2){
+            if(i)for(auto x:adj[path[i-1]])
+                if(!on[x])cout<<x<<' ';
+            cout<<path[i]<<' ';
+        }
+    }
 }
