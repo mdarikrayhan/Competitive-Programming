@@ -35174,6 +35174,25 @@
     ],
     "timestamp": "May/29/2024 03:55"
   },
+  "CF263068085": {
+    "contest_id": 167,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/167/E.cpp",
+    "platform": "Codeforces",
+    "problem_index": "E",
+    "problem_name": "Wizards and Bets",
+    "problem_url": "https://codeforces.com/contest/167/problem/E",
+    "submission_id": "CF263068085",
+    "submission_url": "https://codeforces.com/contest/167/submission/263068085",
+    "tags": [
+      "dfs and similar",
+      "graphs",
+      "math",
+      "matrices",
+      "*2900"
+    ],
+    "timestamp": "May/29/2024 04:07"
+  },
   "CF263068095": {
     "contest_id": 852,
     "language": "C++20 (GCC 13-64)",
