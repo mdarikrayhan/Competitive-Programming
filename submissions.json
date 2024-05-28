@@ -23393,6 +23393,28 @@
     ],
     "timestamp": "May/17/2024 08:26"
   },
+  "CF262965197": {
+    "contest_id": 1878,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1878/G.cpp",
+    "platform": "Codeforces",
+    "problem_index": "G",
+    "problem_name": "wxhtzdy ORO Tree",
+    "problem_url": "https://codeforces.com/contest/1878/problem/G",
+    "submission_id": "CF262965197",
+    "submission_url": "https://codeforces.com/contest/1878/submission/262965197",
+    "tags": [
+      "binary search",
+      "bitmasks",
+      "brute force",
+      "data structures",
+      "dfs and similar",
+      "implementation",
+      "trees",
+      "*2300"
+    ],
+    "timestamp": "May/28/2024 12:08"
+  },
   "CF262965218": {
     "contest_id": 40,
     "language": "C++20 (GCC 13-64)",
