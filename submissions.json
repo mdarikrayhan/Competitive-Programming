@@ -79705,6 +79705,24 @@
     ],
     "timestamp": "May/28/2024 12:49"
   },
+  "CF262975912": {
+    "contest_id": 1111,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1111/D.cpp",
+    "platform": "Codeforces",
+    "problem_index": "D",
+    "problem_name": "Destroy the Colony",
+    "problem_url": "https://codeforces.com/contest/1111/problem/D",
+    "submission_id": "CF262975912",
+    "submission_url": "https://codeforces.com/contest/1111/submission/262975912",
+    "tags": [
+      "combinatorics",
+      "dp",
+      "math",
+      "*2600"
+    ],
+    "timestamp": "May/28/2024 13:42"
+  },
   "CF262975936": {
     "contest_id": 42,
     "language": "C++20 (GCC 13-64)",
