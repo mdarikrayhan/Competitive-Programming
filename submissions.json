@@ -23393,6 +23393,25 @@
     ],
     "timestamp": "May/17/2024 08:26"
   },
+  "CF263071395": {
+    "contest_id": 1810,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1810/F.cpp",
+    "platform": "Codeforces",
+    "problem_index": "F",
+    "problem_name": "M-tree",
+    "problem_url": "https://codeforces.com/contest/1810/problem/F",
+    "submission_id": "CF263071395",
+    "submission_url": "https://codeforces.com/contest/1810/submission/263071395",
+    "tags": [
+      "data structures",
+      "math",
+      "sortings",
+      "trees",
+      "*2800"
+    ],
+    "timestamp": "May/29/2024 05:41"
+  },
   "CF263071470": {
     "contest_id": 1060,
     "language": "C++20 (GCC 13-64)",
