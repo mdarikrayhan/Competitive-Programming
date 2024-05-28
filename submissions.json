@@ -26298,6 +26298,28 @@
     ],
     "timestamp": "May/28/2024 12:41"
   },
+  "CF262969473": {
+    "contest_id": 1654,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1654/F.cpp",
+    "platform": "Codeforces",
+    "problem_index": "F",
+    "problem_name": "Minimal String Xoration",
+    "problem_url": "https://codeforces.com/contest/1654/problem/F",
+    "submission_id": "CF262969473",
+    "submission_url": "https://codeforces.com/contest/1654/submission/262969473",
+    "tags": [
+      "bitmasks",
+      "data structures",
+      "divide and conquer",
+      "greedy",
+      "hashing",
+      "sortings",
+      "strings",
+      "*2800"
+    ],
+    "timestamp": "May/28/2024 12:46"
+  },
   "CF262969495": {
     "contest_id": 1815,
     "language": "C++20 (GCC 13-64)",
