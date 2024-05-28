@@ -23393,6 +23393,23 @@
     ],
     "timestamp": "May/17/2024 08:26"
   },
+  "CF263062239": {
+    "contest_id": 1736,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1736/E.cpp",
+    "platform": "Codeforces",
+    "problem_index": "E",
+    "problem_name": "Swap and Take",
+    "problem_url": "https://codeforces.com/contest/1736/problem/E",
+    "submission_id": "CF263062239",
+    "submission_url": "https://codeforces.com/contest/1736/submission/263062239",
+    "tags": [
+      "dp",
+      "greedy",
+      "*2600"
+    ],
+    "timestamp": "May/29/2024 02:19"
+  },
   "CF263062261": {
     "contest_id": 1521,
     "language": "C++20 (GCC 13-64)",
