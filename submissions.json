@@ -79705,6 +79705,24 @@
     ],
     "timestamp": "May/28/2024 12:49"
   },
+  "CF262976196": {
+    "contest_id": 799,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/799/E.cpp",
+    "platform": "Codeforces",
+    "problem_index": "E",
+    "problem_name": "Aquarium decoration",
+    "problem_url": "https://codeforces.com/contest/799/problem/E",
+    "submission_id": "CF262976196",
+    "submission_url": "https://codeforces.com/contest/799/submission/262976196",
+    "tags": [
+      "data structures",
+      "greedy",
+      "two pointers",
+      "*2500"
+    ],
+    "timestamp": "May/28/2024 13:44"
+  },
   "CF262976215": {
     "contest_id": 163,
     "language": "C++20 (GCC 13-64)",
