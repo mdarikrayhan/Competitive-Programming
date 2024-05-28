@@ -23792,6 +23792,27 @@
     ],
     "timestamp": "May/28/2024 12:14"
   },
+  "CF262966466": {
+    "contest_id": 1699,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1699/E.cpp",
+    "platform": "Codeforces",
+    "problem_index": "E",
+    "problem_name": "Three Days Grace",
+    "problem_url": "https://codeforces.com/contest/1699/problem/E",
+    "submission_id": "CF262966466",
+    "submission_url": "https://codeforces.com/contest/1699/submission/262966466",
+    "tags": [
+      "data structures",
+      "dp",
+      "greedy",
+      "math",
+      "number theory",
+      "two pointers",
+      "*2600"
+    ],
+    "timestamp": "May/28/2024 12:19"
+  },
   "CF262966486": {
     "contest_id": 200,
     "language": "C++20 (GCC 13-64)",
