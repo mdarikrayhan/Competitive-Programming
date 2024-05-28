@@ -79705,6 +79705,22 @@
     ],
     "timestamp": "May/28/2024 12:49"
   },
+  "CF262975936": {
+    "contest_id": 42,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/42/B.cpp",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Game of chess unfinished",
+    "problem_url": "https://codeforces.com/contest/42/problem/B",
+    "submission_id": "CF262975936",
+    "submission_url": "https://codeforces.com/contest/42/submission/262975936",
+    "tags": [
+      "implementation",
+      "*1700"
+    ],
+    "timestamp": "May/28/2024 13:42"
+  },
   "CF262975962": {
     "contest_id": 585,
     "language": "C++20 (GCC 13-64)",
