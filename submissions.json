@@ -79973,6 +79973,22 @@
     ],
     "timestamp": "May/28/2024 13:59"
   },
+  "CF262977920": {
+    "contest_id": 396,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/396/B.cpp",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "On Sum of Fractions",
+    "problem_url": "https://codeforces.com/contest/396/problem/B",
+    "submission_id": "CF262977920",
+    "submission_url": "https://codeforces.com/contest/396/submission/262977920",
+    "tags": [
+      "math",
+      "number theory"
+    ],
+    "timestamp": "May/28/2024 13:59"
+  },
   "CF262977958": {
     "contest_id": 396,
     "language": "C++20 (GCC 13-64)",
