@@ -25822,6 +25822,24 @@
     ],
     "timestamp": "May/28/2024 15:59"
   },
+  "CF263055187": {
+    "contest_id": 678,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/678/F.cpp",
+    "platform": "Codeforces",
+    "problem_index": "F",
+    "problem_name": "Lena and Queries",
+    "problem_url": "https://codeforces.com/contest/678/problem/F",
+    "submission_id": "CF263055187",
+    "submission_url": "https://codeforces.com/contest/678/submission/263055187",
+    "tags": [
+      "data structures",
+      "divide and conquer",
+      "geometry",
+      "*2500"
+    ],
+    "timestamp": "May/29/2024 00:49"
+  },
   "CF263055202": {
     "contest_id": 1876,
     "language": "C++20 (GCC 13-64)",
