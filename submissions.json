@@ -26298,6 +26298,25 @@
     ],
     "timestamp": "May/28/2024 12:41"
   },
+  "CF262977392": {
+    "contest_id": 1917,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1917/F.cpp",
+    "platform": "Codeforces",
+    "problem_index": "F",
+    "problem_name": "Construct Tree",
+    "problem_url": "https://codeforces.com/contest/1917/problem/F",
+    "submission_id": "CF262977392",
+    "submission_url": "https://codeforces.com/contest/1917/submission/262977392",
+    "tags": [
+      "bitmasks",
+      "constructive algorithms",
+      "dp",
+      "trees",
+      "*2500"
+    ],
+    "timestamp": "May/28/2024 13:55"
+  },
   "CF262977609": {
     "contest_id": 416,
     "language": "C++20 (GCC 13-64)",
