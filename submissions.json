@@ -27839,6 +27839,23 @@
     ],
     "timestamp": "May/28/2024 15:59"
   },
+  "CF262992602": {
+    "contest_id": 1970,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1970/G1.cpp",
+    "platform": "Codeforces",
+    "problem_index": "G1",
+    "problem_name": "Min-Fund Prison (Easy)",
+    "problem_url": "https://codeforces.com/contest/1970/problem/G1",
+    "submission_id": "CF262992602",
+    "submission_url": "https://codeforces.com/contest/1970/submission/262992602",
+    "tags": [
+      "dfs and similar",
+      "trees",
+      "*1900"
+    ],
+    "timestamp": "May/28/2024 16:06"
+  },
   "CF262992731": {
     "contest_id": 7,
     "language": "C++20 (GCC 13-64)",
