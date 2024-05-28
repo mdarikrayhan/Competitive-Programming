@@ -74789,6 +74789,22 @@
     ],
     "timestamp": "May/29/2024 02:04"
   },
+  "CF263061539": {
+    "contest_id": 958,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/958/F3.cpp",
+    "platform": "Codeforces",
+    "problem_index": "F3",
+    "problem_name": "Lightsabers (hard)",
+    "problem_url": "https://codeforces.com/contest/958/problem/F3",
+    "submission_id": "CF263061539",
+    "submission_url": "https://codeforces.com/contest/958/submission/263061539",
+    "tags": [
+      "fft",
+      "*2600"
+    ],
+    "timestamp": "May/29/2024 02:08"
+  },
   "CF263061592": {
     "contest_id": 1781,
     "language": "C++20 (GCC 13-64)",
