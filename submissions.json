@@ -23393,6 +23393,22 @@
     ],
     "timestamp": "May/17/2024 08:26"
   },
+  "CF263064091": {
+    "contest_id": 44,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/44/D.cpp",
+    "platform": "Codeforces",
+    "problem_index": "D",
+    "problem_name": "Hyperdrive",
+    "problem_url": "https://codeforces.com/contest/44/problem/D",
+    "submission_id": "CF263064091",
+    "submission_url": "https://codeforces.com/contest/44/submission/263064091",
+    "tags": [
+      "math",
+      "*1800"
+    ],
+    "timestamp": "May/29/2024 02:49"
+  },
   "CF263064095": {
     "contest_id": 1205,
     "language": "C++20 (GCC 13-64)",
