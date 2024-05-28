@@ -23393,6 +23393,23 @@
     ],
     "timestamp": "May/17/2024 08:26"
   },
+  "CF263062521": {
+    "contest_id": 1055,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1055/E.cpp",
+    "platform": "Codeforces",
+    "problem_index": "E",
+    "problem_name": "Segments on the Line",
+    "problem_url": "https://codeforces.com/contest/1055/problem/E",
+    "submission_id": "CF263062521",
+    "submission_url": "https://codeforces.com/contest/1055/submission/263062521",
+    "tags": [
+      "binary search",
+      "dp",
+      "*2500"
+    ],
+    "timestamp": "May/29/2024 02:23"
+  },
   "CF263062560": {
     "contest_id": 182,
     "language": "C++20 (GCC 13-64)",
