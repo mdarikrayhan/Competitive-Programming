@@ -23996,6 +23996,23 @@
     ],
     "timestamp": "May/28/2024 08:13"
   },
+  "CF262959014": {
+    "contest_id": 1729,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1729/E.cpp",
+    "platform": "Codeforces",
+    "problem_index": "E",
+    "problem_name": "Guess the Cycle Size",
+    "problem_url": "https://codeforces.com/contest/1729/problem/E",
+    "submission_id": "CF262959014",
+    "submission_url": "https://codeforces.com/contest/1729/submission/262959014",
+    "tags": [
+      "interactive",
+      "probabilities",
+      "*1800"
+    ],
+    "timestamp": "May/28/2024 11:06"
+  },
   "CF262959033": {
     "contest_id": 1621,
     "language": "C++20 (GCC 13-64)",
