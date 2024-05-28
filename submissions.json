@@ -23393,6 +23393,26 @@
     ],
     "timestamp": "May/17/2024 08:26"
   },
+  "CF262960509": {
+    "contest_id": 814,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/814/D.cpp",
+    "platform": "Codeforces",
+    "problem_index": "D",
+    "problem_name": "An overnight dance in discotheque",
+    "problem_url": "https://codeforces.com/contest/814/problem/D",
+    "submission_id": "CF262960509",
+    "submission_url": "https://codeforces.com/contest/814/submission/262960509",
+    "tags": [
+      "dfs and similar",
+      "dp",
+      "geometry",
+      "greedy",
+      "trees",
+      "*2000"
+    ],
+    "timestamp": "May/28/2024 11:20"
+  },
   "CF262960537": {
     "contest_id": 814,
     "language": "C++20 (GCC 13-64)",
