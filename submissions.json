@@ -23996,6 +23996,24 @@
     ],
     "timestamp": "May/28/2024 08:13"
   },
+  "CF262950223": {
+    "contest_id": 1313,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1313/D.cpp",
+    "platform": "Codeforces",
+    "problem_index": "D",
+    "problem_name": "Happy New Year",
+    "problem_url": "https://codeforces.com/contest/1313/problem/D",
+    "submission_id": "CF262950223",
+    "submission_url": "https://codeforces.com/contest/1313/submission/262950223",
+    "tags": [
+      "bitmasks",
+      "dp",
+      "implementation",
+      "*2500"
+    ],
+    "timestamp": "May/28/2024 09:17"
+  },
   "CF262950239": {
     "contest_id": 1254,
     "language": "C++20 (GCC 13-64)",
