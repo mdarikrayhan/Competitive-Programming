@@ -23393,6 +23393,24 @@
     ],
     "timestamp": "May/17/2024 08:26"
   },
+  "CF263061258": {
+    "contest_id": 1080,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1080/F.cpp",
+    "platform": "Codeforces",
+    "problem_index": "F",
+    "problem_name": "Katya and Segments Sets",
+    "problem_url": "https://codeforces.com/contest/1080/problem/F",
+    "submission_id": "CF263061258",
+    "submission_url": "https://codeforces.com/contest/1080/submission/263061258",
+    "tags": [
+      "data structures",
+      "interactive",
+      "sortings",
+      "*2400"
+    ],
+    "timestamp": "May/29/2024 02:04"
+  },
   "CF263061268": {
     "contest_id": 1383,
     "language": "C++20 (GCC 13-64)",
