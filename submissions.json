@@ -23393,6 +23393,25 @@
     ],
     "timestamp": "May/17/2024 08:26"
   },
+  "CF262980191": {
+    "contest_id": 1574,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1574/E.cpp",
+    "platform": "Codeforces",
+    "problem_index": "E",
+    "problem_name": "Coloring",
+    "problem_url": "https://codeforces.com/contest/1574/problem/E",
+    "submission_id": "CF262980191",
+    "submission_url": "https://codeforces.com/contest/1574/submission/262980191",
+    "tags": [
+      "combinatorics",
+      "constructive algorithms",
+      "implementation",
+      "math",
+      "*2500"
+    ],
+    "timestamp": "May/28/2024 14:18"
+  },
   "CF262980287": {
     "contest_id": 9,
     "language": "C++20 (GCC 13-64)",
