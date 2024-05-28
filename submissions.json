@@ -23996,6 +23996,26 @@
     ],
     "timestamp": "May/28/2024 08:13"
   },
+  "CF262950337": {
+    "contest_id": 1839,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1839/E.cpp",
+    "platform": "Codeforces",
+    "problem_index": "E",
+    "problem_name": "Decreasing Game",
+    "problem_url": "https://codeforces.com/contest/1839/problem/E",
+    "submission_id": "CF262950337",
+    "submission_url": "https://codeforces.com/contest/1839/submission/262950337",
+    "tags": [
+      "constructive algorithms",
+      "dfs and similar",
+      "dp",
+      "greedy",
+      "interactive",
+      "*2400"
+    ],
+    "timestamp": "May/28/2024 09:18"
+  },
   "CF262950349": {
     "contest_id": 1505,
     "language": "C++20 (GCC 13-64)",
