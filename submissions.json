@@ -23393,6 +23393,28 @@
     ],
     "timestamp": "May/17/2024 08:26"
   },
+  "CF262968781": {
+    "contest_id": 1662,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1662/F.cpp",
+    "platform": "Codeforces",
+    "problem_index": "F",
+    "problem_name": "Antennas",
+    "problem_url": "https://codeforces.com/contest/1662/problem/F",
+    "submission_id": "CF262968781",
+    "submission_url": "https://codeforces.com/contest/1662/submission/262968781",
+    "tags": [
+      "data structures",
+      "dfs and similar",
+      "graphs",
+      "graphs",
+      "implementation",
+      "implementation",
+      "shortest paths",
+      "shortest paths"
+    ],
+    "timestamp": "May/28/2024 12:40"
+  },
   "CF262968816": {
     "contest_id": 498,
     "language": "C++20 (GCC 13-64)",
