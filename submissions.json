@@ -23393,6 +23393,27 @@
     ],
     "timestamp": "May/17/2024 08:26"
   },
+  "CF263064250": {
+    "contest_id": 30,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/30/E.cpp",
+    "platform": "Codeforces",
+    "problem_index": "E",
+    "problem_name": "Tricky and Clever Password",
+    "problem_url": "https://codeforces.com/contest/30/problem/E",
+    "submission_id": "CF263064250",
+    "submission_url": "https://codeforces.com/contest/30/submission/263064250",
+    "tags": [
+      "binary search",
+      "constructive algorithms",
+      "data structures",
+      "greedy",
+      "hashing",
+      "strings",
+      "*2800"
+    ],
+    "timestamp": "May/29/2024 02:52"
+  },
   "CF263064267": {
     "contest_id": 36,
     "language": "C++20 (GCC 13-64)",
