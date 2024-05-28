@@ -23393,6 +23393,23 @@
     ],
     "timestamp": "May/17/2024 08:26"
   },
+  "CF263064442": {
+    "contest_id": 413,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/413/E.cpp",
+    "platform": "Codeforces",
+    "problem_index": "E",
+    "problem_name": "Maze 2D",
+    "problem_url": "https://codeforces.com/contest/413/problem/E",
+    "submission_id": "CF263064442",
+    "submission_url": "https://codeforces.com/contest/413/submission/263064442",
+    "tags": [
+      "data structures",
+      "divide and conquer",
+      "*2200"
+    ],
+    "timestamp": "May/29/2024 02:55"
+  },
   "CF263064450": {
     "contest_id": 571,
     "language": "C++20 (GCC 13-64)",
