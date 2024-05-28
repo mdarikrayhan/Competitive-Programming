@@ -54625,6 +54625,25 @@
     ],
     "timestamp": "May/28/2024 08:13"
   },
+  "CF262947104": {
+    "contest_id": 1736,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1736/C2.cpp",
+    "platform": "Codeforces",
+    "problem_index": "C2",
+    "problem_name": "Good Subarrays (Hard Version)",
+    "problem_url": "https://codeforces.com/contest/1736/problem/C2",
+    "submission_id": "CF262947104",
+    "submission_url": "https://codeforces.com/contest/1736/submission/262947104",
+    "tags": [
+      "binary search",
+      "data structures",
+      "dp",
+      "two pointers",
+      "*2400"
+    ],
+    "timestamp": "May/28/2024 08:24"
+  },
   "CF262947128": {
     "contest_id": 1914,
     "language": "C++20 (GCC 13-64)",
