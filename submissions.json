@@ -23393,6 +23393,22 @@
     ],
     "timestamp": "May/17/2024 08:26"
   },
+  "CF262991478": {
+    "contest_id": 387,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/387/D.cpp",
+    "platform": "Codeforces",
+    "problem_index": "D",
+    "problem_name": "George and Interesting Graph",
+    "problem_url": "https://codeforces.com/contest/387/problem/D",
+    "submission_id": "CF262991478",
+    "submission_url": "https://codeforces.com/contest/387/submission/262991478",
+    "tags": [
+      "graph matchings",
+      "*2200"
+    ],
+    "timestamp": "May/28/2024 15:56"
+  },
   "CF262991504": {
     "contest_id": 1812,
     "language": "C++20 (GCC 13-64)",
