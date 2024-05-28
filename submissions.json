@@ -26225,6 +26225,25 @@
     ],
     "timestamp": "May/29/2024 00:54"
   },
+  "CF263056101": {
+    "contest_id": 1394,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1394/D.cpp",
+    "platform": "Codeforces",
+    "problem_index": "D",
+    "problem_name": "Boboniu and Jianghu",
+    "problem_url": "https://codeforces.com/contest/1394/problem/D",
+    "submission_id": "CF263056101",
+    "submission_url": "https://codeforces.com/contest/1394/submission/263056101",
+    "tags": [
+      "dp",
+      "greedy",
+      "sortings",
+      "trees",
+      "*2800"
+    ],
+    "timestamp": "May/29/2024 00:59"
+  },
   "CF263056134": {
     "contest_id": 1519,
     "language": "C++20 (GCC 13-64)",
