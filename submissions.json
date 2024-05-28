@@ -25822,6 +25822,28 @@
     ],
     "timestamp": "May/28/2024 15:59"
   },
+  "CF263000779": {
+    "contest_id": 1767,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1767/E.cpp",
+    "platform": "Codeforces",
+    "problem_index": "E",
+    "problem_name": "Algebra Flash",
+    "problem_url": "https://codeforces.com/contest/1767/problem/E",
+    "submission_id": "CF263000779",
+    "submission_url": "https://codeforces.com/contest/1767/submission/263000779",
+    "tags": [
+      "bitmasks",
+      "brute force",
+      "dp",
+      "graphs",
+      "math",
+      "meet-in-the-middle",
+      "trees",
+      "*2500"
+    ],
+    "timestamp": "May/28/2024 17:15"
+  },
   "CF263000959": {
     "contest_id": 374,
     "language": "C++20 (GCC 13-64)",
