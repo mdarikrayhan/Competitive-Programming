@@ -59861,6 +59861,24 @@
     ],
     "timestamp": "May/28/2024 06:21"
   },
+  "CF262941667": {
+    "contest_id": 95,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/95/E.cpp",
+    "platform": "Codeforces",
+    "problem_index": "E",
+    "problem_name": "Lucky Country",
+    "problem_url": "https://codeforces.com/contest/95/problem/E",
+    "submission_id": "CF262941667",
+    "submission_url": "https://codeforces.com/contest/95/submission/262941667",
+    "tags": [
+      "dp",
+      "dsu",
+      "graphs",
+      "*2500"
+    ],
+    "timestamp": "May/28/2024 06:24"
+  },
   "CF262941676": {
     "contest_id": 1381,
     "language": "C++20 (GCC 13-64)",
