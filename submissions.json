@@ -23393,6 +23393,23 @@
     ],
     "timestamp": "May/17/2024 08:26"
   },
+  "CF263063941": {
+    "contest_id": 594,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/594/B.cpp",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Max and Bike",
+    "problem_url": "https://codeforces.com/contest/594/problem/B",
+    "submission_id": "CF263063941",
+    "submission_url": "https://codeforces.com/contest/594/submission/263063941",
+    "tags": [
+      "binary search",
+      "geometry",
+      "*2500"
+    ],
+    "timestamp": "May/29/2024 02:46"
+  },
   "CF263063943": {
     "contest_id": 1770,
     "language": "C++20 (GCC 13-64)",
