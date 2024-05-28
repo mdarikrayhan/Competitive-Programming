@@ -23393,6 +23393,22 @@
     ],
     "timestamp": "May/17/2024 08:26"
   },
+  "CF263060106": {
+    "contest_id": 162,
+    "language": "Factor",
+    "path": "codeforces/162/G.factor",
+    "platform": "Codeforces",
+    "problem_index": "G",
+    "problem_name": "Non-decimal sum",
+    "problem_url": "https://codeforces.com/contest/162/problem/G",
+    "submission_id": "CF263060106",
+    "submission_url": "https://codeforces.com/contest/162/submission/263060106",
+    "tags": [
+      "*special problem",
+      "*2000"
+    ],
+    "timestamp": "May/29/2024 01:48"
+  },
   "CF263060151": {
     "contest_id": 162,
     "language": "Factor",
