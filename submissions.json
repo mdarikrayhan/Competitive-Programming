@@ -59861,6 +59861,28 @@
     ],
     "timestamp": "May/28/2024 06:21"
   },
+  "CF262941824": {
+    "contest_id": 1780,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1780/F.cpp",
+    "platform": "Codeforces",
+    "problem_index": "F",
+    "problem_name": "Three Chairs",
+    "problem_url": "https://codeforces.com/contest/1780/problem/F",
+    "submission_id": "CF262941824",
+    "submission_url": "https://codeforces.com/contest/1780/submission/262941824",
+    "tags": [
+      "bitmasks",
+      "brute force",
+      "combinatorics",
+      "data structures",
+      "dp",
+      "number theory",
+      "sortings",
+      "*2300"
+    ],
+    "timestamp": "May/28/2024 06:29"
+  },
   "CF262941842": {
     "contest_id": 172,
     "language": "C++20 (GCC 13-64)",
