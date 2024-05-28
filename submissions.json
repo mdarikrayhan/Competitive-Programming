@@ -80221,6 +80221,24 @@
     ],
     "timestamp": "May/28/2024 14:04"
   },
+  "CF262978451": {
+    "contest_id": 1526,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1526/E.cpp",
+    "platform": "Codeforces",
+    "problem_index": "E",
+    "problem_name": "Oolimry and Suffix Array",
+    "problem_url": "https://codeforces.com/contest/1526/problem/E",
+    "submission_id": "CF262978451",
+    "submission_url": "https://codeforces.com/contest/1526/submission/262978451",
+    "tags": [
+      "combinatorics",
+      "constructive algorithms",
+      "math",
+      "*2400"
+    ],
+    "timestamp": "May/28/2024 14:04"
+  },
   "CF262978469": {
     "contest_id": 300,
     "language": "C++20 (GCC 13-64)",
