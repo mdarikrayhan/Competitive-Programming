@@ -23393,6 +23393,27 @@
     ],
     "timestamp": "May/17/2024 08:26"
   },
+  "CF262946159": {
+    "contest_id": 1710,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1710/C.cpp",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "XOR Triangle",
+    "problem_url": "https://codeforces.com/contest/1710/problem/C",
+    "submission_id": "CF262946159",
+    "submission_url": "https://codeforces.com/contest/1710/submission/262946159",
+    "tags": [
+      "bitmasks",
+      "brute force",
+      "constructive algorithms",
+      "dp",
+      "greedy",
+      "math",
+      "*2500"
+    ],
+    "timestamp": "May/28/2024 08:06"
+  },
   "CF262946170": {
     "contest_id": 1662,
     "language": "C++20 (GCC 13-64)",
