@@ -25822,6 +25822,24 @@
     ],
     "timestamp": "May/28/2024 15:59"
   },
+  "CF262998901": {
+    "contest_id": 1700,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1700/F.cpp",
+    "platform": "Codeforces",
+    "problem_index": "F",
+    "problem_name": "Puzzle",
+    "problem_url": "https://codeforces.com/contest/1700/problem/F",
+    "submission_id": "CF262998901",
+    "submission_url": "https://codeforces.com/contest/1700/submission/262998901",
+    "tags": [
+      "constructive algorithms",
+      "dp",
+      "greedy",
+      "*2600"
+    ],
+    "timestamp": "May/28/2024 16:59"
+  },
   "CF262999255": {
     "contest_id": 581,
     "language": "C++20 (GCC 13-64)",
