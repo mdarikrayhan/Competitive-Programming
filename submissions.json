@@ -23393,6 +23393,23 @@
     ],
     "timestamp": "May/17/2024 08:26"
   },
+  "CF263057124": {
+    "contest_id": 248,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/248/C.cpp",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Robo-Footballer",
+    "problem_url": "https://codeforces.com/contest/248/problem/C",
+    "submission_id": "CF263057124",
+    "submission_url": "https://codeforces.com/contest/248/submission/263057124",
+    "tags": [
+      "binary search",
+      "geometry",
+      "*2000"
+    ],
+    "timestamp": "May/29/2024 01:11"
+  },
   "CF263057216": {
     "contest_id": 464,
     "language": "C++20 (GCC 13-64)",
