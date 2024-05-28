@@ -23393,6 +23393,24 @@
     ],
     "timestamp": "May/17/2024 08:26"
   },
+  "CF262967601": {
+    "contest_id": 460,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/460/D.cpp",
+    "platform": "Codeforces",
+    "problem_index": "D",
+    "problem_name": "Little Victor and Set",
+    "problem_url": "https://codeforces.com/contest/460/problem/D",
+    "submission_id": "CF262967601",
+    "submission_url": "https://codeforces.com/contest/460/submission/262967601",
+    "tags": [
+      "brute force",
+      "constructive algorithms",
+      "math",
+      "*2300"
+    ],
+    "timestamp": "May/28/2024 12:30"
+  },
   "CF262967618": {
     "contest_id": 1874,
     "language": "C++20 (GCC 13-64)",
