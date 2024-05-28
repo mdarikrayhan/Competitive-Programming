@@ -69583,6 +69583,27 @@
     ],
     "timestamp": "May/29/2024 03:14"
   },
+  "CF263065751": {
+    "contest_id": 1574,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1574/F.cpp",
+    "platform": "Codeforces",
+    "problem_index": "F",
+    "problem_name": "Occurrences",
+    "problem_url": "https://codeforces.com/contest/1574/problem/F",
+    "submission_id": "CF263065751",
+    "submission_url": "https://codeforces.com/contest/1574/submission/263065751",
+    "tags": [
+      "combinatorics",
+      "dfs and similar",
+      "dp",
+      "dsu",
+      "fft",
+      "graphs",
+      "*2700"
+    ],
+    "timestamp": "May/29/2024 03:19"
+  },
   "CF263065883": {
     "contest_id": 123,
     "language": "C++20 (GCC 13-64)",
