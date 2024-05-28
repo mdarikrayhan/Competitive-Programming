@@ -26298,6 +26298,25 @@
     ],
     "timestamp": "May/28/2024 12:41"
   },
+  "CF262968988": {
+    "contest_id": 1882,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1882/E1.cpp",
+    "platform": "Codeforces",
+    "problem_index": "E1",
+    "problem_name": "Two Permutations (Easy Version)",
+    "problem_url": "https://codeforces.com/contest/1882/problem/E1",
+    "submission_id": "CF262968988",
+    "submission_url": "https://codeforces.com/contest/1882/submission/262968988",
+    "tags": [
+      "brute force",
+      "constructive algorithms",
+      "greedy",
+      "number theory",
+      "*2400"
+    ],
+    "timestamp": "May/28/2024 12:42"
+  },
   "CF262969014": {
     "contest_id": 1379,
     "language": "C++20 (GCC 13-64)",
