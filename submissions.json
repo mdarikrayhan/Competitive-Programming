@@ -35174,6 +35174,26 @@
     ],
     "timestamp": "May/29/2024 03:55"
   },
+  "CF263068130": {
+    "contest_id": 1383,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1383/D.cpp",
+    "platform": "Codeforces",
+    "problem_index": "D",
+    "problem_name": "Rearrange",
+    "problem_url": "https://codeforces.com/contest/1383/problem/D",
+    "submission_id": "CF263068130",
+    "submission_url": "https://codeforces.com/contest/1383/submission/263068130",
+    "tags": [
+      "brute force",
+      "constructive algorithms",
+      "graphs",
+      "greedy",
+      "sortings",
+      "*2800"
+    ],
+    "timestamp": "May/29/2024 04:08"
+  },
   "CF263068139": {
     "contest_id": 1895,
     "language": "C++20 (GCC 13-64)",
