@@ -23409,6 +23409,22 @@
     ],
     "timestamp": "May/28/2024 11:58"
   },
+  "CF262964448": {
+    "contest_id": 1170,
+    "language": "Kotlin 1.7",
+    "path": "codeforces/1170/G.kt",
+    "platform": "Codeforces",
+    "problem_index": "G",
+    "problem_name": "Graph Decomposition",
+    "problem_url": "https://codeforces.com/contest/1170/problem/G",
+    "submission_id": "CF262964448",
+    "submission_url": "https://codeforces.com/contest/1170/submission/262964448",
+    "tags": [
+      "*special problem",
+      "graphs"
+    ],
+    "timestamp": "May/28/2024 12:00"
+  },
   "CF262964566": {
     "contest_id": 1244,
     "language": "C++20 (GCC 13-64)",
