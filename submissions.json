@@ -26298,6 +26298,23 @@
     ],
     "timestamp": "May/28/2024 12:41"
   },
+  "CF262977051": {
+    "contest_id": 1468,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1468/B.cpp",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Bakery",
+    "problem_url": "https://codeforces.com/contest/1468/problem/B",
+    "submission_id": "CF262977051",
+    "submission_url": "https://codeforces.com/contest/1468/submission/262977051",
+    "tags": [
+      "data structures",
+      "dsu",
+      "*2900"
+    ],
+    "timestamp": "May/28/2024 13:52"
+  },
   "CF262977068": {
     "contest_id": 1468,
     "language": "C++20 (GCC 13-64)",
