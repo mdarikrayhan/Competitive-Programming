@@ -23792,6 +23792,24 @@
     ],
     "timestamp": "May/28/2024 12:14"
   },
+  "CF262966855": {
+    "contest_id": 1146,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1146/D.cpp",
+    "platform": "Codeforces",
+    "problem_index": "D",
+    "problem_name": "Frog Jumping",
+    "problem_url": "https://codeforces.com/contest/1146/problem/D",
+    "submission_id": "CF262966855",
+    "submission_url": "https://codeforces.com/contest/1146/submission/262966855",
+    "tags": [
+      "dfs and similar",
+      "math",
+      "number theory",
+      "*2100"
+    ],
+    "timestamp": "May/28/2024 12:23"
+  },
   "CF262966873": {
     "contest_id": 398,
     "language": "C++20 (GCC 13-64)",
