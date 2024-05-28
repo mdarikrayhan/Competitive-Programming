@@ -67931,6 +67931,27 @@
     ],
     "timestamp": "May/29/2024 02:24"
   },
+  "CF263062734": {
+    "contest_id": 1511,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1511/G.cpp",
+    "platform": "Codeforces",
+    "problem_index": "G",
+    "problem_name": "Chips on a Board",
+    "problem_url": "https://codeforces.com/contest/1511/problem/G",
+    "submission_id": "CF263062734",
+    "submission_url": "https://codeforces.com/contest/1511/submission/263062734",
+    "tags": [
+      "bitmasks",
+      "brute force",
+      "data structures",
+      "dp",
+      "games",
+      "two pointers",
+      "*2700"
+    ],
+    "timestamp": "May/29/2024 02:26"
+  },
   "CF263062760": {
     "contest_id": 522,
     "language": "C++20 (GCC 13-64)",
