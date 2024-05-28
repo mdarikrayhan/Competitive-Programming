@@ -23409,6 +23409,23 @@
     ],
     "timestamp": "May/28/2024 11:58"
   },
+  "CF262964774": {
+    "contest_id": 576,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/576/E.cpp",
+    "platform": "Codeforces",
+    "problem_index": "E",
+    "problem_name": "Painting Edges",
+    "problem_url": "https://codeforces.com/contest/576/problem/E",
+    "submission_id": "CF262964774",
+    "submission_url": "https://codeforces.com/contest/576/submission/262964774",
+    "tags": [
+      "binary search",
+      "data structures",
+      "*3300"
+    ],
+    "timestamp": "May/28/2024 12:04"
+  },
   "CF262964834": {
     "contest_id": 87,
     "language": "C++20 (GCC 13-64)",
