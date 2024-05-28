@@ -74104,6 +74104,23 @@
     ],
     "timestamp": "May/29/2024 01:30"
   },
+  "CF263058715": {
+    "contest_id": 1592,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1592/F1.cpp",
+    "platform": "Codeforces",
+    "problem_index": "F1",
+    "problem_name": "Alice and Recoloring 1",
+    "problem_url": "https://codeforces.com/contest/1592/problem/F1",
+    "submission_id": "CF263058715",
+    "submission_url": "https://codeforces.com/contest/1592/submission/263058715",
+    "tags": [
+      "constructive algorithms",
+      "greedy",
+      "*2600"
+    ],
+    "timestamp": "May/29/2024 01:30"
+  },
   "CF263058726": {
     "contest_id": 638,
     "language": "C++20 (GCC 13-64)",
