@@ -23996,6 +23996,25 @@
     ],
     "timestamp": "May/28/2024 08:13"
   },
+  "CF262948582": {
+    "contest_id": 1765,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1765/H.cpp",
+    "platform": "Codeforces",
+    "problem_index": "H",
+    "problem_name": "Hospital Queue",
+    "problem_url": "https://codeforces.com/contest/1765/problem/H",
+    "submission_id": "CF262948582",
+    "submission_url": "https://codeforces.com/contest/1765/submission/262948582",
+    "tags": [
+      "binary search",
+      "graphs",
+      "greedy",
+      "implementation",
+      "*2200"
+    ],
+    "timestamp": "May/28/2024 08:51"
+  },
   "CF262948610": {
     "contest_id": 870,
     "language": "C++20 (GCC 13-64)",
