@@ -27110,6 +27110,21 @@
     ],
     "timestamp": "May/29/2024 01:24"
   },
+  "CF263058705": {
+    "contest_id": 690,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/690/A2.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A2",
+    "problem_name": "Collective Mindsets (medium)",
+    "problem_url": "https://codeforces.com/contest/690/problem/A2",
+    "submission_id": "CF263058705",
+    "submission_url": "https://codeforces.com/contest/690/submission/263058705",
+    "tags": [
+      "*2300"
+    ],
+    "timestamp": "May/29/2024 01:30"
+  },
   "CF263058726": {
     "contest_id": 638,
     "language": "C++20 (GCC 13-64)",
