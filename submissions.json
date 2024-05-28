@@ -25822,6 +25822,22 @@
     ],
     "timestamp": "May/28/2024 15:59"
   },
+  "CF263001440": {
+    "contest_id": 429,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/429/E.cpp",
+    "platform": "Codeforces",
+    "problem_index": "E",
+    "problem_name": "Points and Segments",
+    "problem_url": "https://codeforces.com/contest/429/problem/E",
+    "submission_id": "CF263001440",
+    "submission_url": "https://codeforces.com/contest/429/submission/263001440",
+    "tags": [
+      "graphs",
+      "*3000"
+    ],
+    "timestamp": "May/28/2024 17:21"
+  },
   "CF263001760": {
     "contest_id": 1617,
     "language": "C++20 (GCC 13-64)",
