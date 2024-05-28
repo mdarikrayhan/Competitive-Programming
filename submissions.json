@@ -74789,6 +74789,25 @@
     ],
     "timestamp": "May/29/2024 02:04"
   },
+  "CF263061377": {
+    "contest_id": 241,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/241/B.cpp",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Friends",
+    "problem_url": "https://codeforces.com/contest/241/problem/B",
+    "submission_id": "CF263061377",
+    "submission_url": "https://codeforces.com/contest/241/submission/263061377",
+    "tags": [
+      "binary search",
+      "bitmasks",
+      "data structures",
+      "math",
+      "*2700"
+    ],
+    "timestamp": "May/29/2024 02:06"
+  },
   "CF263061389": {
     "contest_id": 1919,
     "language": "C++20 (GCC 13-64)",
