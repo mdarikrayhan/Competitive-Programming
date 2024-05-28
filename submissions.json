@@ -69583,6 +69583,26 @@
     ],
     "timestamp": "May/29/2024 03:14"
   },
+  "CF263065990": {
+    "contest_id": 1514,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1514/E.cpp",
+    "platform": "Codeforces",
+    "problem_index": "E",
+    "problem_name": "Baby Ehab's Hyper Apartment",
+    "problem_url": "https://codeforces.com/contest/1514/problem/E",
+    "submission_id": "CF263065990",
+    "submission_url": "https://codeforces.com/contest/1514/submission/263065990",
+    "tags": [
+      "binary search",
+      "graphs",
+      "interactive",
+      "sortings",
+      "two pointers",
+      "*2700"
+    ],
+    "timestamp": "May/29/2024 03:23"
+  },
   "CF263066002": {
     "contest_id": 1765,
     "language": "C++20 (GCC 13-64)",
