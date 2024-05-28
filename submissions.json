@@ -23393,6 +23393,24 @@
     ],
     "timestamp": "May/17/2024 08:26"
   },
+  "CF262967806": {
+    "contest_id": 1458,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1458/D.cpp",
+    "platform": "Codeforces",
+    "problem_index": "D",
+    "problem_name": "Flip and Reverse",
+    "problem_url": "https://codeforces.com/contest/1458/problem/D",
+    "submission_id": "CF262967806",
+    "submission_url": "https://codeforces.com/contest/1458/submission/262967806",
+    "tags": [
+      "data structures",
+      "graphs",
+      "greedy",
+      "*3100"
+    ],
+    "timestamp": "May/28/2024 12:31"
+  },
   "CF262967827": {
     "contest_id": 886,
     "language": "C++20 (GCC 13-64)",
