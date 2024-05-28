@@ -73981,6 +73981,23 @@
     ],
     "timestamp": "May/29/2024 01:27"
   },
+  "CF263058517": {
+    "contest_id": 437,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/437/E.cpp",
+    "platform": "Codeforces",
+    "problem_index": "E",
+    "problem_name": "The Child and Polygon",
+    "problem_url": "https://codeforces.com/contest/437/problem/E",
+    "submission_id": "CF263058517",
+    "submission_url": "https://codeforces.com/contest/437/submission/263058517",
+    "tags": [
+      "dp",
+      "geometry",
+      "*2500"
+    ],
+    "timestamp": "May/29/2024 01:28"
+  },
   "CF263058535": {
     "contest_id": 343,
     "language": "C++20 (GCC 13-64)",
