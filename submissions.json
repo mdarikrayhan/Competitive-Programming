@@ -23996,6 +23996,22 @@
     ],
     "timestamp": "May/28/2024 08:13"
   },
+  "CF262949638": {
+    "contest_id": 123,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/123/D.cpp",
+    "platform": "Codeforces",
+    "problem_index": "D",
+    "problem_name": "String",
+    "problem_url": "https://codeforces.com/contest/123/problem/D",
+    "submission_id": "CF262949638",
+    "submission_url": "https://codeforces.com/contest/123/submission/262949638",
+    "tags": [
+      "string suffix structures",
+      "*2300"
+    ],
+    "timestamp": "May/28/2024 09:07"
+  },
   "CF262949669": {
     "contest_id": 95,
     "language": "C++20 (GCC 13-64)",
