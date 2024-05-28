@@ -23393,6 +23393,24 @@
     ],
     "timestamp": "May/17/2024 08:26"
   },
+  "CF263062274": {
+    "contest_id": 261,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/261/B.cpp",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Maxim and Restaurant",
+    "problem_url": "https://codeforces.com/contest/261/problem/B",
+    "submission_id": "CF263062274",
+    "submission_url": "https://codeforces.com/contest/261/submission/263062274",
+    "tags": [
+      "dp",
+      "math",
+      "probabilities",
+      "*1900"
+    ],
+    "timestamp": "May/29/2024 02:19"
+  },
   "CF263062289": {
     "contest_id": 239,
     "language": "C++20 (GCC 13-64)",
