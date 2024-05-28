@@ -83307,6 +83307,24 @@
     ],
     "timestamp": "May/28/2024 16:21"
   },
+  "CF262995004": {
+    "contest_id": 1491,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1491/F.cpp",
+    "platform": "Codeforces",
+    "problem_index": "F",
+    "problem_name": "Magnets",
+    "problem_url": "https://codeforces.com/contest/1491/problem/F",
+    "submission_id": "CF262995004",
+    "submission_url": "https://codeforces.com/contest/1491/submission/262995004",
+    "tags": [
+      "binary search",
+      "constructive algorithms",
+      "interactive",
+      "*2700"
+    ],
+    "timestamp": "May/28/2024 16:27"
+  },
   "CF262995091": {
     "contest_id": 93,
     "language": "C++20 (GCC 13-64)",
