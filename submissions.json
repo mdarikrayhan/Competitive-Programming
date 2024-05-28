@@ -35174,6 +35174,23 @@
     ],
     "timestamp": "May/29/2024 03:55"
   },
+  "CF263068179": {
+    "contest_id": 15,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/15/E.cpp",
+    "platform": "Codeforces",
+    "problem_index": "E",
+    "problem_name": "Triangles",
+    "problem_url": "https://codeforces.com/contest/15/problem/E",
+    "submission_id": "CF263068179",
+    "submission_url": "https://codeforces.com/contest/15/submission/263068179",
+    "tags": [
+      "combinatorics",
+      "dp",
+      "*2600"
+    ],
+    "timestamp": "May/29/2024 04:09"
+  },
   "CF263068190": {
     "contest_id": 1236,
     "language": "C++20 (GCC 13-64)",
