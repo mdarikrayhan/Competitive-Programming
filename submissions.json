@@ -23996,6 +23996,24 @@
     ],
     "timestamp": "May/28/2024 08:13"
   },
+  "CF262948610": {
+    "contest_id": 870,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/870/D.cpp",
+    "platform": "Codeforces",
+    "problem_index": "D",
+    "problem_name": "Something with XOR Queries",
+    "problem_url": "https://codeforces.com/contest/870/problem/D",
+    "submission_id": "CF262948610",
+    "submission_url": "https://codeforces.com/contest/870/submission/262948610",
+    "tags": [
+      "brute force",
+      "interactive",
+      "probabilities",
+      "*2000"
+    ],
+    "timestamp": "May/28/2024 08:51"
+  },
   "CF262948627": {
     "contest_id": 1677,
     "language": "C++20 (GCC 13-64)",
