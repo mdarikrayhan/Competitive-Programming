@@ -56079,6 +56079,22 @@
     ],
     "timestamp": "May/28/2024 09:19"
   },
+  "CF262951377": {
+    "contest_id": 1910,
+    "language": "Kotlin 1.9",
+    "path": "codeforces/1910/J.kt",
+    "platform": "Codeforces",
+    "problem_index": "J",
+    "problem_name": "Two Colors",
+    "problem_url": "https://codeforces.com/contest/1910/problem/J",
+    "submission_id": "CF262951377",
+    "submission_url": "https://codeforces.com/contest/1910/submission/262951377",
+    "tags": [
+      "*special problem",
+      "*2900"
+    ],
+    "timestamp": "May/28/2024 09:35"
+  },
   "CF262951460": {
     "contest_id": 662,
     "language": "C++20 (GCC 13-64)",
