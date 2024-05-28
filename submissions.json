@@ -23393,6 +23393,22 @@
     ],
     "timestamp": "May/17/2024 08:26"
   },
+  "CF262940930": {
+    "contest_id": 89,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/89/A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Robbery",
+    "problem_url": "https://codeforces.com/contest/89/problem/A",
+    "submission_id": "CF262940930",
+    "submission_url": "https://codeforces.com/contest/89/submission/262940930",
+    "tags": [
+      "greedy",
+      "*1800"
+    ],
+    "timestamp": "May/28/2024 06:03"
+  },
   "CF262940939": {
     "contest_id": 448,
     "language": "C++20 (GCC 13-64)",
