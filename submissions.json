@@ -54625,6 +54625,28 @@
     ],
     "timestamp": "May/28/2024 08:13"
   },
+  "CF262947073": {
+    "contest_id": 1042,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1042/F.cpp",
+    "platform": "Codeforces",
+    "problem_index": "F",
+    "problem_name": "Leaf Sets",
+    "problem_url": "https://codeforces.com/contest/1042/problem/F",
+    "submission_id": "CF262947073",
+    "submission_url": "https://codeforces.com/contest/1042/submission/262947073",
+    "tags": [
+      "data structures",
+      "dfs and similar",
+      "dsu",
+      "graphs",
+      "greedy",
+      "sortings",
+      "trees",
+      "*2400"
+    ],
+    "timestamp": "May/28/2024 08:24"
+  },
   "CF262947086": {
     "contest_id": 865,
     "language": "C++20 (GCC 13-64)",
