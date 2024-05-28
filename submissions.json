@@ -59861,6 +59861,27 @@
     ],
     "timestamp": "May/28/2024 06:21"
   },
+  "CF262945628": {
+    "contest_id": 1907,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1907/G.cpp",
+    "platform": "Codeforces",
+    "problem_index": "G",
+    "problem_name": "Lights",
+    "problem_url": "https://codeforces.com/contest/1907/problem/G",
+    "submission_id": "CF262945628",
+    "submission_url": "https://codeforces.com/contest/1907/submission/262945628",
+    "tags": [
+      "brute force",
+      "constructive algorithms",
+      "dfs and similar",
+      "graphs",
+      "greedy",
+      "implementation",
+      "*2200"
+    ],
+    "timestamp": "May/28/2024 07:56"
+  },
   "CF262945639": {
     "contest_id": 1793,
     "language": "C++20 (GCC 13-64)",
