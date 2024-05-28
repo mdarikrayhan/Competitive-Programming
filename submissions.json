@@ -27110,6 +27110,24 @@
     ],
     "timestamp": "May/29/2024 01:24"
   },
+  "CF263059222": {
+    "contest_id": 261,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/261/C.cpp",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Maxim and Matrix",
+    "problem_url": "https://codeforces.com/contest/261/problem/C",
+    "submission_id": "CF263059222",
+    "submission_url": "https://codeforces.com/contest/261/submission/263059222",
+    "tags": [
+      "constructive algorithms",
+      "dp",
+      "math",
+      "*2000"
+    ],
+    "timestamp": "May/29/2024 01:37"
+  },
   "CF263059328": {
     "contest_id": 656,
     "language": "C++20 (GCC 13-64)",
