@@ -26225,6 +26225,24 @@
     ],
     "timestamp": "May/29/2024 00:54"
   },
+  "CF263055873": {
+    "contest_id": 1017,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1017/E.cpp",
+    "platform": "Codeforces",
+    "problem_index": "E",
+    "problem_name": "The Supersonic Rocket",
+    "problem_url": "https://codeforces.com/contest/1017/problem/E",
+    "submission_id": "CF263055873",
+    "submission_url": "https://codeforces.com/contest/1017/submission/263055873",
+    "tags": [
+      "geometry",
+      "hashing",
+      "strings",
+      "*2400"
+    ],
+    "timestamp": "May/29/2024 00:56"
+  },
   "CF263055889": {
     "contest_id": 865,
     "language": "C++20 (GCC 13-64)",
