@@ -23393,6 +23393,23 @@
     ],
     "timestamp": "May/17/2024 08:26"
   },
+  "CF263056457": {
+    "contest_id": 97,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/97/B.cpp",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Superset",
+    "problem_url": "https://codeforces.com/contest/97/problem/B",
+    "submission_id": "CF263056457",
+    "submission_url": "https://codeforces.com/contest/97/submission/263056457",
+    "tags": [
+      "constructive algorithms",
+      "divide and conquer",
+      "*2300"
+    ],
+    "timestamp": "May/29/2024 01:03"
+  },
   "CF263056472": {
     "contest_id": 21,
     "language": "C++20 (GCC 13-64)",
