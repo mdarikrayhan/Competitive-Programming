@@ -27664,6 +27664,24 @@
     ],
     "timestamp": "May/28/2024 15:53"
   },
+  "CF262991224": {
+    "contest_id": 1539,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1539/F.cpp",
+    "platform": "Codeforces",
+    "problem_index": "F",
+    "problem_name": "Strange Array",
+    "problem_url": "https://codeforces.com/contest/1539/problem/F",
+    "submission_id": "CF262991224",
+    "submission_url": "https://codeforces.com/contest/1539/submission/262991224",
+    "tags": [
+      "data structures",
+      "greedy",
+      "sortings",
+      "*2600"
+    ],
+    "timestamp": "May/28/2024 15:53"
+  },
   "CF262991249": {
     "contest_id": 106,
     "language": "C++20 (GCC 13-64)",
