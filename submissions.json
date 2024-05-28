@@ -23792,6 +23792,23 @@
     ],
     "timestamp": "May/28/2024 12:14"
   },
+  "CF262966486": {
+    "contest_id": 200,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/200/C.cpp",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Football Championship",
+    "problem_url": "https://codeforces.com/contest/200/problem/C",
+    "submission_id": "CF262966486",
+    "submission_url": "https://codeforces.com/contest/200/submission/262966486",
+    "tags": [
+      "brute force",
+      "implementation",
+      "*1800"
+    ],
+    "timestamp": "May/28/2024 12:20"
+  },
   "CF262966509": {
     "contest_id": 797,
     "language": "C++20 (GCC 13-64)",
