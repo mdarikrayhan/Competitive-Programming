@@ -23393,6 +23393,25 @@
     ],
     "timestamp": "May/17/2024 08:26"
   },
+  "CF263057468": {
+    "contest_id": 1809,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1809/E.cpp",
+    "platform": "Codeforces",
+    "problem_index": "E",
+    "problem_name": "Two Tanks",
+    "problem_url": "https://codeforces.com/contest/1809/problem/E",
+    "submission_id": "CF263057468",
+    "submission_url": "https://codeforces.com/contest/1809/submission/263057468",
+    "tags": [
+      "binary search",
+      "dp",
+      "implementation",
+      "math",
+      "*2400"
+    ],
+    "timestamp": "May/29/2024 01:15"
+  },
   "CF263057481": {
     "contest_id": 63,
     "language": "C++20 (GCC 13-64)",
