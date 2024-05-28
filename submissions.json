@@ -23393,6 +23393,22 @@
     ],
     "timestamp": "May/17/2024 08:26"
   },
+  "CF262982614": {
+    "contest_id": 1001,
+    "language": "Q#",
+    "path": "codeforces/1001/A.qs",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Generate plus state or minus state",
+    "problem_url": "https://codeforces.com/contest/1001/problem/A",
+    "submission_id": "CF262982614",
+    "submission_url": "https://codeforces.com/contest/1001/submission/262982614",
+    "tags": [
+      "*special problem",
+      "*1100"
+    ],
+    "timestamp": "May/28/2024 14:39"
+  },
   "CF262983867": {
     "contest_id": 648,
     "language": "C++20 (GCC 13-64)",
