@@ -23393,6 +23393,24 @@
     ],
     "timestamp": "May/17/2024 08:26"
   },
+  "CF262981161": {
+    "contest_id": 354,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/354/E.cpp",
+    "platform": "Codeforces",
+    "problem_index": "E",
+    "problem_name": "Lucky Number Representation",
+    "problem_url": "https://codeforces.com/contest/354/problem/E",
+    "submission_id": "CF262981161",
+    "submission_url": "https://codeforces.com/contest/354/submission/262981161",
+    "tags": [
+      "constructive algorithms",
+      "dfs and similar",
+      "dp",
+      "*2200"
+    ],
+    "timestamp": "May/28/2024 14:26"
+  },
   "CF262981220": {
     "contest_id": 1970,
     "language": "C++20 (GCC 13-64)",
