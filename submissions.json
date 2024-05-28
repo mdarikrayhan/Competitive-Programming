@@ -59861,6 +59861,24 @@
     ],
     "timestamp": "May/28/2024 06:21"
   },
+  "CF262942275": {
+    "contest_id": 1439,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1439/B.cpp",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Graph Subset Problem",
+    "problem_url": "https://codeforces.com/contest/1439/problem/B",
+    "submission_id": "CF262942275",
+    "submission_url": "https://codeforces.com/contest/1439/submission/262942275",
+    "tags": [
+      "constructive algorithms",
+      "data structures",
+      "graphs",
+      "*2600"
+    ],
+    "timestamp": "May/28/2024 06:40"
+  },
   "CF262942276": {
     "contest_id": 49,
     "language": "C++20 (GCC 13-64)",
