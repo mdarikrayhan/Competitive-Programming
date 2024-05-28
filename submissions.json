@@ -56079,6 +56079,22 @@
     ],
     "timestamp": "May/28/2024 09:19"
   },
+  "CF262950536": {
+    "contest_id": 171,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/171/E.cpp",
+    "platform": "Codeforces",
+    "problem_index": "E",
+    "problem_name": "MYSTERIOUS LANGUAGE",
+    "problem_url": "https://codeforces.com/contest/171/problem/E",
+    "submission_id": "CF262950536",
+    "submission_url": "https://codeforces.com/contest/171/submission/262950536",
+    "tags": [
+      "*special problem",
+      "*2000"
+    ],
+    "timestamp": "May/28/2024 09:22"
+  },
   "CF262950547": {
     "contest_id": 1036,
     "language": "C++20 (GCC 13-64)",
