@@ -59861,6 +59861,27 @@
     ],
     "timestamp": "May/28/2024 06:21"
   },
+  "CF262942427": {
+    "contest_id": 1687,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1687/C.cpp",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Sanae and Giant Robot",
+    "problem_url": "https://codeforces.com/contest/1687/problem/C",
+    "submission_id": "CF262942427",
+    "submission_url": "https://codeforces.com/contest/1687/submission/262942427",
+    "tags": [
+      "binary search",
+      "brute force",
+      "data structures",
+      "dsu",
+      "greedy",
+      "sortings",
+      "*2500"
+    ],
+    "timestamp": "May/28/2024 06:44"
+  },
   "CF262942438": {
     "contest_id": 848,
     "language": "C++20 (GCC 13-64)",
