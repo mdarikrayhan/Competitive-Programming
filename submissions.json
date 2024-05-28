@@ -23393,6 +23393,23 @@
     ],
     "timestamp": "May/17/2024 08:26"
   },
+  "CF263072033": {
+    "contest_id": 1267,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1267/G.cpp",
+    "platform": "Codeforces",
+    "problem_index": "G",
+    "problem_name": "Game Relics",
+    "problem_url": "https://codeforces.com/contest/1267/problem/G",
+    "submission_id": "CF263072033",
+    "submission_url": "https://codeforces.com/contest/1267/submission/263072033",
+    "tags": [
+      "math",
+      "probabilities",
+      "*3000"
+    ],
+    "timestamp": "May/29/2024 05:59"
+  },
   "CF263072055": {
     "contest_id": 1930,
     "language": "C++20 (GCC 13-64)",
