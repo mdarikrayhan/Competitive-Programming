@@ -69583,6 +69583,25 @@
     ],
     "timestamp": "May/29/2024 03:14"
   },
+  "CF263066550": {
+    "contest_id": 1616,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1616/F.cpp",
+    "platform": "Codeforces",
+    "problem_index": "F",
+    "problem_name": "Tricolor Triangles",
+    "problem_url": "https://codeforces.com/contest/1616/problem/F",
+    "submission_id": "CF263066550",
+    "submission_url": "https://codeforces.com/contest/1616/submission/263066550",
+    "tags": [
+      "brute force",
+      "graphs",
+      "math",
+      "matrices",
+      "*2900"
+    ],
+    "timestamp": "May/29/2024 03:33"
+  },
   "CF263066665": {
     "contest_id": 1033,
     "language": "C++20 (GCC 13-64)",
