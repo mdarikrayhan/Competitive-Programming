@@ -69583,6 +69583,26 @@
     ],
     "timestamp": "May/29/2024 03:14"
   },
+  "CF263066212": {
+    "contest_id": 1707,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1707/D.cpp",
+    "platform": "Codeforces",
+    "problem_index": "D",
+    "problem_name": "Partial Virtual Trees",
+    "problem_url": "https://codeforces.com/contest/1707/problem/D",
+    "submission_id": "CF263066212",
+    "submission_url": "https://codeforces.com/contest/1707/submission/263066212",
+    "tags": [
+      "combinatorics",
+      "dfs and similar",
+      "dp",
+      "math",
+      "trees",
+      "*3000"
+    ],
+    "timestamp": "May/29/2024 03:27"
+  },
   "CF263066220": {
     "contest_id": 703,
     "language": "C++20 (GCC 13-64)",
