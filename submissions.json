@@ -27839,6 +27839,23 @@
     ],
     "timestamp": "May/28/2024 15:59"
   },
+  "CF262992818": {
+    "contest_id": 13,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/13/B.cpp",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Letter A",
+    "problem_url": "https://codeforces.com/contest/13/problem/B",
+    "submission_id": "CF262992818",
+    "submission_url": "https://codeforces.com/contest/13/submission/262992818",
+    "tags": [
+      "geometry",
+      "implementation",
+      "*2000"
+    ],
+    "timestamp": "May/28/2024 16:08"
+  },
   "CF262992880": {
     "contest_id": 813,
     "language": "C++20 (GCC 13-64)",
