@@ -67931,6 +67931,24 @@
     ],
     "timestamp": "May/29/2024 02:24"
   },
+  "CF263062867": {
+    "contest_id": 838,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/838/B.cpp",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Diverging Directions",
+    "problem_url": "https://codeforces.com/contest/838/problem/B",
+    "submission_id": "CF263062867",
+    "submission_url": "https://codeforces.com/contest/838/submission/263062867",
+    "tags": [
+      "data structures",
+      "dfs and similar",
+      "trees",
+      "*2100"
+    ],
+    "timestamp": "May/29/2024 02:29"
+  },
   "CF263062879": {
     "contest_id": 209,
     "language": "C++20 (GCC 13-64)",
