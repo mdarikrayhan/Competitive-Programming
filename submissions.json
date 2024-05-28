@@ -27374,6 +27374,23 @@
     ],
     "timestamp": "May/28/2024 15:26"
   },
+  "CF262988179": {
+    "contest_id": 217,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/217/B.cpp",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Blackboard Fibonacci",
+    "problem_url": "https://codeforces.com/contest/217/problem/B",
+    "submission_id": "CF262988179",
+    "submission_url": "https://codeforces.com/contest/217/submission/262988179",
+    "tags": [
+      "brute force",
+      "math",
+      "*2100"
+    ],
+    "timestamp": "May/28/2024 15:26"
+  },
   "CF262988190": {
     "contest_id": 234,
     "language": "C++20 (GCC 13-64)",
