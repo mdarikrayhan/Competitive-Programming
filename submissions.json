@@ -23409,6 +23409,23 @@
     ],
     "timestamp": "May/28/2024 11:58"
   },
+  "CF262964342": {
+    "contest_id": 1170,
+    "language": "Kotlin 1.7",
+    "path": "codeforces/1170/D.kt",
+    "platform": "Codeforces",
+    "problem_index": "D",
+    "problem_name": "Decoding of Integer Sequences",
+    "problem_url": "https://codeforces.com/contest/1170/problem/D",
+    "submission_id": "CF262964342",
+    "submission_url": "https://codeforces.com/contest/1170/submission/262964342",
+    "tags": [
+      "*special problem",
+      "data structures",
+      "implementation"
+    ],
+    "timestamp": "May/28/2024 11:59"
+  },
   "CF262964448": {
     "contest_id": 1170,
     "language": "Kotlin 1.7",
