@@ -23393,6 +23393,22 @@
     ],
     "timestamp": "May/17/2024 08:26"
   },
+  "CF262986251": {
+    "contest_id": 661,
+    "language": "J",
+    "path": "codeforces/661/H.ijs",
+    "platform": "Codeforces",
+    "problem_index": "H",
+    "problem_name": "Rotate Matrix",
+    "problem_url": "https://codeforces.com/contest/661/problem/H",
+    "submission_id": "CF262986251",
+    "submission_url": "https://codeforces.com/contest/661/submission/262986251",
+    "tags": [
+      "*special problem",
+      "*2400"
+    ],
+    "timestamp": "May/28/2024 15:10"
+  },
   "CF262986387": {
     "contest_id": 1970,
     "language": "C++20 (GCC 13-64)",
