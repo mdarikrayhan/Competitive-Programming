@@ -23792,6 +23792,27 @@
     ],
     "timestamp": "May/28/2024 12:14"
   },
+  "CF262965975": {
+    "contest_id": 1794,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1794/E.cpp",
+    "platform": "Codeforces",
+    "problem_index": "E",
+    "problem_name": "Labeling the Tree with Distances",
+    "problem_url": "https://codeforces.com/contest/1794/problem/E",
+    "submission_id": "CF262965975",
+    "submission_url": "https://codeforces.com/contest/1794/submission/262965975",
+    "tags": [
+      "data structures",
+      "dp",
+      "greedy",
+      "hashing",
+      "implementation",
+      "trees",
+      "*2400"
+    ],
+    "timestamp": "May/28/2024 12:14"
+  },
   "CF262966004": {
     "contest_id": 812,
     "language": "C++20 (GCC 13-64)",
