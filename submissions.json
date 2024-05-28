@@ -23393,6 +23393,25 @@
     ],
     "timestamp": "May/17/2024 08:26"
   },
+  "CF262946483": {
+    "contest_id": 1617,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1617/D2.cpp",
+    "platform": "Codeforces",
+    "problem_index": "D2",
+    "problem_name": "Too Many Impostors (hard version)",
+    "problem_url": "https://codeforces.com/contest/1617/problem/D2",
+    "submission_id": "CF262946483",
+    "submission_url": "https://codeforces.com/contest/1617/submission/262946483",
+    "tags": [
+      "constructive algorithms",
+      "implementation",
+      "interactive",
+      "math",
+      "*2400"
+    ],
+    "timestamp": "May/28/2024 08:13"
+  },
   "CF262946490": {
     "contest_id": 1237,
     "language": "C++20 (GCC 13-64)",
