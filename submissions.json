@@ -26298,6 +26298,24 @@
     ],
     "timestamp": "May/28/2024 12:41"
   },
+  "CF262978059": {
+    "contest_id": 431,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/431/E.cpp",
+    "platform": "Codeforces",
+    "problem_index": "E",
+    "problem_name": "Chemistry Experiment",
+    "problem_url": "https://codeforces.com/contest/431/problem/E",
+    "submission_id": "CF262978059",
+    "submission_url": "https://codeforces.com/contest/431/submission/262978059",
+    "tags": [
+      "binary search",
+      "data structures",
+      "ternary search",
+      "*2200"
+    ],
+    "timestamp": "May/28/2024 14:01"
+  },
   "CF262978066": {
     "contest_id": 575,
     "language": "C++20 (GCC 13-64)",
