@@ -23393,6 +23393,22 @@
     ],
     "timestamp": "May/17/2024 08:26"
   },
+  "CF263069685": {
+    "contest_id": 627,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/627/E.cpp",
+    "platform": "Codeforces",
+    "problem_index": "E",
+    "problem_name": "Orchestra",
+    "problem_url": "https://codeforces.com/contest/627/problem/E",
+    "submission_id": "CF263069685",
+    "submission_url": "https://codeforces.com/contest/627/submission/263069685",
+    "tags": [
+      "two pointers",
+      "*3000"
+    ],
+    "timestamp": "May/29/2024 04:50"
+  },
   "CF263069760": {
     "contest_id": 1477,
     "language": "C++20 (GCC 13-64)",
