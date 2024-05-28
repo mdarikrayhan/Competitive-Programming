@@ -23393,6 +23393,25 @@
     ],
     "timestamp": "May/17/2024 08:26"
   },
+  "CF262946319": {
+    "contest_id": 1548,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1548/C.cpp",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "The Three Little Pigs",
+    "problem_url": "https://codeforces.com/contest/1548/problem/C",
+    "submission_id": "CF262946319",
+    "submission_url": "https://codeforces.com/contest/1548/submission/262946319",
+    "tags": [
+      "combinatorics",
+      "dp",
+      "fft",
+      "math",
+      "*2500"
+    ],
+    "timestamp": "May/28/2024 08:10"
+  },
   "CF262946342": {
     "contest_id": 1594,
     "language": "C++20 (GCC 13-64)",
