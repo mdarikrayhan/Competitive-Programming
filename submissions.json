@@ -23393,6 +23393,24 @@
     ],
     "timestamp": "May/17/2024 08:26"
   },
+  "CF263057483": {
+    "contest_id": 1312,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1312/G.cpp",
+    "platform": "Codeforces",
+    "problem_index": "G",
+    "problem_name": "Autocompletion",
+    "problem_url": "https://codeforces.com/contest/1312/problem/G",
+    "submission_id": "CF263057483",
+    "submission_url": "https://codeforces.com/contest/1312/submission/263057483",
+    "tags": [
+      "data structures",
+      "dfs and similar",
+      "dp",
+      "*2600"
+    ],
+    "timestamp": "May/29/2024 01:15"
+  },
   "CF263057500": {
     "contest_id": 1758,
     "language": "C++20 (GCC 13-64)",
