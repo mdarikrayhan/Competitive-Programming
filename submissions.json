@@ -23393,6 +23393,24 @@
     ],
     "timestamp": "May/17/2024 08:26"
   },
+  "CF263059518": {
+    "contest_id": 232,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/232/E.cpp",
+    "platform": "Codeforces",
+    "problem_index": "E",
+    "problem_name": "Quick Tortoise",
+    "problem_url": "https://codeforces.com/contest/232/problem/E",
+    "submission_id": "CF263059518",
+    "submission_url": "https://codeforces.com/contest/232/submission/263059518",
+    "tags": [
+      "bitmasks",
+      "divide and conquer",
+      "dp",
+      "*3000"
+    ],
+    "timestamp": "May/29/2024 01:41"
+  },
   "CF263059658": {
     "contest_id": 607,
     "language": "C++20 (GCC 13-64)",
