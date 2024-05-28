@@ -23393,6 +23393,24 @@
     ],
     "timestamp": "May/17/2024 08:26"
   },
+  "CF262990974": {
+    "contest_id": 1909,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1909/F2.cpp",
+    "platform": "Codeforces",
+    "problem_index": "F2",
+    "problem_name": "Small Permutation Problem (Hard Version)",
+    "problem_url": "https://codeforces.com/contest/1909/problem/F2",
+    "submission_id": "CF262990974",
+    "submission_url": "https://codeforces.com/contest/1909/submission/262990974",
+    "tags": [
+      "combinatorics",
+      "dp",
+      "math",
+      "*2500"
+    ],
+    "timestamp": "May/28/2024 15:51"
+  },
   "CF262991000": {
     "contest_id": 487,
     "language": "C++20 (GCC 13-64)",
