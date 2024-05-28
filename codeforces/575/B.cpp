@@ -1,71 +1,117 @@
+// LUOGU_RID: 158969570
 #include<bits/stdc++.h>
-#define ll long long
-#define ri register
-#define all(x) (x).begin(),(x).end()
 using namespace std;
-template<typename T_>void operator+=(vector<T_>&x,const T_&y){x.emplace_back(y);}
-const int N=1e5+7,p=1e9+7;
-inline int qp(int a,int o){
-	int res=1;
-	while(o){
-		if(o&1)res=1ll*res*a%p;
-		a=1ll*a*a%p,o>>=1;
+
+#define ONLINE
+#ifndef ONLINE
+#define debug(...) fprintf(stderr,##__VA_ARGS__)
+#else
+#define debug(...) ;
+#endif
+
+using LL=long long;
+using PII=pair<int,int>;
+
+template<typename T>
+inline T READ(){
+	T x=0; bool f=0; char c=getchar();
+	while(c<'0' || c>'9') f|=(c=='-'),c=getchar();
+	while(c>='0' && c<='9') x=x*10+c-'0',c=getchar();
+	return f?-x:x;
+}
+inline int read(){return READ<int>();}
+inline LL readLL(){return READ<LL>();}
+mt19937 rng(chrono::system_clock::now().time_since_epoch().count());
+
+const int mod=1e9+7;
+LL ksm2(LL b){
+	LL a=2,ret=1;
+	while(b){
+		if(b&1) ret=ret*a%mod;
+		a=a*a%mod;
+		b>>=1;
 	}
-	return res;
-}
-ll ans;
-int n,m,dep[N],fa[N],tp[N],son[N],sz[N],U[N],D[N];
-vector<vector<pair<int,int>>>e;
-vector<int>s(1,1);
-inline void dfs1(int u,int rt){
-	sz[u]=1,fa[u]=rt,dep[u]=dep[rt]+1;
-	for(auto[v,w]:e[u])if(v^rt){
-		dfs1(v,u),sz[u]+=sz[v];
-		if(sz[v]>sz[son[u]])son[u]=v;
-	}
-}
-inline void dfs2(int u,int t){
-	tp[u]=t;
-	if(!son[u])return;
-	dfs2(son[u],t);
-	for(auto[v,w]:e[u])if(v^fa[u]&&v^son[u])
-		dfs2(v,v);
-}
-inline void dfs3(int u){
-	for(auto[v,w]:e[u])if(v^fa[u])
-		dfs3(v),U[u]+=U[v],D[u]+=D[v]; 
-}
-inline int lca(int x,int y){
-	int fx=tp[x],fy=tp[y];
-	while(fx!=fy){
-		if(dep[fx]<dep[fy])swap(fx,fy),swap(x,y);
-		x=fa[tp[x]],fx=tp[x];
-	}
-	return dep[x]>dep[y]?y:x;
+	return ret;
 }
 int main(){
-	ios::sync_with_stdio(0),cin.tie(0),cout.tie(0);
-	cin>>n,e.resize(n+1);
-	for(int i=1,x,y,z;i<n;i++){
-		cin>>x>>y>>z;
-		if(!z)e[x]+={y,0},e[y]+={x,0};
-		else e[x]+={y,0},e[y]+={x,1};
-	}
-	dfs1(1,0),dfs2(1,1);
-	cin>>m;
-	for(int i=1,x;i<=m;i++)cin>>x,s+=x;
-	for(int i=1,lc;i<=m;i++){
-		lc=lca(s[i-1],s[i]);
-		U[s[i-1]]++,U[lc]--,D[s[i]]++,D[lc]--;
-	}
-	dfs3(1);
-	for(int u=1;u<=n;u++)
-		for(auto[v,w]:e[u]){
-			if(w&&dep[u]>dep[v])
-				(ans+=qp(2,U[u])+p-1)%=p;
-			else if(w)
-				(ans+=qp(2,D[v])+p-1)%=p;
+	int n=read(),root=1;
+	vector<vector<int>>e(n+1);
+	unordered_set<LL>key;
+	auto get=[&](const int& u,const int& v)->int{
+		return 1ll*u*(n+1)+v;
+	};
+	for(int i=1,u,v;i<n;i++){
+		u=read(),v=read();
+		e[u].push_back(v);
+		e[v].push_back(u);
+		if(read()){
+			key.insert(get(v,u));
 		}
-	cout<<ans<<'\n';
+	}
+	vector<int>dep(n+1),fa(n+1),siz(n+1),son(n+1);
+	auto dfs1=[&](auto self,int u,int pre)->void{
+		dep[u]=dep[pre]+1,fa[u]=pre,siz[u]=1;
+		for(int v:e[u]){
+			if(v==pre) continue;
+			self(self,v,u);
+			siz[u]+=siz[v];
+			if(siz[v]>siz[son[u]]) son[u]=v;
+		}
+	};
+	dfs1(dfs1,root,0);
+	vector<int>id(n+1),nw(n+1),top(n+1);
+	int timStamp=0;
+	auto dfs2=[&](auto self,int u,int t)->void{
+		id[u]=++timStamp,nw[timStamp]=u,top[u]=t;
+		if(!son[u]) return;
+		self(self,son[u],t);
+		for(int v:e[u]){
+			if(v==fa[u] || v==son[u]) continue;
+			self(self,v,v);
+		}
+	};
+	dfs2(dfs2,root,root);
+	auto LCA=[&](int u,int v)->int{
+		while(top[u]!=top[v]){
+			if(dep[top[u]]<dep[top[v]]) swap(u,v);
+			u=fa[top[u]];
+		}
+		return dep[u]<dep[v]?u:v;
+	};
+	vector<int>a(n+1),b(n+1);//a:up b:down
+	for(int T=read(),last=1,nw;T--;){
+		nw=read();
+		int lca=LCA(nw,last);
+		a[last]++,a[lca]--;
+		b[nw]++,b[lca]--;
+		last=nw;
+	}
+	LL ans=0;
+	auto dfs=[&](auto self,int u)->PII{
+		int A=a[u],B=b[u];
+		for(int v:e[u]){
+			if(v==fa[u]) continue;
+			auto [add_a,add_b]=self(self,v);
+			A+=add_a,B+=add_b;
+			if(key.count(get(v,u))){//a
+				ans=(ans+ksm2(add_a)+mod-1)%mod;
+			}
+			if(key.count(get(u,v))){//b
+				ans=(ans+ksm2(add_b)+mod-1)%mod;
+			}
+		}
+		debug("u=%d A=%d B=%d\n",u,A,B);
+		return {A,B};
+	};
+	dfs(dfs,root);
+	printf("%lld\n",ans);
 	return 0;
 }
+
+/* stuff you should look for
+* int overflow, array bounds
+* special cases (n=1?)
+* do smth instead of nothing and stay organized
+* WRITE STUFF DOWN
+* DON'T GET STUCK ON ONE APPROACH
+*/
