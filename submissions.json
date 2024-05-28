@@ -23792,6 +23792,24 @@
     ],
     "timestamp": "May/28/2024 12:14"
   },
+  "CF262966047": {
+    "contest_id": 338,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/338/D.cpp",
+    "platform": "Codeforces",
+    "problem_index": "D",
+    "problem_name": "GCD Table",
+    "problem_url": "https://codeforces.com/contest/338/problem/D",
+    "submission_id": "CF262966047",
+    "submission_url": "https://codeforces.com/contest/338/submission/262966047",
+    "tags": [
+      "chinese remainder theorem",
+      "math",
+      "number theory",
+      "*2900"
+    ],
+    "timestamp": "May/28/2024 12:15"
+  },
   "CF262966050": {
     "contest_id": 1858,
     "language": "C++20 (GCC 13-64)",
