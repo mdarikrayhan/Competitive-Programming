@@ -35174,6 +35174,25 @@
     ],
     "timestamp": "May/29/2024 03:55"
   },
+  "CF263067798": {
+    "contest_id": 571,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/571/D.cpp",
+    "platform": "Codeforces",
+    "problem_index": "D",
+    "problem_name": "Campus",
+    "problem_url": "https://codeforces.com/contest/571/problem/D",
+    "submission_id": "CF263067798",
+    "submission_url": "https://codeforces.com/contest/571/submission/263067798",
+    "tags": [
+      "binary search",
+      "data structures",
+      "dsu",
+      "trees",
+      "*3100"
+    ],
+    "timestamp": "May/29/2024 04:01"
+  },
   "CF263067812": {
     "contest_id": 144,
     "language": "C++20 (GCC 13-64)",
