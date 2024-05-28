@@ -35174,6 +35174,22 @@
     ],
     "timestamp": "May/29/2024 03:55"
   },
+  "CF263068266": {
+    "contest_id": 1219,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1219/G.cpp",
+    "platform": "Codeforces",
+    "problem_index": "G",
+    "problem_name": "Harvester",
+    "problem_url": "https://codeforces.com/contest/1219/problem/G",
+    "submission_id": "CF263068266",
+    "submission_url": "https://codeforces.com/contest/1219/submission/263068266",
+    "tags": [
+      "implementation",
+      "*2000"
+    ],
+    "timestamp": "May/29/2024 04:11"
+  },
   "CF263068283": {
     "contest_id": 1661,
     "language": "C++20 (GCC 13-64)",
