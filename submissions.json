@@ -23393,6 +23393,22 @@
     ],
     "timestamp": "May/17/2024 08:26"
   },
+  "CF262986103": {
+    "contest_id": 661,
+    "language": "J",
+    "path": "codeforces/661/D.ijs",
+    "platform": "Codeforces",
+    "problem_index": "D",
+    "problem_name": "Maximal Difference",
+    "problem_url": "https://codeforces.com/contest/661/problem/D",
+    "submission_id": "CF262986103",
+    "submission_url": "https://codeforces.com/contest/661/submission/262986103",
+    "tags": [
+      "*special problem",
+      "*2100"
+    ],
+    "timestamp": "May/28/2024 15:09"
+  },
   "CF262986141": {
     "contest_id": 661,
     "language": "J",
