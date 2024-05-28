@@ -1,27 +1,88 @@
-#include<bits/stdc++.h>
+#include <bits/stdc++.h>
+
 using namespace std;
-const int p=998244353;
-const int maxn=3e5+100;
-inline int quick_power(int a,int b){
-	int ret=1;while(b){if(b&1)ret=1ll*ret*a%p;b>>=1,a=1ll*a*a%p;}return ret;
+
+typedef long long ll;
+
+#define pb push_back
+#define sz(x) (int)x.size()
+#define all(x) begin(x),end(x)
+#define lb(x,y) lower_bound(all(x),y)-begin(x)
+
+mt19937 rng;
+
+int mod = 998244353;
+
+ll exGCD(ll a, ll b, ll &x, ll &y) {
+    if (a == 0) { x = 0; y = 1; return b; }
+    ll g = exGCD(b % a, a, x, y);
+    ll t = x; x = y - b / a * x; y = t;
+    return g;
 }
-#define rev(x) (quick_power(x,p-2))
-int fct[maxn],rfct[maxn],pw[maxn];
-inline int C(int n,int m){
-	if(n<0||m<0||m>n)return 0;
-	return 1ll*fct[n]*rfct[m]%p*rfct[n-m]%p;
+
+int mInv(int n) {
+    ll x, y, g = exGCD(n, mod, x, y);
+    if (g != 1) return 0;
+    return (x % mod + mod) % mod;
 }
-int main(void){
-	ios::sync_with_stdio(0);
-	cin.tie(0);cout.tie(0);
-	int n,m,k;cin>>n>>m>>k;
-	fct[0]=1,pw[0]=1;for(int i=1;i<=n;++i)fct[i]=1ll*fct[i-1]*i%p,pw[i]=2ll*pw[i-1]%p;;
-	rfct[n]=rev(fct[n]);for(int i=n-1;i>=0;--i)rfct[i]=1ll*rfct[i+1]*(i+1)%p;
-	if(1ll*m*k>n){cout<<0;return 0;}
-	long long ans=0;
-	for(int i=0,c=1;i<=m&&i*k<=n;++i,c=-c){
-		ans+=1ll*C(n-(m-i)*k-i*(2*k),m)*C(m,i)%p*pw[m-i]%p*c;
-	}
-	cout<<(ans%p+p)%p;
-	return 0;
+
+vector<int> factArr = {1}, factInvArr = {1};
+int fact(int n) {
+    while (sz(factArr) <= n)
+        factArr.pb((int)((ll)factArr[sz(factArr) - 1] * sz(factArr) % mod));
+    return factArr[n];
+}
+
+int factInv(int n) {
+    fact(n);
+    while (sz(factInvArr) <= n)
+        factInvArr.pb(mInv(factArr[sz(factInvArr)]));
+    return factInvArr[n];
+}
+
+int choose(int n, int k) {
+    if (k < 0 || k > n) return 0;
+    return (int)((ll)fact(n) * factInv(k) % mod * factInv(n - k) % mod);
+}
+
+int mPow(int n, int p) {
+    int res = 1, pow = n;
+    while (p > 0) {
+        if ((p & 1) == 1)
+            res = (int)((ll)res * pow % mod);
+        pow = (int)((ll)pow * pow % mod);
+        p >>= 1;
+    }
+    return res;
+}
+
+void solve() {
+    int n, m, k; cin >> n >> m >> k; k++;
+    if ((ll)m * k > n) {
+        cout << 0 << "\n";
+        return;
+    }
+    ll res = 0;
+    for (int i = 0; i <= m; i++) {
+        int s = n - ((m - i) * k + i * (k * 2 - 1));
+        ll n = (ll)choose(m, i) * choose(s + m, s) % mod * mPow(2, m - i) % mod;
+        if (i % 2 == 0) {
+            res += n;
+            if (res >= mod) res -= mod;
+        } else {
+            res -= n;
+            if (res < 0) res += mod;
+        }
+    }
+    cout << res << "\n";
+}
+
+int main() {
+    ios::sync_with_stdio(false);
+    cin.tie(nullptr);
+    rng = mt19937(chrono::steady_clock::now().time_since_epoch().count());
+
+    solve();
+
+    return 0;
 }
