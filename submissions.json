@@ -69583,6 +69583,22 @@
     ],
     "timestamp": "May/29/2024 03:14"
   },
+  "CF263066301": {
+    "contest_id": 1270,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1270/H.cpp",
+    "platform": "Codeforces",
+    "problem_index": "H",
+    "problem_name": "Number of Components",
+    "problem_url": "https://codeforces.com/contest/1270/problem/H",
+    "submission_id": "CF263066301",
+    "submission_url": "https://codeforces.com/contest/1270/submission/263066301",
+    "tags": [
+      "data structures",
+      "*3300"
+    ],
+    "timestamp": "May/29/2024 03:29"
+  },
   "CF263066320": {
     "contest_id": 650,
     "language": "C++20 (GCC 13-64)",
