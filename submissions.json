@@ -23996,6 +23996,22 @@
     ],
     "timestamp": "May/28/2024 08:13"
   },
+  "CF262950207": {
+    "contest_id": 12,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/12/E.cpp",
+    "platform": "Codeforces",
+    "problem_index": "E",
+    "problem_name": "Start of the session",
+    "problem_url": "https://codeforces.com/contest/12/problem/E",
+    "submission_id": "CF262950207",
+    "submission_url": "https://codeforces.com/contest/12/submission/262950207",
+    "tags": [
+      "constructive algorithms",
+      "*2100"
+    ],
+    "timestamp": "May/28/2024 09:16"
+  },
   "CF262950223": {
     "contest_id": 1313,
     "language": "C++20 (GCC 13-64)",
