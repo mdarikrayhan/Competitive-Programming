@@ -23393,6 +23393,27 @@
     ],
     "timestamp": "May/17/2024 08:26"
   },
+  "CF262982474": {
+    "contest_id": 755,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/755/G.cpp",
+    "platform": "Codeforces",
+    "problem_index": "G",
+    "problem_name": "PolandBall and Many Other Balls",
+    "problem_url": "https://codeforces.com/contest/755/problem/G",
+    "submission_id": "CF262982474",
+    "submission_url": "https://codeforces.com/contest/755/submission/262982474",
+    "tags": [
+      "combinatorics",
+      "divide and conquer",
+      "dp",
+      "fft",
+      "math",
+      "number theory",
+      "*3200"
+    ],
+    "timestamp": "May/28/2024 14:38"
+  },
   "CF262982614": {
     "contest_id": 1001,
     "language": "Q#",
