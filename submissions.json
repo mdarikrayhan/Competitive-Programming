@@ -23393,6 +23393,24 @@
     ],
     "timestamp": "May/17/2024 08:26"
   },
+  "CF262946464": {
+    "contest_id": 223,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/223/B.cpp",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Two Strings",
+    "problem_url": "https://codeforces.com/contest/223/problem/B",
+    "submission_id": "CF262946464",
+    "submission_url": "https://codeforces.com/contest/223/submission/262946464",
+    "tags": [
+      "data structures",
+      "dp",
+      "strings",
+      "*1900"
+    ],
+    "timestamp": "May/28/2024 08:12"
+  },
   "CF262946483": {
     "contest_id": 1617,
     "language": "C++20 (GCC 13-64)",
