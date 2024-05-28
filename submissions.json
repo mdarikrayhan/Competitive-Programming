@@ -70753,6 +70753,24 @@
     ],
     "timestamp": "May/28/2024 16:21"
   },
+  "CF262996871": {
+    "contest_id": 250,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/250/D.cpp",
+    "platform": "Codeforces",
+    "problem_index": "D",
+    "problem_name": "Building Bridge",
+    "problem_url": "https://codeforces.com/contest/250/problem/D",
+    "submission_id": "CF262996871",
+    "submission_url": "https://codeforces.com/contest/250/submission/262996871",
+    "tags": [
+      "geometry",
+      "ternary search",
+      "two pointers",
+      "*1900"
+    ],
+    "timestamp": "May/28/2024 16:43"
+  },
   "CF262997194": {
     "contest_id": 29,
     "language": "C++20 (GCC 13-64)",
