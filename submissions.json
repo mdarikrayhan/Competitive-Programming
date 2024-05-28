@@ -59861,6 +59861,24 @@
     ],
     "timestamp": "May/28/2024 06:21"
   },
+  "CF262941723": {
+    "contest_id": 862,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/862/E.cpp",
+    "platform": "Codeforces",
+    "problem_index": "E",
+    "problem_name": "Mahmoud and Ehab and the function",
+    "problem_url": "https://codeforces.com/contest/862/problem/E",
+    "submission_id": "CF262941723",
+    "submission_url": "https://codeforces.com/contest/862/submission/262941723",
+    "tags": [
+      "binary search",
+      "data structures",
+      "sortings",
+      "*2100"
+    ],
+    "timestamp": "May/28/2024 06:26"
+  },
   "CF262941727": {
     "contest_id": 232,
     "language": "C++20 (GCC 13-64)",
