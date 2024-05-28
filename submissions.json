@@ -23393,6 +23393,23 @@
     ],
     "timestamp": "May/17/2024 08:26"
   },
+  "CF262982424": {
+    "contest_id": 433,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/433/D.cpp",
+    "platform": "Codeforces",
+    "problem_index": "D",
+    "problem_name": "Nanami's Digital Board",
+    "problem_url": "https://codeforces.com/contest/433/problem/D",
+    "submission_id": "CF262982424",
+    "submission_url": "https://codeforces.com/contest/433/submission/262982424",
+    "tags": [
+      "dsu",
+      "implementation",
+      "*2000"
+    ],
+    "timestamp": "May/28/2024 14:37"
+  },
   "CF262982472": {
     "contest_id": 433,
     "language": "C++20 (GCC 13-64)",
