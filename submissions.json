@@ -27390,6 +27390,28 @@
     ],
     "timestamp": "May/28/2024 15:43"
   },
+  "CF262990334": {
+    "contest_id": 1091,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1091/E.cpp",
+    "platform": "Codeforces",
+    "problem_index": "E",
+    "problem_name": "New Year and the Acquaintance Estimation",
+    "problem_url": "https://codeforces.com/contest/1091/problem/E",
+    "submission_id": "CF262990334",
+    "submission_url": "https://codeforces.com/contest/1091/submission/262990334",
+    "tags": [
+      "binary search",
+      "data structures",
+      "graphs",
+      "greedy",
+      "implementation",
+      "math",
+      "sortings",
+      "*2400"
+    ],
+    "timestamp": "May/28/2024 15:46"
+  },
   "CF262990357": {
     "contest_id": 77,
     "language": "C++20 (GCC 13-64)",
