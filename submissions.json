@@ -23393,6 +23393,26 @@
     ],
     "timestamp": "May/17/2024 08:26"
   },
+  "CF263063316": {
+    "contest_id": 1486,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1486/F.cpp",
+    "platform": "Codeforces",
+    "problem_index": "F",
+    "problem_name": "Pairs of Paths",
+    "problem_url": "https://codeforces.com/contest/1486/problem/F",
+    "submission_id": "CF263063316",
+    "submission_url": "https://codeforces.com/contest/1486/submission/263063316",
+    "tags": [
+      "combinatorics",
+      "data structures",
+      "dfs and similar",
+      "dp",
+      "trees",
+      "*2600"
+    ],
+    "timestamp": "May/29/2024 02:36"
+  },
   "CF263063331": {
     "contest_id": 1621,
     "language": "C++20 (GCC 13-64)",
