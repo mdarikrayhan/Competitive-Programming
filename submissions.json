@@ -35174,6 +35174,23 @@
     ],
     "timestamp": "May/29/2024 03:55"
   },
+  "CF263068025": {
+    "contest_id": 976,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/976/F.cpp",
+    "platform": "Codeforces",
+    "problem_index": "F",
+    "problem_name": "Minimal k-covering",
+    "problem_url": "https://codeforces.com/contest/976/problem/F",
+    "submission_id": "CF263068025",
+    "submission_url": "https://codeforces.com/contest/976/submission/263068025",
+    "tags": [
+      "flows",
+      "graphs",
+      "*2500"
+    ],
+    "timestamp": "May/29/2024 04:06"
+  },
   "CF263068064": {
     "contest_id": 725,
     "language": "C++20 (GCC 13-64)",
