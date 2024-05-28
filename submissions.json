@@ -23393,6 +23393,22 @@
     ],
     "timestamp": "May/17/2024 08:26"
   },
+  "CF262946036": {
+    "contest_id": 756,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/756/C.cpp",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Nikita and stack",
+    "problem_url": "https://codeforces.com/contest/756/problem/C",
+    "submission_id": "CF262946036",
+    "submission_url": "https://codeforces.com/contest/756/submission/262946036",
+    "tags": [
+      "data structures",
+      "*2200"
+    ],
+    "timestamp": "May/28/2024 08:04"
+  },
   "CF262946049": {
     "contest_id": 755,
     "language": "C++20 (GCC 13-64)",
