@@ -23996,6 +23996,27 @@
     ],
     "timestamp": "May/28/2024 08:13"
   },
+  "CF262948345": {
+    "contest_id": 1797,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1797/E.cpp",
+    "platform": "Codeforces",
+    "problem_index": "E",
+    "problem_name": "Li Hua and Array",
+    "problem_url": "https://codeforces.com/contest/1797/problem/E",
+    "submission_id": "CF262948345",
+    "submission_url": "https://codeforces.com/contest/1797/submission/262948345",
+    "tags": [
+      "brute force",
+      "data structures",
+      "dsu",
+      "math",
+      "number theory",
+      "two pointers",
+      "*2300"
+    ],
+    "timestamp": "May/28/2024 08:47"
+  },
   "CF262948358": {
     "contest_id": 1607,
     "language": "C++20 (GCC 13-64)",
