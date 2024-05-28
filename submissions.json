@@ -72602,6 +72602,25 @@
     ],
     "timestamp": "May/29/2024 00:59"
   },
+  "CF263056224": {
+    "contest_id": 830,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/830/D.cpp",
+    "platform": "Codeforces",
+    "problem_index": "D",
+    "problem_name": "Singer House",
+    "problem_url": "https://codeforces.com/contest/830/problem/D",
+    "submission_id": "CF263056224",
+    "submission_url": "https://codeforces.com/contest/830/submission/263056224",
+    "tags": [
+      "combinatorics",
+      "dp",
+      "graphs",
+      "trees",
+      "*2800"
+    ],
+    "timestamp": "May/29/2024 01:00"
+  },
   "CF263056226": {
     "contest_id": 444,
     "language": "C++20 (GCC 13-64)",
