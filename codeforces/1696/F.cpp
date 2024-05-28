@@ -1,66 +1,92 @@
-#include<iostream>
-#include<string>
-#include<cstring>
-using namespace std;
-const int N=105;
-int n,a[N][N][N],vis[N],d[N][N];
-string G[N];
-int build(int x,int fa){
-	for(int y=1;y<=n;y++)
-		if(a[fa][y][x]){
-			if(vis[y]) return 1;
-			vis[y]=1;
-			G[x]+=y;
-			G[y]+=x;
-			if(build(y,x)) return 1;
-		}
-	return 0;
+#include <bits/stdc++.h>
+
+using i64 = long long;
+
+void solve() {
+    int n;
+    std::cin >> n;
+    
+    std::vector f(n, std::vector<std::string>(n));
+    for (int i = 0; i < n - 1; i++) {
+        for (int j = i + 1; j < n; j++) {
+            std::cin >> f[i][j];
+            f[j][i] = f[i][j];
+        }
+    }
+    
+    for (int x = 1; x < n; x++) {
+        std::vector<bool> vis(n);
+        vis[0] = true;
+        vis[x] = true;
+        std::vector<std::pair<int, int>> edges;
+        edges.emplace_back(0, x);
+        auto dfs = [&](auto self, int u, int v) -> void {
+            for (int i = 0; i < n; i++) {
+                if (vis[i] || f[i][u][v] == '0') {
+                    continue;
+                }
+                vis[i] = true;
+                edges.emplace_back(v, i);
+                self(self, v, i);
+            }
+        };
+        dfs(dfs, 0, x);
+        dfs(dfs, x, 0);
+        
+        if (edges.size() != n - 1) {
+            continue;
+        }
+        
+        std::vector<std::vector<int>> adj(n);
+        for (auto [u, v] : edges) {
+            adj[u].push_back(v);
+            adj[v].push_back(u);
+        }
+        std::vector dis(n, std::vector<int>(n));
+        for (int i = 0; i < n; i++) {
+            auto dfs = [&](auto self, int v, int p) -> void {
+                for (auto u : adj[v]) {
+                    if (u == p) {
+                        continue;
+                    }
+                    dis[i][u] = dis[i][v] + 1;
+                    self(self, u, v);
+                }
+            };
+            dfs(dfs, i, -1);
+        }
+        
+        bool ok = true;
+        for (int x = 0; x < n; x++) {
+            for (int y = x + 1; y < n; y++) {
+                for (int z = 0; z < n; z++) {
+                    if ((f[x][y][z] == '1') != (dis[x][z] == dis[y][z])) {
+                        ok = false;
+                    }
+                }
+            }
+        }
+        if (ok) {
+            std::cout << "Yes\n";
+            for (auto [u, v] : edges) {
+                std::cout << u + 1 << " " << v + 1 << "\n";
+            }
+            return;
+        }
+    }
+    std::cout << "No\n";
 }
-void dfs(int x,int fa,int rt){
-	for(int y:G[x]){
-		if(y==fa) continue;
-		d[rt][y]=d[rt][x]+1;
-		dfs(y,x,rt);
-	}
-}
-bool check(int p){
-	memset(vis+1,0,sizeof(int)*n);
-	for(int i=1;i<=n;i++) G[i]="";
-	vis[1]=vis[p]=1;
-	G[1]+=p;
-	G[p]+=1;
-	if(build(1,p)||build(p,1)) return 0;
-	for(int i=1;i<=n;i++){
-		if(!vis[i]) return 0;
-		dfs(i,0,i);
-	}
-	for(int i=1;i<=n;i++)
-		for(int j=i+1;j<=n;j++)
-			for(int k=1;k<=n;k++)
-				if(d[i][k]==d[j][k]^a[i][j][k]) return 0;
-	return 1;
-}
-void solve(){
-	cin>>n;
-	char z;
-	int x;
-	for(int i=1;i<=n;i++)
-		for(int j=i+1;j<=n;j++)
-			for(int k=1;k<=n;k++){
-				cin>>z;
-				x=z-'0';
-				a[i][j][k]=a[j][i][k]=x;
-			}
-	for(int i=2;i<=n;i++)
-		if(check(i)){
-			cout<<"Yes\n";;
-			for(int x=1;x<=n;x++)
-				for(int y:G[x])if(x<y) cout<<x<<' '<<y<<"\n";
-			return;
-		}
-	cout<<"No\n";
-}
-int main(){
-	int tt; cin>>tt;
-	while(tt--) solve();
+
+int main() {
+    std::ios::sync_with_stdio(false);
+    std::cin.tie(nullptr);
+    
+    int t;
+    std::cin >> t;
+    
+    while (t--) {
+        solve();
+    }
+    
+    return 0;
 }

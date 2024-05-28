@@ -25822,6 +25822,27 @@
     ],
     "timestamp": "May/28/2024 15:59"
   },
+  "CF262999423": {
+    "contest_id": 1696,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1696/F.cpp",
+    "platform": "Codeforces",
+    "problem_index": "F",
+    "problem_name": "Tree Recovery",
+    "problem_url": "https://codeforces.com/contest/1696/problem/F",
+    "submission_id": "CF262999423",
+    "submission_url": "https://codeforces.com/contest/1696/submission/262999423",
+    "tags": [
+      "brute force",
+      "constructive algorithms",
+      "dfs and similar",
+      "dsu",
+      "graphs",
+      "trees",
+      "*2600"
+    ],
+    "timestamp": "May/28/2024 17:04"
+  },
   "CF262999574": {
     "contest_id": 1420,
     "language": "C++20 (GCC 13-64)",
