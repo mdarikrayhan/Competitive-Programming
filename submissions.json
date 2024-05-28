@@ -23393,6 +23393,23 @@
     ],
     "timestamp": "May/17/2024 08:26"
   },
+  "CF262961478": {
+    "contest_id": 926,
+    "language": "Ruby 3",
+    "path": "codeforces/926/E.rb",
+    "platform": "Codeforces",
+    "problem_index": "E",
+    "problem_name": "Merge Equal Elements",
+    "problem_url": "https://codeforces.com/contest/926/problem/E",
+    "submission_id": "CF262961478",
+    "submission_url": "https://codeforces.com/contest/926/submission/262961478",
+    "tags": [
+      "constructive algorithms",
+      "data structures",
+      "*1900"
+    ],
+    "timestamp": "May/28/2024 11:31"
+  },
   "CF262962034": {
     "contest_id": 926,
     "language": "C# 10",
