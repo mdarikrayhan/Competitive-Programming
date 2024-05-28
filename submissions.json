@@ -56079,6 +56079,22 @@
     ],
     "timestamp": "May/28/2024 09:19"
   },
+  "CF262950437": {
+    "contest_id": 36,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/36/B.cpp",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Fractal",
+    "problem_url": "https://codeforces.com/contest/36/problem/B",
+    "submission_id": "CF262950437",
+    "submission_url": "https://codeforces.com/contest/36/submission/262950437",
+    "tags": [
+      "implementation",
+      "*1600"
+    ],
+    "timestamp": "May/28/2024 09:20"
+  },
   "CF262950450": {
     "contest_id": 258,
     "language": "C++20 (GCC 13-64)",
