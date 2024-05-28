@@ -56079,6 +56079,25 @@
     ],
     "timestamp": "May/28/2024 09:19"
   },
+  "CF262951482": {
+    "contest_id": 662,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/662/A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Gambling Nim",
+    "problem_url": "https://codeforces.com/contest/662/problem/A",
+    "submission_id": "CF262951482",
+    "submission_url": "https://codeforces.com/contest/662/submission/262951482",
+    "tags": [
+      "bitmasks",
+      "math",
+      "matrices",
+      "probabilities",
+      "*2400"
+    ],
+    "timestamp": "May/28/2024 09:36"
+  },
   "CF262951489": {
     "contest_id": 901,
     "language": "C++20 (GCC 13-64)",
