@@ -23393,6 +23393,24 @@
     ],
     "timestamp": "May/17/2024 08:26"
   },
+  "CF263056751": {
+    "contest_id": 1491,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1491/G.cpp",
+    "platform": "Codeforces",
+    "problem_index": "G",
+    "problem_name": "Switch and Flip",
+    "problem_url": "https://codeforces.com/contest/1491/problem/G",
+    "submission_id": "CF263056751",
+    "submission_url": "https://codeforces.com/contest/1491/submission/263056751",
+    "tags": [
+      "constructive algorithms",
+      "graphs",
+      "math",
+      "*2800"
+    ],
+    "timestamp": "May/29/2024 01:07"
+  },
   "CF263056762": {
     "contest_id": 1063,
     "language": "C++20 (GCC 13-64)",
