@@ -23792,6 +23792,22 @@
     ],
     "timestamp": "May/28/2024 12:14"
   },
+  "CF262966940": {
+    "contest_id": 997,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/997/E.cpp",
+    "platform": "Codeforces",
+    "problem_index": "E",
+    "problem_name": "Good Subsegments",
+    "problem_url": "https://codeforces.com/contest/997/problem/E",
+    "submission_id": "CF262966940",
+    "submission_url": "https://codeforces.com/contest/997/submission/262966940",
+    "tags": [
+      "data structures",
+      "*3000"
+    ],
+    "timestamp": "May/28/2024 12:24"
+  },
   "CF262967005": {
     "contest_id": 713,
     "language": "C++20 (GCC 13-64)",
