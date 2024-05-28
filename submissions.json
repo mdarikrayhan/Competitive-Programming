@@ -23393,6 +23393,22 @@
     ],
     "timestamp": "May/17/2024 08:26"
   },
+  "CF263060405": {
+    "contest_id": 162,
+    "language": "Factor",
+    "path": "codeforces/162/J.factor",
+    "platform": "Codeforces",
+    "problem_index": "J",
+    "problem_name": "Brackets",
+    "problem_url": "https://codeforces.com/contest/162/problem/J",
+    "submission_id": "CF263060405",
+    "submission_url": "https://codeforces.com/contest/162/submission/263060405",
+    "tags": [
+      "*special problem",
+      "*1800"
+    ],
+    "timestamp": "May/29/2024 01:53"
+  },
   "CF263060478": {
     "contest_id": 28,
     "language": "C++20 (GCC 13-64)",
