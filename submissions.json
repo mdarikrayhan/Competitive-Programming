@@ -70165,6 +70165,24 @@
     ],
     "timestamp": "May/29/2024 03:55"
   },
+  "CF263067591": {
+    "contest_id": 1866,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1866/L.cpp",
+    "platform": "Codeforces",
+    "problem_index": "L",
+    "problem_name": "Lihmuf Balling",
+    "problem_url": "https://codeforces.com/contest/1866/problem/L",
+    "submission_id": "CF263067591",
+    "submission_url": "https://codeforces.com/contest/1866/submission/263067591",
+    "tags": [
+      "binary search",
+      "brute force",
+      "math",
+      "*2400"
+    ],
+    "timestamp": "May/29/2024 03:56"
+  },
   "CF263067599": {
     "contest_id": 1896,
     "language": "C++20 (GCC 13-64)",
