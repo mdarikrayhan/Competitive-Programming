@@ -59861,6 +59861,26 @@
     ],
     "timestamp": "May/28/2024 06:21"
   },
+  "CF262942699": {
+    "contest_id": 1385,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1385/G.cpp",
+    "platform": "Codeforces",
+    "problem_index": "G",
+    "problem_name": "Columns Swaps",
+    "problem_url": "https://codeforces.com/contest/1385/problem/G",
+    "submission_id": "CF262942699",
+    "submission_url": "https://codeforces.com/contest/1385/submission/262942699",
+    "tags": [
+      "2-sat",
+      "dfs and similar",
+      "dsu",
+      "graphs",
+      "implementation",
+      "*2300"
+    ],
+    "timestamp": "May/28/2024 06:51"
+  },
   "CF262945021": {
     "contest_id": 748,
     "language": "C++20 (GCC 13-64)",
