@@ -72241,6 +72241,25 @@
     ],
     "timestamp": "May/29/2024 00:54"
   },
+  "CF263055615": {
+    "contest_id": 1070,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1070/G.cpp",
+    "platform": "Codeforces",
+    "problem_index": "G",
+    "problem_name": "Monsters and Potions",
+    "problem_url": "https://codeforces.com/contest/1070/problem/G",
+    "submission_id": "CF263055615",
+    "submission_url": "https://codeforces.com/contest/1070/submission/263055615",
+    "tags": [
+      "brute force",
+      "dp",
+      "greedy",
+      "implementation",
+      "*2300"
+    ],
+    "timestamp": "May/29/2024 00:54"
+  },
   "CF263055619": {
     "contest_id": 48,
     "language": "C++20 (GCC 13-64)",
