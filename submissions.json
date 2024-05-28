@@ -23393,6 +23393,26 @@
     ],
     "timestamp": "May/17/2024 08:26"
   },
+  "CF262946187": {
+    "contest_id": 659,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/659/F.cpp",
+    "platform": "Codeforces",
+    "problem_index": "F",
+    "problem_name": "Polycarp and Hay",
+    "problem_url": "https://codeforces.com/contest/659/problem/F",
+    "submission_id": "CF262946187",
+    "submission_url": "https://codeforces.com/contest/659/submission/262946187",
+    "tags": [
+      "dfs and similar",
+      "dsu",
+      "graphs",
+      "greedy",
+      "sortings",
+      "*2000"
+    ],
+    "timestamp": "May/28/2024 08:07"
+  },
   "CF262946198": {
     "contest_id": 77,
     "language": "C++20 (GCC 13-64)",
