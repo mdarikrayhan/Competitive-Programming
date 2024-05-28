@@ -23393,6 +23393,24 @@
     ],
     "timestamp": "May/17/2024 08:26"
   },
+  "CF262959695": {
+    "contest_id": 527,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/527/C.cpp",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Glass Carving",
+    "problem_url": "https://codeforces.com/contest/527/problem/C",
+    "submission_id": "CF262959695",
+    "submission_url": "https://codeforces.com/contest/527/submission/262959695",
+    "tags": [
+      "binary search",
+      "data structures",
+      "implementation",
+      "*1500"
+    ],
+    "timestamp": "May/28/2024 11:12"
+  },
   "CF262959717": {
     "contest_id": 1879,
     "language": "C++20 (GCC 13-64)",
