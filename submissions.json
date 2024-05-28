@@ -23393,6 +23393,24 @@
     ],
     "timestamp": "May/17/2024 08:26"
   },
+  "CF263071928": {
+    "contest_id": 1608,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1608/F.cpp",
+    "platform": "Codeforces",
+    "problem_index": "F",
+    "problem_name": "MEX counting",
+    "problem_url": "https://codeforces.com/contest/1608/problem/F",
+    "submission_id": "CF263071928",
+    "submission_url": "https://codeforces.com/contest/1608/submission/263071928",
+    "tags": [
+      "combinatorics",
+      "dp",
+      "implementation",
+      "*3200"
+    ],
+    "timestamp": "May/29/2024 05:56"
+  },
   "CF263071929": {
     "contest_id": 1430,
     "language": "C++20 (GCC 13-64)",
