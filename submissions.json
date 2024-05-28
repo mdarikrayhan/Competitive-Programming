@@ -23393,6 +23393,22 @@
     ],
     "timestamp": "May/17/2024 08:26"
   },
+  "CF262946306": {
+    "contest_id": 24,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/24/B.cpp",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "F1 Champions",
+    "problem_url": "https://codeforces.com/contest/24/problem/B",
+    "submission_id": "CF262946306",
+    "submission_url": "https://codeforces.com/contest/24/submission/262946306",
+    "tags": [
+      "implementation",
+      "*1500"
+    ],
+    "timestamp": "May/28/2024 08:09"
+  },
   "CF262946313": {
     "contest_id": 1101,
     "language": "C++20 (GCC 13-64)",
