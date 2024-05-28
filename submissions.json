@@ -74719,6 +74719,24 @@
     ],
     "timestamp": "May/29/2024 02:02"
   },
+  "CF263061191": {
+    "contest_id": 1726,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1726/E.cpp",
+    "platform": "Codeforces",
+    "problem_index": "E",
+    "problem_name": "Almost Perfect",
+    "problem_url": "https://codeforces.com/contest/1726/problem/E",
+    "submission_id": "CF263061191",
+    "submission_url": "https://codeforces.com/contest/1726/submission/263061191",
+    "tags": [
+      "combinatorics",
+      "fft",
+      "math",
+      "*2400"
+    ],
+    "timestamp": "May/29/2024 02:03"
+  },
   "CF263061239": {
     "contest_id": 587,
     "language": "C++20 (GCC 13-64)",
