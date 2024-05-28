@@ -29631,6 +29631,23 @@
     ],
     "timestamp": "May/29/2024 03:14"
   },
+  "CF263067026": {
+    "contest_id": 1379,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1379/F1.cpp",
+    "platform": "Codeforces",
+    "problem_index": "F1",
+    "problem_name": "Chess Strikes Back (easy version)",
+    "problem_url": "https://codeforces.com/contest/1379/problem/F1",
+    "submission_id": "CF263067026",
+    "submission_url": "https://codeforces.com/contest/1379/submission/263067026",
+    "tags": [
+      "binary search",
+      "data structures",
+      "*2700"
+    ],
+    "timestamp": "May/29/2024 03:44"
+  },
   "CF263067049": {
     "contest_id": 1916,
     "language": "C++20 (GCC 13-64)",
