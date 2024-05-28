@@ -23393,6 +23393,23 @@
     ],
     "timestamp": "May/17/2024 08:26"
   },
+  "CF263065283": {
+    "contest_id": 13,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/13/D.cpp",
+    "platform": "Codeforces",
+    "problem_index": "D",
+    "problem_name": "Triangles",
+    "problem_url": "https://codeforces.com/contest/13/problem/D",
+    "submission_id": "CF263065283",
+    "submission_url": "https://codeforces.com/contest/13/submission/263065283",
+    "tags": [
+      "dp",
+      "geometry",
+      "*2600"
+    ],
+    "timestamp": "May/29/2024 03:10"
+  },
   "CF263065381": {
     "contest_id": 50,
     "language": "C++20 (GCC 13-64)",
