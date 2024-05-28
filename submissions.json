@@ -23393,6 +23393,24 @@
     ],
     "timestamp": "May/17/2024 08:26"
   },
+  "CF262965504": {
+    "contest_id": 542,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/542/C.cpp",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Idempotent functions",
+    "problem_url": "https://codeforces.com/contest/542/problem/C",
+    "submission_id": "CF262965504",
+    "submission_url": "https://codeforces.com/contest/542/submission/262965504",
+    "tags": [
+      "constructive algorithms",
+      "graphs",
+      "math",
+      "*2000"
+    ],
+    "timestamp": "May/28/2024 12:10"
+  },
   "CF262965610": {
     "contest_id": 808,
     "language": "C++20 (GCC 13-64)",
