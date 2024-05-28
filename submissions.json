@@ -25822,6 +25822,26 @@
     ],
     "timestamp": "May/28/2024 15:59"
   },
+  "CF263055228": {
+    "contest_id": 1814,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1814/D.cpp",
+    "platform": "Codeforces",
+    "problem_index": "D",
+    "problem_name": "Balancing Weapons",
+    "problem_url": "https://codeforces.com/contest/1814/problem/D",
+    "submission_id": "CF263055228",
+    "submission_url": "https://codeforces.com/contest/1814/submission/263055228",
+    "tags": [
+      "binary search",
+      "brute force",
+      "data structures",
+      "math",
+      "two pointers",
+      "*2500"
+    ],
+    "timestamp": "May/29/2024 00:49"
+  },
   "CF263055258": {
     "contest_id": 83,
     "language": "C++20 (GCC 13-64)",
