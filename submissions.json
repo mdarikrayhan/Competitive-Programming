@@ -23996,6 +23996,26 @@
     ],
     "timestamp": "May/28/2024 08:13"
   },
+  "CF262950175": {
+    "contest_id": 1175,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1175/F.cpp",
+    "platform": "Codeforces",
+    "problem_index": "F",
+    "problem_name": "The Number of Subpermutations",
+    "problem_url": "https://codeforces.com/contest/1175/problem/F",
+    "submission_id": "CF262950175",
+    "submission_url": "https://codeforces.com/contest/1175/submission/262950175",
+    "tags": [
+      "brute force",
+      "data structures",
+      "divide and conquer",
+      "hashing",
+      "math",
+      "*2500"
+    ],
+    "timestamp": "May/28/2024 09:16"
+  },
   "CF262950180": {
     "contest_id": 336,
     "language": "C++20 (GCC 13-64)",
