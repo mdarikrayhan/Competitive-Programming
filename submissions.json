@@ -83307,6 +83307,30 @@
     ],
     "timestamp": "May/28/2024 16:21"
   },
+  "CF262994442": {
+    "contest_id": 1536,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1536/F.cpp",
+    "platform": "Codeforces",
+    "problem_index": "F",
+    "problem_name": "Omkar and Akmar",
+    "problem_url": "https://codeforces.com/contest/1536/problem/F",
+    "submission_id": "CF262994442",
+    "submission_url": "https://codeforces.com/contest/1536/submission/262994442",
+    "tags": [
+      "chinese remainder theorem",
+      "combinatorics",
+      "constructive algorithms",
+      "fft",
+      "games",
+      "geometry",
+      "math",
+      "meet-in-the-middle",
+      "string suffix structures",
+      "*2600"
+    ],
+    "timestamp": "May/28/2024 16:22"
+  },
   "CF262994611": {
     "contest_id": 294,
     "language": "C++20 (GCC 13-64)",
