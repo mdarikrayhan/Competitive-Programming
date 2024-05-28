@@ -27110,6 +27110,24 @@
     ],
     "timestamp": "May/29/2024 01:24"
   },
+  "CF263058360": {
+    "contest_id": 566,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/566/C.cpp",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Logistical Questions",
+    "problem_url": "https://codeforces.com/contest/566/problem/C",
+    "submission_id": "CF263058360",
+    "submission_url": "https://codeforces.com/contest/566/submission/263058360",
+    "tags": [
+      "dfs and similar",
+      "divide and conquer",
+      "trees",
+      "*3000"
+    ],
+    "timestamp": "May/29/2024 01:26"
+  },
   "CF263058453": {
     "contest_id": 1789,
     "language": "C++20 (GCC 13-64)",
