@@ -54625,6 +54625,25 @@
     ],
     "timestamp": "May/28/2024 08:13"
   },
+  "CF262947272": {
+    "contest_id": 650,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/650/D.cpp",
+    "platform": "Codeforces",
+    "problem_index": "D",
+    "problem_name": "Zip-line",
+    "problem_url": "https://codeforces.com/contest/650/problem/D",
+    "submission_id": "CF262947272",
+    "submission_url": "https://codeforces.com/contest/650/submission/262947272",
+    "tags": [
+      "binary search",
+      "data structures",
+      "dp",
+      "hashing",
+      "*2600"
+    ],
+    "timestamp": "May/28/2024 08:27"
+  },
   "CF262947287": {
     "contest_id": 1584,
     "language": "C++20 (GCC 13-64)",
