@@ -23393,6 +23393,25 @@
     ],
     "timestamp": "May/17/2024 08:26"
   },
+  "CF262946275": {
+    "contest_id": 1505,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1505/E.cpp",
+    "platform": "Codeforces",
+    "problem_index": "E",
+    "problem_name": "Cakewalk",
+    "problem_url": "https://codeforces.com/contest/1505/problem/E",
+    "submission_id": "CF262946275",
+    "submission_url": "https://codeforces.com/contest/1505/submission/262946275",
+    "tags": [
+      "*special problem",
+      "greedy",
+      "implementation",
+      "shortest paths",
+      "*1800"
+    ],
+    "timestamp": "May/28/2024 08:09"
+  },
   "CF262946278": {
     "contest_id": 293,
     "language": "C++20 (GCC 13-64)",
