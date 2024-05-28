@@ -23393,6 +23393,24 @@
     ],
     "timestamp": "May/17/2024 08:26"
   },
+  "CF262991746": {
+    "contest_id": 1344,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1344/D.cpp",
+    "platform": "Codeforces",
+    "problem_index": "D",
+    "problem_name": "R\u00e9sum\u00e9 Review",
+    "problem_url": "https://codeforces.com/contest/1344/problem/D",
+    "submission_id": "CF262991746",
+    "submission_url": "https://codeforces.com/contest/1344/submission/262991746",
+    "tags": [
+      "binary search",
+      "greedy",
+      "math",
+      "*2700"
+    ],
+    "timestamp": "May/28/2024 15:58"
+  },
   "CF262991785": {
     "contest_id": 407,
     "language": "C++20 (GCC 13-64)",
