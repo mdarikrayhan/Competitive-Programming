@@ -23393,6 +23393,22 @@
     ],
     "timestamp": "May/17/2024 08:26"
   },
+  "CF262940968": {
+    "contest_id": 1531,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1531/A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "\u0417\u0438\u043d\u0433\u0435\u0440 | color",
+    "problem_url": "https://codeforces.com/contest/1531/problem/A",
+    "submission_id": "CF262940968",
+    "submission_url": "https://codeforces.com/contest/1531/submission/262940968",
+    "tags": [
+      "*special problem",
+      "implementation"
+    ],
+    "timestamp": "May/28/2024 06:04"
+  },
   "CF262940978": {
     "contest_id": 1550,
     "language": "C++20 (GCC 13-64)",
