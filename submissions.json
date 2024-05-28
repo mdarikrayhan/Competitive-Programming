@@ -35174,6 +35174,25 @@
     ],
     "timestamp": "May/29/2024 03:55"
   },
+  "CF263067726": {
+    "contest_id": 986,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/986/F.cpp",
+    "platform": "Codeforces",
+    "problem_index": "F",
+    "problem_name": "Oppa Funcan Style Remastered",
+    "problem_url": "https://codeforces.com/contest/986/problem/F",
+    "submission_id": "CF263067726",
+    "submission_url": "https://codeforces.com/contest/986/submission/263067726",
+    "tags": [
+      "graphs",
+      "math",
+      "number theory",
+      "shortest paths",
+      "*3300"
+    ],
+    "timestamp": "May/29/2024 03:59"
+  },
   "CF263067798": {
     "contest_id": 571,
     "language": "C++20 (GCC 13-64)",
