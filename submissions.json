@@ -23393,6 +23393,27 @@
     ],
     "timestamp": "May/17/2024 08:26"
   },
+  "CF262941516": {
+    "contest_id": 1707,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1707/C.cpp",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "DFS Trees",
+    "problem_url": "https://codeforces.com/contest/1707/problem/C",
+    "submission_id": "CF262941516",
+    "submission_url": "https://codeforces.com/contest/1707/submission/262941516",
+    "tags": [
+      "dfs and similar",
+      "dsu",
+      "graphs",
+      "greedy",
+      "sortings",
+      "trees",
+      "*2400"
+    ],
+    "timestamp": "May/28/2024 06:20"
+  },
   "CF262941525": {
     "contest_id": 1572,
     "language": "C++20 (GCC 13-64)",
