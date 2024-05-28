@@ -23393,6 +23393,23 @@
     ],
     "timestamp": "May/17/2024 08:26"
   },
+  "CF262960772": {
+    "contest_id": 926,
+    "language": "JavaScript",
+    "path": "codeforces/926/B.js",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Add Points",
+    "problem_url": "https://codeforces.com/contest/926/problem/B",
+    "submission_id": "CF262960772",
+    "submission_url": "https://codeforces.com/contest/926/submission/262960772",
+    "tags": [
+      "math",
+      "number theory",
+      "*1800"
+    ],
+    "timestamp": "May/28/2024 11:23"
+  },
   "CF262960948": {
     "contest_id": 926,
     "language": "GNU C11",
