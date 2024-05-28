@@ -23393,6 +23393,23 @@
     ],
     "timestamp": "May/17/2024 08:26"
   },
+  "CF262941274": {
+    "contest_id": 396,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/396/A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "On Number of Decompositions into Multipliers",
+    "problem_url": "https://codeforces.com/contest/396/problem/A",
+    "submission_id": "CF262941274",
+    "submission_url": "https://codeforces.com/contest/396/submission/262941274",
+    "tags": [
+      "combinatorics",
+      "math",
+      "number theory"
+    ],
+    "timestamp": "May/28/2024 06:13"
+  },
   "CF262941279": {
     "contest_id": 1216,
     "language": "C++20 (GCC 13-64)",
