@@ -23393,6 +23393,22 @@
     ],
     "timestamp": "May/17/2024 08:26"
   },
+  "CF262946431": {
+    "contest_id": 852,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/852/G.cpp",
+    "platform": "Codeforces",
+    "problem_index": "G",
+    "problem_name": "Bathroom terminal",
+    "problem_url": "https://codeforces.com/contest/852/problem/G",
+    "submission_id": "CF262946431",
+    "submission_url": "https://codeforces.com/contest/852/submission/262946431",
+    "tags": [
+      "implementation",
+      "*1700"
+    ],
+    "timestamp": "May/28/2024 08:12"
+  },
   "CF262946442": {
     "contest_id": 1779,
     "language": "C++20 (GCC 13-64)",
