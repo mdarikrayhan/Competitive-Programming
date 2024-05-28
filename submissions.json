@@ -27839,6 +27839,23 @@
     ],
     "timestamp": "May/28/2024 15:59"
   },
+  "CF262991908": {
+    "contest_id": 1129,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1129/D.cpp",
+    "platform": "Codeforces",
+    "problem_index": "D",
+    "problem_name": "Isolation",
+    "problem_url": "https://codeforces.com/contest/1129/problem/D",
+    "submission_id": "CF262991908",
+    "submission_url": "https://codeforces.com/contest/1129/submission/262991908",
+    "tags": [
+      "data structures",
+      "dp",
+      "*2900"
+    ],
+    "timestamp": "May/28/2024 16:00"
+  },
   "CF262991932": {
     "contest_id": 1887,
     "language": "C++20 (GCC 13-64)",
