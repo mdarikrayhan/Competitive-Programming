@@ -56079,6 +56079,23 @@
     ],
     "timestamp": "May/28/2024 09:19"
   },
+  "CF262954550": {
+    "contest_id": 1363,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1363/F.cpp",
+    "platform": "Codeforces",
+    "problem_index": "F",
+    "problem_name": "Rotating Substrings",
+    "problem_url": "https://codeforces.com/contest/1363/problem/F",
+    "submission_id": "CF262954550",
+    "submission_url": "https://codeforces.com/contest/1363/submission/262954550",
+    "tags": [
+      "dp",
+      "strings",
+      "*2600"
+    ],
+    "timestamp": "May/28/2024 10:20"
+  },
   "CF262954565": {
     "contest_id": 936,
     "language": "C++20 (GCC 13-64)",
