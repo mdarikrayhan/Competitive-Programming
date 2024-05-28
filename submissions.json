@@ -23996,6 +23996,25 @@
     ],
     "timestamp": "May/28/2024 08:13"
   },
+  "CF262948420": {
+    "contest_id": 1513,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1513/F.cpp",
+    "platform": "Codeforces",
+    "problem_index": "F",
+    "problem_name": "Swapping Problem",
+    "problem_url": "https://codeforces.com/contest/1513/problem/F",
+    "submission_id": "CF262948420",
+    "submission_url": "https://codeforces.com/contest/1513/submission/262948420",
+    "tags": [
+      "brute force",
+      "constructive algorithms",
+      "data structures",
+      "sortings",
+      "*2500"
+    ],
+    "timestamp": "May/28/2024 08:48"
+  },
   "CF262948442": {
     "contest_id": 1823,
     "language": "C++20 (GCC 13-64)",
