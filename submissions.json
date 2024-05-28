@@ -23409,6 +23409,24 @@
     ],
     "timestamp": "May/28/2024 11:58"
   },
+  "CF262964936": {
+    "contest_id": 1666,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1666/F.cpp",
+    "platform": "Codeforces",
+    "problem_index": "F",
+    "problem_name": "Fancy Stack",
+    "problem_url": "https://codeforces.com/contest/1666/problem/F",
+    "submission_id": "CF262964936",
+    "submission_url": "https://codeforces.com/contest/1666/submission/262964936",
+    "tags": [
+      "combinatorics",
+      "dp",
+      "implementation",
+      "*2200"
+    ],
+    "timestamp": "May/28/2024 12:05"
+  },
   "CF262964999": {
     "contest_id": 671,
     "language": "C++20 (GCC 13-64)",
