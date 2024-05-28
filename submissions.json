@@ -23720,6 +23720,29 @@
     ],
     "timestamp": "May/28/2024 12:10"
   },
+  "CF262965585": {
+    "contest_id": 1658,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1658/E.cpp",
+    "platform": "Codeforces",
+    "problem_index": "E",
+    "problem_name": "Gojou and Matrix Game",
+    "problem_url": "https://codeforces.com/contest/1658/problem/E",
+    "submission_id": "CF262965585",
+    "submission_url": "https://codeforces.com/contest/1658/submission/262965585",
+    "tags": [
+      "data structures",
+      "dp",
+      "games",
+      "hashing",
+      "implementation",
+      "math",
+      "number theory",
+      "sortings",
+      "*2500"
+    ],
+    "timestamp": "May/28/2024 12:11"
+  },
   "CF262965610": {
     "contest_id": 808,
     "language": "C++20 (GCC 13-64)",
