@@ -26225,6 +26225,25 @@
     ],
     "timestamp": "May/29/2024 00:54"
   },
+  "CF263055986": {
+    "contest_id": 949,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/949/D.cpp",
+    "platform": "Codeforces",
+    "problem_index": "D",
+    "problem_name": "Curfew",
+    "problem_url": "https://codeforces.com/contest/949/problem/D",
+    "submission_id": "CF263055986",
+    "submission_url": "https://codeforces.com/contest/949/submission/263055986",
+    "tags": [
+      "binary search",
+      "brute force",
+      "greedy",
+      "sortings",
+      "*2300"
+    ],
+    "timestamp": "May/29/2024 00:58"
+  },
   "CF263055996": {
     "contest_id": 924,
     "language": "C++20 (GCC 13-64)",
