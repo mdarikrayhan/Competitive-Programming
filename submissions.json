@@ -23393,6 +23393,24 @@
     ],
     "timestamp": "May/17/2024 08:26"
   },
+  "CF263065137": {
+    "contest_id": 1369,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1369/F.cpp",
+    "platform": "Codeforces",
+    "problem_index": "F",
+    "problem_name": "BareLee",
+    "problem_url": "https://codeforces.com/contest/1369/problem/F",
+    "submission_id": "CF263065137",
+    "submission_url": "https://codeforces.com/contest/1369/submission/263065137",
+    "tags": [
+      "dfs and similar",
+      "dp",
+      "games",
+      "*2700"
+    ],
+    "timestamp": "May/29/2024 03:08"
+  },
   "CF263065145": {
     "contest_id": 414,
     "language": "C++20 (GCC 13-64)",
