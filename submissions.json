@@ -69583,6 +69583,22 @@
     ],
     "timestamp": "May/29/2024 03:14"
   },
+  "CF263066135": {
+    "contest_id": 115,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/115/C.cpp",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Plumber",
+    "problem_url": "https://codeforces.com/contest/115/problem/C",
+    "submission_id": "CF263066135",
+    "submission_url": "https://codeforces.com/contest/115/submission/263066135",
+    "tags": [
+      "math",
+      "*2200"
+    ],
+    "timestamp": "May/29/2024 03:25"
+  },
   "CF263066212": {
     "contest_id": 1707,
     "language": "C++20 (GCC 13-64)",
