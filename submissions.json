@@ -56079,6 +56079,22 @@
     ],
     "timestamp": "May/28/2024 09:19"
   },
+  "CF262950884": {
+    "contest_id": 958,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/958/C2.cpp",
+    "platform": "Codeforces",
+    "problem_index": "C2",
+    "problem_name": "Encryption (medium)",
+    "problem_url": "https://codeforces.com/contest/958/problem/C2",
+    "submission_id": "CF262950884",
+    "submission_url": "https://codeforces.com/contest/958/submission/262950884",
+    "tags": [
+      "dp",
+      "*2000"
+    ],
+    "timestamp": "May/28/2024 09:27"
+  },
   "CF262950907": {
     "contest_id": 1970,
     "language": "C++17 (GCC 7-32)",
