@@ -23792,6 +23792,24 @@
     ],
     "timestamp": "May/28/2024 12:14"
   },
+  "CF262966050": {
+    "contest_id": 1858,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1858/E2.cpp",
+    "platform": "Codeforces",
+    "problem_index": "E2",
+    "problem_name": "Rollbacks (Hard Version)",
+    "problem_url": "https://codeforces.com/contest/1858/problem/E2",
+    "submission_id": "CF262966050",
+    "submission_url": "https://codeforces.com/contest/1858/submission/262966050",
+    "tags": [
+      "data structures",
+      "interactive",
+      "trees",
+      "*2600"
+    ],
+    "timestamp": "May/28/2024 12:15"
+  },
   "CF262966066": {
     "contest_id": 123,
     "language": "C++20 (GCC 13-64)",
