@@ -23393,6 +23393,22 @@
     ],
     "timestamp": "May/17/2024 08:26"
   },
+  "CF263056641": {
+    "contest_id": 10,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/10/E.cpp",
+    "platform": "Codeforces",
+    "problem_index": "E",
+    "problem_name": "Greedy Change",
+    "problem_url": "https://codeforces.com/contest/10/problem/E",
+    "submission_id": "CF263056641",
+    "submission_url": "https://codeforces.com/contest/10/submission/263056641",
+    "tags": [
+      "constructive algorithms",
+      "*2600"
+    ],
+    "timestamp": "May/29/2024 01:06"
+  },
   "CF263056674": {
     "contest_id": 1017,
     "language": "C++20 (GCC 13-64)",
