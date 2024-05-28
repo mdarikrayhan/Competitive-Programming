@@ -81884,6 +81884,23 @@
     ],
     "timestamp": "May/28/2024 15:22"
   },
+  "CF262987691": {
+    "contest_id": 573,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/573/E.cpp",
+    "platform": "Codeforces",
+    "problem_index": "E",
+    "problem_name": "Bear and Bowling",
+    "problem_url": "https://codeforces.com/contest/573/problem/E",
+    "submission_id": "CF262987691",
+    "submission_url": "https://codeforces.com/contest/573/submission/262987691",
+    "tags": [
+      "data structures",
+      "greedy",
+      "*3200"
+    ],
+    "timestamp": "May/28/2024 15:22"
+  },
   "CF262987700": {
     "contest_id": 509,
     "language": "C++20 (GCC 13-64)",
