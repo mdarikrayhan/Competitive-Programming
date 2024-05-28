@@ -23393,6 +23393,25 @@
     ],
     "timestamp": "May/17/2024 08:26"
   },
+  "CF263062561": {
+    "contest_id": 1945,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1945/G.cpp",
+    "platform": "Codeforces",
+    "problem_index": "G",
+    "problem_name": "Cook and Porridge",
+    "problem_url": "https://codeforces.com/contest/1945/problem/G",
+    "submission_id": "CF263062561",
+    "submission_url": "https://codeforces.com/contest/1945/submission/263062561",
+    "tags": [
+      "binary search",
+      "constructive algorithms",
+      "data structures",
+      "implementation",
+      "*2500"
+    ],
+    "timestamp": "May/29/2024 02:24"
+  },
   "CF263062589": {
     "contest_id": 126,
     "language": "C++20 (GCC 13-64)",
