@@ -23393,6 +23393,25 @@
     ],
     "timestamp": "May/17/2024 08:26"
   },
+  "CF262980658": {
+    "contest_id": 990,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/990/F.cpp",
+    "platform": "Codeforces",
+    "problem_index": "F",
+    "problem_name": "Flow Control",
+    "problem_url": "https://codeforces.com/contest/990/problem/F",
+    "submission_id": "CF262980658",
+    "submission_url": "https://codeforces.com/contest/990/submission/262980658",
+    "tags": [
+      "dfs and similar",
+      "dp",
+      "greedy",
+      "trees",
+      "*2400"
+    ],
+    "timestamp": "May/28/2024 14:22"
+  },
   "CF262980717": {
     "contest_id": 1073,
     "language": "C++20 (GCC 13-64)",
