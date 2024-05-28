@@ -29631,6 +29631,26 @@
     ],
     "timestamp": "May/29/2024 03:14"
   },
+  "CF263067049": {
+    "contest_id": 1916,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1916/H1.cpp",
+    "platform": "Codeforces",
+    "problem_index": "H1",
+    "problem_name": "Matrix Rank (Easy Version)",
+    "problem_url": "https://codeforces.com/contest/1916/problem/H1",
+    "submission_id": "CF263067049",
+    "submission_url": "https://codeforces.com/contest/1916/submission/263067049",
+    "tags": [
+      "brute force",
+      "combinatorics",
+      "dp",
+      "math",
+      "matrices",
+      "*2700"
+    ],
+    "timestamp": "May/29/2024 03:44"
+  },
   "CF263067088": {
     "contest_id": 37,
     "language": "C++20 (GCC 13-64)",
