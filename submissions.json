@@ -23393,6 +23393,24 @@
     ],
     "timestamp": "May/17/2024 08:26"
   },
+  "CF262941270": {
+    "contest_id": 713,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/713/B.cpp",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Searching Rectangles",
+    "problem_url": "https://codeforces.com/contest/713/problem/B",
+    "submission_id": "CF262941270",
+    "submission_url": "https://codeforces.com/contest/713/submission/262941270",
+    "tags": [
+      "binary search",
+      "constructive algorithms",
+      "interactive",
+      "*2200"
+    ],
+    "timestamp": "May/28/2024 06:13"
+  },
   "CF262941274": {
     "contest_id": 396,
     "language": "C++20 (GCC 13-64)",
