@@ -67500,6 +67500,26 @@
     ],
     "timestamp": "May/29/2024 02:04"
   },
+  "CF263061783": {
+    "contest_id": 1267,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1267/I.cpp",
+    "platform": "Codeforces",
+    "problem_index": "I",
+    "problem_name": "Intriguing Selection",
+    "problem_url": "https://codeforces.com/contest/1267/problem/I",
+    "submission_id": "CF263061783",
+    "submission_url": "https://codeforces.com/contest/1267/submission/263061783",
+    "tags": [
+      "brute force",
+      "constructive algorithms",
+      "implementation",
+      "interactive",
+      "sortings",
+      "*2600"
+    ],
+    "timestamp": "May/29/2024 02:12"
+  },
   "CF263061805": {
     "contest_id": 809,
     "language": "C++20 (GCC 13-64)",
