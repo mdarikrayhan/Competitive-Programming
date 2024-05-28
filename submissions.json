@@ -23393,6 +23393,29 @@
     ],
     "timestamp": "May/17/2024 08:26"
   },
+  "CF263056807": {
+    "contest_id": 1788,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1788/F.cpp",
+    "platform": "Codeforces",
+    "problem_index": "F",
+    "problem_name": "XOR, Tree, and Queries",
+    "problem_url": "https://codeforces.com/contest/1788/problem/F",
+    "submission_id": "CF263056807",
+    "submission_url": "https://codeforces.com/contest/1788/submission/263056807",
+    "tags": [
+      "bitmasks",
+      "constructive algorithms",
+      "dfs and similar",
+      "dsu",
+      "graphs",
+      "greedy",
+      "implementation",
+      "trees",
+      "*2500"
+    ],
+    "timestamp": "May/29/2024 01:08"
+  },
   "CF263056824": {
     "contest_id": 535,
     "language": "C++20 (GCC 13-64)",
