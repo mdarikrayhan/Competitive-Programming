@@ -25822,6 +25822,24 @@
     ],
     "timestamp": "May/28/2024 15:59"
   },
+  "CF263055166": {
+    "contest_id": 1893,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1893/D.cpp",
+    "platform": "Codeforces",
+    "problem_index": "D",
+    "problem_name": "Colorful Constructive",
+    "problem_url": "https://codeforces.com/contest/1893/problem/D",
+    "submission_id": "CF263055166",
+    "submission_url": "https://codeforces.com/contest/1893/submission/263055166",
+    "tags": [
+      "constructive algorithms",
+      "data structures",
+      "greedy",
+      "*2600"
+    ],
+    "timestamp": "May/29/2024 00:49"
+  },
   "CF263055187": {
     "contest_id": 678,
     "language": "C++20 (GCC 13-64)",
