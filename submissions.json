@@ -26298,6 +26298,24 @@
     ],
     "timestamp": "May/28/2024 12:41"
   },
+  "CF262977609": {
+    "contest_id": 416,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/416/D.cpp",
+    "platform": "Codeforces",
+    "problem_index": "D",
+    "problem_name": "Population Size",
+    "problem_url": "https://codeforces.com/contest/416/problem/D",
+    "submission_id": "CF262977609",
+    "submission_url": "https://codeforces.com/contest/416/submission/262977609",
+    "tags": [
+      "greedy",
+      "implementation",
+      "math",
+      "*2400"
+    ],
+    "timestamp": "May/28/2024 13:57"
+  },
   "CF262977640": {
     "contest_id": 125,
     "language": "C++20 (GCC 13-64)",
