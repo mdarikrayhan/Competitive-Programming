@@ -23393,6 +23393,26 @@
     ],
     "timestamp": "May/17/2024 08:26"
   },
+  "CF262991740": {
+    "contest_id": 1805,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1805/F1.cpp",
+    "platform": "Codeforces",
+    "problem_index": "F1",
+    "problem_name": "Survival of the Weakest (easy version)",
+    "problem_url": "https://codeforces.com/contest/1805/problem/F1",
+    "submission_id": "CF262991740",
+    "submission_url": "https://codeforces.com/contest/1805/submission/262991740",
+    "tags": [
+      "binary search",
+      "brute force",
+      "implementation",
+      "math",
+      "sortings",
+      "*2600"
+    ],
+    "timestamp": "May/28/2024 15:58"
+  },
   "CF262991746": {
     "contest_id": 1344,
     "language": "C++20 (GCC 13-64)",
