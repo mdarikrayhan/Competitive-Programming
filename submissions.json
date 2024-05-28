@@ -23393,6 +23393,26 @@
     ],
     "timestamp": "May/17/2024 08:26"
   },
+  "CF263062312": {
+    "contest_id": 1608,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1608/D.cpp",
+    "platform": "Codeforces",
+    "problem_index": "D",
+    "problem_name": "Dominoes",
+    "problem_url": "https://codeforces.com/contest/1608/problem/D",
+    "submission_id": "CF263062312",
+    "submission_url": "https://codeforces.com/contest/1608/submission/263062312",
+    "tags": [
+      "combinatorics",
+      "fft",
+      "graphs",
+      "math",
+      "number theory",
+      "*2400"
+    ],
+    "timestamp": "May/29/2024 02:20"
+  },
   "CF263062360": {
     "contest_id": 1174,
     "language": "C++20 (GCC 13-64)",
