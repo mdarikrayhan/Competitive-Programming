@@ -23393,6 +23393,25 @@
     ],
     "timestamp": "May/17/2024 08:26"
   },
+  "CF263060930": {
+    "contest_id": 1149,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1149/D.cpp",
+    "platform": "Codeforces",
+    "problem_index": "D",
+    "problem_name": "Abandoning Roads",
+    "problem_url": "https://codeforces.com/contest/1149/problem/D",
+    "submission_id": "CF263060930",
+    "submission_url": "https://codeforces.com/contest/1149/submission/263060930",
+    "tags": [
+      "brute force",
+      "dp",
+      "graphs",
+      "greedy",
+      "*3000"
+    ],
+    "timestamp": "May/29/2024 02:00"
+  },
   "CF263060954": {
     "contest_id": 981,
     "language": "C++20 (GCC 13-64)",
