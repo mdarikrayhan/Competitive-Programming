@@ -23393,6 +23393,23 @@
     ],
     "timestamp": "May/17/2024 08:26"
   },
+  "CF262940999": {
+    "contest_id": 662,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/662/B.cpp",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Graph Coloring",
+    "problem_url": "https://codeforces.com/contest/662/problem/B",
+    "submission_id": "CF262940999",
+    "submission_url": "https://codeforces.com/contest/662/submission/262940999",
+    "tags": [
+      "dfs and similar",
+      "graphs",
+      "*2200"
+    ],
+    "timestamp": "May/28/2024 06:05"
+  },
   "CF262941002": {
     "contest_id": 910,
     "language": "C++20 (GCC 13-64)",
