@@ -23393,6 +23393,23 @@
     ],
     "timestamp": "May/17/2024 08:26"
   },
+  "CF263062560": {
+    "contest_id": 182,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/182/C.cpp",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Optimal Sum",
+    "problem_url": "https://codeforces.com/contest/182/problem/C",
+    "submission_id": "CF263062560",
+    "submission_url": "https://codeforces.com/contest/182/submission/263062560",
+    "tags": [
+      "data structures",
+      "greedy",
+      "*2000"
+    ],
+    "timestamp": "May/29/2024 02:24"
+  },
   "CF263062561": {
     "contest_id": 1945,
     "language": "C++20 (GCC 13-64)",
