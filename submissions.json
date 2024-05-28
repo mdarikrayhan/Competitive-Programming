@@ -26298,6 +26298,24 @@
     ],
     "timestamp": "May/28/2024 12:41"
   },
+  "CF262979093": {
+    "contest_id": 744,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/744/C.cpp",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Hongcow Buys a Deck of Cards",
+    "problem_url": "https://codeforces.com/contest/744/problem/C",
+    "submission_id": "CF262979093",
+    "submission_url": "https://codeforces.com/contest/744/submission/262979093",
+    "tags": [
+      "bitmasks",
+      "brute force",
+      "dp",
+      "*2400"
+    ],
+    "timestamp": "May/28/2024 14:09"
+  },
   "CF262979120": {
     "contest_id": 1701,
     "language": "C++20 (GCC 13-64)",
