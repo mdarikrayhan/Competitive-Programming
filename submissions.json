@@ -35174,6 +35174,22 @@
     ],
     "timestamp": "May/29/2024 03:55"
   },
+  "CF263067694": {
+    "contest_id": 1117,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1117/G.cpp",
+    "platform": "Codeforces",
+    "problem_index": "G",
+    "problem_name": "Recursive Queries",
+    "problem_url": "https://codeforces.com/contest/1117/problem/G",
+    "submission_id": "CF263067694",
+    "submission_url": "https://codeforces.com/contest/1117/submission/263067694",
+    "tags": [
+      "data structures",
+      "*2500"
+    ],
+    "timestamp": "May/29/2024 03:59"
+  },
   "CF263067701": {
     "contest_id": 1903,
     "language": "C++20 (GCC 13-64)",
