@@ -23996,6 +23996,21 @@
     ],
     "timestamp": "May/28/2024 08:13"
   },
+  "CF262950281": {
+    "contest_id": 390,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/390/B.cpp",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Inna, Dima and Song",
+    "problem_url": "https://codeforces.com/contest/390/problem/B",
+    "submission_id": "CF262950281",
+    "submission_url": "https://codeforces.com/contest/390/submission/262950281",
+    "tags": [
+      "implementation"
+    ],
+    "timestamp": "May/28/2024 09:17"
+  },
   "CF262950304": {
     "contest_id": 1948,
     "language": "C++20 (GCC 13-64)",
