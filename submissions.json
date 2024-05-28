@@ -23393,6 +23393,22 @@
     ],
     "timestamp": "May/17/2024 08:26"
   },
+  "CF262990071": {
+    "contest_id": 51,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/51/B.cpp",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "bHTML Tables Analisys",
+    "problem_url": "https://codeforces.com/contest/51/problem/B",
+    "submission_id": "CF262990071",
+    "submission_url": "https://codeforces.com/contest/51/submission/262990071",
+    "tags": [
+      "expression parsing",
+      "*1700"
+    ],
+    "timestamp": "May/28/2024 15:43"
+  },
   "CF262990357": {
     "contest_id": 77,
     "language": "C++20 (GCC 13-64)",
