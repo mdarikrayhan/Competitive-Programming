@@ -23996,6 +23996,24 @@
     ],
     "timestamp": "May/28/2024 08:13"
   },
+  "CF262947689": {
+    "contest_id": 1446,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1446/D2.cpp",
+    "platform": "Codeforces",
+    "problem_index": "D2",
+    "problem_name": "Frequency Problem (Hard Version)",
+    "problem_url": "https://codeforces.com/contest/1446/problem/D2",
+    "submission_id": "CF262947689",
+    "submission_url": "https://codeforces.com/contest/1446/submission/262947689",
+    "tags": [
+      "data structures",
+      "greedy",
+      "two pointers",
+      "*3000"
+    ],
+    "timestamp": "May/28/2024 08:35"
+  },
   "CF262947754": {
     "contest_id": 1097,
     "language": "C++20 (GCC 13-64)",
