@@ -56079,6 +56079,23 @@
     ],
     "timestamp": "May/28/2024 09:19"
   },
+  "CF262951120": {
+    "contest_id": 1910,
+    "language": "Kotlin 1.7",
+    "path": "codeforces/1910/D.kt",
+    "platform": "Codeforces",
+    "problem_index": "D",
+    "problem_name": "Remove and Add",
+    "problem_url": "https://codeforces.com/contest/1910/problem/D",
+    "submission_id": "CF262951120",
+    "submission_url": "https://codeforces.com/contest/1910/submission/262951120",
+    "tags": [
+      "*special problem",
+      "greedy",
+      "*1800"
+    ],
+    "timestamp": "May/28/2024 09:30"
+  },
   "CF262951132": {
     "contest_id": 1910,
     "language": "Kotlin 1.7",
