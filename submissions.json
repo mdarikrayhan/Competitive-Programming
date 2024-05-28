@@ -59861,6 +59861,26 @@
     ],
     "timestamp": "May/28/2024 06:21"
   },
+  "CF262942686": {
+    "contest_id": 1598,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1598/F.cpp",
+    "platform": "Codeforces",
+    "problem_index": "F",
+    "problem_name": "RBS",
+    "problem_url": "https://codeforces.com/contest/1598/problem/F",
+    "submission_id": "CF262942686",
+    "submission_url": "https://codeforces.com/contest/1598/submission/262942686",
+    "tags": [
+      "binary search",
+      "bitmasks",
+      "brute force",
+      "data structures",
+      "dp",
+      "*2400"
+    ],
+    "timestamp": "May/28/2024 06:51"
+  },
   "CF262942699": {
     "contest_id": 1385,
     "language": "C++20 (GCC 13-64)",
