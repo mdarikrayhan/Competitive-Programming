@@ -23393,6 +23393,22 @@
     ],
     "timestamp": "May/17/2024 08:26"
   },
+  "CF263071224": {
+    "contest_id": 87,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/87/E.cpp",
+    "platform": "Codeforces",
+    "problem_index": "E",
+    "problem_name": "Mogohu-Rea Idol",
+    "problem_url": "https://codeforces.com/contest/87/problem/E",
+    "submission_id": "CF263071224",
+    "submission_url": "https://codeforces.com/contest/87/submission/263071224",
+    "tags": [
+      "geometry",
+      "*2600"
+    ],
+    "timestamp": "May/29/2024 05:37"
+  },
   "CF263071233": {
     "contest_id": 1532,
     "language": "Kotlin 1.7",
