@@ -25822,6 +25822,26 @@
     ],
     "timestamp": "May/28/2024 15:59"
   },
+  "CF262998725": {
+    "contest_id": 1584,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1584/F.cpp",
+    "platform": "Codeforces",
+    "problem_index": "F",
+    "problem_name": "Strange LCS",
+    "problem_url": "https://codeforces.com/contest/1584/problem/F",
+    "submission_id": "CF262998725",
+    "submission_url": "https://codeforces.com/contest/1584/submission/262998725",
+    "tags": [
+      "bitmasks",
+      "dp",
+      "graphs",
+      "greedy",
+      "strings",
+      "*2600"
+    ],
+    "timestamp": "May/28/2024 16:58"
+  },
   "CF262998739": {
     "contest_id": 1178,
     "language": "C++20 (GCC 13-64)",
