@@ -54625,6 +54625,24 @@
     ],
     "timestamp": "May/28/2024 08:13"
   },
+  "CF262947086": {
+    "contest_id": 865,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/865/B.cpp",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Ordering Pizza",
+    "problem_url": "https://codeforces.com/contest/865/problem/B",
+    "submission_id": "CF262947086",
+    "submission_url": "https://codeforces.com/contest/865/submission/262947086",
+    "tags": [
+      "binary search",
+      "sortings",
+      "ternary search",
+      "*1900"
+    ],
+    "timestamp": "May/28/2024 08:24"
+  },
   "CF262947093": {
     "contest_id": 442,
     "language": "C++20 (GCC 13-64)",
