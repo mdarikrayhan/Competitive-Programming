@@ -56079,6 +56079,23 @@
     ],
     "timestamp": "May/28/2024 09:19"
   },
+  "CF262951081": {
+    "contest_id": 1910,
+    "language": "Kotlin 1.7",
+    "path": "codeforces/1910/A.kt",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Username",
+    "problem_url": "https://codeforces.com/contest/1910/problem/A",
+    "submission_id": "CF262951081",
+    "submission_url": "https://codeforces.com/contest/1910/submission/262951081",
+    "tags": [
+      "*special problem",
+      "implementation",
+      "*1100"
+    ],
+    "timestamp": "May/28/2024 09:30"
+  },
   "CF262951110": {
     "contest_id": 1910,
     "language": "Kotlin 1.7",
