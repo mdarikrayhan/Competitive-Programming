@@ -72135,6 +72135,23 @@
     ],
     "timestamp": "May/28/2024 07:48"
   },
+  "CF262945282": {
+    "contest_id": 505,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/505/E.cpp",
+    "platform": "Codeforces",
+    "problem_index": "E",
+    "problem_name": "Mr. Kitayuta vs. Bamboos",
+    "problem_url": "https://codeforces.com/contest/505/problem/E",
+    "submission_id": "CF262945282",
+    "submission_url": "https://codeforces.com/contest/505/submission/262945282",
+    "tags": [
+      "binary search",
+      "greedy",
+      "*2900"
+    ],
+    "timestamp": "May/28/2024 07:50"
+  },
   "CF262945286": {
     "contest_id": 242,
     "language": "C++20 (GCC 13-64)",
