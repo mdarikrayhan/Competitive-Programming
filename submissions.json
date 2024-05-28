@@ -23393,6 +23393,22 @@
     ],
     "timestamp": "May/17/2024 08:26"
   },
+  "CF263059915": {
+    "contest_id": 162,
+    "language": "Factor",
+    "path": "codeforces/162/D.factor",
+    "platform": "Codeforces",
+    "problem_index": "D",
+    "problem_name": "Remove digits",
+    "problem_url": "https://codeforces.com/contest/162/problem/D",
+    "submission_id": "CF263059915",
+    "submission_url": "https://codeforces.com/contest/162/submission/263059915",
+    "tags": [
+      "*special problem",
+      "*1900"
+    ],
+    "timestamp": "May/29/2024 01:46"
+  },
   "CF263059957": {
     "contest_id": 162,
     "language": "Factor",
