@@ -23393,6 +23393,23 @@
     ],
     "timestamp": "May/17/2024 08:26"
   },
+  "CF262984440": {
+    "contest_id": 162,
+    "language": "Factor",
+    "path": "codeforces/162/A.factor",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Pentagonal numbers",
+    "problem_url": "https://codeforces.com/contest/162/problem/A",
+    "submission_id": "CF262984440",
+    "submission_url": "https://codeforces.com/contest/162/submission/262984440",
+    "tags": [
+      "*special problem",
+      "implementation",
+      "*1100"
+    ],
+    "timestamp": "May/28/2024 14:55"
+  },
   "CF262985300": {
     "contest_id": 188,
     "language": "Roco",
