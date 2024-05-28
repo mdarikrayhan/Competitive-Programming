@@ -23792,6 +23792,25 @@
     ],
     "timestamp": "May/28/2024 12:14"
   },
+  "CF262966327": {
+    "contest_id": 1716,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1716/F.cpp",
+    "platform": "Codeforces",
+    "problem_index": "F",
+    "problem_name": "Bags with Balls",
+    "problem_url": "https://codeforces.com/contest/1716/problem/F",
+    "submission_id": "CF262966327",
+    "submission_url": "https://codeforces.com/contest/1716/submission/262966327",
+    "tags": [
+      "combinatorics",
+      "dp",
+      "math",
+      "number theory",
+      "*2500"
+    ],
+    "timestamp": "May/28/2024 12:18"
+  },
   "CF262966351": {
     "contest_id": 1301,
     "language": "C++20 (GCC 13-64)",
