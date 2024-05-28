@@ -56079,6 +56079,25 @@
     ],
     "timestamp": "May/28/2024 09:19"
   },
+  "CF262951460": {
+    "contest_id": 662,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/662/D.cpp",
+    "platform": "Codeforces",
+    "problem_index": "D",
+    "problem_name": "International Olympiad",
+    "problem_url": "https://codeforces.com/contest/662/problem/D",
+    "submission_id": "CF262951460",
+    "submission_url": "https://codeforces.com/contest/662/submission/262951460",
+    "tags": [
+      "constructive algorithms",
+      "greedy",
+      "implementation",
+      "math",
+      "*2000"
+    ],
+    "timestamp": "May/28/2024 09:36"
+  },
   "CF262951472": {
     "contest_id": 700,
     "language": "C++20 (GCC 13-64)",
