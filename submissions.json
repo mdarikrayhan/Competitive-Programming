@@ -74789,6 +74789,24 @@
     ],
     "timestamp": "May/29/2024 02:04"
   },
+  "CF263061395": {
+    "contest_id": 1290,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1290/D.cpp",
+    "platform": "Codeforces",
+    "problem_index": "D",
+    "problem_name": "Coffee Varieties (hard version)",
+    "problem_url": "https://codeforces.com/contest/1290/problem/D",
+    "submission_id": "CF263061395",
+    "submission_url": "https://codeforces.com/contest/1290/submission/263061395",
+    "tags": [
+      "constructive algorithms",
+      "graphs",
+      "interactive",
+      "*3000"
+    ],
+    "timestamp": "May/29/2024 02:06"
+  },
   "CF263061434": {
     "contest_id": 366,
     "language": "C++20 (GCC 13-64)",
