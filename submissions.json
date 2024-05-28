@@ -74789,6 +74789,23 @@
     ],
     "timestamp": "May/29/2024 02:04"
   },
+  "CF263061520": {
+    "contest_id": 1505,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1505/D.cpp",
+    "platform": "Codeforces",
+    "problem_index": "D",
+    "problem_name": "Xenolith? Hippodrome?",
+    "problem_url": "https://codeforces.com/contest/1505/problem/D",
+    "submission_id": "CF263061520",
+    "submission_url": "https://codeforces.com/contest/1505/submission/263061520",
+    "tags": [
+      "*special problem",
+      "number theory",
+      "*1800"
+    ],
+    "timestamp": "May/29/2024 02:08"
+  },
   "CF263061539": {
     "contest_id": 958,
     "language": "C++20 (GCC 13-64)",
