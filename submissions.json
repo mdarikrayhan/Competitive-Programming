@@ -72602,6 +72602,24 @@
     ],
     "timestamp": "May/29/2024 00:59"
   },
+  "CF263056199": {
+    "contest_id": 147,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/147/B.cpp",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Smile House",
+    "problem_url": "https://codeforces.com/contest/147/problem/B",
+    "submission_id": "CF263056199",
+    "submission_url": "https://codeforces.com/contest/147/submission/263056199",
+    "tags": [
+      "binary search",
+      "graphs",
+      "matrices",
+      "*2500"
+    ],
+    "timestamp": "May/29/2024 01:00"
+  },
   "CF263056210": {
     "contest_id": 601,
     "language": "C++20 (GCC 13-64)",
