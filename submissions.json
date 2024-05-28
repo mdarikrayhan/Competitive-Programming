@@ -23393,6 +23393,25 @@
     ],
     "timestamp": "May/17/2024 08:26"
   },
+  "CF262946294": {
+    "contest_id": 1943,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1943/D1.cpp",
+    "platform": "Codeforces",
+    "problem_index": "D1",
+    "problem_name": "Counting Is Fun (Easy Version)",
+    "problem_url": "https://codeforces.com/contest/1943/problem/D1",
+    "submission_id": "CF262946294",
+    "submission_url": "https://codeforces.com/contest/1943/submission/262946294",
+    "tags": [
+      "brute force",
+      "combinatorics",
+      "dp",
+      "math",
+      "*2400"
+    ],
+    "timestamp": "May/28/2024 08:09"
+  },
   "CF262946306": {
     "contest_id": 24,
     "language": "C++20 (GCC 13-64)",
