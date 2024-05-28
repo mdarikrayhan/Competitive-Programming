@@ -29631,6 +29631,23 @@
     ],
     "timestamp": "May/29/2024 03:14"
   },
+  "CF263067156": {
+    "contest_id": 1906,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1906/E.cpp",
+    "platform": "Codeforces",
+    "problem_index": "E",
+    "problem_name": "Merge Not Sort",
+    "problem_url": "https://codeforces.com/contest/1906/problem/E",
+    "submission_id": "CF263067156",
+    "submission_url": "https://codeforces.com/contest/1906/submission/263067156",
+    "tags": [
+      "constructive algorithms",
+      "dp",
+      "*1900"
+    ],
+    "timestamp": "May/29/2024 03:47"
+  },
   "CF263067185": {
     "contest_id": 109,
     "language": "C++20 (GCC 13-64)",
