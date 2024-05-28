@@ -23393,6 +23393,24 @@
     ],
     "timestamp": "May/17/2024 08:26"
   },
+  "CF263056472": {
+    "contest_id": 21,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/21/D.cpp",
+    "platform": "Codeforces",
+    "problem_index": "D",
+    "problem_name": "Traveling Graph",
+    "problem_url": "https://codeforces.com/contest/21/problem/D",
+    "submission_id": "CF263056472",
+    "submission_url": "https://codeforces.com/contest/21/submission/263056472",
+    "tags": [
+      "bitmasks",
+      "graph matchings",
+      "graphs",
+      "*2400"
+    ],
+    "timestamp": "May/29/2024 01:03"
+  },
   "CF263056487": {
     "contest_id": 1616,
     "language": "C++20 (GCC 13-64)",
