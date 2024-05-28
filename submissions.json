@@ -24201,6 +24201,21 @@
     ],
     "timestamp": "May/28/2024 11:31"
   },
+  "CF262961618": {
+    "contest_id": 926,
+    "language": "Kotlin 1.7",
+    "path": "codeforces/926/I.kt",
+    "platform": "Codeforces",
+    "problem_index": "I",
+    "problem_name": "A Vital Problem",
+    "problem_url": "https://codeforces.com/contest/926/problem/I",
+    "submission_id": "CF262961618",
+    "submission_url": "https://codeforces.com/contest/926/submission/262961618",
+    "tags": [
+      "*1700"
+    ],
+    "timestamp": "May/28/2024 11:32"
+  },
   "CF262962034": {
     "contest_id": 926,
     "language": "C# 10",
