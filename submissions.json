@@ -23393,6 +23393,25 @@
     ],
     "timestamp": "May/17/2024 08:26"
   },
+  "CF262967452": {
+    "contest_id": 1790,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1790/G.cpp",
+    "platform": "Codeforces",
+    "problem_index": "G",
+    "problem_name": "Tokens on Graph",
+    "problem_url": "https://codeforces.com/contest/1790/problem/G",
+    "submission_id": "CF262967452",
+    "submission_url": "https://codeforces.com/contest/1790/submission/262967452",
+    "tags": [
+      "constructive algorithms",
+      "dfs and similar",
+      "graphs",
+      "shortest paths",
+      "*2300"
+    ],
+    "timestamp": "May/28/2024 12:28"
+  },
   "CF262967554": {
     "contest_id": 946,
     "language": "C++20 (GCC 13-64)",
