@@ -27110,6 +27110,24 @@
     ],
     "timestamp": "May/29/2024 01:24"
   },
+  "CF263058470": {
+    "contest_id": 213,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/213/E.cpp",
+    "platform": "Codeforces",
+    "problem_index": "E",
+    "problem_name": "Two Permutations",
+    "problem_url": "https://codeforces.com/contest/213/problem/E",
+    "submission_id": "CF263058470",
+    "submission_url": "https://codeforces.com/contest/213/submission/263058470",
+    "tags": [
+      "data structures",
+      "hashing",
+      "strings",
+      "*2700"
+    ],
+    "timestamp": "May/29/2024 01:27"
+  },
   "CF263058486": {
     "contest_id": 467,
     "language": "C++20 (GCC 13-64)",
