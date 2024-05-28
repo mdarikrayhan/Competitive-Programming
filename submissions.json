@@ -27262,6 +27262,26 @@
     ],
     "timestamp": "May/28/2024 15:17"
   },
+  "CF262987215": {
+    "contest_id": 1835,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1835/B.cpp",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Lottery",
+    "problem_url": "https://codeforces.com/contest/1835/problem/B",
+    "submission_id": "CF262987215",
+    "submission_url": "https://codeforces.com/contest/1835/submission/262987215",
+    "tags": [
+      "binary search",
+      "brute force",
+      "greedy",
+      "math",
+      "two pointers",
+      "*2500"
+    ],
+    "timestamp": "May/28/2024 15:18"
+  },
   "CF262987371": {
     "contest_id": 504,
     "language": "C++20 (GCC 13-64)",
