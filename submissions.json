@@ -54625,6 +54625,23 @@
     ],
     "timestamp": "May/28/2024 08:13"
   },
+  "CF262947181": {
+    "contest_id": 489,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/489/F.cpp",
+    "platform": "Codeforces",
+    "problem_index": "F",
+    "problem_name": "Special Matrices",
+    "problem_url": "https://codeforces.com/contest/489/problem/F",
+    "submission_id": "CF262947181",
+    "submission_url": "https://codeforces.com/contest/489/submission/262947181",
+    "tags": [
+      "combinatorics",
+      "dp",
+      "*2100"
+    ],
+    "timestamp": "May/28/2024 08:26"
+  },
   "CF262947192": {
     "contest_id": 229,
     "language": "C++20 (GCC 13-64)",
