@@ -59861,6 +59861,22 @@
     ],
     "timestamp": "May/28/2024 06:21"
   },
+  "CF262942049": {
+    "contest_id": 175,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/175/B.cpp",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Plane of Tanks: Pro",
+    "problem_url": "https://codeforces.com/contest/175/problem/B",
+    "submission_id": "CF262942049",
+    "submission_url": "https://codeforces.com/contest/175/submission/262942049",
+    "tags": [
+      "implementation",
+      "*1400"
+    ],
+    "timestamp": "May/28/2024 06:35"
+  },
   "CF262942054": {
     "contest_id": 115,
     "language": "C++20 (GCC 13-64)",
