@@ -79705,6 +79705,26 @@
     ],
     "timestamp": "May/28/2024 12:49"
   },
+  "CF262975780": {
+    "contest_id": 1533,
+    "language": "Kotlin 1.7",
+    "path": "codeforces/1533/I.kt",
+    "platform": "Codeforces",
+    "problem_index": "I",
+    "problem_name": "Excursions",
+    "problem_url": "https://codeforces.com/contest/1533/problem/I",
+    "submission_id": "CF262975780",
+    "submission_url": "https://codeforces.com/contest/1533/submission/262975780",
+    "tags": [
+      "*special problem",
+      "constructive algorithms",
+      "dfs and similar",
+      "flows",
+      "graph matchings",
+      "graphs"
+    ],
+    "timestamp": "May/28/2024 13:41"
+  },
   "CF262975803": {
     "contest_id": 1533,
     "language": "Kotlin 1.7",
