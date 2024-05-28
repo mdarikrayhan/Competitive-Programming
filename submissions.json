@@ -29631,6 +29631,24 @@
     ],
     "timestamp": "May/29/2024 03:14"
   },
+  "CF263067450": {
+    "contest_id": 961,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/961/F.cpp",
+    "platform": "Codeforces",
+    "problem_index": "F",
+    "problem_name": "k-substrings",
+    "problem_url": "https://codeforces.com/contest/961/problem/F",
+    "submission_id": "CF263067450",
+    "submission_url": "https://codeforces.com/contest/961/submission/263067450",
+    "tags": [
+      "binary search",
+      "hashing",
+      "string suffix structures",
+      "*2700"
+    ],
+    "timestamp": "May/29/2024 03:53"
+  },
   "CF263067476": {
     "contest_id": 1949,
     "language": "C++20 (GCC 13-64)",
