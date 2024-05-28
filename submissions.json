@@ -26298,6 +26298,24 @@
     ],
     "timestamp": "May/28/2024 12:41"
   },
+  "CF262978557": {
+    "contest_id": 1774,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1774/F1.cpp",
+    "platform": "Codeforces",
+    "problem_index": "F1",
+    "problem_name": "Magician and Pigs (Easy Version)",
+    "problem_url": "https://codeforces.com/contest/1774/problem/F1",
+    "submission_id": "CF262978557",
+    "submission_url": "https://codeforces.com/contest/1774/submission/262978557",
+    "tags": [
+      "brute force",
+      "data structures",
+      "implementation",
+      "*2400"
+    ],
+    "timestamp": "May/28/2024 14:05"
+  },
   "CF262978565": {
     "contest_id": 1932,
     "language": "C++20 (GCC 13-64)",
