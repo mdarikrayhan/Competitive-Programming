@@ -23393,6 +23393,23 @@
     ],
     "timestamp": "May/17/2024 08:26"
   },
+  "CF263057725": {
+    "contest_id": 1768,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1768/F.cpp",
+    "platform": "Codeforces",
+    "problem_index": "F",
+    "problem_name": "Wonderful Jump",
+    "problem_url": "https://codeforces.com/contest/1768/problem/F",
+    "submission_id": "CF263057725",
+    "submission_url": "https://codeforces.com/contest/1768/submission/263057725",
+    "tags": [
+      "dp",
+      "greedy",
+      "*2900"
+    ],
+    "timestamp": "May/29/2024 01:18"
+  },
   "CF263057743": {
     "contest_id": 605,
     "language": "C++20 (GCC 13-64)",
