@@ -23393,6 +23393,24 @@
     ],
     "timestamp": "May/17/2024 08:26"
   },
+  "CF263084716": {
+    "contest_id": 1493,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1493/F.cpp",
+    "platform": "Codeforces",
+    "problem_index": "F",
+    "problem_name": "Enchanted Matrix",
+    "problem_url": "https://codeforces.com/contest/1493/problem/F",
+    "submission_id": "CF263084716",
+    "submission_url": "https://codeforces.com/contest/1493/submission/263084716",
+    "tags": [
+      "bitmasks",
+      "interactive",
+      "number theory",
+      "*2600"
+    ],
+    "timestamp": "May/29/2024 10:18"
+  },
   "CF263084731": {
     "contest_id": 1214,
     "language": "C++20 (GCC 13-64)",
