@@ -27418,6 +27418,24 @@
     ],
     "timestamp": "May/29/2024 07:02"
   },
+  "CF263074470": {
+    "contest_id": 1331,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1331/F.cpp",
+    "platform": "Codeforces",
+    "problem_index": "F",
+    "problem_name": "Elementary!",
+    "problem_url": "https://codeforces.com/contest/1331/problem/F",
+    "submission_id": "CF263074470",
+    "submission_url": "https://codeforces.com/contest/1331/submission/263074470",
+    "tags": [
+      "*special problem",
+      "brute force",
+      "dp",
+      "strings"
+    ],
+    "timestamp": "May/29/2024 07:08"
+  },
   "CF263074472": {
     "contest_id": 878,
     "language": "C++20 (GCC 13-64)",
