@@ -37644,6 +37644,22 @@
     ],
     "timestamp": "May/29/2024 09:39"
   },
+  "CF263082504": {
+    "contest_id": 345,
+    "language": "Ada",
+    "path": "codeforces/345/F.ada",
+    "platform": "Codeforces",
+    "problem_index": "F",
+    "problem_name": "Superstitions Inspection",
+    "problem_url": "https://codeforces.com/contest/345/problem/F",
+    "submission_id": "CF263082504",
+    "submission_url": "https://codeforces.com/contest/345/submission/263082504",
+    "tags": [
+      "*special problem",
+      "*2700"
+    ],
+    "timestamp": "May/29/2024 09:42"
+  },
   "CF263082511": {
     "contest_id": 345,
     "language": "Ada",
