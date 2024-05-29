@@ -23393,6 +23393,22 @@
     ],
     "timestamp": "May/17/2024 08:26"
   },
+  "CF263083705": {
+    "contest_id": 273,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/273/D.cpp",
+    "platform": "Codeforces",
+    "problem_index": "D",
+    "problem_name": "Dima and Figure",
+    "problem_url": "https://codeforces.com/contest/273/problem/D",
+    "submission_id": "CF263083705",
+    "submission_url": "https://codeforces.com/contest/273/submission/263083705",
+    "tags": [
+      "dp",
+      "*2400"
+    ],
+    "timestamp": "May/29/2024 10:02"
+  },
   "CF263083717": {
     "contest_id": 1519,
     "language": "C++20 (GCC 13-64)",
