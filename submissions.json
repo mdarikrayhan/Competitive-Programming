@@ -24815,6 +24815,22 @@
     ],
     "timestamp": "May/29/2024 10:33"
   },
+  "CF263095821": {
+    "contest_id": 1091,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1091/H.cpp",
+    "platform": "Codeforces",
+    "problem_index": "H",
+    "problem_name": "New Year and the Tricolore Recreation",
+    "problem_url": "https://codeforces.com/contest/1091/problem/H",
+    "submission_id": "CF263095821",
+    "submission_url": "https://codeforces.com/contest/1091/submission/263095821",
+    "tags": [
+      "games",
+      "*3200"
+    ],
+    "timestamp": "May/29/2024 12:30"
+  },
   "CF263095906": {
     "contest_id": 1920,
     "language": "C++20 (GCC 13-64)",
