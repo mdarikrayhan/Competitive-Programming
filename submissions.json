@@ -23393,6 +23393,22 @@
     ],
     "timestamp": "May/17/2024 08:26"
   },
+  "CF263134941": {
+    "contest_id": 1662,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1662/B.cpp",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Toys",
+    "problem_url": "https://codeforces.com/contest/1662/problem/B",
+    "submission_id": "CF263134941",
+    "submission_url": "https://codeforces.com/contest/1662/submission/263134941",
+    "tags": [
+      "greedy",
+      "strings"
+    ],
+    "timestamp": "May/29/2024 17:44"
+  },
   "CF263135031": {
     "contest_id": 1924,
     "language": "C++20 (GCC 13-64)",
