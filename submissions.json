@@ -34491,6 +34491,24 @@
     ],
     "timestamp": "May/29/2024 14:59"
   },
+  "CF263115874": {
+    "contest_id": 1572,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1572/E.cpp",
+    "platform": "Codeforces",
+    "problem_index": "E",
+    "problem_name": "Polygon",
+    "problem_url": "https://codeforces.com/contest/1572/problem/E",
+    "submission_id": "CF263115874",
+    "submission_url": "https://codeforces.com/contest/1572/submission/263115874",
+    "tags": [
+      "binary search",
+      "dp",
+      "geometry",
+      "*3000"
+    ],
+    "timestamp": "May/29/2024 15:06"
+  },
   "CF263115960": {
     "contest_id": 497,
     "language": "C++20 (GCC 13-64)",
