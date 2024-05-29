@@ -23393,6 +23393,22 @@
     ],
     "timestamp": "May/17/2024 08:26"
   },
+  "CF263114942": {
+    "contest_id": 1965,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1965/D.cpp",
+    "platform": "Codeforces",
+    "problem_index": "D",
+    "problem_name": "Missing Subarray Sum",
+    "problem_url": "https://codeforces.com/contest/1965/problem/D",
+    "submission_id": "CF263114942",
+    "submission_url": "https://codeforces.com/contest/1965/submission/263114942",
+    "tags": [
+      "constructive algorithms",
+      "*2900"
+    ],
+    "timestamp": "May/29/2024 14:58"
+  },
   "CF263114969": {
     "contest_id": 1172,
     "language": "C++20 (GCC 13-64)",
