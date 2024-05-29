@@ -23393,6 +23393,24 @@
     ],
     "timestamp": "May/17/2024 08:26"
   },
+  "CF263077100": {
+    "contest_id": 818,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/818/F.cpp",
+    "platform": "Codeforces",
+    "problem_index": "F",
+    "problem_name": "Level Generation",
+    "problem_url": "https://codeforces.com/contest/818/problem/F",
+    "submission_id": "CF263077100",
+    "submission_url": "https://codeforces.com/contest/818/submission/263077100",
+    "tags": [
+      "binary search",
+      "math",
+      "ternary search",
+      "*2100"
+    ],
+    "timestamp": "May/29/2024 08:08"
+  },
   "CF263077125": {
     "contest_id": 1508,
     "language": "C++20 (GCC 13-64)",
