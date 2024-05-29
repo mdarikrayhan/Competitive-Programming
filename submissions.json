@@ -23393,6 +23393,22 @@
     ],
     "timestamp": "May/17/2024 08:26"
   },
+  "CF263119004": {
+    "contest_id": 256,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/256/D.cpp",
+    "platform": "Codeforces",
+    "problem_index": "D",
+    "problem_name": "Liars and Serge",
+    "problem_url": "https://codeforces.com/contest/256/problem/D",
+    "submission_id": "CF263119004",
+    "submission_url": "https://codeforces.com/contest/256/submission/263119004",
+    "tags": [
+      "dp",
+      "*2700"
+    ],
+    "timestamp": "May/29/2024 15:31"
+  },
   "CF263119085": {
     "contest_id": 1007,
     "language": "C++20 (GCC 13-64)",
