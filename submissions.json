@@ -39221,6 +39221,25 @@
     "tags": [],
     "timestamp": "May/29/2024 10:57"
   },
+  "CF263087539": {
+    "contest_id": 1375,
+    "language": "C++14 (GCC 6-32)",
+    "path": "codeforces/1375/I.cpp",
+    "platform": "Codeforces",
+    "problem_index": "I",
+    "problem_name": "Cubic Lattice",
+    "problem_url": "https://codeforces.com/contest/1375/problem/I",
+    "submission_id": "CF263087539",
+    "submission_url": "https://codeforces.com/contest/1375/submission/263087539",
+    "tags": [
+      "geometry",
+      "math",
+      "matrices",
+      "number theory",
+      "*3500"
+    ],
+    "timestamp": "May/29/2024 11:00"
+  },
   "CF263087695": {
     "contest_id": 1798,
     "language": "C++20 (GCC 13-64)",
