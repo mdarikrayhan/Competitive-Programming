@@ -23497,6 +23497,23 @@
     "tags": [],
     "timestamp": "May/29/2024 18:32"
   },
+  "CF263144981": {
+    "contest_id": 925,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/925/F.cpp",
+    "platform": "Codeforces",
+    "problem_index": "F",
+    "problem_name": "Parametric Circulation",
+    "problem_url": "https://codeforces.com/contest/925/problem/F",
+    "submission_id": "CF263144981",
+    "submission_url": "https://codeforces.com/contest/925/submission/263144981",
+    "tags": [
+      "binary search",
+      "flows",
+      "*3100"
+    ],
+    "timestamp": "May/29/2024 19:05"
+  },
   "CF263145020": {
     "contest_id": 1852,
     "language": "C++20 (GCC 13-64)",
