@@ -23393,6 +23393,22 @@
     ],
     "timestamp": "May/17/2024 08:26"
   },
+  "CF263116909": {
+    "contest_id": 1276,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1276/F.cpp",
+    "platform": "Codeforces",
+    "problem_index": "F",
+    "problem_name": "Asterisk Substrings",
+    "problem_url": "https://codeforces.com/contest/1276/problem/F",
+    "submission_id": "CF263116909",
+    "submission_url": "https://codeforces.com/contest/1276/submission/263116909",
+    "tags": [
+      "string suffix structures",
+      "*3400"
+    ],
+    "timestamp": "May/29/2024 15:15"
+  },
   "CF263116911": {
     "contest_id": 666,
     "language": "C++20 (GCC 13-64)",
