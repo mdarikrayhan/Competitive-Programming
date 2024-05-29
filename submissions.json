@@ -23393,6 +23393,26 @@
     ],
     "timestamp": "May/17/2024 08:26"
   },
+  "CF263113504": {
+    "contest_id": 1698,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1698/G.cpp",
+    "platform": "Codeforces",
+    "problem_index": "G",
+    "problem_name": "Long Binary String",
+    "problem_url": "https://codeforces.com/contest/1698/problem/G",
+    "submission_id": "CF263113504",
+    "submission_url": "https://codeforces.com/contest/1698/submission/263113504",
+    "tags": [
+      "bitmasks",
+      "math",
+      "matrices",
+      "meet-in-the-middle",
+      "number theory",
+      "*2900"
+    ],
+    "timestamp": "May/29/2024 14:47"
+  },
   "CF263113548": {
     "contest_id": 1359,
     "language": "C++20 (GCC 13-64)",
