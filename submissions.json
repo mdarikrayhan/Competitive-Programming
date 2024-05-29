@@ -23393,6 +23393,24 @@
     ],
     "timestamp": "May/17/2024 08:26"
   },
+  "CF263072232": {
+    "contest_id": 73,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/73/D.cpp",
+    "platform": "Codeforces",
+    "problem_index": "D",
+    "problem_name": "FreeDiv",
+    "problem_url": "https://codeforces.com/contest/73/problem/D",
+    "submission_id": "CF263072232",
+    "submission_url": "https://codeforces.com/contest/73/submission/263072232",
+    "tags": [
+      "dfs and similar",
+      "graphs",
+      "greedy",
+      "*2200"
+    ],
+    "timestamp": "May/29/2024 06:04"
+  },
   "CF263072234": {
     "contest_id": 1603,
     "language": "C++20 (GCC 13-64)",
