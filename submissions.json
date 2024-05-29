@@ -23393,6 +23393,23 @@
     ],
     "timestamp": "May/17/2024 08:26"
   },
+  "CF263113470": {
+    "contest_id": 274,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/274/E.cpp",
+    "platform": "Codeforces",
+    "problem_index": "E",
+    "problem_name": "Mirror Room",
+    "problem_url": "https://codeforces.com/contest/274/problem/E",
+    "submission_id": "CF263113470",
+    "submission_url": "https://codeforces.com/contest/274/submission/263113470",
+    "tags": [
+      "data structures",
+      "implementation",
+      "*3000"
+    ],
+    "timestamp": "May/29/2024 14:46"
+  },
   "CF263113503": {
     "contest_id": 1970,
     "language": "C++20 (GCC 13-64)",
