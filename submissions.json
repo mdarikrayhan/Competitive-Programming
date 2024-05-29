@@ -39208,6 +39208,22 @@
     ],
     "timestamp": "May/29/2024 10:33"
   },
+  "CF263085778": {
+    "contest_id": 1297,
+    "language": "Kotlin 1.7",
+    "path": "codeforces/1297/I.kt",
+    "platform": "Codeforces",
+    "problem_index": "I",
+    "problem_name": "Falling Blocks",
+    "problem_url": "https://codeforces.com/contest/1297/problem/I",
+    "submission_id": "CF263085778",
+    "submission_url": "https://codeforces.com/contest/1297/submission/263085778",
+    "tags": [
+      "*special problem",
+      "data structures"
+    ],
+    "timestamp": "May/29/2024 10:35"
+  },
   "CF263085955": {
     "contest_id": 718,
     "language": "C++20 (GCC 13-64)",
