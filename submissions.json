@@ -34491,6 +34491,23 @@
     ],
     "timestamp": "May/29/2024 14:59"
   },
+  "CF263115355": {
+    "contest_id": 1109,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1109/F.cpp",
+    "platform": "Codeforces",
+    "problem_index": "F",
+    "problem_name": "Sasha and Algorithm of Silence's Sounds",
+    "problem_url": "https://codeforces.com/contest/1109/problem/F",
+    "submission_id": "CF263115355",
+    "submission_url": "https://codeforces.com/contest/1109/submission/263115355",
+    "tags": [
+      "data structures",
+      "trees",
+      "*3200"
+    ],
+    "timestamp": "May/29/2024 15:02"
+  },
   "CF263115452": {
     "contest_id": 802,
     "language": "C++20 (GCC 13-64)",
