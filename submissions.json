@@ -24815,6 +24815,23 @@
     ],
     "timestamp": "May/29/2024 10:33"
   },
+  "CF263102967": {
+    "contest_id": 333,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/333/C.cpp",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Lucky Tickets",
+    "problem_url": "https://codeforces.com/contest/333/problem/C",
+    "submission_id": "CF263102967",
+    "submission_url": "https://codeforces.com/contest/333/submission/263102967",
+    "tags": [
+      "brute force",
+      "constructive algorithms",
+      "*2700"
+    ],
+    "timestamp": "May/29/2024 13:24"
+  },
   "CF263103037": {
     "contest_id": 1562,
     "language": "C++20 (GCC 13-64)",
