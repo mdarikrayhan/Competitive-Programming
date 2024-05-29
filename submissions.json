@@ -38551,6 +38551,24 @@
     ],
     "timestamp": "May/29/2024 07:48"
   },
+  "CF263076259": {
+    "contest_id": 1637,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1637/G.cpp",
+    "platform": "Codeforces",
+    "problem_index": "G",
+    "problem_name": "Birthday",
+    "problem_url": "https://codeforces.com/contest/1637/problem/G",
+    "submission_id": "CF263076259",
+    "submission_url": "https://codeforces.com/contest/1637/submission/263076259",
+    "tags": [
+      "constructive algorithms",
+      "greedy",
+      "math",
+      "*3000"
+    ],
+    "timestamp": "May/29/2024 07:50"
+  },
   "CF263076270": {
     "contest_id": 306,
     "language": "C++20 (GCC 13-64)",
