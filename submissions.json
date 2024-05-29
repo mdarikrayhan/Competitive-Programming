@@ -40790,6 +40790,28 @@
     "tags": [],
     "timestamp": "May/29/2024 13:37"
   },
+  "CF263105617": {
+    "contest_id": 1721,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1721/F.cpp",
+    "platform": "Codeforces",
+    "problem_index": "F",
+    "problem_name": "Matching Reduction",
+    "problem_url": "https://codeforces.com/contest/1721/problem/F",
+    "submission_id": "CF263105617",
+    "submission_url": "https://codeforces.com/contest/1721/submission/263105617",
+    "tags": [
+      "brute force",
+      "constructive algorithms",
+      "dfs and similar",
+      "flows",
+      "graph matchings",
+      "graphs",
+      "interactive",
+      "*2800"
+    ],
+    "timestamp": "May/29/2024 13:43"
+  },
   "CF263105635": {
     "contest_id": 1261,
     "language": "C++20 (GCC 13-64)",
