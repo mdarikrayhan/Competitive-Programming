@@ -27654,6 +27654,25 @@
     ],
     "timestamp": "May/29/2024 15:36"
   },
+  "CF263124281": {
+    "contest_id": 1098,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1098/E.cpp",
+    "platform": "Codeforces",
+    "problem_index": "E",
+    "problem_name": "Fedya the Potter",
+    "problem_url": "https://codeforces.com/contest/1098/problem/E",
+    "submission_id": "CF263124281",
+    "submission_url": "https://codeforces.com/contest/1098/submission/263124281",
+    "tags": [
+      "binary search",
+      "implementation",
+      "math",
+      "number theory",
+      "*3400"
+    ],
+    "timestamp": "May/29/2024 16:14"
+  },
   "CF263124414": {
     "contest_id": 833,
     "language": "C++20 (GCC 13-64)",
