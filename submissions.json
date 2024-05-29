@@ -23393,6 +23393,21 @@
     ],
     "timestamp": "May/17/2024 08:26"
   },
+  "CF263171448": {
+    "contest_id": 1002,
+    "language": "Q#",
+    "path": "codeforces/1002/A3.qs",
+    "platform": "Codeforces",
+    "problem_index": "A3",
+    "problem_name": "Generate superposition of two basis states",
+    "problem_url": "https://codeforces.com/contest/1002/problem/A3",
+    "submission_id": "CF263171448",
+    "submission_url": "https://codeforces.com/contest/1002/submission/263171448",
+    "tags": [
+      "*1500"
+    ],
+    "timestamp": "May/29/2024 23:18"
+  },
   "CF263171466": {
     "contest_id": 1002,
     "language": "Q#",
