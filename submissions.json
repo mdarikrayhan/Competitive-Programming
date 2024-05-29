@@ -30034,6 +30034,22 @@
     ],
     "timestamp": "May/29/2024 15:36"
   },
+  "CF263121670": {
+    "contest_id": 152,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/152/D.cpp",
+    "platform": "Codeforces",
+    "problem_index": "D",
+    "problem_name": "Frames",
+    "problem_url": "https://codeforces.com/contest/152/problem/D",
+    "submission_id": "CF263121670",
+    "submission_url": "https://codeforces.com/contest/152/submission/263121670",
+    "tags": [
+      "brute force",
+      "*2600"
+    ],
+    "timestamp": "May/29/2024 15:52"
+  },
   "CF263121745": {
     "contest_id": 575,
     "language": "C++20 (GCC 13-64)",
