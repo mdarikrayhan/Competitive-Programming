@@ -30034,6 +30034,25 @@
     ],
     "timestamp": "May/29/2024 15:36"
   },
+  "CF263121772": {
+    "contest_id": 1684,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1684/H.cpp",
+    "platform": "Codeforces",
+    "problem_index": "H",
+    "problem_name": "Hard Cut",
+    "problem_url": "https://codeforces.com/contest/1684/problem/H",
+    "submission_id": "CF263121772",
+    "submission_url": "https://codeforces.com/contest/1684/submission/263121772",
+    "tags": [
+      "constructive algorithms",
+      "dfs and similar",
+      "divide and conquer",
+      "math",
+      "*3400"
+    ],
+    "timestamp": "May/29/2024 15:53"
+  },
   "CF263121793": {
     "contest_id": 1019,
     "language": "C++20 (GCC 13-64)",
