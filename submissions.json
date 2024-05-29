@@ -24298,6 +24298,23 @@
     ],
     "timestamp": "May/29/2024 08:12"
   },
+  "CF263077791": {
+    "contest_id": 8,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/8/D.cpp",
+    "platform": "Codeforces",
+    "problem_index": "D",
+    "problem_name": "Two Friends",
+    "problem_url": "https://codeforces.com/contest/8/problem/D",
+    "submission_id": "CF263077791",
+    "submission_url": "https://codeforces.com/contest/8/submission/263077791",
+    "tags": [
+      "binary search",
+      "geometry",
+      "*2600"
+    ],
+    "timestamp": "May/29/2024 08:23"
+  },
   "CF263077813": {
     "contest_id": 1063,
     "language": "C++20 (GCC 13-64)",
