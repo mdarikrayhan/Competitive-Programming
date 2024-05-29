@@ -24815,6 +24815,22 @@
     ],
     "timestamp": "May/29/2024 10:33"
   },
+  "CF263095689": {
+    "contest_id": 799,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/799/F.cpp",
+    "platform": "Codeforces",
+    "problem_index": "F",
+    "problem_name": "Beautiful fountains rows",
+    "problem_url": "https://codeforces.com/contest/799/problem/F",
+    "submission_id": "CF263095689",
+    "submission_url": "https://codeforces.com/contest/799/submission/263095689",
+    "tags": [
+      "data structures",
+      "*3500"
+    ],
+    "timestamp": "May/29/2024 12:28"
+  },
   "CF263095721": {
     "contest_id": 1809,
     "language": "C++20 (GCC 13-64)",
