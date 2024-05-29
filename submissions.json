@@ -34491,6 +34491,22 @@
     ],
     "timestamp": "May/29/2024 14:59"
   },
+  "CF263116076": {
+    "contest_id": 1866,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1866/E.cpp",
+    "platform": "Codeforces",
+    "problem_index": "E",
+    "problem_name": "Elevators of Tamem",
+    "problem_url": "https://codeforces.com/contest/1866/problem/E",
+    "submission_id": "CF263116076",
+    "submission_url": "https://codeforces.com/contest/1866/submission/263116076",
+    "tags": [
+      "dp",
+      "*2700"
+    ],
+    "timestamp": "May/29/2024 15:08"
+  },
   "CF263116077": {
     "contest_id": 142,
     "language": "C++20 (GCC 13-64)",
