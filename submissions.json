@@ -23393,6 +23393,23 @@
     ],
     "timestamp": "May/17/2024 08:26"
   },
+  "CF263153320": {
+    "contest_id": 1193,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1193/C.cpp",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Scissors and Tape",
+    "problem_url": "https://codeforces.com/contest/1193/problem/C",
+    "submission_id": "CF263153320",
+    "submission_url": "https://codeforces.com/contest/1193/submission/263153320",
+    "tags": [
+      "*special problem",
+      "constructive algorithms",
+      "geometry"
+    ],
+    "timestamp": "May/29/2024 20:07"
+  },
   "CF263153363": {
     "contest_id": 442,
     "language": "C++20 (GCC 13-64)",
