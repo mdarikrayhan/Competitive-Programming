@@ -37420,6 +37420,23 @@
     ],
     "timestamp": "May/29/2024 09:27"
   },
+  "CF263081726": {
+    "contest_id": 852,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/852/C.cpp",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Property",
+    "problem_url": "https://codeforces.com/contest/852/problem/C",
+    "submission_id": "CF263081726",
+    "submission_url": "https://codeforces.com/contest/852/submission/263081726",
+    "tags": [
+      "greedy",
+      "sortings",
+      "*2100"
+    ],
+    "timestamp": "May/29/2024 09:29"
+  },
   "CF263081742": {
     "contest_id": 209,
     "language": "C++20 (GCC 13-64)",
