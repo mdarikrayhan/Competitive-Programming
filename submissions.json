@@ -24298,6 +24298,26 @@
     ],
     "timestamp": "May/29/2024 08:12"
   },
+  "CF263077520": {
+    "contest_id": 1175,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1175/G.cpp",
+    "platform": "Codeforces",
+    "problem_index": "G",
+    "problem_name": "Yet Another Partiton Problem",
+    "problem_url": "https://codeforces.com/contest/1175/problem/G",
+    "submission_id": "CF263077520",
+    "submission_url": "https://codeforces.com/contest/1175/submission/263077520",
+    "tags": [
+      "data structures",
+      "divide and conquer",
+      "dp",
+      "geometry",
+      "two pointers",
+      "*3000"
+    ],
+    "timestamp": "May/29/2024 08:17"
+  },
   "CF263077547": {
     "contest_id": 611,
     "language": "C++20 (GCC 13-64)",
