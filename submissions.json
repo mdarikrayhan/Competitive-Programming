@@ -24815,6 +24815,22 @@
     ],
     "timestamp": "May/29/2024 10:33"
   },
+  "CF263096776": {
+    "contest_id": 51,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/51/D.cpp",
+    "platform": "Codeforces",
+    "problem_index": "D",
+    "problem_name": "Geometrical problem",
+    "problem_url": "https://codeforces.com/contest/51/problem/D",
+    "submission_id": "CF263096776",
+    "submission_url": "https://codeforces.com/contest/51/submission/263096776",
+    "tags": [
+      "implementation",
+      "*2200"
+    ],
+    "timestamp": "May/29/2024 12:38"
+  },
   "CF263096862": {
     "contest_id": 95,
     "language": "C++20 (GCC 13-64)",
