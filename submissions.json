@@ -23393,6 +23393,22 @@
     ],
     "timestamp": "May/17/2024 08:26"
   },
+  "CF263119251": {
+    "contest_id": 566,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/566/G.cpp",
+    "platform": "Codeforces",
+    "problem_index": "G",
+    "problem_name": "Max and Min",
+    "problem_url": "https://codeforces.com/contest/566/problem/G",
+    "submission_id": "CF263119251",
+    "submission_url": "https://codeforces.com/contest/566/submission/263119251",
+    "tags": [
+      "geometry",
+      "*2500"
+    ],
+    "timestamp": "May/29/2024 15:33"
+  },
   "CF263119262": {
     "contest_id": 346,
     "language": "C++20 (GCC 13-64)",
