@@ -23497,6 +23497,23 @@
     "tags": [],
     "timestamp": "May/29/2024 18:32"
   },
+  "CF263143730": {
+    "contest_id": 1912,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1912/F.cpp",
+    "platform": "Codeforces",
+    "problem_index": "F",
+    "problem_name": "Fugitive Frenzy",
+    "problem_url": "https://codeforces.com/contest/1912/problem/F",
+    "submission_id": "CF263143730",
+    "submission_url": "https://codeforces.com/contest/1912/submission/263143730",
+    "tags": [
+      "math",
+      "probabilities",
+      "*3100"
+    ],
+    "timestamp": "May/29/2024 18:55"
+  },
   "CF263143846": {
     "contest_id": 1097,
     "language": "C++20 (GCC 13-64)",
