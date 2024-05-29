@@ -23393,6 +23393,24 @@
     ],
     "timestamp": "May/17/2024 08:26"
   },
+  "CF263134816": {
+    "contest_id": 1817,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1817/E.cpp",
+    "platform": "Codeforces",
+    "problem_index": "E",
+    "problem_name": "Half-sum",
+    "problem_url": "https://codeforces.com/contest/1817/problem/E",
+    "submission_id": "CF263134816",
+    "submission_url": "https://codeforces.com/contest/1817/submission/263134816",
+    "tags": [
+      "brute force",
+      "divide and conquer",
+      "greedy",
+      "*3400"
+    ],
+    "timestamp": "May/29/2024 17:43"
+  },
   "CF263134898": {
     "contest_id": 1767,
     "language": "C++20 (GCC 13-64)",
