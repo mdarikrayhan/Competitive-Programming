@@ -23393,6 +23393,22 @@
     ],
     "timestamp": "May/17/2024 08:26"
   },
+  "CF263135949": {
+    "contest_id": 1906,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1906/I.cpp",
+    "platform": "Codeforces",
+    "problem_index": "I",
+    "problem_name": "Contingency Plan 2",
+    "problem_url": "https://codeforces.com/contest/1906/problem/I",
+    "submission_id": "CF263135949",
+    "submission_url": "https://codeforces.com/contest/1906/submission/263135949",
+    "tags": [
+      "graph matchings",
+      "*2900"
+    ],
+    "timestamp": "May/29/2024 17:52"
+  },
   "CF263135957": {
     "contest_id": 1936,
     "language": "C++20 (GCC 13-64)",
