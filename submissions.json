@@ -24815,6 +24815,24 @@
     ],
     "timestamp": "May/29/2024 10:33"
   },
+  "CF263096070": {
+    "contest_id": 1193,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1193/B.cpp",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Magic Tree",
+    "problem_url": "https://codeforces.com/contest/1193/problem/B",
+    "submission_id": "CF263096070",
+    "submission_url": "https://codeforces.com/contest/1193/submission/263096070",
+    "tags": [
+      "*special problem",
+      "data structures",
+      "dp",
+      "trees"
+    ],
+    "timestamp": "May/29/2024 12:31"
+  },
   "CF263096122": {
     "contest_id": 1455,
     "language": "C++20 (GCC 13-64)",
