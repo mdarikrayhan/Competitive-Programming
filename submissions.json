@@ -23393,6 +23393,26 @@
     ],
     "timestamp": "May/17/2024 08:26"
   },
+  "CF263134297": {
+    "contest_id": 1844,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1844/H.cpp",
+    "platform": "Codeforces",
+    "problem_index": "H",
+    "problem_name": "Multiple of Three Cycles",
+    "problem_url": "https://codeforces.com/contest/1844/problem/H",
+    "submission_id": "CF263134297",
+    "submission_url": "https://codeforces.com/contest/1844/submission/263134297",
+    "tags": [
+      "combinatorics",
+      "data structures",
+      "dp",
+      "dsu",
+      "math",
+      "*3400"
+    ],
+    "timestamp": "May/29/2024 17:39"
+  },
   "CF263134319": {
     "contest_id": 774,
     "language": "GNU C11",
