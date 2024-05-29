@@ -23393,6 +23393,24 @@
     ],
     "timestamp": "May/17/2024 08:26"
   },
+  "CF263084731": {
+    "contest_id": 1214,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1214/H.cpp",
+    "platform": "Codeforces",
+    "problem_index": "H",
+    "problem_name": "Tiles Placement",
+    "problem_url": "https://codeforces.com/contest/1214/problem/H",
+    "submission_id": "CF263084731",
+    "submission_url": "https://codeforces.com/contest/1214/submission/263084731",
+    "tags": [
+      "constructive algorithms",
+      "dfs and similar",
+      "trees",
+      "*2800"
+    ],
+    "timestamp": "May/29/2024 10:18"
+  },
   "CF263084744": {
     "contest_id": 43,
     "language": "C++20 (GCC 13-64)",
