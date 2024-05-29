@@ -23393,6 +23393,26 @@
     ],
     "timestamp": "May/17/2024 08:26"
   },
+  "CF263072342": {
+    "contest_id": 1225,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1225/G.cpp",
+    "platform": "Codeforces",
+    "problem_index": "G",
+    "problem_name": "To Make 1",
+    "problem_url": "https://codeforces.com/contest/1225/problem/G",
+    "submission_id": "CF263072342",
+    "submission_url": "https://codeforces.com/contest/1225/submission/263072342",
+    "tags": [
+      "bitmasks",
+      "constructive algorithms",
+      "dp",
+      "greedy",
+      "number theory",
+      "*3100"
+    ],
+    "timestamp": "May/29/2024 06:08"
+  },
   "CF263072343": {
     "contest_id": 109,
     "language": "C++20 (GCC 13-64)",
