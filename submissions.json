@@ -23393,6 +23393,24 @@
     ],
     "timestamp": "May/17/2024 08:26"
   },
+  "CF263156977": {
+    "contest_id": 98,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/98/B.cpp",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Help King",
+    "problem_url": "https://codeforces.com/contest/98/problem/B",
+    "submission_id": "CF263156977",
+    "submission_url": "https://codeforces.com/contest/98/submission/263156977",
+    "tags": [
+      "implementation",
+      "probabilities",
+      "trees",
+      "*2200"
+    ],
+    "timestamp": "May/29/2024 20:37"
+  },
   "CF263157093": {
     "contest_id": 1470,
     "language": "C++17 (GCC 7-32)",
