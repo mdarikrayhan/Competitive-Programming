@@ -24298,6 +24298,22 @@
     ],
     "timestamp": "May/29/2024 08:12"
   },
+  "CF263078073": {
+    "contest_id": 268,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/268/D.cpp",
+    "platform": "Codeforces",
+    "problem_index": "D",
+    "problem_name": "Wall Bars",
+    "problem_url": "https://codeforces.com/contest/268/problem/D",
+    "submission_id": "CF263078073",
+    "submission_url": "https://codeforces.com/contest/268/submission/263078073",
+    "tags": [
+      "dp",
+      "*2300"
+    ],
+    "timestamp": "May/29/2024 08:29"
+  },
   "CF263078087": {
     "contest_id": 36,
     "language": "C++20 (GCC 13-64)",
