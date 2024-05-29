@@ -34491,6 +34491,23 @@
     ],
     "timestamp": "May/29/2024 14:59"
   },
+  "CF263116460": {
+    "contest_id": 303,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/303/D.cpp",
+    "platform": "Codeforces",
+    "problem_index": "D",
+    "problem_name": "Rotatable Number",
+    "problem_url": "https://codeforces.com/contest/303/problem/D",
+    "submission_id": "CF263116460",
+    "submission_url": "https://codeforces.com/contest/303/submission/263116460",
+    "tags": [
+      "math",
+      "number theory",
+      "*2600"
+    ],
+    "timestamp": "May/29/2024 15:11"
+  },
   "CF263116507": {
     "contest_id": 1970,
     "language": "C++20 (GCC 13-64)",
