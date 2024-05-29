@@ -34491,6 +34491,25 @@
     ],
     "timestamp": "May/29/2024 14:59"
   },
+  "CF263116259": {
+    "contest_id": 1416,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1416/E.cpp",
+    "platform": "Codeforces",
+    "problem_index": "E",
+    "problem_name": "Split",
+    "problem_url": "https://codeforces.com/contest/1416/problem/E",
+    "submission_id": "CF263116259",
+    "submission_url": "https://codeforces.com/contest/1416/submission/263116259",
+    "tags": [
+      "binary search",
+      "data structures",
+      "dp",
+      "greedy",
+      "*3200"
+    ],
+    "timestamp": "May/29/2024 15:09"
+  },
   "CF263116361": {
     "contest_id": 1110,
     "language": "C++20 (GCC 13-64)",
