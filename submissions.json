@@ -40790,6 +40790,25 @@
     "tags": [],
     "timestamp": "May/29/2024 13:37"
   },
+  "CF263105557": {
+    "contest_id": 1738,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1738/G.cpp",
+    "platform": "Codeforces",
+    "problem_index": "G",
+    "problem_name": "Anti-Increasing Addicts",
+    "problem_url": "https://codeforces.com/contest/1738/problem/G",
+    "submission_id": "CF263105557",
+    "submission_url": "https://codeforces.com/contest/1738/submission/263105557",
+    "tags": [
+      "constructive algorithms",
+      "dp",
+      "greedy",
+      "math",
+      "*2900"
+    ],
+    "timestamp": "May/29/2024 13:43"
+  },
   "CF263105573": {
     "contest_id": 856,
     "language": "C++20 (GCC 13-64)",
