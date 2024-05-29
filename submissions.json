@@ -24815,6 +24815,25 @@
     ],
     "timestamp": "May/29/2024 10:33"
   },
+  "CF263098296": {
+    "contest_id": 1120,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1120/B.cpp",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Once in a casino",
+    "problem_url": "https://codeforces.com/contest/1120/problem/B",
+    "submission_id": "CF263098296",
+    "submission_url": "https://codeforces.com/contest/1120/submission/263098296",
+    "tags": [
+      "constructive algorithms",
+      "greedy",
+      "implementation",
+      "math",
+      "*2700"
+    ],
+    "timestamp": "May/29/2024 12:50"
+  },
   "CF263098317": {
     "contest_id": 1007,
     "language": "C++20 (GCC 13-64)",
