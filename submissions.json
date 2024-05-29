@@ -23393,6 +23393,23 @@
     ],
     "timestamp": "May/17/2024 08:26"
   },
+  "CF263149570": {
+    "contest_id": 42,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/42/C.cpp",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Safe cracking",
+    "problem_url": "https://codeforces.com/contest/42/problem/C",
+    "submission_id": "CF263149570",
+    "submission_url": "https://codeforces.com/contest/42/submission/263149570",
+    "tags": [
+      "brute force",
+      "constructive algorithms",
+      "*2200"
+    ],
+    "timestamp": "May/29/2024 19:38"
+  },
   "CF263149581": {
     "contest_id": 1868,
     "language": "C++20 (GCC 13-64)",
