@@ -30034,6 +30034,22 @@
     ],
     "timestamp": "May/29/2024 15:36"
   },
+  "CF263122307": {
+    "contest_id": 1338,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1338/E.cpp",
+    "platform": "Codeforces",
+    "problem_index": "E",
+    "problem_name": "JYPnation",
+    "problem_url": "https://codeforces.com/contest/1338/problem/E",
+    "submission_id": "CF263122307",
+    "submission_url": "https://codeforces.com/contest/1338/submission/263122307",
+    "tags": [
+      "graphs",
+      "*3500"
+    ],
+    "timestamp": "May/29/2024 15:57"
+  },
   "CF263122426": {
     "contest_id": 406,
     "language": "C++20 (GCC 13-64)",
