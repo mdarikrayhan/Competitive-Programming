@@ -39208,6 +39208,23 @@
     ],
     "timestamp": "May/29/2024 10:33"
   },
+  "CF263087116": {
+    "contest_id": 1070,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1070/B.cpp",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Berkomnadzor",
+    "problem_url": "https://codeforces.com/contest/1070/problem/B",
+    "submission_id": "CF263087116",
+    "submission_url": "https://codeforces.com/contest/1070/submission/263087116",
+    "tags": [
+      "data structures",
+      "greedy",
+      "*2400"
+    ],
+    "timestamp": "May/29/2024 10:54"
+  },
   "CF263087256": {
     "contest_id": 418,
     "language": "C++20 (GCC 13-64)",
