@@ -24150,6 +24150,24 @@
     ],
     "timestamp": "May/29/2024 08:09"
   },
+  "CF263077138": {
+    "contest_id": 946,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/946/F.cpp",
+    "platform": "Codeforces",
+    "problem_index": "F",
+    "problem_name": "Fibonacci String Subsequences",
+    "problem_url": "https://codeforces.com/contest/946/problem/F",
+    "submission_id": "CF263077138",
+    "submission_url": "https://codeforces.com/contest/946/submission/263077138",
+    "tags": [
+      "combinatorics",
+      "dp",
+      "matrices",
+      "*2400"
+    ],
+    "timestamp": "May/29/2024 08:09"
+  },
   "CF263077174": {
     "contest_id": 1606,
     "language": "C++20 (GCC 13-64)",
