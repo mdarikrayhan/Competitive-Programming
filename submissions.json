@@ -23497,6 +23497,23 @@
     "tags": [],
     "timestamp": "May/29/2024 18:32"
   },
+  "CF263147503": {
+    "contest_id": 901,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/901/E.cpp",
+    "platform": "Codeforces",
+    "problem_index": "E",
+    "problem_name": "Cyclic Cipher",
+    "problem_url": "https://codeforces.com/contest/901/problem/E",
+    "submission_id": "CF263147503",
+    "submission_url": "https://codeforces.com/contest/901/submission/263147503",
+    "tags": [
+      "fft",
+      "math",
+      "*3300"
+    ],
+    "timestamp": "May/29/2024 19:24"
+  },
   "CF263147585": {
     "contest_id": 1943,
     "language": "C++20 (GCC 13-64)",
