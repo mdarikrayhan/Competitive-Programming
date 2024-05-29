@@ -23393,6 +23393,23 @@
     ],
     "timestamp": "May/17/2024 08:26"
   },
+  "CF263157133": {
+    "contest_id": 1876,
+    "language": "C++17 (GCC 7-32)",
+    "path": "codeforces/1876/F.cpp",
+    "platform": "Codeforces",
+    "problem_index": "F",
+    "problem_name": "Indefinite Clownfish",
+    "problem_url": "https://codeforces.com/contest/1876/problem/F",
+    "submission_id": "CF263157133",
+    "submission_url": "https://codeforces.com/contest/1876/submission/263157133",
+    "tags": [
+      "binary search",
+      "graphs",
+      "*3500"
+    ],
+    "timestamp": "May/29/2024 20:38"
+  },
   "CF263157200": {
     "contest_id": 1044,
     "language": "C++17 (GCC 7-32)",
