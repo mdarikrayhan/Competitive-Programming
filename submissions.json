@@ -23393,6 +23393,24 @@
     ],
     "timestamp": "May/17/2024 08:26"
   },
+  "CF263159584": {
+    "contest_id": 1936,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1936/E.cpp",
+    "platform": "Codeforces",
+    "problem_index": "E",
+    "problem_name": "Yet Yet Another Permutation Problem",
+    "problem_url": "https://codeforces.com/contest/1936/problem/E",
+    "submission_id": "CF263159584",
+    "submission_url": "https://codeforces.com/contest/1936/submission/263159584",
+    "tags": [
+      "divide and conquer",
+      "fft",
+      "math",
+      "*3400"
+    ],
+    "timestamp": "May/29/2024 21:00"
+  },
   "CF263159809": {
     "contest_id": 33,
     "language": "C++20 (GCC 13-64)",
