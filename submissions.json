@@ -30034,6 +30034,19 @@
     ],
     "timestamp": "May/29/2024 15:36"
   },
+  "CF263122482": {
+    "contest_id": 1510,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1510/A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "ASCII Automata Art",
+    "problem_url": "https://codeforces.com/contest/1510/problem/A",
+    "submission_id": "CF263122482",
+    "submission_url": "https://codeforces.com/contest/1510/submission/263122482",
+    "tags": [],
+    "timestamp": "May/29/2024 15:59"
+  },
   "CF263122533": {
     "contest_id": 1510,
     "language": "C++20 (GCC 13-64)",
