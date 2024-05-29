@@ -23393,6 +23393,24 @@
     ],
     "timestamp": "May/17/2024 08:26"
   },
+  "CF263083795": {
+    "contest_id": 917,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/917/C.cpp",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Pollywog",
+    "problem_url": "https://codeforces.com/contest/917/problem/C",
+    "submission_id": "CF263083795",
+    "submission_url": "https://codeforces.com/contest/917/submission/263083795",
+    "tags": [
+      "combinatorics",
+      "dp",
+      "matrices",
+      "*2900"
+    ],
+    "timestamp": "May/29/2024 10:04"
+  },
   "CF263083815": {
     "contest_id": 1297,
     "language": "Kotlin 1.7",
