@@ -1,38 +1,64 @@
-#include <bits/stdc++.h>
+// LUOGU_RID: 159935778
+#include<bits/stdc++.h>
+#define N 1000010
+#define ll long long
+#define p 998244353
 using namespace std;
-#define N 1000005
-#define MOD 998244353
-const int up=1e6;
-int n,o,ans,inv[N],fail[N],z[N];char a[N];
-void W(int &x,int y) {x+=y;if(x>=MOD) x-=MOD;}
-int calc(int n)
-{
-	for(int i=2,j=0;i<=n;++i)
-	{
-		while(j && a[i]!=a[j+1]) j=fail[j];
-		if(a[i]==a[j+1]) ++j;fail[i]=j;
-	}
-	for(int i=fail[n];i;i=fail[i])
-		if(!(n%(n-i))) return n-i;return n;
+int n,m,a[N][2],fail[N],bz[N*2],pri[N],mx,tot,mn[N*2];
+char ch[N];
+ll ans,sum,s[N],now[N];
+ll qpow(ll x,ll v){
+    ll y=1;
+    while(v){
+        if(v&1)y=y*x%p;
+        x=x*x%p;v>>=1;
+    }return y;
 }
-void upd(int x,int vl)
-{
-	for(int i=2;i<=x;++i) while(!(x%i))
-	{
-		x/=i;z[i]+=vl;
-		if(z[i]<0) z[i]=0,o=1ll*o*i%MOD,ans=1ll*ans*i%MOD;
-	}
-}
-int main()
-{
-	scanf("%d",&n);o=ans=1;
-	for(int i=1;i<=up;++i)
-		inv[i]=i>1?1ll*inv[MOD%i]*(MOD-MOD/i)%MOD:1;
-	for(int i=1,t,x;i<=n;++i)
-	{
-		bool s=0;scanf("%s",a+1);t=calc(strlen(a+1));x=0;
-		for(int j=1;j<=t;++j) s^=a[j]=='0',x+=(!s);
-		if(s&1) x=t,t*=2;upd(x,-1);upd(t-x,1);
-		if(t==x) break;o=1ll*o*(t-x)%MOD*inv[x]%MOD;W(ans,o);
-	}W(ans,ans);printf("%d\n",ans);return 0;
+int main(){
+    scanf("%d",&n);
+    for(int i=1;i<=n;i++){
+        scanf("%s",ch+1);m=0;
+        while(ch[++m]);m--;
+        for(int j=1,k=0;j<=m;j++){
+            while(k&&ch[k+1]!=ch[j])k=fail[k];
+            if(k+1!=j&&ch[k+1]==ch[j])k++;
+            fail[j]=k;
+        }
+        if(m%(m-fail[m])==0)m-=fail[m];
+        int x=0,y=1;
+        while(1){
+            if(ch[y]=='0')a[i][0]++,a[i][1]++,x^=1;
+            else a[i][x]+=2;
+            y=y%m+1;
+            if(x==0&&y==1)break;
+        }
+    }mx=2e6;
+    for(int i=2;i<=mx;i++){
+        if(!bz[i])pri[++tot]=i,mn[i]=tot;
+        for(int j=1;j<=tot&&pri[j]*i<=mx;j++){
+            bz[pri[j]*i]=1;mn[i*pri[j]]=j;
+            if(i%pri[j]==0)break;
+        }
+    }
+    for(int i=1;i<=n;i++){
+        int x=a[i][0];
+        while(x>1){
+            now[mn[x]]++;
+            s[mn[x]]=max(s[mn[x]],now[mn[x]]);
+            x/=pri[mn[x]];
+        }
+        x=a[i][1];
+        while(x>1){
+            now[mn[x]]--;
+            x/=pri[mn[x]];
+        }
+        if(a[i][1]==0)break;
+    }sum=1;
+    for(int i=1;i<=tot;i++)
+    sum=sum*qpow(pri[i],s[i])%p;
+    ans=sum;
+    for(int i=1;i<=n;i++){
+        sum=sum*qpow(a[i][0],p-2)%p*a[i][1]%p;
+        (ans+=sum)%=p;
+    }printf("%lld",ans);
 }
