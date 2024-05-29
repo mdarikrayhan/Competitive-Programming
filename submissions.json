@@ -23393,6 +23393,25 @@
     ],
     "timestamp": "May/17/2024 08:26"
   },
+  "CF263159210": {
+    "contest_id": 1916,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1916/G.cpp",
+    "platform": "Codeforces",
+    "problem_index": "G",
+    "problem_name": "Optimizations From Chelsu",
+    "problem_url": "https://codeforces.com/contest/1916/problem/G",
+    "submission_id": "CF263159210",
+    "submission_url": "https://codeforces.com/contest/1916/submission/263159210",
+    "tags": [
+      "divide and conquer",
+      "dp",
+      "number theory",
+      "trees",
+      "*3500"
+    ],
+    "timestamp": "May/29/2024 20:56"
+  },
   "CF263159388": {
     "contest_id": 730,
     "language": "C++20 (GCC 13-64)",
