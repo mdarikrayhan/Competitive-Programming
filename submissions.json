@@ -24814,6 +24814,19 @@
     ],
     "timestamp": "May/29/2024 15:36"
   },
+  "CF263130242": {
+    "contest_id": 1939,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1939/D.cpp",
+    "platform": "Codeforces",
+    "problem_index": "D",
+    "problem_name": "Big Persimmon",
+    "problem_url": "https://codeforces.com/contest/1939/problem/D",
+    "submission_id": "CF263130242",
+    "submission_url": "https://codeforces.com/contest/1939/submission/263130242",
+    "tags": [],
+    "timestamp": "May/29/2024 17:06"
+  },
   "CF263130327": {
     "contest_id": 793,
     "language": "C++20 (GCC 13-64)",
