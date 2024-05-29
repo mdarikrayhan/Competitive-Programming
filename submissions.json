@@ -36993,6 +36993,24 @@
     ],
     "timestamp": "May/29/2024 08:47"
   },
+  "CF263079052": {
+    "contest_id": 73,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/73/B.cpp",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Need For Brake",
+    "problem_url": "https://codeforces.com/contest/73/problem/B",
+    "submission_id": "CF263079052",
+    "submission_url": "https://codeforces.com/contest/73/submission/263079052",
+    "tags": [
+      "binary search",
+      "greedy",
+      "sortings",
+      "*2000"
+    ],
+    "timestamp": "May/29/2024 08:47"
+  },
   "CF263079072": {
     "contest_id": 325,
     "language": "C++20 (GCC 13-64)",
