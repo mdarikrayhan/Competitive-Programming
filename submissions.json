@@ -23393,6 +23393,25 @@
     ],
     "timestamp": "May/17/2024 08:26"
   },
+  "CF263083665": {
+    "contest_id": 827,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/827/F.cpp",
+    "platform": "Codeforces",
+    "problem_index": "F",
+    "problem_name": "Dirty Arkady's Kitchen",
+    "problem_url": "https://codeforces.com/contest/827/problem/F",
+    "submission_id": "CF263083665",
+    "submission_url": "https://codeforces.com/contest/827/submission/263083665",
+    "tags": [
+      "data structures",
+      "dp",
+      "graphs",
+      "shortest paths",
+      "*3200"
+    ],
+    "timestamp": "May/29/2024 10:02"
+  },
   "CF263083677": {
     "contest_id": 360,
     "language": "C++20 (GCC 13-64)",
