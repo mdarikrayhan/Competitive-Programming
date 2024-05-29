@@ -23393,6 +23393,23 @@
     ],
     "timestamp": "May/17/2024 08:26"
   },
+  "CF263084592": {
+    "contest_id": 1647,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1647/F.cpp",
+    "platform": "Codeforces",
+    "problem_index": "F",
+    "problem_name": "Madoka and Laziness",
+    "problem_url": "https://codeforces.com/contest/1647/problem/F",
+    "submission_id": "CF263084592",
+    "submission_url": "https://codeforces.com/contest/1647/submission/263084592",
+    "tags": [
+      "dp",
+      "greedy",
+      "*3100"
+    ],
+    "timestamp": "May/29/2024 10:16"
+  },
   "CF263084673": {
     "contest_id": 198,
     "language": "C++20 (GCC 13-64)",
