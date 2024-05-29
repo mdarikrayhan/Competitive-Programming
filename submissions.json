@@ -33073,6 +33073,25 @@
     ],
     "timestamp": "May/29/2024 14:00"
   },
+  "CF263111278": {
+    "contest_id": 1408,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1408/H.cpp",
+    "platform": "Codeforces",
+    "problem_index": "H",
+    "problem_name": "Rainbow Triples",
+    "problem_url": "https://codeforces.com/contest/1408/problem/H",
+    "submission_id": "CF263111278",
+    "submission_url": "https://codeforces.com/contest/1408/submission/263111278",
+    "tags": [
+      "binary search",
+      "data structures",
+      "flows",
+      "greedy",
+      "*3300"
+    ],
+    "timestamp": "May/29/2024 14:29"
+  },
   "CF263111376": {
     "contest_id": 1218,
     "language": "C++20 (GCC 13-64)",
