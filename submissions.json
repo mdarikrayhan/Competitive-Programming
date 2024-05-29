@@ -30034,6 +30034,28 @@
     ],
     "timestamp": "May/29/2024 15:36"
   },
+  "CF263120639": {
+    "contest_id": 1743,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1743/G.cpp",
+    "platform": "Codeforces",
+    "problem_index": "G",
+    "problem_name": "Antifibonacci Cut",
+    "problem_url": "https://codeforces.com/contest/1743/problem/G",
+    "submission_id": "CF263120639",
+    "submission_url": "https://codeforces.com/contest/1743/submission/263120639",
+    "tags": [
+      "bitmasks",
+      "combinatorics",
+      "constructive algorithms",
+      "data structures",
+      "dp",
+      "hashing",
+      "math",
+      "*3000"
+    ],
+    "timestamp": "May/29/2024 15:44"
+  },
   "CF263120670": {
     "contest_id": 62,
     "language": "C++20 (GCC 13-64)",
