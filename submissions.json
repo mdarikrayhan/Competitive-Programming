@@ -37644,6 +37644,23 @@
     ],
     "timestamp": "May/29/2024 09:39"
   },
+  "CF263082511": {
+    "contest_id": 345,
+    "language": "Ada",
+    "path": "codeforces/345/G.ada",
+    "platform": "Codeforces",
+    "problem_index": "G",
+    "problem_name": "Suffix Subgroup",
+    "problem_url": "https://codeforces.com/contest/345/problem/G",
+    "submission_id": "CF263082511",
+    "submission_url": "https://codeforces.com/contest/345/submission/263082511",
+    "tags": [
+      "*special problem",
+      "strings",
+      "*2200"
+    ],
+    "timestamp": "May/29/2024 09:42"
+  },
   "CF263082666": {
     "contest_id": 1867,
     "language": "C++20 (GCC 13-64)",
