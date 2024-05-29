@@ -37644,6 +37644,25 @@
     ],
     "timestamp": "May/29/2024 09:39"
   },
+  "CF263082439": {
+    "contest_id": 86,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/86/B.cpp",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Tetris revisited",
+    "problem_url": "https://codeforces.com/contest/86/problem/B",
+    "submission_id": "CF263082439",
+    "submission_url": "https://codeforces.com/contest/86/submission/263082439",
+    "tags": [
+      "constructive algorithms",
+      "graph matchings",
+      "greedy",
+      "math",
+      "*2200"
+    ],
+    "timestamp": "May/29/2024 09:41"
+  },
   "CF263082448": {
     "contest_id": 345,
     "language": "Ada",
