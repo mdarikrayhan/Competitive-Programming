@@ -23497,6 +23497,22 @@
     "tags": [],
     "timestamp": "May/29/2024 18:32"
   },
+  "CF263146608": {
+    "contest_id": 690,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/690/B3.cpp",
+    "platform": "Codeforces",
+    "problem_index": "B3",
+    "problem_name": "Recover Polygon (hard)",
+    "problem_url": "https://codeforces.com/contest/690/problem/B3",
+    "submission_id": "CF263146608",
+    "submission_url": "https://codeforces.com/contest/690/submission/263146608",
+    "tags": [
+      "data structures",
+      "*2600"
+    ],
+    "timestamp": "May/29/2024 19:17"
+  },
   "CF263146685": {
     "contest_id": 730,
     "language": "C++20 (GCC 13-64)",
