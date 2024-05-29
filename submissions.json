@@ -27418,6 +27418,23 @@
     ],
     "timestamp": "May/29/2024 07:02"
   },
+  "CF263074402": {
+    "contest_id": 1149,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1149/E.cpp",
+    "platform": "Codeforces",
+    "problem_index": "E",
+    "problem_name": "Election Promises",
+    "problem_url": "https://codeforces.com/contest/1149/problem/E",
+    "submission_id": "CF263074402",
+    "submission_url": "https://codeforces.com/contest/1149/submission/263074402",
+    "tags": [
+      "games",
+      "graphs",
+      "*3200"
+    ],
+    "timestamp": "May/29/2024 07:06"
+  },
   "CF263074403": {
     "contest_id": 852,
     "language": "C++20 (GCC 13-64)",
