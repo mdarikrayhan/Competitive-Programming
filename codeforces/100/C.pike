@@ -1,0 +1,1 @@
+void main(){write(((int)Stdio.stdin.gets()+(int)Stdio.stdin.gets())+"");}
