@@ -23393,6 +23393,24 @@
     ],
     "timestamp": "May/17/2024 08:26"
   },
+  "CF263138520": {
+    "contest_id": 774,
+    "language": "Perl",
+    "path": "codeforces/774/F.pl",
+    "platform": "Codeforces",
+    "problem_index": "F",
+    "problem_name": "Pens And Days Of Week",
+    "problem_url": "https://codeforces.com/contest/774/problem/F",
+    "submission_id": "CF263138520",
+    "submission_url": "https://codeforces.com/contest/774/submission/263138520",
+    "tags": [
+      "*special problem",
+      "binary search",
+      "number theory",
+      "*2700"
+    ],
+    "timestamp": "May/29/2024 18:13"
+  },
   "CF263138822": {
     "contest_id": 774,
     "language": "C# 8",
