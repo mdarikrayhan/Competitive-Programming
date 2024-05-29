@@ -23393,6 +23393,24 @@
     ],
     "timestamp": "May/17/2024 08:26"
   },
+  "CF263082939": {
+    "contest_id": 1238,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1238/G.cpp",
+    "platform": "Codeforces",
+    "problem_index": "G",
+    "problem_name": "Adilbek and the Watering System",
+    "problem_url": "https://codeforces.com/contest/1238/problem/G",
+    "submission_id": "CF263082939",
+    "submission_url": "https://codeforces.com/contest/1238/submission/263082939",
+    "tags": [
+      "data structures",
+      "greedy",
+      "sortings",
+      "*2700"
+    ],
+    "timestamp": "May/29/2024 09:49"
+  },
   "CF263082988": {
     "contest_id": 1787,
     "language": "C++20 (GCC 13-64)",
