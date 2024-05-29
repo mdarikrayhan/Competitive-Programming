@@ -23393,6 +23393,24 @@
     ],
     "timestamp": "May/17/2024 08:26"
   },
+  "CF263135787": {
+    "contest_id": 1515,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1515/I.cpp",
+    "platform": "Codeforces",
+    "problem_index": "I",
+    "problem_name": "Phoenix and Diamonds",
+    "problem_url": "https://codeforces.com/contest/1515/problem/I",
+    "submission_id": "CF263135787",
+    "submission_url": "https://codeforces.com/contest/1515/submission/263135787",
+    "tags": [
+      "binary search",
+      "data structures",
+      "sortings",
+      "*3400"
+    ],
+    "timestamp": "May/29/2024 17:51"
+  },
   "CF263135850": {
     "contest_id": 107,
     "language": "C++20 (GCC 13-64)",
