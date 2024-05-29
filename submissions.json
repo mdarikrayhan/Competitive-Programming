@@ -23393,6 +23393,24 @@
     ],
     "timestamp": "May/17/2024 08:26"
   },
+  "CF263075953": {
+    "contest_id": 868,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/868/E.cpp",
+    "platform": "Codeforces",
+    "problem_index": "E",
+    "problem_name": "Policeman and a Tree",
+    "problem_url": "https://codeforces.com/contest/868/problem/E",
+    "submission_id": "CF263075953",
+    "submission_url": "https://codeforces.com/contest/868/submission/263075953",
+    "tags": [
+      "dp",
+      "graphs",
+      "trees",
+      "*2700"
+    ],
+    "timestamp": "May/29/2024 07:43"
+  },
   "CF263076024": {
     "contest_id": 1905,
     "language": "C++20 (GCC 13-64)",
