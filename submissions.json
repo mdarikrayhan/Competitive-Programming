@@ -30034,6 +30034,22 @@
     ],
     "timestamp": "May/29/2024 15:36"
   },
+  "CF263123386": {
+    "contest_id": 1194,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1194/G.cpp",
+    "platform": "Codeforces",
+    "problem_index": "G",
+    "problem_name": "Another Meme Problem",
+    "problem_url": "https://codeforces.com/contest/1194/problem/G",
+    "submission_id": "CF263123386",
+    "submission_url": "https://codeforces.com/contest/1194/submission/263123386",
+    "tags": [
+      "dp",
+      "*2700"
+    ],
+    "timestamp": "May/29/2024 16:07"
+  },
   "CF263123417": {
     "contest_id": 1103,
     "language": "C++20 (GCC 13-64)",
