@@ -33073,6 +33073,22 @@
     ],
     "timestamp": "May/29/2024 14:00"
   },
+  "CF263111533": {
+    "contest_id": 1949,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1949/D.cpp",
+    "platform": "Codeforces",
+    "problem_index": "D",
+    "problem_name": "Funny or Scary?",
+    "problem_url": "https://codeforces.com/contest/1949/problem/D",
+    "submission_id": "CF263111533",
+    "submission_url": "https://codeforces.com/contest/1949/submission/263111533",
+    "tags": [
+      "constructive algorithms",
+      "*2600"
+    ],
+    "timestamp": "May/29/2024 14:31"
+  },
   "CF263111563": {
     "contest_id": 303,
     "language": "C++20 (GCC 13-64)",
