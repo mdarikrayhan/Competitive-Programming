@@ -27654,6 +27654,25 @@
     ],
     "timestamp": "May/29/2024 15:36"
   },
+  "CF263126238": {
+    "contest_id": 855,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/855/G.cpp",
+    "platform": "Codeforces",
+    "problem_index": "G",
+    "problem_name": "Harry Vs Voldemort",
+    "problem_url": "https://codeforces.com/contest/855/problem/G",
+    "submission_id": "CF263126238",
+    "submission_url": "https://codeforces.com/contest/855/submission/263126238",
+    "tags": [
+      "dfs and similar",
+      "dp",
+      "graphs",
+      "trees",
+      "*3300"
+    ],
+    "timestamp": "May/29/2024 16:31"
+  },
   "CF263126326": {
     "contest_id": 792,
     "language": "C++20 (GCC 13-64)",
