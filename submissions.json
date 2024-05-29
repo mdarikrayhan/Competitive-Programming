@@ -24814,6 +24814,23 @@
     ],
     "timestamp": "May/29/2024 15:36"
   },
+  "CF263128770": {
+    "contest_id": 482,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/482/E.cpp",
+    "platform": "Codeforces",
+    "problem_index": "E",
+    "problem_name": "ELCA",
+    "problem_url": "https://codeforces.com/contest/482/problem/E",
+    "submission_id": "CF263128770",
+    "submission_url": "https://codeforces.com/contest/482/submission/263128770",
+    "tags": [
+      "data structures",
+      "trees",
+      "*3200"
+    ],
+    "timestamp": "May/29/2024 16:53"
+  },
   "CF263128802": {
     "contest_id": 1054,
     "language": "C++20 (GCC 13-64)",
