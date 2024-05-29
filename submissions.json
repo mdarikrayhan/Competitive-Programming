@@ -27654,6 +27654,22 @@
     ],
     "timestamp": "May/29/2024 15:36"
   },
+  "CF263126337": {
+    "contest_id": 380,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/380/E.cpp",
+    "platform": "Codeforces",
+    "problem_index": "E",
+    "problem_name": "Sereja and Dividing",
+    "problem_url": "https://codeforces.com/contest/380/problem/E",
+    "submission_id": "CF263126337",
+    "submission_url": "https://codeforces.com/contest/380/submission/263126337",
+    "tags": [
+      "data structures",
+      "*2600"
+    ],
+    "timestamp": "May/29/2024 16:32"
+  },
   "CF263126399": {
     "contest_id": 753,
     "language": "C++20 (GCC 13-64)",
