@@ -27654,6 +27654,21 @@
     ],
     "timestamp": "May/29/2024 15:36"
   },
+  "CF263125548": {
+    "contest_id": 392,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/392/D.cpp",
+    "platform": "Codeforces",
+    "problem_index": "D",
+    "problem_name": "Three Arrays",
+    "problem_url": "https://codeforces.com/contest/392/problem/D",
+    "submission_id": "CF263125548",
+    "submission_url": "https://codeforces.com/contest/392/submission/263125548",
+    "tags": [
+      "data structures"
+    ],
+    "timestamp": "May/29/2024 16:25"
+  },
   "CF263125558": {
     "contest_id": 1090,
     "language": "C++20 (GCC 13-64)",
