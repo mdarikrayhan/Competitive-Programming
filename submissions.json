@@ -23393,6 +23393,22 @@
     ],
     "timestamp": "May/17/2024 08:26"
   },
+  "CF263136092": {
+    "contest_id": 45,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/45/F.cpp",
+    "platform": "Codeforces",
+    "problem_index": "F",
+    "problem_name": "Goats and Wolves",
+    "problem_url": "https://codeforces.com/contest/45/problem/F",
+    "submission_id": "CF263136092",
+    "submission_url": "https://codeforces.com/contest/45/submission/263136092",
+    "tags": [
+      "greedy",
+      "*2500"
+    ],
+    "timestamp": "May/29/2024 17:53"
+  },
   "CF263136126": {
     "contest_id": 39,
     "language": "C++20 (GCC 13-64)",
