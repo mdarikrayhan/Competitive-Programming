@@ -23393,6 +23393,19 @@
     ],
     "timestamp": "May/17/2024 08:26"
   },
+  "CF263163145": {
+    "contest_id": 949,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/949/F.cpp",
+    "platform": "Codeforces",
+    "problem_index": "F",
+    "problem_name": "Astronomy",
+    "problem_url": "https://codeforces.com/contest/949/problem/F",
+    "submission_id": "CF263163145",
+    "submission_url": "https://codeforces.com/contest/949/submission/263163145",
+    "tags": [],
+    "timestamp": "May/29/2024 21:33"
+  },
   "CF263163994": {
     "contest_id": 1192,
     "language": "C++20 (GCC 13-64)",
