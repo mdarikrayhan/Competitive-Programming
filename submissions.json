@@ -24814,6 +24814,22 @@
     ],
     "timestamp": "May/29/2024 15:36"
   },
+  "CF263129111": {
+    "contest_id": 1344,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1344/F.cpp",
+    "platform": "Codeforces",
+    "problem_index": "F",
+    "problem_name": "Piet's Palette",
+    "problem_url": "https://codeforces.com/contest/1344/problem/F",
+    "submission_id": "CF263129111",
+    "submission_url": "https://codeforces.com/contest/1344/submission/263129111",
+    "tags": [
+      "matrices",
+      "*3200"
+    ],
+    "timestamp": "May/29/2024 16:56"
+  },
   "CF263129175": {
     "contest_id": 796,
     "language": "C++20 (GCC 13-64)",
