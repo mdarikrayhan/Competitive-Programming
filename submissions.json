@@ -25476,6 +25476,24 @@
     ],
     "timestamp": "May/29/2024 10:16"
   },
+  "CF263084617": {
+    "contest_id": 1610,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1610/G.cpp",
+    "platform": "Codeforces",
+    "problem_index": "G",
+    "problem_name": "AmShZ Wins a Bet",
+    "problem_url": "https://codeforces.com/contest/1610/problem/G",
+    "submission_id": "CF263084617",
+    "submission_url": "https://codeforces.com/contest/1610/submission/263084617",
+    "tags": [
+      "data structures",
+      "greedy",
+      "hashing",
+      "*3300"
+    ],
+    "timestamp": "May/29/2024 10:16"
+  },
   "CF263084663": {
     "contest_id": 453,
     "language": "C++20 (GCC 13-64)",
