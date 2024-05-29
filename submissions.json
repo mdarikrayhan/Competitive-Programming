@@ -24814,6 +24814,21 @@
     ],
     "timestamp": "May/29/2024 15:36"
   },
+  "CF263127659": {
+    "contest_id": 641,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/641/F.cpp",
+    "platform": "Codeforces",
+    "problem_index": "F",
+    "problem_name": "Little Artem and 2-SAT",
+    "problem_url": "https://codeforces.com/contest/641/problem/F",
+    "submission_id": "CF263127659",
+    "submission_url": "https://codeforces.com/contest/641/submission/263127659",
+    "tags": [
+      "*3000"
+    ],
+    "timestamp": "May/29/2024 16:44"
+  },
   "CF263127676": {
     "contest_id": 1396,
     "language": "C++20 (GCC 13-64)",
