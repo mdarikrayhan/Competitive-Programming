@@ -23497,6 +23497,24 @@
     "tags": [],
     "timestamp": "May/29/2024 18:32"
   },
+  "CF263143528": {
+    "contest_id": 1545,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1545/F.cpp",
+    "platform": "Codeforces",
+    "problem_index": "F",
+    "problem_name": "AquaMoon and Potatoes",
+    "problem_url": "https://codeforces.com/contest/1545/problem/F",
+    "submission_id": "CF263143528",
+    "submission_url": "https://codeforces.com/contest/1545/submission/263143528",
+    "tags": [
+      "brute force",
+      "data structures",
+      "dp",
+      "*3500"
+    ],
+    "timestamp": "May/29/2024 18:53"
+  },
   "CF263143557": {
     "contest_id": 1718,
     "language": "C++20 (GCC 13-64)",
