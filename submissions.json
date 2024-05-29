@@ -39208,6 +39208,23 @@
     ],
     "timestamp": "May/29/2024 10:33"
   },
+  "CF263086408": {
+    "contest_id": 1523,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1523/H.cpp",
+    "platform": "Codeforces",
+    "problem_index": "H",
+    "problem_name": "Hopping Around the Array ",
+    "problem_url": "https://codeforces.com/contest/1523/problem/H",
+    "submission_id": "CF263086408",
+    "submission_url": "https://codeforces.com/contest/1523/submission/263086408",
+    "tags": [
+      "data structures",
+      "dp",
+      "*3500"
+    ],
+    "timestamp": "May/29/2024 10:45"
+  },
   "CF263087116": {
     "contest_id": 1070,
     "language": "C++20 (GCC 13-64)",
