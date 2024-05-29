@@ -30034,6 +30034,23 @@
     ],
     "timestamp": "May/29/2024 15:36"
   },
+  "CF263121227": {
+    "contest_id": 1575,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1575/M.cpp",
+    "platform": "Codeforces",
+    "problem_index": "M",
+    "problem_name": "Managing Telephone Poles",
+    "problem_url": "https://codeforces.com/contest/1575/problem/M",
+    "submission_id": "CF263121227",
+    "submission_url": "https://codeforces.com/contest/1575/submission/263121227",
+    "tags": [
+      "data structures",
+      "geometry",
+      "*2400"
+    ],
+    "timestamp": "May/29/2024 15:49"
+  },
   "CF263121330": {
     "contest_id": 145,
     "language": "C++20 (GCC 13-64)",
