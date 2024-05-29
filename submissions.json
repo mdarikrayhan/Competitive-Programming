@@ -33144,6 +33144,24 @@
     ],
     "timestamp": "May/29/2024 07:32"
   },
+  "CF263075861": {
+    "contest_id": 339,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/339/E.cpp",
+    "platform": "Codeforces",
+    "problem_index": "E",
+    "problem_name": "Three Swaps",
+    "problem_url": "https://codeforces.com/contest/339/problem/E",
+    "submission_id": "CF263075861",
+    "submission_url": "https://codeforces.com/contest/339/submission/263075861",
+    "tags": [
+      "constructive algorithms",
+      "dfs and similar",
+      "greedy",
+      "*2700"
+    ],
+    "timestamp": "May/29/2024 07:41"
+  },
   "CF263075875": {
     "contest_id": 309,
     "language": "C++20 (GCC 13-64)",
