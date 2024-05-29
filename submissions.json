@@ -27654,6 +27654,26 @@
     ],
     "timestamp": "May/29/2024 15:36"
   },
+  "CF263126204": {
+    "contest_id": 1951,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1951/H.cpp",
+    "platform": "Codeforces",
+    "problem_index": "H",
+    "problem_name": "Thanos Snap",
+    "problem_url": "https://codeforces.com/contest/1951/problem/H",
+    "submission_id": "CF263126204",
+    "submission_url": "https://codeforces.com/contest/1951/submission/263126204",
+    "tags": [
+      "binary search",
+      "dp",
+      "games",
+      "greedy",
+      "trees",
+      "*3200"
+    ],
+    "timestamp": "May/29/2024 16:31"
+  },
   "CF263126238": {
     "contest_id": 855,
     "language": "C++20 (GCC 13-64)",
