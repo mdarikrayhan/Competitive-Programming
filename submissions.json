@@ -35066,6 +35066,24 @@
     ],
     "timestamp": "May/29/2024 08:32"
   },
+  "CF263081617": {
+    "contest_id": 38,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/38/F.cpp",
+    "platform": "Codeforces",
+    "problem_index": "F",
+    "problem_name": "Smart Boy",
+    "problem_url": "https://codeforces.com/contest/38/problem/F",
+    "submission_id": "CF263081617",
+    "submission_url": "https://codeforces.com/contest/38/submission/263081617",
+    "tags": [
+      "dp",
+      "games",
+      "strings",
+      "*2100"
+    ],
+    "timestamp": "May/29/2024 09:27"
+  },
   "CF263081640": {
     "contest_id": 212,
     "language": "C++20 (GCC 13-64)",
