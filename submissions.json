@@ -23393,6 +23393,24 @@
     ],
     "timestamp": "May/17/2024 08:26"
   },
+  "CF263075267": {
+    "contest_id": 938,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/938/F.cpp",
+    "platform": "Codeforces",
+    "problem_index": "F",
+    "problem_name": "Erasing Substrings",
+    "problem_url": "https://codeforces.com/contest/938/problem/F",
+    "submission_id": "CF263075267",
+    "submission_url": "https://codeforces.com/contest/938/submission/263075267",
+    "tags": [
+      "bitmasks",
+      "dp",
+      "greedy",
+      "*2700"
+    ],
+    "timestamp": "May/29/2024 07:26"
+  },
   "CF263075274": {
     "contest_id": 1097,
     "language": "C++20 (GCC 13-64)",
