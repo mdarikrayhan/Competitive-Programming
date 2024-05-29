@@ -23393,6 +23393,24 @@
     ],
     "timestamp": "May/17/2024 08:26"
   },
+  "CF263117439": {
+    "contest_id": 1031,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1031/F.cpp",
+    "platform": "Codeforces",
+    "problem_index": "F",
+    "problem_name": "Familiar Operations",
+    "problem_url": "https://codeforces.com/contest/1031/problem/F",
+    "submission_id": "CF263117439",
+    "submission_url": "https://codeforces.com/contest/1031/submission/263117439",
+    "tags": [
+      "brute force",
+      "graphs",
+      "math",
+      "*2800"
+    ],
+    "timestamp": "May/29/2024 15:19"
+  },
   "CF263117452": {
     "contest_id": 1887,
     "language": "C++20 (GCC 13-64)",
