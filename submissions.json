@@ -27114,6 +27114,25 @@
     ],
     "timestamp": "May/29/2024 06:34"
   },
+  "CF263073457": {
+    "contest_id": 685,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/685/E.cpp",
+    "platform": "Codeforces",
+    "problem_index": "E",
+    "problem_name": "Travelling Through the Snow Queen's Kingdom",
+    "problem_url": "https://codeforces.com/contest/685/problem/E",
+    "submission_id": "CF263073457",
+    "submission_url": "https://codeforces.com/contest/685/submission/263073457",
+    "tags": [
+      "bitmasks",
+      "brute force",
+      "divide and conquer",
+      "graphs",
+      "*2800"
+    ],
+    "timestamp": "May/29/2024 06:41"
+  },
   "CF263073479": {
     "contest_id": 1916,
     "language": "C++20 (GCC 13-64)",
