@@ -24815,6 +24815,24 @@
     ],
     "timestamp": "May/29/2024 10:33"
   },
+  "CF263103280": {
+    "contest_id": 1202,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1202/F.cpp",
+    "platform": "Codeforces",
+    "problem_index": "F",
+    "problem_name": "You Are Given Some Letters...",
+    "problem_url": "https://codeforces.com/contest/1202/problem/F",
+    "submission_id": "CF263103280",
+    "submission_url": "https://codeforces.com/contest/1202/submission/263103280",
+    "tags": [
+      "binary search",
+      "implementation",
+      "math",
+      "*2700"
+    ],
+    "timestamp": "May/29/2024 13:26"
+  },
   "CF263103891": {
     "contest_id": 1938,
     "language": "C++20 (GCC 13-64)",
