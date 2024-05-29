@@ -40438,6 +40438,22 @@
     ],
     "timestamp": "May/29/2024 08:32"
   },
+  "CF263078620": {
+    "contest_id": 690,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/690/D3.cpp",
+    "platform": "Codeforces",
+    "problem_index": "D3",
+    "problem_name": "The Wall (hard)",
+    "problem_url": "https://codeforces.com/contest/690/problem/D3",
+    "submission_id": "CF263078620",
+    "submission_url": "https://codeforces.com/contest/690/submission/263078620",
+    "tags": [
+      "dp",
+      "*2100"
+    ],
+    "timestamp": "May/29/2024 08:39"
+  },
   "CF263078753": {
     "contest_id": 1834,
     "language": "C++20 (GCC 13-64)",
