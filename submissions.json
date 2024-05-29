@@ -23393,6 +23393,24 @@
     ],
     "timestamp": "May/17/2024 08:26"
   },
+  "CF263132344": {
+    "contest_id": 1003,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1003/F.cpp",
+    "platform": "Codeforces",
+    "problem_index": "F",
+    "problem_name": "Abbreviation",
+    "problem_url": "https://codeforces.com/contest/1003/problem/F",
+    "submission_id": "CF263132344",
+    "submission_url": "https://codeforces.com/contest/1003/submission/263132344",
+    "tags": [
+      "dp",
+      "hashing",
+      "strings",
+      "*2200"
+    ],
+    "timestamp": "May/29/2024 17:23"
+  },
   "CF263132428": {
     "contest_id": 1201,
     "language": "C++20 (GCC 13-64)",
