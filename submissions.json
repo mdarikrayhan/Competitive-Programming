@@ -23393,6 +23393,28 @@
     ],
     "timestamp": "May/17/2024 08:26"
   },
+  "CF263112155": {
+    "contest_id": 1615,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1615/H.cpp",
+    "platform": "Codeforces",
+    "problem_index": "H",
+    "problem_name": "Reindeer Games",
+    "problem_url": "https://codeforces.com/contest/1615/problem/H",
+    "submission_id": "CF263112155",
+    "submission_url": "https://codeforces.com/contest/1615/submission/263112155",
+    "tags": [
+      "binary search",
+      "constructive algorithms",
+      "data structures",
+      "divide and conquer",
+      "flows",
+      "graphs",
+      "shortest paths",
+      "*3000"
+    ],
+    "timestamp": "May/29/2024 14:36"
+  },
   "CF263112222": {
     "contest_id": 1531,
     "language": "C++20 (GCC 13-64)",
