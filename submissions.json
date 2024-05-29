@@ -38716,6 +38716,27 @@
     ],
     "timestamp": "May/29/2024 14:00"
   },
+  "CF263109565": {
+    "contest_id": 1654,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1654/G.cpp",
+    "platform": "Codeforces",
+    "problem_index": "G",
+    "problem_name": "Snowy Mountain",
+    "problem_url": "https://codeforces.com/contest/1654/problem/G",
+    "submission_id": "CF263109565",
+    "submission_url": "https://codeforces.com/contest/1654/submission/263109565",
+    "tags": [
+      "data structures",
+      "dfs and similar",
+      "graphs",
+      "greedy",
+      "shortest paths",
+      "trees",
+      "*2900"
+    ],
+    "timestamp": "May/29/2024 14:14"
+  },
   "CF263109589": {
     "contest_id": 1599,
     "language": "C++20 (GCC 13-64)",
