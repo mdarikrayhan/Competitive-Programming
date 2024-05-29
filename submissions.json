@@ -24815,6 +24815,24 @@
     ],
     "timestamp": "May/29/2024 10:33"
   },
+  "CF263095455": {
+    "contest_id": 832,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/832/C.cpp",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Strange Radiation",
+    "problem_url": "https://codeforces.com/contest/832/problem/C",
+    "submission_id": "CF263095455",
+    "submission_url": "https://codeforces.com/contest/832/submission/263095455",
+    "tags": [
+      "binary search",
+      "implementation",
+      "math",
+      "*2500"
+    ],
+    "timestamp": "May/29/2024 12:27"
+  },
   "CF263095482": {
     "contest_id": 269,
     "language": "C++20 (GCC 13-64)",
