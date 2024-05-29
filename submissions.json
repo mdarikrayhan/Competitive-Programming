@@ -38060,6 +38060,23 @@
     ],
     "timestamp": "May/29/2024 07:10"
   },
+  "CF263074889": {
+    "contest_id": 119,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/119/D.cpp",
+    "platform": "Codeforces",
+    "problem_index": "D",
+    "problem_name": "String Transformation",
+    "problem_url": "https://codeforces.com/contest/119/problem/D",
+    "submission_id": "CF263074889",
+    "submission_url": "https://codeforces.com/contest/119/submission/263074889",
+    "tags": [
+      "hashing",
+      "strings",
+      "*2500"
+    ],
+    "timestamp": "May/29/2024 07:17"
+  },
   "CF263074920": {
     "contest_id": 722,
     "language": "C++20 (GCC 13-64)",
