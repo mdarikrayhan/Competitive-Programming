@@ -23393,6 +23393,26 @@
     ],
     "timestamp": "May/17/2024 08:26"
   },
+  "CF263151586": {
+    "contest_id": 1483,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1483/F.cpp",
+    "platform": "Codeforces",
+    "problem_index": "F",
+    "problem_name": "Exam",
+    "problem_url": "https://codeforces.com/contest/1483/problem/F",
+    "submission_id": "CF263151586",
+    "submission_url": "https://codeforces.com/contest/1483/submission/263151586",
+    "tags": [
+      "data structures",
+      "dfs and similar",
+      "dsu",
+      "string suffix structures",
+      "trees",
+      "*3400"
+    ],
+    "timestamp": "May/29/2024 19:53"
+  },
   "CF263151695": {
     "contest_id": 1666,
     "language": "C++20 (GCC 13-64)",
