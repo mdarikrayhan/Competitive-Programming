@@ -23393,6 +23393,22 @@
     ],
     "timestamp": "May/17/2024 08:26"
   },
+  "CF263153572": {
+    "contest_id": 1764,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1764/H.cpp",
+    "platform": "Codeforces",
+    "problem_index": "H",
+    "problem_name": "Doremy's Paint 2",
+    "problem_url": "https://codeforces.com/contest/1764/problem/H",
+    "submission_id": "CF263153572",
+    "submission_url": "https://codeforces.com/contest/1764/submission/263153572",
+    "tags": [
+      "data structures",
+      "*3400"
+    ],
+    "timestamp": "May/29/2024 20:09"
+  },
   "CF263153634": {
     "contest_id": 1184,
     "language": "C++20 (GCC 13-64)",
