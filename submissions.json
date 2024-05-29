@@ -23393,6 +23393,26 @@
     ],
     "timestamp": "May/17/2024 08:26"
   },
+  "CF263073890": {
+    "contest_id": 633,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/633/E.cpp",
+    "platform": "Codeforces",
+    "problem_index": "E",
+    "problem_name": "Startup Funding",
+    "problem_url": "https://codeforces.com/contest/633/problem/E",
+    "submission_id": "CF263073890",
+    "submission_url": "https://codeforces.com/contest/633/submission/263073890",
+    "tags": [
+      "binary search",
+      "constructive algorithms",
+      "data structures",
+      "probabilities",
+      "two pointers",
+      "*2400"
+    ],
+    "timestamp": "May/29/2024 06:54"
+  },
   "CF263073897": {
     "contest_id": 1307,
     "language": "C++20 (GCC 13-64)",
