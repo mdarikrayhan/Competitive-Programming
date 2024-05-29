@@ -23393,6 +23393,23 @@
     ],
     "timestamp": "May/17/2024 08:26"
   },
+  "CF263154442": {
+    "contest_id": 1056,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1056/H.cpp",
+    "platform": "Codeforces",
+    "problem_index": "H",
+    "problem_name": "Detect Robots",
+    "problem_url": "https://codeforces.com/contest/1056/problem/H",
+    "submission_id": "CF263154442",
+    "submission_url": "https://codeforces.com/contest/1056/submission/263154442",
+    "tags": [
+      "data structures",
+      "strings",
+      "*3200"
+    ],
+    "timestamp": "May/29/2024 20:16"
+  },
   "CF263154498": {
     "contest_id": 1901,
     "language": "C++20 (GCC 13-64)",
