@@ -38534,6 +38534,25 @@
     ],
     "timestamp": "May/29/2024 07:47"
   },
+  "CF263076112": {
+    "contest_id": 1510,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1510/I.cpp",
+    "platform": "Codeforces",
+    "problem_index": "I",
+    "problem_name": "Is It Rated?",
+    "problem_url": "https://codeforces.com/contest/1510/problem/I",
+    "submission_id": "CF263076112",
+    "submission_url": "https://codeforces.com/contest/1510/submission/263076112",
+    "tags": [
+      "greedy",
+      "interactive",
+      "math",
+      "probabilities",
+      "*2700"
+    ],
+    "timestamp": "May/29/2024 07:47"
+  },
   "CF263076139": {
     "contest_id": 656,
     "language": "Ruby 3",
