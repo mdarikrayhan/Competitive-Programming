@@ -24814,6 +24814,19 @@
     ],
     "timestamp": "May/29/2024 15:36"
   },
+  "CF263130114": {
+    "contest_id": 1939,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1939/A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Draw Polygon Lines",
+    "problem_url": "https://codeforces.com/contest/1939/problem/A",
+    "submission_id": "CF263130114",
+    "submission_url": "https://codeforces.com/contest/1939/submission/263130114",
+    "tags": [],
+    "timestamp": "May/29/2024 17:05"
+  },
   "CF263130150": {
     "contest_id": 1621,
     "language": "C++20 (GCC 13-64)",
