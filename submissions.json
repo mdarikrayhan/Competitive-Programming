@@ -27418,6 +27418,24 @@
     ],
     "timestamp": "May/29/2024 07:02"
   },
+  "CF263074444": {
+    "contest_id": 1000,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1000/G.cpp",
+    "platform": "Codeforces",
+    "problem_index": "G",
+    "problem_name": "Two-Paths",
+    "problem_url": "https://codeforces.com/contest/1000/problem/G",
+    "submission_id": "CF263074444",
+    "submission_url": "https://codeforces.com/contest/1000/submission/263074444",
+    "tags": [
+      "data structures",
+      "dp",
+      "trees",
+      "*2700"
+    ],
+    "timestamp": "May/29/2024 07:07"
+  },
   "CF263074452": {
     "contest_id": 725,
     "language": "C++20 (GCC 13-64)",
