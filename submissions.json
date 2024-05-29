@@ -27418,6 +27418,25 @@
     ],
     "timestamp": "May/29/2024 07:02"
   },
+  "CF263074403": {
+    "contest_id": 852,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/852/I.cpp",
+    "platform": "Codeforces",
+    "problem_index": "I",
+    "problem_name": "Dating",
+    "problem_url": "https://codeforces.com/contest/852/problem/I",
+    "submission_id": "CF263074403",
+    "submission_url": "https://codeforces.com/contest/852/submission/263074403",
+    "tags": [
+      "brute force",
+      "dfs and similar",
+      "graphs",
+      "trees",
+      "*2300"
+    ],
+    "timestamp": "May/29/2024 07:06"
+  },
   "CF263074434": {
     "contest_id": 70,
     "language": "C++20 (GCC 13-64)",
