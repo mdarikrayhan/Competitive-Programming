@@ -23393,6 +23393,22 @@
     ],
     "timestamp": "May/17/2024 08:26"
   },
+  "CF263083738": {
+    "contest_id": 329,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/329/D.cpp",
+    "platform": "Codeforces",
+    "problem_index": "D",
+    "problem_name": "The Evil Temple and the Moving Rocks",
+    "problem_url": "https://codeforces.com/contest/329/problem/D",
+    "submission_id": "CF263083738",
+    "submission_url": "https://codeforces.com/contest/329/submission/263083738",
+    "tags": [
+      "constructive algorithms",
+      "*2500"
+    ],
+    "timestamp": "May/29/2024 10:03"
+  },
   "CF263083795": {
     "contest_id": 917,
     "language": "C++20 (GCC 13-64)",
