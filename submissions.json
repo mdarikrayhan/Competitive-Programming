@@ -27114,6 +27114,22 @@
     ],
     "timestamp": "May/29/2024 06:34"
   },
+  "CF263073714": {
+    "contest_id": 89,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/89/E.cpp",
+    "platform": "Codeforces",
+    "problem_index": "E",
+    "problem_name": "Fire and Ice",
+    "problem_url": "https://codeforces.com/contest/89/problem/E",
+    "submission_id": "CF263073714",
+    "submission_url": "https://codeforces.com/contest/89/submission/263073714",
+    "tags": [
+      "greedy",
+      "*2900"
+    ],
+    "timestamp": "May/29/2024 06:49"
+  },
   "CF263073718": {
     "contest_id": 542,
     "language": "C++20 (GCC 13-64)",
