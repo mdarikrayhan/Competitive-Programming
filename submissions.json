@@ -24815,6 +24815,25 @@
     ],
     "timestamp": "May/29/2024 10:33"
   },
+  "CF263097347": {
+    "contest_id": 1783,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1783/G.cpp",
+    "platform": "Codeforces",
+    "problem_index": "G",
+    "problem_name": "Weighed Tree Radius",
+    "problem_url": "https://codeforces.com/contest/1783/problem/G",
+    "submission_id": "CF263097347",
+    "submission_url": "https://codeforces.com/contest/1783/submission/263097347",
+    "tags": [
+      "data structures",
+      "divide and conquer",
+      "implementation",
+      "trees",
+      "*2800"
+    ],
+    "timestamp": "May/29/2024 12:43"
+  },
   "CF263097626": {
     "contest_id": 380,
     "language": "C++20 (GCC 13-64)",
