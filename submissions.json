@@ -23393,6 +23393,24 @@
     ],
     "timestamp": "May/17/2024 08:26"
   },
+  "CF263133753": {
+    "contest_id": 105,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/105/D.cpp",
+    "platform": "Codeforces",
+    "problem_index": "D",
+    "problem_name": "Entertaining Geodetics",
+    "problem_url": "https://codeforces.com/contest/105/problem/D",
+    "submission_id": "CF263133753",
+    "submission_url": "https://codeforces.com/contest/105/submission/263133753",
+    "tags": [
+      "brute force",
+      "dsu",
+      "implementation",
+      "*2700"
+    ],
+    "timestamp": "May/29/2024 17:34"
+  },
   "CF263133785": {
     "contest_id": 1970,
     "language": "C++20 (GCC 13-64)",
