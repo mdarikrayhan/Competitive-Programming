@@ -27114,6 +27114,23 @@
     ],
     "timestamp": "May/29/2024 06:34"
   },
+  "CF263073519": {
+    "contest_id": 512,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/512/E.cpp",
+    "platform": "Codeforces",
+    "problem_index": "E",
+    "problem_name": "Fox And Polygon",
+    "problem_url": "https://codeforces.com/contest/512/problem/E",
+    "submission_id": "CF263073519",
+    "submission_url": "https://codeforces.com/contest/512/submission/263073519",
+    "tags": [
+      "constructive algorithms",
+      "divide and conquer",
+      "*2900"
+    ],
+    "timestamp": "May/29/2024 06:43"
+  },
   "CF263073537": {
     "contest_id": 1764,
     "language": "C++20 (GCC 13-64)",
