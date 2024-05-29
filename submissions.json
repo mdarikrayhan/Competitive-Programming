@@ -23393,6 +23393,23 @@
     ],
     "timestamp": "May/17/2024 08:26"
   },
+  "CF263134319": {
+    "contest_id": 774,
+    "language": "GNU C11",
+    "path": "codeforces/774/H.cpp",
+    "platform": "Codeforces",
+    "problem_index": "H",
+    "problem_name": "Repairing Of String",
+    "problem_url": "https://codeforces.com/contest/774/problem/H",
+    "submission_id": "CF263134319",
+    "submission_url": "https://codeforces.com/contest/774/submission/263134319",
+    "tags": [
+      "*special problem",
+      "constructive algorithms",
+      "*2200"
+    ],
+    "timestamp": "May/29/2024 17:39"
+  },
   "CF263134529": {
     "contest_id": 1810,
     "language": "GNU C11",
