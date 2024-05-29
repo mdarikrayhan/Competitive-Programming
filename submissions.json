@@ -23497,6 +23497,21 @@
     "tags": [],
     "timestamp": "May/29/2024 18:32"
   },
+  "CF263145465": {
+    "contest_id": 1666,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1666/A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Admissible Map",
+    "problem_url": "https://codeforces.com/contest/1666/problem/A",
+    "submission_id": "CF263145465",
+    "submission_url": "https://codeforces.com/contest/1666/submission/263145465",
+    "tags": [
+      "*3300"
+    ],
+    "timestamp": "May/29/2024 19:08"
+  },
   "CF263145510": {
     "contest_id": 1081,
     "language": "C++20 (GCC 13-64)",
