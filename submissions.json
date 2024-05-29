@@ -34491,6 +34491,27 @@
     ],
     "timestamp": "May/29/2024 14:59"
   },
+  "CF263115652": {
+    "contest_id": 1824,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1824/C.cpp",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "LuoTianyi and XOR-Tree",
+    "problem_url": "https://codeforces.com/contest/1824/problem/C",
+    "submission_id": "CF263115652",
+    "submission_url": "https://codeforces.com/contest/1824/submission/263115652",
+    "tags": [
+      "data structures",
+      "dfs and similar",
+      "dp",
+      "dsu",
+      "greedy",
+      "trees",
+      "*2500"
+    ],
+    "timestamp": "May/29/2024 15:04"
+  },
   "CF263115751": {
     "contest_id": 843,
     "language": "C++20 (GCC 13-64)",
