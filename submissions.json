@@ -23393,6 +23393,24 @@
     ],
     "timestamp": "May/17/2024 08:26"
   },
+  "CF263083445": {
+    "contest_id": 906,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/906/B.cpp",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Seating of Students",
+    "problem_url": "https://codeforces.com/contest/906/problem/B",
+    "submission_id": "CF263083445",
+    "submission_url": "https://codeforces.com/contest/906/submission/263083445",
+    "tags": [
+      "brute force",
+      "constructive algorithms",
+      "math",
+      "*2200"
+    ],
+    "timestamp": "May/29/2024 09:58"
+  },
   "CF263083459": {
     "contest_id": 1210,
     "language": "C++20 (GCC 13-64)",
