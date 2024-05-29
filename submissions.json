@@ -23614,6 +23614,22 @@
     ],
     "timestamp": "May/29/2024 18:38"
   },
+  "CF263141756": {
+    "contest_id": 717,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/717/I.cpp",
+    "platform": "Codeforces",
+    "problem_index": "I",
+    "problem_name": "Cowboy Beblop at his computer",
+    "problem_url": "https://codeforces.com/contest/717/problem/I",
+    "submission_id": "CF263141756",
+    "submission_url": "https://codeforces.com/contest/717/submission/263141756",
+    "tags": [
+      "geometry",
+      "*2800"
+    ],
+    "timestamp": "May/29/2024 18:39"
+  },
   "CF263141919": {
     "contest_id": 280,
     "language": "C++20 (GCC 13-64)",
