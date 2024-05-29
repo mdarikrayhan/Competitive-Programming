@@ -23393,6 +23393,22 @@
     ],
     "timestamp": "May/17/2024 08:26"
   },
+  "CF263136670": {
+    "contest_id": 79,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/79/E.cpp",
+    "platform": "Codeforces",
+    "problem_index": "E",
+    "problem_name": "Security System",
+    "problem_url": "https://codeforces.com/contest/79/problem/E",
+    "submission_id": "CF263136670",
+    "submission_url": "https://codeforces.com/contest/79/submission/263136670",
+    "tags": [
+      "math",
+      "*2900"
+    ],
+    "timestamp": "May/29/2024 17:58"
+  },
   "CF263136743": {
     "contest_id": 1156,
     "language": "C++20 (GCC 13-64)",
