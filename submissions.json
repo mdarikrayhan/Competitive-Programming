@@ -23393,6 +23393,23 @@
     ],
     "timestamp": "May/17/2024 08:26"
   },
+  "CF263150025": {
+    "contest_id": 1599,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1599/E.cpp",
+    "platform": "Codeforces",
+    "problem_index": "E",
+    "problem_name": "Two Arrays",
+    "problem_url": "https://codeforces.com/contest/1599/problem/E",
+    "submission_id": "CF263150025",
+    "submission_url": "https://codeforces.com/contest/1599/submission/263150025",
+    "tags": [
+      "data structures",
+      "matrices",
+      "*3200"
+    ],
+    "timestamp": "May/29/2024 19:42"
+  },
   "CF263150069": {
     "contest_id": 164,
     "language": "C++20 (GCC 13-64)",
