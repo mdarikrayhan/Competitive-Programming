@@ -27654,6 +27654,23 @@
     ],
     "timestamp": "May/29/2024 15:36"
   },
+  "CF263123783": {
+    "contest_id": 1098,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1098/F.cpp",
+    "platform": "Codeforces",
+    "problem_index": "F",
+    "problem_name": "\u0416-function",
+    "problem_url": "https://codeforces.com/contest/1098/problem/F",
+    "submission_id": "CF263123783",
+    "submission_url": "https://codeforces.com/contest/1098/submission/263123783",
+    "tags": [
+      "string suffix structures",
+      "strings",
+      "*3500"
+    ],
+    "timestamp": "May/29/2024 16:10"
+  },
   "CF263123795": {
     "contest_id": 1556,
     "language": "C++20 (GCC 13-64)",
