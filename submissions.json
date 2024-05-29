@@ -27221,6 +27221,25 @@
     ],
     "timestamp": "May/29/2024 06:58"
   },
+  "CF263074029": {
+    "contest_id": 1211,
+    "language": "Kotlin 1.7",
+    "path": "codeforces/1211/D.kt",
+    "platform": "Codeforces",
+    "problem_index": "D",
+    "problem_name": "Teams",
+    "problem_url": "https://codeforces.com/contest/1211/problem/D",
+    "submission_id": "CF263074029",
+    "submission_url": "https://codeforces.com/contest/1211/submission/263074029",
+    "tags": [
+      "*special problem",
+      "binary search",
+      "greedy",
+      "math",
+      "*2000"
+    ],
+    "timestamp": "May/29/2024 06:58"
+  },
   "CF263074039": {
     "contest_id": 1211,
     "language": "Kotlin 1.7",
