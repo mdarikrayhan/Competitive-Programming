@@ -23393,6 +23393,24 @@
     ],
     "timestamp": "May/17/2024 08:26"
   },
+  "CF263118121": {
+    "contest_id": 1054,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1054/G.cpp",
+    "platform": "Codeforces",
+    "problem_index": "G",
+    "problem_name": "New Road Network",
+    "problem_url": "https://codeforces.com/contest/1054/problem/G",
+    "submission_id": "CF263118121",
+    "submission_url": "https://codeforces.com/contest/1054/submission/263118121",
+    "tags": [
+      "constructive algorithms",
+      "greedy",
+      "math",
+      "*3300"
+    ],
+    "timestamp": "May/29/2024 15:24"
+  },
   "CF263118177": {
     "contest_id": 1254,
     "language": "C++20 (GCC 13-64)",
