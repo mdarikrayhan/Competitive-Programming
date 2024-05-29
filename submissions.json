@@ -23393,6 +23393,22 @@
     ],
     "timestamp": "May/17/2024 08:26"
   },
+  "CF263134536": {
+    "contest_id": 470,
+    "language": "FALSE",
+    "path": "codeforces/470/B.f",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Hexakosioihexekontahexaphobia",
+    "problem_url": "https://codeforces.com/contest/470/problem/B",
+    "submission_id": "CF263134536",
+    "submission_url": "https://codeforces.com/contest/470/submission/263134536",
+    "tags": [
+      "*special problem",
+      "*1800"
+    ],
+    "timestamp": "May/29/2024 17:41"
+  },
   "CF263134557": {
     "contest_id": 470,
     "language": "FALSE",
