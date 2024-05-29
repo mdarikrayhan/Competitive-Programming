@@ -23393,6 +23393,19 @@
     ],
     "timestamp": "May/17/2024 08:26"
   },
+  "CF263155289": {
+    "contest_id": 1940,
+    "language": "C++17 (GCC 7-32)",
+    "path": "codeforces/1940/C.cpp",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Burenka and Pether",
+    "problem_url": "https://codeforces.com/contest/1940/problem/C",
+    "submission_id": "CF263155289",
+    "submission_url": "https://codeforces.com/contest/1940/submission/263155289",
+    "tags": [],
+    "timestamp": "May/29/2024 20:23"
+  },
   "CF263155847": {
     "contest_id": 1060,
     "language": "C++17 (GCC 7-32)",
