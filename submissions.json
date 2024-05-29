@@ -24298,6 +24298,25 @@
     ],
     "timestamp": "May/29/2024 08:12"
   },
+  "CF263077744": {
+    "contest_id": 1970,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1970/D1.cpp",
+    "platform": "Codeforces",
+    "problem_index": "D1",
+    "problem_name": "Arithmancy (Easy)",
+    "problem_url": "https://codeforces.com/contest/1970/problem/D1",
+    "submission_id": "CF263077744",
+    "submission_url": "https://codeforces.com/contest/1970/submission/263077744",
+    "tags": [
+      "brute force",
+      "constructive algorithms",
+      "interactive",
+      "strings",
+      "*2100"
+    ],
+    "timestamp": "May/29/2024 08:22"
+  },
   "CF263077773": {
     "contest_id": 845,
     "language": "C++20 (GCC 13-64)",
