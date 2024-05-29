@@ -23497,6 +23497,21 @@
     "tags": [],
     "timestamp": "May/29/2024 18:32"
   },
+  "CF263146901": {
+    "contest_id": 641,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/641/G.cpp",
+    "platform": "Codeforces",
+    "problem_index": "G",
+    "problem_name": "Little Artem and Graph",
+    "problem_url": "https://codeforces.com/contest/641/problem/G",
+    "submission_id": "CF263146901",
+    "submission_url": "https://codeforces.com/contest/641/submission/263146901",
+    "tags": [
+      "*2300"
+    ],
+    "timestamp": "May/29/2024 19:19"
+  },
   "CF263146957": {
     "contest_id": 1949,
     "language": "C++20 (GCC 13-64)",
