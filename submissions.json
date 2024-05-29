@@ -24814,6 +24814,24 @@
     ],
     "timestamp": "May/29/2024 15:36"
   },
+  "CF263129711": {
+    "contest_id": 1799,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1799/H.cpp",
+    "platform": "Codeforces",
+    "problem_index": "H",
+    "problem_name": "Tree Cutting",
+    "problem_url": "https://codeforces.com/contest/1799/problem/H",
+    "submission_id": "CF263129711",
+    "submission_url": "https://codeforces.com/contest/1799/submission/263129711",
+    "tags": [
+      "bitmasks",
+      "dfs and similar",
+      "dp",
+      "*3200"
+    ],
+    "timestamp": "May/29/2024 17:02"
+  },
   "CF263129731": {
     "contest_id": 1656,
     "language": "C++20 (GCC 13-64)",
