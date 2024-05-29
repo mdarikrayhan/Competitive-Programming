@@ -23393,6 +23393,25 @@
     ],
     "timestamp": "May/17/2024 08:26"
   },
+  "CF263135656": {
+    "contest_id": 293,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/293/D.cpp",
+    "platform": "Codeforces",
+    "problem_index": "D",
+    "problem_name": "Ksusha and Square",
+    "problem_url": "https://codeforces.com/contest/293/problem/D",
+    "submission_id": "CF263135656",
+    "submission_url": "https://codeforces.com/contest/293/submission/263135656",
+    "tags": [
+      "geometry",
+      "math",
+      "probabilities",
+      "two pointers",
+      "*2700"
+    ],
+    "timestamp": "May/29/2024 17:50"
+  },
   "CF263135693": {
     "contest_id": 1830,
     "language": "C++20 (GCC 13-64)",
