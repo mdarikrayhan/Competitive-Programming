@@ -38060,6 +38060,26 @@
     ],
     "timestamp": "May/29/2024 07:10"
   },
+  "CF263074920": {
+    "contest_id": 722,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/722/F.cpp",
+    "platform": "Codeforces",
+    "problem_index": "F",
+    "problem_name": "Cyclic Cipher",
+    "problem_url": "https://codeforces.com/contest/722/problem/F",
+    "submission_id": "CF263074920",
+    "submission_url": "https://codeforces.com/contest/722/submission/263074920",
+    "tags": [
+      "chinese remainder theorem",
+      "data structures",
+      "implementation",
+      "number theory",
+      "two pointers",
+      "*2800"
+    ],
+    "timestamp": "May/29/2024 07:18"
+  },
   "CF263074942": {
     "contest_id": 1340,
     "language": "C++20 (GCC 13-64)",
