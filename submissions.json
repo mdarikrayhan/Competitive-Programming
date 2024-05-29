@@ -23393,6 +23393,26 @@
     ],
     "timestamp": "May/17/2024 08:26"
   },
+  "CF263149953": {
+    "contest_id": 1580,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1580/E.cpp",
+    "platform": "Codeforces",
+    "problem_index": "E",
+    "problem_name": "Railway Construction",
+    "problem_url": "https://codeforces.com/contest/1580/problem/E",
+    "submission_id": "CF263149953",
+    "submission_url": "https://codeforces.com/contest/1580/submission/263149953",
+    "tags": [
+      "brute force",
+      "constructive algorithms",
+      "data structures",
+      "graphs",
+      "shortest paths",
+      "*3400"
+    ],
+    "timestamp": "May/29/2024 19:41"
+  },
   "CF263149983": {
     "contest_id": 1070,
     "language": "C++20 (GCC 13-64)",
