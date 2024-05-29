@@ -36733,6 +36733,23 @@
     ],
     "timestamp": "May/29/2024 06:20"
   },
+  "CF263072989": {
+    "contest_id": 1943,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1943/D2.cpp",
+    "platform": "Codeforces",
+    "problem_index": "D2",
+    "problem_name": "Counting Is Fun (Hard Version)",
+    "problem_url": "https://codeforces.com/contest/1943/problem/D2",
+    "submission_id": "CF263072989",
+    "submission_url": "https://codeforces.com/contest/1943/submission/263072989",
+    "tags": [
+      "combinatorics",
+      "dp",
+      "*2800"
+    ],
+    "timestamp": "May/29/2024 06:27"
+  },
   "CF263072994": {
     "contest_id": 1830,
     "language": "C++20 (GCC 13-64)",
