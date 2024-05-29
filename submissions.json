@@ -23497,6 +23497,23 @@
     "tags": [],
     "timestamp": "May/29/2024 18:32"
   },
+  "CF263146458": {
+    "contest_id": 1428,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1428/H.cpp",
+    "platform": "Codeforces",
+    "problem_index": "H",
+    "problem_name": "Rotary Laser Lock",
+    "problem_url": "https://codeforces.com/contest/1428/problem/H",
+    "submission_id": "CF263146458",
+    "submission_url": "https://codeforces.com/contest/1428/submission/263146458",
+    "tags": [
+      "binary search",
+      "interactive",
+      "*3500"
+    ],
+    "timestamp": "May/29/2024 19:16"
+  },
   "CF263146495": {
     "contest_id": 756,
     "language": "C++20 (GCC 13-64)",
