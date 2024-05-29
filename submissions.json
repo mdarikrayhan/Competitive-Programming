@@ -23393,6 +23393,19 @@
     ],
     "timestamp": "May/17/2024 08:26"
   },
+  "CF263149073": {
+    "contest_id": 1267,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1267/F.cpp",
+    "platform": "Codeforces",
+    "problem_index": "F",
+    "problem_name": "Foolpr\u00fcf Security",
+    "problem_url": "https://codeforces.com/contest/1267/problem/F",
+    "submission_id": "CF263149073",
+    "submission_url": "https://codeforces.com/contest/1267/submission/263149073",
+    "tags": [],
+    "timestamp": "May/29/2024 19:35"
+  },
   "CF263149110": {
     "contest_id": 1267,
     "language": "C++20 (GCC 13-64)",
