@@ -23393,6 +23393,23 @@
     ],
     "timestamp": "May/17/2024 08:26"
   },
+  "CF263153709": {
+    "contest_id": 1408,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1408/I.cpp",
+    "platform": "Codeforces",
+    "problem_index": "I",
+    "problem_name": "Bitwise Magic",
+    "problem_url": "https://codeforces.com/contest/1408/problem/I",
+    "submission_id": "CF263153709",
+    "submission_url": "https://codeforces.com/contest/1408/submission/263153709",
+    "tags": [
+      "dp",
+      "math",
+      "*3200"
+    ],
+    "timestamp": "May/29/2024 20:10"
+  },
   "CF263153752": {
     "contest_id": 1284,
     "language": "C++20 (GCC 13-64)",
