@@ -23497,6 +23497,22 @@
     "tags": [],
     "timestamp": "May/29/2024 18:32"
   },
+  "CF263146866": {
+    "contest_id": 154,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/154/E.cpp",
+    "platform": "Codeforces",
+    "problem_index": "E",
+    "problem_name": "Martian Colony",
+    "problem_url": "https://codeforces.com/contest/154/problem/E",
+    "submission_id": "CF263146866",
+    "submission_url": "https://codeforces.com/contest/154/submission/263146866",
+    "tags": [
+      "geometry",
+      "*3000"
+    ],
+    "timestamp": "May/29/2024 19:19"
+  },
   "CF263146901": {
     "contest_id": 641,
     "language": "C++20 (GCC 13-64)",
