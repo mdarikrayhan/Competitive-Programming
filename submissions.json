@@ -23497,6 +23497,24 @@
     "tags": [],
     "timestamp": "May/29/2024 18:32"
   },
+  "CF263141301": {
+    "contest_id": 1864,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1864/G.cpp",
+    "platform": "Codeforces",
+    "problem_index": "G",
+    "problem_name": "Magic Square",
+    "problem_url": "https://codeforces.com/contest/1864/problem/G",
+    "submission_id": "CF263141301",
+    "submission_url": "https://codeforces.com/contest/1864/submission/263141301",
+    "tags": [
+      "combinatorics",
+      "constructive algorithms",
+      "implementation",
+      "*3100"
+    ],
+    "timestamp": "May/29/2024 18:35"
+  },
   "CF263141408": {
     "contest_id": 1864,
     "language": "C++20 (GCC 13-64)",
