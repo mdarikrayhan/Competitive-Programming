@@ -38716,6 +38716,23 @@
     ],
     "timestamp": "May/29/2024 14:00"
   },
+  "CF263110152": {
+    "contest_id": 1558,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1558/F.cpp",
+    "platform": "Codeforces",
+    "problem_index": "F",
+    "problem_name": "Strange Sort",
+    "problem_url": "https://codeforces.com/contest/1558/problem/F",
+    "submission_id": "CF263110152",
+    "submission_url": "https://codeforces.com/contest/1558/submission/263110152",
+    "tags": [
+      "data structures",
+      "sortings",
+      "*3300"
+    ],
+    "timestamp": "May/29/2024 14:19"
+  },
   "CF263110168": {
     "contest_id": 1290,
     "language": "C++20 (GCC 13-64)",
