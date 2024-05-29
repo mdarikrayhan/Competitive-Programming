@@ -23393,6 +23393,24 @@
     ],
     "timestamp": "May/17/2024 08:26"
   },
+  "CF263117810": {
+    "contest_id": 1540,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1540/D.cpp",
+    "platform": "Codeforces",
+    "problem_index": "D",
+    "problem_name": "Inverse Inversions",
+    "problem_url": "https://codeforces.com/contest/1540/problem/D",
+    "submission_id": "CF263117810",
+    "submission_url": "https://codeforces.com/contest/1540/submission/263117810",
+    "tags": [
+      "binary search",
+      "brute force",
+      "data structures",
+      "*3200"
+    ],
+    "timestamp": "May/29/2024 15:22"
+  },
   "CF263117842": {
     "contest_id": 1181,
     "language": "C++20 (GCC 13-64)",
