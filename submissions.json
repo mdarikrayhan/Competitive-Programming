@@ -33073,6 +33073,26 @@
     ],
     "timestamp": "May/29/2024 14:00"
   },
+  "CF263110779": {
+    "contest_id": 1671,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1671/F.cpp",
+    "platform": "Codeforces",
+    "problem_index": "F",
+    "problem_name": "Permutation Counting",
+    "problem_url": "https://codeforces.com/contest/1671/problem/F",
+    "submission_id": "CF263110779",
+    "submission_url": "https://codeforces.com/contest/1671/submission/263110779",
+    "tags": [
+      "brute force",
+      "combinatorics",
+      "dp",
+      "fft",
+      "math",
+      "*2700"
+    ],
+    "timestamp": "May/29/2024 14:24"
+  },
   "CF263110782": {
     "contest_id": 768,
     "language": "C++20 (GCC 13-64)",
