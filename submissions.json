@@ -38716,6 +38716,25 @@
     ],
     "timestamp": "May/29/2024 14:00"
   },
+  "CF263109589": {
+    "contest_id": 1599,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1599/G.cpp",
+    "platform": "Codeforces",
+    "problem_index": "G",
+    "problem_name": "Shortest path",
+    "problem_url": "https://codeforces.com/contest/1599/problem/G",
+    "submission_id": "CF263109589",
+    "submission_url": "https://codeforces.com/contest/1599/submission/263109589",
+    "tags": [
+      "brute force",
+      "geometry",
+      "math",
+      "shortest paths",
+      "*2700"
+    ],
+    "timestamp": "May/29/2024 14:14"
+  },
   "CF263109610": {
     "contest_id": 1418,
     "language": "C++20 (GCC 13-64)",
