@@ -23497,6 +23497,23 @@
     "tags": [],
     "timestamp": "May/29/2024 18:32"
   },
+  "CF263146800": {
+    "contest_id": 1949,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1949/E.cpp",
+    "platform": "Codeforces",
+    "problem_index": "E",
+    "problem_name": "Damage per Second",
+    "problem_url": "https://codeforces.com/contest/1949/problem/E",
+    "submission_id": "CF263146800",
+    "submission_url": "https://codeforces.com/contest/1949/submission/263146800",
+    "tags": [
+      "brute force",
+      "math",
+      "*2900"
+    ],
+    "timestamp": "May/29/2024 19:18"
+  },
   "CF263146832": {
     "contest_id": 780,
     "language": "C++20 (GCC 13-64)",
