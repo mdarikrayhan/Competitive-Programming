@@ -25733,6 +25733,27 @@
     "tags": [],
     "timestamp": "May/29/2024 10:57"
   },
+  "CF263088073": {
+    "contest_id": 1535,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1535/F.cpp",
+    "platform": "Codeforces",
+    "problem_index": "F",
+    "problem_name": "String Distance",
+    "problem_url": "https://codeforces.com/contest/1535/problem/F",
+    "submission_id": "CF263088073",
+    "submission_url": "https://codeforces.com/contest/1535/submission/263088073",
+    "tags": [
+      "binary search",
+      "brute force",
+      "data structures",
+      "hashing",
+      "implementation",
+      "strings",
+      "*3000"
+    ],
+    "timestamp": "May/29/2024 11:07"
+  },
   "CF263088321": {
     "contest_id": 840,
     "language": "C++20 (GCC 13-64)",
