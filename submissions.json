@@ -30034,6 +30034,24 @@
     ],
     "timestamp": "May/29/2024 15:36"
   },
+  "CF263120394": {
+    "contest_id": 1943,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1943/E2.cpp",
+    "platform": "Codeforces",
+    "problem_index": "E2",
+    "problem_name": "MEX Game 2 (Hard Version)",
+    "problem_url": "https://codeforces.com/contest/1943/problem/E2",
+    "submission_id": "CF263120394",
+    "submission_url": "https://codeforces.com/contest/1943/submission/263120394",
+    "tags": [
+      "binary search",
+      "greedy",
+      "two pointers",
+      "*3300"
+    ],
+    "timestamp": "May/29/2024 15:42"
+  },
   "CF263120425": {
     "contest_id": 1239,
     "language": "C++20 (GCC 13-64)",
