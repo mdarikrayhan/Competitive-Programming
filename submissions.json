@@ -23393,6 +23393,24 @@
     ],
     "timestamp": "May/17/2024 08:26"
   },
+  "CF263119085": {
+    "contest_id": 1007,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1007/D.cpp",
+    "platform": "Codeforces",
+    "problem_index": "D",
+    "problem_name": "Ants",
+    "problem_url": "https://codeforces.com/contest/1007/problem/D",
+    "submission_id": "CF263119085",
+    "submission_url": "https://codeforces.com/contest/1007/submission/263119085",
+    "tags": [
+      "2-sat",
+      "data structures",
+      "trees",
+      "*3200"
+    ],
+    "timestamp": "May/29/2024 15:32"
+  },
   "CF263119094": {
     "contest_id": 460,
     "language": "C++20 (GCC 13-64)",
