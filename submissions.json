@@ -24298,6 +24298,23 @@
     ],
     "timestamp": "May/29/2024 08:12"
   },
+  "CF263077356": {
+    "contest_id": 1119,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1119/H.cpp",
+    "platform": "Codeforces",
+    "problem_index": "H",
+    "problem_name": "Triple",
+    "problem_url": "https://codeforces.com/contest/1119/problem/H",
+    "submission_id": "CF263077356",
+    "submission_url": "https://codeforces.com/contest/1119/submission/263077356",
+    "tags": [
+      "fft",
+      "math",
+      "*3200"
+    ],
+    "timestamp": "May/29/2024 08:14"
+  },
   "CF263077367": {
     "contest_id": 354,
     "language": "C++20 (GCC 13-64)",
