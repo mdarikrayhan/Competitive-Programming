@@ -33144,6 +33144,24 @@
     ],
     "timestamp": "May/29/2024 07:32"
   },
+  "CF263075720": {
+    "contest_id": 130,
+    "language": "Befunge",
+    "path": "codeforces/130/B.befunge",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Gnikool Ssalg",
+    "problem_url": "https://codeforces.com/contest/130/problem/B",
+    "submission_id": "CF263075720",
+    "submission_url": "https://codeforces.com/contest/130/submission/263075720",
+    "tags": [
+      "*special problem",
+      "implementation",
+      "strings",
+      "*1400"
+    ],
+    "timestamp": "May/29/2024 07:38"
+  },
   "CF263075736": {
     "contest_id": 130,
     "language": "Befunge",
