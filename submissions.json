@@ -23393,6 +23393,27 @@
     ],
     "timestamp": "May/17/2024 08:26"
   },
+  "CF263133726": {
+    "contest_id": 1503,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1503/F.cpp",
+    "platform": "Codeforces",
+    "problem_index": "F",
+    "problem_name": "Balance the Cards",
+    "problem_url": "https://codeforces.com/contest/1503/problem/F",
+    "submission_id": "CF263133726",
+    "submission_url": "https://codeforces.com/contest/1503/submission/263133726",
+    "tags": [
+      "constructive algorithms",
+      "data structures",
+      "divide and conquer",
+      "geometry",
+      "graphs",
+      "implementation",
+      "*3500"
+    ],
+    "timestamp": "May/29/2024 17:34"
+  },
   "CF263133753": {
     "contest_id": 105,
     "language": "C++20 (GCC 13-64)",
