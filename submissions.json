@@ -23393,6 +23393,25 @@
     ],
     "timestamp": "May/17/2024 08:26"
   },
+  "CF263083847": {
+    "contest_id": 1297,
+    "language": "Kotlin 1.7",
+    "path": "codeforces/1297/F.kt",
+    "platform": "Codeforces",
+    "problem_index": "F",
+    "problem_name": "Movie Fan",
+    "problem_url": "https://codeforces.com/contest/1297/problem/F",
+    "submission_id": "CF263083847",
+    "submission_url": "https://codeforces.com/contest/1297/submission/263083847",
+    "tags": [
+      "*special problem",
+      "data structures",
+      "greedy",
+      "implementation",
+      "sortings"
+    ],
+    "timestamp": "May/29/2024 10:05"
+  },
   "CF263083875": {
     "contest_id": 1297,
     "language": "Kotlin 1.7",
