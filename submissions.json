@@ -23393,6 +23393,23 @@
     ],
     "timestamp": "May/17/2024 08:26"
   },
+  "CF263118818": {
+    "contest_id": 566,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/566/B.cpp",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Replicating Processes",
+    "problem_url": "https://codeforces.com/contest/566/problem/B",
+    "submission_id": "CF263118818",
+    "submission_url": "https://codeforces.com/contest/566/submission/263118818",
+    "tags": [
+      "constructive algorithms",
+      "greedy",
+      "*2600"
+    ],
+    "timestamp": "May/29/2024 15:30"
+  },
   "CF263118938": {
     "contest_id": 1930,
     "language": "C++20 (GCC 13-64)",

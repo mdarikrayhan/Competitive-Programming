@@ -1,0 +1,3 @@
+#include<cstdio>
+typedef const int ci;ci N=120005;ci M=(1<<24)-1;int t[N],a[N],b[N],c[N],q[M];
+int main(){int n;scanf("%d",&n);for(int i=0;i<n*4;++i)scanf("%d%d%d",&a[i],&b[i],&c[i]),--a[i],--b[i],--c[i],q[i]=i;for(int i=0;i<n;++i)t[i]=4;int e=0,f=n<<2;puts("YES");while(e!=f){int u=q[e++];e&=M;if((b[u]!=c[u]&&t[b[u]]<9&&t[c[u]]<9)||(b[u]==c[u]&&t[b[u]]<8))--t[a[u]],++t[b[u]],++t[c[u]],printf("%d ",u+1);else q[f++]=u,f&=M;}return 0;}
