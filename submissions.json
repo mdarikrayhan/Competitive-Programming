@@ -24814,6 +24814,23 @@
     ],
     "timestamp": "May/29/2024 15:36"
   },
+  "CF263128708": {
+    "contest_id": 309,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/309/D.cpp",
+    "platform": "Codeforces",
+    "problem_index": "D",
+    "problem_name": "Tennis Rackets",
+    "problem_url": "https://codeforces.com/contest/309/problem/D",
+    "submission_id": "CF263128708",
+    "submission_url": "https://codeforces.com/contest/309/submission/263128708",
+    "tags": [
+      "brute force",
+      "geometry",
+      "*2700"
+    ],
+    "timestamp": "May/29/2024 16:53"
+  },
   "CF263128739": {
     "contest_id": 1895,
     "language": "C++20 (GCC 13-64)",
