@@ -23393,6 +23393,21 @@
     ],
     "timestamp": "May/17/2024 08:26"
   },
+  "CF263152487": {
+    "contest_id": 1184,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1184/C3.cpp",
+    "platform": "Codeforces",
+    "problem_index": "C3",
+    "problem_name": "Heidi and the Turing Test (Hard)",
+    "problem_url": "https://codeforces.com/contest/1184/problem/C3",
+    "submission_id": "CF263152487",
+    "submission_url": "https://codeforces.com/contest/1184/submission/263152487",
+    "tags": [
+      "*3200"
+    ],
+    "timestamp": "May/29/2024 20:01"
+  },
   "CF263152606": {
     "contest_id": 1220,
     "language": "C++20 (GCC 13-64)",
