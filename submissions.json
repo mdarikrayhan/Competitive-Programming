@@ -23393,6 +23393,22 @@
     ],
     "timestamp": "May/17/2024 08:26"
   },
+  "CF263171832": {
+    "contest_id": 1001,
+    "language": "Q#",
+    "path": "codeforces/1001/F.qs",
+    "platform": "Codeforces",
+    "problem_index": "F",
+    "problem_name": "Distinguish multi-qubit basis states",
+    "problem_url": "https://codeforces.com/contest/1001/problem/F",
+    "submission_id": "CF263171832",
+    "submission_url": "https://codeforces.com/contest/1001/submission/263171832",
+    "tags": [
+      "*special problem",
+      "*1300"
+    ],
+    "timestamp": "May/29/2024 23:23"
+  },
   "CF263171853": {
     "contest_id": 1001,
     "language": "Q#",
