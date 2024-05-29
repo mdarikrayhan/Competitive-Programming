@@ -33144,6 +33144,23 @@
     ],
     "timestamp": "May/29/2024 07:32"
   },
+  "CF263075646": {
+    "contest_id": 491,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/491/B.cpp",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "New York Hotel",
+    "problem_url": "https://codeforces.com/contest/491/problem/B",
+    "submission_id": "CF263075646",
+    "submission_url": "https://codeforces.com/contest/491/submission/263075646",
+    "tags": [
+      "greedy",
+      "math",
+      "*2100"
+    ],
+    "timestamp": "May/29/2024 07:36"
+  },
   "CF263075720": {
     "contest_id": 130,
     "language": "Befunge",
