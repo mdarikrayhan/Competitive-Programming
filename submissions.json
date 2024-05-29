@@ -34491,6 +34491,22 @@
     ],
     "timestamp": "May/29/2024 14:59"
   },
+  "CF263115162": {
+    "contest_id": 717,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/717/F.cpp",
+    "platform": "Codeforces",
+    "problem_index": "F",
+    "problem_name": "Heroes of Making Magic III",
+    "problem_url": "https://codeforces.com/contest/717/problem/F",
+    "submission_id": "CF263115162",
+    "submission_url": "https://codeforces.com/contest/717/submission/263115162",
+    "tags": [
+      "data structures",
+      "*2600"
+    ],
+    "timestamp": "May/29/2024 15:00"
+  },
   "CF263115228": {
     "contest_id": 1070,
     "language": "C++20 (GCC 13-64)",
