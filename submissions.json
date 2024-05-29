@@ -23497,6 +23497,22 @@
     "tags": [],
     "timestamp": "May/29/2024 18:32"
   },
+  "CF263143913": {
+    "contest_id": 1641,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1641/F.cpp",
+    "platform": "Codeforces",
+    "problem_index": "F",
+    "problem_name": "Covering Circle",
+    "problem_url": "https://codeforces.com/contest/1641/problem/F",
+    "submission_id": "CF263143913",
+    "submission_url": "https://codeforces.com/contest/1641/submission/263143913",
+    "tags": [
+      "geometry",
+      "*3500"
+    ],
+    "timestamp": "May/29/2024 18:56"
+  },
   "CF263143976": {
     "contest_id": 1685,
     "language": "C++20 (GCC 13-64)",
