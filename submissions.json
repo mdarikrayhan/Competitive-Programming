@@ -30034,6 +30034,24 @@
     ],
     "timestamp": "May/29/2024 15:36"
   },
+  "CF263121330": {
+    "contest_id": 145,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/145/D.cpp",
+    "platform": "Codeforces",
+    "problem_index": "D",
+    "problem_name": "Lucky Pair",
+    "problem_url": "https://codeforces.com/contest/145/problem/D",
+    "submission_id": "CF263121330",
+    "submission_url": "https://codeforces.com/contest/145/submission/263121330",
+    "tags": [
+      "combinatorics",
+      "data structures",
+      "implementation",
+      "*2900"
+    ],
+    "timestamp": "May/29/2024 15:50"
+  },
   "CF263121356": {
     "contest_id": 1572,
     "language": "C++20 (GCC 13-64)",
