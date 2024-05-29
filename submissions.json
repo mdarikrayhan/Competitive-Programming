@@ -38716,6 +38716,25 @@
     ],
     "timestamp": "May/29/2024 14:00"
   },
+  "CF263109261": {
+    "contest_id": 793,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/793/G.cpp",
+    "platform": "Codeforces",
+    "problem_index": "G",
+    "problem_name": "Oleg and chess",
+    "problem_url": "https://codeforces.com/contest/793/problem/G",
+    "submission_id": "CF263109261",
+    "submission_url": "https://codeforces.com/contest/793/submission/263109261",
+    "tags": [
+      "data structures",
+      "divide and conquer",
+      "flows",
+      "graph matchings",
+      "*3400"
+    ],
+    "timestamp": "May/29/2024 14:12"
+  },
   "CF263109282": {
     "contest_id": 74,
     "language": "C++20 (GCC 13-64)",
