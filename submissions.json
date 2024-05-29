@@ -23393,6 +23393,23 @@
     ],
     "timestamp": "May/17/2024 08:26"
   },
+  "CF263135327": {
+    "contest_id": 1442,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1442/F.cpp",
+    "platform": "Codeforces",
+    "problem_index": "F",
+    "problem_name": "Differentiating Games",
+    "problem_url": "https://codeforces.com/contest/1442/problem/F",
+    "submission_id": "CF263135327",
+    "submission_url": "https://codeforces.com/contest/1442/submission/263135327",
+    "tags": [
+      "games",
+      "interactive",
+      "*3400"
+    ],
+    "timestamp": "May/29/2024 17:48"
+  },
   "CF263135369": {
     "contest_id": 1242,
     "language": "C++20 (GCC 13-64)",
