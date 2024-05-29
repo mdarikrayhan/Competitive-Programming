@@ -27654,6 +27654,23 @@
     ],
     "timestamp": "May/29/2024 15:36"
   },
+  "CF263124233": {
+    "contest_id": 1012,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1012/D.cpp",
+    "platform": "Codeforces",
+    "problem_index": "D",
+    "problem_name": "AB-Strings",
+    "problem_url": "https://codeforces.com/contest/1012/problem/D",
+    "submission_id": "CF263124233",
+    "submission_url": "https://codeforces.com/contest/1012/submission/263124233",
+    "tags": [
+      "constructive algorithms",
+      "strings",
+      "*2800"
+    ],
+    "timestamp": "May/29/2024 16:14"
+  },
   "CF263124245": {
     "contest_id": 1815,
     "language": "C++20 (GCC 13-64)",
