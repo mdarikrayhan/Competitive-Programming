@@ -23393,6 +23393,25 @@
     ],
     "timestamp": "May/17/2024 08:26"
   },
+  "CF263111837": {
+    "contest_id": 1896,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1896/G.cpp",
+    "platform": "Codeforces",
+    "problem_index": "G",
+    "problem_name": "Pepe Racing",
+    "problem_url": "https://codeforces.com/contest/1896/problem/G",
+    "submission_id": "CF263111837",
+    "submission_url": "https://codeforces.com/contest/1896/submission/263111837",
+    "tags": [
+      "constructive algorithms",
+      "implementation",
+      "interactive",
+      "sortings",
+      "*3200"
+    ],
+    "timestamp": "May/29/2024 14:33"
+  },
   "CF263111873": {
     "contest_id": 1633,
     "language": "C++20 (GCC 13-64)",
