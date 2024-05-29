@@ -23393,6 +23393,23 @@
     ],
     "timestamp": "May/17/2024 08:26"
   },
+  "CF263131651": {
+    "contest_id": 1615,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1615/G.cpp",
+    "platform": "Codeforces",
+    "problem_index": "G",
+    "problem_name": "Maximum Adjacent Pairs",
+    "problem_url": "https://codeforces.com/contest/1615/problem/G",
+    "submission_id": "CF263131651",
+    "submission_url": "https://codeforces.com/contest/1615/submission/263131651",
+    "tags": [
+      "constructive algorithms",
+      "graph matchings",
+      "*3300"
+    ],
+    "timestamp": "May/29/2024 17:17"
+  },
   "CF263131821": {
     "contest_id": 1423,
     "language": "C++20 (GCC 13-64)",
