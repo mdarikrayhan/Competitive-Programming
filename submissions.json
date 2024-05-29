@@ -23393,6 +23393,24 @@
     ],
     "timestamp": "May/17/2024 08:26"
   },
+  "CF263074208": {
+    "contest_id": 48,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/48/E.cpp",
+    "platform": "Codeforces",
+    "problem_index": "E",
+    "problem_name": "Ivan the Fool VS Gorynych the Dragon",
+    "problem_url": "https://codeforces.com/contest/48/problem/E",
+    "submission_id": "CF263074208",
+    "submission_url": "https://codeforces.com/contest/48/submission/263074208",
+    "tags": [
+      "dp",
+      "games",
+      "graphs",
+      "*2100"
+    ],
+    "timestamp": "May/29/2024 07:02"
+  },
   "CF263074216": {
     "contest_id": 916,
     "language": "C++20 (GCC 13-64)",
