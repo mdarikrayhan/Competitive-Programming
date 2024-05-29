@@ -27654,6 +27654,22 @@
     ],
     "timestamp": "May/29/2024 15:36"
   },
+  "CF263126842": {
+    "contest_id": 690,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/690/B2.cpp",
+    "platform": "Codeforces",
+    "problem_index": "B2",
+    "problem_name": "Recover Polygon (medium)",
+    "problem_url": "https://codeforces.com/contest/690/problem/B2",
+    "submission_id": "CF263126842",
+    "submission_url": "https://codeforces.com/contest/690/submission/263126842",
+    "tags": [
+      "geometry",
+      "*2600"
+    ],
+    "timestamp": "May/29/2024 16:36"
+  },
   "CF263126911": {
     "contest_id": 1753,
     "language": "C++20 (GCC 13-64)",
