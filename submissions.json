@@ -27654,6 +27654,19 @@
     ],
     "timestamp": "May/29/2024 15:36"
   },
+  "CF263125519": {
+    "contest_id": 1090,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1090/I.cpp",
+    "platform": "Codeforces",
+    "problem_index": "I",
+    "problem_name": "Minimal Product",
+    "problem_url": "https://codeforces.com/contest/1090/problem/I",
+    "submission_id": "CF263125519",
+    "submission_url": "https://codeforces.com/contest/1090/submission/263125519",
+    "tags": [],
+    "timestamp": "May/29/2024 16:25"
+  },
   "CF263125548": {
     "contest_id": 392,
     "language": "C++20 (GCC 13-64)",
