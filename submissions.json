@@ -23393,6 +23393,25 @@
     ],
     "timestamp": "May/17/2024 08:26"
   },
+  "CF263149921": {
+    "contest_id": 1942,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1942/H.cpp",
+    "platform": "Codeforces",
+    "problem_index": "H",
+    "problem_name": "Farmer John's Favorite Intern",
+    "problem_url": "https://codeforces.com/contest/1942/problem/H",
+    "submission_id": "CF263149921",
+    "submission_url": "https://codeforces.com/contest/1942/submission/263149921",
+    "tags": [
+      "data structures",
+      "dp",
+      "flows",
+      "trees",
+      "*3500"
+    ],
+    "timestamp": "May/29/2024 19:41"
+  },
   "CF263149953": {
     "contest_id": 1580,
     "language": "C++20 (GCC 13-64)",
