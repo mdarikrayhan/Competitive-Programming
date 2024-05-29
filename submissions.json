@@ -23497,6 +23497,24 @@
     "tags": [],
     "timestamp": "May/29/2024 18:32"
   },
+  "CF263145619": {
+    "contest_id": 1889,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1889/E.cpp",
+    "platform": "Codeforces",
+    "problem_index": "E",
+    "problem_name": "Doremy's Swapping Trees",
+    "problem_url": "https://codeforces.com/contest/1889/problem/E",
+    "submission_id": "CF263145619",
+    "submission_url": "https://codeforces.com/contest/1889/submission/263145619",
+    "tags": [
+      "dfs and similar",
+      "graphs",
+      "trees",
+      "*3500"
+    ],
+    "timestamp": "May/29/2024 19:10"
+  },
   "CF263145658": {
     "contest_id": 720,
     "language": "C++20 (GCC 13-64)",
