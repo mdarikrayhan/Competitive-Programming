@@ -27418,6 +27418,25 @@
     ],
     "timestamp": "May/29/2024 07:02"
   },
+  "CF263074271": {
+    "contest_id": 1383,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1383/C.cpp",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "String Transformation 2",
+    "problem_url": "https://codeforces.com/contest/1383/problem/C",
+    "submission_id": "CF263074271",
+    "submission_url": "https://codeforces.com/contest/1383/submission/263074271",
+    "tags": [
+      "bitmasks",
+      "dp",
+      "graphs",
+      "trees",
+      "*3100"
+    ],
+    "timestamp": "May/29/2024 07:03"
+  },
   "CF263074308": {
     "contest_id": 248,
     "language": "C++20 (GCC 13-64)",
