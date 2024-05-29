@@ -23393,6 +23393,19 @@
     ],
     "timestamp": "May/17/2024 08:26"
   },
+  "CF263148542": {
+    "contest_id": 1912,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1912/J.cpp",
+    "platform": "Codeforces",
+    "problem_index": "J",
+    "problem_name": "Joy of Pok\u00e9mon Observation",
+    "problem_url": "https://codeforces.com/contest/1912/problem/J",
+    "submission_id": "CF263148542",
+    "submission_url": "https://codeforces.com/contest/1912/submission/263148542",
+    "tags": [],
+    "timestamp": "May/29/2024 19:31"
+  },
   "CF263148544": {
     "contest_id": 1545,
     "language": "C++20 (GCC 13-64)",
