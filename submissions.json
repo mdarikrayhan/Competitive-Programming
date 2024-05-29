@@ -24298,6 +24298,25 @@
     ],
     "timestamp": "May/29/2024 08:12"
   },
+  "CF263077620": {
+    "contest_id": 1630,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1630/E.cpp",
+    "platform": "Codeforces",
+    "problem_index": "E",
+    "problem_name": "Expected Components",
+    "problem_url": "https://codeforces.com/contest/1630/problem/E",
+    "submission_id": "CF263077620",
+    "submission_url": "https://codeforces.com/contest/1630/submission/263077620",
+    "tags": [
+      "combinatorics",
+      "math",
+      "number theory",
+      "probabilities",
+      "*2900"
+    ],
+    "timestamp": "May/29/2024 08:19"
+  },
   "CF263077632": {
     "contest_id": 1725,
     "language": "C++20 (GCC 13-64)",
