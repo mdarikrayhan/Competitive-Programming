@@ -33144,6 +33144,22 @@
     ],
     "timestamp": "May/29/2024 07:32"
   },
+  "CF263075513": {
+    "contest_id": 530,
+    "language": "Picat",
+    "path": "codeforces/530/G.pi",
+    "platform": "Codeforces",
+    "problem_index": "G",
+    "problem_name": "Levenshtein distance",
+    "problem_url": "https://codeforces.com/contest/530/problem/G",
+    "submission_id": "CF263075513",
+    "submission_url": "https://codeforces.com/contest/530/submission/263075513",
+    "tags": [
+      "*special problem",
+      "*2100"
+    ],
+    "timestamp": "May/29/2024 07:32"
+  },
   "CF263075518": {
     "contest_id": 530,
     "language": "Picat",
