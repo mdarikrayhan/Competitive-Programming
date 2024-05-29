@@ -36733,6 +36733,24 @@
     ],
     "timestamp": "May/29/2024 06:20"
   },
+  "CF263072923": {
+    "contest_id": 1331,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1331/E.cpp",
+    "platform": "Codeforces",
+    "problem_index": "E",
+    "problem_name": "Jordan Smiley",
+    "problem_url": "https://codeforces.com/contest/1331/problem/E",
+    "submission_id": "CF263072923",
+    "submission_url": "https://codeforces.com/contest/1331/submission/263072923",
+    "tags": [
+      "*special problem",
+      "dfs and similar",
+      "geometry",
+      "implementation"
+    ],
+    "timestamp": "May/29/2024 06:25"
+  },
   "CF263072942": {
     "contest_id": 1428,
     "language": "C++20 (GCC 13-64)",
