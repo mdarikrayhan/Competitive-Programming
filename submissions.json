@@ -24814,6 +24814,23 @@
     ],
     "timestamp": "May/29/2024 15:36"
   },
+  "CF263129375": {
+    "contest_id": 1740,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1740/H.cpp",
+    "platform": "Codeforces",
+    "problem_index": "H",
+    "problem_name": "MEX Tree Manipulation",
+    "problem_url": "https://codeforces.com/contest/1740/problem/H",
+    "submission_id": "CF263129375",
+    "submission_url": "https://codeforces.com/contest/1740/submission/263129375",
+    "tags": [
+      "data structures",
+      "trees",
+      "*3300"
+    ],
+    "timestamp": "May/29/2024 16:59"
+  },
   "CF263129392": {
     "contest_id": 251,
     "language": "C++20 (GCC 13-64)",
