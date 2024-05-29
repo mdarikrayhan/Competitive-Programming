@@ -38568,6 +38568,22 @@
     ],
     "timestamp": "May/29/2024 07:51"
   },
+  "CF263076324": {
+    "contest_id": 1663,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1663/F.cpp",
+    "platform": "Codeforces",
+    "problem_index": "F",
+    "problem_name": "In Every Generation...",
+    "problem_url": "https://codeforces.com/contest/1663/problem/F",
+    "submission_id": "CF263076324",
+    "submission_url": "https://codeforces.com/contest/1663/submission/263076324",
+    "tags": [
+      "*special problem",
+      "strings"
+    ],
+    "timestamp": "May/29/2024 07:52"
+  },
   "CF263076329": {
     "contest_id": 1076,
     "language": "C++20 (GCC 13-64)",
