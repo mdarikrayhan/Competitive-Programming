@@ -23393,6 +23393,22 @@
     ],
     "timestamp": "May/17/2024 08:26"
   },
+  "CF263111672": {
+    "contest_id": 120,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/120/I.cpp",
+    "platform": "Codeforces",
+    "problem_index": "I",
+    "problem_name": "Luck is in Numbers",
+    "problem_url": "https://codeforces.com/contest/120/problem/I",
+    "submission_id": "CF263111672",
+    "submission_url": "https://codeforces.com/contest/120/submission/263111672",
+    "tags": [
+      "greedy",
+      "*2200"
+    ],
+    "timestamp": "May/29/2024 14:32"
+  },
   "CF263111684": {
     "contest_id": 1045,
     "language": "C++20 (GCC 13-64)",
