@@ -27654,6 +27654,24 @@
     ],
     "timestamp": "May/29/2024 15:36"
   },
+  "CF263124765": {
+    "contest_id": 575,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/575/C.cpp",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Party",
+    "problem_url": "https://codeforces.com/contest/575/problem/C",
+    "submission_id": "CF263124765",
+    "submission_url": "https://codeforces.com/contest/575/submission/263124765",
+    "tags": [
+      "bitmasks",
+      "brute force",
+      "graph matchings",
+      "*2700"
+    ],
+    "timestamp": "May/29/2024 16:19"
+  },
   "CF263124896": {
     "contest_id": 77,
     "language": "C++20 (GCC 13-64)",
