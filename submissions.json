@@ -23393,6 +23393,21 @@
     ],
     "timestamp": "May/17/2024 08:26"
   },
+  "CF263076504": {
+    "contest_id": 1145,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1145/G.cpp",
+    "platform": "Codeforces",
+    "problem_index": "G",
+    "problem_name": "AI Takeover",
+    "problem_url": "https://codeforces.com/contest/1145/problem/G",
+    "submission_id": "CF263076504",
+    "submission_url": "https://codeforces.com/contest/1145/submission/263076504",
+    "tags": [
+      "interactive"
+    ],
+    "timestamp": "May/29/2024 07:56"
+  },
   "CF263076640": {
     "contest_id": 409,
     "language": "C++20 (GCC 13-64)",
