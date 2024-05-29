@@ -23393,6 +23393,21 @@
     ],
     "timestamp": "May/17/2024 08:26"
   },
+  "CF263171490": {
+    "contest_id": 1002,
+    "language": "Q#",
+    "path": "codeforces/1002/B2.qs",
+    "platform": "Codeforces",
+    "problem_index": "B2",
+    "problem_name": "Distinguish GHZ state and W state",
+    "problem_url": "https://codeforces.com/contest/1002/problem/B2",
+    "submission_id": "CF263171490",
+    "submission_url": "https://codeforces.com/contest/1002/submission/263171490",
+    "tags": [
+      "*1600"
+    ],
+    "timestamp": "May/29/2024 23:19"
+  },
   "CF263171510": {
     "contest_id": 1002,
     "language": "Q#",
