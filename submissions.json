@@ -38145,6 +38145,25 @@
     ],
     "timestamp": "May/29/2024 07:27"
   },
+  "CF263075289": {
+    "contest_id": 1488,
+    "language": "Kotlin 1.7",
+    "path": "codeforces/1488/C.kt",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Two Policemen",
+    "problem_url": "https://codeforces.com/contest/1488/problem/C",
+    "submission_id": "CF263075289",
+    "submission_url": "https://codeforces.com/contest/1488/submission/263075289",
+    "tags": [
+      "*special problem",
+      "binary search",
+      "brute force",
+      "math",
+      "*1900"
+    ],
+    "timestamp": "May/29/2024 07:27"
+  },
   "CF263075300": {
     "contest_id": 1488,
     "language": "Kotlin 1.7",
