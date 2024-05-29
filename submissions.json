@@ -23393,6 +23393,24 @@
     ],
     "timestamp": "May/17/2024 08:26"
   },
+  "CF263131624": {
+    "contest_id": 1951,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1951/G.cpp",
+    "platform": "Codeforces",
+    "problem_index": "G",
+    "problem_name": "Clacking Balls",
+    "problem_url": "https://codeforces.com/contest/1951/problem/G",
+    "submission_id": "CF263131624",
+    "submission_url": "https://codeforces.com/contest/1951/submission/263131624",
+    "tags": [
+      "combinatorics",
+      "math",
+      "probabilities",
+      "*3100"
+    ],
+    "timestamp": "May/29/2024 17:17"
+  },
   "CF263131650": {
     "contest_id": 1884,
     "language": "C++20 (GCC 13-64)",
