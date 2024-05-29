@@ -40790,6 +40790,22 @@
     "tags": [],
     "timestamp": "May/29/2024 13:37"
   },
+  "CF263105837": {
+    "contest_id": 1089,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1089/I.cpp",
+    "platform": "Codeforces",
+    "problem_index": "I",
+    "problem_name": "Interval-Free Permutations",
+    "problem_url": "https://codeforces.com/contest/1089/problem/I",
+    "submission_id": "CF263105837",
+    "submission_url": "https://codeforces.com/contest/1089/submission/263105837",
+    "tags": [
+      "combinatorics",
+      "*2600"
+    ],
+    "timestamp": "May/29/2024 13:45"
+  },
   "CF263105890": {
     "contest_id": 612,
     "language": "C++20 (GCC 13-64)",
