@@ -24814,6 +24814,22 @@
     ],
     "timestamp": "May/29/2024 15:36"
   },
+  "CF263128819": {
+    "contest_id": 1322,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1322/E.cpp",
+    "platform": "Codeforces",
+    "problem_index": "E",
+    "problem_name": "Median Mountain Range",
+    "problem_url": "https://codeforces.com/contest/1322/problem/E",
+    "submission_id": "CF263128819",
+    "submission_url": "https://codeforces.com/contest/1322/submission/263128819",
+    "tags": [
+      "data structures",
+      "*3300"
+    ],
+    "timestamp": "May/29/2024 16:54"
+  },
   "CF263128846": {
     "contest_id": 1704,
     "language": "C++20 (GCC 13-64)",
