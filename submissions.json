@@ -24815,6 +24815,19 @@
     ],
     "timestamp": "May/29/2024 10:33"
   },
+  "CF263104093": {
+    "contest_id": 1938,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1938/B.cpp",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Attraction Score",
+    "problem_url": "https://codeforces.com/contest/1938/problem/B",
+    "submission_id": "CF263104093",
+    "submission_url": "https://codeforces.com/contest/1938/submission/263104093",
+    "tags": [],
+    "timestamp": "May/29/2024 13:32"
+  },
   "CF263104159": {
     "contest_id": 1938,
     "language": "C++20 (GCC 13-64)",
