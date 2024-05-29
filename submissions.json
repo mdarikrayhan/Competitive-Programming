@@ -23497,6 +23497,24 @@
     "tags": [],
     "timestamp": "May/29/2024 18:32"
   },
+  "CF263147198": {
+    "contest_id": 1349,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1349/E.cpp",
+    "platform": "Codeforces",
+    "problem_index": "E",
+    "problem_name": "Slime and Hats",
+    "problem_url": "https://codeforces.com/contest/1349/problem/E",
+    "submission_id": "CF263147198",
+    "submission_url": "https://codeforces.com/contest/1349/submission/263147198",
+    "tags": [
+      "constructive algorithms",
+      "dp",
+      "greedy",
+      "*3500"
+    ],
+    "timestamp": "May/29/2024 19:21"
+  },
   "CF263147275": {
     "contest_id": 65,
     "language": "C++20 (GCC 13-64)",
