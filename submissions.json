@@ -30034,6 +30034,24 @@
     ],
     "timestamp": "May/29/2024 15:36"
   },
+  "CF263122733": {
+    "contest_id": 1750,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1750/G.cpp",
+    "platform": "Codeforces",
+    "problem_index": "G",
+    "problem_name": "Doping",
+    "problem_url": "https://codeforces.com/contest/1750/problem/G",
+    "submission_id": "CF263122733",
+    "submission_url": "https://codeforces.com/contest/1750/submission/263122733",
+    "tags": [
+      "combinatorics",
+      "dp",
+      "math",
+      "*3300"
+    ],
+    "timestamp": "May/29/2024 16:01"
+  },
   "CF263122763": {
     "contest_id": 1268,
     "language": "C++20 (GCC 13-64)",
