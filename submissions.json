@@ -37644,6 +37644,24 @@
     ],
     "timestamp": "May/29/2024 09:39"
   },
+  "CF263082405": {
+    "contest_id": 83,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/83/C.cpp",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Track",
+    "problem_url": "https://codeforces.com/contest/83/problem/C",
+    "submission_id": "CF263082405",
+    "submission_url": "https://codeforces.com/contest/83/submission/263082405",
+    "tags": [
+      "graphs",
+      "greedy",
+      "shortest paths",
+      "*2400"
+    ],
+    "timestamp": "May/29/2024 09:40"
+  },
   "CF263082434": {
     "contest_id": 345,
     "language": "Ada",
