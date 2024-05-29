@@ -38078,6 +38078,22 @@
     ],
     "timestamp": "May/29/2024 07:25"
   },
+  "CF263075224": {
+    "contest_id": 1505,
+    "language": "Secret 2021",
+    "path": "codeforces/1505/I.txt",
+    "platform": "Codeforces",
+    "problem_index": "I",
+    "problem_name": "Mysterious language again, seriously?",
+    "problem_url": "https://codeforces.com/contest/1505/problem/I",
+    "submission_id": "CF263075224",
+    "submission_url": "https://codeforces.com/contest/1505/submission/263075224",
+    "tags": [
+      "*special problem",
+      "*2200"
+    ],
+    "timestamp": "May/29/2024 07:25"
+  },
   "CF263075230": {
     "contest_id": 1379,
     "language": "C++20 (GCC 13-64)",
