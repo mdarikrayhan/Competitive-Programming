@@ -27114,6 +27114,23 @@
     ],
     "timestamp": "May/29/2024 06:34"
   },
+  "CF263073333": {
+    "contest_id": 241,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/241/C.cpp",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Mirror Box",
+    "problem_url": "https://codeforces.com/contest/241/problem/C",
+    "submission_id": "CF263073333",
+    "submission_url": "https://codeforces.com/contest/241/submission/263073333",
+    "tags": [
+      "geometry",
+      "implementation",
+      "*2000"
+    ],
+    "timestamp": "May/29/2024 06:37"
+  },
   "CF263073339": {
     "contest_id": 1510,
     "language": "C++20 (GCC 13-64)",
