@@ -23393,6 +23393,22 @@
     ],
     "timestamp": "May/17/2024 08:26"
   },
+  "CF263112320": {
+    "contest_id": 1662,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1662/K.cpp",
+    "platform": "Codeforces",
+    "problem_index": "K",
+    "problem_name": "Pandemic Restrictions",
+    "problem_url": "https://codeforces.com/contest/1662/problem/K",
+    "submission_id": "CF263112320",
+    "submission_url": "https://codeforces.com/contest/1662/submission/263112320",
+    "tags": [
+      "geometry",
+      "ternary search"
+    ],
+    "timestamp": "May/29/2024 14:37"
+  },
   "CF263112332": {
     "contest_id": 47,
     "language": "C++20 (GCC 13-64)",
