@@ -27195,6 +27195,27 @@
     "tags": [],
     "timestamp": "May/29/2024 13:37"
   },
+  "CF263107196": {
+    "contest_id": 1957,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1957/F1.cpp",
+    "platform": "Codeforces",
+    "problem_index": "F1",
+    "problem_name": "Frequency Mismatch (Easy Version)",
+    "problem_url": "https://codeforces.com/contest/1957/problem/F1",
+    "submission_id": "CF263107196",
+    "submission_url": "https://codeforces.com/contest/1957/submission/263107196",
+    "tags": [
+      "binary search",
+      "data structures",
+      "divide and conquer",
+      "hashing",
+      "probabilities",
+      "trees",
+      "*2600"
+    ],
+    "timestamp": "May/29/2024 13:56"
+  },
   "CF263107229": {
     "contest_id": 925,
     "language": "C++20 (GCC 13-64)",
