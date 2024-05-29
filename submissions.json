@@ -23393,6 +23393,27 @@
     ],
     "timestamp": "May/17/2024 08:26"
   },
+  "CF263076969": {
+    "contest_id": 1781,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1781/E.cpp",
+    "platform": "Codeforces",
+    "problem_index": "E",
+    "problem_name": "Rectangle Shrinking",
+    "problem_url": "https://codeforces.com/contest/1781/problem/E",
+    "submission_id": "CF263076969",
+    "submission_url": "https://codeforces.com/contest/1781/submission/263076969",
+    "tags": [
+      "binary search",
+      "brute force",
+      "data structures",
+      "greedy",
+      "implementation",
+      "two pointers",
+      "*2300"
+    ],
+    "timestamp": "May/29/2024 08:05"
+  },
   "CF263076979": {
     "contest_id": 121,
     "language": "C++20 (GCC 13-64)",
