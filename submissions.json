@@ -30034,6 +30034,23 @@
     ],
     "timestamp": "May/29/2024 15:36"
   },
+  "CF263121825": {
+    "contest_id": 277,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/277/D.cpp",
+    "platform": "Codeforces",
+    "problem_index": "D",
+    "problem_name": "Google Code Jam",
+    "problem_url": "https://codeforces.com/contest/277/problem/D",
+    "submission_id": "CF263121825",
+    "submission_url": "https://codeforces.com/contest/277/submission/263121825",
+    "tags": [
+      "dp",
+      "probabilities",
+      "*2800"
+    ],
+    "timestamp": "May/29/2024 15:53"
+  },
   "CF263121844": {
     "contest_id": 81,
     "language": "C++20 (GCC 13-64)",
