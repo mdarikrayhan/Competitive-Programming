@@ -23393,6 +23393,23 @@
     ],
     "timestamp": "May/17/2024 08:26"
   },
+  "CF263083473": {
+    "contest_id": 720,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/720/B.cpp",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Cactusophobia",
+    "problem_url": "https://codeforces.com/contest/720/problem/B",
+    "submission_id": "CF263083473",
+    "submission_url": "https://codeforces.com/contest/720/submission/263083473",
+    "tags": [
+      "dfs and similar",
+      "flows",
+      "*2400"
+    ],
+    "timestamp": "May/29/2024 09:58"
+  },
   "CF263083485": {
     "contest_id": 1158,
     "language": "C++20 (GCC 13-64)",
