@@ -27654,6 +27654,24 @@
     ],
     "timestamp": "May/29/2024 15:36"
   },
+  "CF263126025": {
+    "contest_id": 403,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/403/E.cpp",
+    "platform": "Codeforces",
+    "problem_index": "E",
+    "problem_name": "Two Rooted Trees",
+    "problem_url": "https://codeforces.com/contest/403/problem/E",
+    "submission_id": "CF263126025",
+    "submission_url": "https://codeforces.com/contest/403/submission/263126025",
+    "tags": [
+      "data structures",
+      "implementation",
+      "trees",
+      "*2900"
+    ],
+    "timestamp": "May/29/2024 16:29"
+  },
   "CF263126055": {
     "contest_id": 1641,
     "language": "C++20 (GCC 13-64)",
