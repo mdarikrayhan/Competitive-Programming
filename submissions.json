@@ -23393,6 +23393,25 @@
     ],
     "timestamp": "May/17/2024 08:26"
   },
+  "CF263072188": {
+    "contest_id": 319,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/319/D.cpp",
+    "platform": "Codeforces",
+    "problem_index": "D",
+    "problem_name": "Have You Ever Heard About the Word?",
+    "problem_url": "https://codeforces.com/contest/319/problem/D",
+    "submission_id": "CF263072188",
+    "submission_url": "https://codeforces.com/contest/319/submission/263072188",
+    "tags": [
+      "greedy",
+      "hashing",
+      "string suffix structures",
+      "strings",
+      "*2800"
+    ],
+    "timestamp": "May/29/2024 06:03"
+  },
   "CF263072201": {
     "contest_id": 538,
     "language": "C++20 (GCC 13-64)",
