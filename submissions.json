@@ -36733,6 +36733,24 @@
     ],
     "timestamp": "May/29/2024 06:20"
   },
+  "CF263072994": {
+    "contest_id": 1830,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1830/D.cpp",
+    "platform": "Codeforces",
+    "problem_index": "D",
+    "problem_name": "Mex Tree",
+    "problem_url": "https://codeforces.com/contest/1830/problem/D",
+    "submission_id": "CF263072994",
+    "submission_url": "https://codeforces.com/contest/1830/submission/263072994",
+    "tags": [
+      "brute force",
+      "dp",
+      "trees",
+      "*2800"
+    ],
+    "timestamp": "May/29/2024 06:27"
+  },
   "CF263073004": {
     "contest_id": 566,
     "language": "C++20 (GCC 13-64)",
