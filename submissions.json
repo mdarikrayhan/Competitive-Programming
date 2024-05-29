@@ -23497,6 +23497,24 @@
     "tags": [],
     "timestamp": "May/29/2024 18:32"
   },
+  "CF263145510": {
+    "contest_id": 1081,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1081/H.cpp",
+    "platform": "Codeforces",
+    "problem_index": "H",
+    "problem_name": "Palindromic Magic",
+    "problem_url": "https://codeforces.com/contest/1081/problem/H",
+    "submission_id": "CF263145510",
+    "submission_url": "https://codeforces.com/contest/1081/submission/263145510",
+    "tags": [
+      "data structures",
+      "hashing",
+      "strings",
+      "*3500"
+    ],
+    "timestamp": "May/29/2024 19:09"
+  },
   "CF263145580": {
     "contest_id": 109,
     "language": "C++20 (GCC 13-64)",
