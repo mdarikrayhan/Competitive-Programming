@@ -24815,6 +24815,24 @@
     ],
     "timestamp": "May/29/2024 10:33"
   },
+  "CF263098242": {
+    "contest_id": 1730,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1730/F.cpp",
+    "platform": "Codeforces",
+    "problem_index": "F",
+    "problem_name": "Almost Sorted",
+    "problem_url": "https://codeforces.com/contest/1730/problem/F",
+    "submission_id": "CF263098242",
+    "submission_url": "https://codeforces.com/contest/1730/submission/263098242",
+    "tags": [
+      "bitmasks",
+      "data structures",
+      "dp",
+      "*2700"
+    ],
+    "timestamp": "May/29/2024 12:49"
+  },
   "CF263098296": {
     "contest_id": 1120,
     "language": "C++20 (GCC 13-64)",
