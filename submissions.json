@@ -37644,6 +37644,24 @@
     ],
     "timestamp": "May/29/2024 09:39"
   },
+  "CF263082365": {
+    "contest_id": 198,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/198/E.cpp",
+    "platform": "Codeforces",
+    "problem_index": "E",
+    "problem_name": "Gripping Story",
+    "problem_url": "https://codeforces.com/contest/198/problem/E",
+    "submission_id": "CF263082365",
+    "submission_url": "https://codeforces.com/contest/198/submission/263082365",
+    "tags": [
+      "binary search",
+      "data structures",
+      "sortings",
+      "*2400"
+    ],
+    "timestamp": "May/29/2024 09:40"
+  },
   "CF263082405": {
     "contest_id": 83,
     "language": "C++20 (GCC 13-64)",
