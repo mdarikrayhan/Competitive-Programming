@@ -23393,6 +23393,22 @@
     ],
     "timestamp": "May/17/2024 08:26"
   },
+  "CF263151883": {
+    "contest_id": 1930,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1930/I.cpp",
+    "platform": "Codeforces",
+    "problem_index": "I",
+    "problem_name": "Counting Is Fun",
+    "problem_url": "https://codeforces.com/contest/1930/problem/I",
+    "submission_id": "CF263151883",
+    "submission_url": "https://codeforces.com/contest/1930/submission/263151883",
+    "tags": [
+      "combinatorics",
+      "*3500"
+    ],
+    "timestamp": "May/29/2024 19:56"
+  },
   "CF263151925": {
     "contest_id": 1508,
     "language": "C++20 (GCC 13-64)",
