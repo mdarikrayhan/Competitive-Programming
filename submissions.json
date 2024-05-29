@@ -27654,6 +27654,23 @@
     ],
     "timestamp": "May/29/2024 15:36"
   },
+  "CF263126450": {
+    "contest_id": 862,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/862/F.cpp",
+    "platform": "Codeforces",
+    "problem_index": "F",
+    "problem_name": "Mahmoud and Ehab and the final stage",
+    "problem_url": "https://codeforces.com/contest/862/problem/F",
+    "submission_id": "CF263126450",
+    "submission_url": "https://codeforces.com/contest/862/submission/263126450",
+    "tags": [
+      "data structures",
+      "strings",
+      "*2900"
+    ],
+    "timestamp": "May/29/2024 16:33"
+  },
   "CF263126472": {
     "contest_id": 1553,
     "language": "C++20 (GCC 13-64)",
