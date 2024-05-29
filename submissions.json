@@ -27221,6 +27221,24 @@
     ],
     "timestamp": "May/29/2024 06:58"
   },
+  "CF263074039": {
+    "contest_id": 1211,
+    "language": "Kotlin 1.7",
+    "path": "codeforces/1211/E.kt",
+    "platform": "Codeforces",
+    "problem_index": "E",
+    "problem_name": "Double Permutation Inc.",
+    "problem_url": "https://codeforces.com/contest/1211/problem/E",
+    "submission_id": "CF263074039",
+    "submission_url": "https://codeforces.com/contest/1211/submission/263074039",
+    "tags": [
+      "*special problem",
+      "binary search",
+      "greedy",
+      "*2000"
+    ],
+    "timestamp": "May/29/2024 06:58"
+  },
   "CF263074082": {
     "contest_id": 1211,
     "language": "Kotlin 1.7",
