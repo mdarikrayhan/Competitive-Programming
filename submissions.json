@@ -23393,6 +23393,25 @@
     ],
     "timestamp": "May/17/2024 08:26"
   },
+  "CF263118581": {
+    "contest_id": 175,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/175/E.cpp",
+    "platform": "Codeforces",
+    "problem_index": "E",
+    "problem_name": "Power Defence",
+    "problem_url": "https://codeforces.com/contest/175/problem/E",
+    "submission_id": "CF263118581",
+    "submission_url": "https://codeforces.com/contest/175/submission/263118581",
+    "tags": [
+      "brute force",
+      "dp",
+      "geometry",
+      "greedy",
+      "*2600"
+    ],
+    "timestamp": "May/29/2024 15:28"
+  },
   "CF263118592": {
     "contest_id": 1566,
     "language": "C++20 (GCC 13-64)",
