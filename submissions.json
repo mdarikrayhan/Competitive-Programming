@@ -23393,6 +23393,22 @@
     ],
     "timestamp": "May/17/2024 08:26"
   },
+  "CF263115001": {
+    "contest_id": 249,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/249/E.cpp",
+    "platform": "Codeforces",
+    "problem_index": "E",
+    "problem_name": "Endless Matrix",
+    "problem_url": "https://codeforces.com/contest/249/problem/E",
+    "submission_id": "CF263115001",
+    "submission_url": "https://codeforces.com/contest/249/submission/263115001",
+    "tags": [
+      "math",
+      "*2600"
+    ],
+    "timestamp": "May/29/2024 14:59"
+  },
   "CF263115016": {
     "contest_id": 713,
     "language": "C++20 (GCC 13-64)",
