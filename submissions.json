@@ -23393,6 +23393,22 @@
     ],
     "timestamp": "May/17/2024 08:26"
   },
+  "CF263116810": {
+    "contest_id": 1970,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1970/F1.cpp",
+    "platform": "Codeforces",
+    "problem_index": "F1",
+    "problem_name": "Playing Quidditch (Easy)",
+    "problem_url": "https://codeforces.com/contest/1970/problem/F1",
+    "submission_id": "CF263116810",
+    "submission_url": "https://codeforces.com/contest/1970/submission/263116810",
+    "tags": [
+      "implementation",
+      "*2300"
+    ],
+    "timestamp": "May/29/2024 15:14"
+  },
   "CF263116823": {
     "contest_id": 1425,
     "language": "C++20 (GCC 13-64)",
