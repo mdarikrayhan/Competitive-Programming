@@ -35912,6 +35912,23 @@
     ],
     "timestamp": "May/29/2024 15:36"
   },
+  "CF263119654": {
+    "contest_id": 1949,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1949/K.cpp",
+    "platform": "Codeforces",
+    "problem_index": "K",
+    "problem_name": "Make Triangle",
+    "problem_url": "https://codeforces.com/contest/1949/problem/K",
+    "submission_id": "CF263119654",
+    "submission_url": "https://codeforces.com/contest/1949/submission/263119654",
+    "tags": [
+      "constructive algorithms",
+      "math",
+      "*2800"
+    ],
+    "timestamp": "May/29/2024 15:36"
+  },
   "CF263119697": {
     "contest_id": 434,
     "language": "C++20 (GCC 13-64)",
