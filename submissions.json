@@ -23393,6 +23393,21 @@
     ],
     "timestamp": "May/17/2024 08:26"
   },
+  "CF263171623": {
+    "contest_id": 1002,
+    "language": "Q#",
+    "path": "codeforces/1002/E1.qs",
+    "platform": "Codeforces",
+    "problem_index": "E1",
+    "problem_name": "Bernstein-Vazirani algorithm",
+    "problem_url": "https://codeforces.com/contest/1002/problem/E1",
+    "submission_id": "CF263171623",
+    "submission_url": "https://codeforces.com/contest/1002/submission/263171623",
+    "tags": [
+      "*1500"
+    ],
+    "timestamp": "May/29/2024 23:21"
+  },
   "CF263171638": {
     "contest_id": 1002,
     "language": "Q#",
