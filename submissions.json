@@ -23393,6 +23393,26 @@
     ],
     "timestamp": "May/17/2024 08:26"
   },
+  "CF263083039": {
+    "contest_id": 842,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/842/E.cpp",
+    "platform": "Codeforces",
+    "problem_index": "E",
+    "problem_name": "Nikita and game",
+    "problem_url": "https://codeforces.com/contest/842/problem/E",
+    "submission_id": "CF263083039",
+    "submission_url": "https://codeforces.com/contest/842/submission/263083039",
+    "tags": [
+      "binary search",
+      "dfs and similar",
+      "divide and conquer",
+      "graphs",
+      "trees",
+      "*2800"
+    ],
+    "timestamp": "May/29/2024 09:51"
+  },
   "CF263083054": {
     "contest_id": 1924,
     "language": "C++20 (GCC 13-64)",
