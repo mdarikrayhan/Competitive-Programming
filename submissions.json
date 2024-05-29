@@ -24298,6 +24298,24 @@
     ],
     "timestamp": "May/29/2024 08:12"
   },
+  "CF263077871": {
+    "contest_id": 901,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/901/D.cpp",
+    "platform": "Codeforces",
+    "problem_index": "D",
+    "problem_name": "Weighting a Tree",
+    "problem_url": "https://codeforces.com/contest/901/problem/D",
+    "submission_id": "CF263077871",
+    "submission_url": "https://codeforces.com/contest/901/submission/263077871",
+    "tags": [
+      "constructive algorithms",
+      "dfs and similar",
+      "graphs",
+      "*2700"
+    ],
+    "timestamp": "May/29/2024 08:25"
+  },
   "CF263077876": {
     "contest_id": 1528,
     "language": "C++20 (GCC 13-64)",
