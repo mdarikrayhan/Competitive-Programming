@@ -38060,6 +38060,23 @@
     ],
     "timestamp": "May/29/2024 07:10"
   },
+  "CF263075190": {
+    "contest_id": 1505,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1505/G.cpp",
+    "platform": "Codeforces",
+    "problem_index": "G",
+    "problem_name": "Encoded message",
+    "problem_url": "https://codeforces.com/contest/1505/problem/G",
+    "submission_id": "CF263075190",
+    "submission_url": "https://codeforces.com/contest/1505/submission/263075190",
+    "tags": [
+      "*special problem",
+      "implementation",
+      "*2600"
+    ],
+    "timestamp": "May/29/2024 07:24"
+  },
   "CF263075197": {
     "contest_id": 1505,
     "language": "C++20 (GCC 13-64)",
