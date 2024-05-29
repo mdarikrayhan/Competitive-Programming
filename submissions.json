@@ -23393,6 +23393,24 @@
     ],
     "timestamp": "May/17/2024 08:26"
   },
+  "CF263137167": {
+    "contest_id": 1725,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1725/D.cpp",
+    "platform": "Codeforces",
+    "problem_index": "D",
+    "problem_name": "Deducing Sortability",
+    "problem_url": "https://codeforces.com/contest/1725/problem/D",
+    "submission_id": "CF263137167",
+    "submission_url": "https://codeforces.com/contest/1725/submission/263137167",
+    "tags": [
+      "binary search",
+      "bitmasks",
+      "math",
+      "*2900"
+    ],
+    "timestamp": "May/29/2024 18:02"
+  },
   "CF263137189": {
     "contest_id": 744,
     "language": "C++20 (GCC 13-64)",
