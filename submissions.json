@@ -24815,6 +24815,23 @@
     ],
     "timestamp": "May/29/2024 10:33"
   },
+  "CF263098125": {
+    "contest_id": 1458,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1458/E.cpp",
+    "platform": "Codeforces",
+    "problem_index": "E",
+    "problem_name": "Nim Shortcuts",
+    "problem_url": "https://codeforces.com/contest/1458/problem/E",
+    "submission_id": "CF263098125",
+    "submission_url": "https://codeforces.com/contest/1458/submission/263098125",
+    "tags": [
+      "data structures",
+      "games",
+      "*3100"
+    ],
+    "timestamp": "May/29/2024 12:49"
+  },
   "CF263098149": {
     "contest_id": 1327,
     "language": "C++20 (GCC 13-64)",
