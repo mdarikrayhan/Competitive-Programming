@@ -23393,6 +23393,21 @@
     ],
     "timestamp": "May/17/2024 08:26"
   },
+  "CF263171588": {
+    "contest_id": 1002,
+    "language": "Q#",
+    "path": "codeforces/1002/D2.qs",
+    "platform": "Codeforces",
+    "problem_index": "D2",
+    "problem_name": "Oracle for f(x) = b * x + (1 - b) * (1 - x) mod 2",
+    "problem_url": "https://codeforces.com/contest/1002/problem/D2",
+    "submission_id": "CF263171588",
+    "submission_url": "https://codeforces.com/contest/1002/submission/263171588",
+    "tags": [
+      "*1300"
+    ],
+    "timestamp": "May/29/2024 23:20"
+  },
   "CF263171602": {
     "contest_id": 1002,
     "language": "Q#",
