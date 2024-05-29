@@ -23497,6 +23497,24 @@
     "tags": [],
     "timestamp": "May/29/2024 18:32"
   },
+  "CF263144790": {
+    "contest_id": 1381,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1381/E.cpp",
+    "platform": "Codeforces",
+    "problem_index": "E",
+    "problem_name": "Origami",
+    "problem_url": "https://codeforces.com/contest/1381/problem/E",
+    "submission_id": "CF263144790",
+    "submission_url": "https://codeforces.com/contest/1381/submission/263144790",
+    "tags": [
+      "geometry",
+      "math",
+      "sortings",
+      "*3300"
+    ],
+    "timestamp": "May/29/2024 19:03"
+  },
   "CF263144822": {
     "contest_id": 856,
     "language": "C++20 (GCC 13-64)",
