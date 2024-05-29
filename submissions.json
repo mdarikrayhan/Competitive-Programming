@@ -24814,6 +24814,24 @@
     ],
     "timestamp": "May/29/2024 15:36"
   },
+  "CF263129615": {
+    "contest_id": 138,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/138/E.cpp",
+    "platform": "Codeforces",
+    "problem_index": "E",
+    "problem_name": "Hellish Constraints",
+    "problem_url": "https://codeforces.com/contest/138/problem/E",
+    "submission_id": "CF263129615",
+    "submission_url": "https://codeforces.com/contest/138/submission/263129615",
+    "tags": [
+      "brute force",
+      "dp",
+      "two pointers",
+      "*2900"
+    ],
+    "timestamp": "May/29/2024 17:01"
+  },
   "CF263129651": {
     "contest_id": 1007,
     "language": "C++20 (GCC 13-64)",
