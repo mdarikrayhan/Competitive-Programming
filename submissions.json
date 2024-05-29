@@ -39519,6 +39519,22 @@
     ],
     "timestamp": "May/29/2024 08:12"
   },
+  "CF263077337": {
+    "contest_id": 1970,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1970/B2.cpp",
+    "platform": "Codeforces",
+    "problem_index": "B2",
+    "problem_name": "Exact Neighbours (Medium)",
+    "problem_url": "https://codeforces.com/contest/1970/problem/B2",
+    "submission_id": "CF263077337",
+    "submission_url": "https://codeforces.com/contest/1970/submission/263077337",
+    "tags": [
+      "constructive algorithms",
+      "*2100"
+    ],
+    "timestamp": "May/29/2024 08:13"
+  },
   "CF263077347": {
     "contest_id": 1534,
     "language": "C++20 (GCC 13-64)",
