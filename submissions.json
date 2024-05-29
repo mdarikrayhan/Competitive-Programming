@@ -23393,6 +23393,24 @@
     ],
     "timestamp": "May/17/2024 08:26"
   },
+  "CF263072366": {
+    "contest_id": 1854,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1854/D.cpp",
+    "platform": "Codeforces",
+    "problem_index": "D",
+    "problem_name": "Michael and Hotel",
+    "problem_url": "https://codeforces.com/contest/1854/problem/D",
+    "submission_id": "CF263072366",
+    "submission_url": "https://codeforces.com/contest/1854/submission/263072366",
+    "tags": [
+      "binary search",
+      "interactive",
+      "trees",
+      "*3000"
+    ],
+    "timestamp": "May/29/2024 06:09"
+  },
   "CF263072373": {
     "contest_id": 690,
     "language": "C++20 (GCC 13-64)",
