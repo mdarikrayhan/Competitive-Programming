@@ -23393,6 +23393,23 @@
     ],
     "timestamp": "May/17/2024 08:26"
   },
+  "CF263148253": {
+    "contest_id": 1446,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1446/E.cpp",
+    "platform": "Codeforces",
+    "problem_index": "E",
+    "problem_name": "Long Recovery",
+    "problem_url": "https://codeforces.com/contest/1446/problem/E",
+    "submission_id": "CF263148253",
+    "submission_url": "https://codeforces.com/contest/1446/submission/263148253",
+    "tags": [
+      "constructive algorithms",
+      "dfs and similar",
+      "*3500"
+    ],
+    "timestamp": "May/29/2024 19:29"
+  },
   "CF263148258": {
     "contest_id": 578,
     "language": "C++20 (GCC 13-64)",
