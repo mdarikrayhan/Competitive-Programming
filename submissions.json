@@ -23393,6 +23393,22 @@
     ],
     "timestamp": "May/17/2024 08:26"
   },
+  "CF263113015": {
+    "contest_id": 832,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/832/E.cpp",
+    "platform": "Codeforces",
+    "problem_index": "E",
+    "problem_name": "Vasya and Shifts",
+    "problem_url": "https://codeforces.com/contest/832/problem/E",
+    "submission_id": "CF263113015",
+    "submission_url": "https://codeforces.com/contest/832/submission/263113015",
+    "tags": [
+      "matrices",
+      "*2600"
+    ],
+    "timestamp": "May/29/2024 14:43"
+  },
   "CF263113087": {
     "contest_id": 838,
     "language": "C++20 (GCC 13-64)",
