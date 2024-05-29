@@ -23393,6 +23393,23 @@
     ],
     "timestamp": "May/17/2024 08:26"
   },
+  "CF263116784": {
+    "contest_id": 220,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/220/D.cpp",
+    "platform": "Codeforces",
+    "problem_index": "D",
+    "problem_name": "Little Elephant and Triangle",
+    "problem_url": "https://codeforces.com/contest/220/problem/D",
+    "submission_id": "CF263116784",
+    "submission_url": "https://codeforces.com/contest/220/submission/263116784",
+    "tags": [
+      "geometry",
+      "math",
+      "*2500"
+    ],
+    "timestamp": "May/29/2024 15:14"
+  },
   "CF263116791": {
     "contest_id": 1826,
     "language": "C++20 (GCC 13-64)",
