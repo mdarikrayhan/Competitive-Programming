@@ -33196,6 +33196,25 @@
     ],
     "timestamp": "May/29/2024 07:46"
   },
+  "CF263076086": {
+    "contest_id": 1140,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1140/G.cpp",
+    "platform": "Codeforces",
+    "problem_index": "G",
+    "problem_name": "Double Tree",
+    "problem_url": "https://codeforces.com/contest/1140/problem/G",
+    "submission_id": "CF263076086",
+    "submission_url": "https://codeforces.com/contest/1140/submission/263076086",
+    "tags": [
+      "data structures",
+      "divide and conquer",
+      "shortest paths",
+      "trees",
+      "*2700"
+    ],
+    "timestamp": "May/29/2024 07:47"
+  },
   "CF263076140": {
     "contest_id": 359,
     "language": "C++20 (GCC 13-64)",
