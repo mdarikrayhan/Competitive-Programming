@@ -35066,6 +35066,24 @@
     ],
     "timestamp": "May/29/2024 08:32"
   },
+  "CF263079672": {
+    "contest_id": 100,
+    "language": "Pike",
+    "path": "codeforces/100/G.pike",
+    "platform": "Codeforces",
+    "problem_index": "G",
+    "problem_name": "Name the album",
+    "problem_url": "https://codeforces.com/contest/100/problem/G",
+    "submission_id": "CF263079672",
+    "submission_url": "https://codeforces.com/contest/100/submission/263079672",
+    "tags": [
+      "*special problem",
+      "data structures",
+      "implementation",
+      "*1800"
+    ],
+    "timestamp": "May/29/2024 08:57"
+  },
   "CF263079688": {
     "contest_id": 100,
     "language": "Pike",
