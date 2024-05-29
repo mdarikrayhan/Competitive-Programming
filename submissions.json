@@ -23393,6 +23393,24 @@
     ],
     "timestamp": "May/17/2024 08:26"
   },
+  "CF263130681": {
+    "contest_id": 1575,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1575/C.cpp",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Cyclic Sum",
+    "problem_url": "https://codeforces.com/contest/1575/problem/C",
+    "submission_id": "CF263130681",
+    "submission_url": "https://codeforces.com/contest/1575/submission/263130681",
+    "tags": [
+      "data structures",
+      "fft",
+      "number theory",
+      "*3000"
+    ],
+    "timestamp": "May/29/2024 17:10"
+  },
   "CF263130714": {
     "contest_id": 1874,
     "language": "C++20 (GCC 13-64)",
