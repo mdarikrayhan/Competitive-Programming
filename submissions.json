@@ -23393,6 +23393,23 @@
     ],
     "timestamp": "May/17/2024 08:26"
   },
+  "CF263113256": {
+    "contest_id": 838,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/838/C.cpp",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Future Failure",
+    "problem_url": "https://codeforces.com/contest/838/problem/C",
+    "submission_id": "CF263113256",
+    "submission_url": "https://codeforces.com/contest/838/submission/263113256",
+    "tags": [
+      "dp",
+      "games",
+      "*2800"
+    ],
+    "timestamp": "May/29/2024 14:45"
+  },
   "CF263113322": {
     "contest_id": 838,
     "language": "C++20 (GCC 13-64)",
