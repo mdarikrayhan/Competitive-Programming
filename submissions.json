@@ -27114,6 +27114,24 @@
     ],
     "timestamp": "May/29/2024 06:34"
   },
+  "CF263073764": {
+    "contest_id": 1346,
+    "language": "Kotlin 1.7",
+    "path": "codeforces/1346/D.kt",
+    "platform": "Codeforces",
+    "problem_index": "D",
+    "problem_name": "Constructing the Dungeon",
+    "problem_url": "https://codeforces.com/contest/1346/problem/D",
+    "submission_id": "CF263073764",
+    "submission_url": "https://codeforces.com/contest/1346/submission/263073764",
+    "tags": [
+      "*special problem",
+      "graphs",
+      "greedy",
+      "*1600"
+    ],
+    "timestamp": "May/29/2024 06:50"
+  },
   "CF263073773": {
     "contest_id": 1346,
     "language": "Kotlin 1.7",
