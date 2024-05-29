@@ -30034,6 +30034,22 @@
     ],
     "timestamp": "May/29/2024 15:36"
   },
+  "CF263122564": {
+    "contest_id": 819,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/819/D.cpp",
+    "platform": "Codeforces",
+    "problem_index": "D",
+    "problem_name": "Mister B and Astronomers",
+    "problem_url": "https://codeforces.com/contest/819/problem/D",
+    "submission_id": "CF263122564",
+    "submission_url": "https://codeforces.com/contest/819/submission/263122564",
+    "tags": [
+      "number theory",
+      "*2900"
+    ],
+    "timestamp": "May/29/2024 16:00"
+  },
   "CF263122641": {
     "contest_id": 1223,
     "language": "C++20 (GCC 13-64)",
