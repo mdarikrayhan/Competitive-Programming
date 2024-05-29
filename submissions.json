@@ -24298,6 +24298,24 @@
     ],
     "timestamp": "May/29/2024 08:12"
   },
+  "CF263077845": {
+    "contest_id": 906,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/906/E.cpp",
+    "platform": "Codeforces",
+    "problem_index": "E",
+    "problem_name": "Reverses",
+    "problem_url": "https://codeforces.com/contest/906/problem/E",
+    "submission_id": "CF263077845",
+    "submission_url": "https://codeforces.com/contest/906/submission/263077845",
+    "tags": [
+      "dp",
+      "string suffix structures",
+      "strings",
+      "*3300"
+    ],
+    "timestamp": "May/29/2024 08:24"
+  },
   "CF263077852": {
     "contest_id": 1118,
     "language": "C++20 (GCC 13-64)",
