@@ -38716,6 +38716,24 @@
     ],
     "timestamp": "May/29/2024 14:00"
   },
+  "CF263109375": {
+    "contest_id": 436,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/436/F.cpp",
+    "platform": "Codeforces",
+    "problem_index": "F",
+    "problem_name": "Banners",
+    "problem_url": "https://codeforces.com/contest/436/problem/F",
+    "submission_id": "CF263109375",
+    "submission_url": "https://codeforces.com/contest/436/submission/263109375",
+    "tags": [
+      "brute force",
+      "data structures",
+      "dp",
+      "*3000"
+    ],
+    "timestamp": "May/29/2024 14:13"
+  },
   "CF263109417": {
     "contest_id": 1033,
     "language": "C++20 (GCC 13-64)",
