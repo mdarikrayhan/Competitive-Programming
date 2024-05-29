@@ -40438,6 +40438,29 @@
     ],
     "timestamp": "May/29/2024 08:32"
   },
+  "CF263078406": {
+    "contest_id": 1299,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1299/D.cpp",
+    "platform": "Codeforces",
+    "problem_index": "D",
+    "problem_name": "Around the World",
+    "problem_url": "https://codeforces.com/contest/1299/problem/D",
+    "submission_id": "CF263078406",
+    "submission_url": "https://codeforces.com/contest/1299/submission/263078406",
+    "tags": [
+      "bitmasks",
+      "combinatorics",
+      "dfs and similar",
+      "dp",
+      "graphs",
+      "graphs",
+      "math",
+      "trees",
+      "*3000"
+    ],
+    "timestamp": "May/29/2024 08:35"
+  },
   "CF263078426": {
     "contest_id": 297,
     "language": "C++20 (GCC 13-64)",
