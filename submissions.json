@@ -27114,6 +27114,24 @@
     ],
     "timestamp": "May/29/2024 06:34"
   },
+  "CF263073384": {
+    "contest_id": 698,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/698/D.cpp",
+    "platform": "Codeforces",
+    "problem_index": "D",
+    "problem_name": "Limak and Shooting Points",
+    "problem_url": "https://codeforces.com/contest/698/problem/D",
+    "submission_id": "CF263073384",
+    "submission_url": "https://codeforces.com/contest/698/submission/263073384",
+    "tags": [
+      "brute force",
+      "geometry",
+      "math",
+      "*2600"
+    ],
+    "timestamp": "May/29/2024 06:39"
+  },
   "CF263073393": {
     "contest_id": 1371,
     "language": "C++20 (GCC 13-64)",
