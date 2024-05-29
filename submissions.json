@@ -33073,6 +33073,25 @@
     ],
     "timestamp": "May/29/2024 14:00"
   },
+  "CF263110307": {
+    "contest_id": 1067,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1067/D.cpp",
+    "platform": "Codeforces",
+    "problem_index": "D",
+    "problem_name": "Computer Game",
+    "problem_url": "https://codeforces.com/contest/1067/problem/D",
+    "submission_id": "CF263110307",
+    "submission_url": "https://codeforces.com/contest/1067/submission/263110307",
+    "tags": [
+      "dp",
+      "greedy",
+      "math",
+      "probabilities",
+      "*3100"
+    ],
+    "timestamp": "May/29/2024 14:20"
+  },
   "CF263110329": {
     "contest_id": 1396,
     "language": "C++20 (GCC 13-64)",
