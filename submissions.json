@@ -36948,6 +36948,24 @@
     ],
     "timestamp": "May/29/2024 06:34"
   },
+  "CF263073268": {
+    "contest_id": 912,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/912/C.cpp",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Perun, Ult!",
+    "problem_url": "https://codeforces.com/contest/912/problem/C",
+    "submission_id": "CF263073268",
+    "submission_url": "https://codeforces.com/contest/912/submission/263073268",
+    "tags": [
+      "brute force",
+      "greedy",
+      "sortings",
+      "*2500"
+    ],
+    "timestamp": "May/29/2024 06:35"
+  },
   "CF263073310": {
     "contest_id": 1085,
     "language": "C++20 (GCC 13-64)",
