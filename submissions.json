@@ -23393,6 +23393,26 @@
     ],
     "timestamp": "May/17/2024 08:26"
   },
+  "CF263131450": {
+    "contest_id": 981,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/981/H.cpp",
+    "platform": "Codeforces",
+    "problem_index": "H",
+    "problem_name": "K Paths",
+    "problem_url": "https://codeforces.com/contest/981/problem/H",
+    "submission_id": "CF263131450",
+    "submission_url": "https://codeforces.com/contest/981/submission/263131450",
+    "tags": [
+      "combinatorics",
+      "data structures",
+      "dp",
+      "fft",
+      "math",
+      "*3100"
+    ],
+    "timestamp": "May/29/2024 17:16"
+  },
   "CF263131455": {
     "contest_id": 1906,
     "language": "C++20 (GCC 13-64)",
