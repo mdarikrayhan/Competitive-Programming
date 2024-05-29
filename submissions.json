@@ -27654,6 +27654,22 @@
     ],
     "timestamp": "May/29/2024 15:36"
   },
+  "CF263125967": {
+    "contest_id": 1584,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1584/G.cpp",
+    "platform": "Codeforces",
+    "problem_index": "G",
+    "problem_name": "Eligible Segments",
+    "problem_url": "https://codeforces.com/contest/1584/problem/G",
+    "submission_id": "CF263125967",
+    "submission_url": "https://codeforces.com/contest/1584/submission/263125967",
+    "tags": [
+      "geometry",
+      "*3200"
+    ],
+    "timestamp": "May/29/2024 16:29"
+  },
   "CF263126025": {
     "contest_id": 403,
     "language": "C++20 (GCC 13-64)",
