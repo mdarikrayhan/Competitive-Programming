@@ -23393,6 +23393,23 @@
     ],
     "timestamp": "May/17/2024 08:26"
   },
+  "CF263076362": {
+    "contest_id": 1663,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1663/G.cpp",
+    "platform": "Codeforces",
+    "problem_index": "G",
+    "problem_name": "Six Characters",
+    "problem_url": "https://codeforces.com/contest/1663/problem/G",
+    "submission_id": "CF263076362",
+    "submission_url": "https://codeforces.com/contest/1663/submission/263076362",
+    "tags": [
+      "*special problem",
+      "constructive algorithms",
+      "strings"
+    ],
+    "timestamp": "May/29/2024 07:53"
+  },
   "CF263076376": {
     "contest_id": 623,
     "language": "C++20 (GCC 13-64)",
