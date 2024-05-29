@@ -30034,6 +30034,22 @@
     ],
     "timestamp": "May/29/2024 15:36"
   },
+  "CF263123729": {
+    "contest_id": 1010,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1010/E.cpp",
+    "platform": "Codeforces",
+    "problem_index": "E",
+    "problem_name": "Store",
+    "problem_url": "https://codeforces.com/contest/1010/problem/E",
+    "submission_id": "CF263123729",
+    "submission_url": "https://codeforces.com/contest/1010/submission/263123729",
+    "tags": [
+      "data structures",
+      "*2700"
+    ],
+    "timestamp": "May/29/2024 16:10"
+  },
   "CF263123746": {
     "contest_id": 309,
     "language": "C++20 (GCC 13-64)",
