@@ -1,0 +1,2 @@
+#include<bits/stdc++.h>
+using namespace std;const int N=1e5+5;bitset<N>b[65];int n,m,q[65],ans[N];long long a[N],s;int main(){scanf("%d",&n);for(int i=1;i<=n;++i){scanf("%lld",a+i);s^=a[i];}for(int j=0;j<2;++j){for(int k=63;k>=0;--k){if((s>>k&1)==j){for(int i=1;i<=n;++i)b[m][i]=a[i]>>k&1;b[m][0]=j^1;for(int i=0;i<m;++i)if(b[m][q[i]])b[m]^=b[i];q[m]=n+1;for(int i=1;i<=n;++i)if(b[m][i]){q[m]=i;break;}if(q[m]>n)continue;for(int i=0;i<m;++i)if(b[i][q[m]])b[i]^=b[m];++m;}}}for(int i=0;i<m;++i)ans[q[i]]=b[i][0];for(int i=1;i<=n;++i)printf("%d ",2-ans[i]);}
