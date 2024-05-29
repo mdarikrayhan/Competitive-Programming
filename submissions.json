@@ -23393,6 +23393,23 @@
     ],
     "timestamp": "May/17/2024 08:26"
   },
+  "CF263085350": {
+    "contest_id": 461,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/461/D.cpp",
+    "platform": "Codeforces",
+    "problem_index": "D",
+    "problem_name": "Appleman and Complicated Task",
+    "problem_url": "https://codeforces.com/contest/461/problem/D",
+    "submission_id": "CF263085350",
+    "submission_url": "https://codeforces.com/contest/461/submission/263085350",
+    "tags": [
+      "dsu",
+      "math",
+      "*2800"
+    ],
+    "timestamp": "May/29/2024 10:28"
+  },
   "CF263085384": {
     "contest_id": 461,
     "language": "C++20 (GCC 13-64)",
