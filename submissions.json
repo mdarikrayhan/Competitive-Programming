@@ -23393,6 +23393,24 @@
     ],
     "timestamp": "May/17/2024 08:26"
   },
+  "CF263114991": {
+    "contest_id": 1439,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1439/D.cpp",
+    "platform": "Codeforces",
+    "problem_index": "D",
+    "problem_name": "INOI Final Contests",
+    "problem_url": "https://codeforces.com/contest/1439/problem/D",
+    "submission_id": "CF263114991",
+    "submission_url": "https://codeforces.com/contest/1439/submission/263114991",
+    "tags": [
+      "combinatorics",
+      "dp",
+      "fft",
+      "*3100"
+    ],
+    "timestamp": "May/29/2024 14:59"
+  },
   "CF263115001": {
     "contest_id": 249,
     "language": "C++20 (GCC 13-64)",
