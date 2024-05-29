@@ -23393,6 +23393,23 @@
     ],
     "timestamp": "May/17/2024 08:26"
   },
+  "CF263085212": {
+    "contest_id": 1575,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1575/B.cpp",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Building an Amusement Park",
+    "problem_url": "https://codeforces.com/contest/1575/problem/B",
+    "submission_id": "CF263085212",
+    "submission_url": "https://codeforces.com/contest/1575/submission/263085212",
+    "tags": [
+      "binary search",
+      "geometry",
+      "*2300"
+    ],
+    "timestamp": "May/29/2024 10:25"
+  },
   "CF263085243": {
     "contest_id": 1039,
     "language": "C++20 (GCC 13-64)",
