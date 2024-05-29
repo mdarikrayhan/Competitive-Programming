@@ -30034,6 +30034,27 @@
     ],
     "timestamp": "May/29/2024 15:36"
   },
+  "CF263121844": {
+    "contest_id": 81,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/81/E.cpp",
+    "platform": "Codeforces",
+    "problem_index": "E",
+    "problem_name": "Pairs",
+    "problem_url": "https://codeforces.com/contest/81/problem/E",
+    "submission_id": "CF263121844",
+    "submission_url": "https://codeforces.com/contest/81/submission/263121844",
+    "tags": [
+      "dfs and similar",
+      "dp",
+      "dsu",
+      "graphs",
+      "implementation",
+      "trees",
+      "*2700"
+    ],
+    "timestamp": "May/29/2024 15:53"
+  },
   "CF263121870": {
     "contest_id": 36,
     "language": "C++20 (GCC 13-64)",
