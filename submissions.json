@@ -40438,6 +40438,23 @@
     ],
     "timestamp": "May/29/2024 08:32"
   },
+  "CF263078753": {
+    "contest_id": 1834,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1834/F.cpp",
+    "platform": "Codeforces",
+    "problem_index": "F",
+    "problem_name": "Typewriter",
+    "problem_url": "https://codeforces.com/contest/1834/problem/F",
+    "submission_id": "CF263078753",
+    "submission_url": "https://codeforces.com/contest/1834/submission/263078753",
+    "tags": [
+      "brute force",
+      "math",
+      "*2500"
+    ],
+    "timestamp": "May/29/2024 08:41"
+  },
   "CF263078765": {
     "contest_id": 1286,
     "language": "C++20 (GCC 13-64)",
