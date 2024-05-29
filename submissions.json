@@ -38716,6 +38716,23 @@
     ],
     "timestamp": "May/29/2024 14:00"
   },
+  "CF263109199": {
+    "contest_id": 1725,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1725/J.cpp",
+    "platform": "Codeforces",
+    "problem_index": "J",
+    "problem_name": "Journey",
+    "problem_url": "https://codeforces.com/contest/1725/problem/J",
+    "submission_id": "CF263109199",
+    "submission_url": "https://codeforces.com/contest/1725/submission/263109199",
+    "tags": [
+      "dp",
+      "trees",
+      "*2500"
+    ],
+    "timestamp": "May/29/2024 14:11"
+  },
   "CF263109222": {
     "contest_id": 1487,
     "language": "C++20 (GCC 13-64)",
