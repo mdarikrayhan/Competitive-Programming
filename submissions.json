@@ -24815,6 +24815,23 @@
     ],
     "timestamp": "May/29/2024 10:33"
   },
+  "CF263088360": {
+    "contest_id": 1764,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1764/G3.cpp",
+    "platform": "Codeforces",
+    "problem_index": "G3",
+    "problem_name": "Doremy's Perfect DS Class (Hard Version)",
+    "problem_url": "https://codeforces.com/contest/1764/problem/G3",
+    "submission_id": "CF263088360",
+    "submission_url": "https://codeforces.com/contest/1764/submission/263088360",
+    "tags": [
+      "binary search",
+      "interactive",
+      "*3300"
+    ],
+    "timestamp": "May/29/2024 11:11"
+  },
   "CF263088376": {
     "contest_id": 1600,
     "language": "C++20 (GCC 13-64)",
