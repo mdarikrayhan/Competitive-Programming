@@ -23393,6 +23393,24 @@
     ],
     "timestamp": "May/17/2024 08:26"
   },
+  "CF263083336": {
+    "contest_id": 183,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/183/D.cpp",
+    "platform": "Codeforces",
+    "problem_index": "D",
+    "problem_name": "T-shirt",
+    "problem_url": "https://codeforces.com/contest/183/problem/D",
+    "submission_id": "CF263083336",
+    "submission_url": "https://codeforces.com/contest/183/submission/263083336",
+    "tags": [
+      "dp",
+      "greedy",
+      "probabilities",
+      "*2700"
+    ],
+    "timestamp": "May/29/2024 09:56"
+  },
   "CF263083355": {
     "contest_id": 204,
     "language": "C++20 (GCC 13-64)",
