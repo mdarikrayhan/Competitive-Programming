@@ -23393,6 +23393,24 @@
     ],
     "timestamp": "May/17/2024 08:26"
   },
+  "CF263136842": {
+    "contest_id": 1237,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1237/G.cpp",
+    "platform": "Codeforces",
+    "problem_index": "G",
+    "problem_name": "Balanced Distribution",
+    "problem_url": "https://codeforces.com/contest/1237/problem/G",
+    "submission_id": "CF263136842",
+    "submission_url": "https://codeforces.com/contest/1237/submission/263136842",
+    "tags": [
+      "data structures",
+      "dp",
+      "greedy",
+      "*3500"
+    ],
+    "timestamp": "May/29/2024 17:59"
+  },
   "CF263136871": {
     "contest_id": 1089,
     "language": "C++20 (GCC 13-64)",
