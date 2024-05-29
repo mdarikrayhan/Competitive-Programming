@@ -23393,6 +23393,21 @@
     ],
     "timestamp": "May/17/2024 08:26"
   },
+  "CF263158561": {
+    "contest_id": 1423,
+    "language": "C++17 (GCC 7-32)",
+    "path": "codeforces/1423/N.cpp",
+    "platform": "Codeforces",
+    "problem_index": "N",
+    "problem_name": "BubbleSquare Tokens",
+    "problem_url": "https://codeforces.com/contest/1423/problem/N",
+    "submission_id": "CF263158561",
+    "submission_url": "https://codeforces.com/contest/1423/submission/263158561",
+    "tags": [
+      "*3500"
+    ],
+    "timestamp": "May/29/2024 20:51"
+  },
   "CF263158584": {
     "contest_id": 1423,
     "language": "C++17 (GCC 7-32)",
