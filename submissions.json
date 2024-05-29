@@ -23393,6 +23393,25 @@
     ],
     "timestamp": "May/17/2024 08:26"
   },
+  "CF263072573": {
+    "contest_id": 896,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/896/D.cpp",
+    "platform": "Codeforces",
+    "problem_index": "D",
+    "problem_name": "Nephren Runs a Cinema",
+    "problem_url": "https://codeforces.com/contest/896/problem/D",
+    "submission_id": "CF263072573",
+    "submission_url": "https://codeforces.com/contest/896/submission/263072573",
+    "tags": [
+      "chinese remainder theorem",
+      "combinatorics",
+      "math",
+      "number theory",
+      "*2900"
+    ],
+    "timestamp": "May/29/2024 06:14"
+  },
   "CF263073013": {
     "contest_id": 183,
     "language": "C++20 (GCC 13-64)",
