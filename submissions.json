@@ -23393,6 +23393,25 @@
     ],
     "timestamp": "May/17/2024 08:26"
   },
+  "CF263082856": {
+    "contest_id": 1368,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1368/G.cpp",
+    "platform": "Codeforces",
+    "problem_index": "G",
+    "problem_name": "Shifting Dominoes",
+    "problem_url": "https://codeforces.com/contest/1368/problem/G",
+    "submission_id": "CF263082856",
+    "submission_url": "https://codeforces.com/contest/1368/submission/263082856",
+    "tags": [
+      "data structures",
+      "geometry",
+      "graphs",
+      "trees",
+      "*3200"
+    ],
+    "timestamp": "May/29/2024 09:48"
+  },
   "CF263082892": {
     "contest_id": 434,
     "language": "C++20 (GCC 13-64)",
