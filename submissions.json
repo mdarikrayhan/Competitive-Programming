@@ -23393,6 +23393,23 @@
     ],
     "timestamp": "May/17/2024 08:26"
   },
+  "CF263084340": {
+    "contest_id": 185,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/185/D.cpp",
+    "platform": "Codeforces",
+    "problem_index": "D",
+    "problem_name": "Visit of the Great",
+    "problem_url": "https://codeforces.com/contest/185/problem/D",
+    "submission_id": "CF263084340",
+    "submission_url": "https://codeforces.com/contest/185/submission/263084340",
+    "tags": [
+      "math",
+      "number theory",
+      "*2600"
+    ],
+    "timestamp": "May/29/2024 10:12"
+  },
   "CF263084378": {
     "contest_id": 1393,
     "language": "C++20 (GCC 13-64)",
