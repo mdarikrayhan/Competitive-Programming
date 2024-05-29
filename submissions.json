@@ -24814,6 +24814,28 @@
     ],
     "timestamp": "May/29/2024 15:36"
   },
+  "CF263129404": {
+    "contest_id": 1740,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1740/I.cpp",
+    "platform": "Codeforces",
+    "problem_index": "I",
+    "problem_name": "Arranging Crystal Balls",
+    "problem_url": "https://codeforces.com/contest/1740/problem/I",
+    "submission_id": "CF263129404",
+    "submission_url": "https://codeforces.com/contest/1740/submission/263129404",
+    "tags": [
+      "data structures",
+      "divide and conquer",
+      "divide and conquer",
+      "dp",
+      "geometry",
+      "graphs",
+      "number theory",
+      "*3500"
+    ],
+    "timestamp": "May/29/2024 16:59"
+  },
   "CF263129463": {
     "contest_id": 1882,
     "language": "C++20 (GCC 13-64)",
