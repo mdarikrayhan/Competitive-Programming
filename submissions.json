@@ -23393,6 +23393,23 @@
     ],
     "timestamp": "May/17/2024 08:26"
   },
+  "CF263117391": {
+    "contest_id": 45,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/45/B.cpp",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "School",
+    "problem_url": "https://codeforces.com/contest/45/problem/B",
+    "submission_id": "CF263117391",
+    "submission_url": "https://codeforces.com/contest/45/submission/263117391",
+    "tags": [
+      "dp",
+      "dsu",
+      "*2200"
+    ],
+    "timestamp": "May/29/2024 15:19"
+  },
   "CF263117417": {
     "contest_id": 1797,
     "language": "C++20 (GCC 13-64)",
