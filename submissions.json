@@ -24298,6 +24298,22 @@
     ],
     "timestamp": "May/29/2024 08:12"
   },
+  "CF263077367": {
+    "contest_id": 354,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/354/D.cpp",
+    "platform": "Codeforces",
+    "problem_index": "D",
+    "problem_name": "Transferring Pyramid",
+    "problem_url": "https://codeforces.com/contest/354/problem/D",
+    "submission_id": "CF263077367",
+    "submission_url": "https://codeforces.com/contest/354/submission/263077367",
+    "tags": [
+      "dp",
+      "*2900"
+    ],
+    "timestamp": "May/29/2024 08:14"
+  },
   "CF263077369": {
     "contest_id": 626,
     "language": "C++20 (GCC 13-64)",
