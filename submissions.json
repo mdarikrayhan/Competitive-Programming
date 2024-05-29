@@ -23393,6 +23393,23 @@
     ],
     "timestamp": "May/17/2024 08:26"
   },
+  "CF263138822": {
+    "contest_id": 774,
+    "language": "C# 8",
+    "path": "codeforces/774/G.cs",
+    "platform": "Codeforces",
+    "problem_index": "G",
+    "problem_name": "Perfectionist Arkadiy",
+    "problem_url": "https://codeforces.com/contest/774/problem/G",
+    "submission_id": "CF263138822",
+    "submission_url": "https://codeforces.com/contest/774/submission/263138822",
+    "tags": [
+      "*special problem",
+      "number theory",
+      "*2700"
+    ],
+    "timestamp": "May/29/2024 18:15"
+  },
   "CF263138940": {
     "contest_id": 774,
     "language": "PHP",
