@@ -23393,6 +23393,25 @@
     ],
     "timestamp": "May/17/2024 08:26"
   },
+  "CF263137931": {
+    "contest_id": 774,
+    "language": "Haskell",
+    "path": "codeforces/774/B.hs",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Significant Cups",
+    "problem_url": "https://codeforces.com/contest/774/problem/B",
+    "submission_id": "CF263137931",
+    "submission_url": "https://codeforces.com/contest/774/submission/263137931",
+    "tags": [
+      "*special problem",
+      "binary search",
+      "data structures",
+      "two pointers",
+      "*2100"
+    ],
+    "timestamp": "May/29/2024 18:08"
+  },
   "CF263138389": {
     "contest_id": 774,
     "language": "Kotlin 1.7",
