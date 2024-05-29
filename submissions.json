@@ -24298,6 +24298,25 @@
     ],
     "timestamp": "May/29/2024 08:12"
   },
+  "CF263078224": {
+    "contest_id": 193,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/193/C.cpp",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Hamming Distance",
+    "problem_url": "https://codeforces.com/contest/193/problem/C",
+    "submission_id": "CF263078224",
+    "submission_url": "https://codeforces.com/contest/193/submission/263078224",
+    "tags": [
+      "constructive algorithms",
+      "greedy",
+      "math",
+      "matrices",
+      "*2400"
+    ],
+    "timestamp": "May/29/2024 08:32"
+  },
   "CF263078238": {
     "contest_id": 1067,
     "language": "C++20 (GCC 13-64)",
