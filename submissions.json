@@ -24814,6 +24814,26 @@
     ],
     "timestamp": "May/29/2024 15:36"
   },
+  "CF263130403": {
+    "contest_id": 1492,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1492/E.cpp",
+    "platform": "Codeforces",
+    "problem_index": "E",
+    "problem_name": "Almost Fault-Tolerant Database",
+    "problem_url": "https://codeforces.com/contest/1492/problem/E",
+    "submission_id": "CF263130403",
+    "submission_url": "https://codeforces.com/contest/1492/submission/263130403",
+    "tags": [
+      "brute force",
+      "constructive algorithms",
+      "dfs and similar",
+      "greedy",
+      "implementation",
+      "*2500"
+    ],
+    "timestamp": "May/29/2024 17:07"
+  },
   "CF263130414": {
     "contest_id": 1852,
     "language": "C++20 (GCC 13-64)",
