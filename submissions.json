@@ -27114,6 +27114,26 @@
     ],
     "timestamp": "May/29/2024 06:34"
   },
+  "CF263073682": {
+    "contest_id": 254,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/254/D.cpp",
+    "platform": "Codeforces",
+    "problem_index": "D",
+    "problem_name": "Rats",
+    "problem_url": "https://codeforces.com/contest/254/problem/D",
+    "submission_id": "CF263073682",
+    "submission_url": "https://codeforces.com/contest/254/submission/263073682",
+    "tags": [
+      "brute force",
+      "dfs and similar",
+      "graphs",
+      "implementation",
+      "shortest paths",
+      "*2300"
+    ],
+    "timestamp": "May/29/2024 06:48"
+  },
   "CF263073695": {
     "contest_id": 89,
     "language": "C++20 (GCC 13-64)",
