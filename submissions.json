@@ -23393,6 +23393,23 @@
     ],
     "timestamp": "May/17/2024 08:26"
   },
+  "CF263072453": {
+    "contest_id": 1424,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1424/M.cpp",
+    "platform": "Codeforces",
+    "problem_index": "M",
+    "problem_name": "Ancient Language",
+    "problem_url": "https://codeforces.com/contest/1424/problem/M",
+    "submission_id": "CF263072453",
+    "submission_url": "https://codeforces.com/contest/1424/submission/263072453",
+    "tags": [
+      "graphs",
+      "sortings",
+      "*2200"
+    ],
+    "timestamp": "May/29/2024 06:11"
+  },
   "CF263072462": {
     "contest_id": 524,
     "language": "C++20 (GCC 13-64)",
