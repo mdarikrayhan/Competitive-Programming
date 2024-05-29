@@ -23393,6 +23393,23 @@
     ],
     "timestamp": "May/17/2024 08:26"
   },
+  "CF263116823": {
+    "contest_id": 1425,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1425/B.cpp",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Blue and Red of Our Faculty!",
+    "problem_url": "https://codeforces.com/contest/1425/problem/B",
+    "submission_id": "CF263116823",
+    "submission_url": "https://codeforces.com/contest/1425/submission/263116823",
+    "tags": [
+      "divide and conquer",
+      "dp",
+      "*2600"
+    ],
+    "timestamp": "May/29/2024 15:14"
+  },
   "CF263116835": {
     "contest_id": 1923,
     "language": "C++20 (GCC 13-64)",
