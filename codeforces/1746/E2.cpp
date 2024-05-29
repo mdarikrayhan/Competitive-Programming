@@ -1,51 +1,54 @@
+// LUOGU_RID: 160202203
 #include<bits/stdc++.h>
+#define LL long long
+#define LLL __int128
+#define uint unsigned
+#define ldb long double
+#define uLL unsigned long long
 using namespace std;
-vector<int>sbstr(vector<int>v,int s,int sz){
-	vector<int>ret;
-	for(int i=s;i<s+sz;i++) ret.push_back(v[i]);
-	return ret;
+const int N=1e5+5,INF=1e9;
+map<pair<int,int>,int>F;
+map<pair<int,int>,pair<int,int>>G;
+inline int solveF(int n,int m){
+    if(n+m<3)return 0;
+    if(F.count({n,m}))return F[{n,m}];
+    int ans=INF,sx=-1,sy=-1;
+    for(int x=max(0,n/2-3);x<=min(n,n/2+3);++x)
+        for(int y=max(0,m/2-3);y<=min(m,m/2+3);++y){
+            if(y==m&&n-x<=m)continue;
+            if(y==0&&x<=m)continue;
+            const int t=max(solveF(x+y,n-x),solveF(n+m-x-y,x))+1;
+            if(t<ans)ans=t,sx=x,sy=y;
+        }
+    return G[{n,m}]={sx,sy},F[{n,m}]=ans;
 }
-void findans(int x){
-	cout<<"! "<<x<<'\n';
-	fflush(stdout);
-	string s;
-	cin>>s;
-	if(s==":)") exit(0);
+inline void solve(basic_string<int>S,basic_string<int>T){
+    if(S.size()+T.size()<3){
+        for(const auto&i:(S+T)){
+            cout<<"! "<<i<<endl;
+            string s;cin>>s;if(s==":)")return;
+        }
+    }
+    else{
+        const auto [p,q]=G[{S.size(),T.size()}];
+        basic_string<int>A,B,C,D;
+        A.assign(S.begin(),S.begin()+p);
+        B.assign(S.begin()+p,S.end());
+        C.assign(T.begin(),T.begin()+q);
+        D.assign(T.begin()+q,T.end());
+        cout<<"? "<<p+q;for(const auto&i:(A+C))cout<<" "<<i;cout<<endl;
+        string s;cin>>s;
+        s=="YES"?solve(A+C,B):solve(B+D,A);
+    }
 }
-bool Q(vector<int>v){
-	cout<<"? "<<v.size()<<' ';
-	for(int i=0;i<v.size();i++)
-		cout<<v[i]<<' ';
-	cout<<'\n';
-	fflush(stdout);
-	string s;
-	cin>>s;
-	if(s=="YES") return 1;
-	else return 0;
+signed main(){
+    cin.tie(0)->sync_with_stdio(0);
+    int n;cin>>n,solveF(n,0);
+    basic_string<int>S;
+    S.resize(n);
+    iota(S.begin(),S.end(),1);
+    solve(S,{});
+    return 0;
 }
-vector<int>merge(vector<int>v,vector<int>g) {
-	while(g.size()) v.push_back(g.back()),g.pop_back();
-	return v;
-}
-void dfs(vector<int>v,vector<int>g) {
-	if(v.size()+g.size()<3){
-		while(v.size()) findans(v.back()),v.pop_back();
-		while(g.size()) findans(g.back()),g.pop_back();
-		return;
-	}int i=v.size(),j=g.size(),k,l;
-	if(i%2==0&&j%2==0) k=i/2,l=j/2;
-	if(i%2==0&&j%2) k=i/2+1,l=j/2;
-	if(i%2&&j%2==0) k=i/2,l=j/2;
-	if(i%2&&j%2) k=i/2,l=(j+1)/2;
-	if(Q(merge(sbstr(v,0,k),sbstr(g,0,l)))) dfs(merge(sbstr(v,0,k),sbstr(g,0,l)),sbstr(v,k,v.size()-k));
-	else dfs(merge(sbstr(v,k,v.size()-k),sbstr(g,l,g.size()-l)),sbstr(v,0,k));
-}
-main() {
-	int n;
-	cin>>n;
-	vector<int>v;
-	for(int i=0;i<n;i++)
-		v.push_back(i+1);
-	dfs(v,{});
-	return 0;
-}
+/*
+*/

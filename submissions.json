@@ -39035,6 +39035,23 @@
     ],
     "timestamp": "May/29/2024 10:19"
   },
+  "CF263084884": {
+    "contest_id": 1746,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1746/E2.cpp",
+    "platform": "Codeforces",
+    "problem_index": "E2",
+    "problem_name": "Joking (Hard Version)",
+    "problem_url": "https://codeforces.com/contest/1746/problem/E2",
+    "submission_id": "CF263084884",
+    "submission_url": "https://codeforces.com/contest/1746/submission/263084884",
+    "tags": [
+      "dp",
+      "interactive",
+      "*3200"
+    ],
+    "timestamp": "May/29/2024 10:20"
+  },
   "CF263084904": {
     "contest_id": 533,
     "language": "C++20 (GCC 13-64)",
