@@ -30034,6 +30034,23 @@
     ],
     "timestamp": "May/29/2024 15:36"
   },
+  "CF263120425": {
+    "contest_id": 1239,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1239/F.cpp",
+    "platform": "Codeforces",
+    "problem_index": "F",
+    "problem_name": "Swiper, no swiping!",
+    "problem_url": "https://codeforces.com/contest/1239/problem/F",
+    "submission_id": "CF263120425",
+    "submission_url": "https://codeforces.com/contest/1239/submission/263120425",
+    "tags": [
+      "graphs",
+      "implementation",
+      "*3400"
+    ],
+    "timestamp": "May/29/2024 15:42"
+  },
   "CF263120477": {
     "contest_id": 1254,
     "language": "C++20 (GCC 13-64)",
