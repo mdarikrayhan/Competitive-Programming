@@ -23393,6 +23393,26 @@
     ],
     "timestamp": "May/17/2024 08:26"
   },
+  "CF263074204": {
+    "contest_id": 1842,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1842/H.cpp",
+    "platform": "Codeforces",
+    "problem_index": "H",
+    "problem_name": "Tenzing and Random Real Numbers",
+    "problem_url": "https://codeforces.com/contest/1842/problem/H",
+    "submission_id": "CF263074204",
+    "submission_url": "https://codeforces.com/contest/1842/submission/263074204",
+    "tags": [
+      "bitmasks",
+      "dp",
+      "graphs",
+      "math",
+      "probabilities",
+      "*3000"
+    ],
+    "timestamp": "May/29/2024 07:02"
+  },
   "CF263074208": {
     "contest_id": 48,
     "language": "C++20 (GCC 13-64)",
