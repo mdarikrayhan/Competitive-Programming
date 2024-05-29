@@ -39208,6 +39208,24 @@
     ],
     "timestamp": "May/29/2024 10:33"
   },
+  "CF263085671": {
+    "contest_id": 446,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/446/D.cpp",
+    "platform": "Codeforces",
+    "problem_index": "D",
+    "problem_name": "DZY Loves Games",
+    "problem_url": "https://codeforces.com/contest/446/problem/D",
+    "submission_id": "CF263085671",
+    "submission_url": "https://codeforces.com/contest/446/submission/263085671",
+    "tags": [
+      "math",
+      "matrices",
+      "probabilities",
+      "*2800"
+    ],
+    "timestamp": "May/29/2024 10:34"
+  },
   "CF263085711": {
     "contest_id": 1297,
     "language": "Kotlin 1.9",
