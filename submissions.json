@@ -24814,6 +24814,23 @@
     ],
     "timestamp": "May/29/2024 15:36"
   },
+  "CF263129776": {
+    "contest_id": 543,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/543/E.cpp",
+    "platform": "Codeforces",
+    "problem_index": "E",
+    "problem_name": "Listening to Music",
+    "problem_url": "https://codeforces.com/contest/543/problem/E",
+    "submission_id": "CF263129776",
+    "submission_url": "https://codeforces.com/contest/543/submission/263129776",
+    "tags": [
+      "constructive algorithms",
+      "data structures",
+      "*3200"
+    ],
+    "timestamp": "May/29/2024 17:02"
+  },
   "CF263129830": {
     "contest_id": 121,
     "language": "C++20 (GCC 13-64)",
