@@ -23393,6 +23393,27 @@
     ],
     "timestamp": "May/17/2024 08:26"
   },
+  "CF263132329": {
+    "contest_id": 1534,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1534/H.cpp",
+    "platform": "Codeforces",
+    "problem_index": "H",
+    "problem_name": "Lost Nodes",
+    "problem_url": "https://codeforces.com/contest/1534/problem/H",
+    "submission_id": "CF263132329",
+    "submission_url": "https://codeforces.com/contest/1534/submission/263132329",
+    "tags": [
+      "constructive algorithms",
+      "dp",
+      "graphs",
+      "interactive",
+      "sortings",
+      "trees",
+      "*3500"
+    ],
+    "timestamp": "May/29/2024 17:23"
+  },
   "CF263132344": {
     "contest_id": 1003,
     "language": "C++20 (GCC 13-64)",
