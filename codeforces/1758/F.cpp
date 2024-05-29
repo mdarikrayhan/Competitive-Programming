@@ -1,55 +1,174 @@
-#include<bits/stdc++.h>
+// LUOGU_RID: 160608961
+#include <cstdio>
+#include <cmath>
+#include <iomanip>
+#include <iostream>
+#include <cstring>
+#include <array>
+#include <algorithm>
+#include <queue>
+#include <vector>
+#include <bitset>
+#include <ctime>
+#include <cstdlib>
+#include <random>
+#include <set>
+#include <ctime>
+#include <map>
+#include <stack>
+#include <unordered_map>
+#include <assert.h>
+#define ll long long
+#define ull unsigned long long
+#define reg register
+#define fo(a,b,c) for(reg ll a=b;a<=c;++a)
+#define re(a,b,c) for(reg ll a=b;a>=c;--a)
+#define pii pair<ll,ll>
+#define pdd pair<db,db>
+#define fi first
+#define pb push_back
+#define se second
+#define ite set<pii> ::iterator
 using namespace std;
-const int N=2e5+5;
-int n,c[N];
-vector<pair<int,int> >add,del;
-set<pair<int,int> >s;
-void Add(int x,int k){for(;x<=2e5;x+=x&-x)c[x]+=k;}
-int ask(int x) {
-	if(x<0||x>2e5)return 0;
-	int res=0;for(;x;x-=x&-x)res+=c[x];
+const ll mod=998244353;
+inline ll gi()
+{
+	ll x = 0, f = 1;
+	char ch = getchar();
+	while(ch < '0' || ch > '9')
+	{
+		if (ch == '-')
+			f = -1;
+		ch = getchar();
+	}
+	while(ch >= '0' && ch <= '9')
+	{
+		x = (x<<1) + (x<<3) + (ch^48);
+		ch = getchar();
+	}
+	return x * f;
+}
+ll _=1;
+const ll inf=1e17+5,iinf=2e9;
+const ll N=1000005;
+ll bit[N],lim=2e5;
+ll lb(ll x)
+{
+	return x&-x;
+}
+void add(ll x,ll y)
+{
+	for(;x<=lim;x+=lb(x)) bit[x]+=y;
+}
+ll qr(ll x)
+{
+	ll res=0;
+	for(;x;x-=lb(x)) res+=bit[x];
 	return res;
 }
-void merge(int l,int r) {
-	auto it=s.lower_bound({l,-1e9});
-	if(it==s.end()||(*it).second>r)return add.push_back({l,r}),s.insert({r,l}),void();
-	int tl=(*it).second,tr=(*it).first;del.push_back({tl,tr}),s.erase(it);
-	int x=min(r,tr)-max(l,tl)+1;
-	merge(min(l,tl),max(r,tr)+x);
+ll ck(ll x)
+{
+	if(x>lim) return -1;
+	return qr(x)-qr(x-1);
 }
-int Ask(int x) {
-	if(x<1||x>2e5)return -1;
-	return ask(x)-ask(x-1);
-}
-void split(int x) {
-	auto it=s.lower_bound({x,-1e9});
-	int l=(*it).second,r=(*it).first,p=2;del.push_back({l,r}),s.erase(it);
-	while(p&&l<=r&&Ask(l)==-1)l++,p--;
-	while(p&&l<=r&&Ask(r)==-1)r--,p--;
-	if(!p) {
-		if(l<r)add.push_back({l,r}),s.insert({r,l});
+set<pii> s;
+vector<pii> jr,sc;
+void mg(ll l,ll r)
+{
+	ite it=s.lower_bound({l,-1e9});
+	if(it==s.end()||it->se>r)
+	{
+		jr.pb({l,r});
+		s.insert({r,l});
 		return;
 	}
-	int t1=ask(l-1),t2=ask(r),res=0;
-	for(int i=l;i<=r;i++)if(ask(i)-t1==0&&t2-ask(i+p)==0){res=i;break;}
-	add.push_back({l,res}),add.push_back({res+p+1,r}),s.insert({res,l}),s.insert({r,res+p+1});
+	ll zl=it->se,zr=it->fi;
+	s.erase(it);
+	sc.pb({zl,zr});
+	ll dt=min(r,zr)-max(l,zl)+1;
+	mg(min(l,zl),max(r,zr)+dt);
 }
-void print() {
-	printf("%d\n",del.size());
-	for(auto i:del)printf("%d %d\n",i.first,i.second);
-	printf("%d\n",add.size());
-	for(auto i:add)printf("%d %d\n",i.first,i.second);puts("");
+void split(ll x)
+{
+	ite it=s.lower_bound({x,-1e9});
+	ll l=it->se,r=it->fi;
+	ll rs=2;
+	sc.pb({l,r});
+	s.erase(it);
+	while(rs)
+	{
+		if(ck(l)==-1) rs--,l++;
+		else break;
+	}
+	while(rs)
+	{
+		if(ck(r)==-1) rs--,r--;
+		else break;
+	}
+	if(rs==0)
+	{
+		if(l>=r) return;
+		jr.pb({l,r});
+		s.insert({r,l});
+		return;
+	}
+	ll sl=qr(l-1),sr=qr(r),pos=0;
+	fo(i,l,r)
+	{
+		if(qr(i)-sl==0&&sr-qr(i+rs)==0)
+		{
+			pos=i;
+			break;
+		}
+	}
+	jr.pb({l,pos});
+	jr.pb({pos+rs+1,r});
+	s.insert({pos,l});
+	s.insert({r,pos+rs+1});
 }
-int main() {
-	scanf("%d",&n);
-	int ans=0;
-	for(int i=1;i<=2e5;i++)Add(i,-1);
-	for(int i=1,x;i<=n;i++) {
-		scanf("%d",&x);
-		add.clear(),del.clear();
-		if(ask(x)-ask(x-1)==1)Add(x,-2),split(x);
-		else Add(x,2),merge(x,x+1);
-		print();
+void wk()
+{
+	cout<<sc.size()<<'\n';
+	for(pii p:sc)
+	{
+		cout<<p.fi<<" "<<p.se<<'\n';
+	}
+	cout<<jr.size()<<'\n';
+	for(pii p:jr)
+	{
+		cout<<p.fi<<" "<<p.se<<'\n';
+	}
+	cout<<'\n';
+}
+void sol()
+{
+	ll n=gi();
+	fo(i,1,lim) add(i,-1);
+	fo(i,1,n)
+	{
+		ll x=gi();
+		jr.clear();
+		sc.clear();
+		if(ck(x)==-1)
+		{
+			add(x,2);
+			mg(x,x+1);
+		}
+		else
+		{
+			add(x,-2);
+			split(x);
+		}
+		wk();
+	}
+}
+int main()
+{
+//	_=gi();
+	while(_--)
+	{
+		sol();
+//		printf("\n");
 	}
 	return 0;
 }
