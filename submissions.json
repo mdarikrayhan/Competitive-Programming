@@ -23393,6 +23393,23 @@
     ],
     "timestamp": "May/17/2024 08:26"
   },
+  "CF263085288": {
+    "contest_id": 576,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/576/D.cpp",
+    "platform": "Codeforces",
+    "problem_index": "D",
+    "problem_name": "Flights for Regular Customers",
+    "problem_url": "https://codeforces.com/contest/576/problem/D",
+    "submission_id": "CF263085288",
+    "submission_url": "https://codeforces.com/contest/576/submission/263085288",
+    "tags": [
+      "dp",
+      "matrices",
+      "*2700"
+    ],
+    "timestamp": "May/29/2024 10:27"
+  },
   "CF263085325": {
     "contest_id": 461,
     "language": "C++20 (GCC 13-64)",
