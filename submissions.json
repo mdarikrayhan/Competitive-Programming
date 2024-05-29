@@ -36733,6 +36733,23 @@
     ],
     "timestamp": "May/29/2024 06:20"
   },
+  "CF263072942": {
+    "contest_id": 1428,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1428/G2.cpp",
+    "platform": "Codeforces",
+    "problem_index": "G2",
+    "problem_name": "Lucky Numbers (Hard Version)",
+    "problem_url": "https://codeforces.com/contest/1428/problem/G2",
+    "submission_id": "CF263072942",
+    "submission_url": "https://codeforces.com/contest/1428/submission/263072942",
+    "tags": [
+      "dp",
+      "greedy",
+      "*3000"
+    ],
+    "timestamp": "May/29/2024 06:26"
+  },
   "CF263072955": {
     "contest_id": 1776,
     "language": "C++20 (GCC 13-64)",
