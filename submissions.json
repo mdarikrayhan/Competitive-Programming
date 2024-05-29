@@ -27654,6 +27654,24 @@
     ],
     "timestamp": "May/29/2024 15:36"
   },
+  "CF263127321": {
+    "contest_id": 1725,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1725/I.cpp",
+    "platform": "Codeforces",
+    "problem_index": "I",
+    "problem_name": "Imitating the Key Tree",
+    "problem_url": "https://codeforces.com/contest/1725/problem/I",
+    "submission_id": "CF263127321",
+    "submission_url": "https://codeforces.com/contest/1725/submission/263127321",
+    "tags": [
+      "combinatorics",
+      "dsu",
+      "trees",
+      "*2800"
+    ],
+    "timestamp": "May/29/2024 16:41"
+  },
   "CF263127354": {
     "contest_id": 1499,
     "language": "C++20 (GCC 13-64)",
