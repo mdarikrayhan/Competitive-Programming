@@ -23393,6 +23393,22 @@
     ],
     "timestamp": "May/17/2024 08:26"
   },
+  "CF263074233": {
+    "contest_id": 409,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/409/E.cpp",
+    "platform": "Codeforces",
+    "problem_index": "E",
+    "problem_name": "Dome",
+    "problem_url": "https://codeforces.com/contest/409/problem/E",
+    "submission_id": "CF263074233",
+    "submission_url": "https://codeforces.com/contest/409/submission/263074233",
+    "tags": [
+      "*special problem",
+      "*1800"
+    ],
+    "timestamp": "May/29/2024 07:02"
+  },
   "CF263075230": {
     "contest_id": 1379,
     "language": "C++20 (GCC 13-64)",
