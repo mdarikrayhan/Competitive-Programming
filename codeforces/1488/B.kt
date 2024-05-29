@@ -1,0 +1,1 @@
+fun main()=repeat(readLine()!!.toInt()){val(N,K)=readLine()!!.split(' ').map{it.toInt()};val s=readLine()!!;var(C,r)=listOf(0,0);for(c in s){if(c=='(')++r;else--r;if(r==0)++C};println(if(N/2>C+K)C+K else N/2)}

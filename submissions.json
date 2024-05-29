@@ -38145,6 +38145,23 @@
     ],
     "timestamp": "May/29/2024 07:27"
   },
+  "CF263075276": {
+    "contest_id": 1488,
+    "language": "Kotlin 1.7",
+    "path": "codeforces/1488/B.kt",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "RBS Deletion",
+    "problem_url": "https://codeforces.com/contest/1488/problem/B",
+    "submission_id": "CF263075276",
+    "submission_url": "https://codeforces.com/contest/1488/submission/263075276",
+    "tags": [
+      "*special problem",
+      "greedy",
+      "*1800"
+    ],
+    "timestamp": "May/29/2024 07:27"
+  },
   "CF263075289": {
     "contest_id": 1488,
     "language": "Kotlin 1.7",
