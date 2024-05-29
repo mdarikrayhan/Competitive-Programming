@@ -23393,6 +23393,22 @@
     ],
     "timestamp": "May/17/2024 08:26"
   },
+  "CF263157403": {
+    "contest_id": 1120,
+    "language": "C++17 (GCC 7-32)",
+    "path": "codeforces/1120/E.cpp",
+    "platform": "Codeforces",
+    "problem_index": "E",
+    "problem_name": "The very same Munchhausen",
+    "problem_url": "https://codeforces.com/contest/1120/problem/E",
+    "submission_id": "CF263157403",
+    "submission_url": "https://codeforces.com/contest/1120/submission/263157403",
+    "tags": [
+      "brute force",
+      "*2600"
+    ],
+    "timestamp": "May/29/2024 20:41"
+  },
   "CF263157424": {
     "contest_id": 645,
     "language": "C++17 (GCC 7-32)",
