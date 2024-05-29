@@ -1,140 +1,86 @@
-#include <bits/stdc++.h>
+#include<bits/stdc++.h>
+#define ll long long
 using namespace std;
-
-const long long INF = 1e18;
-
-template<typename T> void chmin(T& x, T y) { x = min(x, y); }
-
-struct cell;
-cell* emp[25];
-
-int sign(int k) { return k ? -1 : 1; }
-
-struct cell {
-  cell* children[4];
-  long long dp[4][4][2], cyc[2];
-  // dp[i][j] = edges to get from corner i to corner j of this cell while
-  // passing through all active vertices (0 = min, 1 = negative max)
-  //
-  // cyc = same for cycle
-  int lvl, active, corner;
-  cell (int _lvl): lvl(_lvl) {
-    corner = -1;
-    cyc[0] = cyc[1] = 0;
-    for (int i = 0; i < 4; i++) {
-      children[i] = nullptr;
-      for (int j = 0; j < 4; j++) {
-        for (int k: {0, 1}) {
-          dp[i][j][k] = 0;
-        }
-      }
-    }
-
-    if (lvl) {
-      for (int i = 0; i < 4; i++) {
-        if (emp[lvl-1] == nullptr) emp[lvl-1] = new cell(lvl-1);
-        children[i] = emp[lvl-1];
-      }
-      merge();
-    }
-  }
-
-  void modify(string& s) {
-    if (lvl == 0) {
-      active ^= 1;
-      corner = (active ? 0 : -1);
-      return;
-    }
-    int i = s.back()-'a';
-    s.pop_back();
-    if (children[i] == emp[lvl-1]) children[i] = new cell(lvl-1);
-    children[i]->modify(s);
-    merge();
-  }
-
-  void merge() {
-    corner = -1;
-    active = 0;
-    for (int i = 0; i < 4; i++) {
-      active += children[i]->active;
-      if (children[i]->corner != -1) {
-        if (lvl == 1 || children[i]->corner == i) corner = i;
-      }
-    }
-
-    for (int k: {0, 1}) {
-      for (int i = 0; i < 4; i++) {
-        // i to i+1
-        int j = (i+1)&3;
-        dp[i][j][k] = INF;
-        // go directly from i to j
-        bool direct = 1;
-        for (int l: {(i+2)&3, (i+3)&3}) {
-          if (children[l]->active) direct = 0;
-        }
-        if (direct) {
-          chmin(dp[i][j][k], children[i]->dp[i][j][k] + children[j]->dp[i][j][k] + sign(k));
-        }
-        // go around
-        chmin(dp[i][j][k], children[i]->dp[i][(i+3)&3][k] + children[(i+3)&3]->dp[i][(i+2)&3][k]
-            + children[(i+2)&3]->dp[(i+3)&3][(i+1)&3][k] + children[j]->dp[(i+2)&3][j][k]
-            + 3*sign(k));
-
-        dp[j][i][k] = dp[i][j][k];
-
-        // i to i+2
-        if (i > 1) continue;
-        j = (i+2)&3;
-        dp[i][j][k] = INF;
-        for (int z: {1, -1}) {
-          // i -> i+z -> j
-          if (children[(i-z)&3]-> active) continue;
-          chmin(dp[i][j][k], children[i]->dp[i][(i+z)&3][k] +
-              children[(i+z)&3]->dp[i][j][k] + children[j]->dp[(i+z)&3][j][k] + 2*sign(k));
-        }
-        dp[j][i][k] = dp[i][j][k];
-      }
-    }
-
-    for (int k: {0, 1}) {
-      cyc[k] = INF;
-      for (int i = 0; i < 4; i++) {
-        if (children[i]->active == active) {
-          chmin(cyc[k], children[i]->cyc[k]);
-        }
-      }
-      long long val = 4*sign(k);
-      for (int i = 0; i < 4; i++) {
-        val += children[i]->dp[(i+1)&3][(i+3)&3][k];
-      }
-      chmin(cyc[k], val);
-    }
-
-    // corner case
-    if (active == 2) {
-      for (int i = 0; i < 4; i++) {
-        int j = (i+1)&3;
-        if (children[i]->corner == j && children[j]->corner == i) cyc[0] = 2;
-        else if (lvl == 1 &&
-            children[i]->corner != -1 && children[j]->corner != -1) cyc[0] = 2;
-      }
-    }
-  }
+int n,q;
+set<string>s;
+int ch[2001000][4];
+struct qq{
+ll a,b;
+qq operator + (const qq &x) const{
+if(a==-1||x.a==-1)return (qq){-1,-1};
+return (qq){a+x.a,b+x.b};
+}
+qq operator + (const int &x) const{
+if(a==-1)return (qq){-1,-1};
+return (qq){a+x,b+x};
+}
+qq operator * (const qq &x) const{
+if(a==-1)return x;if(x.a==-1)return (qq){a,b};
+return (qq){min(a,x.a),max(b,x.b)};
+}
 };
-
-int main () {
-  ios_base::sync_with_stdio(0); cin.tie(0);
-  int n, q;
-  cin >> n >> q;
-  cell* root = new cell(n);
-  while (q--) {
-    string s;
-    cin >> s;
-    reverse(s.begin(), s.end());
-    root->modify(s);
-    if (root->cyc[0] == INF) cout << "-1\n";
-    else {
-      cout << max(2LL, root->cyc[0]) << ' ' << max(2LL, -root->cyc[1]) << '\n';
-    }
-  }
+struct hb{qq ab,bc,cd,ad,ac,bd,f;int is;}A[30],f[2001000],I;
+bool chk(string a,string b){
+for(int i=0;i<n;i++){
+if(a[i]!=b[i]){
+if(abs(a[i]-b[i])==2)return 0;
+for(int j=i+1;j<n;j++)if(a[i]!=b[j]||b[i]!=a[j])return 0;
+return 1;
+}
+}
+return 1;
+}
+hb mer(hb &a,hb &b,hb &c,hb &d){
+hb e;
+e.f=(qq){-1,-1};
+int az=a.is+b.is+c.is+d.is;
+if(az==1){
+if(a.is)e.f=a.f;if(b.is)e.f=b.f;
+if(c.is)e.f=c.f;if(d.is)e.f=d.f;
+}
+e.f=e.f*(a.bd+c.bd+d.ac+b.ac+4);
+e.is=a.is|b.is|c.is|d.is;
+e.ab=a.ad+d.ac+c.bd+b.bc+3;
+if(!c.is&&!d.is)e.ab=e.ab*(a.ab+b.ab+1);
+e.bc=b.ab+a.bd+d.ac+c.cd+3;
+if(!a.is&&!d.is)e.bc=e.bc*(b.bc+c.bc+1);
+e.cd=c.bc+b.ac+a.bd+d.ad+3;
+if(!b.is&&!a.is)e.cd=e.cd*(c.cd+d.cd+1);
+e.ad=d.cd+c.bd+b.ac+a.ab+3;
+if(!b.is&&!c.is)e.ad=e.ad*(a.ad+d.ad+1);
+e.ac=((!d.is)?(a.ab+b.ac+c.bc+2):(qq){-1,-1})*((!b.is)?(a.ad+d.ac+c.cd+2):(qq){-1,-1});
+e.bd=((!a.is)?(b.bc+c.bd+d.cd+2):(qq){-1,-1})*((!c.is)?(b.ab+a.bd+d.ad+2):(qq){-1,-1});
+return e;
+}
+int rt=1,cn=1,sta[30];
+void ins(string s,int z){
+int u=1;
+for(int i=0;i<n;i++){
+int p=s[i]-'a';
+if(!ch[u][p])ch[u][p]=++cn;
+sta[i]=u,u=ch[u][p];
+}
+if(z==1)f[u]=I;else f[u]=A[0];
+for(int i=n-1;i>=0;i--){
+u=sta[i];
+f[u]=mer(ch[u][0]?f[ch[u][0]]:A[n-i-1],ch[u][1]?f[ch[u][1]]:A[n-i-1],ch[u][2]?f[ch[u][2]]:A[n-i-1],ch[u][3]?f[ch[u][3]]:A[n-i-1]);
+}
+}
+int main(){
+scanf("%d%d",&n,&q);
+A[0].f=(qq){-1,-1};I=A[0],I.is=1;
+for(int i=1;i<=n;i++)A[i]=mer(A[i-1],A[i-1],A[i-1],A[i-1]);
+for(int i=1;i<=q;i++){
+string ss;cin>>ss;
+int z;
+if(s.find(ss)!=s.end())z=-1,s.erase(ss);
+else z=1,s.insert(ss);
+ins(ss,z);
+qq ans=f[1].f;
+if((int)s.size()<=1)ans=ans*((qq){2,2});
+if(((int)s.size()==2)&&chk(*s.begin(),*(--s.end())))ans=ans*((qq){2,2});
+if(ans.a==-1)puts("-1");
+else printf("%lld %lld\n",ans.a,ans.b);
+}
+return 0;
 }
