@@ -27114,6 +27114,24 @@
     ],
     "timestamp": "May/29/2024 06:34"
   },
+  "CF263073799": {
+    "contest_id": 1346,
+    "language": "Kotlin 1.7",
+    "path": "codeforces/1346/H.kt",
+    "platform": "Codeforces",
+    "problem_index": "H",
+    "problem_name": "Game with Segments",
+    "problem_url": "https://codeforces.com/contest/1346/problem/H",
+    "submission_id": "CF263073799",
+    "submission_url": "https://codeforces.com/contest/1346/submission/263073799",
+    "tags": [
+      "*special problem",
+      "data structures",
+      "games",
+      "*2700"
+    ],
+    "timestamp": "May/29/2024 06:52"
+  },
   "CF263073809": {
     "contest_id": 1346,
     "language": "Kotlin 1.7",
