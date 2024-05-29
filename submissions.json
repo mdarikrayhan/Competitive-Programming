@@ -23393,6 +23393,19 @@
     ],
     "timestamp": "May/17/2024 08:26"
   },
+  "CF263170227": {
+    "contest_id": 1357,
+    "language": "Q#",
+    "path": "codeforces/1357/B1.qs",
+    "platform": "Codeforces",
+    "problem_index": "B1",
+    "problem_name": "\"Is the bit string balanced?\" oracle",
+    "problem_url": "https://codeforces.com/contest/1357/problem/B1",
+    "submission_id": "CF263170227",
+    "submission_url": "https://codeforces.com/contest/1357/submission/263170227",
+    "tags": [],
+    "timestamp": "May/29/2024 23:00"
+  },
   "CF263170242": {
     "contest_id": 1357,
     "language": "Q#",
