@@ -23393,6 +23393,24 @@
     ],
     "timestamp": "May/17/2024 08:26"
   },
+  "CF263119370": {
+    "contest_id": 325,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/325/C.cpp",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Monsters and Diamonds",
+    "problem_url": "https://codeforces.com/contest/325/problem/C",
+    "submission_id": "CF263119370",
+    "submission_url": "https://codeforces.com/contest/325/submission/263119370",
+    "tags": [
+      "dfs and similar",
+      "graphs",
+      "shortest paths",
+      "*2600"
+    ],
+    "timestamp": "May/29/2024 15:34"
+  },
   "CF263119508": {
     "contest_id": 1526,
     "language": "C++20 (GCC 13-64)",
