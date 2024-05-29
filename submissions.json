@@ -23393,6 +23393,22 @@
     ],
     "timestamp": "May/17/2024 08:26"
   },
+  "CF263171669": {
+    "contest_id": 1001,
+    "language": "Q#",
+    "path": "codeforces/1001/B.qs",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Generate Bell state",
+    "problem_url": "https://codeforces.com/contest/1001/problem/B",
+    "submission_id": "CF263171669",
+    "submission_url": "https://codeforces.com/contest/1001/submission/263171669",
+    "tags": [
+      "*special problem",
+      "*1400"
+    ],
+    "timestamp": "May/29/2024 23:21"
+  },
   "CF263171771": {
     "contest_id": 1001,
     "language": "Q#",
