@@ -23393,6 +23393,19 @@
     ],
     "timestamp": "May/17/2024 08:26"
   },
+  "CF263170405": {
+    "contest_id": 1357,
+    "language": "Q#",
+    "path": "codeforces/1357/E1.qs",
+    "platform": "Codeforces",
+    "problem_index": "E1",
+    "problem_name": "Power of quantum Fourier transform",
+    "problem_url": "https://codeforces.com/contest/1357/problem/E1",
+    "submission_id": "CF263170405",
+    "submission_url": "https://codeforces.com/contest/1357/submission/263170405",
+    "tags": [],
+    "timestamp": "May/29/2024 23:02"
+  },
   "CF263170509": {
     "contest_id": 1356,
     "language": "Q#",
