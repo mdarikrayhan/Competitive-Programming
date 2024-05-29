@@ -1,62 +1,120 @@
-#include<bits/stdc++.h>
-#define For(i,a,b) for(int i=(a);i<=(b);++i)
-#define Rep(i,a,b) for(int i=(a);i>=(b);--i)
+#include <bits/stdc++.h>
+#define ll long long
 using namespace std;
 
-int n,k,r,S,p[200005];
-vector<vector<int>>a,b;
+const int maxn = 100005;
+int a[maxn], res[maxn];
 
-void F(int t,int k){
-	if(k%2==0){
-		int n=t*k;
-		For(i,0,n/2-1)b[i*2/k+1][i*2%k+1]=i+1,b[(i*2+1)/k+1][(i*2+1)%k+1]=n-i;
-		return;
-	}
-	S=3*t;
-	For(i,4,k){
-		if(i&1){Rep(j,t,1)b[j][i]=++S;}
-		else{For(j,1,t)b[j][i]=++S;}
-	}
-	int x=1,y=(3*t+1)/2,z=3*t;
-	For(i,1,(t+1)/2) b[i][1]=x,b[i][2]=y--,b[i][3]=z--,x+=2;
-	x=(3*t+3)/2,y=2*t+1,z=t-t%2;
-	For(i,(t+3)/2,t) b[i][1]=x++,b[i][2]=y++,b[i][3]=z,z-=2;
+int f(int x, int y, int k) {
+	return (x - 1) * k + y;
 }
 
-void work(){
-	cin>>n>>k,r=n%k;
-	a=b=vector<vector<int>>(n/k+2,vector<int>(k+1,0));
-	if(!r)F(n/k,k),a=b;
-	else if(r>1&&r<k-1){
-		F(n/k+1,r),a=b;
-		F(n/k,k-r);
-		For(i,1,n/k)For(j,1,k-r)a[i][j+r]=b[i][j]+r*(n/k+1);
-	}
-	else if(r==1){
-		F(n/k,k-2);
-		For(i,1,n/k)For(j,1,k-2)a[i][j+2]=b[i][j]+n-(k-2)*(n/k);
-		S=0;
-		For(i,1,n/k+1)a[i][1]=++S;
-		Rep(i,n/k,1)a[i][2]=++S;
-	}
-	else{
-		F(n/k+1,k-2),a=b;
-		S=(k-2)*(n/k+1); 
-		Rep(i,n/k+1,1)a[i][k-1]=++S;
-		For(i,1,n/k)a[i][k]=++S;
-	}
+void get(int n, int k) {
+  if (!(k & 1)) {
+    for (int i = 1; i <= n >> 1; i++) {
+      a[(i << 1) - 1] = i, a[i << 1] = n + 1 - i;
+    }
+    return;
+  }
+
+  int m = n / k, cur = 3 * m;
+  for (int j = 4; j <= k; j++) {
+    if (j & 1) {
+      for (int i = m; i >= 1; i -= 1) a[f(i, j, k)] = ++cur;
+    } else {
+      for (int i = 1; i <= m; i++) a[f(i, j, k)] = ++cur;
+    }
+  }
+
+  for (int i = 1; i <= (m + 1 >> 1); i++) {
+    a[f(i, 1, k)] = (i << 1) - 1;
+    a[f(i, 2, k)] = ((3 * m + 3) >> 1) - i;
+    a[f(i, 3, k)] = 3 * m - i + 1;
+  }
+
+  for (int i = (m + 3 >> 1); i <= m; i++) {
+    int delta = i - (m + 3 >> 1);
+    a[f(i, 1, k)] = ((3 * m + 3) >> 1) + delta;
+    a[f(i, 2, k)] = (m << 1) + 1 + delta;
+    a[f(i, 3, k)] = m - (m & 1) - (delta << 1);
+  }
 }
 
-int main(){
-	int T;cin>>T;
-	while(T--){
-		work();
-		long long res,sum=0;
-		For(i,1,n)p[i]=a[(i-1)/k+1][(i-1)%k+1];
-		For(i,1,k)sum+=p[i];res=sum;
-		For(i,k+1,n)sum+=p[i]-p[i-k],res=min(res,sum);
-		cout<<res<<"\n";
-		For(i,1,n)cout<<p[i]<<" \n"[i==n];
-	}
-	return 0;
+int n, k;
+void answer() {
+  ll sum = 0;
+  for (int i = 1; i <= k; i++) sum += res[i];
+  ll mn = sum;
+  for (int i = k + 1; i <= n; i++) {
+    sum += res[i] - res[i - k];
+    mn = min(mn, sum);
+  }
+  cout << mn << '\n';
+  for (int i = 1; i <= n; i++) cout << res[i] << ' ';
+  cout << '\n';
+}
+
+void solve() {
+	cin >> n >> k;
+    if (!(n % k)) {
+      get(n, k);
+      for (int i = 1; i <= n; i++) res[i] = a[i];
+      answer();
+      return;
+    }
+
+    int q = n / k, r = n % k;
+    if (r == 1) {
+      int cur = 0, delta = (q << 1) + 1;
+      for (int i = 1; i <= n; i += k) res[i] = ++cur;
+      for (int i = n - k + 1; i >= 2; i -= k) res[i] = ++cur;
+      get(q * (k - 2), k - 2);
+  cur = 0;
+      for (int i = 3; i <= n; i += k)
+        for (int j = i; j <= i + k - 3; j++) res[j] = a[++cur] + delta;
+      answer();
+      return;
+    }
+
+    if (k - r == 1) {
+      if (q == 1) {
+        int cur = 0;
+        res[k] = n;
+        get(n - 1, k - 1);
+        for (int i = 1; i < k; i++) res[i] = a[++cur];
+        for (int i = k + 1; i <= n; i++) res[i] = a[++cur];
+        answer();
+        return;
+      }
+
+      int cur = n + 1, delta = q + 1;
+      for (int i = k; i <= n; i += k) res[i] = --cur;
+      cur = 0;
+      for (int i = 1; i <= n; i += k) res[i] = ++cur;
+      get((q + 1) * (r - 1), r - 1);
+  cur = 0;
+      for (int i = 2; i <= n; i += k) {
+        for (int j = i; j <= i + r - 2; j++) res[j] = a[++cur] + delta;
+      }
+      answer();
+      return;
+    }
+
+    int cur = 0, delta = (q + 1) * r;
+    get((q + 1) * r, r);
+    for (int i = 1; i <= n; i += k) {
+      for (int j = i; j <= i + r - 1; j++) res[j] = a[++cur];
+    }
+    get(q * (k - r), k - r), cur = 0;
+    for (int i = r + 1; i <= n; i += k) {
+      for (int j = i; j <= i + (k - r) - 1; j++) res[j] = a[++cur] + delta;
+    }
+    answer();
+}
+
+int main() {
+  cin.tie(0)->sync_with_stdio(0);
+  int t;
+  cin >> t;
+  while (t--) solve();
 }
