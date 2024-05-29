@@ -23393,6 +23393,22 @@
     ],
     "timestamp": "May/17/2024 08:26"
   },
+  "CF263117222": {
+    "contest_id": 1866,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1866/J.cpp",
+    "platform": "Codeforces",
+    "problem_index": "J",
+    "problem_name": "Jackets and Packets",
+    "problem_url": "https://codeforces.com/contest/1866/problem/J",
+    "submission_id": "CF263117222",
+    "submission_url": "https://codeforces.com/contest/1866/submission/263117222",
+    "tags": [
+      "dp",
+      "*2800"
+    ],
+    "timestamp": "May/29/2024 15:17"
+  },
   "CF263117291": {
     "contest_id": 1456,
     "language": "C++20 (GCC 13-64)",
