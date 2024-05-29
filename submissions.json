@@ -23393,6 +23393,24 @@
     ],
     "timestamp": "May/17/2024 08:26"
   },
+  "CF263131604": {
+    "contest_id": 1616,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1616/G.cpp",
+    "platform": "Codeforces",
+    "problem_index": "G",
+    "problem_name": "Just Add an Edge",
+    "problem_url": "https://codeforces.com/contest/1616/problem/G",
+    "submission_id": "CF263131604",
+    "submission_url": "https://codeforces.com/contest/1616/submission/263131604",
+    "tags": [
+      "dfs and similar",
+      "dp",
+      "graphs",
+      "*3500"
+    ],
+    "timestamp": "May/29/2024 17:17"
+  },
   "CF263131615": {
     "contest_id": 1299,
     "language": "C++20 (GCC 13-64)",
