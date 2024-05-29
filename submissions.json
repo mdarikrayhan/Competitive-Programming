@@ -24150,6 +24150,26 @@
     ],
     "timestamp": "May/29/2024 08:09"
   },
+  "CF263077136": {
+    "contest_id": 1381,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1381/D.cpp",
+    "platform": "Codeforces",
+    "problem_index": "D",
+    "problem_name": "The Majestic Brown Tree Snake",
+    "problem_url": "https://codeforces.com/contest/1381/problem/D",
+    "submission_id": "CF263077136",
+    "submission_url": "https://codeforces.com/contest/1381/submission/263077136",
+    "tags": [
+      "dfs and similar",
+      "dp",
+      "greedy",
+      "trees",
+      "two pointers",
+      "*3000"
+    ],
+    "timestamp": "May/29/2024 08:09"
+  },
   "CF263077138": {
     "contest_id": 946,
     "language": "C++20 (GCC 13-64)",
