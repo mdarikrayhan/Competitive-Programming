@@ -23393,6 +23393,24 @@
     ],
     "timestamp": "May/17/2024 08:26"
   },
+  "CF263076805": {
+    "contest_id": 613,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/613/E.cpp",
+    "platform": "Codeforces",
+    "problem_index": "E",
+    "problem_name": "Puzzle Lover",
+    "problem_url": "https://codeforces.com/contest/613/problem/E",
+    "submission_id": "CF263076805",
+    "submission_url": "https://codeforces.com/contest/613/submission/263076805",
+    "tags": [
+      "dp",
+      "hashing",
+      "strings",
+      "*3200"
+    ],
+    "timestamp": "May/29/2024 08:02"
+  },
   "CF263076828": {
     "contest_id": 700,
     "language": "C++20 (GCC 13-64)",
