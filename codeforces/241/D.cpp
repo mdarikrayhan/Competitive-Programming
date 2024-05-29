@@ -1,0 +1,3 @@
+#include<cstdio>
+#include<cstdlib>
+int n,p,a[26],b[26],c[26],num,cnt;void dfs(int now,int x,int y){if(now>num)return;dfs(now+1,x,y);c[now]=1;++cnt;x^=a[now];y=((a[now]>9?y*100:y*10)+a[now])%p;if(!x&&!y){printf("Yes\n%d\n",cnt);for(int i=1;i<=now;i++)if(c[i]==1)printf("%d ",b[i]);puts("");exit(0);}dfs(now+1,x,y);c[now]=0;--cnt;}int main(){scanf("%d%d",&n,&p);for(int i=1;i<=n;i++){scanf("%d",&cnt);if(cnt<=25)a[++num]=cnt,b[num]=i;}cnt=0;dfs(1,0,0);puts("No");}
