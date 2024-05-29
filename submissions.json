@@ -36749,6 +36749,26 @@
     ],
     "timestamp": "May/29/2024 06:28"
   },
+  "CF263073047": {
+    "contest_id": 1684,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1684/G.cpp",
+    "platform": "Codeforces",
+    "problem_index": "G",
+    "problem_name": "Euclid Guess",
+    "problem_url": "https://codeforces.com/contest/1684/problem/G",
+    "submission_id": "CF263073047",
+    "submission_url": "https://codeforces.com/contest/1684/submission/263073047",
+    "tags": [
+      "constructive algorithms",
+      "flows",
+      "graph matchings",
+      "math",
+      "number theory",
+      "*2800"
+    ],
+    "timestamp": "May/29/2024 06:29"
+  },
   "CF263073056": {
     "contest_id": 392,
     "language": "C++20 (GCC 13-64)",
