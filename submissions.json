@@ -23393,6 +23393,23 @@
     ],
     "timestamp": "May/17/2024 08:26"
   },
+  "CF263135850": {
+    "contest_id": 107,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/107/E.cpp",
+    "platform": "Codeforces",
+    "problem_index": "E",
+    "problem_name": "Darts",
+    "problem_url": "https://codeforces.com/contest/107/problem/E",
+    "submission_id": "CF263135850",
+    "submission_url": "https://codeforces.com/contest/107/submission/263135850",
+    "tags": [
+      "geometry",
+      "probabilities",
+      "*2700"
+    ],
+    "timestamp": "May/29/2024 17:52"
+  },
   "CF263135912": {
     "contest_id": 1387,
     "language": "C++20 (GCC 13-64)",
