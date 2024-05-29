@@ -38145,6 +38145,24 @@
     ],
     "timestamp": "May/29/2024 07:27"
   },
+  "CF263075348": {
+    "contest_id": 1488,
+    "language": "Kotlin 1.7",
+    "path": "codeforces/1488/H.kt",
+    "platform": "Codeforces",
+    "problem_index": "H",
+    "problem_name": "Build From Suffixes",
+    "problem_url": "https://codeforces.com/contest/1488/problem/H",
+    "submission_id": "CF263075348",
+    "submission_url": "https://codeforces.com/contest/1488/submission/263075348",
+    "tags": [
+      "*special problem",
+      "combinatorics",
+      "data structures",
+      "*2800"
+    ],
+    "timestamp": "May/29/2024 07:28"
+  },
   "CF263075360": {
     "contest_id": 1488,
     "language": "Kotlin 1.7",
