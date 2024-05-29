@@ -34313,6 +34313,24 @@
     ],
     "timestamp": "May/29/2024 14:54"
   },
+  "CF263114747": {
+    "contest_id": 1662,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1662/C.cpp",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "European Trip",
+    "problem_url": "https://codeforces.com/contest/1662/problem/C",
+    "submission_id": "CF263114747",
+    "submission_url": "https://codeforces.com/contest/1662/submission/263114747",
+    "tags": [
+      "dp",
+      "graphs",
+      "math",
+      "matrices"
+    ],
+    "timestamp": "May/29/2024 14:57"
+  },
   "CF263114778": {
     "contest_id": 1336,
     "language": "C++20 (GCC 13-64)",
