@@ -34491,6 +34491,26 @@
     ],
     "timestamp": "May/29/2024 14:59"
   },
+  "CF263115992": {
+    "contest_id": 232,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/232/C.cpp",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Doe Graphs",
+    "problem_url": "https://codeforces.com/contest/232/problem/C",
+    "submission_id": "CF263115992",
+    "submission_url": "https://codeforces.com/contest/232/submission/263115992",
+    "tags": [
+      "constructive algorithms",
+      "divide and conquer",
+      "dp",
+      "graphs",
+      "shortest paths",
+      "*2600"
+    ],
+    "timestamp": "May/29/2024 15:07"
+  },
   "CF263116076": {
     "contest_id": 1866,
     "language": "C++20 (GCC 13-64)",
