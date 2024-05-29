@@ -24114,6 +24114,24 @@
     ],
     "timestamp": "May/29/2024 08:08"
   },
+  "CF263077115": {
+    "contest_id": 1081,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1081/F.cpp",
+    "platform": "Codeforces",
+    "problem_index": "F",
+    "problem_name": "Tricky Interactor",
+    "problem_url": "https://codeforces.com/contest/1081/problem/F",
+    "submission_id": "CF263077115",
+    "submission_url": "https://codeforces.com/contest/1081/submission/263077115",
+    "tags": [
+      "constructive algorithms",
+      "implementation",
+      "interactive",
+      "*2600"
+    ],
+    "timestamp": "May/29/2024 08:08"
+  },
   "CF263077125": {
     "contest_id": 1508,
     "language": "C++20 (GCC 13-64)",
