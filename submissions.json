@@ -23393,6 +23393,24 @@
     ],
     "timestamp": "May/17/2024 08:26"
   },
+  "CF263111833": {
+    "contest_id": 1036,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1036/G.cpp",
+    "platform": "Codeforces",
+    "problem_index": "G",
+    "problem_name": "Sources and Sinks",
+    "problem_url": "https://codeforces.com/contest/1036/problem/G",
+    "submission_id": "CF263111833",
+    "submission_url": "https://codeforces.com/contest/1036/submission/263111833",
+    "tags": [
+      "bitmasks",
+      "brute force",
+      "dfs and similar",
+      "*2700"
+    ],
+    "timestamp": "May/29/2024 14:33"
+  },
   "CF263111837": {
     "contest_id": 1896,
     "language": "C++20 (GCC 13-64)",
