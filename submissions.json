@@ -38716,6 +38716,25 @@
     ],
     "timestamp": "May/29/2024 14:00"
   },
+  "CF263109610": {
+    "contest_id": 1418,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1418/F.cpp",
+    "platform": "Codeforces",
+    "problem_index": "F",
+    "problem_name": "Equal Product",
+    "problem_url": "https://codeforces.com/contest/1418/problem/F",
+    "submission_id": "CF263109610",
+    "submission_url": "https://codeforces.com/contest/1418/submission/263109610",
+    "tags": [
+      "data structures",
+      "math",
+      "number theory",
+      "two pointers",
+      "*3000"
+    ],
+    "timestamp": "May/29/2024 14:15"
+  },
   "CF263109640": {
     "contest_id": 955,
     "language": "C++20 (GCC 13-64)",
