@@ -23393,6 +23393,22 @@
     ],
     "timestamp": "May/17/2024 08:26"
   },
+  "CF263153752": {
+    "contest_id": 1284,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1284/G.cpp",
+    "platform": "Codeforces",
+    "problem_index": "G",
+    "problem_name": "Seollal",
+    "problem_url": "https://codeforces.com/contest/1284/problem/G",
+    "submission_id": "CF263153752",
+    "submission_url": "https://codeforces.com/contest/1284/submission/263153752",
+    "tags": [
+      "graphs",
+      "*3300"
+    ],
+    "timestamp": "May/29/2024 20:11"
+  },
   "CF263153932": {
     "contest_id": 1599,
     "language": "C++20 (GCC 13-64)",
