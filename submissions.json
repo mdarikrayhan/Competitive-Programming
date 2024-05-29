@@ -40438,6 +40438,23 @@
     ],
     "timestamp": "May/29/2024 08:32"
   },
+  "CF263078850": {
+    "contest_id": 958,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/958/C3.cpp",
+    "platform": "Codeforces",
+    "problem_index": "C3",
+    "problem_name": "Encryption (hard)",
+    "problem_url": "https://codeforces.com/contest/958/problem/C3",
+    "submission_id": "CF263078850",
+    "submission_url": "https://codeforces.com/contest/958/submission/263078850",
+    "tags": [
+      "data structures",
+      "dp",
+      "*2500"
+    ],
+    "timestamp": "May/29/2024 08:43"
+  },
   "CF263078910": {
     "contest_id": 1088,
     "language": "C++20 (GCC 13-64)",
