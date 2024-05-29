@@ -23393,6 +23393,24 @@
     ],
     "timestamp": "May/17/2024 08:26"
   },
+  "CF263119148": {
+    "contest_id": 379,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/379/E.cpp",
+    "platform": "Codeforces",
+    "problem_index": "E",
+    "problem_name": "New Year Tree Decorations",
+    "problem_url": "https://codeforces.com/contest/379/problem/E",
+    "submission_id": "CF263119148",
+    "submission_url": "https://codeforces.com/contest/379/submission/263119148",
+    "tags": [
+      "geometry",
+      "schedules",
+      "sortings",
+      "*2500"
+    ],
+    "timestamp": "May/29/2024 15:32"
+  },
   "CF263119198": {
     "contest_id": 1876,
     "language": "C++20 (GCC 13-64)",
