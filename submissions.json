@@ -27654,6 +27654,25 @@
     ],
     "timestamp": "May/29/2024 15:36"
   },
+  "CF263126710": {
+    "contest_id": 1638,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1638/F.cpp",
+    "platform": "Codeforces",
+    "problem_index": "F",
+    "problem_name": "Two Posters",
+    "problem_url": "https://codeforces.com/contest/1638/problem/F",
+    "submission_id": "CF263126710",
+    "submission_url": "https://codeforces.com/contest/1638/submission/263126710",
+    "tags": [
+      "brute force",
+      "data structures",
+      "greedy",
+      "two pointers",
+      "*3200"
+    ],
+    "timestamp": "May/29/2024 16:35"
+  },
   "CF263126736": {
     "contest_id": 913,
     "language": "C++20 (GCC 13-64)",
