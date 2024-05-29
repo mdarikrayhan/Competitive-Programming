@@ -23393,6 +23393,23 @@
     ],
     "timestamp": "May/17/2024 08:26"
   },
+  "CF263148473": {
+    "contest_id": 1949,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1949/H.cpp",
+    "platform": "Codeforces",
+    "problem_index": "H",
+    "problem_name": "Division Avoidance",
+    "problem_url": "https://codeforces.com/contest/1949/problem/H",
+    "submission_id": "CF263148473",
+    "submission_url": "https://codeforces.com/contest/1949/submission/263148473",
+    "tags": [
+      "greedy",
+      "math",
+      "*3100"
+    ],
+    "timestamp": "May/29/2024 19:31"
+  },
   "CF263148495": {
     "contest_id": 1912,
     "language": "C++20 (GCC 13-64)",
