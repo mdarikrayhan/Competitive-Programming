@@ -24814,6 +24814,22 @@
     ],
     "timestamp": "May/29/2024 15:36"
   },
+  "CF263129651": {
+    "contest_id": 1007,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1007/E.cpp",
+    "platform": "Codeforces",
+    "problem_index": "E",
+    "problem_name": "Mini Metro",
+    "problem_url": "https://codeforces.com/contest/1007/problem/E",
+    "submission_id": "CF263129651",
+    "submission_url": "https://codeforces.com/contest/1007/submission/263129651",
+    "tags": [
+      "dp",
+      "*3400"
+    ],
+    "timestamp": "May/29/2024 17:01"
+  },
   "CF263129711": {
     "contest_id": 1799,
     "language": "C++20 (GCC 13-64)",
