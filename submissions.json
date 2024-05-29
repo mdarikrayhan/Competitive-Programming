@@ -23497,6 +23497,23 @@
     "tags": [],
     "timestamp": "May/29/2024 18:32"
   },
+  "CF263143976": {
+    "contest_id": 1685,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1685/D2.cpp",
+    "platform": "Codeforces",
+    "problem_index": "D2",
+    "problem_name": "Permutation Weight (Hard Version)",
+    "problem_url": "https://codeforces.com/contest/1685/problem/D2",
+    "submission_id": "CF263143976",
+    "submission_url": "https://codeforces.com/contest/1685/submission/263143976",
+    "tags": [
+      "constructive algorithms",
+      "greedy",
+      "*3500"
+    ],
+    "timestamp": "May/29/2024 18:57"
+  },
   "CF263144219": {
     "contest_id": 1349,
     "language": "C++20 (GCC 13-64)",
