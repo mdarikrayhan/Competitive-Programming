@@ -23393,6 +23393,19 @@
     ],
     "timestamp": "May/17/2024 08:26"
   },
+  "CF263170204": {
+    "contest_id": 1357,
+    "language": "Q#",
+    "path": "codeforces/1357/A6.qs",
+    "platform": "Codeforces",
+    "problem_index": "A6",
+    "problem_name": "Distinguish four Pauli gates",
+    "problem_url": "https://codeforces.com/contest/1357/problem/A6",
+    "submission_id": "CF263170204",
+    "submission_url": "https://codeforces.com/contest/1357/submission/263170204",
+    "tags": [],
+    "timestamp": "May/29/2024 23:00"
+  },
   "CF263170213": {
     "contest_id": 1357,
     "language": "Q#",
