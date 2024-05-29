@@ -23393,6 +23393,22 @@
     ],
     "timestamp": "May/17/2024 08:26"
   },
+  "CF263132196": {
+    "contest_id": 720,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/720/F.cpp",
+    "platform": "Codeforces",
+    "problem_index": "F",
+    "problem_name": "Array Covering",
+    "problem_url": "https://codeforces.com/contest/720/problem/F",
+    "submission_id": "CF263132196",
+    "submission_url": "https://codeforces.com/contest/720/submission/263132196",
+    "tags": [
+      "data structures",
+      "*3100"
+    ],
+    "timestamp": "May/29/2024 17:22"
+  },
   "CF263132230": {
     "contest_id": 1208,
     "language": "C++20 (GCC 13-64)",
