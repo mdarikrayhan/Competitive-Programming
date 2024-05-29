@@ -38710,6 +38710,23 @@
     ],
     "timestamp": "May/29/2024 07:56"
   },
+  "CF263076542": {
+    "contest_id": 83,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/83/E.cpp",
+    "platform": "Codeforces",
+    "problem_index": "E",
+    "problem_name": "Two Subsequences",
+    "problem_url": "https://codeforces.com/contest/83/problem/E",
+    "submission_id": "CF263076542",
+    "submission_url": "https://codeforces.com/contest/83/submission/263076542",
+    "tags": [
+      "bitmasks",
+      "dp",
+      "*2800"
+    ],
+    "timestamp": "May/29/2024 07:57"
+  },
   "CF263076568": {
     "contest_id": 1392,
     "language": "C++20 (GCC 13-64)",
