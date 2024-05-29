@@ -23497,6 +23497,23 @@
     "tags": [],
     "timestamp": "May/29/2024 18:32"
   },
+  "CF263145088": {
+    "contest_id": 1540,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1540/E.cpp",
+    "platform": "Codeforces",
+    "problem_index": "E",
+    "problem_name": "Tasty Dishes",
+    "problem_url": "https://codeforces.com/contest/1540/problem/E",
+    "submission_id": "CF263145088",
+    "submission_url": "https://codeforces.com/contest/1540/submission/263145088",
+    "tags": [
+      "math",
+      "matrices",
+      "*3500"
+    ],
+    "timestamp": "May/29/2024 19:06"
+  },
   "CF263145122": {
     "contest_id": 185,
     "language": "C++20 (GCC 13-64)",
