@@ -38145,6 +38145,22 @@
     ],
     "timestamp": "May/29/2024 07:27"
   },
+  "CF263075497": {
+    "contest_id": 530,
+    "language": "Picat",
+    "path": "codeforces/530/E.pi",
+    "platform": "Codeforces",
+    "problem_index": "E",
+    "problem_name": "Sum and product",
+    "problem_url": "https://codeforces.com/contest/530/problem/E",
+    "submission_id": "CF263075497",
+    "submission_url": "https://codeforces.com/contest/530/submission/263075497",
+    "tags": [
+      "*special problem",
+      "*1700"
+    ],
+    "timestamp": "May/29/2024 07:32"
+  },
   "CF263075506": {
     "contest_id": 530,
     "language": "Picat",
