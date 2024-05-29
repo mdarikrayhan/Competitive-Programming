@@ -23497,6 +23497,24 @@
     "tags": [],
     "timestamp": "May/29/2024 18:32"
   },
+  "CF263144219": {
+    "contest_id": 1349,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1349/F2.cpp",
+    "platform": "Codeforces",
+    "problem_index": "F2",
+    "problem_name": "Slime and Sequences (Hard Version)",
+    "problem_url": "https://codeforces.com/contest/1349/problem/F2",
+    "submission_id": "CF263144219",
+    "submission_url": "https://codeforces.com/contest/1349/submission/263144219",
+    "tags": [
+      "dp",
+      "fft",
+      "math",
+      "*3500"
+    ],
+    "timestamp": "May/29/2024 18:59"
+  },
   "CF263144423": {
     "contest_id": 198,
     "language": "C++20 (GCC 13-64)",
