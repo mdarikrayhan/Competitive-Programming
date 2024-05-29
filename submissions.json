@@ -24298,6 +24298,23 @@
     ],
     "timestamp": "May/29/2024 08:12"
   },
+  "CF263077547": {
+    "contest_id": 611,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/611/G.cpp",
+    "platform": "Codeforces",
+    "problem_index": "G",
+    "problem_name": "New Year and Cake",
+    "problem_url": "https://codeforces.com/contest/611/problem/G",
+    "submission_id": "CF263077547",
+    "submission_url": "https://codeforces.com/contest/611/submission/263077547",
+    "tags": [
+      "geometry",
+      "two pointers",
+      "*2900"
+    ],
+    "timestamp": "May/29/2024 08:18"
+  },
   "CF263077559": {
     "contest_id": 1630,
     "language": "C++20 (GCC 13-64)",
