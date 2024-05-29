@@ -23393,6 +23393,26 @@
     ],
     "timestamp": "May/17/2024 08:26"
   },
+  "CF263132070": {
+    "contest_id": 350,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/350/D.cpp",
+    "platform": "Codeforces",
+    "problem_index": "D",
+    "problem_name": "Looking for Owls",
+    "problem_url": "https://codeforces.com/contest/350/problem/D",
+    "submission_id": "CF263132070",
+    "submission_url": "https://codeforces.com/contest/350/submission/263132070",
+    "tags": [
+      "binary search",
+      "data structures",
+      "geometry",
+      "hashing",
+      "sortings",
+      "*2400"
+    ],
+    "timestamp": "May/29/2024 17:20"
+  },
   "CF263132112": {
     "contest_id": 1198,
     "language": "C++20 (GCC 13-64)",
