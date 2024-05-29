@@ -23393,6 +23393,22 @@
     ],
     "timestamp": "May/17/2024 08:26"
   },
+  "CF263137838": {
+    "contest_id": 1887,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1887/F.cpp",
+    "platform": "Codeforces",
+    "problem_index": "F",
+    "problem_name": "Minimum Segments",
+    "problem_url": "https://codeforces.com/contest/1887/problem/F",
+    "submission_id": "CF263137838",
+    "submission_url": "https://codeforces.com/contest/1887/submission/263137838",
+    "tags": [
+      "constructive algorithms",
+      "*3400"
+    ],
+    "timestamp": "May/29/2024 18:07"
+  },
   "CF263137931": {
     "contest_id": 774,
     "language": "Haskell",
