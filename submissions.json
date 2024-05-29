@@ -23393,6 +23393,27 @@
     ],
     "timestamp": "May/17/2024 08:26"
   },
+  "CF263151925": {
+    "contest_id": 1508,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1508/E.cpp",
+    "platform": "Codeforces",
+    "problem_index": "E",
+    "problem_name": "Tree Calendar",
+    "problem_url": "https://codeforces.com/contest/1508/problem/E",
+    "submission_id": "CF263151925",
+    "submission_url": "https://codeforces.com/contest/1508/submission/263151925",
+    "tags": [
+      "brute force",
+      "constructive algorithms",
+      "data structures",
+      "dfs and similar",
+      "sortings",
+      "trees",
+      "*3100"
+    ],
+    "timestamp": "May/29/2024 19:56"
+  },
   "CF263151955": {
     "contest_id": 863,
     "language": "C++20 (GCC 13-64)",
