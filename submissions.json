@@ -24814,6 +24814,23 @@
     ],
     "timestamp": "May/29/2024 15:36"
   },
+  "CF263129482": {
+    "contest_id": 372,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/372/E.cpp",
+    "platform": "Codeforces",
+    "problem_index": "E",
+    "problem_name": "Drawing Circles is Fun",
+    "problem_url": "https://codeforces.com/contest/372/problem/E",
+    "submission_id": "CF263129482",
+    "submission_url": "https://codeforces.com/contest/372/submission/263129482",
+    "tags": [
+      "combinatorics",
+      "geometry",
+      "*3000"
+    ],
+    "timestamp": "May/29/2024 17:00"
+  },
   "CF263129512": {
     "contest_id": 1601,
     "language": "C++20 (GCC 13-64)",
