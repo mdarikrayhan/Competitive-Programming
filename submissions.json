@@ -24814,6 +24814,22 @@
     ],
     "timestamp": "May/29/2024 15:36"
   },
+  "CF263130233": {
+    "contest_id": 859,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/859/F.cpp",
+    "platform": "Codeforces",
+    "problem_index": "F",
+    "problem_name": "Ordering T-Shirts",
+    "problem_url": "https://codeforces.com/contest/859/problem/F",
+    "submission_id": "CF263130233",
+    "submission_url": "https://codeforces.com/contest/859/submission/263130233",
+    "tags": [
+      "greedy",
+      "*2800"
+    ],
+    "timestamp": "May/29/2024 17:06"
+  },
   "CF263130242": {
     "contest_id": 1939,
     "language": "C++20 (GCC 13-64)",
