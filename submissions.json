@@ -23393,6 +23393,26 @@
     ],
     "timestamp": "May/17/2024 08:26"
   },
+  "CF263111592": {
+    "contest_id": 1284,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1284/F.cpp",
+    "platform": "Codeforces",
+    "problem_index": "F",
+    "problem_name": "New Year and Social Network",
+    "problem_url": "https://codeforces.com/contest/1284/problem/F",
+    "submission_id": "CF263111592",
+    "submission_url": "https://codeforces.com/contest/1284/submission/263111592",
+    "tags": [
+      "data structures",
+      "graph matchings",
+      "graphs",
+      "math",
+      "trees",
+      "*3200"
+    ],
+    "timestamp": "May/29/2024 14:31"
+  },
   "CF263111661": {
     "contest_id": 1045,
     "language": "C++20 (GCC 13-64)",
