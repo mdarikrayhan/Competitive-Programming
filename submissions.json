@@ -24298,6 +24298,25 @@
     ],
     "timestamp": "May/29/2024 08:12"
   },
+  "CF263078098": {
+    "contest_id": 386,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/386/D.cpp",
+    "platform": "Codeforces",
+    "problem_index": "D",
+    "problem_name": "Game with Points",
+    "problem_url": "https://codeforces.com/contest/386/problem/D",
+    "submission_id": "CF263078098",
+    "submission_url": "https://codeforces.com/contest/386/submission/263078098",
+    "tags": [
+      "dp",
+      "graphs",
+      "implementation",
+      "shortest paths",
+      "*2100"
+    ],
+    "timestamp": "May/29/2024 08:29"
+  },
   "CF263078109": {
     "contest_id": 1372,
     "language": "C++20 (GCC 13-64)",
