@@ -24150,6 +24150,25 @@
     ],
     "timestamp": "May/29/2024 08:09"
   },
+  "CF263077131": {
+    "contest_id": 1476,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1476/G.cpp",
+    "platform": "Codeforces",
+    "problem_index": "G",
+    "problem_name": "Minimum Difference",
+    "problem_url": "https://codeforces.com/contest/1476/problem/G",
+    "submission_id": "CF263077131",
+    "submission_url": "https://codeforces.com/contest/1476/submission/263077131",
+    "tags": [
+      "data structures",
+      "hashing",
+      "sortings",
+      "two pointers",
+      "*3100"
+    ],
+    "timestamp": "May/29/2024 08:09"
+  },
   "CF263077136": {
     "contest_id": 1381,
     "language": "C++20 (GCC 13-64)",
