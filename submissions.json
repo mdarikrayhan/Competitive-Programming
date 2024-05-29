@@ -23393,6 +23393,22 @@
     ],
     "timestamp": "May/17/2024 08:26"
   },
+  "CF263112736": {
+    "contest_id": 176,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/176/D.cpp",
+    "platform": "Codeforces",
+    "problem_index": "D",
+    "problem_name": "Hyper String",
+    "problem_url": "https://codeforces.com/contest/176/problem/D",
+    "submission_id": "CF263112736",
+    "submission_url": "https://codeforces.com/contest/176/submission/263112736",
+    "tags": [
+      "dp",
+      "*2500"
+    ],
+    "timestamp": "May/29/2024 14:41"
+  },
   "CF263112894": {
     "contest_id": 58,
     "language": "C++20 (GCC 13-64)",
