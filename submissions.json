@@ -24815,6 +24815,22 @@
     ],
     "timestamp": "May/29/2024 10:33"
   },
+  "CF263088321": {
+    "contest_id": 840,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/840/E.cpp",
+    "platform": "Codeforces",
+    "problem_index": "E",
+    "problem_name": "In a Trap",
+    "problem_url": "https://codeforces.com/contest/840/problem/E",
+    "submission_id": "CF263088321",
+    "submission_url": "https://codeforces.com/contest/840/submission/263088321",
+    "tags": [
+      "trees",
+      "*3200"
+    ],
+    "timestamp": "May/29/2024 11:10"
+  },
   "CF263088331": {
     "contest_id": 388,
     "language": "C++20 (GCC 13-64)",
