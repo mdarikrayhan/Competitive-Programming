@@ -35912,6 +35912,25 @@
     ],
     "timestamp": "May/29/2024 15:36"
   },
+  "CF263119697": {
+    "contest_id": 434,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/434/E.cpp",
+    "platform": "Codeforces",
+    "problem_index": "E",
+    "problem_name": "Furukawa Nagisa's Tree",
+    "problem_url": "https://codeforces.com/contest/434/problem/E",
+    "submission_id": "CF263119697",
+    "submission_url": "https://codeforces.com/contest/434/submission/263119697",
+    "tags": [
+      "binary search",
+      "divide and conquer",
+      "sortings",
+      "trees",
+      "*3000"
+    ],
+    "timestamp": "May/29/2024 15:36"
+  },
   "CF263119790": {
     "contest_id": 1868,
     "language": "C++20 (GCC 13-64)",
