@@ -24814,6 +24814,24 @@
     ],
     "timestamp": "May/29/2024 15:36"
   },
+  "CF263129480": {
+    "contest_id": 933,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/933/D.cpp",
+    "platform": "Codeforces",
+    "problem_index": "D",
+    "problem_name": "A Creative Cutout",
+    "problem_url": "https://codeforces.com/contest/933/problem/D",
+    "submission_id": "CF263129480",
+    "submission_url": "https://codeforces.com/contest/933/submission/263129480",
+    "tags": [
+      "brute force",
+      "combinatorics",
+      "math",
+      "*2900"
+    ],
+    "timestamp": "May/29/2024 17:00"
+  },
   "CF263129482": {
     "contest_id": 372,
     "language": "C++20 (GCC 13-64)",
