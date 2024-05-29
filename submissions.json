@@ -40438,6 +40438,25 @@
     ],
     "timestamp": "May/29/2024 08:32"
   },
+  "CF263078457": {
+    "contest_id": 1184,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1184/E3.cpp",
+    "platform": "Codeforces",
+    "problem_index": "E3",
+    "problem_name": "Daleks' Invasion (hard)",
+    "problem_url": "https://codeforces.com/contest/1184/problem/E3",
+    "submission_id": "CF263078457",
+    "submission_url": "https://codeforces.com/contest/1184/submission/263078457",
+    "tags": [
+      "data structures",
+      "dsu",
+      "graphs",
+      "trees",
+      "*2400"
+    ],
+    "timestamp": "May/29/2024 08:36"
+  },
   "CF263078460": {
     "contest_id": 1137,
     "language": "C++20 (GCC 13-64)",
