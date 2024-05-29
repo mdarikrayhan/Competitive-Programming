@@ -27418,6 +27418,23 @@
     ],
     "timestamp": "May/29/2024 07:02"
   },
+  "CF263074452": {
+    "contest_id": 725,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/725/F.cpp",
+    "platform": "Codeforces",
+    "problem_index": "F",
+    "problem_name": "Family Photos",
+    "problem_url": "https://codeforces.com/contest/725/problem/F",
+    "submission_id": "CF263074452",
+    "submission_url": "https://codeforces.com/contest/725/submission/263074452",
+    "tags": [
+      "games",
+      "greedy",
+      "*2900"
+    ],
+    "timestamp": "May/29/2024 07:07"
+  },
   "CF263074460": {
     "contest_id": 1687,
     "language": "C++20 (GCC 13-64)",
