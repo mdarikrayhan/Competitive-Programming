@@ -23393,6 +23393,23 @@
     ],
     "timestamp": "May/17/2024 08:26"
   },
+  "CF263148544": {
+    "contest_id": 1545,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1545/E1.cpp",
+    "platform": "Codeforces",
+    "problem_index": "E1",
+    "problem_name": "AquaMoon and Time Stop (easy version)",
+    "problem_url": "https://codeforces.com/contest/1545/problem/E1",
+    "submission_id": "CF263148544",
+    "submission_url": "https://codeforces.com/contest/1545/submission/263148544",
+    "tags": [
+      "data structures",
+      "dp",
+      "*3500"
+    ],
+    "timestamp": "May/29/2024 19:31"
+  },
   "CF263148610": {
     "contest_id": 1055,
     "language": "C++20 (GCC 13-64)",
