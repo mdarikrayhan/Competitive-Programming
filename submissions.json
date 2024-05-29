@@ -23393,6 +23393,22 @@
     ],
     "timestamp": "May/17/2024 08:26"
   },
+  "CF263153363": {
+    "contest_id": 442,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/442/E.cpp",
+    "platform": "Codeforces",
+    "problem_index": "E",
+    "problem_name": "Gena and Second Distance",
+    "problem_url": "https://codeforces.com/contest/442/problem/E",
+    "submission_id": "CF263153363",
+    "submission_url": "https://codeforces.com/contest/442/submission/263153363",
+    "tags": [
+      "geometry",
+      "*3100"
+    ],
+    "timestamp": "May/29/2024 20:08"
+  },
   "CF263153572": {
     "contest_id": 1764,
     "language": "C++20 (GCC 13-64)",
