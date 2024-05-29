@@ -23393,6 +23393,23 @@
     ],
     "timestamp": "May/17/2024 08:26"
   },
+  "CF263076854": {
+    "contest_id": 480,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/480/D.cpp",
+    "platform": "Codeforces",
+    "problem_index": "D",
+    "problem_name": "Parcels",
+    "problem_url": "https://codeforces.com/contest/480/problem/D",
+    "submission_id": "CF263076854",
+    "submission_url": "https://codeforces.com/contest/480/submission/263076854",
+    "tags": [
+      "dp",
+      "graphs",
+      "*2600"
+    ],
+    "timestamp": "May/29/2024 08:03"
+  },
   "CF263076864": {
     "contest_id": 174,
     "language": "C++20 (GCC 13-64)",
