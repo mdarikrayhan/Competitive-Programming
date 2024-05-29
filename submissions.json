@@ -27114,6 +27114,23 @@
     ],
     "timestamp": "May/29/2024 06:34"
   },
+  "CF263073395": {
+    "contest_id": 685,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/685/C.cpp",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Optimal Point",
+    "problem_url": "https://codeforces.com/contest/685/problem/C",
+    "submission_id": "CF263073395",
+    "submission_url": "https://codeforces.com/contest/685/submission/263073395",
+    "tags": [
+      "binary search",
+      "math",
+      "*2900"
+    ],
+    "timestamp": "May/29/2024 06:39"
+  },
   "CF263073402": {
     "contest_id": 160,
     "language": "C++20 (GCC 13-64)",
