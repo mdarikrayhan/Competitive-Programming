@@ -23393,6 +23393,23 @@
     ],
     "timestamp": "May/17/2024 08:26"
   },
+  "CF263111909": {
+    "contest_id": 46,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/46/F.cpp",
+    "platform": "Codeforces",
+    "problem_index": "F",
+    "problem_name": "Hercule Poirot Problem",
+    "problem_url": "https://codeforces.com/contest/46/problem/F",
+    "submission_id": "CF263111909",
+    "submission_url": "https://codeforces.com/contest/46/submission/263111909",
+    "tags": [
+      "dsu",
+      "graphs",
+      "*2300"
+    ],
+    "timestamp": "May/29/2024 14:34"
+  },
   "CF263112002": {
     "contest_id": 1531,
     "language": "C++20 (GCC 13-64)",
