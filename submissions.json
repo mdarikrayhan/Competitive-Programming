@@ -23393,6 +23393,23 @@
     ],
     "timestamp": "May/17/2024 08:26"
   },
+  "CF263118386": {
+    "contest_id": 394,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/394/D.cpp",
+    "platform": "Codeforces",
+    "problem_index": "D",
+    "problem_name": "Physical Education and Buns",
+    "problem_url": "https://codeforces.com/contest/394/problem/D",
+    "submission_id": "CF263118386",
+    "submission_url": "https://codeforces.com/contest/394/submission/263118386",
+    "tags": [
+      "brute force",
+      "implementation",
+      "math"
+    ],
+    "timestamp": "May/29/2024 15:27"
+  },
   "CF263118412": {
     "contest_id": 91,
     "language": "C++20 (GCC 13-64)",
