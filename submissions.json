@@ -23393,6 +23393,23 @@
     ],
     "timestamp": "May/17/2024 08:26"
   },
+  "CF263112582": {
+    "contest_id": 774,
+    "language": "Python 3",
+    "path": "codeforces/774/J.py",
+    "platform": "Codeforces",
+    "problem_index": "J",
+    "problem_name": "Stepan's Series",
+    "problem_url": "https://codeforces.com/contest/774/problem/J",
+    "submission_id": "CF263112582",
+    "submission_url": "https://codeforces.com/contest/774/submission/263112582",
+    "tags": [
+      "*special problem",
+      "dp",
+      "*2000"
+    ],
+    "timestamp": "May/29/2024 14:39"
+  },
   "CF263112731": {
     "contest_id": 1109,
     "language": "C++20 (GCC 13-64)",
