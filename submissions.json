@@ -27114,6 +27114,24 @@
     ],
     "timestamp": "May/29/2024 06:34"
   },
+  "CF263073592": {
+    "contest_id": 1610,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1610/F.cpp",
+    "platform": "Codeforces",
+    "problem_index": "F",
+    "problem_name": "Mashtali: a Space Oddysey",
+    "problem_url": "https://codeforces.com/contest/1610/problem/F",
+    "submission_id": "CF263073592",
+    "submission_url": "https://codeforces.com/contest/1610/submission/263073592",
+    "tags": [
+      "constructive algorithms",
+      "dfs and similar",
+      "graphs",
+      "*3000"
+    ],
+    "timestamp": "May/29/2024 06:45"
+  },
   "CF263073607": {
     "contest_id": 421,
     "language": "C++20 (GCC 13-64)",
