@@ -24814,6 +24814,25 @@
     ],
     "timestamp": "May/29/2024 15:36"
   },
+  "CF263129512": {
+    "contest_id": 1601,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1601/F.cpp",
+    "platform": "Codeforces",
+    "problem_index": "F",
+    "problem_name": "Two Sorts",
+    "problem_url": "https://codeforces.com/contest/1601/problem/F",
+    "submission_id": "CF263129512",
+    "submission_url": "https://codeforces.com/contest/1601/submission/263129512",
+    "tags": [
+      "binary search",
+      "dfs and similar",
+      "math",
+      "meet-in-the-middle",
+      "*3400"
+    ],
+    "timestamp": "May/29/2024 17:00"
+  },
   "CF263129583": {
     "contest_id": 401,
     "language": "C++20 (GCC 13-64)",
