@@ -24815,6 +24815,24 @@
     ],
     "timestamp": "May/29/2024 10:33"
   },
+  "CF263095798": {
+    "contest_id": 65,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/65/D.cpp",
+    "platform": "Codeforces",
+    "problem_index": "D",
+    "problem_name": "Harry Potter and the Sorting Hat",
+    "problem_url": "https://codeforces.com/contest/65/problem/D",
+    "submission_id": "CF263095798",
+    "submission_url": "https://codeforces.com/contest/65/submission/263095798",
+    "tags": [
+      "brute force",
+      "dfs and similar",
+      "hashing",
+      "*2200"
+    ],
+    "timestamp": "May/29/2024 12:29"
+  },
   "CF263095821": {
     "contest_id": 1091,
     "language": "C++20 (GCC 13-64)",
