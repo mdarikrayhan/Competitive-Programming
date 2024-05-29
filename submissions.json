@@ -23497,6 +23497,23 @@
     "tags": [],
     "timestamp": "May/29/2024 18:32"
   },
+  "CF263147652": {
+    "contest_id": 126,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/126/E.cpp",
+    "platform": "Codeforces",
+    "problem_index": "E",
+    "problem_name": "Pills",
+    "problem_url": "https://codeforces.com/contest/126/problem/E",
+    "submission_id": "CF263147652",
+    "submission_url": "https://codeforces.com/contest/126/submission/263147652",
+    "tags": [
+      "brute force",
+      "flows",
+      "*2900"
+    ],
+    "timestamp": "May/29/2024 19:25"
+  },
   "CF263147712": {
     "contest_id": 1817,
     "language": "C++20 (GCC 13-64)",
