@@ -23393,6 +23393,19 @@
     ],
     "timestamp": "May/17/2024 08:26"
   },
+  "CF263140949": {
+    "contest_id": 1089,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1089/M.cpp",
+    "platform": "Codeforces",
+    "problem_index": "M",
+    "problem_name": "Minegraphed",
+    "problem_url": "https://codeforces.com/contest/1089/problem/M",
+    "submission_id": "CF263140949",
+    "submission_url": "https://codeforces.com/contest/1089/submission/263140949",
+    "tags": [],
+    "timestamp": "May/29/2024 18:32"
+  },
   "CF263147915": {
     "contest_id": 1545,
     "language": "C++20 (GCC 13-64)",
