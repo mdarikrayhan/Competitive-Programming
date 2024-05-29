@@ -38145,6 +38145,24 @@
     ],
     "timestamp": "May/29/2024 07:27"
   },
+  "CF263075312": {
+    "contest_id": 1488,
+    "language": "Kotlin 1.7",
+    "path": "codeforces/1488/E.kt",
+    "platform": "Codeforces",
+    "problem_index": "E",
+    "problem_name": "Palindromic Doubles",
+    "problem_url": "https://codeforces.com/contest/1488/problem/E",
+    "submission_id": "CF263075312",
+    "submission_url": "https://codeforces.com/contest/1488/submission/263075312",
+    "tags": [
+      "*special problem",
+      "data structures",
+      "dp",
+      "*2200"
+    ],
+    "timestamp": "May/29/2024 07:27"
+  },
   "CF263075325": {
     "contest_id": 1488,
     "language": "Kotlin 1.7",
