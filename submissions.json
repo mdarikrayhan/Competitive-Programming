@@ -23393,6 +23393,26 @@
     ],
     "timestamp": "May/17/2024 08:26"
   },
+  "CF263072508": {
+    "contest_id": 85,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/85/C.cpp",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Petya and Tree",
+    "problem_url": "https://codeforces.com/contest/85/problem/C",
+    "submission_id": "CF263072508",
+    "submission_url": "https://codeforces.com/contest/85/submission/263072508",
+    "tags": [
+      "binary search",
+      "dfs and similar",
+      "probabilities",
+      "sortings",
+      "trees",
+      "*2200"
+    ],
+    "timestamp": "May/29/2024 06:13"
+  },
   "CF263072515": {
     "contest_id": 1073,
     "language": "C++20 (GCC 13-64)",
