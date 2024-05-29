@@ -23393,6 +23393,25 @@
     ],
     "timestamp": "May/17/2024 08:26"
   },
+  "CF263084168": {
+    "contest_id": 1473,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1473/G.cpp",
+    "platform": "Codeforces",
+    "problem_index": "G",
+    "problem_name": "Tiles",
+    "problem_url": "https://codeforces.com/contest/1473/problem/G",
+    "submission_id": "CF263084168",
+    "submission_url": "https://codeforces.com/contest/1473/submission/263084168",
+    "tags": [
+      "combinatorics",
+      "dp",
+      "fft",
+      "math",
+      "*2800"
+    ],
+    "timestamp": "May/29/2024 10:10"
+  },
   "CF263084194": {
     "contest_id": 1774,
     "language": "C++20 (GCC 13-64)",
