@@ -23393,6 +23393,24 @@
     ],
     "timestamp": "May/17/2024 08:26"
   },
+  "CF263082823": {
+    "contest_id": 107,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/107/D.cpp",
+    "platform": "Codeforces",
+    "problem_index": "D",
+    "problem_name": "Crime Management",
+    "problem_url": "https://codeforces.com/contest/107/problem/D",
+    "submission_id": "CF263082823",
+    "submission_url": "https://codeforces.com/contest/107/submission/263082823",
+    "tags": [
+      "dp",
+      "graphs",
+      "matrices",
+      "*2400"
+    ],
+    "timestamp": "May/29/2024 09:47"
+  },
   "CF263082840": {
     "contest_id": 1388,
     "language": "C++20 (GCC 13-64)",
