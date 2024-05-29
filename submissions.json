@@ -33073,6 +33073,25 @@
     ],
     "timestamp": "May/29/2024 14:00"
   },
+  "CF263111257": {
+    "contest_id": 1672,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1672/G.cpp",
+    "platform": "Codeforces",
+    "problem_index": "G",
+    "problem_name": "Cross Xor",
+    "problem_url": "https://codeforces.com/contest/1672/problem/G",
+    "submission_id": "CF263111257",
+    "submission_url": "https://codeforces.com/contest/1672/submission/263111257",
+    "tags": [
+      "constructive algorithms",
+      "graphs",
+      "math",
+      "matrices",
+      "*3200"
+    ],
+    "timestamp": "May/29/2024 14:28"
+  },
   "CF263111278": {
     "contest_id": 1408,
     "language": "C++20 (GCC 13-64)",
