@@ -27114,6 +27114,23 @@
     ],
     "timestamp": "May/29/2024 06:34"
   },
+  "CF263073616": {
+    "contest_id": 309,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/309/B.cpp",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Context Advertising",
+    "problem_url": "https://codeforces.com/contest/309/problem/B",
+    "submission_id": "CF263073616",
+    "submission_url": "https://codeforces.com/contest/309/submission/263073616",
+    "tags": [
+      "dp",
+      "two pointers",
+      "*2100"
+    ],
+    "timestamp": "May/29/2024 06:46"
+  },
   "CF263073623": {
     "contest_id": 883,
     "language": "C++20 (GCC 13-64)",
