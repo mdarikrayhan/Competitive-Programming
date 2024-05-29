@@ -35066,6 +35066,23 @@
     ],
     "timestamp": "May/29/2024 08:32"
   },
+  "CF263079577": {
+    "contest_id": 100,
+    "language": "Pike",
+    "path": "codeforces/100/B.pike",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Friendly Numbers",
+    "problem_url": "https://codeforces.com/contest/100/problem/B",
+    "submission_id": "CF263079577",
+    "submission_url": "https://codeforces.com/contest/100/submission/263079577",
+    "tags": [
+      "*special problem",
+      "implementation",
+      "*1500"
+    ],
+    "timestamp": "May/29/2024 08:56"
+  },
   "CF263079600": {
     "contest_id": 100,
     "language": "Pike",
