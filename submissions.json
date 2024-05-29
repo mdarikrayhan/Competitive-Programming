@@ -27114,6 +27114,24 @@
     ],
     "timestamp": "May/29/2024 06:34"
   },
+  "CF263073607": {
+    "contest_id": 421,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/421/D.cpp",
+    "platform": "Codeforces",
+    "problem_index": "D",
+    "problem_name": "Bug in Code",
+    "problem_url": "https://codeforces.com/contest/421/problem/D",
+    "submission_id": "CF263073607",
+    "submission_url": "https://codeforces.com/contest/421/submission/263073607",
+    "tags": [
+      "binary search",
+      "data structures",
+      "sortings",
+      "*1900"
+    ],
+    "timestamp": "May/29/2024 06:45"
+  },
   "CF263073616": {
     "contest_id": 309,
     "language": "C++20 (GCC 13-64)",
