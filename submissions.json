@@ -23393,6 +23393,24 @@
     ],
     "timestamp": "May/17/2024 08:26"
   },
+  "CF263119508": {
+    "contest_id": 1526,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1526/F.cpp",
+    "platform": "Codeforces",
+    "problem_index": "F",
+    "problem_name": "Median Queries",
+    "problem_url": "https://codeforces.com/contest/1526/problem/F",
+    "submission_id": "CF263119508",
+    "submission_url": "https://codeforces.com/contest/1526/submission/263119508",
+    "tags": [
+      "constructive algorithms",
+      "interactive",
+      "probabilities",
+      "*3000"
+    ],
+    "timestamp": "May/29/2024 15:35"
+  },
   "CF263119529": {
     "contest_id": 117,
     "language": "C++20 (GCC 13-64)",
