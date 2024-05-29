@@ -23497,6 +23497,22 @@
     "tags": [],
     "timestamp": "May/29/2024 18:32"
   },
+  "CF263141695": {
+    "contest_id": 1060,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1060/H.cpp",
+    "platform": "Codeforces",
+    "problem_index": "H",
+    "problem_name": "Sophisticated Device",
+    "problem_url": "https://codeforces.com/contest/1060/problem/H",
+    "submission_id": "CF263141695",
+    "submission_url": "https://codeforces.com/contest/1060/submission/263141695",
+    "tags": [
+      "constructive algorithms",
+      "*3300"
+    ],
+    "timestamp": "May/29/2024 18:38"
+  },
   "CF263141716": {
     "contest_id": 592,
     "language": "C++20 (GCC 13-64)",
