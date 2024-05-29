@@ -30034,6 +30034,24 @@
     ],
     "timestamp": "May/29/2024 15:36"
   },
+  "CF263123272": {
+    "contest_id": 648,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/648/D.cpp",
+    "platform": "Codeforces",
+    "problem_index": "D",
+    "problem_name": "\u0421\u043e\u0431\u0430\u0447\u043a\u0438 \u0438 \u043c\u0438\u0441\u043a\u0438",
+    "problem_url": "https://codeforces.com/contest/648/problem/D",
+    "submission_id": "CF263123272",
+    "submission_url": "https://codeforces.com/contest/648/submission/263123272",
+    "tags": [
+      "data structures",
+      "greedy",
+      "sortings",
+      "*1900"
+    ],
+    "timestamp": "May/29/2024 16:06"
+  },
   "CF263123386": {
     "contest_id": 1194,
     "language": "C++20 (GCC 13-64)",
