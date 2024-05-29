@@ -23393,6 +23393,26 @@
     ],
     "timestamp": "May/17/2024 08:26"
   },
+  "CF263114297": {
+    "contest_id": 843,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/843/C.cpp",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Upgrading Tree",
+    "problem_url": "https://codeforces.com/contest/843/problem/C",
+    "submission_id": "CF263114297",
+    "submission_url": "https://codeforces.com/contest/843/submission/263114297",
+    "tags": [
+      "constructive algorithms",
+      "dfs and similar",
+      "graphs",
+      "math",
+      "trees",
+      "*2600"
+    ],
+    "timestamp": "May/29/2024 14:53"
+  },
   "CF263114341": {
     "contest_id": 50,
     "language": "C++20 (GCC 13-64)",
