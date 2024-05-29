@@ -30034,6 +30034,23 @@
     ],
     "timestamp": "May/29/2024 15:36"
   },
+  "CF263122075": {
+    "contest_id": 23,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/23/D.cpp",
+    "platform": "Codeforces",
+    "problem_index": "D",
+    "problem_name": "Tetragon",
+    "problem_url": "https://codeforces.com/contest/23/problem/D",
+    "submission_id": "CF263122075",
+    "submission_url": "https://codeforces.com/contest/23/submission/263122075",
+    "tags": [
+      "geometry",
+      "math",
+      "*2600"
+    ],
+    "timestamp": "May/29/2024 15:55"
+  },
   "CF263122099": {
     "contest_id": 914,
     "language": "C++20 (GCC 13-64)",
