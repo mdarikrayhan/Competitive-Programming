@@ -23393,6 +23393,23 @@
     ],
     "timestamp": "May/17/2024 08:26"
   },
+  "CF263161977": {
+    "contest_id": 1218,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1218/B.cpp",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Guarding warehouses",
+    "problem_url": "https://codeforces.com/contest/1218/problem/B",
+    "submission_id": "CF263161977",
+    "submission_url": "https://codeforces.com/contest/1218/submission/263161977",
+    "tags": [
+      "data structures",
+      "geometry",
+      "*3000"
+    ],
+    "timestamp": "May/29/2024 21:23"
+  },
   "CF263162264": {
     "contest_id": 223,
     "language": "C++20 (GCC 13-64)",
