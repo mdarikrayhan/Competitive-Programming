@@ -23393,6 +23393,25 @@
     ],
     "timestamp": "May/17/2024 08:26"
   },
+  "CF263136214": {
+    "contest_id": 962,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/962/G.cpp",
+    "platform": "Codeforces",
+    "problem_index": "G",
+    "problem_name": "Visible Black Areas",
+    "problem_url": "https://codeforces.com/contest/962/problem/G",
+    "submission_id": "CF263136214",
+    "submission_url": "https://codeforces.com/contest/962/submission/263136214",
+    "tags": [
+      "data structures",
+      "dsu",
+      "geometry",
+      "trees",
+      "*2800"
+    ],
+    "timestamp": "May/29/2024 17:55"
+  },
   "CF263136273": {
     "contest_id": 1566,
     "language": "C++20 (GCC 13-64)",
