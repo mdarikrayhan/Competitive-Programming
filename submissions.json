@@ -37063,6 +37063,23 @@
     ],
     "timestamp": "May/29/2024 08:56"
   },
+  "CF263079614": {
+    "contest_id": 100,
+    "language": "Pike",
+    "path": "codeforces/100/D.pike",
+    "platform": "Codeforces",
+    "problem_index": "D",
+    "problem_name": "World of Mouth",
+    "problem_url": "https://codeforces.com/contest/100/problem/D",
+    "submission_id": "CF263079614",
+    "submission_url": "https://codeforces.com/contest/100/submission/263079614",
+    "tags": [
+      "*special problem",
+      "strings",
+      "*1500"
+    ],
+    "timestamp": "May/29/2024 08:56"
+  },
   "CF263079630": {
     "contest_id": 100,
     "language": "Pike",
