@@ -23497,6 +23497,24 @@
     "tags": [],
     "timestamp": "May/29/2024 18:32"
   },
+  "CF263144688": {
+    "contest_id": 1091,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1091/G.cpp",
+    "platform": "Codeforces",
+    "problem_index": "G",
+    "problem_name": "New Year and the Factorisation Collaboration",
+    "problem_url": "https://codeforces.com/contest/1091/problem/G",
+    "submission_id": "CF263144688",
+    "submission_url": "https://codeforces.com/contest/1091/submission/263144688",
+    "tags": [
+      "interactive",
+      "math",
+      "number theory",
+      "*3200"
+    ],
+    "timestamp": "May/29/2024 19:02"
+  },
   "CF263144761": {
     "contest_id": 1184,
     "language": "C++20 (GCC 13-64)",
