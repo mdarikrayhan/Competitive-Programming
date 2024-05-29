@@ -38145,6 +38145,24 @@
     ],
     "timestamp": "May/29/2024 07:27"
   },
+  "CF263075300": {
+    "contest_id": 1488,
+    "language": "Kotlin 1.7",
+    "path": "codeforces/1488/D.kt",
+    "platform": "Codeforces",
+    "problem_index": "D",
+    "problem_name": "Problemsolving Marathon",
+    "problem_url": "https://codeforces.com/contest/1488/problem/D",
+    "submission_id": "CF263075300",
+    "submission_url": "https://codeforces.com/contest/1488/submission/263075300",
+    "tags": [
+      "*special problem",
+      "binary search",
+      "greedy",
+      "*1900"
+    ],
+    "timestamp": "May/29/2024 07:27"
+  },
   "CF263075312": {
     "contest_id": 1488,
     "language": "Kotlin 1.7",
