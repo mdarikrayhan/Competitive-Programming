@@ -34313,6 +34313,28 @@
     ],
     "timestamp": "May/29/2024 14:54"
   },
+  "CF263114558": {
+    "contest_id": 1470,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1470/E.cpp",
+    "platform": "Codeforces",
+    "problem_index": "E",
+    "problem_name": "Strange Permutation",
+    "problem_url": "https://codeforces.com/contest/1470/problem/E",
+    "submission_id": "CF263114558",
+    "submission_url": "https://codeforces.com/contest/1470/submission/263114558",
+    "tags": [
+      "binary search",
+      "combinatorics",
+      "data structures",
+      "dp",
+      "graphs",
+      "implementation",
+      "two pointers",
+      "*3200"
+    ],
+    "timestamp": "May/29/2024 14:55"
+  },
   "CF263114578": {
     "contest_id": 241,
     "language": "C++20 (GCC 13-64)",
