@@ -30034,6 +30034,23 @@
     ],
     "timestamp": "May/29/2024 15:36"
   },
+  "CF263122480": {
+    "contest_id": 1083,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1083/D.cpp",
+    "platform": "Codeforces",
+    "problem_index": "D",
+    "problem_name": "The Fair Nut's getting crazy",
+    "problem_url": "https://codeforces.com/contest/1083/problem/D",
+    "submission_id": "CF263122480",
+    "submission_url": "https://codeforces.com/contest/1083/submission/263122480",
+    "tags": [
+      "data structures",
+      "implementation",
+      "*3500"
+    ],
+    "timestamp": "May/29/2024 15:59"
+  },
   "CF263122482": {
     "contest_id": 1510,
     "language": "C++20 (GCC 13-64)",
