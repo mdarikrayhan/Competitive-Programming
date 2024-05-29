@@ -24443,6 +24443,26 @@
     ],
     "timestamp": "May/29/2024 09:49"
   },
+  "CF263082965": {
+    "contest_id": 249,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/249/D.cpp",
+    "platform": "Codeforces",
+    "problem_index": "D",
+    "problem_name": "Donkey and Stars",
+    "problem_url": "https://codeforces.com/contest/249/problem/D",
+    "submission_id": "CF263082965",
+    "submission_url": "https://codeforces.com/contest/249/submission/263082965",
+    "tags": [
+      "data structures",
+      "dp",
+      "geometry",
+      "math",
+      "sortings",
+      "*2700"
+    ],
+    "timestamp": "May/29/2024 09:50"
+  },
   "CF263082988": {
     "contest_id": 1787,
     "language": "C++20 (GCC 13-64)",
