@@ -23393,6 +23393,23 @@
     ],
     "timestamp": "May/17/2024 08:26"
   },
+  "CF263111684": {
+    "contest_id": 1045,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1045/E.cpp",
+    "platform": "Codeforces",
+    "problem_index": "E",
+    "problem_name": "Ancient civilizations",
+    "problem_url": "https://codeforces.com/contest/1045/problem/E",
+    "submission_id": "CF263111684",
+    "submission_url": "https://codeforces.com/contest/1045/submission/263111684",
+    "tags": [
+      "constructive algorithms",
+      "geometry",
+      "*3200"
+    ],
+    "timestamp": "May/29/2024 14:32"
+  },
   "CF263111706": {
     "contest_id": 1045,
     "language": "C++20 (GCC 13-64)",
