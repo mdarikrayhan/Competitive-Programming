@@ -23393,6 +23393,23 @@
     ],
     "timestamp": "May/17/2024 08:26"
   },
+  "CF263073857": {
+    "contest_id": 139,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/139/B.cpp",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Wallpaper",
+    "problem_url": "https://codeforces.com/contest/139/problem/B",
+    "submission_id": "CF263073857",
+    "submission_url": "https://codeforces.com/contest/139/submission/263073857",
+    "tags": [
+      "implementation",
+      "math",
+      "*1600"
+    ],
+    "timestamp": "May/29/2024 06:53"
+  },
   "CF263073873": {
     "contest_id": 633,
     "language": "C++20 (GCC 13-64)",
