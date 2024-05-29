@@ -30034,6 +30034,22 @@
     ],
     "timestamp": "May/29/2024 15:36"
   },
+  "CF263122852": {
+    "contest_id": 411,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/411/B.cpp",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Multi-core Processor",
+    "problem_url": "https://codeforces.com/contest/411/problem/B",
+    "submission_id": "CF263122852",
+    "submission_url": "https://codeforces.com/contest/411/submission/263122852",
+    "tags": [
+      "implementation",
+      "*1600"
+    ],
+    "timestamp": "May/29/2024 16:02"
+  },
   "CF263122910": {
     "contest_id": 1086,
     "language": "C++20 (GCC 13-64)",
