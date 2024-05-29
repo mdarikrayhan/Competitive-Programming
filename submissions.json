@@ -23614,6 +23614,23 @@
     ],
     "timestamp": "May/29/2024 18:38"
   },
+  "CF263143211": {
+    "contest_id": 1210,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1210/F1.cpp",
+    "platform": "Codeforces",
+    "problem_index": "F1",
+    "problem_name": "Marek and Matching (easy version)",
+    "problem_url": "https://codeforces.com/contest/1210/problem/F1",
+    "submission_id": "CF263143211",
+    "submission_url": "https://codeforces.com/contest/1210/submission/263143211",
+    "tags": [
+      "brute force",
+      "probabilities",
+      "*3100"
+    ],
+    "timestamp": "May/29/2024 18:50"
+  },
   "CF263143353": {
     "contest_id": 336,
     "language": "C++20 (GCC 13-64)",
