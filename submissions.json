@@ -38060,6 +38060,22 @@
     ],
     "timestamp": "May/29/2024 07:10"
   },
+  "CF263075197": {
+    "contest_id": 1505,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1505/H.cpp",
+    "platform": "Codeforces",
+    "problem_index": "H",
+    "problem_name": "L BREAK into program",
+    "problem_url": "https://codeforces.com/contest/1505/problem/H",
+    "submission_id": "CF263075197",
+    "submission_url": "https://codeforces.com/contest/1505/submission/263075197",
+    "tags": [
+      "*special problem",
+      "*2500"
+    ],
+    "timestamp": "May/29/2024 07:25"
+  },
   "CF263075217": {
     "contest_id": 1710,
     "language": "C++20 (GCC 13-64)",
