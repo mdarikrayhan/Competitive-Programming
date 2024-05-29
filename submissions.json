@@ -35066,6 +35066,22 @@
     ],
     "timestamp": "May/29/2024 08:32"
   },
+  "CF263081428": {
+    "contest_id": 1142,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1142/D.cpp",
+    "platform": "Codeforces",
+    "problem_index": "D",
+    "problem_name": "Foreigner",
+    "problem_url": "https://codeforces.com/contest/1142/problem/D",
+    "submission_id": "CF263081428",
+    "submission_url": "https://codeforces.com/contest/1142/submission/263081428",
+    "tags": [
+      "dp",
+      "*2800"
+    ],
+    "timestamp": "May/29/2024 09:24"
+  },
   "CF263081470": {
     "contest_id": 1864,
     "language": "C++20 (GCC 13-64)",
