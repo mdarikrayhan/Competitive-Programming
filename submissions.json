@@ -27114,6 +27114,22 @@
     ],
     "timestamp": "May/29/2024 06:34"
   },
+  "CF263073369": {
+    "contest_id": 1677,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1677/E.cpp",
+    "platform": "Codeforces",
+    "problem_index": "E",
+    "problem_name": "Tokitsukaze and Beautiful Subsegments",
+    "problem_url": "https://codeforces.com/contest/1677/problem/E",
+    "submission_id": "CF263073369",
+    "submission_url": "https://codeforces.com/contest/1677/submission/263073369",
+    "tags": [
+      "data structures",
+      "*2900"
+    ],
+    "timestamp": "May/29/2024 06:38"
+  },
   "CF263073384": {
     "contest_id": 698,
     "language": "C++20 (GCC 13-64)",
