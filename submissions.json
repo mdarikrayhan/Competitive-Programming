@@ -23393,6 +23393,23 @@
     ],
     "timestamp": "May/17/2024 08:26"
   },
+  "CF263119529": {
+    "contest_id": 117,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/117/D.cpp",
+    "platform": "Codeforces",
+    "problem_index": "D",
+    "problem_name": "Not Quick Transformation",
+    "problem_url": "https://codeforces.com/contest/117/problem/D",
+    "submission_id": "CF263119529",
+    "submission_url": "https://codeforces.com/contest/117/submission/263119529",
+    "tags": [
+      "divide and conquer",
+      "math",
+      "*2500"
+    ],
+    "timestamp": "May/29/2024 15:35"
+  },
   "CF263119545": {
     "contest_id": 1386,
     "language": "C++20 (GCC 13-64)",
