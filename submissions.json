@@ -27654,6 +27654,25 @@
     ],
     "timestamp": "May/29/2024 15:36"
   },
+  "CF263125775": {
+    "contest_id": 1787,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1787/H.cpp",
+    "platform": "Codeforces",
+    "problem_index": "H",
+    "problem_name": "Codeforces Scoreboard",
+    "problem_url": "https://codeforces.com/contest/1787/problem/H",
+    "submission_id": "CF263125775",
+    "submission_url": "https://codeforces.com/contest/1787/submission/263125775",
+    "tags": [
+      "binary search",
+      "data structures",
+      "dp",
+      "geometry",
+      "*3300"
+    ],
+    "timestamp": "May/29/2024 16:27"
+  },
   "CF263125833": {
     "contest_id": 819,
     "language": "C++20 (GCC 13-64)",
