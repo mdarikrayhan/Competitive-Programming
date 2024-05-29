@@ -38060,6 +38060,22 @@
     ],
     "timestamp": "May/29/2024 07:10"
   },
+  "CF263075107": {
+    "contest_id": 132,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/132/B.cpp",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Piet",
+    "problem_url": "https://codeforces.com/contest/132/problem/B",
+    "submission_id": "CF263075107",
+    "submission_url": "https://codeforces.com/contest/132/submission/263075107",
+    "tags": [
+      "implementation",
+      "*2100"
+    ],
+    "timestamp": "May/29/2024 07:23"
+  },
   "CF263075121": {
     "contest_id": 1814,
     "language": "C++20 (GCC 13-64)",
