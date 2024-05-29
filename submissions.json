@@ -39208,6 +39208,24 @@
     ],
     "timestamp": "May/29/2024 10:33"
   },
+  "CF263087256": {
+    "contest_id": 418,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/418/D.cpp",
+    "platform": "Codeforces",
+    "problem_index": "D",
+    "problem_name": "Big Problems for Organizers",
+    "problem_url": "https://codeforces.com/contest/418/problem/D",
+    "submission_id": "CF263087256",
+    "submission_url": "https://codeforces.com/contest/418/submission/263087256",
+    "tags": [
+      "data structures",
+      "graphs",
+      "trees",
+      "*2800"
+    ],
+    "timestamp": "May/29/2024 10:56"
+  },
   "CF263087344": {
     "contest_id": 418,
     "language": "C++20 (GCC 13-64)",
