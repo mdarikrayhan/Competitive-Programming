@@ -27654,6 +27654,24 @@
     ],
     "timestamp": "May/29/2024 15:36"
   },
+  "CF263126954": {
+    "contest_id": 363,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/363/E.cpp",
+    "platform": "Codeforces",
+    "problem_index": "E",
+    "problem_name": "Two Circles",
+    "problem_url": "https://codeforces.com/contest/363/problem/E",
+    "submission_id": "CF263126954",
+    "submission_url": "https://codeforces.com/contest/363/submission/263126954",
+    "tags": [
+      "brute force",
+      "data structures",
+      "implementation",
+      "*2500"
+    ],
+    "timestamp": "May/29/2024 16:37"
+  },
   "CF263126985": {
     "contest_id": 1479,
     "language": "C++20 (GCC 13-64)",
