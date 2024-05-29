@@ -35066,6 +35066,23 @@
     ],
     "timestamp": "May/29/2024 08:32"
   },
+  "CF263079804": {
+    "contest_id": 1142,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1142/E.cpp",
+    "platform": "Codeforces",
+    "problem_index": "E",
+    "problem_name": "Pink Floyd",
+    "problem_url": "https://codeforces.com/contest/1142/problem/E",
+    "submission_id": "CF263079804",
+    "submission_url": "https://codeforces.com/contest/1142/submission/263079804",
+    "tags": [
+      "graphs",
+      "interactive",
+      "*3200"
+    ],
+    "timestamp": "May/29/2024 08:59"
+  },
   "CF263079890": {
     "contest_id": 1286,
     "language": "C++20 (GCC 13-64)",
