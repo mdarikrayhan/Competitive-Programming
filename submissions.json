@@ -38694,6 +38694,27 @@
     ],
     "timestamp": "May/29/2024 07:10"
   },
+  "CF263074687": {
+    "contest_id": 1419,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1419/F.cpp",
+    "platform": "Codeforces",
+    "problem_index": "F",
+    "problem_name": "Rain of Fire",
+    "problem_url": "https://codeforces.com/contest/1419/problem/F",
+    "submission_id": "CF263074687",
+    "submission_url": "https://codeforces.com/contest/1419/submission/263074687",
+    "tags": [
+      "binary search",
+      "data structures",
+      "dfs and similar",
+      "dsu",
+      "graphs",
+      "implementation",
+      "*2800"
+    ],
+    "timestamp": "May/29/2024 07:12"
+  },
   "CF263074694": {
     "contest_id": 51,
     "language": "C++20 (GCC 13-64)",
