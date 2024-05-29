@@ -23393,6 +23393,25 @@
     ],
     "timestamp": "May/17/2024 08:26"
   },
+  "CF263072354": {
+    "contest_id": 370,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/370/D.cpp",
+    "platform": "Codeforces",
+    "problem_index": "D",
+    "problem_name": "Broken Monitor",
+    "problem_url": "https://codeforces.com/contest/370/problem/D",
+    "submission_id": "CF263072354",
+    "submission_url": "https://codeforces.com/contest/370/submission/263072354",
+    "tags": [
+      "brute force",
+      "constructive algorithms",
+      "greedy",
+      "implementation",
+      "*2100"
+    ],
+    "timestamp": "May/29/2024 06:08"
+  },
   "CF263072357": {
     "contest_id": 78,
     "language": "C++20 (GCC 13-64)",
