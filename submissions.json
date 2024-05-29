@@ -38694,6 +38694,25 @@
     ],
     "timestamp": "May/29/2024 07:10"
   },
+  "CF263074629": {
+    "contest_id": 1801,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1801/F.cpp",
+    "platform": "Codeforces",
+    "problem_index": "F",
+    "problem_name": "Another n-dimensional chocolate bar",
+    "problem_url": "https://codeforces.com/contest/1801/problem/F",
+    "submission_id": "CF263074629",
+    "submission_url": "https://codeforces.com/contest/1801/submission/263074629",
+    "tags": [
+      "dp",
+      "math",
+      "meet-in-the-middle",
+      "number theory",
+      "*2700"
+    ],
+    "timestamp": "May/29/2024 07:11"
+  },
   "CF263074631": {
     "contest_id": 493,
     "language": "C++20 (GCC 13-64)",
