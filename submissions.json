@@ -34491,6 +34491,26 @@
     ],
     "timestamp": "May/29/2024 14:59"
   },
+  "CF263116107": {
+    "contest_id": 1956,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1956/F.cpp",
+    "platform": "Codeforces",
+    "problem_index": "F",
+    "problem_name": "Nene and the Passing Game",
+    "problem_url": "https://codeforces.com/contest/1956/problem/F",
+    "submission_id": "CF263116107",
+    "submission_url": "https://codeforces.com/contest/1956/submission/263116107",
+    "tags": [
+      "constructive algorithms",
+      "data structures",
+      "dsu",
+      "graphs",
+      "sortings",
+      "*3000"
+    ],
+    "timestamp": "May/29/2024 15:08"
+  },
   "CF263116136": {
     "contest_id": 457,
     "language": "C++20 (GCC 13-64)",
