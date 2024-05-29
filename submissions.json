@@ -38060,6 +38060,22 @@
     ],
     "timestamp": "May/29/2024 07:10"
   },
+  "CF263074815": {
+    "contest_id": 855,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/855/D.cpp",
+    "platform": "Codeforces",
+    "problem_index": "D",
+    "problem_name": "Rowena Ravenclaw's Diadem",
+    "problem_url": "https://codeforces.com/contest/855/problem/D",
+    "submission_id": "CF263074815",
+    "submission_url": "https://codeforces.com/contest/855/submission/263074815",
+    "tags": [
+      "trees",
+      "*2500"
+    ],
+    "timestamp": "May/29/2024 07:15"
+  },
   "CF263074833": {
     "contest_id": 1879,
     "language": "C++20 (GCC 13-64)",
