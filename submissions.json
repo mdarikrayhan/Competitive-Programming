@@ -38716,6 +38716,25 @@
     ],
     "timestamp": "May/29/2024 14:00"
   },
+  "CF263109998": {
+    "contest_id": 1845,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1845/F.cpp",
+    "platform": "Codeforces",
+    "problem_index": "F",
+    "problem_name": "Swimmers in the Pool",
+    "problem_url": "https://codeforces.com/contest/1845/problem/F",
+    "submission_id": "CF263109998",
+    "submission_url": "https://codeforces.com/contest/1845/submission/263109998",
+    "tags": [
+      "dp",
+      "fft",
+      "math",
+      "number theory",
+      "*2800"
+    ],
+    "timestamp": "May/29/2024 14:17"
+  },
   "CF263110007": {
     "contest_id": 1748,
     "language": "C++20 (GCC 13-64)",
