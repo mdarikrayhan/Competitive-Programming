@@ -23497,6 +23497,22 @@
     "tags": [],
     "timestamp": "May/29/2024 18:32"
   },
+  "CF263145925": {
+    "contest_id": 1667,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1667/F.cpp",
+    "platform": "Codeforces",
+    "problem_index": "F",
+    "problem_name": "Yin Yang",
+    "problem_url": "https://codeforces.com/contest/1667/problem/F",
+    "submission_id": "CF263145925",
+    "submission_url": "https://codeforces.com/contest/1667/submission/263145925",
+    "tags": [
+      "implementation",
+      "*3500"
+    ],
+    "timestamp": "May/29/2024 19:12"
+  },
   "CF263145955": {
     "contest_id": 1909,
     "language": "C++20 (GCC 13-64)",
