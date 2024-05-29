@@ -23393,6 +23393,24 @@
     ],
     "timestamp": "May/17/2024 08:26"
   },
+  "CF263076024": {
+    "contest_id": 1905,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1905/F.cpp",
+    "platform": "Codeforces",
+    "problem_index": "F",
+    "problem_name": "Field Should Not Be Empty",
+    "problem_url": "https://codeforces.com/contest/1905/problem/F",
+    "submission_id": "CF263076024",
+    "submission_url": "https://codeforces.com/contest/1905/submission/263076024",
+    "tags": [
+      "brute force",
+      "data structures",
+      "divide and conquer",
+      "*2600"
+    ],
+    "timestamp": "May/29/2024 07:45"
+  },
   "CF263076058": {
     "contest_id": 301,
     "language": "C++20 (GCC 13-64)",
