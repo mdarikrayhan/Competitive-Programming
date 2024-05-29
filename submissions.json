@@ -23393,6 +23393,23 @@
     ],
     "timestamp": "May/17/2024 08:26"
   },
+  "CF263074002": {
+    "contest_id": 1211,
+    "language": "Kotlin 1.7",
+    "path": "codeforces/1211/B.kt",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Traveling Around the Golden Ring of Berland",
+    "problem_url": "https://codeforces.com/contest/1211/problem/B",
+    "submission_id": "CF263074002",
+    "submission_url": "https://codeforces.com/contest/1211/submission/263074002",
+    "tags": [
+      "*special problem",
+      "implementation",
+      "*1500"
+    ],
+    "timestamp": "May/29/2024 06:57"
+  },
   "CF263074012": {
     "contest_id": 1211,
     "language": "Kotlin 1.7",
