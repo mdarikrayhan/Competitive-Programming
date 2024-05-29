@@ -34313,6 +34313,26 @@
     ],
     "timestamp": "May/29/2024 14:54"
   },
+  "CF263114716": {
+    "contest_id": 1913,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1913/F.cpp",
+    "platform": "Codeforces",
+    "problem_index": "F",
+    "problem_name": "Palindromic Problem",
+    "problem_url": "https://codeforces.com/contest/1913/problem/F",
+    "submission_id": "CF263114716",
+    "submission_url": "https://codeforces.com/contest/1913/submission/263114716",
+    "tags": [
+      "binary search",
+      "data structures",
+      "hashing",
+      "string suffix structures",
+      "strings",
+      "*2800"
+    ],
+    "timestamp": "May/29/2024 14:56"
+  },
   "CF263114747": {
     "contest_id": 1662,
     "language": "C++20 (GCC 13-64)",
