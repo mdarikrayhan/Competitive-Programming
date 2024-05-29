@@ -39035,6 +39035,26 @@
     ],
     "timestamp": "May/29/2024 10:19"
   },
+  "CF263084904": {
+    "contest_id": 533,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/533/A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Berland Miners",
+    "problem_url": "https://codeforces.com/contest/533/problem/A",
+    "submission_id": "CF263084904",
+    "submission_url": "https://codeforces.com/contest/533/submission/263084904",
+    "tags": [
+      "binary search",
+      "data structures",
+      "dfs and similar",
+      "greedy",
+      "trees",
+      "*3000"
+    ],
+    "timestamp": "May/29/2024 10:20"
+  },
   "CF263084909": {
     "contest_id": 72,
     "language": "Io",
