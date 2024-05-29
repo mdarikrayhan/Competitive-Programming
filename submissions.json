@@ -23497,6 +23497,24 @@
     "tags": [],
     "timestamp": "May/29/2024 18:32"
   },
+  "CF263146495": {
+    "contest_id": 756,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/756/F.cpp",
+    "platform": "Codeforces",
+    "problem_index": "F",
+    "problem_name": "Long number",
+    "problem_url": "https://codeforces.com/contest/756/problem/F",
+    "submission_id": "CF263146495",
+    "submission_url": "https://codeforces.com/contest/756/submission/263146495",
+    "tags": [
+      "expression parsing",
+      "math",
+      "number theory",
+      "*3400"
+    ],
+    "timestamp": "May/29/2024 19:16"
+  },
   "CF263146576": {
     "contest_id": 955,
     "language": "C++20 (GCC 13-64)",
