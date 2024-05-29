@@ -23393,6 +23393,24 @@
     ],
     "timestamp": "May/17/2024 08:26"
   },
+  "CF263072234": {
+    "contest_id": 1603,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1603/D.cpp",
+    "platform": "Codeforces",
+    "problem_index": "D",
+    "problem_name": "Artistic Partition",
+    "problem_url": "https://codeforces.com/contest/1603/problem/D",
+    "submission_id": "CF263072234",
+    "submission_url": "https://codeforces.com/contest/1603/submission/263072234",
+    "tags": [
+      "divide and conquer",
+      "dp",
+      "number theory",
+      "*3000"
+    ],
+    "timestamp": "May/29/2024 06:05"
+  },
   "CF263072265": {
     "contest_id": 267,
     "language": "C++20 (GCC 13-64)",
