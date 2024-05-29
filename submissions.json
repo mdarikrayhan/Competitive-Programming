@@ -24815,6 +24815,24 @@
     ],
     "timestamp": "May/29/2024 10:33"
   },
+  "CF263094367": {
+    "contest_id": 306,
+    "language": "C++17 (GCC 7-32)",
+    "path": "codeforces/306/B.cpp",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Optimizer",
+    "problem_url": "https://codeforces.com/contest/306/problem/B",
+    "submission_id": "CF263094367",
+    "submission_url": "https://codeforces.com/contest/306/submission/263094367",
+    "tags": [
+      "data structures",
+      "greedy",
+      "sortings",
+      "*2100"
+    ],
+    "timestamp": "May/29/2024 12:18"
+  },
   "CF263094426": {
     "contest_id": 306,
     "language": "C++20 (GCC 13-64)",
