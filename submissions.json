@@ -24814,6 +24814,23 @@
     ],
     "timestamp": "May/29/2024 15:36"
   },
+  "CF263130085": {
+    "contest_id": 887,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/887/F.cpp",
+    "platform": "Codeforces",
+    "problem_index": "F",
+    "problem_name": "Row of Models",
+    "problem_url": "https://codeforces.com/contest/887/problem/F",
+    "submission_id": "CF263130085",
+    "submission_url": "https://codeforces.com/contest/887/submission/263130085",
+    "tags": [
+      "greedy",
+      "sortings",
+      "*2500"
+    ],
+    "timestamp": "May/29/2024 17:05"
+  },
   "CF263130114": {
     "contest_id": 1939,
     "language": "C++20 (GCC 13-64)",
