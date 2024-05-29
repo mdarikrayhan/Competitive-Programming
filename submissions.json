@@ -30034,6 +30034,25 @@
     ],
     "timestamp": "May/29/2024 15:36"
   },
+  "CF263121006": {
+    "contest_id": 173,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/173/D.cpp",
+    "platform": "Codeforces",
+    "problem_index": "D",
+    "problem_name": "Deputies",
+    "problem_url": "https://codeforces.com/contest/173/problem/D",
+    "submission_id": "CF263121006",
+    "submission_url": "https://codeforces.com/contest/173/submission/263121006",
+    "tags": [
+      "constructive algorithms",
+      "graphs",
+      "greedy",
+      "implementation",
+      "*2500"
+    ],
+    "timestamp": "May/29/2024 15:47"
+  },
   "CF263121041": {
     "contest_id": 793,
     "language": "C++20 (GCC 13-64)",
