@@ -23497,6 +23497,25 @@
     "tags": [],
     "timestamp": "May/29/2024 18:32"
   },
+  "CF263144491": {
+    "contest_id": 457,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/457/F.cpp",
+    "platform": "Codeforces",
+    "problem_index": "F",
+    "problem_name": "An easy problem about trees",
+    "problem_url": "https://codeforces.com/contest/457/problem/F",
+    "submission_id": "CF263144491",
+    "submission_url": "https://codeforces.com/contest/457/submission/263144491",
+    "tags": [
+      "dp",
+      "games",
+      "greedy",
+      "trees",
+      "*3200"
+    ],
+    "timestamp": "May/29/2024 19:01"
+  },
   "CF263144531": {
     "contest_id": 1423,
     "language": "C++20 (GCC 13-64)",
