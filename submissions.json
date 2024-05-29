@@ -23393,6 +23393,23 @@
     ],
     "timestamp": "May/17/2024 08:26"
   },
+  "CF263117566": {
+    "contest_id": 1063,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1063/E.cpp",
+    "platform": "Codeforces",
+    "problem_index": "E",
+    "problem_name": "Lasers and Mirrors",
+    "problem_url": "https://codeforces.com/contest/1063/problem/E",
+    "submission_id": "CF263117566",
+    "submission_url": "https://codeforces.com/contest/1063/submission/263117566",
+    "tags": [
+      "constructive algorithms",
+      "math",
+      "*3000"
+    ],
+    "timestamp": "May/29/2024 15:20"
+  },
   "CF263117582": {
     "contest_id": 1806,
     "language": "C++20 (GCC 13-64)",
