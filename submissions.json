@@ -39221,6 +39221,24 @@
     "tags": [],
     "timestamp": "May/29/2024 10:57"
   },
+  "CF263087695": {
+    "contest_id": 1798,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1798/F.cpp",
+    "platform": "Codeforces",
+    "problem_index": "F",
+    "problem_name": "Gifts from Grandfather Ahmed",
+    "problem_url": "https://codeforces.com/contest/1798/problem/F",
+    "submission_id": "CF263087695",
+    "submission_url": "https://codeforces.com/contest/1798/submission/263087695",
+    "tags": [
+      "dp",
+      "math",
+      "number theory",
+      "*2500"
+    ],
+    "timestamp": "May/29/2024 11:02"
+  },
   "CF263087972": {
     "contest_id": 1517,
     "language": "C++20 (GCC 13-64)",
