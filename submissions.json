@@ -23393,6 +23393,25 @@
     ],
     "timestamp": "May/17/2024 08:26"
   },
+  "CF263113895": {
+    "contest_id": 1637,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1637/H.cpp",
+    "platform": "Codeforces",
+    "problem_index": "H",
+    "problem_name": "Minimize Inversions Number",
+    "problem_url": "https://codeforces.com/contest/1637/problem/H",
+    "submission_id": "CF263113895",
+    "submission_url": "https://codeforces.com/contest/1637/submission/263113895",
+    "tags": [
+      "data structures",
+      "greedy",
+      "math",
+      "sortings",
+      "*3500"
+    ],
+    "timestamp": "May/29/2024 14:50"
+  },
   "CF263113960": {
     "contest_id": 11,
     "language": "C++20 (GCC 13-64)",
