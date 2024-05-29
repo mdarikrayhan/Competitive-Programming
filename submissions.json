@@ -33196,6 +33196,22 @@
     ],
     "timestamp": "May/29/2024 07:46"
   },
+  "CF263076070": {
+    "contest_id": 985,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/985/G.cpp",
+    "platform": "Codeforces",
+    "problem_index": "G",
+    "problem_name": "Team Players",
+    "problem_url": "https://codeforces.com/contest/985/problem/G",
+    "submission_id": "CF263076070",
+    "submission_url": "https://codeforces.com/contest/985/submission/263076070",
+    "tags": [
+      "combinatorics",
+      "*2700"
+    ],
+    "timestamp": "May/29/2024 07:46"
+  },
   "CF263076086": {
     "contest_id": 1140,
     "language": "C++20 (GCC 13-64)",
