@@ -25733,6 +25733,23 @@
     "tags": [],
     "timestamp": "May/29/2024 10:57"
   },
+  "CF263087988": {
+    "contest_id": 277,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/277/C.cpp",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Game",
+    "problem_url": "https://codeforces.com/contest/277/problem/C",
+    "submission_id": "CF263087988",
+    "submission_url": "https://codeforces.com/contest/277/submission/263087988",
+    "tags": [
+      "games",
+      "implementation",
+      "*2400"
+    ],
+    "timestamp": "May/29/2024 11:06"
+  },
   "CF263088006": {
     "contest_id": 377,
     "language": "C++20 (GCC 13-64)",
