@@ -30034,6 +30034,26 @@
     ],
     "timestamp": "May/29/2024 15:36"
   },
+  "CF263122198": {
+    "contest_id": 1569,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1569/F.cpp",
+    "platform": "Codeforces",
+    "problem_index": "F",
+    "problem_name": "Palindromic Hamiltonian Path",
+    "problem_url": "https://codeforces.com/contest/1569/problem/F",
+    "submission_id": "CF263122198",
+    "submission_url": "https://codeforces.com/contest/1569/submission/263122198",
+    "tags": [
+      "brute force",
+      "dfs and similar",
+      "dp",
+      "graphs",
+      "hashing",
+      "*3000"
+    ],
+    "timestamp": "May/29/2024 15:56"
+  },
   "CF263122227": {
     "contest_id": 1270,
     "language": "C++20 (GCC 13-64)",
