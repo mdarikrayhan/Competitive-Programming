@@ -37644,6 +37644,24 @@
     ],
     "timestamp": "May/29/2024 09:39"
   },
+  "CF263082738": {
+    "contest_id": 1131,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1131/G.cpp",
+    "platform": "Codeforces",
+    "problem_index": "G",
+    "problem_name": "Most Dangerous Shark",
+    "problem_url": "https://codeforces.com/contest/1131/problem/G",
+    "submission_id": "CF263082738",
+    "submission_url": "https://codeforces.com/contest/1131/submission/263082738",
+    "tags": [
+      "data structures",
+      "dp",
+      "two pointers",
+      "*2700"
+    ],
+    "timestamp": "May/29/2024 09:46"
+  },
   "CF263082756": {
     "contest_id": 491,
     "language": "C++20 (GCC 13-64)",
