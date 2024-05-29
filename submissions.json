@@ -23393,6 +23393,25 @@
     ],
     "timestamp": "May/17/2024 08:26"
   },
+  "CF263119198": {
+    "contest_id": 1876,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1876/E.cpp",
+    "platform": "Codeforces",
+    "problem_index": "E",
+    "problem_name": "Ball-Stackable",
+    "problem_url": "https://codeforces.com/contest/1876/problem/E",
+    "submission_id": "CF263119198",
+    "submission_url": "https://codeforces.com/contest/1876/submission/263119198",
+    "tags": [
+      "constructive algorithms",
+      "data structures",
+      "dp",
+      "trees",
+      "*3300"
+    ],
+    "timestamp": "May/29/2024 15:33"
+  },
   "CF263119251": {
     "contest_id": 566,
     "language": "C++20 (GCC 13-64)",
