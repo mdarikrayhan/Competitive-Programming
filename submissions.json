@@ -23497,6 +23497,24 @@
     "tags": [],
     "timestamp": "May/29/2024 18:32"
   },
+  "CF263146249": {
+    "contest_id": 1934,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1934/E.cpp",
+    "platform": "Codeforces",
+    "problem_index": "E",
+    "problem_name": "Weird LCM Operations",
+    "problem_url": "https://codeforces.com/contest/1934/problem/E",
+    "submission_id": "CF263146249",
+    "submission_url": "https://codeforces.com/contest/1934/submission/263146249",
+    "tags": [
+      "brute force",
+      "constructive algorithms",
+      "number theory",
+      "*3000"
+    ],
+    "timestamp": "May/29/2024 19:14"
+  },
   "CF263146265": {
     "contest_id": 1896,
     "language": "C++20 (GCC 13-64)",
