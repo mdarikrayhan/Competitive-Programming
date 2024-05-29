@@ -23393,6 +23393,24 @@
     ],
     "timestamp": "May/17/2024 08:26"
   },
+  "CF263083293": {
+    "contest_id": 60,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/60/D.cpp",
+    "platform": "Codeforces",
+    "problem_index": "D",
+    "problem_name": "Savior",
+    "problem_url": "https://codeforces.com/contest/60/problem/D",
+    "submission_id": "CF263083293",
+    "submission_url": "https://codeforces.com/contest/60/submission/263083293",
+    "tags": [
+      "brute force",
+      "dsu",
+      "math",
+      "*2500"
+    ],
+    "timestamp": "May/29/2024 09:55"
+  },
   "CF263083311": {
     "contest_id": 286,
     "language": "C++20 (GCC 13-64)",
