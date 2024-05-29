@@ -38410,6 +38410,24 @@
     ],
     "timestamp": "May/29/2024 07:42"
   },
+  "CF263075918": {
+    "contest_id": 1056,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1056/F.cpp",
+    "platform": "Codeforces",
+    "problem_index": "F",
+    "problem_name": "Write The Contest",
+    "problem_url": "https://codeforces.com/contest/1056/problem/F",
+    "submission_id": "CF263075918",
+    "submission_url": "https://codeforces.com/contest/1056/submission/263075918",
+    "tags": [
+      "binary search",
+      "dp",
+      "math",
+      "*2500"
+    ],
+    "timestamp": "May/29/2024 07:42"
+  },
   "CF263075953": {
     "contest_id": 868,
     "language": "C++20 (GCC 13-64)",
