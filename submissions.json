@@ -23393,6 +23393,25 @@
     ],
     "timestamp": "May/17/2024 08:26"
   },
+  "CF263115096": {
+    "contest_id": 1726,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1726/G.cpp",
+    "platform": "Codeforces",
+    "problem_index": "G",
+    "problem_name": "A Certain Magical Party",
+    "problem_url": "https://codeforces.com/contest/1726/problem/G",
+    "submission_id": "CF263115096",
+    "submission_url": "https://codeforces.com/contest/1726/submission/263115096",
+    "tags": [
+      "combinatorics",
+      "data structures",
+      "greedy",
+      "sortings",
+      "*3300"
+    ],
+    "timestamp": "May/29/2024 14:59"
+  },
   "CF263116695": {
     "contest_id": 449,
     "language": "C++20 (GCC 13-64)",
