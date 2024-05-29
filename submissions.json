@@ -33073,6 +33073,24 @@
     ],
     "timestamp": "May/29/2024 14:00"
   },
+  "CF263110329": {
+    "contest_id": 1396,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1396/E.cpp",
+    "platform": "Codeforces",
+    "problem_index": "E",
+    "problem_name": "Distance Matching",
+    "problem_url": "https://codeforces.com/contest/1396/problem/E",
+    "submission_id": "CF263110329",
+    "submission_url": "https://codeforces.com/contest/1396/submission/263110329",
+    "tags": [
+      "constructive algorithms",
+      "dfs and similar",
+      "trees",
+      "*3200"
+    ],
+    "timestamp": "May/29/2024 14:20"
+  },
   "CF263110365": {
     "contest_id": 1045,
     "language": "C++20 (GCC 13-64)",
