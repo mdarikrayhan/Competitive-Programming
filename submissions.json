@@ -23393,6 +23393,24 @@
     ],
     "timestamp": "May/17/2024 08:26"
   },
+  "CF263072055": {
+    "contest_id": 1930,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1930/F.cpp",
+    "platform": "Codeforces",
+    "problem_index": "F",
+    "problem_name": "Maximize the Difference",
+    "problem_url": "https://codeforces.com/contest/1930/problem/F",
+    "submission_id": "CF263072055",
+    "submission_url": "https://codeforces.com/contest/1930/submission/263072055",
+    "tags": [
+      "bitmasks",
+      "brute force",
+      "dfs and similar",
+      "*2700"
+    ],
+    "timestamp": "May/29/2024 06:00"
+  },
   "CF263072067": {
     "contest_id": 367,
     "language": "C++20 (GCC 13-64)",
