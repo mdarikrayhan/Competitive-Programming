@@ -23393,6 +23393,26 @@
     ],
     "timestamp": "May/17/2024 08:26"
   },
+  "CF263114811": {
+    "contest_id": 1718,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1718/D.cpp",
+    "platform": "Codeforces",
+    "problem_index": "D",
+    "problem_name": "Permutation for Burenka",
+    "problem_url": "https://codeforces.com/contest/1718/problem/D",
+    "submission_id": "CF263114811",
+    "submission_url": "https://codeforces.com/contest/1718/submission/263114811",
+    "tags": [
+      "data structures",
+      "graph matchings",
+      "greedy",
+      "math",
+      "trees",
+      "*3300"
+    ],
+    "timestamp": "May/29/2024 14:57"
+  },
   "CF263114829": {
     "contest_id": 534,
     "language": "C++20 (GCC 13-64)",
