@@ -24298,6 +24298,22 @@
     ],
     "timestamp": "May/29/2024 08:12"
   },
+  "CF263081849": {
+    "contest_id": 1415,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1415/F.cpp",
+    "platform": "Codeforces",
+    "problem_index": "F",
+    "problem_name": "Cakes for Clones",
+    "problem_url": "https://codeforces.com/contest/1415/problem/F",
+    "submission_id": "CF263081849",
+    "submission_url": "https://codeforces.com/contest/1415/submission/263081849",
+    "tags": [
+      "dp",
+      "*2900"
+    ],
+    "timestamp": "May/29/2024 09:31"
+  },
   "CF263081884": {
     "contest_id": 1845,
     "language": "C++20 (GCC 13-64)",
