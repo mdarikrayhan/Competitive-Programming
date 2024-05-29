@@ -23393,6 +23393,26 @@
     ],
     "timestamp": "May/17/2024 08:26"
   },
+  "CF263112037": {
+    "contest_id": 1904,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1904/F.cpp",
+    "platform": "Codeforces",
+    "problem_index": "F",
+    "problem_name": "Beautiful Tree",
+    "problem_url": "https://codeforces.com/contest/1904/problem/F",
+    "submission_id": "CF263112037",
+    "submission_url": "https://codeforces.com/contest/1904/submission/263112037",
+    "tags": [
+      "data structures",
+      "dfs and similar",
+      "graphs",
+      "implementation",
+      "trees",
+      "*2800"
+    ],
+    "timestamp": "May/29/2024 14:35"
+  },
   "CF263112070": {
     "contest_id": 1531,
     "language": "C++20 (GCC 13-64)",
