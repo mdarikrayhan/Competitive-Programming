@@ -23393,6 +23393,22 @@
     ],
     "timestamp": "May/17/2024 08:26"
   },
+  "CF263072392": {
+    "contest_id": 180,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/180/A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Defragmentation",
+    "problem_url": "https://codeforces.com/contest/180/problem/A",
+    "submission_id": "CF263072392",
+    "submission_url": "https://codeforces.com/contest/180/submission/263072392",
+    "tags": [
+      "implementation",
+      "*1800"
+    ],
+    "timestamp": "May/29/2024 06:10"
+  },
   "CF263072412": {
     "contest_id": 542,
     "language": "C++20 (GCC 13-64)",
