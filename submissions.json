@@ -27654,6 +27654,26 @@
     ],
     "timestamp": "May/29/2024 15:36"
   },
+  "CF263123933": {
+    "contest_id": 1043,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1043/G.cpp",
+    "platform": "Codeforces",
+    "problem_index": "G",
+    "problem_name": "Speckled Band",
+    "problem_url": "https://codeforces.com/contest/1043/problem/G",
+    "submission_id": "CF263123933",
+    "submission_url": "https://codeforces.com/contest/1043/submission/263123933",
+    "tags": [
+      "data structures",
+      "divide and conquer",
+      "hashing",
+      "string suffix structures",
+      "strings",
+      "*3500"
+    ],
+    "timestamp": "May/29/2024 16:11"
+  },
   "CF263123997": {
     "contest_id": 331,
     "language": "C++20 (GCC 13-64)",
