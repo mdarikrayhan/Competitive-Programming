@@ -23393,6 +23393,24 @@
     ],
     "timestamp": "May/17/2024 08:26"
   },
+  "CF263118374": {
+    "contest_id": 776,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/776/G.cpp",
+    "platform": "Codeforces",
+    "problem_index": "G",
+    "problem_name": "Sherlock and the Encrypted Data",
+    "problem_url": "https://codeforces.com/contest/776/problem/G",
+    "submission_id": "CF263118374",
+    "submission_url": "https://codeforces.com/contest/776/submission/263118374",
+    "tags": [
+      "bitmasks",
+      "combinatorics",
+      "dp",
+      "*2900"
+    ],
+    "timestamp": "May/29/2024 15:27"
+  },
   "CF263118386": {
     "contest_id": 394,
     "language": "C++20 (GCC 13-64)",
