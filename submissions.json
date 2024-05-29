@@ -23393,6 +23393,22 @@
     ],
     "timestamp": "May/17/2024 08:26"
   },
+  "CF263073232": {
+    "contest_id": 1028,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1028/F.cpp",
+    "platform": "Codeforces",
+    "problem_index": "F",
+    "problem_name": "Make Symmetrical",
+    "problem_url": "https://codeforces.com/contest/1028/problem/F",
+    "submission_id": "CF263073232",
+    "submission_url": "https://codeforces.com/contest/1028/submission/263073232",
+    "tags": [
+      "brute force",
+      "*2900"
+    ],
+    "timestamp": "May/29/2024 06:34"
+  },
   "CF263073857": {
     "contest_id": 139,
     "language": "C++20 (GCC 13-64)",
