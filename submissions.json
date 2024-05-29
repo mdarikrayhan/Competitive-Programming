@@ -23393,6 +23393,22 @@
     ],
     "timestamp": "May/17/2024 08:26"
   },
+  "CF263135439": {
+    "contest_id": 1394,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1394/E.cpp",
+    "platform": "Codeforces",
+    "problem_index": "E",
+    "problem_name": "Boboniu and Banknote Collection",
+    "problem_url": "https://codeforces.com/contest/1394/problem/E",
+    "submission_id": "CF263135439",
+    "submission_url": "https://codeforces.com/contest/1394/submission/263135439",
+    "tags": [
+      "strings",
+      "*3500"
+    ],
+    "timestamp": "May/29/2024 17:48"
+  },
   "CF263135480": {
     "contest_id": 802,
     "language": "C++20 (GCC 13-64)",
