@@ -23497,6 +23497,21 @@
     "tags": [],
     "timestamp": "May/29/2024 18:32"
   },
+  "CF263146838": {
+    "contest_id": 1609,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1609/H.cpp",
+    "platform": "Codeforces",
+    "problem_index": "H",
+    "problem_name": "Pushing Robots",
+    "problem_url": "https://codeforces.com/contest/1609/problem/H",
+    "submission_id": "CF263146838",
+    "submission_url": "https://codeforces.com/contest/1609/submission/263146838",
+    "tags": [
+      "*3500"
+    ],
+    "timestamp": "May/29/2024 19:19"
+  },
   "CF263146866": {
     "contest_id": 154,
     "language": "C++20 (GCC 13-64)",
