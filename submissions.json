@@ -23393,6 +23393,24 @@
     ],
     "timestamp": "May/17/2024 08:26"
   },
+  "CF263076926": {
+    "contest_id": 649,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/649/C.cpp",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "\u041f\u0435\u0447\u0430\u0442\u044c \u0443\u0441\u043b\u043e\u0432\u0438\u0439",
+    "problem_url": "https://codeforces.com/contest/649/problem/C",
+    "submission_id": "CF263076926",
+    "submission_url": "https://codeforces.com/contest/649/submission/263076926",
+    "tags": [
+      "constructive algorithms",
+      "greedy",
+      "sortings",
+      "*1500"
+    ],
+    "timestamp": "May/29/2024 08:05"
+  },
   "CF263076955": {
     "contest_id": 1120,
     "language": "C++20 (GCC 13-64)",
