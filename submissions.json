@@ -27114,6 +27114,25 @@
     ],
     "timestamp": "May/29/2024 06:34"
   },
+  "CF263073785": {
+    "contest_id": 1346,
+    "language": "Kotlin 1.7",
+    "path": "codeforces/1346/F.kt",
+    "platform": "Codeforces",
+    "problem_index": "F",
+    "problem_name": "Dune II: Battle For Arrakis",
+    "problem_url": "https://codeforces.com/contest/1346/problem/F",
+    "submission_id": "CF263073785",
+    "submission_url": "https://codeforces.com/contest/1346/submission/263073785",
+    "tags": [
+      "*special problem",
+      "data structures",
+      "greedy",
+      "math",
+      "*2000"
+    ],
+    "timestamp": "May/29/2024 06:51"
+  },
   "CF263073799": {
     "contest_id": 1346,
     "language": "Kotlin 1.7",
