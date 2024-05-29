@@ -23393,6 +23393,23 @@
     ],
     "timestamp": "May/17/2024 08:26"
   },
+  "CF263158677": {
+    "contest_id": 1167,
+    "language": "C++17 (GCC 7-32)",
+    "path": "codeforces/1167/G.cpp",
+    "platform": "Codeforces",
+    "problem_index": "G",
+    "problem_name": "Low Budget Inception",
+    "problem_url": "https://codeforces.com/contest/1167/problem/G",
+    "submission_id": "CF263158677",
+    "submission_url": "https://codeforces.com/contest/1167/submission/263158677",
+    "tags": [
+      "brute force",
+      "geometry",
+      "*3100"
+    ],
+    "timestamp": "May/29/2024 20:52"
+  },
   "CF263159113": {
     "contest_id": 1666,
     "language": "C++20 (GCC 13-64)",
