@@ -23497,6 +23497,25 @@
     "tags": [],
     "timestamp": "May/29/2024 18:32"
   },
+  "CF263143846": {
+    "contest_id": 1097,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1097/H.cpp",
+    "platform": "Codeforces",
+    "problem_index": "H",
+    "problem_name": "Mateusz and an Infinite Sequence",
+    "problem_url": "https://codeforces.com/contest/1097/problem/H",
+    "submission_id": "CF263143846",
+    "submission_url": "https://codeforces.com/contest/1097/submission/263143846",
+    "tags": [
+      "bitmasks",
+      "brute force",
+      "dp",
+      "strings",
+      "*3400"
+    ],
+    "timestamp": "May/29/2024 18:56"
+  },
   "CF263143913": {
     "contest_id": 1641,
     "language": "C++20 (GCC 13-64)",
