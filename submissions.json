@@ -23393,6 +23393,21 @@
     ],
     "timestamp": "May/17/2024 08:26"
   },
+  "CF263148610": {
+    "contest_id": 1055,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1055/G.cpp",
+    "platform": "Codeforces",
+    "problem_index": "G",
+    "problem_name": "Jellyfish Nightmare",
+    "problem_url": "https://codeforces.com/contest/1055/problem/G",
+    "submission_id": "CF263148610",
+    "submission_url": "https://codeforces.com/contest/1055/submission/263148610",
+    "tags": [
+      "*3500"
+    ],
+    "timestamp": "May/29/2024 19:32"
+  },
   "CF263148816": {
     "contest_id": 243,
     "language": "C++20 (GCC 13-64)",
