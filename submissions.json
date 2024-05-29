@@ -38716,6 +38716,22 @@
     ],
     "timestamp": "May/29/2024 14:00"
   },
+  "CF263109529": {
+    "contest_id": 983,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/983/D.cpp",
+    "platform": "Codeforces",
+    "problem_index": "D",
+    "problem_name": "Arkady and Rectangles",
+    "problem_url": "https://codeforces.com/contest/983/problem/D",
+    "submission_id": "CF263109529",
+    "submission_url": "https://codeforces.com/contest/983/submission/263109529",
+    "tags": [
+      "data structures",
+      "*3300"
+    ],
+    "timestamp": "May/29/2024 14:14"
+  },
   "CF263109565": {
     "contest_id": 1654,
     "language": "C++20 (GCC 13-64)",
