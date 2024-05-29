@@ -23497,6 +23497,25 @@
     "tags": [],
     "timestamp": "May/29/2024 18:32"
   },
+  "CF263146020": {
+    "contest_id": 1556,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1556/G.cpp",
+    "platform": "Codeforces",
+    "problem_index": "G",
+    "problem_name": "Gates to Another World",
+    "problem_url": "https://codeforces.com/contest/1556/problem/G",
+    "submission_id": "CF263146020",
+    "submission_url": "https://codeforces.com/contest/1556/submission/263146020",
+    "tags": [
+      "bitmasks",
+      "data structures",
+      "dsu",
+      "two pointers",
+      "*3300"
+    ],
+    "timestamp": "May/29/2024 19:13"
+  },
   "CF263146109": {
     "contest_id": 1965,
     "language": "C++20 (GCC 13-64)",
