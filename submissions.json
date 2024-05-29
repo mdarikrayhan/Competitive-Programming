@@ -23393,6 +23393,22 @@
     ],
     "timestamp": "May/17/2024 08:26"
   },
+  "CF263118764": {
+    "contest_id": 1500,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1500/F.cpp",
+    "platform": "Codeforces",
+    "problem_index": "F",
+    "problem_name": "Cupboards Jumps",
+    "problem_url": "https://codeforces.com/contest/1500/problem/F",
+    "submission_id": "CF263118764",
+    "submission_url": "https://codeforces.com/contest/1500/submission/263118764",
+    "tags": [
+      "dp",
+      "*3500"
+    ],
+    "timestamp": "May/29/2024 15:30"
+  },
   "CF263118781": {
     "contest_id": 1427,
     "language": "C++20 (GCC 13-64)",
