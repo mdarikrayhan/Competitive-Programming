@@ -23393,6 +23393,23 @@
     ],
     "timestamp": "May/17/2024 08:26"
   },
+  "CF263160312": {
+    "contest_id": 1677,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1677/F.cpp",
+    "platform": "Codeforces",
+    "problem_index": "F",
+    "problem_name": "Tokitsukaze and Gems",
+    "problem_url": "https://codeforces.com/contest/1677/problem/F",
+    "submission_id": "CF263160312",
+    "submission_url": "https://codeforces.com/contest/1677/submission/263160312",
+    "tags": [
+      "dp",
+      "math",
+      "*3500"
+    ],
+    "timestamp": "May/29/2024 21:07"
+  },
   "CF263160610": {
     "contest_id": 119,
     "language": "C++14 (GCC 6-32)",
