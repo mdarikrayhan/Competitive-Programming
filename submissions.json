@@ -27654,6 +27654,19 @@
     ],
     "timestamp": "May/29/2024 15:36"
   },
+  "CF263125609": {
+    "contest_id": 1090,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1090/L.cpp",
+    "platform": "Codeforces",
+    "problem_index": "L",
+    "problem_name": "Berland University",
+    "problem_url": "https://codeforces.com/contest/1090/problem/L",
+    "submission_id": "CF263125609",
+    "submission_url": "https://codeforces.com/contest/1090/submission/263125609",
+    "tags": [],
+    "timestamp": "May/29/2024 16:26"
+  },
   "CF263125641": {
     "contest_id": 243,
     "language": "C++20 (GCC 13-64)",
