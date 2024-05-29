@@ -27114,6 +27114,26 @@
     ],
     "timestamp": "May/29/2024 06:34"
   },
+  "CF263073718": {
+    "contest_id": 542,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/542/D.cpp",
+    "platform": "Codeforces",
+    "problem_index": "D",
+    "problem_name": "Superhero's Job",
+    "problem_url": "https://codeforces.com/contest/542/problem/D",
+    "submission_id": "CF263073718",
+    "submission_url": "https://codeforces.com/contest/542/submission/263073718",
+    "tags": [
+      "dfs and similar",
+      "dp",
+      "hashing",
+      "math",
+      "number theory",
+      "*2600"
+    ],
+    "timestamp": "May/29/2024 06:49"
+  },
   "CF263073750": {
     "contest_id": 1346,
     "language": "Kotlin 1.7",
