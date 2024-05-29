@@ -40438,6 +40438,25 @@
     ],
     "timestamp": "May/29/2024 08:32"
   },
+  "CF263078290": {
+    "contest_id": 1808,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1808/E3.cpp",
+    "platform": "Codeforces",
+    "problem_index": "E3",
+    "problem_name": "Minibuses on Venus (hard version)",
+    "problem_url": "https://codeforces.com/contest/1808/problem/E3",
+    "submission_id": "CF263078290",
+    "submission_url": "https://codeforces.com/contest/1808/submission/263078290",
+    "tags": [
+      "brute force",
+      "combinatorics",
+      "dp",
+      "math",
+      "*2800"
+    ],
+    "timestamp": "May/29/2024 08:33"
+  },
   "CF263078296": {
     "contest_id": 76,
     "language": "C++20 (GCC 13-64)",
