@@ -27654,6 +27654,22 @@
     ],
     "timestamp": "May/29/2024 15:36"
   },
+  "CF263125741": {
+    "contest_id": 1870,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1870/G.cpp",
+    "platform": "Codeforces",
+    "problem_index": "G",
+    "problem_name": "MEXanization",
+    "problem_url": "https://codeforces.com/contest/1870/problem/G",
+    "submission_id": "CF263125741",
+    "submission_url": "https://codeforces.com/contest/1870/submission/263125741",
+    "tags": [
+      "data structures",
+      "*3300"
+    ],
+    "timestamp": "May/29/2024 16:27"
+  },
   "CF263125775": {
     "contest_id": 1787,
     "language": "C++20 (GCC 13-64)",
