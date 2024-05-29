@@ -38060,6 +38060,23 @@
     ],
     "timestamp": "May/29/2024 07:10"
   },
+  "CF263075034": {
+    "contest_id": 887,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/887/D.cpp",
+    "platform": "Codeforces",
+    "problem_index": "D",
+    "problem_name": "Ratings and Reality Shows",
+    "problem_url": "https://codeforces.com/contest/887/problem/D",
+    "submission_id": "CF263075034",
+    "submission_url": "https://codeforces.com/contest/887/submission/263075034",
+    "tags": [
+      "data structures",
+      "two pointers",
+      "*2400"
+    ],
+    "timestamp": "May/29/2024 07:21"
+  },
   "CF263075058": {
     "contest_id": 750,
     "language": "C++20 (GCC 13-64)",
