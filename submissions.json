@@ -33073,6 +33073,27 @@
     ],
     "timestamp": "May/29/2024 14:00"
   },
+  "CF263110613": {
+    "contest_id": 1847,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1847/E.cpp",
+    "platform": "Codeforces",
+    "problem_index": "E",
+    "problem_name": "Triangle Platinum?",
+    "problem_url": "https://codeforces.com/contest/1847/problem/E",
+    "submission_id": "CF263110613",
+    "submission_url": "https://codeforces.com/contest/1847/submission/263110613",
+    "tags": [
+      "brute force",
+      "combinatorics",
+      "implementation",
+      "interactive",
+      "math",
+      "probabilities",
+      "*2900"
+    ],
+    "timestamp": "May/29/2024 14:23"
+  },
   "CF263110630": {
     "contest_id": 1970,
     "language": "C++20 (GCC 13-64)",
