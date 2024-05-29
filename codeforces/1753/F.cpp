@@ -1,3 +1,65 @@
-#include<bits/stdc++.h>
-using namespace std;
-struct ds{int a[1000],b[1000000];ds(){memset(a,0,sizeof(a));memset(b,0,sizeof(b));}void add(int p){b[p]++;if(b[p]==1)a[p/1000]++;}void del(int p){b[p]--;if(b[p]==0)a[p/1000]--;}int qry(){for(int i=0;i<1000;i++)if(a[i]!=1000)for(int j=i*1000;;j++)if(!b[j])return j;return 1000000;}}ds0,ds1;int n,m,k,t,ans;vector<int>v[40004];int I(int x,int y){return (x-1)*m+y;}bool check(){return ds0.qry()+ds1.qry()+1>=t;}void add(int i){for(auto w:v[i]){if(w>0)ds0.add(w-1);if(w<0)ds1.add(-w-1);}}void del(int i){for(auto w:v[i]){if(w>0)ds0.del(w-1);if(w<0)ds1.del(-w-1);}}void sol(int a,int b){add(I(a,b));int c=a,d=b;for(;;){while(!check()&&c<n&&d<m){c++,d++;for(int i=a;i<=c;i++)add(I(i,d));for(int i=b;i<d;i++)add(I(c,i));}if(!check())break;ans+=min(n-c+1,m-d+1);if(a==n||b==m)break;for(int i=a;i<=c;i++)del(I(i,b));for(int i=b+1;i<=d;i++)del(I(a,i));a++,b++;if(c<a)c++,d++,add(I(c,d));}for(int i=a;i<=c;i++)for(int j=b;j<=d;j++)del(I(i,j));}int main(){scanf("%d%d%d%d",&n,&m,&k,&t);while(k--){int x,y,w;scanf("%d%d%d",&x,&y,&w);if(abs(w)<=1000000&&w)v[I(x,y)].push_back(w);}for(int i=1;i<=m;i++)sol(1,i);for(int i=2;i<=n;i++)sol(i,1);printf("%d",ans);}
+// LUOGU_RID: 159857785
+#include<algorithm>
+#include<iostream>
+#include<vector>
+
+char bf[30000000], *bp = bf;
+void inline rd(int&x) {
+    for (x=0; !isdigit(*bp); bp++);
+    for (; isdigit(*bp); bp++)
+        x = x * 10 + (*bp ^ 48);
+}
+void inline ird(int&x) { bool f = 0;
+    for (x=0; isspace(*bp); bp++);
+    bp += f = *bp == '-';
+    for (; isdigit(*bp); bp++)
+        x = x * 10 + (*bp ^ 48);
+    x = f ? -x : x;
+}
+const int N = 1e6, T = 4e4, B = 1e3;
+int n, m, t, p[N], v[N], ct[T];
+long long ans;
+std::vector<int>w[T];
+struct Block {
+    int ct[N], bl[B];
+    void md(int x, int k) {
+        bl[x/B] -= !!ct[x];
+        bl[x/B] += !!(ct[x] += k);
+    }
+    int qr() { int k = 0;
+        for (; bl[k]==B; k++);
+        for (k*=B; ct[k]; k++);
+        return k;
+    }
+} a, b;
+void inline md(int i, int j, int k) {
+    for (int x : w[i*m+j])
+        if (x > 0) a.md(x-1, k);
+        else b.md(-x-1, k);
+}
+void sv(int x, int y) { int l = 0, r = 0;
+    for (int i, j; x+r<n && y+r<m; ans+=l) {
+        for (i=x+l; i<=x+r; i++) md(i, y+r, 1);
+        for (i=y+l; i<y+r; i++) md(x+r, i, 1);
+        for (r++; a.qr()+b.qr()>=t; l++) {
+            for (i=x+l; i<x+r; i++) md(i, y+l, -1);
+            for (i=y+l+1; i<y+r; i++) md(x+l, i, -1);
+        }
+    }
+    for (int i=x+l, j; i<x+r; i++)
+        for (j=y+l; j<y+r; j++) md(i, j, -1);
+}
+int main() {
+    fread(bf, 1, sizeof bf, stdin);
+    int k, tt = 0; rd(n), rd(m), rd(k), rd(t);
+    if (!--t) { if (n > m) std::swap(n, m);
+        return std::cout << (3*m-n+1)*(n+1ll)*n/6, 0; }
+    for (int x, y; k--;) if (rd(x), rd(y), ird(v[tt]),
+        abs(v[tt]) <= t) ct[p[tt++]=--x*m+--y]++;
+    for (int i=0; i<n*m; i++) w[i].resize(ct[i]);
+    for (int i=0, t; i<tt; i++) w[p[i]][--ct[p[i]]] = v[i];
+    for (int i=0; i<n*m; i++) std::sort(w[i].begin(), w[i].end());
+    for (int i=0; i<n; i++) sv(i, 0);
+    for (int i=1; i<m; i++) sv(0, i);
+    std::cout << ans;
+}
