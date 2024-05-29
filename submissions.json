@@ -24298,6 +24298,26 @@
     ],
     "timestamp": "May/29/2024 08:12"
   },
+  "CF263077990": {
+    "contest_id": 1936,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1936/D.cpp",
+    "platform": "Codeforces",
+    "problem_index": "D",
+    "problem_name": "Bitwise Paradox",
+    "problem_url": "https://codeforces.com/contest/1936/problem/D",
+    "submission_id": "CF263077990",
+    "submission_url": "https://codeforces.com/contest/1936/submission/263077990",
+    "tags": [
+      "binary search",
+      "bitmasks",
+      "data structures",
+      "greedy",
+      "two pointers",
+      "*3100"
+    ],
+    "timestamp": "May/29/2024 08:27"
+  },
   "CF263078002": {
     "contest_id": 1423,
     "language": "C++20 (GCC 13-64)",
