@@ -23393,6 +23393,22 @@
     ],
     "timestamp": "May/17/2024 08:26"
   },
+  "CF263149377": {
+    "contest_id": 68,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/68/E.cpp",
+    "platform": "Codeforces",
+    "problem_index": "E",
+    "problem_name": "Contact",
+    "problem_url": "https://codeforces.com/contest/68/problem/E",
+    "submission_id": "CF263149377",
+    "submission_url": "https://codeforces.com/contest/68/submission/263149377",
+    "tags": [
+      "geometry",
+      "*2900"
+    ],
+    "timestamp": "May/29/2024 19:37"
+  },
   "CF263149405": {
     "contest_id": 1936,
     "language": "C++20 (GCC 13-64)",
