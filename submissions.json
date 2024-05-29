@@ -37644,6 +37644,22 @@
     ],
     "timestamp": "May/29/2024 09:39"
   },
+  "CF263082448": {
+    "contest_id": 345,
+    "language": "Ada",
+    "path": "codeforces/345/B.ada",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Triskaidekaphobia",
+    "problem_url": "https://codeforces.com/contest/345/problem/B",
+    "submission_id": "CF263082448",
+    "submission_url": "https://codeforces.com/contest/345/submission/263082448",
+    "tags": [
+      "*special problem",
+      "*2100"
+    ],
+    "timestamp": "May/29/2024 09:41"
+  },
   "CF263082458": {
     "contest_id": 1103,
     "language": "C++20 (GCC 13-64)",
