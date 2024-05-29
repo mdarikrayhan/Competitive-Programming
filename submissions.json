@@ -24815,6 +24815,23 @@
     ],
     "timestamp": "May/29/2024 10:33"
   },
+  "CF263098104": {
+    "contest_id": 1710,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1710/D.cpp",
+    "platform": "Codeforces",
+    "problem_index": "D",
+    "problem_name": "Recover the Tree",
+    "problem_url": "https://codeforces.com/contest/1710/problem/D",
+    "submission_id": "CF263098104",
+    "submission_url": "https://codeforces.com/contest/1710/submission/263098104",
+    "tags": [
+      "constructive algorithms",
+      "trees",
+      "*3400"
+    ],
+    "timestamp": "May/29/2024 12:48"
+  },
   "CF263098125": {
     "contest_id": 1458,
     "language": "C++20 (GCC 13-64)",
