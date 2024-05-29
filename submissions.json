@@ -23393,6 +23393,21 @@
     ],
     "timestamp": "May/17/2024 08:26"
   },
+  "CF263149717": {
+    "contest_id": 1423,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1423/A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Wakanda Forever",
+    "problem_url": "https://codeforces.com/contest/1423/problem/A",
+    "submission_id": "CF263149717",
+    "submission_url": "https://codeforces.com/contest/1423/submission/263149717",
+    "tags": [
+      "*3500"
+    ],
+    "timestamp": "May/29/2024 19:40"
+  },
   "CF263149744": {
     "contest_id": 1288,
     "language": "C++20 (GCC 13-64)",
