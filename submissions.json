@@ -38716,6 +38716,22 @@
     ],
     "timestamp": "May/29/2024 14:00"
   },
+  "CF263109282": {
+    "contest_id": 74,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/74/D.cpp",
+    "platform": "Codeforces",
+    "problem_index": "D",
+    "problem_name": "Hanger",
+    "problem_url": "https://codeforces.com/contest/74/problem/D",
+    "submission_id": "CF263109282",
+    "submission_url": "https://codeforces.com/contest/74/submission/263109282",
+    "tags": [
+      "data structures",
+      "*2400"
+    ],
+    "timestamp": "May/29/2024 14:12"
+  },
   "CF263109375": {
     "contest_id": 436,
     "language": "C++20 (GCC 13-64)",
