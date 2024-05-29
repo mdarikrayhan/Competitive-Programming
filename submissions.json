@@ -25547,6 +25547,24 @@
     ],
     "timestamp": "May/29/2024 10:18"
   },
+  "CF263084766": {
+    "contest_id": 1943,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1943/E1.cpp",
+    "platform": "Codeforces",
+    "problem_index": "E1",
+    "problem_name": "MEX Game 2 (Easy Version)",
+    "problem_url": "https://codeforces.com/contest/1943/problem/E1",
+    "submission_id": "CF263084766",
+    "submission_url": "https://codeforces.com/contest/1943/submission/263084766",
+    "tags": [
+      "binary search",
+      "brute force",
+      "greedy",
+      "*2900"
+    ],
+    "timestamp": "May/29/2024 10:19"
+  },
   "CF263084820": {
     "contest_id": 134,
     "language": "C++20 (GCC 13-64)",
