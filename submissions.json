@@ -23393,6 +23393,23 @@
     ],
     "timestamp": "May/17/2024 08:26"
   },
+  "CF263076919": {
+    "contest_id": 1028,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1028/G.cpp",
+    "platform": "Codeforces",
+    "problem_index": "G",
+    "problem_name": "Guess the number",
+    "problem_url": "https://codeforces.com/contest/1028/problem/G",
+    "submission_id": "CF263076919",
+    "submission_url": "https://codeforces.com/contest/1028/submission/263076919",
+    "tags": [
+      "dp",
+      "interactive",
+      "*3000"
+    ],
+    "timestamp": "May/29/2024 08:04"
+  },
   "CF263076926": {
     "contest_id": 649,
     "language": "C++20 (GCC 13-64)",
