@@ -24814,6 +24814,22 @@
     ],
     "timestamp": "May/29/2024 15:36"
   },
+  "CF263129463": {
+    "contest_id": 1882,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1882/E2.cpp",
+    "platform": "Codeforces",
+    "problem_index": "E2",
+    "problem_name": "Two Permutations (Hard Version)",
+    "problem_url": "https://codeforces.com/contest/1882/problem/E2",
+    "submission_id": "CF263129463",
+    "submission_url": "https://codeforces.com/contest/1882/submission/263129463",
+    "tags": [
+      "constructive algorithms",
+      "*3100"
+    ],
+    "timestamp": "May/29/2024 17:00"
+  },
   "CF263129480": {
     "contest_id": 933,
     "language": "C++20 (GCC 13-64)",
