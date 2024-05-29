@@ -23393,6 +23393,24 @@
     ],
     "timestamp": "May/17/2024 08:26"
   },
+  "CF263148041": {
+    "contest_id": 353,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/353/E.cpp",
+    "platform": "Codeforces",
+    "problem_index": "E",
+    "problem_name": "Antichain",
+    "problem_url": "https://codeforces.com/contest/353/problem/E",
+    "submission_id": "CF263148041",
+    "submission_url": "https://codeforces.com/contest/353/submission/263148041",
+    "tags": [
+      "dp",
+      "graph matchings",
+      "greedy",
+      "*2200"
+    ],
+    "timestamp": "May/29/2024 19:27"
+  },
   "CF263148088": {
     "contest_id": 471,
     "language": "C++20 (GCC 13-64)",
