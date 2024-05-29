@@ -23393,6 +23393,24 @@
     ],
     "timestamp": "May/17/2024 08:26"
   },
+  "CF263149123": {
+    "contest_id": 1326,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1326/G.cpp",
+    "platform": "Codeforces",
+    "problem_index": "G",
+    "problem_name": "Spiderweb Trees",
+    "problem_url": "https://codeforces.com/contest/1326/problem/G",
+    "submission_id": "CF263149123",
+    "submission_url": "https://codeforces.com/contest/1326/submission/263149123",
+    "tags": [
+      "dp",
+      "geometry",
+      "trees",
+      "*3500"
+    ],
+    "timestamp": "May/29/2024 19:35"
+  },
   "CF263149152": {
     "contest_id": 1863,
     "language": "C++20 (GCC 13-64)",
