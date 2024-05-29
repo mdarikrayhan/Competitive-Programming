@@ -24814,6 +24814,23 @@
     ],
     "timestamp": "May/29/2024 15:36"
   },
+  "CF263129760": {
+    "contest_id": 593,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/593/C.cpp",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Beautiful Function",
+    "problem_url": "https://codeforces.com/contest/593/problem/C",
+    "submission_id": "CF263129760",
+    "submission_url": "https://codeforces.com/contest/593/submission/263129760",
+    "tags": [
+      "constructive algorithms",
+      "math",
+      "*2200"
+    ],
+    "timestamp": "May/29/2024 17:02"
+  },
   "CF263129776": {
     "contest_id": 543,
     "language": "C++20 (GCC 13-64)",
