@@ -27418,6 +27418,22 @@
     ],
     "timestamp": "May/29/2024 07:02"
   },
+  "CF263074341": {
+    "contest_id": 778,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/778/D.cpp",
+    "platform": "Codeforces",
+    "problem_index": "D",
+    "problem_name": "Parquet Re-laying",
+    "problem_url": "https://codeforces.com/contest/778/problem/D",
+    "submission_id": "CF263074341",
+    "submission_url": "https://codeforces.com/contest/778/submission/263074341",
+    "tags": [
+      "constructive algorithms",
+      "*2700"
+    ],
+    "timestamp": "May/29/2024 07:05"
+  },
   "CF263074371": {
     "contest_id": 404,
     "language": "C++20 (GCC 13-64)",
