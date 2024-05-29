@@ -23393,6 +23393,24 @@
     ],
     "timestamp": "May/17/2024 08:26"
   },
+  "CF263151464": {
+    "contest_id": 1483,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1483/E.cpp",
+    "platform": "Codeforces",
+    "problem_index": "E",
+    "problem_name": "Vabank",
+    "problem_url": "https://codeforces.com/contest/1483/problem/E",
+    "submission_id": "CF263151464",
+    "submission_url": "https://codeforces.com/contest/1483/submission/263151464",
+    "tags": [
+      "binary search",
+      "dp",
+      "interactive",
+      "*3200"
+    ],
+    "timestamp": "May/29/2024 19:53"
+  },
   "CF263151586": {
     "contest_id": 1483,
     "language": "C++20 (GCC 13-64)",
