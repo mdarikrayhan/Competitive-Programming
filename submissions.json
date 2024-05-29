@@ -23393,6 +23393,24 @@
     ],
     "timestamp": "May/17/2024 08:26"
   },
+  "CF263133219": {
+    "contest_id": 72,
+    "language": "Io",
+    "path": "codeforces/72/E.io",
+    "platform": "Codeforces",
+    "problem_index": "E",
+    "problem_name": "Ali goes shopping",
+    "problem_url": "https://codeforces.com/contest/72/problem/E",
+    "submission_id": "CF263133219",
+    "submission_url": "https://codeforces.com/contest/72/submission/263133219",
+    "tags": [
+      "*special problem",
+      "brute force",
+      "strings",
+      "*1800"
+    ],
+    "timestamp": "May/29/2024 17:30"
+  },
   "CF263133292": {
     "contest_id": 72,
     "language": "Io",
