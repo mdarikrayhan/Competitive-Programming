@@ -23393,6 +23393,23 @@
     ],
     "timestamp": "May/17/2024 08:26"
   },
+  "CF263149405": {
+    "contest_id": 1936,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1936/F.cpp",
+    "platform": "Codeforces",
+    "problem_index": "F",
+    "problem_name": "Grand Finale: Circles",
+    "problem_url": "https://codeforces.com/contest/1936/problem/F",
+    "submission_id": "CF263149405",
+    "submission_url": "https://codeforces.com/contest/1936/submission/263149405",
+    "tags": [
+      "binary search",
+      "geometry",
+      "*3300"
+    ],
+    "timestamp": "May/29/2024 19:37"
+  },
   "CF263149447": {
     "contest_id": 737,
     "language": "C++20 (GCC 13-64)",
