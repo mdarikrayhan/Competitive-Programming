@@ -24814,6 +24814,24 @@
     ],
     "timestamp": "May/29/2024 15:36"
   },
+  "CF263127811": {
+    "contest_id": 711,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/711/E.cpp",
+    "platform": "Codeforces",
+    "problem_index": "E",
+    "problem_name": "ZS and The Birthday Paradox",
+    "problem_url": "https://codeforces.com/contest/711/problem/E",
+    "submission_id": "CF263127811",
+    "submission_url": "https://codeforces.com/contest/711/submission/263127811",
+    "tags": [
+      "math",
+      "number theory",
+      "probabilities",
+      "*2300"
+    ],
+    "timestamp": "May/29/2024 16:45"
+  },
   "CF263127832": {
     "contest_id": 660,
     "language": "C++20 (GCC 13-64)",
