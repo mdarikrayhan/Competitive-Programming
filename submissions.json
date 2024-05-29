@@ -24298,6 +24298,22 @@
     ],
     "timestamp": "May/29/2024 08:12"
   },
+  "CF263077498": {
+    "contest_id": 1906,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1906/L.cpp",
+    "platform": "Codeforces",
+    "problem_index": "L",
+    "problem_name": "Palindromic Parentheses",
+    "problem_url": "https://codeforces.com/contest/1906/problem/L",
+    "submission_id": "CF263077498",
+    "submission_url": "https://codeforces.com/contest/1906/submission/263077498",
+    "tags": [
+      "constructive algorithms",
+      "*2500"
+    ],
+    "timestamp": "May/29/2024 08:17"
+  },
   "CF263077520": {
     "contest_id": 1175,
     "language": "C++20 (GCC 13-64)",
