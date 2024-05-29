@@ -24298,6 +24298,25 @@
     ],
     "timestamp": "May/29/2024 08:12"
   },
+  "CF263078238": {
+    "contest_id": 1067,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1067/E.cpp",
+    "platform": "Codeforces",
+    "problem_index": "E",
+    "problem_name": "Random Forest Rank",
+    "problem_url": "https://codeforces.com/contest/1067/problem/E",
+    "submission_id": "CF263078238",
+    "submission_url": "https://codeforces.com/contest/1067/submission/263078238",
+    "tags": [
+      "dp",
+      "graph matchings",
+      "math",
+      "trees",
+      "*2800"
+    ],
+    "timestamp": "May/29/2024 08:32"
+  },
   "CF263081640": {
     "contest_id": 212,
     "language": "C++20 (GCC 13-64)",
