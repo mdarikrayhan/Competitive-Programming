@@ -33144,6 +33144,23 @@
     ],
     "timestamp": "May/29/2024 07:32"
   },
+  "CF263075518": {
+    "contest_id": 530,
+    "language": "Picat",
+    "path": "codeforces/530/H.pi",
+    "platform": "Codeforces",
+    "problem_index": "H",
+    "problem_name": "Points in triangle",
+    "problem_url": "https://codeforces.com/contest/530/problem/H",
+    "submission_id": "CF263075518",
+    "submission_url": "https://codeforces.com/contest/530/submission/263075518",
+    "tags": [
+      "*special problem",
+      "geometry",
+      "*2100"
+    ],
+    "timestamp": "May/29/2024 07:33"
+  },
   "CF263075530": {
     "contest_id": 530,
     "language": "Picat",
