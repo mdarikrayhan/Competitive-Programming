@@ -23393,6 +23393,21 @@
     ],
     "timestamp": "May/17/2024 08:26"
   },
+  "CF263151695": {
+    "contest_id": 1666,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1666/B.cpp",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Budget Distribution",
+    "problem_url": "https://codeforces.com/contest/1666/problem/B",
+    "submission_id": "CF263151695",
+    "submission_url": "https://codeforces.com/contest/1666/submission/263151695",
+    "tags": [
+      "*3300"
+    ],
+    "timestamp": "May/29/2024 19:54"
+  },
   "CF263151883": {
     "contest_id": 1930,
     "language": "C++20 (GCC 13-64)",
