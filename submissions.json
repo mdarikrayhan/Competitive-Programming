@@ -27654,6 +27654,24 @@
     ],
     "timestamp": "May/29/2024 15:36"
   },
+  "CF263127008": {
+    "contest_id": 1427,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1427/F.cpp",
+    "platform": "Codeforces",
+    "problem_index": "F",
+    "problem_name": "Boring Card Game",
+    "problem_url": "https://codeforces.com/contest/1427/problem/F",
+    "submission_id": "CF263127008",
+    "submission_url": "https://codeforces.com/contest/1427/submission/263127008",
+    "tags": [
+      "data structures",
+      "greedy",
+      "trees",
+      "*3200"
+    ],
+    "timestamp": "May/29/2024 16:38"
+  },
   "CF263127027": {
     "contest_id": 468,
     "language": "C++20 (GCC 13-64)",
