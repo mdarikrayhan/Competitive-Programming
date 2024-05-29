@@ -27654,6 +27654,25 @@
     ],
     "timestamp": "May/29/2024 15:36"
   },
+  "CF263126085": {
+    "contest_id": 989,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/989/E.cpp",
+    "platform": "Codeforces",
+    "problem_index": "E",
+    "problem_name": "A Trance of Nightfall",
+    "problem_url": "https://codeforces.com/contest/989/problem/E",
+    "submission_id": "CF263126085",
+    "submission_url": "https://codeforces.com/contest/989/submission/263126085",
+    "tags": [
+      "dp",
+      "geometry",
+      "matrices",
+      "probabilities",
+      "*2700"
+    ],
+    "timestamp": "May/29/2024 16:30"
+  },
   "CF263126115": {
     "contest_id": 1761,
     "language": "C++20 (GCC 13-64)",
