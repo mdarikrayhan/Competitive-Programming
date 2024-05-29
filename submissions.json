@@ -30034,6 +30034,22 @@
     ],
     "timestamp": "May/29/2024 15:36"
   },
+  "CF263123112": {
+    "contest_id": 1188,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1188/E.cpp",
+    "platform": "Codeforces",
+    "problem_index": "E",
+    "problem_name": "Problem from Red Panda",
+    "problem_url": "https://codeforces.com/contest/1188/problem/E",
+    "submission_id": "CF263123112",
+    "submission_url": "https://codeforces.com/contest/1188/submission/263123112",
+    "tags": [
+      "combinatorics",
+      "*3300"
+    ],
+    "timestamp": "May/29/2024 16:04"
+  },
   "CF263123150": {
     "contest_id": 720,
     "language": "C++20 (GCC 13-64)",
