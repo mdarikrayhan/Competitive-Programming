@@ -27654,6 +27654,19 @@
     ],
     "timestamp": "May/29/2024 15:36"
   },
+  "CF263125270": {
+    "contest_id": 1090,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1090/B.cpp",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "LaTeX Expert",
+    "problem_url": "https://codeforces.com/contest/1090/problem/B",
+    "submission_id": "CF263125270",
+    "submission_url": "https://codeforces.com/contest/1090/submission/263125270",
+    "tags": [],
+    "timestamp": "May/29/2024 16:23"
+  },
   "CF263125331": {
     "contest_id": 1090,
     "language": "C++20 (GCC 13-64)",
