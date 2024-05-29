@@ -37644,6 +37644,24 @@
     ],
     "timestamp": "May/29/2024 09:39"
   },
+  "CF263082470": {
+    "contest_id": 345,
+    "language": "Ada",
+    "path": "codeforces/345/D.ada",
+    "platform": "Codeforces",
+    "problem_index": "D",
+    "problem_name": "Chain Letter",
+    "problem_url": "https://codeforces.com/contest/345/problem/D",
+    "submission_id": "CF263082470",
+    "submission_url": "https://codeforces.com/contest/345/submission/263082470",
+    "tags": [
+      "*special problem",
+      "dfs and similar",
+      "graphs",
+      "*2200"
+    ],
+    "timestamp": "May/29/2024 09:41"
+  },
   "CF263082490": {
     "contest_id": 345,
     "language": "Ada",
