@@ -37644,6 +37644,23 @@
     ],
     "timestamp": "May/29/2024 09:39"
   },
+  "CF263082458": {
+    "contest_id": 1103,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1103/D.cpp",
+    "platform": "Codeforces",
+    "problem_index": "D",
+    "problem_name": "Professional layer",
+    "problem_url": "https://codeforces.com/contest/1103/problem/D",
+    "submission_id": "CF263082458",
+    "submission_url": "https://codeforces.com/contest/1103/submission/263082458",
+    "tags": [
+      "bitmasks",
+      "dp",
+      "*3100"
+    ],
+    "timestamp": "May/29/2024 09:41"
+  },
   "CF263082461": {
     "contest_id": 345,
     "language": "Ada",
