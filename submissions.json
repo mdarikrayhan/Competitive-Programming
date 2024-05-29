@@ -38428,6 +38428,23 @@
     ],
     "timestamp": "May/29/2024 07:43"
   },
+  "CF263075971": {
+    "contest_id": 1870,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1870/F.cpp",
+    "platform": "Codeforces",
+    "problem_index": "F",
+    "problem_name": "Lazy Numbers",
+    "problem_url": "https://codeforces.com/contest/1870/problem/F",
+    "submission_id": "CF263075971",
+    "submission_url": "https://codeforces.com/contest/1870/submission/263075971",
+    "tags": [
+      "binary search",
+      "math",
+      "*2900"
+    ],
+    "timestamp": "May/29/2024 07:44"
+  },
   "CF263075988": {
     "contest_id": 152,
     "language": "C++20 (GCC 13-64)",
