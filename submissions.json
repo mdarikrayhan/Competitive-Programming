@@ -23393,6 +23393,22 @@
     ],
     "timestamp": "May/17/2024 08:26"
   },
+  "CF263148845": {
+    "contest_id": 243,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/243/E.cpp",
+    "platform": "Codeforces",
+    "problem_index": "E",
+    "problem_name": "Matrix",
+    "problem_url": "https://codeforces.com/contest/243/problem/E",
+    "submission_id": "CF263148845",
+    "submission_url": "https://codeforces.com/contest/243/submission/263148845",
+    "tags": [
+      "data structures",
+      "*3000"
+    ],
+    "timestamp": "May/29/2024 19:33"
+  },
   "CF263148881": {
     "contest_id": 1874,
     "language": "C++20 (GCC 13-64)",
