@@ -23393,6 +23393,23 @@
     ],
     "timestamp": "May/17/2024 08:26"
   },
+  "CF263118017": {
+    "contest_id": 1266,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1266/F.cpp",
+    "platform": "Codeforces",
+    "problem_index": "F",
+    "problem_name": "Almost Same Distance",
+    "problem_url": "https://codeforces.com/contest/1266/problem/F",
+    "submission_id": "CF263118017",
+    "submission_url": "https://codeforces.com/contest/1266/submission/263118017",
+    "tags": [
+      "dfs and similar",
+      "graphs",
+      "*2900"
+    ],
+    "timestamp": "May/29/2024 15:24"
+  },
   "CF263118025": {
     "contest_id": 1466,
     "language": "C++20 (GCC 13-64)",
