@@ -23393,6 +23393,26 @@
     ],
     "timestamp": "May/17/2024 08:26"
   },
+  "CF263072537": {
+    "contest_id": 1221,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1221/G.cpp",
+    "platform": "Codeforces",
+    "problem_index": "G",
+    "problem_name": "Graph And Numbers",
+    "problem_url": "https://codeforces.com/contest/1221/problem/G",
+    "submission_id": "CF263072537",
+    "submission_url": "https://codeforces.com/contest/1221/submission/263072537",
+    "tags": [
+      "bitmasks",
+      "brute force",
+      "combinatorics",
+      "dp",
+      "meet-in-the-middle",
+      "*2900"
+    ],
+    "timestamp": "May/29/2024 06:13"
+  },
   "CF263072552": {
     "contest_id": 215,
     "language": "C++20 (GCC 13-64)",
