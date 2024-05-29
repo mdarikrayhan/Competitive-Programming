@@ -24814,6 +24814,22 @@
     ],
     "timestamp": "May/29/2024 15:36"
   },
+  "CF263128016": {
+    "contest_id": 542,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/542/B.cpp",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Duck Hunt",
+    "problem_url": "https://codeforces.com/contest/542/problem/B",
+    "submission_id": "CF263128016",
+    "submission_url": "https://codeforces.com/contest/542/submission/263128016",
+    "tags": [
+      "data structures",
+      "*3100"
+    ],
+    "timestamp": "May/29/2024 16:47"
+  },
   "CF263128111": {
     "contest_id": 1740,
     "language": "C++20 (GCC 13-64)",
