@@ -23393,6 +23393,25 @@
     ],
     "timestamp": "May/17/2024 08:26"
   },
+  "CF263072122": {
+    "contest_id": 1730,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1730/E.cpp",
+    "platform": "Codeforces",
+    "problem_index": "E",
+    "problem_name": "Maximums and Minimums",
+    "problem_url": "https://codeforces.com/contest/1730/problem/E",
+    "submission_id": "CF263072122",
+    "submission_url": "https://codeforces.com/contest/1730/submission/263072122",
+    "tags": [
+      "combinatorics",
+      "data structures",
+      "divide and conquer",
+      "number theory",
+      "*2700"
+    ],
+    "timestamp": "May/29/2024 06:02"
+  },
   "CF263072131": {
     "contest_id": 958,
     "language": "C++20 (GCC 13-64)",
