@@ -23393,6 +23393,24 @@
     ],
     "timestamp": "May/17/2024 08:26"
   },
+  "CF263119289": {
+    "contest_id": 48,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/48/G.cpp",
+    "platform": "Codeforces",
+    "problem_index": "G",
+    "problem_name": "Galaxy Union",
+    "problem_url": "https://codeforces.com/contest/48/problem/G",
+    "submission_id": "CF263119289",
+    "submission_url": "https://codeforces.com/contest/48/submission/263119289",
+    "tags": [
+      "dp",
+      "trees",
+      "two pointers",
+      "*2700"
+    ],
+    "timestamp": "May/29/2024 15:34"
+  },
   "CF263119332": {
     "contest_id": 1832,
     "language": "C++20 (GCC 13-64)",
