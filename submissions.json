@@ -23393,6 +23393,21 @@
     ],
     "timestamp": "May/17/2024 08:26"
   },
+  "CF263151955": {
+    "contest_id": 863,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/863/G.cpp",
+    "platform": "Codeforces",
+    "problem_index": "G",
+    "problem_name": "Graphic Settings",
+    "problem_url": "https://codeforces.com/contest/863/problem/G",
+    "submission_id": "CF263151955",
+    "submission_url": "https://codeforces.com/contest/863/submission/263151955",
+    "tags": [
+      "*3200"
+    ],
+    "timestamp": "May/29/2024 19:56"
+  },
   "CF263151995": {
     "contest_id": 1340,
     "language": "C++20 (GCC 13-64)",
