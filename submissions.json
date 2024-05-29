@@ -33073,6 +33073,24 @@
     ],
     "timestamp": "May/29/2024 14:00"
   },
+  "CF263110966": {
+    "contest_id": 1801,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1801/G.cpp",
+    "platform": "Codeforces",
+    "problem_index": "G",
+    "problem_name": "A task for substrings",
+    "problem_url": "https://codeforces.com/contest/1801/problem/G",
+    "submission_id": "CF263110966",
+    "submission_url": "https://codeforces.com/contest/1801/submission/263110966",
+    "tags": [
+      "data structures",
+      "string suffix structures",
+      "strings",
+      "*3400"
+    ],
+    "timestamp": "May/29/2024 14:26"
+  },
   "CF263111082": {
     "contest_id": 1148,
     "language": "C++20 (GCC 13-64)",
