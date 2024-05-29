@@ -27654,6 +27654,22 @@
     ],
     "timestamp": "May/29/2024 15:36"
   },
+  "CF263127491": {
+    "contest_id": 1271,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1271/F.cpp",
+    "platform": "Codeforces",
+    "problem_index": "F",
+    "problem_name": "Divide The Students",
+    "problem_url": "https://codeforces.com/contest/1271/problem/F",
+    "submission_id": "CF263127491",
+    "submission_url": "https://codeforces.com/contest/1271/submission/263127491",
+    "tags": [
+      "brute force",
+      "*2700"
+    ],
+    "timestamp": "May/29/2024 16:42"
+  },
   "CF263127520": {
     "contest_id": 750,
     "language": "C++20 (GCC 13-64)",
