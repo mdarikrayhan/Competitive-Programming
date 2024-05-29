@@ -23393,6 +23393,23 @@
     ],
     "timestamp": "May/17/2024 08:26"
   },
+  "CF263116972": {
+    "contest_id": 603,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/603/D.cpp",
+    "platform": "Codeforces",
+    "problem_index": "D",
+    "problem_name": "Ruminations on Ruminants",
+    "problem_url": "https://codeforces.com/contest/603/problem/D",
+    "submission_id": "CF263116972",
+    "submission_url": "https://codeforces.com/contest/603/submission/263116972",
+    "tags": [
+      "geometry",
+      "math",
+      "*2900"
+    ],
+    "timestamp": "May/29/2024 15:15"
+  },
   "CF263116974": {
     "contest_id": 830,
     "language": "C++20 (GCC 13-64)",
