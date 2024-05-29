@@ -23393,6 +23393,23 @@
     ],
     "timestamp": "May/17/2024 08:26"
   },
+  "CF263113697": {
+    "contest_id": 778,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/778/E.cpp",
+    "platform": "Codeforces",
+    "problem_index": "E",
+    "problem_name": "Selling Numbers",
+    "problem_url": "https://codeforces.com/contest/778/problem/E",
+    "submission_id": "CF263113697",
+    "submission_url": "https://codeforces.com/contest/778/submission/263113697",
+    "tags": [
+      "dp",
+      "sortings",
+      "*3000"
+    ],
+    "timestamp": "May/29/2024 14:48"
+  },
   "CF263113723": {
     "contest_id": 62,
     "language": "C++20 (GCC 13-64)",
