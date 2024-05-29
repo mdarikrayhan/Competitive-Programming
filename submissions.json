@@ -37260,6 +37260,22 @@
     ],
     "timestamp": "May/29/2024 09:03"
   },
+  "CF263080193": {
+    "contest_id": 38,
+    "language": "C++17 (GCC 7-32)",
+    "path": "codeforces/38/D.cpp",
+    "platform": "Codeforces",
+    "problem_index": "D",
+    "problem_name": "Vasya the Architect",
+    "problem_url": "https://codeforces.com/contest/38/problem/D",
+    "submission_id": "CF263080193",
+    "submission_url": "https://codeforces.com/contest/38/submission/263080193",
+    "tags": [
+      "implementation",
+      "*1900"
+    ],
+    "timestamp": "May/29/2024 09:05"
+  },
   "CF263080217": {
     "contest_id": 754,
     "language": "C++17 (GCC 7-32)",
