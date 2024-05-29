@@ -27114,6 +27114,24 @@
     ],
     "timestamp": "May/29/2024 06:34"
   },
+  "CF263073652": {
+    "contest_id": 1436,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1436/F.cpp",
+    "platform": "Codeforces",
+    "problem_index": "F",
+    "problem_name": "Sum Over Subsets",
+    "problem_url": "https://codeforces.com/contest/1436/problem/F",
+    "submission_id": "CF263073652",
+    "submission_url": "https://codeforces.com/contest/1436/submission/263073652",
+    "tags": [
+      "combinatorics",
+      "math",
+      "number theory",
+      "*2800"
+    ],
+    "timestamp": "May/29/2024 06:47"
+  },
   "CF263073658": {
     "contest_id": 883,
     "language": "C++20 (GCC 13-64)",
