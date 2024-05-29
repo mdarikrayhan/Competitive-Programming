@@ -27418,6 +27418,24 @@
     ],
     "timestamp": "May/29/2024 07:02"
   },
+  "CF263074565": {
+    "contest_id": 70,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/70/E.cpp",
+    "platform": "Codeforces",
+    "problem_index": "E",
+    "problem_name": "Information Reform",
+    "problem_url": "https://codeforces.com/contest/70/problem/E",
+    "submission_id": "CF263074565",
+    "submission_url": "https://codeforces.com/contest/70/submission/263074565",
+    "tags": [
+      "dp",
+      "implementation",
+      "trees",
+      "*2700"
+    ],
+    "timestamp": "May/29/2024 07:09"
+  },
   "CF263074567": {
     "contest_id": 1627,
     "language": "C++20 (GCC 13-64)",
