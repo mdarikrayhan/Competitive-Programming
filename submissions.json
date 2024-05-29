@@ -23393,6 +23393,23 @@
     ],
     "timestamp": "May/17/2024 08:26"
   },
+  "CF263134169": {
+    "contest_id": 48,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/48/F.cpp",
+    "platform": "Codeforces",
+    "problem_index": "F",
+    "problem_name": "Snow sellers",
+    "problem_url": "https://codeforces.com/contest/48/problem/F",
+    "submission_id": "CF263134169",
+    "submission_url": "https://codeforces.com/contest/48/submission/263134169",
+    "tags": [
+      "greedy",
+      "sortings",
+      "*2800"
+    ],
+    "timestamp": "May/29/2024 17:38"
+  },
   "CF263134196": {
     "contest_id": 48,
     "language": "C++20 (GCC 13-64)",
