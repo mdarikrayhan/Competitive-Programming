@@ -40790,6 +40790,23 @@
     "tags": [],
     "timestamp": "May/29/2024 13:37"
   },
+  "CF263105573": {
+    "contest_id": 856,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/856/D.cpp",
+    "platform": "Codeforces",
+    "problem_index": "D",
+    "problem_name": "Masha and Cactus",
+    "problem_url": "https://codeforces.com/contest/856/problem/D",
+    "submission_id": "CF263105573",
+    "submission_url": "https://codeforces.com/contest/856/submission/263105573",
+    "tags": [
+      "dp",
+      "trees",
+      "*2400"
+    ],
+    "timestamp": "May/29/2024 13:43"
+  },
   "CF263105589": {
     "contest_id": 1844,
     "language": "C++20 (GCC 13-64)",
