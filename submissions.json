@@ -23497,6 +23497,26 @@
     "tags": [],
     "timestamp": "May/29/2024 18:32"
   },
+  "CF263146265": {
+    "contest_id": 1896,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1896/H2.cpp",
+    "platform": "Codeforces",
+    "problem_index": "H2",
+    "problem_name": "Cyclic Hamming (Hard Version)",
+    "problem_url": "https://codeforces.com/contest/1896/problem/H2",
+    "submission_id": "CF263146265",
+    "submission_url": "https://codeforces.com/contest/1896/submission/263146265",
+    "tags": [
+      "brute force",
+      "dp",
+      "fft",
+      "math",
+      "number theory",
+      "*3500"
+    ],
+    "timestamp": "May/29/2024 19:14"
+  },
   "CF263146270": {
     "contest_id": 933,
     "language": "C++20 (GCC 13-64)",
