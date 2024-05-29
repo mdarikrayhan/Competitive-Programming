@@ -35066,6 +35066,23 @@
     ],
     "timestamp": "May/29/2024 08:32"
   },
+  "CF263079630": {
+    "contest_id": 100,
+    "language": "Pike",
+    "path": "codeforces/100/E.pike",
+    "platform": "Codeforces",
+    "problem_index": "E",
+    "problem_name": "Lamps in a Line",
+    "problem_url": "https://codeforces.com/contest/100/problem/E",
+    "submission_id": "CF263079630",
+    "submission_url": "https://codeforces.com/contest/100/submission/263079630",
+    "tags": [
+      "*special problem",
+      "math",
+      "*1600"
+    ],
+    "timestamp": "May/29/2024 08:56"
+  },
   "CF263079649": {
     "contest_id": 100,
     "language": "Pike",
