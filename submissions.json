@@ -24815,6 +24815,29 @@
     ],
     "timestamp": "May/29/2024 10:33"
   },
+  "CF263098985": {
+    "contest_id": 1935,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1935/F.cpp",
+    "platform": "Codeforces",
+    "problem_index": "F",
+    "problem_name": "Andrey's Tree",
+    "problem_url": "https://codeforces.com/contest/1935/problem/F",
+    "submission_id": "CF263098985",
+    "submission_url": "https://codeforces.com/contest/1935/submission/263098985",
+    "tags": [
+      "binary search",
+      "constructive algorithms",
+      "data structures",
+      "dfs and similar",
+      "dsu",
+      "greedy",
+      "implementation",
+      "trees",
+      "*2800"
+    ],
+    "timestamp": "May/29/2024 12:55"
+  },
   "CF263099163": {
     "contest_id": 1583,
     "language": "C++20 (GCC 13-64)",
