@@ -23393,6 +23393,23 @@
     ],
     "timestamp": "May/17/2024 08:26"
   },
+  "CF263118784": {
+    "contest_id": 57,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/57/D.cpp",
+    "platform": "Codeforces",
+    "problem_index": "D",
+    "problem_name": "Journey",
+    "problem_url": "https://codeforces.com/contest/57/problem/D",
+    "submission_id": "CF263118784",
+    "submission_url": "https://codeforces.com/contest/57/submission/263118784",
+    "tags": [
+      "dp",
+      "math",
+      "*2500"
+    ],
+    "timestamp": "May/29/2024 15:30"
+  },
   "CF263118818": {
     "contest_id": 566,
     "language": "C++20 (GCC 13-64)",
