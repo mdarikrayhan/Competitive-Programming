@@ -27195,6 +27195,25 @@
     "tags": [],
     "timestamp": "May/29/2024 13:37"
   },
+  "CF263106147": {
+    "contest_id": 1033,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1033/F.cpp",
+    "platform": "Codeforces",
+    "problem_index": "F",
+    "problem_name": "Boolean Computer",
+    "problem_url": "https://codeforces.com/contest/1033/problem/F",
+    "submission_id": "CF263106147",
+    "submission_url": "https://codeforces.com/contest/1033/submission/263106147",
+    "tags": [
+      "bitmasks",
+      "brute force",
+      "fft",
+      "math",
+      "*2800"
+    ],
+    "timestamp": "May/29/2024 13:48"
+  },
   "CF263106166": {
     "contest_id": 848,
     "language": "C++20 (GCC 13-64)",
