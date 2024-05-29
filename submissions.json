@@ -38716,6 +38716,23 @@
     ],
     "timestamp": "May/29/2024 14:00"
   },
+  "CF263107927": {
+    "contest_id": 1769,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1769/D3.cpp",
+    "platform": "Codeforces",
+    "problem_index": "D3",
+    "problem_name": "\u0418\u0433\u0440\u0430 \u0432 \u0414\u0435\u0432\u044f\u0442\u043a\u0443 III",
+    "problem_url": "https://codeforces.com/contest/1769/problem/D3",
+    "submission_id": "CF263107927",
+    "submission_url": "https://codeforces.com/contest/1769/submission/263107927",
+    "tags": [
+      "*special problem",
+      "brute force",
+      "*2300"
+    ],
+    "timestamp": "May/29/2024 14:01"
+  },
   "CF263108146": {
     "contest_id": 1765,
     "language": "C++20 (GCC 13-64)",
