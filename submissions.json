@@ -23393,6 +23393,24 @@
     ],
     "timestamp": "May/17/2024 08:26"
   },
+  "CF263074216": {
+    "contest_id": 916,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/916/D.cpp",
+    "platform": "Codeforces",
+    "problem_index": "D",
+    "problem_name": "Jamie and To-do List",
+    "problem_url": "https://codeforces.com/contest/916/problem/D",
+    "submission_id": "CF263074216",
+    "submission_url": "https://codeforces.com/contest/916/submission/263074216",
+    "tags": [
+      "data structures",
+      "interactive",
+      "trees",
+      "*2200"
+    ],
+    "timestamp": "May/29/2024 07:02"
+  },
   "CF263074233": {
     "contest_id": 409,
     "language": "C++20 (GCC 13-64)",
