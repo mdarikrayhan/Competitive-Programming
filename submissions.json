@@ -23393,6 +23393,22 @@
     ],
     "timestamp": "May/17/2024 08:26"
   },
+  "CF263137189": {
+    "contest_id": 744,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/744/D.cpp",
+    "platform": "Codeforces",
+    "problem_index": "D",
+    "problem_name": "Hongcow Draws a Circle",
+    "problem_url": "https://codeforces.com/contest/744/problem/D",
+    "submission_id": "CF263137189",
+    "submission_url": "https://codeforces.com/contest/744/submission/263137189",
+    "tags": [
+      "geometry",
+      "*3200"
+    ],
+    "timestamp": "May/29/2024 18:02"
+  },
   "CF263137233": {
     "contest_id": 533,
     "language": "C++20 (GCC 13-64)",
