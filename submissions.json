@@ -27114,6 +27114,24 @@
     ],
     "timestamp": "May/29/2024 06:34"
   },
+  "CF263073665": {
+    "contest_id": 883,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/883/J.cpp",
+    "platform": "Codeforces",
+    "problem_index": "J",
+    "problem_name": "Renovation",
+    "problem_url": "https://codeforces.com/contest/883/problem/J",
+    "submission_id": "CF263073665",
+    "submission_url": "https://codeforces.com/contest/883/submission/263073665",
+    "tags": [
+      "constructive algorithms",
+      "greedy",
+      "sortings",
+      "*2400"
+    ],
+    "timestamp": "May/29/2024 06:47"
+  },
   "CF263073666": {
     "contest_id": 1747,
     "language": "C++20 (GCC 13-64)",
