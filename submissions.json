@@ -27654,6 +27654,25 @@
     ],
     "timestamp": "May/29/2024 15:36"
   },
+  "CF263124214": {
+    "contest_id": 1928,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1928/F.cpp",
+    "platform": "Codeforces",
+    "problem_index": "F",
+    "problem_name": "Digital Patterns",
+    "problem_url": "https://codeforces.com/contest/1928/problem/F",
+    "submission_id": "CF263124214",
+    "submission_url": "https://codeforces.com/contest/1928/submission/263124214",
+    "tags": [
+      "combinatorics",
+      "data structures",
+      "implementation",
+      "math",
+      "*2900"
+    ],
+    "timestamp": "May/29/2024 16:14"
+  },
   "CF263124233": {
     "contest_id": 1012,
     "language": "C++20 (GCC 13-64)",
