@@ -24815,6 +24815,23 @@
     ],
     "timestamp": "May/29/2024 10:33"
   },
+  "CF263098317": {
+    "contest_id": 1007,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1007/C.cpp",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Guess two numbers",
+    "problem_url": "https://codeforces.com/contest/1007/problem/C",
+    "submission_id": "CF263098317",
+    "submission_url": "https://codeforces.com/contest/1007/submission/263098317",
+    "tags": [
+      "binary search",
+      "interactive",
+      "*3000"
+    ],
+    "timestamp": "May/29/2024 12:50"
+  },
   "CF263098418": {
     "contest_id": 804,
     "language": "C++20 (GCC 13-64)",
