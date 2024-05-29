@@ -37260,6 +37260,22 @@
     ],
     "timestamp": "May/29/2024 09:03"
   },
+  "CF263081036": {
+    "contest_id": 925,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/925/D.cpp",
+    "platform": "Codeforces",
+    "problem_index": "D",
+    "problem_name": "Aztec Catacombs",
+    "problem_url": "https://codeforces.com/contest/925/problem/D",
+    "submission_id": "CF263081036",
+    "submission_url": "https://codeforces.com/contest/925/submission/263081036",
+    "tags": [
+      "constructive algorithms",
+      "*2600"
+    ],
+    "timestamp": "May/29/2024 09:18"
+  },
   "CF263081104": {
     "contest_id": 271,
     "language": "C++20 (GCC 13-64)",
