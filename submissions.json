@@ -34491,6 +34491,23 @@
     ],
     "timestamp": "May/29/2024 14:59"
   },
+  "CF263116136": {
+    "contest_id": 457,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/457/A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Golden System",
+    "problem_url": "https://codeforces.com/contest/457/problem/A",
+    "submission_id": "CF263116136",
+    "submission_url": "https://codeforces.com/contest/457/submission/263116136",
+    "tags": [
+      "math",
+      "meet-in-the-middle",
+      "*1700"
+    ],
+    "timestamp": "May/29/2024 15:08"
+  },
   "CF263116223": {
     "contest_id": 182,
     "language": "C++20 (GCC 13-64)",
