@@ -24298,6 +24298,22 @@
     ],
     "timestamp": "May/29/2024 08:12"
   },
+  "CF263078129": {
+    "contest_id": 963,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/963/E.cpp",
+    "platform": "Codeforces",
+    "problem_index": "E",
+    "problem_name": "Circles of Waiting",
+    "problem_url": "https://codeforces.com/contest/963/problem/E",
+    "submission_id": "CF263078129",
+    "submission_url": "https://codeforces.com/contest/963/submission/263078129",
+    "tags": [
+      "math",
+      "*3100"
+    ],
+    "timestamp": "May/29/2024 08:30"
+  },
   "CF263078158": {
     "contest_id": 1732,
     "language": "C++20 (GCC 13-64)",
