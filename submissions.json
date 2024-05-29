@@ -30034,6 +30034,23 @@
     ],
     "timestamp": "May/29/2024 15:36"
   },
+  "CF263123469": {
+    "contest_id": 936,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/936/D.cpp",
+    "platform": "Codeforces",
+    "problem_index": "D",
+    "problem_name": "World of Tank",
+    "problem_url": "https://codeforces.com/contest/936/problem/D",
+    "submission_id": "CF263123469",
+    "submission_url": "https://codeforces.com/contest/936/submission/263123469",
+    "tags": [
+      "dp",
+      "greedy",
+      "*3000"
+    ],
+    "timestamp": "May/29/2024 16:08"
+  },
   "CF263123474": {
     "contest_id": 618,
     "language": "C++20 (GCC 13-64)",
