@@ -24814,6 +24814,23 @@
     ],
     "timestamp": "May/29/2024 15:36"
   },
+  "CF263127691": {
+    "contest_id": 44,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/44/I.cpp",
+    "platform": "Codeforces",
+    "problem_index": "I",
+    "problem_name": "Toys",
+    "problem_url": "https://codeforces.com/contest/44/problem/I",
+    "submission_id": "CF263127691",
+    "submission_url": "https://codeforces.com/contest/44/submission/263127691",
+    "tags": [
+      "brute force",
+      "combinatorics",
+      "*2300"
+    ],
+    "timestamp": "May/29/2024 16:44"
+  },
   "CF263127753": {
     "contest_id": 773,
     "language": "C++20 (GCC 13-64)",
