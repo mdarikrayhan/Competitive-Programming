@@ -30034,6 +30034,23 @@
     ],
     "timestamp": "May/29/2024 15:36"
   },
+  "CF263119985": {
+    "contest_id": 57,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/57/E.cpp",
+    "platform": "Codeforces",
+    "problem_index": "E",
+    "problem_name": "Chess",
+    "problem_url": "https://codeforces.com/contest/57/problem/E",
+    "submission_id": "CF263119985",
+    "submission_url": "https://codeforces.com/contest/57/submission/263119985",
+    "tags": [
+      "math",
+      "shortest paths",
+      "*3000"
+    ],
+    "timestamp": "May/29/2024 15:39"
+  },
   "CF263120123": {
     "contest_id": 715,
     "language": "C++20 (GCC 13-64)",
