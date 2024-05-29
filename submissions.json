@@ -23393,6 +23393,19 @@
     ],
     "timestamp": "May/17/2024 08:26"
   },
+  "CF263170168": {
+    "contest_id": 1357,
+    "language": "Q#",
+    "path": "codeforces/1357/A3.qs",
+    "platform": "Codeforces",
+    "problem_index": "A3",
+    "problem_name": "Distinguish H from X",
+    "problem_url": "https://codeforces.com/contest/1357/problem/A3",
+    "submission_id": "CF263170168",
+    "submission_url": "https://codeforces.com/contest/1357/submission/263170168",
+    "tags": [],
+    "timestamp": "May/29/2024 22:59"
+  },
   "CF263170180": {
     "contest_id": 1357,
     "language": "Q#",
