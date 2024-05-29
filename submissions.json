@@ -23393,6 +23393,22 @@
     ],
     "timestamp": "May/17/2024 08:26"
   },
+  "CF263114969": {
+    "contest_id": 1172,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1172/E.cpp",
+    "platform": "Codeforces",
+    "problem_index": "E",
+    "problem_name": "Nauuo and ODT",
+    "problem_url": "https://codeforces.com/contest/1172/problem/E",
+    "submission_id": "CF263114969",
+    "submission_url": "https://codeforces.com/contest/1172/submission/263114969",
+    "tags": [
+      "data structures",
+      "*3300"
+    ],
+    "timestamp": "May/29/2024 14:58"
+  },
   "CF263114991": {
     "contest_id": 1439,
     "language": "C++20 (GCC 13-64)",
