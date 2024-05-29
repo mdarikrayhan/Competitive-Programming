@@ -33144,6 +33144,22 @@
     ],
     "timestamp": "May/29/2024 07:32"
   },
+  "CF263075794": {
+    "contest_id": 130,
+    "language": "Befunge",
+    "path": "codeforces/130/H.befunge",
+    "platform": "Codeforces",
+    "problem_index": "H",
+    "problem_name": "Balanced brackets",
+    "problem_url": "https://codeforces.com/contest/130/problem/H",
+    "submission_id": "CF263075794",
+    "submission_url": "https://codeforces.com/contest/130/submission/263075794",
+    "tags": [
+      "*special problem",
+      "*1600"
+    ],
+    "timestamp": "May/29/2024 07:39"
+  },
   "CF263075800": {
     "contest_id": 130,
     "language": "Befunge",
