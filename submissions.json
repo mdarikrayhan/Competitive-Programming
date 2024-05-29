@@ -23393,6 +23393,23 @@
     ],
     "timestamp": "May/17/2024 08:26"
   },
+  "CF263130498": {
+    "contest_id": 1310,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1310/F.cpp",
+    "platform": "Codeforces",
+    "problem_index": "F",
+    "problem_name": "Bad Cryptography",
+    "problem_url": "https://codeforces.com/contest/1310/problem/F",
+    "submission_id": "CF263130498",
+    "submission_url": "https://codeforces.com/contest/1310/submission/263130498",
+    "tags": [
+      "math",
+      "number theory",
+      "*3400"
+    ],
+    "timestamp": "May/29/2024 17:08"
+  },
   "CF263130506": {
     "contest_id": 1246,
     "language": "C++20 (GCC 13-64)",
