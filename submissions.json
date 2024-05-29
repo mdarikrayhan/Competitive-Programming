@@ -27195,6 +27195,24 @@
     "tags": [],
     "timestamp": "May/29/2024 13:37"
   },
+  "CF263106126": {
+    "contest_id": 1765,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1765/C.cpp",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Card Guessing",
+    "problem_url": "https://codeforces.com/contest/1765/problem/C",
+    "submission_id": "CF263106126",
+    "submission_url": "https://codeforces.com/contest/1765/submission/263106126",
+    "tags": [
+      "combinatorics",
+      "dp",
+      "probabilities",
+      "*2600"
+    ],
+    "timestamp": "May/29/2024 13:48"
+  },
   "CF263106147": {
     "contest_id": 1033,
     "language": "C++20 (GCC 13-64)",
