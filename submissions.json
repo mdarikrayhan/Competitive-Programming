@@ -23393,6 +23393,19 @@
     ],
     "timestamp": "May/17/2024 08:26"
   },
+  "CF263152764": {
+    "contest_id": 1940,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1940/B.cpp",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Three Arrays",
+    "problem_url": "https://codeforces.com/contest/1940/problem/B",
+    "submission_id": "CF263152764",
+    "submission_url": "https://codeforces.com/contest/1940/submission/263152764",
+    "tags": [],
+    "timestamp": "May/29/2024 20:03"
+  },
   "CF263152802": {
     "contest_id": 1425,
     "language": "C++20 (GCC 13-64)",
