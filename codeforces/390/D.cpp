@@ -1,0 +1,2 @@
+#include<bits/stdc++.h>
+using namespace std;struct st{int x,y;}s[25010];bool cmp(st a,st b){return a.x+a.y<b.x+b.y;}int w,n,m,k,ans;int main(){cin>>n>>m>>k;for(int i=1;i<=n;i++)for(int j=1;j<=m;j++)s[w].x=i,s[w].y=j,w++;sort(s,s+w,cmp);for(int i=k-1;i>=0;i--)ans=ans+s[i].x-1+s[i].y;cout<<ans<<'\n';for(int i=k-1;i>=0;i--){for(int j=1;j<s[i].y;j++)cout<<"(1,"<<j<<")";for(int j=1;j<=s[i].x;j++)cout<<"("<<j<<","<<s[i].y<<")";cout<<'\n';}}
