@@ -24815,6 +24815,24 @@
     ],
     "timestamp": "May/29/2024 10:33"
   },
+  "CF263097962": {
+    "contest_id": 1082,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1082/F.cpp",
+    "platform": "Codeforces",
+    "problem_index": "F",
+    "problem_name": "Speed Dial",
+    "problem_url": "https://codeforces.com/contest/1082/problem/F",
+    "submission_id": "CF263097962",
+    "submission_url": "https://codeforces.com/contest/1082/submission/263097962",
+    "tags": [
+      "dp",
+      "strings",
+      "trees",
+      "*2800"
+    ],
+    "timestamp": "May/29/2024 12:47"
+  },
   "CF263097978": {
     "contest_id": 930,
     "language": "C++20 (GCC 13-64)",
