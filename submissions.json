@@ -23497,6 +23497,24 @@
     "tags": [],
     "timestamp": "May/29/2024 18:32"
   },
+  "CF263144461": {
+    "contest_id": 1648,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1648/F.cpp",
+    "platform": "Codeforces",
+    "problem_index": "F",
+    "problem_name": "Two Avenues",
+    "problem_url": "https://codeforces.com/contest/1648/problem/F",
+    "submission_id": "CF263144461",
+    "submission_url": "https://codeforces.com/contest/1648/submission/263144461",
+    "tags": [
+      "data structures",
+      "dfs and similar",
+      "graphs",
+      "*3500"
+    ],
+    "timestamp": "May/29/2024 19:00"
+  },
   "CF263144491": {
     "contest_id": 457,
     "language": "C++20 (GCC 13-64)",
