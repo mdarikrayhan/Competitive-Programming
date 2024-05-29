@@ -23393,6 +23393,23 @@
     ],
     "timestamp": "May/17/2024 08:26"
   },
+  "CF263135693": {
+    "contest_id": 1830,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1830/E.cpp",
+    "platform": "Codeforces",
+    "problem_index": "E",
+    "problem_name": "Bully Sort",
+    "problem_url": "https://codeforces.com/contest/1830/problem/E",
+    "submission_id": "CF263135693",
+    "submission_url": "https://codeforces.com/contest/1830/submission/263135693",
+    "tags": [
+      "data structures",
+      "math",
+      "*3500"
+    ],
+    "timestamp": "May/29/2024 17:50"
+  },
   "CF263135729": {
     "contest_id": 1267,
     "language": "C++20 (GCC 13-64)",
