@@ -27114,6 +27114,24 @@
     ],
     "timestamp": "May/29/2024 06:34"
   },
+  "CF263073773": {
+    "contest_id": 1346,
+    "language": "Kotlin 1.7",
+    "path": "codeforces/1346/E.kt",
+    "platform": "Codeforces",
+    "problem_index": "E",
+    "problem_name": "Magic Tricks",
+    "problem_url": "https://codeforces.com/contest/1346/problem/E",
+    "submission_id": "CF263073773",
+    "submission_url": "https://codeforces.com/contest/1346/submission/263073773",
+    "tags": [
+      "*special problem",
+      "dp",
+      "graphs",
+      "*1700"
+    ],
+    "timestamp": "May/29/2024 06:51"
+  },
   "CF263073785": {
     "contest_id": 1346,
     "language": "Kotlin 1.7",
