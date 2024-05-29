@@ -23393,6 +23393,23 @@
     ],
     "timestamp": "May/17/2024 08:26"
   },
+  "CF263077076": {
+    "contest_id": 183,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/183/A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Headquarters",
+    "problem_url": "https://codeforces.com/contest/183/problem/A",
+    "submission_id": "CF263077076",
+    "submission_url": "https://codeforces.com/contest/183/submission/263077076",
+    "tags": [
+      "constructive algorithms",
+      "math",
+      "*1700"
+    ],
+    "timestamp": "May/29/2024 08:08"
+  },
   "CF263077100": {
     "contest_id": 818,
     "language": "C++20 (GCC 13-64)",
