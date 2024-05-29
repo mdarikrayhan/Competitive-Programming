@@ -23393,6 +23393,22 @@
     ],
     "timestamp": "May/17/2024 08:26"
   },
+  "CF263113366": {
+    "contest_id": 1599,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1599/F.cpp",
+    "platform": "Codeforces",
+    "problem_index": "F",
+    "problem_name": "Mars",
+    "problem_url": "https://codeforces.com/contest/1599/problem/F",
+    "submission_id": "CF263113366",
+    "submission_url": "https://codeforces.com/contest/1599/submission/263113366",
+    "tags": [
+      "hashing",
+      "*2700"
+    ],
+    "timestamp": "May/29/2024 14:45"
+  },
   "CF263113439": {
     "contest_id": 1838,
     "language": "C++20 (GCC 13-64)",
