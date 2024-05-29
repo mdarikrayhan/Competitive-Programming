@@ -36948,6 +36948,24 @@
     ],
     "timestamp": "May/29/2024 06:34"
   },
+  "CF263073252": {
+    "contest_id": 54,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/54/D.cpp",
+    "platform": "Codeforces",
+    "problem_index": "D",
+    "problem_name": "Writing a Song",
+    "problem_url": "https://codeforces.com/contest/54/problem/D",
+    "submission_id": "CF263073252",
+    "submission_url": "https://codeforces.com/contest/54/submission/263073252",
+    "tags": [
+      "brute force",
+      "dp",
+      "strings",
+      "*2100"
+    ],
+    "timestamp": "May/29/2024 06:35"
+  },
   "CF263073260": {
     "contest_id": 1863,
     "language": "C++20 (GCC 13-64)",
