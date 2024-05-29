@@ -24298,6 +24298,25 @@
     ],
     "timestamp": "May/29/2024 08:12"
   },
+  "CF263081833": {
+    "contest_id": 1495,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1495/E.cpp",
+    "platform": "Codeforces",
+    "problem_index": "E",
+    "problem_name": "Qingshan and Daniel",
+    "problem_url": "https://codeforces.com/contest/1495/problem/E",
+    "submission_id": "CF263081833",
+    "submission_url": "https://codeforces.com/contest/1495/submission/263081833",
+    "tags": [
+      "brute force",
+      "data structures",
+      "greedy",
+      "implementation",
+      "*3200"
+    ],
+    "timestamp": "May/29/2024 09:31"
+  },
   "CF263081844": {
     "contest_id": 649,
     "language": "C++20 (GCC 13-64)",
