@@ -40438,6 +40438,22 @@
     ],
     "timestamp": "May/29/2024 08:32"
   },
+  "CF263078426": {
+    "contest_id": 297,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/297/D.cpp",
+    "platform": "Codeforces",
+    "problem_index": "D",
+    "problem_name": "Color the Carpet",
+    "problem_url": "https://codeforces.com/contest/297/problem/D",
+    "submission_id": "CF263078426",
+    "submission_url": "https://codeforces.com/contest/297/submission/263078426",
+    "tags": [
+      "constructive algorithms",
+      "*2500"
+    ],
+    "timestamp": "May/29/2024 08:36"
+  },
   "CF263078439": {
     "contest_id": 559,
     "language": "C++20 (GCC 13-64)",
