@@ -34491,6 +34491,23 @@
     ],
     "timestamp": "May/29/2024 14:59"
   },
+  "CF263116361": {
+    "contest_id": 1110,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1110/H.cpp",
+    "platform": "Codeforces",
+    "problem_index": "H",
+    "problem_name": "Modest Substrings",
+    "problem_url": "https://codeforces.com/contest/1110/problem/H",
+    "submission_id": "CF263116361",
+    "submission_url": "https://codeforces.com/contest/1110/submission/263116361",
+    "tags": [
+      "dp",
+      "strings",
+      "*3500"
+    ],
+    "timestamp": "May/29/2024 15:10"
+  },
   "CF263116460": {
     "contest_id": 303,
     "language": "C++20 (GCC 13-64)",
