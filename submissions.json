@@ -33196,6 +33196,23 @@
     ],
     "timestamp": "May/29/2024 07:46"
   },
+  "CF263076270": {
+    "contest_id": 306,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/306/C.cpp",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "White, Black and White Again",
+    "problem_url": "https://codeforces.com/contest/306/problem/C",
+    "submission_id": "CF263076270",
+    "submission_url": "https://codeforces.com/contest/306/submission/263076270",
+    "tags": [
+      "combinatorics",
+      "number theory",
+      "*2100"
+    ],
+    "timestamp": "May/29/2024 07:51"
+  },
   "CF263076329": {
     "contest_id": 1076,
     "language": "C++20 (GCC 13-64)",
