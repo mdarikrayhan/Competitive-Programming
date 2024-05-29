@@ -38716,6 +38716,24 @@
     ],
     "timestamp": "May/29/2024 14:00"
   },
+  "CF263109783": {
+    "contest_id": 788,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/788/D.cpp",
+    "platform": "Codeforces",
+    "problem_index": "D",
+    "problem_name": "Finding lines",
+    "problem_url": "https://codeforces.com/contest/788/problem/D",
+    "submission_id": "CF263109783",
+    "submission_url": "https://codeforces.com/contest/788/submission/263109783",
+    "tags": [
+      "constructive algorithms",
+      "divide and conquer",
+      "interactive",
+      "*3000"
+    ],
+    "timestamp": "May/29/2024 14:16"
+  },
   "CF263109790": {
     "contest_id": 1909,
     "language": "C++20 (GCC 13-64)",
