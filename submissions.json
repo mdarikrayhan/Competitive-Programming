@@ -23393,6 +23393,21 @@
     ],
     "timestamp": "May/17/2024 08:26"
   },
+  "CF263160742": {
+    "contest_id": 111,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/111/E.cpp",
+    "platform": "Codeforces",
+    "problem_index": "E",
+    "problem_name": "Petya and Rectangle",
+    "problem_url": "https://codeforces.com/contest/111/problem/E",
+    "submission_id": "CF263160742",
+    "submission_url": "https://codeforces.com/contest/111/submission/263160742",
+    "tags": [
+      "*2900"
+    ],
+    "timestamp": "May/29/2024 21:11"
+  },
   "CF263160857": {
     "contest_id": 1746,
     "language": "C++20 (GCC 13-64)",
