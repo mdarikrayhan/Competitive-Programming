@@ -1,47 +1,54 @@
-// #define _GLIBCXX_DEBUG
-#include "bits/stdc++.h"
-#define For(i,a,b) for(int i=a;i<=b;i++)
-#define Rev(i,a,b) for(int i=a;i>=b;i--)
-#define Fin(file) freopen(file,"r",stdin)
-#define Fout(file) freopen(file,"w",stdout)
-#define assume(expr) ((!!(expr))||(exit((fprintf(stderr,"Assumption Failed: %s on Line %d\n",#expr,__LINE__),-1)),false))
+#include<iostream>
+#include<cstdio>
+#include<vector>
+#include<cmath>
 using namespace std;
-#define double long double
-const int N=105; typedef long long ll; using Vec = vector<double>;
-const int A=100;
-ll nnn; int n; Vec F[N],S[N];
-// double Powsum(int t,int w) { double res=0; For(k,1,t) res+=pow(k,-w);; return res; }
-const int M=5e5;
-Vec Pre[A];
-void InitPowSum() { For(w,1,A-1) { int sz=M/A; Pre[w].resize(sz); For(k,1,sz-1) Pre[w][k]=Pre[w][k-1]+pow(k,-1.0L*w); } }
-double Powsum(ll t,int w){
-    if(t==0) return 0.0;
-    assume(Pre[w].size());
-    if(t<ll(Pre[w].size())) return Pre[w][t];
-    double a=Pre[w].size()-0.5,b=t+0.5; double ans=Pre[w].back();
-    if(w==1) ans+=log(b)-log(a); else ans+=(pow(b,1.0L-w)-pow(a,1.0L-w))/(1.0L-w);
-    return ans;
+#define N 127
+#define B 100000
+#define DB double
+DB a[100012],s[N][100012];
+int n;long long T,b[N];
+DB c[N][N];
+inline DB po(long long n,int k){DB res=1.0;while(k--)res/=n;return res;}
+inline DB ph(long long n,int k){if(n==0)return 0;return (k==0)?n:((k==1)?(logl(n)+0.5/n):(-(1.0/(k-1))*po(n,k-1)));}
+inline DB ca(long long n,int k){return (n<=B)?s[k][n]:(s[k][B]+ph(n,k)-ph(B,k));}
+DB f[N];
+inline void cal(long long n,DB *c)
+{
+	--n;int i,j;
+	for(i=1;i<=100;i++)f[i]=ca(n,i)*((i&1)?(1):(-1))/i;
+	c[0]=1;
+	for(i=1;i<=100;i++)
+	{
+		DB res=0;
+		for(j=0;j<i;j++)res+=c[j]*(i-j)*f[i-j];c[i]=res/i;
+	}
+	for(i=100;i>=1;i--)c[i]=c[i-1]/(n+1);
+	for(i=min(100ll,n+2);i<=100;i++)c[i]=0;c[0]=0;
+//	for(i=1;i<=100;i++)cerr<<c[i]<<endl;
 }
-Vec Exp(const Vec& f){
-    Vec g; int sz=f.size(); g.resize(sz); g[0]=exp(f[0]);
-    For(i,0,sz-2) { For(j,0,i) g[i+1]+=(j+1)*f[j+1]*g[i-j];; g[i+1]/=(i+1.0L); }
-    return g;
+DB nw[N];
+int main(){
+//jiuk
+//	DB res=0;
+//	for(int i=90;i<=95;i++)res+=1.0/i;cerr<<res<<" "<<ph(95)-ph(89)<<endl;return 0;
+	for(int i=1;i<=B;i++)a[i]=1,s[0][i]=i;
+	for(int i=1;i<=100;i++)
+	for(int j=1;j<=B;j++)a[j]/=j,s[i][j]=s[i][j-1]+a[j];
+	scanf("%lld%d",&T,&n);int i,j,k;
+	if(n==1){printf("1");return 0;}
+	for(i=1;i<=n;i++){scanf("%lld",&b[i]);if(b[i]==T)while(1);cal(T-b[i],c[i]);}
+	for(i=1;i<=n;i++)
+	{
+		DB ans=0;
+		for(j=1;j<=n;j++)nw[j]=1.0;
+		for(j=1;j<=min(B,100);j++)
+		{
+			DB res=c[i][j];
+			for(k=1;k<=n;k++)if(k!=i)res*=nw[k];
+			for(k=1;k<=n;k++)nw[k]=max(0.0,nw[k]-c[k][j]);
+			ans+=res;
+		}
+		printf("%.12lf ",ans);
+	}return 0;
 }
-signed main(){
-    InitPowSum();
-    cin>>nnn>>n; For(i,1,n){
-        ll a; cin>>a,a=nnn-a;
-        F[i].resize(A); F[i][0]=-log(a);
-        For(w,1,A-1) F[i][w]=((w&1)?1.0L:-1.0L)/w*Powsum(a-1,w);
-        F[i]=Exp(F[i]); S[i].resize(A); partial_sum(F[i].begin(),F[i].end(),S[i].begin());
-    }
-    For(i,1,n){
-        double ans=F[i][0]; For(j,1,A-1) { double tt=F[i][j]; For(k,1,n) if(k!=i) tt*=(1-S[k][j-1]);; ans+=tt; }
-        cout<<setprecision(20)<<fixed<<ans<<'\n';
-    }
-    cerr<<"Time = "<<clock()<<" ms"<<endl;
-    return 0;
-}
-
-// START TYPING IF YOU DON'T KNOW WHAT TO DO
-// STOP TYPING IF YOU DON'T KNOW WHAT YOU'RE DOING

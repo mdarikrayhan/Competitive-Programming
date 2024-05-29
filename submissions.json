@@ -23393,6 +23393,23 @@
     ],
     "timestamp": "May/17/2024 08:26"
   },
+  "CF263150310": {
+    "contest_id": 1776,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1776/K.cpp",
+    "platform": "Codeforces",
+    "problem_index": "K",
+    "problem_name": "Uniform Chemistry",
+    "problem_url": "https://codeforces.com/contest/1776/problem/K",
+    "submission_id": "CF263150310",
+    "submission_url": "https://codeforces.com/contest/1776/submission/263150310",
+    "tags": [
+      "dp",
+      "math",
+      "*3200"
+    ],
+    "timestamp": "May/29/2024 19:44"
+  },
   "CF263150361": {
     "contest_id": 1517,
     "language": "C++20 (GCC 13-64)",
