@@ -23393,6 +23393,24 @@
     ],
     "timestamp": "May/17/2024 08:26"
   },
+  "CF263114193": {
+    "contest_id": 1599,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1599/J.cpp",
+    "platform": "Codeforces",
+    "problem_index": "J",
+    "problem_name": "Bob's Beautiful Array",
+    "problem_url": "https://codeforces.com/contest/1599/problem/J",
+    "submission_id": "CF263114193",
+    "submission_url": "https://codeforces.com/contest/1599/submission/263114193",
+    "tags": [
+      "bitmasks",
+      "brute force",
+      "greedy",
+      "*2600"
+    ],
+    "timestamp": "May/29/2024 14:52"
+  },
   "CF263114224": {
     "contest_id": 332,
     "language": "C++20 (GCC 13-64)",
