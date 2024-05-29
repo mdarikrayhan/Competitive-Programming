@@ -37540,6 +37540,24 @@
     ],
     "timestamp": "May/29/2024 09:31"
   },
+  "CF263081856": {
+    "contest_id": 261,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/261/E.cpp",
+    "platform": "Codeforces",
+    "problem_index": "E",
+    "problem_name": "Maxim and Calculator",
+    "problem_url": "https://codeforces.com/contest/261/problem/E",
+    "submission_id": "CF263081856",
+    "submission_url": "https://codeforces.com/contest/261/submission/263081856",
+    "tags": [
+      "brute force",
+      "dp",
+      "two pointers",
+      "*2800"
+    ],
+    "timestamp": "May/29/2024 09:31"
+  },
   "CF263081884": {
     "contest_id": 1845,
     "language": "C++20 (GCC 13-64)",
