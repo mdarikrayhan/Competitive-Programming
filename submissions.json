@@ -23497,6 +23497,22 @@
     "tags": [],
     "timestamp": "May/29/2024 18:32"
   },
+  "CF263145218": {
+    "contest_id": 1770,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1770/H.cpp",
+    "platform": "Codeforces",
+    "problem_index": "H",
+    "problem_name": "Koxia, Mahiru and Winter Festival",
+    "problem_url": "https://codeforces.com/contest/1770/problem/H",
+    "submission_id": "CF263145218",
+    "submission_url": "https://codeforces.com/contest/1770/submission/263145218",
+    "tags": [
+      "constructive algorithms",
+      "*3500"
+    ],
+    "timestamp": "May/29/2024 19:07"
+  },
   "CF263145308": {
     "contest_id": 982,
     "language": "C++20 (GCC 13-64)",
