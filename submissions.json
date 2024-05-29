@@ -33073,6 +33073,25 @@
     ],
     "timestamp": "May/29/2024 14:00"
   },
+  "CF263110877": {
+    "contest_id": 1644,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1644/F.cpp",
+    "platform": "Codeforces",
+    "problem_index": "F",
+    "problem_name": "Basis",
+    "problem_url": "https://codeforces.com/contest/1644/problem/F",
+    "submission_id": "CF263110877",
+    "submission_url": "https://codeforces.com/contest/1644/submission/263110877",
+    "tags": [
+      "combinatorics",
+      "fft",
+      "math",
+      "number theory",
+      "*2900"
+    ],
+    "timestamp": "May/29/2024 14:25"
+  },
   "CF263110966": {
     "contest_id": 1801,
     "language": "C++20 (GCC 13-64)",
