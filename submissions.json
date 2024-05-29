@@ -39208,6 +39208,23 @@
     ],
     "timestamp": "May/29/2024 10:33"
   },
+  "CF263085978": {
+    "contest_id": 718,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/718/E.cpp",
+    "platform": "Codeforces",
+    "problem_index": "E",
+    "problem_name": "Matvey's Birthday",
+    "problem_url": "https://codeforces.com/contest/718/problem/E",
+    "submission_id": "CF263085978",
+    "submission_url": "https://codeforces.com/contest/718/submission/263085978",
+    "tags": [
+      "bitmasks",
+      "graphs",
+      "*3300"
+    ],
+    "timestamp": "May/29/2024 10:38"
+  },
   "CF263086280": {
     "contest_id": 719,
     "language": "C++20 (GCC 13-64)",
