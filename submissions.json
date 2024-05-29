@@ -23497,6 +23497,23 @@
     "tags": [],
     "timestamp": "May/29/2024 18:32"
   },
+  "CF263145441": {
+    "contest_id": 183,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/183/B.cpp",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Zoo",
+    "problem_url": "https://codeforces.com/contest/183/problem/B",
+    "submission_id": "CF263145441",
+    "submission_url": "https://codeforces.com/contest/183/submission/263145441",
+    "tags": [
+      "brute force",
+      "geometry",
+      "*1700"
+    ],
+    "timestamp": "May/29/2024 19:08"
+  },
   "CF263145465": {
     "contest_id": 1666,
     "language": "C++20 (GCC 13-64)",
