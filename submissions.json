@@ -23393,6 +23393,24 @@
     ],
     "timestamp": "May/17/2024 08:26"
   },
+  "CF263162362": {
+    "contest_id": 1967,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1967/E2.cpp",
+    "platform": "Codeforces",
+    "problem_index": "E2",
+    "problem_name": "Again Counting Arrays (Hard Version)",
+    "problem_url": "https://codeforces.com/contest/1967/problem/E2",
+    "submission_id": "CF263162362",
+    "submission_url": "https://codeforces.com/contest/1967/submission/263162362",
+    "tags": [
+      "combinatorics",
+      "dp",
+      "math",
+      "*3500"
+    ],
+    "timestamp": "May/29/2024 21:26"
+  },
   "CF263162396": {
     "contest_id": 856,
     "language": "C++20 (GCC 13-64)",
