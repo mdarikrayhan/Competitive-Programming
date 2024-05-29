@@ -24814,6 +24814,25 @@
     ],
     "timestamp": "May/29/2024 15:36"
   },
+  "CF263128802": {
+    "contest_id": 1054,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1054/H.cpp",
+    "platform": "Codeforces",
+    "problem_index": "H",
+    "problem_name": "Epic Convolution",
+    "problem_url": "https://codeforces.com/contest/1054/problem/H",
+    "submission_id": "CF263128802",
+    "submission_url": "https://codeforces.com/contest/1054/submission/263128802",
+    "tags": [
+      "chinese remainder theorem",
+      "fft",
+      "math",
+      "number theory",
+      "*3500"
+    ],
+    "timestamp": "May/29/2024 16:53"
+  },
   "CF263128819": {
     "contest_id": 1322,
     "language": "C++20 (GCC 13-64)",
