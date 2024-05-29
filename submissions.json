@@ -27114,6 +27114,23 @@
     ],
     "timestamp": "May/29/2024 06:34"
   },
+  "CF263073697": {
+    "contest_id": 1187,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1187/G.cpp",
+    "platform": "Codeforces",
+    "problem_index": "G",
+    "problem_name": "Gang Up",
+    "problem_url": "https://codeforces.com/contest/1187/problem/G",
+    "submission_id": "CF263073697",
+    "submission_url": "https://codeforces.com/contest/1187/submission/263073697",
+    "tags": [
+      "flows",
+      "graphs",
+      "*2500"
+    ],
+    "timestamp": "May/29/2024 06:48"
+  },
   "CF263073702": {
     "contest_id": 89,
     "language": "C++20 (GCC 13-64)",
