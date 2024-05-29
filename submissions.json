@@ -38710,6 +38710,22 @@
     ],
     "timestamp": "May/29/2024 07:56"
   },
+  "CF263076541": {
+    "contest_id": 952,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/952/G.cpp",
+    "platform": "Codeforces",
+    "problem_index": "G",
+    "problem_name": "Puzzling Language",
+    "problem_url": "https://codeforces.com/contest/952/problem/G",
+    "submission_id": "CF263076541",
+    "submission_url": "https://codeforces.com/contest/952/submission/263076541",
+    "tags": [
+      "constructive algorithms",
+      "*2200"
+    ],
+    "timestamp": "May/29/2024 07:57"
+  },
   "CF263076542": {
     "contest_id": 83,
     "language": "C++20 (GCC 13-64)",
