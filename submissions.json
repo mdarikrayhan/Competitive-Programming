@@ -34491,6 +34491,23 @@
     ],
     "timestamp": "May/29/2024 14:59"
   },
+  "CF263115651": {
+    "contest_id": 1214,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1214/G.cpp",
+    "platform": "Codeforces",
+    "problem_index": "G",
+    "problem_name": "Feeling Good",
+    "problem_url": "https://codeforces.com/contest/1214/problem/G",
+    "submission_id": "CF263115651",
+    "submission_url": "https://codeforces.com/contest/1214/submission/263115651",
+    "tags": [
+      "bitmasks",
+      "data structures",
+      "*3200"
+    ],
+    "timestamp": "May/29/2024 15:04"
+  },
   "CF263115652": {
     "contest_id": 1824,
     "language": "C++20 (GCC 13-64)",
