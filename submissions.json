@@ -35912,6 +35912,26 @@
     ],
     "timestamp": "May/29/2024 15:36"
   },
+  "CF263119790": {
+    "contest_id": 1868,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1868/D.cpp",
+    "platform": "Codeforces",
+    "problem_index": "D",
+    "problem_name": "Flower-like Pseudotree",
+    "problem_url": "https://codeforces.com/contest/1868/problem/D",
+    "submission_id": "CF263119790",
+    "submission_url": "https://codeforces.com/contest/1868/submission/263119790",
+    "tags": [
+      "constructive algorithms",
+      "graphs",
+      "greedy",
+      "implementation",
+      "trees",
+      "*3000"
+    ],
+    "timestamp": "May/29/2024 15:37"
+  },
   "CF263119826": {
     "contest_id": 1120,
     "language": "C++20 (GCC 13-64)",
