@@ -38261,6 +38261,22 @@
     ],
     "timestamp": "May/29/2024 07:38"
   },
+  "CF263075746": {
+    "contest_id": 130,
+    "language": "Befunge",
+    "path": "codeforces/130/D.befunge",
+    "platform": "Codeforces",
+    "problem_index": "D",
+    "problem_name": "Exponentiation",
+    "problem_url": "https://codeforces.com/contest/130/problem/D",
+    "submission_id": "CF263075746",
+    "submission_url": "https://codeforces.com/contest/130/submission/263075746",
+    "tags": [
+      "*special problem",
+      "*1500"
+    ],
+    "timestamp": "May/29/2024 07:38"
+  },
   "CF263075766": {
     "contest_id": 130,
     "language": "Befunge",
