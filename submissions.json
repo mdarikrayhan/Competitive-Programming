@@ -23393,6 +23393,22 @@
     ],
     "timestamp": "May/17/2024 08:26"
   },
+  "CF263136126": {
+    "contest_id": 39,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/39/G.cpp",
+    "platform": "Codeforces",
+    "problem_index": "G",
+    "problem_name": "Inverse Function",
+    "problem_url": "https://codeforces.com/contest/39/problem/G",
+    "submission_id": "CF263136126",
+    "submission_url": "https://codeforces.com/contest/39/submission/263136126",
+    "tags": [
+      "implementation",
+      "*2400"
+    ],
+    "timestamp": "May/29/2024 17:54"
+  },
   "CF263136203": {
     "contest_id": 1131,
     "language": "C++20 (GCC 13-64)",
