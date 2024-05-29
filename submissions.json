@@ -23393,6 +23393,24 @@
     ],
     "timestamp": "May/17/2024 08:26"
   },
+  "CF263117842": {
+    "contest_id": 1181,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1181/E2.cpp",
+    "platform": "Codeforces",
+    "problem_index": "E2",
+    "problem_name": "A Story of One Country (Hard)",
+    "problem_url": "https://codeforces.com/contest/1181/problem/E2",
+    "submission_id": "CF263117842",
+    "submission_url": "https://codeforces.com/contest/1181/submission/263117842",
+    "tags": [
+      "brute force",
+      "greedy",
+      "sortings",
+      "*3000"
+    ],
+    "timestamp": "May/29/2024 15:22"
+  },
   "CF263117851": {
     "contest_id": 1970,
     "language": "C++20 (GCC 13-64)",
