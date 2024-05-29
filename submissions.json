@@ -27114,6 +27114,26 @@
     ],
     "timestamp": "May/29/2024 06:34"
   },
+  "CF263073323": {
+    "contest_id": 989,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/989/D.cpp",
+    "platform": "Codeforces",
+    "problem_index": "D",
+    "problem_name": "A Shade of Moonlight",
+    "problem_url": "https://codeforces.com/contest/989/problem/D",
+    "submission_id": "CF263073323",
+    "submission_url": "https://codeforces.com/contest/989/submission/263073323",
+    "tags": [
+      "binary search",
+      "geometry",
+      "math",
+      "sortings",
+      "two pointers",
+      "*2500"
+    ],
+    "timestamp": "May/29/2024 06:37"
+  },
   "CF263073333": {
     "contest_id": 241,
     "language": "C++20 (GCC 13-64)",
