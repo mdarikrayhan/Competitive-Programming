@@ -37260,6 +37260,24 @@
     ],
     "timestamp": "May/29/2024 09:03"
   },
+  "CF263081104": {
+    "contest_id": 271,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/271/E.cpp",
+    "platform": "Codeforces",
+    "problem_index": "E",
+    "problem_name": "Three Horses",
+    "problem_url": "https://codeforces.com/contest/271/problem/E",
+    "submission_id": "CF263081104",
+    "submission_url": "https://codeforces.com/contest/271/submission/263081104",
+    "tags": [
+      "constructive algorithms",
+      "math",
+      "number theory",
+      "*2200"
+    ],
+    "timestamp": "May/29/2024 09:19"
+  },
   "CF263081136": {
     "contest_id": 1304,
     "language": "C++20 (GCC 13-64)",
