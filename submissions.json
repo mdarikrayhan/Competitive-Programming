@@ -37644,6 +37644,23 @@
     ],
     "timestamp": "May/29/2024 09:39"
   },
+  "CF263082434": {
+    "contest_id": 345,
+    "language": "Ada",
+    "path": "codeforces/345/A.ada",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Expecting Trouble",
+    "problem_url": "https://codeforces.com/contest/345/problem/A",
+    "submission_id": "CF263082434",
+    "submission_url": "https://codeforces.com/contest/345/submission/263082434",
+    "tags": [
+      "*special problem",
+      "probabilities",
+      "*1500"
+    ],
+    "timestamp": "May/29/2024 09:41"
+  },
   "CF263082439": {
     "contest_id": 86,
     "language": "C++20 (GCC 13-64)",
