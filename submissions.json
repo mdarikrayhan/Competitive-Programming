@@ -23497,6 +23497,25 @@
     "tags": [],
     "timestamp": "May/29/2024 18:32"
   },
+  "CF263147463": {
+    "contest_id": 780,
+    "language": "C++14 (GCC 6-32)",
+    "path": "codeforces/780/H.cpp",
+    "platform": "Codeforces",
+    "problem_index": "H",
+    "problem_name": "Intranet of Buses",
+    "problem_url": "https://codeforces.com/contest/780/problem/H",
+    "submission_id": "CF263147463",
+    "submission_url": "https://codeforces.com/contest/780/submission/263147463",
+    "tags": [
+      "binary search",
+      "geometry",
+      "implementation",
+      "two pointers",
+      "*3100"
+    ],
+    "timestamp": "May/29/2024 19:23"
+  },
   "CF263147480": {
     "contest_id": 958,
     "language": "C++20 (GCC 13-64)",
