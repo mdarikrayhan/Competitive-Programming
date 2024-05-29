@@ -23670,6 +23670,23 @@
     ],
     "timestamp": "May/29/2024 07:56"
   },
+  "CF263076621": {
+    "contest_id": 409,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/409/G.cpp",
+    "platform": "Codeforces",
+    "problem_index": "G",
+    "problem_name": "On a plane",
+    "problem_url": "https://codeforces.com/contest/409/problem/G",
+    "submission_id": "CF263076621",
+    "submission_url": "https://codeforces.com/contest/409/submission/263076621",
+    "tags": [
+      "*special problem",
+      "geometry",
+      "*2200"
+    ],
+    "timestamp": "May/29/2024 07:58"
+  },
   "CF263076640": {
     "contest_id": 409,
     "language": "C++20 (GCC 13-64)",
