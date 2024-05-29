@@ -23393,6 +23393,26 @@
     ],
     "timestamp": "May/17/2024 08:26"
   },
+  "CF263082802": {
+    "contest_id": 356,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/356/E.cpp",
+    "platform": "Codeforces",
+    "problem_index": "E",
+    "problem_name": "Xenia and String Problem",
+    "problem_url": "https://codeforces.com/contest/356/problem/E",
+    "submission_id": "CF263082802",
+    "submission_url": "https://codeforces.com/contest/356/submission/263082802",
+    "tags": [
+      "dp",
+      "hashing",
+      "implementation",
+      "string suffix structures",
+      "strings",
+      "*3000"
+    ],
+    "timestamp": "May/29/2024 09:47"
+  },
   "CF263082823": {
     "contest_id": 107,
     "language": "C++20 (GCC 13-64)",
