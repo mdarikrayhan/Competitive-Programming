@@ -38716,6 +38716,23 @@
     ],
     "timestamp": "May/29/2024 14:00"
   },
+  "CF263109790": {
+    "contest_id": 1909,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1909/G.cpp",
+    "platform": "Codeforces",
+    "problem_index": "G",
+    "problem_name": "Pumping Lemma",
+    "problem_url": "https://codeforces.com/contest/1909/problem/G",
+    "submission_id": "CF263109790",
+    "submission_url": "https://codeforces.com/contest/1909/submission/263109790",
+    "tags": [
+      "hashing",
+      "strings",
+      "*3000"
+    ],
+    "timestamp": "May/29/2024 14:16"
+  },
   "CF263109825": {
     "contest_id": 468,
     "language": "C++20 (GCC 13-64)",
