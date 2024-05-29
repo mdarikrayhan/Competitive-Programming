@@ -23393,6 +23393,24 @@
     ],
     "timestamp": "May/17/2024 08:26"
   },
+  "CF263132552": {
+    "contest_id": 1184,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1184/A3.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A3",
+    "problem_name": "Heidi Learns Hashing (Hard)",
+    "problem_url": "https://codeforces.com/contest/1184/problem/A3",
+    "submission_id": "CF263132552",
+    "submission_url": "https://codeforces.com/contest/1184/submission/263132552",
+    "tags": [
+      "fft",
+      "math",
+      "number theory",
+      "*3100"
+    ],
+    "timestamp": "May/29/2024 17:24"
+  },
   "CF263132582": {
     "contest_id": 1530,
     "language": "C++20 (GCC 13-64)",
