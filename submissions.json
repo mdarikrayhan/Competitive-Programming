@@ -23393,6 +23393,23 @@
     ],
     "timestamp": "May/17/2024 08:26"
   },
+  "CF263161526": {
+    "contest_id": 1491,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1491/I.cpp",
+    "platform": "Codeforces",
+    "problem_index": "I",
+    "problem_name": "Ruler Of The Zoo",
+    "problem_url": "https://codeforces.com/contest/1491/problem/I",
+    "submission_id": "CF263161526",
+    "submission_url": "https://codeforces.com/contest/1491/submission/263161526",
+    "tags": [
+      "brute force",
+      "data structures",
+      "*3500"
+    ],
+    "timestamp": "May/29/2024 21:19"
+  },
   "CF263161558": {
     "contest_id": 1750,
     "language": "C++20 (GCC 13-64)",
