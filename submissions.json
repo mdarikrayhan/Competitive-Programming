@@ -23393,6 +23393,24 @@
     ],
     "timestamp": "May/17/2024 08:26"
   },
+  "CF263153083": {
+    "contest_id": 1967,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1967/F.cpp",
+    "platform": "Codeforces",
+    "problem_index": "F",
+    "problem_name": "Next and Prev",
+    "problem_url": "https://codeforces.com/contest/1967/problem/F",
+    "submission_id": "CF263153083",
+    "submission_url": "https://codeforces.com/contest/1967/submission/263153083",
+    "tags": [
+      "brute force",
+      "data structures",
+      "implementation",
+      "*3200"
+    ],
+    "timestamp": "May/29/2024 20:05"
+  },
   "CF263153279": {
     "contest_id": 1329,
     "language": "C++20 (GCC 13-64)",
