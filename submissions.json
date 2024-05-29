@@ -24298,6 +24298,23 @@
     ],
     "timestamp": "May/29/2024 08:12"
   },
+  "CF263078015": {
+    "contest_id": 1970,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1970/E3.cpp",
+    "platform": "Codeforces",
+    "problem_index": "E3",
+    "problem_name": "Trails (Hard)",
+    "problem_url": "https://codeforces.com/contest/1970/problem/E3",
+    "submission_id": "CF263078015",
+    "submission_url": "https://codeforces.com/contest/1970/submission/263078015",
+    "tags": [
+      "dp",
+      "matrices",
+      "*2200"
+    ],
+    "timestamp": "May/29/2024 08:27"
+  },
   "CF263078069": {
     "contest_id": 776,
     "language": "C++20 (GCC 13-64)",
