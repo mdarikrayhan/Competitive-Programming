@@ -23393,6 +23393,19 @@
     ],
     "timestamp": "May/17/2024 08:26"
   },
+  "CF263140776": {
+    "contest_id": 1089,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1089/D.cpp",
+    "platform": "Codeforces",
+    "problem_index": "D",
+    "problem_name": "Distance Sum",
+    "problem_url": "https://codeforces.com/contest/1089/problem/D",
+    "submission_id": "CF263140776",
+    "submission_url": "https://codeforces.com/contest/1089/submission/263140776",
+    "tags": [],
+    "timestamp": "May/29/2024 18:31"
+  },
   "CF263140949": {
     "contest_id": 1089,
     "language": "C++20 (GCC 13-64)",
