@@ -38551,6 +38551,22 @@
     ],
     "timestamp": "May/29/2024 07:48"
   },
+  "CF263076214": {
+    "contest_id": 1812,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1812/H.cpp",
+    "platform": "Codeforces",
+    "problem_index": "H",
+    "problem_name": "Expected Twist",
+    "problem_url": "https://codeforces.com/contest/1812/problem/H",
+    "submission_id": "CF263076214",
+    "submission_url": "https://codeforces.com/contest/1812/submission/263076214",
+    "tags": [
+      "*special problem",
+      "interactive"
+    ],
+    "timestamp": "May/29/2024 07:50"
+  },
   "CF263076222": {
     "contest_id": 335,
     "language": "C++20 (GCC 13-64)",
