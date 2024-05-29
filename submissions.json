@@ -23393,6 +23393,25 @@
     ],
     "timestamp": "May/17/2024 08:26"
   },
+  "CF263156751": {
+    "contest_id": 1477,
+    "language": "C++17 (GCC 7-32)",
+    "path": "codeforces/1477/F.cpp",
+    "platform": "Codeforces",
+    "problem_index": "F",
+    "problem_name": "Nezzar and Chocolate Bars",
+    "problem_url": "https://codeforces.com/contest/1477/problem/F",
+    "submission_id": "CF263156751",
+    "submission_url": "https://codeforces.com/contest/1477/submission/263156751",
+    "tags": [
+      "combinatorics",
+      "fft",
+      "math",
+      "probabilities",
+      "*3500"
+    ],
+    "timestamp": "May/29/2024 20:35"
+  },
   "CF263156787": {
     "contest_id": 913,
     "language": "C++17 (GCC 7-32)",
