@@ -24815,6 +24815,24 @@
     ],
     "timestamp": "May/29/2024 10:33"
   },
+  "CF263096546": {
+    "contest_id": 1500,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1500/D.cpp",
+    "platform": "Codeforces",
+    "problem_index": "D",
+    "problem_name": "Tiles for Bathroom",
+    "problem_url": "https://codeforces.com/contest/1500/problem/D",
+    "submission_id": "CF263096546",
+    "submission_url": "https://codeforces.com/contest/1500/submission/263096546",
+    "tags": [
+      "data structures",
+      "sortings",
+      "two pointers",
+      "*2900"
+    ],
+    "timestamp": "May/29/2024 12:36"
+  },
   "CF263096776": {
     "contest_id": 51,
     "language": "C++20 (GCC 13-64)",
