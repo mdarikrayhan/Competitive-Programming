@@ -36975,6 +36975,23 @@
     ],
     "timestamp": "May/29/2024 08:32"
   },
+  "CF263078993": {
+    "contest_id": 1276,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1276/D.cpp",
+    "platform": "Codeforces",
+    "problem_index": "D",
+    "problem_name": "Tree Elimination",
+    "problem_url": "https://codeforces.com/contest/1276/problem/D",
+    "submission_id": "CF263078993",
+    "submission_url": "https://codeforces.com/contest/1276/submission/263078993",
+    "tags": [
+      "dp",
+      "trees",
+      "*2900"
+    ],
+    "timestamp": "May/29/2024 08:46"
+  },
   "CF263079036": {
     "contest_id": 696,
     "language": "C++20 (GCC 13-64)",
