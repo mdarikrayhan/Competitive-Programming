@@ -27418,6 +27418,24 @@
     ],
     "timestamp": "May/29/2024 07:02"
   },
+  "CF263074464": {
+    "contest_id": 248,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/248/D.cpp",
+    "platform": "Codeforces",
+    "problem_index": "D",
+    "problem_name": "Sweets for Everyone!",
+    "problem_url": "https://codeforces.com/contest/248/problem/D",
+    "submission_id": "CF263074464",
+    "submission_url": "https://codeforces.com/contest/248/submission/263074464",
+    "tags": [
+      "binary search",
+      "greedy",
+      "implementation",
+      "*2300"
+    ],
+    "timestamp": "May/29/2024 07:07"
+  },
   "CF263074470": {
     "contest_id": 1331,
     "language": "C++20 (GCC 13-64)",
