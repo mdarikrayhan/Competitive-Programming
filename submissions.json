@@ -23393,6 +23393,24 @@
     ],
     "timestamp": "May/17/2024 08:26"
   },
+  "CF263118938": {
+    "contest_id": 1930,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1930/G.cpp",
+    "platform": "Codeforces",
+    "problem_index": "G",
+    "problem_name": "Prefix Max Set Counting",
+    "problem_url": "https://codeforces.com/contest/1930/problem/G",
+    "submission_id": "CF263118938",
+    "submission_url": "https://codeforces.com/contest/1930/submission/263118938",
+    "tags": [
+      "data structures",
+      "dp",
+      "trees",
+      "*3100"
+    ],
+    "timestamp": "May/29/2024 15:31"
+  },
   "CF263118969": {
     "contest_id": 390,
     "language": "C++20 (GCC 13-64)",
