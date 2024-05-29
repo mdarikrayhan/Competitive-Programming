@@ -23393,6 +23393,24 @@
     ],
     "timestamp": "May/17/2024 08:26"
   },
+  "CF263136203": {
+    "contest_id": 1131,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1131/E.cpp",
+    "platform": "Codeforces",
+    "problem_index": "E",
+    "problem_name": "String Multiplication",
+    "problem_url": "https://codeforces.com/contest/1131/problem/E",
+    "submission_id": "CF263136203",
+    "submission_url": "https://codeforces.com/contest/1131/submission/263136203",
+    "tags": [
+      "dp",
+      "greedy",
+      "strings",
+      "*2300"
+    ],
+    "timestamp": "May/29/2024 17:54"
+  },
   "CF263136214": {
     "contest_id": 962,
     "language": "C++20 (GCC 13-64)",
