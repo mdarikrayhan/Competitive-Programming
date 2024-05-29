@@ -23393,6 +23393,25 @@
     ],
     "timestamp": "May/17/2024 08:26"
   },
+  "CF263119637": {
+    "contest_id": 117,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/117/E.cpp",
+    "platform": "Codeforces",
+    "problem_index": "E",
+    "problem_name": "Tree or not Tree",
+    "problem_url": "https://codeforces.com/contest/117/problem/E",
+    "submission_id": "CF263119637",
+    "submission_url": "https://codeforces.com/contest/117/submission/263119637",
+    "tags": [
+      "data structures",
+      "divide and conquer",
+      "implementation",
+      "trees",
+      "*2900"
+    ],
+    "timestamp": "May/29/2024 15:36"
+  },
   "CF263130477": {
     "contest_id": 156,
     "language": "C++20 (GCC 13-64)",
