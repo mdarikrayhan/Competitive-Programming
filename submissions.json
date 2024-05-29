@@ -39799,6 +39799,24 @@
     ],
     "timestamp": "May/29/2024 08:20"
   },
+  "CF263077650": {
+    "contest_id": 1034,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1034/D.cpp",
+    "platform": "Codeforces",
+    "problem_index": "D",
+    "problem_name": "Intervals of Intervals",
+    "problem_url": "https://codeforces.com/contest/1034/problem/D",
+    "submission_id": "CF263077650",
+    "submission_url": "https://codeforces.com/contest/1034/submission/263077650",
+    "tags": [
+      "binary search",
+      "data structures",
+      "two pointers",
+      "*3500"
+    ],
+    "timestamp": "May/29/2024 08:20"
+  },
   "CF263077660": {
     "contest_id": 480,
     "language": "C++20 (GCC 13-64)",
