@@ -23497,6 +23497,22 @@
     "tags": [],
     "timestamp": "May/29/2024 18:32"
   },
+  "CF263147881": {
+    "contest_id": 1276,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1276/E.cpp",
+    "platform": "Codeforces",
+    "problem_index": "E",
+    "problem_name": "Four Stones",
+    "problem_url": "https://codeforces.com/contest/1276/problem/E",
+    "submission_id": "CF263147881",
+    "submission_url": "https://codeforces.com/contest/1276/submission/263147881",
+    "tags": [
+      "constructive algorithms",
+      "*3500"
+    ],
+    "timestamp": "May/29/2024 19:26"
+  },
   "CF263147915": {
     "contest_id": 1545,
     "language": "C++20 (GCC 13-64)",
