@@ -27114,6 +27114,24 @@
     ],
     "timestamp": "May/29/2024 06:34"
   },
+  "CF263073756": {
+    "contest_id": 1346,
+    "language": "Kotlin 1.7",
+    "path": "codeforces/1346/C.kt",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Spring Cleaning",
+    "problem_url": "https://codeforces.com/contest/1346/problem/C",
+    "submission_id": "CF263073756",
+    "submission_url": "https://codeforces.com/contest/1346/submission/263073756",
+    "tags": [
+      "*special problem",
+      "greedy",
+      "sortings",
+      "*1600"
+    ],
+    "timestamp": "May/29/2024 06:50"
+  },
   "CF263073764": {
     "contest_id": 1346,
     "language": "Kotlin 1.7",
