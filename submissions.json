@@ -23393,6 +23393,26 @@
     ],
     "timestamp": "May/17/2024 08:26"
   },
+  "CF263072462": {
+    "contest_id": 524,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/524/F.cpp",
+    "platform": "Codeforces",
+    "problem_index": "F",
+    "problem_name": "And Yet Another Bracket Sequence",
+    "problem_url": "https://codeforces.com/contest/524/problem/F",
+    "submission_id": "CF263072462",
+    "submission_url": "https://codeforces.com/contest/524/submission/263072462",
+    "tags": [
+      "data structures",
+      "greedy",
+      "hashing",
+      "string suffix structures",
+      "strings",
+      "*2700"
+    ],
+    "timestamp": "May/29/2024 06:11"
+  },
   "CF263072478": {
     "contest_id": 196,
     "language": "C++20 (GCC 13-64)",
