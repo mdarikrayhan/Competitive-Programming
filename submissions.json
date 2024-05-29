@@ -23393,6 +23393,22 @@
     ],
     "timestamp": "May/17/2024 08:26"
   },
+  "CF263152606": {
+    "contest_id": 1220,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1220/G.cpp",
+    "platform": "Codeforces",
+    "problem_index": "G",
+    "problem_name": "Geolocation",
+    "problem_url": "https://codeforces.com/contest/1220/problem/G",
+    "submission_id": "CF263152606",
+    "submission_url": "https://codeforces.com/contest/1220/submission/263152606",
+    "tags": [
+      "geometry",
+      "*3400"
+    ],
+    "timestamp": "May/29/2024 20:01"
+  },
   "CF263152711": {
     "contest_id": 1940,
     "language": "C++20 (GCC 13-64)",
