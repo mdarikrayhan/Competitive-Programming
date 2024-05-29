@@ -38060,6 +38060,23 @@
     ],
     "timestamp": "May/29/2024 07:10"
   },
+  "CF263074854": {
+    "contest_id": 351,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/351/C.cpp",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Jeff and Brackets",
+    "problem_url": "https://codeforces.com/contest/351/problem/C",
+    "submission_id": "CF263074854",
+    "submission_url": "https://codeforces.com/contest/351/submission/263074854",
+    "tags": [
+      "dp",
+      "matrices",
+      "*2500"
+    ],
+    "timestamp": "May/29/2024 07:16"
+  },
   "CF263074869": {
     "contest_id": 375,
     "language": "C++20 (GCC 13-64)",
