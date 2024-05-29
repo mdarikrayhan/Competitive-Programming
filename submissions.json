@@ -23393,6 +23393,22 @@
     ],
     "timestamp": "May/17/2024 08:26"
   },
+  "CF263135729": {
+    "contest_id": 1267,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1267/H.cpp",
+    "platform": "Codeforces",
+    "problem_index": "H",
+    "problem_name": "Help BerLine",
+    "problem_url": "https://codeforces.com/contest/1267/problem/H",
+    "submission_id": "CF263135729",
+    "submission_url": "https://codeforces.com/contest/1267/submission/263135729",
+    "tags": [
+      "constructive algorithms",
+      "*3200"
+    ],
+    "timestamp": "May/29/2024 17:51"
+  },
   "CF263135732": {
     "contest_id": 1738,
     "language": "C++20 (GCC 13-64)",
