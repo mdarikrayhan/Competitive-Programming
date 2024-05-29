@@ -40438,6 +40438,28 @@
     ],
     "timestamp": "May/29/2024 08:32"
   },
+  "CF263078516": {
+    "contest_id": 1651,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1651/E.cpp",
+    "platform": "Codeforces",
+    "problem_index": "E",
+    "problem_name": "Sum of Matchings",
+    "problem_url": "https://codeforces.com/contest/1651/problem/E",
+    "submission_id": "CF263078516",
+    "submission_url": "https://codeforces.com/contest/1651/submission/263078516",
+    "tags": [
+      "brute force",
+      "combinatorics",
+      "constructive algorithms",
+      "dfs and similar",
+      "graph matchings",
+      "greedy",
+      "math",
+      "*2600"
+    ],
+    "timestamp": "May/29/2024 08:37"
+  },
   "CF263078620": {
     "contest_id": 690,
     "language": "C++20 (GCC 13-64)",
