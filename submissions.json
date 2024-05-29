@@ -23393,6 +23393,19 @@
     ],
     "timestamp": "May/17/2024 08:26"
   },
+  "CF263170825": {
+    "contest_id": 1116,
+    "language": "Q#",
+    "path": "codeforces/1116/C2.qs",
+    "platform": "Codeforces",
+    "problem_index": "C2",
+    "problem_name": "``Is the bit string periodic?'' oracle",
+    "problem_url": "https://codeforces.com/contest/1116/problem/C2",
+    "submission_id": "CF263170825",
+    "submission_url": "https://codeforces.com/contest/1116/submission/263170825",
+    "tags": [],
+    "timestamp": "May/29/2024 23:08"
+  },
   "CF263170843": {
     "contest_id": 1116,
     "language": "Q#",
