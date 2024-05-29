@@ -24815,6 +24815,21 @@
     ],
     "timestamp": "May/29/2024 10:33"
   },
+  "CF263088471": {
+    "contest_id": 1032,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1032/G.cpp",
+    "platform": "Codeforces",
+    "problem_index": "G",
+    "problem_name": "Chattering",
+    "problem_url": "https://codeforces.com/contest/1032/problem/G",
+    "submission_id": "CF263088471",
+    "submission_url": "https://codeforces.com/contest/1032/submission/263088471",
+    "tags": [
+      "*2900"
+    ],
+    "timestamp": "May/29/2024 11:12"
+  },
   "CF263088616": {
     "contest_id": 802,
     "language": "C++17 (GCC 7-32)",
