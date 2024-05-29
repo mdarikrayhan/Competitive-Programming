@@ -23393,6 +23393,24 @@
     ],
     "timestamp": "May/17/2024 08:26"
   },
+  "CF263074190": {
+    "contest_id": 1762,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1762/F.cpp",
+    "platform": "Codeforces",
+    "problem_index": "F",
+    "problem_name": "Good Pairs ",
+    "problem_url": "https://codeforces.com/contest/1762/problem/F",
+    "submission_id": "CF263074190",
+    "submission_url": "https://codeforces.com/contest/1762/submission/263074190",
+    "tags": [
+      "binary search",
+      "data structures",
+      "dp",
+      "*2600"
+    ],
+    "timestamp": "May/29/2024 07:01"
+  },
   "CF263074191": {
     "contest_id": 873,
     "language": "C++20 (GCC 13-64)",
