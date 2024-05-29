@@ -24815,6 +24815,23 @@
     ],
     "timestamp": "May/29/2024 10:33"
   },
+  "CF263094731": {
+    "contest_id": 1918,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1918/G.cpp",
+    "platform": "Codeforces",
+    "problem_index": "G",
+    "problem_name": "Permutation of Given",
+    "problem_url": "https://codeforces.com/contest/1918/problem/G",
+    "submission_id": "CF263094731",
+    "submission_url": "https://codeforces.com/contest/1918/submission/263094731",
+    "tags": [
+      "constructive algorithms",
+      "math",
+      "*2700"
+    ],
+    "timestamp": "May/29/2024 12:21"
+  },
   "CF263095208": {
     "contest_id": 601,
     "language": "C++20 (GCC 13-64)",
