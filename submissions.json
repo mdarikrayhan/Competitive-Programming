@@ -40438,6 +40438,25 @@
     ],
     "timestamp": "May/29/2024 08:32"
   },
+  "CF263078267": {
+    "contest_id": 1916,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1916/F.cpp",
+    "platform": "Codeforces",
+    "problem_index": "F",
+    "problem_name": "Group Division",
+    "problem_url": "https://codeforces.com/contest/1916/problem/F",
+    "submission_id": "CF263078267",
+    "submission_url": "https://codeforces.com/contest/1916/submission/263078267",
+    "tags": [
+      "constructive algorithms",
+      "dfs and similar",
+      "graphs",
+      "greedy",
+      "*2900"
+    ],
+    "timestamp": "May/29/2024 08:33"
+  },
   "CF263078290": {
     "contest_id": 1808,
     "language": "C++20 (GCC 13-64)",
