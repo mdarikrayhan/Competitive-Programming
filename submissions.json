@@ -38716,6 +38716,23 @@
     ],
     "timestamp": "May/29/2024 14:00"
   },
+  "CF263109239": {
+    "contest_id": 1218,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1218/E.cpp",
+    "platform": "Codeforces",
+    "problem_index": "E",
+    "problem_name": "Product Tuples",
+    "problem_url": "https://codeforces.com/contest/1218/problem/E",
+    "submission_id": "CF263109239",
+    "submission_url": "https://codeforces.com/contest/1218/submission/263109239",
+    "tags": [
+      "divide and conquer",
+      "fft",
+      "*2500"
+    ],
+    "timestamp": "May/29/2024 14:12"
+  },
   "CF263109261": {
     "contest_id": 793,
     "language": "C++20 (GCC 13-64)",
