@@ -37260,6 +37260,26 @@
     ],
     "timestamp": "May/29/2024 09:03"
   },
+  "CF263080217": {
+    "contest_id": 754,
+    "language": "C++17 (GCC 7-32)",
+    "path": "codeforces/754/E.cpp",
+    "platform": "Codeforces",
+    "problem_index": "E",
+    "problem_name": "Dasha and cyclic table",
+    "problem_url": "https://codeforces.com/contest/754/problem/E",
+    "submission_id": "CF263080217",
+    "submission_url": "https://codeforces.com/contest/754/submission/263080217",
+    "tags": [
+      "bitmasks",
+      "brute force",
+      "fft",
+      "strings",
+      "trees",
+      "*2600"
+    ],
+    "timestamp": "May/29/2024 09:06"
+  },
   "CF263080250": {
     "contest_id": 1054,
     "language": "C++17 (GCC 7-32)",
