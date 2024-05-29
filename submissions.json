@@ -24815,6 +24815,27 @@
     ],
     "timestamp": "May/29/2024 10:33"
   },
+  "CF263095926": {
+    "contest_id": 1763,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1763/F.cpp",
+    "platform": "Codeforces",
+    "problem_index": "F",
+    "problem_name": "Edge Queries",
+    "problem_url": "https://codeforces.com/contest/1763/problem/F",
+    "submission_id": "CF263095926",
+    "submission_url": "https://codeforces.com/contest/1763/submission/263095926",
+    "tags": [
+      "data structures",
+      "dfs and similar",
+      "dp",
+      "dsu",
+      "graphs",
+      "trees",
+      "*3000"
+    ],
+    "timestamp": "May/29/2024 12:30"
+  },
   "CF263095944": {
     "contest_id": 1656,
     "language": "C++20 (GCC 13-64)",
