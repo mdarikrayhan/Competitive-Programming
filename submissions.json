@@ -27654,6 +27654,26 @@
     ],
     "timestamp": "May/29/2024 15:36"
   },
+  "CF263125689": {
+    "contest_id": 1842,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1842/F.cpp",
+    "platform": "Codeforces",
+    "problem_index": "F",
+    "problem_name": "Tenzing and Tree",
+    "problem_url": "https://codeforces.com/contest/1842/problem/F",
+    "submission_id": "CF263125689",
+    "submission_url": "https://codeforces.com/contest/1842/submission/263125689",
+    "tags": [
+      "dfs and similar",
+      "greedy",
+      "shortest paths",
+      "sortings",
+      "trees",
+      "*2500"
+    ],
+    "timestamp": "May/29/2024 16:26"
+  },
   "CF263125701": {
     "contest_id": 1392,
     "language": "C++20 (GCC 13-64)",
