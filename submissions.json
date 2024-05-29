@@ -23393,6 +23393,21 @@
     ],
     "timestamp": "May/17/2024 08:26"
   },
+  "CF263171602": {
+    "contest_id": 1002,
+    "language": "Q#",
+    "path": "codeforces/1002/D3.qs",
+    "platform": "Codeforces",
+    "problem_index": "D3",
+    "problem_name": "Oracle for majority function",
+    "problem_url": "https://codeforces.com/contest/1002/problem/D3",
+    "submission_id": "CF263171602",
+    "submission_url": "https://codeforces.com/contest/1002/submission/263171602",
+    "tags": [
+      "*1600"
+    ],
+    "timestamp": "May/29/2024 23:20"
+  },
   "CF263171623": {
     "contest_id": 1002,
     "language": "Q#",
