@@ -40438,6 +40438,23 @@
     ],
     "timestamp": "May/29/2024 08:32"
   },
+  "CF263078296": {
+    "contest_id": 76,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/76/B.cpp",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Mice",
+    "problem_url": "https://codeforces.com/contest/76/problem/B",
+    "submission_id": "CF263078296",
+    "submission_url": "https://codeforces.com/contest/76/submission/263078296",
+    "tags": [
+      "greedy",
+      "two pointers",
+      "*2100"
+    ],
+    "timestamp": "May/29/2024 08:33"
+  },
   "CF263078379": {
     "contest_id": 93,
     "language": "C++20 (GCC 13-64)",
