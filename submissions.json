@@ -24815,6 +24815,22 @@
     ],
     "timestamp": "May/29/2024 10:33"
   },
+  "CF263098418": {
+    "contest_id": 804,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/804/E.cpp",
+    "platform": "Codeforces",
+    "problem_index": "E",
+    "problem_name": "The same permutation ",
+    "problem_url": "https://codeforces.com/contest/804/problem/E",
+    "submission_id": "CF263098418",
+    "submission_url": "https://codeforces.com/contest/804/submission/263098418",
+    "tags": [
+      "constructive algorithms",
+      "*3100"
+    ],
+    "timestamp": "May/29/2024 12:51"
+  },
   "CF263098620": {
     "contest_id": 475,
     "language": "C++20 (GCC 13-64)",
