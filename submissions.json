@@ -24814,6 +24814,23 @@
     ],
     "timestamp": "May/29/2024 15:36"
   },
+  "CF263128999": {
+    "contest_id": 1464,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1464/F.cpp",
+    "platform": "Codeforces",
+    "problem_index": "F",
+    "problem_name": "My Beautiful Madness",
+    "problem_url": "https://codeforces.com/contest/1464/problem/F",
+    "submission_id": "CF263128999",
+    "submission_url": "https://codeforces.com/contest/1464/submission/263128999",
+    "tags": [
+      "data structures",
+      "trees",
+      "*3500"
+    ],
+    "timestamp": "May/29/2024 16:55"
+  },
   "CF263129036": {
     "contest_id": 1919,
     "language": "C++20 (GCC 13-64)",
