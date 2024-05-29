@@ -23393,6 +23393,23 @@
     ],
     "timestamp": "May/17/2024 08:26"
   },
+  "CF263119332": {
+    "contest_id": 1832,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1832/F.cpp",
+    "platform": "Codeforces",
+    "problem_index": "F",
+    "problem_name": "Zombies",
+    "problem_url": "https://codeforces.com/contest/1832/problem/F",
+    "submission_id": "CF263119332",
+    "submission_url": "https://codeforces.com/contest/1832/submission/263119332",
+    "tags": [
+      "binary search",
+      "dp",
+      "*3200"
+    ],
+    "timestamp": "May/29/2024 15:34"
+  },
   "CF263119370": {
     "contest_id": 325,
     "language": "C++20 (GCC 13-64)",
