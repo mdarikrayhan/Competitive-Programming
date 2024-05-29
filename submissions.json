@@ -23393,6 +23393,24 @@
     ],
     "timestamp": "May/17/2024 08:26"
   },
+  "CF263118319": {
+    "contest_id": 1900,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1900/F.cpp",
+    "platform": "Codeforces",
+    "problem_index": "F",
+    "problem_name": "Local Deletions",
+    "problem_url": "https://codeforces.com/contest/1900/problem/F",
+    "submission_id": "CF263118319",
+    "submission_url": "https://codeforces.com/contest/1900/submission/263118319",
+    "tags": [
+      "binary search",
+      "data structures",
+      "implementation",
+      "*2800"
+    ],
+    "timestamp": "May/29/2024 15:26"
+  },
   "CF263118374": {
     "contest_id": 776,
     "language": "C++20 (GCC 13-64)",
