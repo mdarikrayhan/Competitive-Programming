@@ -27114,6 +27114,19 @@
     ],
     "timestamp": "May/29/2024 06:34"
   },
+  "CF263073625": {
+    "contest_id": 1145,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1145/F.cpp",
+    "platform": "Codeforces",
+    "problem_index": "F",
+    "problem_name": "Neat Words",
+    "problem_url": "https://codeforces.com/contest/1145/problem/F",
+    "submission_id": "CF263073625",
+    "submission_url": "https://codeforces.com/contest/1145/submission/263073625",
+    "tags": [],
+    "timestamp": "May/29/2024 06:46"
+  },
   "CF263073637": {
     "contest_id": 883,
     "language": "C++20 (GCC 13-64)",
