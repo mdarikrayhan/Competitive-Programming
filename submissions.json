@@ -23393,6 +23393,25 @@
     ],
     "timestamp": "May/17/2024 08:26"
   },
+  "CF263135629": {
+    "contest_id": 1930,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1930/H.cpp",
+    "platform": "Codeforces",
+    "problem_index": "H",
+    "problem_name": "Interactive Mex Tree",
+    "problem_url": "https://codeforces.com/contest/1930/problem/H",
+    "submission_id": "CF263135629",
+    "submission_url": "https://codeforces.com/contest/1930/submission/263135629",
+    "tags": [
+      "constructive algorithms",
+      "dfs and similar",
+      "interactive",
+      "trees",
+      "*3300"
+    ],
+    "timestamp": "May/29/2024 17:50"
+  },
   "CF263135656": {
     "contest_id": 293,
     "language": "C++20 (GCC 13-64)",
