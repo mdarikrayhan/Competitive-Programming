@@ -23393,6 +23393,23 @@
     ],
     "timestamp": "May/17/2024 08:26"
   },
+  "CF263156391": {
+    "contest_id": 267,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/267/C.cpp",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Berland Traffic",
+    "problem_url": "https://codeforces.com/contest/267/problem/C",
+    "submission_id": "CF263156391",
+    "submission_url": "https://codeforces.com/contest/267/submission/263156391",
+    "tags": [
+      "math",
+      "matrices",
+      "*2700"
+    ],
+    "timestamp": "May/29/2024 20:32"
+  },
   "CF263156453": {
     "contest_id": 1819,
     "language": "C++20 (GCC 13-64)",
