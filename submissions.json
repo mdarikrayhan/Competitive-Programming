@@ -23393,6 +23393,21 @@
     ],
     "timestamp": "May/17/2024 08:26"
   },
+  "CF263170540": {
+    "contest_id": 1356,
+    "language": "Q#",
+    "path": "codeforces/1356/A4.qs",
+    "platform": "Codeforces",
+    "problem_index": "A4",
+    "problem_name": "Distinguish I \u2297 X from CNOT",
+    "problem_url": "https://codeforces.com/contest/1356/problem/A4",
+    "submission_id": "CF263170540",
+    "submission_url": "https://codeforces.com/contest/1356/submission/263170540",
+    "tags": [
+      "*special problem"
+    ],
+    "timestamp": "May/29/2024 23:04"
+  },
   "CF263170556": {
     "contest_id": 1356,
     "language": "Q#",
