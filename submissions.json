@@ -27654,6 +27654,22 @@
     ],
     "timestamp": "May/29/2024 15:36"
   },
+  "CF263127263": {
+    "contest_id": 1046,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1046/I.cpp",
+    "platform": "Codeforces",
+    "problem_index": "I",
+    "problem_name": "Say Hello",
+    "problem_url": "https://codeforces.com/contest/1046/problem/I",
+    "submission_id": "CF263127263",
+    "submission_url": "https://codeforces.com/contest/1046/submission/263127263",
+    "tags": [
+      "geometry",
+      "*2300"
+    ],
+    "timestamp": "May/29/2024 16:40"
+  },
   "CF263127288": {
     "contest_id": 1965,
     "language": "C++20 (GCC 13-64)",
