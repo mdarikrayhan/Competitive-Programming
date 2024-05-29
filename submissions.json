@@ -39208,6 +39208,23 @@
     ],
     "timestamp": "May/29/2024 10:33"
   },
+  "CF263085711": {
+    "contest_id": 1297,
+    "language": "Kotlin 1.9",
+    "path": "codeforces/1297/B.kt",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Cartoons",
+    "problem_url": "https://codeforces.com/contest/1297/problem/B",
+    "submission_id": "CF263085711",
+    "submission_url": "https://codeforces.com/contest/1297/submission/263085711",
+    "tags": [
+      "*special problem",
+      "implementation",
+      "sortings"
+    ],
+    "timestamp": "May/29/2024 10:34"
+  },
   "CF263085778": {
     "contest_id": 1297,
     "language": "Kotlin 1.7",
