@@ -24298,6 +24298,26 @@
     ],
     "timestamp": "May/29/2024 08:12"
   },
+  "CF263077725": {
+    "contest_id": 1717,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1717/F.cpp",
+    "platform": "Codeforces",
+    "problem_index": "F",
+    "problem_name": "Madoka and The First Session",
+    "problem_url": "https://codeforces.com/contest/1717/problem/F",
+    "submission_id": "CF263077725",
+    "submission_url": "https://codeforces.com/contest/1717/submission/263077725",
+    "tags": [
+      "constructive algorithms",
+      "flows",
+      "graph matchings",
+      "graphs",
+      "implementation",
+      "*2500"
+    ],
+    "timestamp": "May/29/2024 08:22"
+  },
   "CF263077739": {
     "contest_id": 477,
     "language": "C++20 (GCC 13-64)",
