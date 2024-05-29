@@ -24298,6 +24298,24 @@
     ],
     "timestamp": "May/29/2024 08:12"
   },
+  "CF263081640": {
+    "contest_id": 212,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/212/C.cpp",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Cowboys",
+    "problem_url": "https://codeforces.com/contest/212/problem/C",
+    "submission_id": "CF263081640",
+    "submission_url": "https://codeforces.com/contest/212/submission/263081640",
+    "tags": [
+      "combinatorics",
+      "dp",
+      "math",
+      "*2100"
+    ],
+    "timestamp": "May/29/2024 09:27"
+  },
   "CF263081742": {
     "contest_id": 209,
     "language": "C++20 (GCC 13-64)",
