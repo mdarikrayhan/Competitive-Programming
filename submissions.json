@@ -33073,6 +33073,24 @@
     ],
     "timestamp": "May/29/2024 14:00"
   },
+  "CF263110630": {
+    "contest_id": 1970,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1970/A2.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A2",
+    "problem_name": "Balanced Unshuffle (Medium)",
+    "problem_url": "https://codeforces.com/contest/1970/problem/A2",
+    "submission_id": "CF263110630",
+    "submission_url": "https://codeforces.com/contest/1970/submission/263110630",
+    "tags": [
+      "brute force",
+      "constructive algorithms",
+      "trees",
+      "*2400"
+    ],
+    "timestamp": "May/29/2024 14:23"
+  },
   "CF263110642": {
     "contest_id": 1583,
     "language": "C++20 (GCC 13-64)",
