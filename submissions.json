@@ -23497,6 +23497,25 @@
     "tags": [],
     "timestamp": "May/29/2024 18:32"
   },
+  "CF263143557": {
+    "contest_id": 1718,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1718/E.cpp",
+    "platform": "Codeforces",
+    "problem_index": "E",
+    "problem_name": "Impressionism",
+    "problem_url": "https://codeforces.com/contest/1718/problem/E",
+    "submission_id": "CF263143557",
+    "submission_url": "https://codeforces.com/contest/1718/submission/263143557",
+    "tags": [
+      "constructive algorithms",
+      "graphs",
+      "implementation",
+      "math",
+      "*3500"
+    ],
+    "timestamp": "May/29/2024 18:53"
+  },
   "CF263143616": {
     "contest_id": 1656,
     "language": "C++20 (GCC 13-64)",
