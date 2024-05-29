@@ -23393,6 +23393,21 @@
     ],
     "timestamp": "May/17/2024 08:26"
   },
+  "CF263171480": {
+    "contest_id": 1002,
+    "language": "Q#",
+    "path": "codeforces/1002/B1.qs",
+    "platform": "Codeforces",
+    "problem_index": "B1",
+    "problem_name": "Distinguish zero state and W state",
+    "problem_url": "https://codeforces.com/contest/1002/problem/B1",
+    "submission_id": "CF263171480",
+    "submission_url": "https://codeforces.com/contest/1002/submission/263171480",
+    "tags": [
+      "*1300"
+    ],
+    "timestamp": "May/29/2024 23:18"
+  },
   "CF263171490": {
     "contest_id": 1002,
     "language": "Q#",
