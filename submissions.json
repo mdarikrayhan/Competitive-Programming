@@ -33073,6 +33073,25 @@
     ],
     "timestamp": "May/29/2024 14:00"
   },
+  "CF263110642": {
+    "contest_id": 1583,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1583/H.cpp",
+    "platform": "Codeforces",
+    "problem_index": "H",
+    "problem_name": "Omkar and Tours",
+    "problem_url": "https://codeforces.com/contest/1583/problem/H",
+    "submission_id": "CF263110642",
+    "submission_url": "https://codeforces.com/contest/1583/submission/263110642",
+    "tags": [
+      "data structures",
+      "divide and conquer",
+      "sortings",
+      "trees",
+      "*3300"
+    ],
+    "timestamp": "May/29/2024 14:23"
+  },
   "CF263110744": {
     "contest_id": 773,
     "language": "C++20 (GCC 13-64)",
