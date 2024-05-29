@@ -23392,5 +23392,18 @@
       "*1100"
     ],
     "timestamp": "May/17/2024 08:26"
+  },
+  "CF263188505": {
+    "contest_id": 1357,
+    "language": "Q#",
+    "path": "codeforces/1357/E2.qs",
+    "platform": "Codeforces",
+    "problem_index": "E2",
+    "problem_name": "Root of quantum Fourier transform",
+    "problem_url": "https://codeforces.com/contest/1357/problem/E2",
+    "submission_id": "CF263188505",
+    "submission_url": "https://codeforces.com/contest/1357/submission/263188505",
+    "tags": [],
+    "timestamp": "May/30/2024 04:15"
   }
 }
