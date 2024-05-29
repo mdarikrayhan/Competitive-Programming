@@ -23393,6 +23393,22 @@
     ],
     "timestamp": "May/17/2024 08:26"
   },
+  "CF263171771": {
+    "contest_id": 1001,
+    "language": "Q#",
+    "path": "codeforces/1001/C.qs",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Generate GHZ state",
+    "problem_url": "https://codeforces.com/contest/1001/problem/C",
+    "submission_id": "CF263171771",
+    "submission_url": "https://codeforces.com/contest/1001/submission/263171771",
+    "tags": [
+      "*special problem",
+      "*1400"
+    ],
+    "timestamp": "May/29/2024 23:23"
+  },
   "CF263171793": {
     "contest_id": 1001,
     "language": "Q#",
