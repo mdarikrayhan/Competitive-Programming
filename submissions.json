@@ -23393,6 +23393,23 @@
     ],
     "timestamp": "May/17/2024 08:26"
   },
+  "CF263072265": {
+    "contest_id": 267,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/267/B.cpp",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Dominoes",
+    "problem_url": "https://codeforces.com/contest/267/problem/B",
+    "submission_id": "CF263072265",
+    "submission_url": "https://codeforces.com/contest/267/submission/263072265",
+    "tags": [
+      "dfs and similar",
+      "graphs",
+      "*2000"
+    ],
+    "timestamp": "May/29/2024 06:06"
+  },
   "CF263072302": {
     "contest_id": 1117,
     "language": "C++20 (GCC 13-64)",
