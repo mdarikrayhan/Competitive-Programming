@@ -27654,6 +27654,23 @@
     ],
     "timestamp": "May/29/2024 15:36"
   },
+  "CF263124896": {
+    "contest_id": 77,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/77/D.cpp",
+    "platform": "Codeforces",
+    "problem_index": "D",
+    "problem_name": "Domino Carpet",
+    "problem_url": "https://codeforces.com/contest/77/problem/D",
+    "submission_id": "CF263124896",
+    "submission_url": "https://codeforces.com/contest/77/submission/263124896",
+    "tags": [
+      "dp",
+      "implementation",
+      "*2300"
+    ],
+    "timestamp": "May/29/2024 16:20"
+  },
   "CF263124955": {
     "contest_id": 1010,
     "language": "C++20 (GCC 13-64)",
