@@ -23393,6 +23393,24 @@
     ],
     "timestamp": "May/17/2024 08:26"
   },
+  "CF263118718": {
+    "contest_id": 1016,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1016/G.cpp",
+    "platform": "Codeforces",
+    "problem_index": "G",
+    "problem_name": "Appropriate Team",
+    "problem_url": "https://codeforces.com/contest/1016/problem/G",
+    "submission_id": "CF263118718",
+    "submission_url": "https://codeforces.com/contest/1016/submission/263118718",
+    "tags": [
+      "bitmasks",
+      "math",
+      "number theory",
+      "*2700"
+    ],
+    "timestamp": "May/29/2024 15:29"
+  },
   "CF263118764": {
     "contest_id": 1500,
     "language": "C++20 (GCC 13-64)",
