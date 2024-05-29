@@ -24815,6 +24815,24 @@
     ],
     "timestamp": "May/29/2024 10:33"
   },
+  "CF263097917": {
+    "contest_id": 1728,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1728/F.cpp",
+    "platform": "Codeforces",
+    "problem_index": "F",
+    "problem_name": "Fishermen",
+    "problem_url": "https://codeforces.com/contest/1728/problem/F",
+    "submission_id": "CF263097917",
+    "submission_url": "https://codeforces.com/contest/1728/submission/263097917",
+    "tags": [
+      "flows",
+      "graph matchings",
+      "greedy",
+      "*3100"
+    ],
+    "timestamp": "May/29/2024 12:47"
+  },
   "CF263097962": {
     "contest_id": 1082,
     "language": "C++20 (GCC 13-64)",
