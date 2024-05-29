@@ -23393,6 +23393,24 @@
     ],
     "timestamp": "May/17/2024 08:26"
   },
+  "CF263159146": {
+    "contest_id": 1761,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1761/G.cpp",
+    "platform": "Codeforces",
+    "problem_index": "G",
+    "problem_name": "Centroid Guess",
+    "problem_url": "https://codeforces.com/contest/1761/problem/G",
+    "submission_id": "CF263159146",
+    "submission_url": "https://codeforces.com/contest/1761/submission/263159146",
+    "tags": [
+      "interactive",
+      "probabilities",
+      "trees",
+      "*3500"
+    ],
+    "timestamp": "May/29/2024 20:56"
+  },
   "CF263159160": {
     "contest_id": 1666,
     "language": "C++20 (GCC 13-64)",
