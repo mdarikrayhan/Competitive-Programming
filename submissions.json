@@ -23393,6 +23393,23 @@
     ],
     "timestamp": "May/17/2024 08:26"
   },
+  "CF263161226": {
+    "contest_id": 1687,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1687/F.cpp",
+    "platform": "Codeforces",
+    "problem_index": "F",
+    "problem_name": "Koishi's Unconscious Permutation",
+    "problem_url": "https://codeforces.com/contest/1687/problem/F",
+    "submission_id": "CF263161226",
+    "submission_url": "https://codeforces.com/contest/1687/submission/263161226",
+    "tags": [
+      "fft",
+      "math",
+      "*3500"
+    ],
+    "timestamp": "May/29/2024 21:16"
+  },
   "CF263161272": {
     "contest_id": 1704,
     "language": "C++20 (GCC 13-64)",
