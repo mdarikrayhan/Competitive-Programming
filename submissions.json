@@ -27654,6 +27654,24 @@
     ],
     "timestamp": "May/29/2024 15:36"
   },
+  "CF263127211": {
+    "contest_id": 42,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/42/E.cpp",
+    "platform": "Codeforces",
+    "problem_index": "E",
+    "problem_name": "Baldman and the military",
+    "problem_url": "https://codeforces.com/contest/42/problem/E",
+    "submission_id": "CF263127211",
+    "submission_url": "https://codeforces.com/contest/42/submission/263127211",
+    "tags": [
+      "dfs and similar",
+      "graphs",
+      "trees",
+      "*2700"
+    ],
+    "timestamp": "May/29/2024 16:40"
+  },
   "CF263127263": {
     "contest_id": 1046,
     "language": "C++20 (GCC 13-64)",
