@@ -23393,6 +23393,23 @@
     ],
     "timestamp": "May/17/2024 08:26"
   },
+  "CF263076376": {
+    "contest_id": 623,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/623/C.cpp",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Electric Charges",
+    "problem_url": "https://codeforces.com/contest/623/problem/C",
+    "submission_id": "CF263076376",
+    "submission_url": "https://codeforces.com/contest/623/submission/263076376",
+    "tags": [
+      "binary search",
+      "dp",
+      "*2900"
+    ],
+    "timestamp": "May/29/2024 07:53"
+  },
   "CF263076384": {
     "contest_id": 1663,
     "language": "Text",
