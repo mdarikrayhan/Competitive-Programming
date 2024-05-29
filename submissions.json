@@ -23393,6 +23393,23 @@
     ],
     "timestamp": "May/17/2024 08:26"
   },
+  "CF263137263": {
+    "contest_id": 1508,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1508/F.cpp",
+    "platform": "Codeforces",
+    "problem_index": "F",
+    "problem_name": "Optimal Encoding",
+    "problem_url": "https://codeforces.com/contest/1508/problem/F",
+    "submission_id": "CF263137263",
+    "submission_url": "https://codeforces.com/contest/1508/submission/263137263",
+    "tags": [
+      "brute force",
+      "data structures",
+      "*3500"
+    ],
+    "timestamp": "May/29/2024 18:03"
+  },
   "CF263137300": {
     "contest_id": 446,
     "language": "C++20 (GCC 13-64)",
