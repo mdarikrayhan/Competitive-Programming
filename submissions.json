@@ -24815,6 +24815,19 @@
     ],
     "timestamp": "May/29/2024 10:33"
   },
+  "CF263104477": {
+    "contest_id": 1938,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1938/I.cpp",
+    "platform": "Codeforces",
+    "problem_index": "I",
+    "problem_name": "Symmetric Boundary",
+    "problem_url": "https://codeforces.com/contest/1938/problem/I",
+    "submission_id": "CF263104477",
+    "submission_url": "https://codeforces.com/contest/1938/submission/263104477",
+    "tags": [],
+    "timestamp": "May/29/2024 13:35"
+  },
   "CF263104600": {
     "contest_id": 1938,
     "language": "C++20 (GCC 13-64)",
