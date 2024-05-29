@@ -23393,6 +23393,22 @@
     ],
     "timestamp": "May/17/2024 08:26"
   },
+  "CF263157093": {
+    "contest_id": 1470,
+    "language": "C++17 (GCC 7-32)",
+    "path": "codeforces/1470/F.cpp",
+    "platform": "Codeforces",
+    "problem_index": "F",
+    "problem_name": "Strange Covering",
+    "problem_url": "https://codeforces.com/contest/1470/problem/F",
+    "submission_id": "CF263157093",
+    "submission_url": "https://codeforces.com/contest/1470/submission/263157093",
+    "tags": [
+      "divide and conquer",
+      "*3500"
+    ],
+    "timestamp": "May/29/2024 20:38"
+  },
   "CF263157133": {
     "contest_id": 1876,
     "language": "C++17 (GCC 7-32)",
