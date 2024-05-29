@@ -23393,6 +23393,25 @@
     ],
     "timestamp": "May/17/2024 08:26"
   },
+  "CF263114288": {
+    "contest_id": 991,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/991/F.cpp",
+    "platform": "Codeforces",
+    "problem_index": "F",
+    "problem_name": "Concise and clear",
+    "problem_url": "https://codeforces.com/contest/991/problem/F",
+    "submission_id": "CF263114288",
+    "submission_url": "https://codeforces.com/contest/991/submission/263114288",
+    "tags": [
+      "brute force",
+      "greedy",
+      "implementation",
+      "math",
+      "*2700"
+    ],
+    "timestamp": "May/29/2024 14:53"
+  },
   "CF263114297": {
     "contest_id": 843,
     "language": "C++20 (GCC 13-64)",
