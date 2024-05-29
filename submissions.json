@@ -23393,6 +23393,23 @@
     ],
     "timestamp": "May/17/2024 08:26"
   },
+  "CF263072412": {
+    "contest_id": 542,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/542/A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Place Your Ad Here",
+    "problem_url": "https://codeforces.com/contest/542/problem/A",
+    "submission_id": "CF263072412",
+    "submission_url": "https://codeforces.com/contest/542/submission/263072412",
+    "tags": [
+      "data structures",
+      "sortings",
+      "*2400"
+    ],
+    "timestamp": "May/29/2024 06:10"
+  },
   "CF263072418": {
     "contest_id": 45,
     "language": "C++20 (GCC 13-64)",
