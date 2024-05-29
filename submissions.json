@@ -37626,6 +37626,23 @@
     ],
     "timestamp": "May/29/2024 09:35"
   },
+  "CF263082244": {
+    "contest_id": 1523,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1523/F.cpp",
+    "platform": "Codeforces",
+    "problem_index": "F",
+    "problem_name": "Favorite Game",
+    "problem_url": "https://codeforces.com/contest/1523/problem/F",
+    "submission_id": "CF263082244",
+    "submission_url": "https://codeforces.com/contest/1523/submission/263082244",
+    "tags": [
+      "bitmasks",
+      "dp",
+      "*3300"
+    ],
+    "timestamp": "May/29/2024 09:37"
+  },
   "CF263082353": {
     "contest_id": 1155,
     "language": "C++20 (GCC 13-64)",
