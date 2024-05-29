@@ -23393,6 +23393,21 @@
     ],
     "timestamp": "May/17/2024 08:26"
   },
+  "CF263156361": {
+    "contest_id": 1599,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1599/B.cpp",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Restaurant Game",
+    "problem_url": "https://codeforces.com/contest/1599/problem/B",
+    "submission_id": "CF263156361",
+    "submission_url": "https://codeforces.com/contest/1599/submission/263156361",
+    "tags": [
+      "*3100"
+    ],
+    "timestamp": "May/29/2024 20:31"
+  },
   "CF263156391": {
     "contest_id": 267,
     "language": "C++20 (GCC 13-64)",
