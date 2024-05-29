@@ -27114,6 +27114,23 @@
     ],
     "timestamp": "May/29/2024 06:34"
   },
+  "CF263073644": {
+    "contest_id": 819,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/819/E.cpp",
+    "platform": "Codeforces",
+    "problem_index": "E",
+    "problem_name": "Mister B and Flight to the Moon",
+    "problem_url": "https://codeforces.com/contest/819/problem/E",
+    "submission_id": "CF263073644",
+    "submission_url": "https://codeforces.com/contest/819/submission/263073644",
+    "tags": [
+      "constructive algorithms",
+      "graphs",
+      "*2800"
+    ],
+    "timestamp": "May/29/2024 06:46"
+  },
   "CF263073652": {
     "contest_id": 1436,
     "language": "C++20 (GCC 13-64)",
