@@ -30034,6 +30034,25 @@
     ],
     "timestamp": "May/29/2024 15:36"
   },
+  "CF263121494": {
+    "contest_id": 1548,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1548/D2.cpp",
+    "platform": "Codeforces",
+    "problem_index": "D2",
+    "problem_name": "Gregor and the Odd Cows (Hard)",
+    "problem_url": "https://codeforces.com/contest/1548/problem/D2",
+    "submission_id": "CF263121494",
+    "submission_url": "https://codeforces.com/contest/1548/submission/263121494",
+    "tags": [
+      "brute force",
+      "geometry",
+      "math",
+      "number theory",
+      "*3300"
+    ],
+    "timestamp": "May/29/2024 15:51"
+  },
   "CF263121670": {
     "contest_id": 152,
     "language": "C++20 (GCC 13-64)",
