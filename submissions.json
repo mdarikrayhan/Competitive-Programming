@@ -24815,6 +24815,24 @@
     ],
     "timestamp": "May/29/2024 10:33"
   },
+  "CF263097233": {
+    "contest_id": 1129,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1129/E.cpp",
+    "platform": "Codeforces",
+    "problem_index": "E",
+    "problem_name": "Legendary Tree",
+    "problem_url": "https://codeforces.com/contest/1129/problem/E",
+    "submission_id": "CF263097233",
+    "submission_url": "https://codeforces.com/contest/1129/submission/263097233",
+    "tags": [
+      "binary search",
+      "interactive",
+      "trees",
+      "*3100"
+    ],
+    "timestamp": "May/29/2024 12:42"
+  },
   "CF263097347": {
     "contest_id": 1783,
     "language": "C++20 (GCC 13-64)",
