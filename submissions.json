@@ -23393,6 +23393,25 @@
     ],
     "timestamp": "May/17/2024 08:26"
   },
+  "CF263153300": {
+    "contest_id": 1236,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1236/F.cpp",
+    "platform": "Codeforces",
+    "problem_index": "F",
+    "problem_name": "Alice and the Cactus",
+    "problem_url": "https://codeforces.com/contest/1236/problem/F",
+    "submission_id": "CF263153300",
+    "submission_url": "https://codeforces.com/contest/1236/submission/263153300",
+    "tags": [
+      "dfs and similar",
+      "graphs",
+      "math",
+      "probabilities",
+      "*3000"
+    ],
+    "timestamp": "May/29/2024 20:07"
+  },
   "CF263153320": {
     "contest_id": 1193,
     "language": "C++20 (GCC 13-64)",
