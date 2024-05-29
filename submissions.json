@@ -27195,6 +27195,23 @@
     "tags": [],
     "timestamp": "May/29/2024 13:37"
   },
+  "CF263107039": {
+    "contest_id": 107,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/107/C.cpp",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Arrangement",
+    "problem_url": "https://codeforces.com/contest/107/problem/C",
+    "submission_id": "CF263107039",
+    "submission_url": "https://codeforces.com/contest/107/submission/263107039",
+    "tags": [
+      "bitmasks",
+      "dp",
+      "*2400"
+    ],
+    "timestamp": "May/29/2024 13:55"
+  },
   "CF263107196": {
     "contest_id": 1957,
     "language": "C++20 (GCC 13-64)",
