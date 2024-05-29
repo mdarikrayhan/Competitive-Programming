@@ -23393,6 +23393,21 @@
     ],
     "timestamp": "May/17/2024 08:26"
   },
+  "CF263153932": {
+    "contest_id": 1599,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1599/D.cpp",
+    "platform": "Codeforces",
+    "problem_index": "D",
+    "problem_name": "Bubble Popping",
+    "problem_url": "https://codeforces.com/contest/1599/problem/D",
+    "submission_id": "CF263153932",
+    "submission_url": "https://codeforces.com/contest/1599/submission/263153932",
+    "tags": [
+      "*3200"
+    ],
+    "timestamp": "May/29/2024 20:12"
+  },
   "CF263154105": {
     "contest_id": 329,
     "language": "C++20 (GCC 13-64)",
