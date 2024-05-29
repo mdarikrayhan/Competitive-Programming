@@ -23393,6 +23393,23 @@
     ],
     "timestamp": "May/17/2024 08:26"
   },
+  "CF263153279": {
+    "contest_id": 1329,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1329/E.cpp",
+    "platform": "Codeforces",
+    "problem_index": "E",
+    "problem_name": "Dreamoon Loves AA",
+    "problem_url": "https://codeforces.com/contest/1329/problem/E",
+    "submission_id": "CF263153279",
+    "submission_url": "https://codeforces.com/contest/1329/submission/263153279",
+    "tags": [
+      "binary search",
+      "greedy",
+      "*3300"
+    ],
+    "timestamp": "May/29/2024 20:07"
+  },
   "CF263153292": {
     "contest_id": 1423,
     "language": "C++20 (GCC 13-64)",
