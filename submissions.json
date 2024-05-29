@@ -24814,6 +24814,23 @@
     ],
     "timestamp": "May/29/2024 15:36"
   },
+  "CF263128605": {
+    "contest_id": 741,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/741/E.cpp",
+    "platform": "Codeforces",
+    "problem_index": "E",
+    "problem_name": "Arpa\u2019s abnormal DNA and Mehrdad\u2019s deep interest",
+    "problem_url": "https://codeforces.com/contest/741/problem/E",
+    "submission_id": "CF263128605",
+    "submission_url": "https://codeforces.com/contest/741/submission/263128605",
+    "tags": [
+      "data structures",
+      "string suffix structures",
+      "*3400"
+    ],
+    "timestamp": "May/29/2024 16:52"
+  },
   "CF263128641": {
     "contest_id": 392,
     "language": "C++20 (GCC 13-64)",
