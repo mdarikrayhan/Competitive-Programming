@@ -23393,6 +23393,23 @@
     ],
     "timestamp": "May/17/2024 08:26"
   },
+  "CF263150623": {
+    "contest_id": 853,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/853/E.cpp",
+    "platform": "Codeforces",
+    "problem_index": "E",
+    "problem_name": "Lada Malina",
+    "problem_url": "https://codeforces.com/contest/853/problem/E",
+    "submission_id": "CF263150623",
+    "submission_url": "https://codeforces.com/contest/853/submission/263150623",
+    "tags": [
+      "data structures",
+      "geometry",
+      "*3400"
+    ],
+    "timestamp": "May/29/2024 19:46"
+  },
   "CF263150694": {
     "contest_id": 1776,
     "language": "C++20 (GCC 13-64)",
