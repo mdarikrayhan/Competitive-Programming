@@ -40790,6 +40790,27 @@
     "tags": [],
     "timestamp": "May/29/2024 13:37"
   },
+  "CF263105589": {
+    "contest_id": 1844,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1844/F2.cpp",
+    "platform": "Codeforces",
+    "problem_index": "F2",
+    "problem_name": "Min Cost Permutation (Hard Version)",
+    "problem_url": "https://codeforces.com/contest/1844/problem/F2",
+    "submission_id": "CF263105589",
+    "submission_url": "https://codeforces.com/contest/1844/submission/263105589",
+    "tags": [
+      "binary search",
+      "constructive algorithms",
+      "data structures",
+      "greedy",
+      "math",
+      "sortings",
+      "*2800"
+    ],
+    "timestamp": "May/29/2024 13:43"
+  },
   "CF263105617": {
     "contest_id": 1721,
     "language": "C++20 (GCC 13-64)",
