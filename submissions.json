@@ -24815,6 +24815,22 @@
     ],
     "timestamp": "May/29/2024 10:33"
   },
+  "CF263096348": {
+    "contest_id": 1090,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1090/J.cpp",
+    "platform": "Codeforces",
+    "problem_index": "J",
+    "problem_name": "Two Prefixes",
+    "problem_url": "https://codeforces.com/contest/1090/problem/J",
+    "submission_id": "CF263096348",
+    "submission_url": "https://codeforces.com/contest/1090/submission/263096348",
+    "tags": [
+      "strings",
+      "*2600"
+    ],
+    "timestamp": "May/29/2024 12:34"
+  },
   "CF263096546": {
     "contest_id": 1500,
     "language": "C++20 (GCC 13-64)",
