@@ -25476,6 +25476,23 @@
     ],
     "timestamp": "May/29/2024 10:16"
   },
+  "CF263084663": {
+    "contest_id": 453,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/453/D.cpp",
+    "platform": "Codeforces",
+    "problem_index": "D",
+    "problem_name": "Little Pony and Elements of Harmony",
+    "problem_url": "https://codeforces.com/contest/453/problem/D",
+    "submission_id": "CF263084663",
+    "submission_url": "https://codeforces.com/contest/453/submission/263084663",
+    "tags": [
+      "dp",
+      "matrices",
+      "*3000"
+    ],
+    "timestamp": "May/29/2024 10:17"
+  },
   "CF263084673": {
     "contest_id": 198,
     "language": "C++20 (GCC 13-64)",
