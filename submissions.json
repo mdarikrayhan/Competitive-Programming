@@ -23393,6 +23393,22 @@
     ],
     "timestamp": "May/17/2024 08:26"
   },
+  "CF263075506": {
+    "contest_id": 530,
+    "language": "Picat",
+    "path": "codeforces/530/F.pi",
+    "platform": "Codeforces",
+    "problem_index": "F",
+    "problem_name": "Jumping frogs",
+    "problem_url": "https://codeforces.com/contest/530/problem/F",
+    "submission_id": "CF263075506",
+    "submission_url": "https://codeforces.com/contest/530/submission/263075506",
+    "tags": [
+      "*special problem",
+      "*2100"
+    ],
+    "timestamp": "May/29/2024 07:32"
+  },
   "CF263075953": {
     "contest_id": 868,
     "language": "C++20 (GCC 13-64)",
