@@ -23393,6 +23393,23 @@
     ],
     "timestamp": "May/17/2024 08:26"
   },
+  "CF263083311": {
+    "contest_id": 286,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/286/D.cpp",
+    "platform": "Codeforces",
+    "problem_index": "D",
+    "problem_name": "Tourists",
+    "problem_url": "https://codeforces.com/contest/286/problem/D",
+    "submission_id": "CF263083311",
+    "submission_url": "https://codeforces.com/contest/286/submission/263083311",
+    "tags": [
+      "data structures",
+      "sortings",
+      "*2600"
+    ],
+    "timestamp": "May/29/2024 09:56"
+  },
   "CF263083336": {
     "contest_id": 183,
     "language": "C++20 (GCC 13-64)",
