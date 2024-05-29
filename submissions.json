@@ -23393,6 +23393,26 @@
     ],
     "timestamp": "May/17/2024 08:26"
   },
+  "CF263136273": {
+    "contest_id": 1566,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1566/H.cpp",
+    "platform": "Codeforces",
+    "problem_index": "H",
+    "problem_name": "Xor-quiz",
+    "problem_url": "https://codeforces.com/contest/1566/problem/H",
+    "submission_id": "CF263136273",
+    "submission_url": "https://codeforces.com/contest/1566/submission/263136273",
+    "tags": [
+      "constructive algorithms",
+      "dp",
+      "interactive",
+      "math",
+      "number theory",
+      "*3200"
+    ],
+    "timestamp": "May/29/2024 17:55"
+  },
   "CF263136343": {
     "contest_id": 39,
     "language": "C++20 (GCC 13-64)",
