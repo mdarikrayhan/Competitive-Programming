@@ -27195,6 +27195,24 @@
     "tags": [],
     "timestamp": "May/29/2024 13:37"
   },
+  "CF263106716": {
+    "contest_id": 1609,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1609/G.cpp",
+    "platform": "Codeforces",
+    "problem_index": "G",
+    "problem_name": "A Stroll Around the Matrix",
+    "problem_url": "https://codeforces.com/contest/1609/problem/G",
+    "submission_id": "CF263106716",
+    "submission_url": "https://codeforces.com/contest/1609/submission/263106716",
+    "tags": [
+      "data structures",
+      "greedy",
+      "math",
+      "*3000"
+    ],
+    "timestamp": "May/29/2024 13:52"
+  },
   "CF263106857": {
     "contest_id": 77,
     "language": "C++20 (GCC 13-64)",
