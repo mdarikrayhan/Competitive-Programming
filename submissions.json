@@ -24298,6 +24298,24 @@
     ],
     "timestamp": "May/29/2024 08:12"
   },
+  "CF263077898": {
+    "contest_id": 1852,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1852/D.cpp",
+    "platform": "Codeforces",
+    "problem_index": "D",
+    "problem_name": "Miriany and Matchstick",
+    "problem_url": "https://codeforces.com/contest/1852/problem/D",
+    "submission_id": "CF263077898",
+    "submission_url": "https://codeforces.com/contest/1852/submission/263077898",
+    "tags": [
+      "constructive algorithms",
+      "dp",
+      "greedy",
+      "*2800"
+    ],
+    "timestamp": "May/29/2024 08:25"
+  },
   "CF263077924": {
     "contest_id": 1610,
     "language": "C++20 (GCC 13-64)",
