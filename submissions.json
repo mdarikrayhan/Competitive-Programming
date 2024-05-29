@@ -24298,6 +24298,25 @@
     ],
     "timestamp": "May/29/2024 08:12"
   },
+  "CF263078087": {
+    "contest_id": 36,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/36/E.cpp",
+    "platform": "Codeforces",
+    "problem_index": "E",
+    "problem_name": "Two Paths",
+    "problem_url": "https://codeforces.com/contest/36/problem/E",
+    "submission_id": "CF263078087",
+    "submission_url": "https://codeforces.com/contest/36/submission/263078087",
+    "tags": [
+      "constructive algorithms",
+      "dsu",
+      "graphs",
+      "implementation",
+      "*2600"
+    ],
+    "timestamp": "May/29/2024 08:29"
+  },
   "CF263078098": {
     "contest_id": 386,
     "language": "C++20 (GCC 13-64)",
