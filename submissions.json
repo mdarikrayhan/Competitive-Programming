@@ -24298,6 +24298,28 @@
     ],
     "timestamp": "May/29/2024 08:12"
   },
+  "CF263077966": {
+    "contest_id": 1728,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1728/G.cpp",
+    "platform": "Codeforces",
+    "problem_index": "G",
+    "problem_name": "Illumination",
+    "problem_url": "https://codeforces.com/contest/1728/problem/G",
+    "submission_id": "CF263077966",
+    "submission_url": "https://codeforces.com/contest/1728/submission/263077966",
+    "tags": [
+      "binary search",
+      "bitmasks",
+      "brute force",
+      "combinatorics",
+      "dp",
+      "math",
+      "two pointers",
+      "*2700"
+    ],
+    "timestamp": "May/29/2024 08:26"
+  },
   "CF263077990": {
     "contest_id": 1936,
     "language": "C++20 (GCC 13-64)",
