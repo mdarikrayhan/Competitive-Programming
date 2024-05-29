@@ -24815,6 +24815,25 @@
     ],
     "timestamp": "May/29/2024 10:33"
   },
+  "CF263095482": {
+    "contest_id": 269,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/269/D.cpp",
+    "platform": "Codeforces",
+    "problem_index": "D",
+    "problem_name": "Maximum Waterfall",
+    "problem_url": "https://codeforces.com/contest/269/problem/D",
+    "submission_id": "CF263095482",
+    "submission_url": "https://codeforces.com/contest/269/submission/263095482",
+    "tags": [
+      "data structures",
+      "dp",
+      "graphs",
+      "sortings",
+      "*2600"
+    ],
+    "timestamp": "May/29/2024 12:27"
+  },
   "CF263095511": {
     "contest_id": 1695,
     "language": "C++20 (GCC 13-64)",
