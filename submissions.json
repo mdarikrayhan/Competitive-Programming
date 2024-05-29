@@ -23393,6 +23393,23 @@
     ],
     "timestamp": "May/17/2024 08:26"
   },
+  "CF263162264": {
+    "contest_id": 223,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/223/D.cpp",
+    "platform": "Codeforces",
+    "problem_index": "D",
+    "problem_name": "Spider",
+    "problem_url": "https://codeforces.com/contest/223/problem/D",
+    "submission_id": "CF263162264",
+    "submission_url": "https://codeforces.com/contest/223/submission/263162264",
+    "tags": [
+      "geometry",
+      "graphs",
+      "*3000"
+    ],
+    "timestamp": "May/29/2024 21:25"
+  },
   "CF263162362": {
     "contest_id": 1967,
     "language": "C++20 (GCC 13-64)",
