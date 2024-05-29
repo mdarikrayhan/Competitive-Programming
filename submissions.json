@@ -23393,6 +23393,23 @@
     ],
     "timestamp": "May/17/2024 08:26"
   },
+  "CF263083815": {
+    "contest_id": 1297,
+    "language": "Kotlin 1.7",
+    "path": "codeforces/1297/E.kt",
+    "platform": "Codeforces",
+    "problem_index": "E",
+    "problem_name": "Modernization of Treeland",
+    "problem_url": "https://codeforces.com/contest/1297/problem/E",
+    "submission_id": "CF263083815",
+    "submission_url": "https://codeforces.com/contest/1297/submission/263083815",
+    "tags": [
+      "*special problem",
+      "dfs and similar",
+      "trees"
+    ],
+    "timestamp": "May/29/2024 10:04"
+  },
   "CF263083847": {
     "contest_id": 1297,
     "language": "Kotlin 1.7",
