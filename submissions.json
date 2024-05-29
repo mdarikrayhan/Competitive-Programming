@@ -23393,6 +23393,23 @@
     ],
     "timestamp": "May/17/2024 08:26"
   },
+  "CF263077269": {
+    "contest_id": 1662,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1662/G.cpp",
+    "platform": "Codeforces",
+    "problem_index": "G",
+    "problem_name": "Gastronomic Event",
+    "problem_url": "https://codeforces.com/contest/1662/problem/G",
+    "submission_id": "CF263077269",
+    "submission_url": "https://codeforces.com/contest/1662/submission/263077269",
+    "tags": [
+      "dp",
+      "greedy",
+      "trees"
+    ],
+    "timestamp": "May/29/2024 08:11"
+  },
   "CF263077275": {
     "contest_id": 758,
     "language": "C++20 (GCC 13-64)",
