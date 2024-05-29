@@ -24814,6 +24814,24 @@
     ],
     "timestamp": "May/29/2024 15:36"
   },
+  "CF263127791": {
+    "contest_id": 54,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/54/C.cpp",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "First Digit Law",
+    "problem_url": "https://codeforces.com/contest/54/problem/C",
+    "submission_id": "CF263127791",
+    "submission_url": "https://codeforces.com/contest/54/submission/263127791",
+    "tags": [
+      "dp",
+      "math",
+      "probabilities",
+      "*2000"
+    ],
+    "timestamp": "May/29/2024 16:45"
+  },
   "CF263127811": {
     "contest_id": 711,
     "language": "C++20 (GCC 13-64)",
