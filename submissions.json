@@ -23393,6 +23393,23 @@
     ],
     "timestamp": "May/17/2024 08:26"
   },
+  "CF263076778": {
+    "contest_id": 171,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/171/H.cpp",
+    "platform": "Codeforces",
+    "problem_index": "H",
+    "problem_name": "A polyline",
+    "problem_url": "https://codeforces.com/contest/171/problem/H",
+    "submission_id": "CF263076778",
+    "submission_url": "https://codeforces.com/contest/171/submission/263076778",
+    "tags": [
+      "*special problem",
+      "implementation",
+      "*1700"
+    ],
+    "timestamp": "May/29/2024 08:02"
+  },
   "CF263076805": {
     "contest_id": 613,
     "language": "C++20 (GCC 13-64)",
