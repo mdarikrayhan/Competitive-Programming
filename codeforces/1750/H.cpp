@@ -64,4 +64,3 @@ void slv()
 	}printf("%lld\n",ans);
 }
 int main() {scanf("%d",&T);while(T--) slv();return 0;}
-  	 	  			 	  					   		 	  	 	

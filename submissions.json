@@ -23393,6 +23393,24 @@
     ],
     "timestamp": "May/17/2024 08:26"
   },
+  "CF263161558": {
+    "contest_id": 1750,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1750/H.cpp",
+    "platform": "Codeforces",
+    "problem_index": "H",
+    "problem_name": "BinaryStringForces",
+    "problem_url": "https://codeforces.com/contest/1750/problem/H",
+    "submission_id": "CF263161558",
+    "submission_url": "https://codeforces.com/contest/1750/submission/263161558",
+    "tags": [
+      "constructive algorithms",
+      "data structures",
+      "dp",
+      "*3500"
+    ],
+    "timestamp": "May/29/2024 21:19"
+  },
   "CF263161596": {
     "contest_id": 1776,
     "language": "C++20 (GCC 13-64)",
