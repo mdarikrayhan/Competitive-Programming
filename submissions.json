@@ -24815,6 +24815,24 @@
     ],
     "timestamp": "May/29/2024 10:33"
   },
+  "CF263098847": {
+    "contest_id": 1603,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1603/E.cpp",
+    "platform": "Codeforces",
+    "problem_index": "E",
+    "problem_name": "A Perfect Problem",
+    "problem_url": "https://codeforces.com/contest/1603/problem/E",
+    "submission_id": "CF263098847",
+    "submission_url": "https://codeforces.com/contest/1603/submission/263098847",
+    "tags": [
+      "combinatorics",
+      "dp",
+      "math",
+      "*3200"
+    ],
+    "timestamp": "May/29/2024 12:54"
+  },
   "CF263098985": {
     "contest_id": 1935,
     "language": "C++20 (GCC 13-64)",
