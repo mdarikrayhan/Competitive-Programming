@@ -23393,6 +23393,23 @@
     ],
     "timestamp": "May/17/2024 08:26"
   },
+  "CF263083875": {
+    "contest_id": 1297,
+    "language": "Kotlin 1.7",
+    "path": "codeforces/1297/G.kt",
+    "platform": "Codeforces",
+    "problem_index": "G",
+    "problem_name": "M-numbers",
+    "problem_url": "https://codeforces.com/contest/1297/problem/G",
+    "submission_id": "CF263083875",
+    "submission_url": "https://codeforces.com/contest/1297/submission/263083875",
+    "tags": [
+      "*special problem",
+      "dp",
+      "math"
+    ],
+    "timestamp": "May/29/2024 10:05"
+  },
   "CF263083975": {
     "contest_id": 1297,
     "language": "Kotlin 1.9",
