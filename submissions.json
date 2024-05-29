@@ -24814,6 +24814,19 @@
     ],
     "timestamp": "May/29/2024 15:36"
   },
+  "CF263130205": {
+    "contest_id": 1939,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1939/C.cpp",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "More Gifts",
+    "problem_url": "https://codeforces.com/contest/1939/problem/C",
+    "submission_id": "CF263130205",
+    "submission_url": "https://codeforces.com/contest/1939/submission/263130205",
+    "tags": [],
+    "timestamp": "May/29/2024 17:06"
+  },
   "CF263130233": {
     "contest_id": 859,
     "language": "C++20 (GCC 13-64)",
