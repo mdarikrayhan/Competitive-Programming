@@ -27418,6 +27418,27 @@
     ],
     "timestamp": "May/29/2024 07:02"
   },
+  "CF263074460": {
+    "contest_id": 1687,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1687/D.cpp",
+    "platform": "Codeforces",
+    "problem_index": "D",
+    "problem_name": "Cute number",
+    "problem_url": "https://codeforces.com/contest/1687/problem/D",
+    "submission_id": "CF263074460",
+    "submission_url": "https://codeforces.com/contest/1687/submission/263074460",
+    "tags": [
+      "binary search",
+      "brute force",
+      "data structures",
+      "dsu",
+      "implementation",
+      "math",
+      "*2900"
+    ],
+    "timestamp": "May/29/2024 07:07"
+  },
   "CF263074464": {
     "contest_id": 248,
     "language": "C++20 (GCC 13-64)",
