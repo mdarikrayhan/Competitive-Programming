@@ -23393,6 +23393,23 @@
     ],
     "timestamp": "May/17/2024 08:26"
   },
+  "CF263148816": {
+    "contest_id": 243,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/243/C.cpp",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Colorado Potato Beetle",
+    "problem_url": "https://codeforces.com/contest/243/problem/C",
+    "submission_id": "CF263148816",
+    "submission_url": "https://codeforces.com/contest/243/submission/263148816",
+    "tags": [
+      "dfs and similar",
+      "implementation",
+      "*2200"
+    ],
+    "timestamp": "May/29/2024 19:33"
+  },
   "CF263148845": {
     "contest_id": 243,
     "language": "C++20 (GCC 13-64)",
