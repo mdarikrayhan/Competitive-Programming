@@ -23393,6 +23393,24 @@
     ],
     "timestamp": "May/17/2024 08:26"
   },
+  "CF263157773": {
+    "contest_id": 1827,
+    "language": "C++17 (GCC 7-32)",
+    "path": "codeforces/1827/F.cpp",
+    "platform": "Codeforces",
+    "problem_index": "F",
+    "problem_name": "Copium Permutation",
+    "problem_url": "https://codeforces.com/contest/1827/problem/F",
+    "submission_id": "CF263157773",
+    "submission_url": "https://codeforces.com/contest/1827/submission/263157773",
+    "tags": [
+      "constructive algorithms",
+      "data structures",
+      "greedy",
+      "*3500"
+    ],
+    "timestamp": "May/29/2024 20:44"
+  },
   "CF263157803": {
     "contest_id": 1621,
     "language": "C++17 (GCC 7-32)",
