@@ -23393,6 +23393,23 @@
     ],
     "timestamp": "May/17/2024 08:26"
   },
+  "CF263117291": {
+    "contest_id": 1456,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1456/E.cpp",
+    "platform": "Codeforces",
+    "problem_index": "E",
+    "problem_name": "XOR-ranges",
+    "problem_url": "https://codeforces.com/contest/1456/problem/E",
+    "submission_id": "CF263117291",
+    "submission_url": "https://codeforces.com/contest/1456/submission/263117291",
+    "tags": [
+      "dp",
+      "greedy",
+      "*3500"
+    ],
+    "timestamp": "May/29/2024 15:18"
+  },
   "CF263117318": {
     "contest_id": 76,
     "language": "C++20 (GCC 13-64)",
