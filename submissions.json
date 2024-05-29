@@ -27114,6 +27114,25 @@
     ],
     "timestamp": "May/29/2024 06:34"
   },
+  "CF263073445": {
+    "contest_id": 1705,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1705/F.cpp",
+    "platform": "Codeforces",
+    "problem_index": "F",
+    "problem_name": "Mark and the Online Exam",
+    "problem_url": "https://codeforces.com/contest/1705/problem/F",
+    "submission_id": "CF263073445",
+    "submission_url": "https://codeforces.com/contest/1705/submission/263073445",
+    "tags": [
+      "bitmasks",
+      "constructive algorithms",
+      "interactive",
+      "probabilities",
+      "*2900"
+    ],
+    "timestamp": "May/29/2024 06:41"
+  },
   "CF263073457": {
     "contest_id": 685,
     "language": "C++20 (GCC 13-64)",
