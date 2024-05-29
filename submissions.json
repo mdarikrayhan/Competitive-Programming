@@ -35066,6 +35066,23 @@
     ],
     "timestamp": "May/29/2024 08:32"
   },
+  "CF263079649": {
+    "contest_id": 100,
+    "language": "Pike",
+    "path": "codeforces/100/F.pike",
+    "platform": "Codeforces",
+    "problem_index": "F",
+    "problem_name": "Polynom",
+    "problem_url": "https://codeforces.com/contest/100/problem/F",
+    "submission_id": "CF263079649",
+    "submission_url": "https://codeforces.com/contest/100/submission/263079649",
+    "tags": [
+      "*special problem",
+      "implementation",
+      "*1800"
+    ],
+    "timestamp": "May/29/2024 08:57"
+  },
   "CF263079672": {
     "contest_id": 100,
     "language": "Pike",
