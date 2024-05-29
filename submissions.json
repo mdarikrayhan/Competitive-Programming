@@ -23393,6 +23393,26 @@
     ],
     "timestamp": "May/17/2024 08:26"
   },
+  "CF263118076": {
+    "contest_id": 1494,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1494/F.cpp",
+    "platform": "Codeforces",
+    "problem_index": "F",
+    "problem_name": "Delete The Edges",
+    "problem_url": "https://codeforces.com/contest/1494/problem/F",
+    "submission_id": "CF263118076",
+    "submission_url": "https://codeforces.com/contest/1494/submission/263118076",
+    "tags": [
+      "brute force",
+      "constructive algorithms",
+      "dfs and similar",
+      "graphs",
+      "implementation",
+      "*2900"
+    ],
+    "timestamp": "May/29/2024 15:24"
+  },
   "CF263118104": {
     "contest_id": 1368,
     "language": "C++20 (GCC 13-64)",
