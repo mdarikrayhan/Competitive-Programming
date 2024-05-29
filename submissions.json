@@ -23393,6 +23393,22 @@
     ],
     "timestamp": "May/17/2024 08:26"
   },
+  "CF263159388": {
+    "contest_id": 730,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/730/K.cpp",
+    "platform": "Codeforces",
+    "problem_index": "K",
+    "problem_name": "Roads Orientation Problem",
+    "problem_url": "https://codeforces.com/contest/730/problem/K",
+    "submission_id": "CF263159388",
+    "submission_url": "https://codeforces.com/contest/730/submission/263159388",
+    "tags": [
+      "graphs",
+      "*3200"
+    ],
+    "timestamp": "May/29/2024 20:58"
+  },
   "CF263159584": {
     "contest_id": 1936,
     "language": "C++20 (GCC 13-64)",
