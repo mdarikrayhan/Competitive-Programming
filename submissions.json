@@ -23393,6 +23393,24 @@
     ],
     "timestamp": "May/17/2024 08:26"
   },
+  "CF263074012": {
+    "contest_id": 1211,
+    "language": "Kotlin 1.7",
+    "path": "codeforces/1211/C.kt",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Ice Cream",
+    "problem_url": "https://codeforces.com/contest/1211/problem/C",
+    "submission_id": "CF263074012",
+    "submission_url": "https://codeforces.com/contest/1211/submission/263074012",
+    "tags": [
+      "*special problem",
+      "greedy",
+      "sortings",
+      "*1700"
+    ],
+    "timestamp": "May/29/2024 06:58"
+  },
   "CF263074112": {
     "contest_id": 1211,
     "language": "Kotlin 1.7",
