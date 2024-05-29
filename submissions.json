@@ -25459,6 +25459,24 @@
     ],
     "timestamp": "May/29/2024 10:15"
   },
+  "CF263084545": {
+    "contest_id": 1051,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1051/G.cpp",
+    "platform": "Codeforces",
+    "problem_index": "G",
+    "problem_name": "Distinctification",
+    "problem_url": "https://codeforces.com/contest/1051/problem/G",
+    "submission_id": "CF263084545",
+    "submission_url": "https://codeforces.com/contest/1051/submission/263084545",
+    "tags": [
+      "data structures",
+      "dsu",
+      "greedy",
+      "*2900"
+    ],
+    "timestamp": "May/29/2024 10:15"
+  },
   "CF263084579": {
     "contest_id": 1912,
     "language": "C++20 (GCC 13-64)",
