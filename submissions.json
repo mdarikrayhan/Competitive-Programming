@@ -23393,6 +23393,24 @@
     ],
     "timestamp": "May/17/2024 08:26"
   },
+  "CF263151353": {
+    "contest_id": 1280,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1280/F.cpp",
+    "platform": "Codeforces",
+    "problem_index": "F",
+    "problem_name": "Intergalactic Sliding Puzzle",
+    "problem_url": "https://codeforces.com/contest/1280/problem/F",
+    "submission_id": "CF263151353",
+    "submission_url": "https://codeforces.com/contest/1280/submission/263151353",
+    "tags": [
+      "combinatorics",
+      "constructive algorithms",
+      "math",
+      "*3400"
+    ],
+    "timestamp": "May/29/2024 19:52"
+  },
   "CF263151464": {
     "contest_id": 1483,
     "language": "C++20 (GCC 13-64)",
