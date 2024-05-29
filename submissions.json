@@ -30034,6 +30034,19 @@
     ],
     "timestamp": "May/29/2024 15:36"
   },
+  "CF263122447": {
+    "contest_id": 1510,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1510/G.cpp",
+    "platform": "Codeforces",
+    "problem_index": "G",
+    "problem_name": "Guide",
+    "problem_url": "https://codeforces.com/contest/1510/problem/G",
+    "submission_id": "CF263122447",
+    "submission_url": "https://codeforces.com/contest/1510/submission/263122447",
+    "tags": [],
+    "timestamp": "May/29/2024 15:59"
+  },
   "CF263122480": {
     "contest_id": 1083,
     "language": "C++20 (GCC 13-64)",
