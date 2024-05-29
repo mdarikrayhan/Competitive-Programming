@@ -24815,6 +24815,28 @@
     ],
     "timestamp": "May/29/2024 10:33"
   },
+  "CF263096913": {
+    "contest_id": 1866,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1866/K.cpp",
+    "platform": "Codeforces",
+    "problem_index": "K",
+    "problem_name": "Keen Tree Calculation",
+    "problem_url": "https://codeforces.com/contest/1866/problem/K",
+    "submission_id": "CF263096913",
+    "submission_url": "https://codeforces.com/contest/1866/submission/263096913",
+    "tags": [
+      "binary search",
+      "data structures",
+      "dp",
+      "geometry",
+      "graphs",
+      "implementation",
+      "trees",
+      "*2500"
+    ],
+    "timestamp": "May/29/2024 12:39"
+  },
   "CF263097139": {
     "contest_id": 1517,
     "language": "C++20 (GCC 13-64)",
