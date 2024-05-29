@@ -23393,6 +23393,24 @@
     ],
     "timestamp": "May/17/2024 08:26"
   },
+  "CF263148402": {
+    "contest_id": 690,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/690/F2.cpp",
+    "platform": "Codeforces",
+    "problem_index": "F2",
+    "problem_name": "Tree of Life (medium)",
+    "problem_url": "https://codeforces.com/contest/690/problem/F2",
+    "submission_id": "CF263148402",
+    "submission_url": "https://codeforces.com/contest/690/submission/263148402",
+    "tags": [
+      "constructive algorithms",
+      "hashing",
+      "trees",
+      "*2700"
+    ],
+    "timestamp": "May/29/2024 19:30"
+  },
   "CF263148439": {
     "contest_id": 1870,
     "language": "C++20 (GCC 13-64)",
