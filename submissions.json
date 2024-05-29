@@ -23393,6 +23393,26 @@
     ],
     "timestamp": "May/17/2024 08:26"
   },
+  "CF263152252": {
+    "contest_id": 374,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/374/E.cpp",
+    "platform": "Codeforces",
+    "problem_index": "E",
+    "problem_name": "Inna and Babies",
+    "problem_url": "https://codeforces.com/contest/374/problem/E",
+    "submission_id": "CF263152252",
+    "submission_url": "https://codeforces.com/contest/374/submission/263152252",
+    "tags": [
+      "binary search",
+      "data structures",
+      "dsu",
+      "geometry",
+      "implementation",
+      "*2600"
+    ],
+    "timestamp": "May/29/2024 19:59"
+  },
   "CF263152256": {
     "contest_id": 958,
     "language": "C++20 (GCC 13-64)",
