@@ -27114,6 +27114,23 @@
     ],
     "timestamp": "May/29/2024 06:34"
   },
+  "CF263073809": {
+    "contest_id": 1346,
+    "language": "Kotlin 1.7",
+    "path": "codeforces/1346/I.kt",
+    "platform": "Codeforces",
+    "problem_index": "I",
+    "problem_name": "Pac-Man 2.0",
+    "problem_url": "https://codeforces.com/contest/1346/problem/I",
+    "submission_id": "CF263073809",
+    "submission_url": "https://codeforces.com/contest/1346/submission/263073809",
+    "tags": [
+      "*special problem",
+      "dp",
+      "*2900"
+    ],
+    "timestamp": "May/29/2024 06:52"
+  },
   "CF263073825": {
     "contest_id": 1346,
     "language": "Kotlin 1.9",
