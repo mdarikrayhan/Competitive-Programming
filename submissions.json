@@ -24298,6 +24298,23 @@
     ],
     "timestamp": "May/29/2024 08:12"
   },
+  "CF263077813": {
+    "contest_id": 1063,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1063/D.cpp",
+    "platform": "Codeforces",
+    "problem_index": "D",
+    "problem_name": "Candies for Children",
+    "problem_url": "https://codeforces.com/contest/1063/problem/D",
+    "submission_id": "CF263077813",
+    "submission_url": "https://codeforces.com/contest/1063/submission/263077813",
+    "tags": [
+      "brute force",
+      "math",
+      "*2600"
+    ],
+    "timestamp": "May/29/2024 08:23"
+  },
   "CF263077845": {
     "contest_id": 906,
     "language": "C++20 (GCC 13-64)",
