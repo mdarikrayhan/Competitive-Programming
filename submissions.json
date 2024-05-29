@@ -30034,6 +30034,23 @@
     ],
     "timestamp": "May/29/2024 15:36"
   },
+  "CF263120676": {
+    "contest_id": 238,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/238/D.cpp",
+    "platform": "Codeforces",
+    "problem_index": "D",
+    "problem_name": "Tape Programming",
+    "problem_url": "https://codeforces.com/contest/238/problem/D",
+    "submission_id": "CF263120676",
+    "submission_url": "https://codeforces.com/contest/238/submission/263120676",
+    "tags": [
+      "data structures",
+      "implementation",
+      "*2900"
+    ],
+    "timestamp": "May/29/2024 15:44"
+  },
   "CF263120773": {
     "contest_id": 217,
     "language": "C++20 (GCC 13-64)",
