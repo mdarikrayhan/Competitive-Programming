@@ -23393,6 +23393,25 @@
     ],
     "timestamp": "May/17/2024 08:26"
   },
+  "CF263118177": {
+    "contest_id": 1254,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1254/E.cpp",
+    "platform": "Codeforces",
+    "problem_index": "E",
+    "problem_name": "Send Tree to Charlie",
+    "problem_url": "https://codeforces.com/contest/1254/problem/E",
+    "submission_id": "CF263118177",
+    "submission_url": "https://codeforces.com/contest/1254/submission/263118177",
+    "tags": [
+      "combinatorics",
+      "dfs and similar",
+      "dsu",
+      "trees",
+      "*3300"
+    ],
+    "timestamp": "May/29/2024 15:25"
+  },
   "CF263118209": {
     "contest_id": 1766,
     "language": "C++20 (GCC 13-64)",
