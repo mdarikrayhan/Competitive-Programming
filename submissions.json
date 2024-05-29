@@ -27114,6 +27114,24 @@
     ],
     "timestamp": "May/29/2024 06:34"
   },
+  "CF263073825": {
+    "contest_id": 1346,
+    "language": "Kotlin 1.9",
+    "path": "codeforces/1346/G.kt",
+    "platform": "Codeforces",
+    "problem_index": "G",
+    "problem_name": "Two IP Cameras",
+    "problem_url": "https://codeforces.com/contest/1346/problem/G",
+    "submission_id": "CF263073825",
+    "submission_url": "https://codeforces.com/contest/1346/submission/263073825",
+    "tags": [
+      "*special problem",
+      "math",
+      "number theory",
+      "*2300"
+    ],
+    "timestamp": "May/29/2024 06:52"
+  },
   "CF263073837": {
     "contest_id": 1612,
     "language": "C++20 (GCC 13-64)",
