@@ -27654,6 +27654,24 @@
     ],
     "timestamp": "May/29/2024 15:36"
   },
+  "CF263127033": {
+    "contest_id": 1804,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1804/G.cpp",
+    "platform": "Codeforces",
+    "problem_index": "G",
+    "problem_name": "Flow Control",
+    "problem_url": "https://codeforces.com/contest/1804/problem/G",
+    "submission_id": "CF263127033",
+    "submission_url": "https://codeforces.com/contest/1804/submission/263127033",
+    "tags": [
+      "data structures",
+      "dsu",
+      "implementation",
+      "*3500"
+    ],
+    "timestamp": "May/29/2024 16:38"
+  },
   "CF263127156": {
     "contest_id": 1210,
     "language": "C++20 (GCC 13-64)",
