@@ -23393,6 +23393,21 @@
     ],
     "timestamp": "May/17/2024 08:26"
   },
+  "CF263153292": {
+    "contest_id": 1423,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1423/D.cpp",
+    "platform": "Codeforces",
+    "problem_index": "D",
+    "problem_name": "Does anyone else hate the wind?",
+    "problem_url": "https://codeforces.com/contest/1423/problem/D",
+    "submission_id": "CF263153292",
+    "submission_url": "https://codeforces.com/contest/1423/submission/263153292",
+    "tags": [
+      "*3100"
+    ],
+    "timestamp": "May/29/2024 20:07"
+  },
   "CF263153300": {
     "contest_id": 1236,
     "language": "C++20 (GCC 13-64)",
