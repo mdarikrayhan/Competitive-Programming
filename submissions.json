@@ -27418,6 +27418,24 @@
     ],
     "timestamp": "May/29/2024 07:02"
   },
+  "CF263074371": {
+    "contest_id": 404,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/404/E.cpp",
+    "platform": "Codeforces",
+    "problem_index": "E",
+    "problem_name": "Maze 1D",
+    "problem_url": "https://codeforces.com/contest/404/problem/E",
+    "submission_id": "CF263074371",
+    "submission_url": "https://codeforces.com/contest/404/submission/263074371",
+    "tags": [
+      "binary search",
+      "greedy",
+      "implementation",
+      "*2200"
+    ],
+    "timestamp": "May/29/2024 07:05"
+  },
   "CF263074402": {
     "contest_id": 1149,
     "language": "C++20 (GCC 13-64)",
