@@ -23393,6 +23393,27 @@
     ],
     "timestamp": "May/17/2024 08:26"
   },
+  "CF263135957": {
+    "contest_id": 1936,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1936/C.cpp",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Pok\u00e9mon Arena",
+    "problem_url": "https://codeforces.com/contest/1936/problem/C",
+    "submission_id": "CF263135957",
+    "submission_url": "https://codeforces.com/contest/1936/submission/263135957",
+    "tags": [
+      "data structures",
+      "graphs",
+      "greedy",
+      "implementation",
+      "shortest paths",
+      "sortings",
+      "*2400"
+    ],
+    "timestamp": "May/29/2024 17:52"
+  },
   "CF263135985": {
     "contest_id": 727,
     "language": "C++20 (GCC 13-64)",
