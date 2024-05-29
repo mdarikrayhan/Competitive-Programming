@@ -38694,6 +38694,25 @@
     ],
     "timestamp": "May/29/2024 07:10"
   },
+  "CF263074694": {
+    "contest_id": 51,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/51/F.cpp",
+    "platform": "Codeforces",
+    "problem_index": "F",
+    "problem_name": "Caterpillar",
+    "problem_url": "https://codeforces.com/contest/51/problem/F",
+    "submission_id": "CF263074694",
+    "submission_url": "https://codeforces.com/contest/51/submission/263074694",
+    "tags": [
+      "dfs and similar",
+      "dp",
+      "graphs",
+      "trees",
+      "*2800"
+    ],
+    "timestamp": "May/29/2024 07:13"
+  },
   "CF263074721": {
     "contest_id": 101,
     "language": "C++20 (GCC 13-64)",
