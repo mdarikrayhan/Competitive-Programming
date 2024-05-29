@@ -24298,6 +24298,23 @@
     ],
     "timestamp": "May/29/2024 08:12"
   },
+  "CF263077695": {
+    "contest_id": 245,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/245/G.cpp",
+    "platform": "Codeforces",
+    "problem_index": "G",
+    "problem_name": "Suggested Friends",
+    "problem_url": "https://codeforces.com/contest/245/problem/G",
+    "submission_id": "CF263077695",
+    "submission_url": "https://codeforces.com/contest/245/submission/263077695",
+    "tags": [
+      "brute force",
+      "graphs",
+      "*2200"
+    ],
+    "timestamp": "May/29/2024 08:21"
+  },
   "CF263077721": {
     "contest_id": 1423,
     "language": "C++20 (GCC 13-64)",
