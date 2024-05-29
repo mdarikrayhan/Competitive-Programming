@@ -30034,6 +30034,24 @@
     ],
     "timestamp": "May/29/2024 15:36"
   },
+  "CF263120928": {
+    "contest_id": 1056,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1056/G.cpp",
+    "platform": "Codeforces",
+    "problem_index": "G",
+    "problem_name": "Take Metro",
+    "problem_url": "https://codeforces.com/contest/1056/problem/G",
+    "submission_id": "CF263120928",
+    "submission_url": "https://codeforces.com/contest/1056/submission/263120928",
+    "tags": [
+      "brute force",
+      "data structures",
+      "graphs",
+      "*2900"
+    ],
+    "timestamp": "May/29/2024 15:47"
+  },
   "CF263121006": {
     "contest_id": 173,
     "language": "C++20 (GCC 13-64)",
