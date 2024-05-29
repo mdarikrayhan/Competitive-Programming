@@ -24298,6 +24298,25 @@
     ],
     "timestamp": "May/29/2024 08:12"
   },
+  "CF263077886": {
+    "contest_id": 1945,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1945/H.cpp",
+    "platform": "Codeforces",
+    "problem_index": "H",
+    "problem_name": "GCD is Greater",
+    "problem_url": "https://codeforces.com/contest/1945/problem/H",
+    "submission_id": "CF263077886",
+    "submission_url": "https://codeforces.com/contest/1945/submission/263077886",
+    "tags": [
+      "brute force",
+      "data structures",
+      "math",
+      "number theory",
+      "*2600"
+    ],
+    "timestamp": "May/29/2024 08:25"
+  },
   "CF263077898": {
     "contest_id": 1852,
     "language": "C++20 (GCC 13-64)",
