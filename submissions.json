@@ -38716,6 +38716,24 @@
     ],
     "timestamp": "May/29/2024 14:00"
   },
+  "CF263109103": {
+    "contest_id": 97,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/97/D.cpp",
+    "platform": "Codeforces",
+    "problem_index": "D",
+    "problem_name": "Robot in Basement",
+    "problem_url": "https://codeforces.com/contest/97/problem/D",
+    "submission_id": "CF263109103",
+    "submission_url": "https://codeforces.com/contest/97/submission/263109103",
+    "tags": [
+      "bitmasks",
+      "brute force",
+      "implementation",
+      "*2700"
+    ],
+    "timestamp": "May/29/2024 14:10"
+  },
   "CF263109199": {
     "contest_id": 1725,
     "language": "C++20 (GCC 13-64)",
