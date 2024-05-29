@@ -23497,6 +23497,22 @@
     "tags": [],
     "timestamp": "May/29/2024 18:32"
   },
+  "CF263147585": {
+    "contest_id": 1943,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1943/F.cpp",
+    "platform": "Codeforces",
+    "problem_index": "F",
+    "problem_name": "Minimum Hamming Distance",
+    "problem_url": "https://codeforces.com/contest/1943/problem/F",
+    "submission_id": "CF263147585",
+    "submission_url": "https://codeforces.com/contest/1943/submission/263147585",
+    "tags": [
+      "dp",
+      "*3500"
+    ],
+    "timestamp": "May/29/2024 19:24"
+  },
   "CF263147618": {
     "contest_id": 1896,
     "language": "C++20 (GCC 13-64)",
