@@ -40790,6 +40790,23 @@
     "tags": [],
     "timestamp": "May/29/2024 13:37"
   },
+  "CF263105679": {
+    "contest_id": 1329,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1329/D.cpp",
+    "platform": "Codeforces",
+    "problem_index": "D",
+    "problem_name": "Dreamoon Likes Strings",
+    "problem_url": "https://codeforces.com/contest/1329/problem/D",
+    "submission_id": "CF263105679",
+    "submission_url": "https://codeforces.com/contest/1329/submission/263105679",
+    "tags": [
+      "constructive algorithms",
+      "data structures",
+      "*3100"
+    ],
+    "timestamp": "May/29/2024 13:44"
+  },
   "CF263105699": {
     "contest_id": 850,
     "language": "C++20 (GCC 13-64)",
