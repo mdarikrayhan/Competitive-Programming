@@ -35066,6 +35066,25 @@
     ],
     "timestamp": "May/29/2024 08:32"
   },
+  "CF263079417": {
+    "contest_id": 1268,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1268/D.cpp",
+    "platform": "Codeforces",
+    "problem_index": "D",
+    "problem_name": "Invertation in Tournament",
+    "problem_url": "https://codeforces.com/contest/1268/problem/D",
+    "submission_id": "CF263079417",
+    "submission_url": "https://codeforces.com/contest/1268/submission/263079417",
+    "tags": [
+      "brute force",
+      "divide and conquer",
+      "graphs",
+      "math",
+      "*3200"
+    ],
+    "timestamp": "May/29/2024 08:53"
+  },
   "CF263079577": {
     "contest_id": 100,
     "language": "Pike",
