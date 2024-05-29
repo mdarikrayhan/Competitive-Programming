@@ -34313,6 +34313,26 @@
     ],
     "timestamp": "May/29/2024 14:54"
   },
+  "CF263114684": {
+    "contest_id": 1548,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1548/E.cpp",
+    "platform": "Codeforces",
+    "problem_index": "E",
+    "problem_name": "Gregor and the Two Painters",
+    "problem_url": "https://codeforces.com/contest/1548/problem/E",
+    "submission_id": "CF263114684",
+    "submission_url": "https://codeforces.com/contest/1548/submission/263114684",
+    "tags": [
+      "data structures",
+      "divide and conquer",
+      "graphs",
+      "greedy",
+      "math",
+      "*3400"
+    ],
+    "timestamp": "May/29/2024 14:56"
+  },
   "CF263114716": {
     "contest_id": 1913,
     "language": "C++20 (GCC 13-64)",
