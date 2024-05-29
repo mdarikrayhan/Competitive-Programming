@@ -23393,6 +23393,22 @@
     ],
     "timestamp": "May/17/2024 08:26"
   },
+  "CF263083459": {
+    "contest_id": 1210,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1210/E.cpp",
+    "platform": "Codeforces",
+    "problem_index": "E",
+    "problem_name": "Wojtek and Card Tricks",
+    "problem_url": "https://codeforces.com/contest/1210/problem/E",
+    "submission_id": "CF263083459",
+    "submission_url": "https://codeforces.com/contest/1210/submission/263083459",
+    "tags": [
+      "math",
+      "*2700"
+    ],
+    "timestamp": "May/29/2024 09:58"
+  },
   "CF263083473": {
     "contest_id": 720,
     "language": "C++20 (GCC 13-64)",
