@@ -39519,6 +39519,22 @@
     ],
     "timestamp": "May/29/2024 08:12"
   },
+  "CF263077321": {
+    "contest_id": 1031,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1031/E.cpp",
+    "platform": "Codeforces",
+    "problem_index": "E",
+    "problem_name": "Triple Flips",
+    "problem_url": "https://codeforces.com/contest/1031/problem/E",
+    "submission_id": "CF263077321",
+    "submission_url": "https://codeforces.com/contest/1031/submission/263077321",
+    "tags": [
+      "constructive algorithms",
+      "*2600"
+    ],
+    "timestamp": "May/29/2024 08:13"
+  },
   "CF263077337": {
     "contest_id": 1970,
     "language": "C++20 (GCC 13-64)",
