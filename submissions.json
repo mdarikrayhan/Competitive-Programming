@@ -23393,6 +23393,24 @@
     ],
     "timestamp": "May/17/2024 08:26"
   },
+  "CF263111731": {
+    "contest_id": 1045,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1045/J.cpp",
+    "platform": "Codeforces",
+    "problem_index": "J",
+    "problem_name": "Moonwalk challenge",
+    "problem_url": "https://codeforces.com/contest/1045/problem/J",
+    "submission_id": "CF263111731",
+    "submission_url": "https://codeforces.com/contest/1045/submission/263111731",
+    "tags": [
+      "data structures",
+      "strings",
+      "trees",
+      "*2600"
+    ],
+    "timestamp": "May/29/2024 14:32"
+  },
   "CF263111743": {
     "contest_id": 217,
     "language": "C++20 (GCC 13-64)",
