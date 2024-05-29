@@ -23393,6 +23393,23 @@
     ],
     "timestamp": "May/17/2024 08:26"
   },
+  "CF263083273": {
+    "contest_id": 201,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/201/E.cpp",
+    "platform": "Codeforces",
+    "problem_index": "E",
+    "problem_name": "Thoroughly Bureaucratic Organization",
+    "problem_url": "https://codeforces.com/contest/201/problem/E",
+    "submission_id": "CF263083273",
+    "submission_url": "https://codeforces.com/contest/201/submission/263083273",
+    "tags": [
+      "binary search",
+      "combinatorics",
+      "*2600"
+    ],
+    "timestamp": "May/29/2024 09:55"
+  },
   "CF263083285": {
     "contest_id": 286,
     "language": "C++20 (GCC 13-64)",
