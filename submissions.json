@@ -23393,6 +23393,24 @@
     ],
     "timestamp": "May/17/2024 08:26"
   },
+  "CF263113960": {
+    "contest_id": 11,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/11/E.cpp",
+    "platform": "Codeforces",
+    "problem_index": "E",
+    "problem_name": "Forward, march!",
+    "problem_url": "https://codeforces.com/contest/11/problem/E",
+    "submission_id": "CF263113960",
+    "submission_url": "https://codeforces.com/contest/11/submission/263113960",
+    "tags": [
+      "binary search",
+      "dp",
+      "greedy",
+      "*2800"
+    ],
+    "timestamp": "May/29/2024 14:50"
+  },
   "CF263113961": {
     "contest_id": 1452,
     "language": "C++20 (GCC 13-64)",
