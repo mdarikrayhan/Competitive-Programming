@@ -23393,6 +23393,23 @@
     ],
     "timestamp": "May/17/2024 08:26"
   },
+  "CF263148088": {
+    "contest_id": 471,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/471/E.cpp",
+    "platform": "Codeforces",
+    "problem_index": "E",
+    "problem_name": "MUH and Lots and Lots of Segments",
+    "problem_url": "https://codeforces.com/contest/471/problem/E",
+    "submission_id": "CF263148088",
+    "submission_url": "https://codeforces.com/contest/471/submission/263148088",
+    "tags": [
+      "data structures",
+      "dsu",
+      "*2700"
+    ],
+    "timestamp": "May/29/2024 19:28"
+  },
   "CF263148218": {
     "contest_id": 1761,
     "language": "C++20 (GCC 13-64)",
