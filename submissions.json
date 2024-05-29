@@ -27654,6 +27654,26 @@
     ],
     "timestamp": "May/29/2024 15:36"
   },
+  "CF263126472": {
+    "contest_id": 1553,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1553/I.cpp",
+    "platform": "Codeforces",
+    "problem_index": "I",
+    "problem_name": "Stairs",
+    "problem_url": "https://codeforces.com/contest/1553/problem/I",
+    "submission_id": "CF263126472",
+    "submission_url": "https://codeforces.com/contest/1553/submission/263126472",
+    "tags": [
+      "combinatorics",
+      "divide and conquer",
+      "dp",
+      "fft",
+      "math",
+      "*3400"
+    ],
+    "timestamp": "May/29/2024 16:33"
+  },
   "CF263126498": {
     "contest_id": 1053,
     "language": "C++20 (GCC 13-64)",
