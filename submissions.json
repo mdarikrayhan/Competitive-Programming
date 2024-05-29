@@ -23497,6 +23497,26 @@
     "tags": [],
     "timestamp": "May/29/2024 18:32"
   },
+  "CF263146957": {
+    "contest_id": 1949,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1949/A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Grove",
+    "problem_url": "https://codeforces.com/contest/1949/problem/A",
+    "submission_id": "CF263146957",
+    "submission_url": "https://codeforces.com/contest/1949/submission/263146957",
+    "tags": [
+      "brute force",
+      "dfs and similar",
+      "dp",
+      "geometry",
+      "probabilities",
+      "*3300"
+    ],
+    "timestamp": "May/29/2024 19:20"
+  },
   "CF263146999": {
     "contest_id": 1781,
     "language": "C++20 (GCC 13-64)",
