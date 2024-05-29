@@ -23393,6 +23393,25 @@
     ],
     "timestamp": "May/17/2024 08:26"
   },
+  "CF263114173": {
+    "contest_id": 715,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/715/E.cpp",
+    "platform": "Codeforces",
+    "problem_index": "E",
+    "problem_name": "Complete the Permutations",
+    "problem_url": "https://codeforces.com/contest/715/problem/E",
+    "submission_id": "CF263114173",
+    "submission_url": "https://codeforces.com/contest/715/submission/263114173",
+    "tags": [
+      "combinatorics",
+      "fft",
+      "graphs",
+      "math",
+      "*3400"
+    ],
+    "timestamp": "May/29/2024 14:52"
+  },
   "CF263114193": {
     "contest_id": 1599,
     "language": "C++20 (GCC 13-64)",
