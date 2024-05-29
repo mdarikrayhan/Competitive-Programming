@@ -40790,6 +40790,24 @@
     "tags": [],
     "timestamp": "May/29/2024 13:37"
   },
+  "CF263105132": {
+    "contest_id": 1450,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1450/H2.cpp",
+    "platform": "Codeforces",
+    "problem_index": "H2",
+    "problem_name": "Multithreading (Hard Version)",
+    "problem_url": "https://codeforces.com/contest/1450/problem/H2",
+    "submission_id": "CF263105132",
+    "submission_url": "https://codeforces.com/contest/1450/submission/263105132",
+    "tags": [
+      "combinatorics",
+      "implementation",
+      "math",
+      "*3300"
+    ],
+    "timestamp": "May/29/2024 13:40"
+  },
   "CF263105557": {
     "contest_id": 1738,
     "language": "C++20 (GCC 13-64)",
