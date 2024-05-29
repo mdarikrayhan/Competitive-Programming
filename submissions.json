@@ -23393,6 +23393,24 @@
     ],
     "timestamp": "May/17/2024 08:26"
   },
+  "CF263116744": {
+    "contest_id": 1693,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1693/F.cpp",
+    "platform": "Codeforces",
+    "problem_index": "F",
+    "problem_name": "I Might Be Wrong",
+    "problem_url": "https://codeforces.com/contest/1693/problem/F",
+    "submission_id": "CF263116744",
+    "submission_url": "https://codeforces.com/contest/1693/submission/263116744",
+    "tags": [
+      "binary search",
+      "greedy",
+      "two pointers",
+      "*3400"
+    ],
+    "timestamp": "May/29/2024 15:13"
+  },
   "CF263116766": {
     "contest_id": 238,
     "language": "C++20 (GCC 13-64)",
