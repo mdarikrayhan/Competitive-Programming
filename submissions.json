@@ -24814,6 +24814,24 @@
     ],
     "timestamp": "May/29/2024 15:36"
   },
+  "CF263130056": {
+    "contest_id": 331,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/331/E1.cpp",
+    "platform": "Codeforces",
+    "problem_index": "E1",
+    "problem_name": "Deja Vu",
+    "problem_url": "https://codeforces.com/contest/331/problem/E1",
+    "submission_id": "CF263130056",
+    "submission_url": "https://codeforces.com/contest/331/submission/263130056",
+    "tags": [
+      "constructive algorithms",
+      "graphs",
+      "implementation",
+      "*2900"
+    ],
+    "timestamp": "May/29/2024 17:05"
+  },
   "CF263130085": {
     "contest_id": 887,
     "language": "C++20 (GCC 13-64)",
