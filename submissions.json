@@ -23393,6 +23393,22 @@
     ],
     "timestamp": "May/17/2024 08:26"
   },
+  "CF263112222": {
+    "contest_id": 1531,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1531/E3.cpp",
+    "platform": "Codeforces",
+    "problem_index": "E3",
+    "problem_name": "\u0421\u043e\u0440\u0442\u0438\u0440\u043e\u0432\u043a\u0430 \u0441\u043b\u0438\u044f\u043d\u0438\u0435\u043c",
+    "problem_url": "https://codeforces.com/contest/1531/problem/E3",
+    "submission_id": "CF263112222",
+    "submission_url": "https://codeforces.com/contest/1531/submission/263112222",
+    "tags": [
+      "*special problem",
+      "binary search"
+    ],
+    "timestamp": "May/29/2024 14:36"
+  },
   "CF263112295": {
     "contest_id": 494,
     "language": "C++20 (GCC 13-64)",
