@@ -23393,6 +23393,22 @@
     ],
     "timestamp": "May/17/2024 08:26"
   },
+  "CF263134608": {
+    "contest_id": 470,
+    "language": "FALSE",
+    "path": "codeforces/470/E.f",
+    "platform": "Codeforces",
+    "problem_index": "E",
+    "problem_name": "Chessboard",
+    "problem_url": "https://codeforces.com/contest/470/problem/E",
+    "submission_id": "CF263134608",
+    "submission_url": "https://codeforces.com/contest/470/submission/263134608",
+    "tags": [
+      "*special problem",
+      "*1900"
+    ],
+    "timestamp": "May/29/2024 17:42"
+  },
   "CF263134633": {
     "contest_id": 470,
     "language": "FALSE",
