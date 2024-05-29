@@ -23497,6 +23497,21 @@
     "tags": [],
     "timestamp": "May/29/2024 18:32"
   },
+  "CF263147480": {
+    "contest_id": 958,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/958/D2.cpp",
+    "platform": "Codeforces",
+    "problem_index": "D2",
+    "problem_name": "Hyperspace Jump (hard)",
+    "problem_url": "https://codeforces.com/contest/958/problem/D2",
+    "submission_id": "CF263147480",
+    "submission_url": "https://codeforces.com/contest/958/submission/263147480",
+    "tags": [
+      "*2700"
+    ],
+    "timestamp": "May/29/2024 19:23"
+  },
   "CF263147503": {
     "contest_id": 901,
     "language": "C++20 (GCC 13-64)",
