@@ -27654,6 +27654,19 @@
     ],
     "timestamp": "May/29/2024 15:36"
   },
+  "CF263125478": {
+    "contest_id": 1090,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1090/H.cpp",
+    "platform": "Codeforces",
+    "problem_index": "H",
+    "problem_name": "Linearization",
+    "problem_url": "https://codeforces.com/contest/1090/problem/H",
+    "submission_id": "CF263125478",
+    "submission_url": "https://codeforces.com/contest/1090/submission/263125478",
+    "tags": [],
+    "timestamp": "May/29/2024 16:25"
+  },
   "CF263125519": {
     "contest_id": 1090,
     "language": "C++20 (GCC 13-64)",
