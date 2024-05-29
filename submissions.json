@@ -38060,6 +38060,24 @@
     ],
     "timestamp": "May/29/2024 07:10"
   },
+  "CF263074942": {
+    "contest_id": 1340,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1340/F.cpp",
+    "platform": "Codeforces",
+    "problem_index": "F",
+    "problem_name": "Nastya and CBS",
+    "problem_url": "https://codeforces.com/contest/1340/problem/F",
+    "submission_id": "CF263074942",
+    "submission_url": "https://codeforces.com/contest/1340/submission/263074942",
+    "tags": [
+      "brute force",
+      "data structures",
+      "hashing",
+      "*3300"
+    ],
+    "timestamp": "May/29/2024 07:19"
+  },
   "CF263075017": {
     "contest_id": 1326,
     "language": "C++20 (GCC 13-64)",
