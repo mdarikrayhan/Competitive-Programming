@@ -24814,6 +24814,26 @@
     ],
     "timestamp": "May/29/2024 15:36"
   },
+  "CF263128739": {
+    "contest_id": 1895,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1895/G.cpp",
+    "platform": "Codeforces",
+    "problem_index": "G",
+    "problem_name": "Two Characters, Two Colors",
+    "problem_url": "https://codeforces.com/contest/1895/problem/G",
+    "submission_id": "CF263128739",
+    "submission_url": "https://codeforces.com/contest/1895/submission/263128739",
+    "tags": [
+      "binary search",
+      "data structures",
+      "dp",
+      "flows",
+      "greedy",
+      "*3100"
+    ],
+    "timestamp": "May/29/2024 16:53"
+  },
   "CF263128770": {
     "contest_id": 482,
     "language": "C++20 (GCC 13-64)",
