@@ -24814,6 +24814,23 @@
     ],
     "timestamp": "May/29/2024 15:36"
   },
+  "CF263127632": {
+    "contest_id": 982,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/982/F.cpp",
+    "platform": "Codeforces",
+    "problem_index": "F",
+    "problem_name": "The Meeting Place Cannot Be Changed",
+    "problem_url": "https://codeforces.com/contest/982/problem/F",
+    "submission_id": "CF263127632",
+    "submission_url": "https://codeforces.com/contest/982/submission/263127632",
+    "tags": [
+      "dfs and similar",
+      "graphs",
+      "*2700"
+    ],
+    "timestamp": "May/29/2024 16:44"
+  },
   "CF263127659": {
     "contest_id": 641,
     "language": "C++20 (GCC 13-64)",
