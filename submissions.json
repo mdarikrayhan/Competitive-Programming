@@ -23393,6 +23393,25 @@
     ],
     "timestamp": "May/17/2024 08:26"
   },
+  "CF263117582": {
+    "contest_id": 1806,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1806/F1.cpp",
+    "platform": "Codeforces",
+    "problem_index": "F1",
+    "problem_name": "GCD Master (easy version)",
+    "problem_url": "https://codeforces.com/contest/1806/problem/F1",
+    "submission_id": "CF263117582",
+    "submission_url": "https://codeforces.com/contest/1806/submission/263117582",
+    "tags": [
+      "greedy",
+      "math",
+      "number theory",
+      "sortings",
+      "*2900"
+    ],
+    "timestamp": "May/29/2024 15:20"
+  },
   "CF263117596": {
     "contest_id": 1696,
     "language": "C++20 (GCC 13-64)",
