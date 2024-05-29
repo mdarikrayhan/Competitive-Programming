@@ -24814,6 +24814,25 @@
     ],
     "timestamp": "May/29/2024 15:36"
   },
+  "CF263128956": {
+    "contest_id": 1585,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1585/G.cpp",
+    "platform": "Codeforces",
+    "problem_index": "G",
+    "problem_name": "Poachers",
+    "problem_url": "https://codeforces.com/contest/1585/problem/G",
+    "submission_id": "CF263128956",
+    "submission_url": "https://codeforces.com/contest/1585/submission/263128956",
+    "tags": [
+      "dp",
+      "games",
+      "graphs",
+      "trees",
+      "*2500"
+    ],
+    "timestamp": "May/29/2024 16:55"
+  },
   "CF263128999": {
     "contest_id": 1464,
     "language": "C++20 (GCC 13-64)",
