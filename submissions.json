@@ -23393,6 +23393,23 @@
     ],
     "timestamp": "May/17/2024 08:26"
   },
+  "CF263113961": {
+    "contest_id": 1452,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1452/F.cpp",
+    "platform": "Codeforces",
+    "problem_index": "F",
+    "problem_name": "Divide Powers",
+    "problem_url": "https://codeforces.com/contest/1452/problem/F",
+    "submission_id": "CF263113961",
+    "submission_url": "https://codeforces.com/contest/1452/submission/263113961",
+    "tags": [
+      "constructive algorithms",
+      "greedy",
+      "*2900"
+    ],
+    "timestamp": "May/29/2024 14:50"
+  },
   "CF263114104": {
     "contest_id": 240,
     "language": "C++20 (GCC 13-64)",
