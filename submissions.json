@@ -30034,6 +30034,22 @@
     ],
     "timestamp": "May/29/2024 15:36"
   },
+  "CF263122763": {
+    "contest_id": 1268,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1268/E.cpp",
+    "platform": "Codeforces",
+    "problem_index": "E",
+    "problem_name": "Happy Cactus",
+    "problem_url": "https://codeforces.com/contest/1268/problem/E",
+    "submission_id": "CF263122763",
+    "submission_url": "https://codeforces.com/contest/1268/submission/263122763",
+    "tags": [
+      "dp",
+      "*3400"
+    ],
+    "timestamp": "May/29/2024 16:01"
+  },
   "CF263122771": {
     "contest_id": 1510,
     "language": "C++20 (GCC 13-64)",
