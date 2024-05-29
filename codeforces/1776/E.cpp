@@ -1,159 +1,71 @@
-// This Code was made by Chinese_zjc_.
-#include <bits/stdc++.h>
-#define int long long
-// #define debug
-void cmin(int &A, int B) { A = std::min(A, B); }
-const long long lcm = 2520;
-int n, m;
-long long s, v;
-std::vector<std::pair<long long, long long>> e[11];
-struct seg
-{
-    long long sx, sy, ex, ey, k;
-    int val, tmp;
-};
-std::vector<seg> g, cur;
-void add(long long sx, long long sy, long long ex, long long ey)
-{
-    if (sx > ex)
-        return;
-    assert((ex - sx) % (ey - sy) == 0);
-    long long k = (ex - sx) / (ey - sy);
-    for (int i = sy; ++i != ey;)
-    {
-        long long v = (i - sy) * k + sx;
-        std::vector<std::pair<long long, long long>>::iterator iter =
-            std::upper_bound(e[i].begin(), e[i].end(), v,
-                             [&](const long long &A, const std::pair<long long, long long> &B)
-                             { return A < B.second; });
-        if (iter != e[i].end() && iter->first < v)
-            return;
-    }
-    while (sy >= 1)
-    {
-        std::vector<std::pair<long long, long long>>::iterator iter =
-            std::upper_bound(e[sy].begin(), e[sy].end(), sx,
-                             [&](const long long &A, const std::pair<long long, long long> &B)
-                             { return A < B.second; });
-        if (iter != e[sy].end() && iter->first < sx)
-            break;
-        --sy;
-        sx -= k;
-    }
-    while (ey <= m)
-    {
-        std::vector<std::pair<long long, long long>>::iterator iter =
-            std::upper_bound(e[ey].begin(), e[ey].end(), ex,
-                             [&](const long long &A, const std::pair<long long, long long> &B)
-                             { return A < B.second; });
-        if (iter != e[ey].end() && iter->first < ex)
-            break;
-        ++ey;
-        ex += k;
-    }
-    g.push_back({sx, sy, ex, ey, k, sy == 0 && sx >= 0 ? 0 : INT_MAX / 2, INT_MAX / 2});
+#include<bits/stdc++.h>
+#define Gc() getchar() 
+#define Me(x,y) memset(x,y,sizeof(x))
+#define Mc(x,y) memcpy(x,y,sizeof(x))
+#define d(x,y) ((m)*(x-1)+(y))
+#define R(n) (rnd()%(n)+1)
+#define Pc(x) putchar(x)
+#define LB lower_bound
+#define UB upper_bound
+#define PB push_back
+#define fi first
+#define se second
+using ll=long long;using db=double;using lb=long db;using ui=unsigned;using ull=unsigned long long;
+using namespace std;const int N=500+5,M=N*N*4+5,K=39916800,mod=1e9+7,Mod=mod-1;const db eps=1e-9;const int INF=1e9+7;mt19937 rnd(time(0));
+int n,m,r,f[M],g[M];ll v,s,a,b;vector<pair<ll,ll> > S[N];
+pair<int,ll> A[N*3];int Ah;
+struct Line{
+	ll k,b;
+	ll calc(int x){return x*k+b;}
+}B[M];int Bh;
+struct Node{
+	ll x,y,id,op;
+}C[M];
+int Init(Line x,int y){
+	ll p=x.calc(y);if(p<0||p>s) return 1;
+	auto i=LB(S[y].begin(),S[y].end(),make_pair(p,0ll));
+	if(i==S[y].begin()) return 0;
+	i--;return i->fi<p&&p<i->se;
 }
-void solve(std::vector<seg>::iterator l, std::vector<seg>::iterator r)
-{
-    if (r - l <= 1)
-        return;
-    std::vector<seg>::iterator mid = l + (r - l) / 2;
-    solve(l, mid);
-    solve(mid, r);
-    int min = INT_MAX / 2;
-    for (std::vector<seg>::iterator i = l, j = mid; i != mid; ++i)
-    {
-        while (j != r && j->sx <= i->sx)
-            cmin(min, j++->val);
-        cmin(i->tmp, min + 1);
-    }
-    min = INT_MAX / 2;
-    for (std::vector<seg>::iterator i = r, j = mid; i-- != mid;)
-    {
-        while (j != l && std::prev(j)->sx >= i->sx)
-            cmin(min, (--j)->val);
-        cmin(i->tmp, min + 1);
-    }
-    seg tmp[r - l];
-    std::merge(l, mid, mid, r, tmp, [&](const seg &A, const seg &B)
-               { return A.sx < B.sx; });
-    std::copy(tmp, tmp + (r - l), l);
+namespace BIT{
+	ll f[12];
+	void Cl(){Me(f,0x3f);}
+	void Add(ll x,int y){if(y<=m+1) f[y]=min(f[y],x);}
+	int Qry(ll x){for(int i=0;i<=m+1;i++) if(f[i]<=x) return i;return INF;}
 }
-signed main()
-{
-    std::ios::sync_with_stdio(false);
-    std::cin >> n >> m >> s >> v;
-    s -= (m + 1) * v;
-    // std::cout << 0 << ' ' << 0 << std::endl;
-    // std::cout << s << ' ' << m + 1 << std::endl;
-    s *= lcm;
-    for (int i = 1, a, b, r; i <= n; ++i)
-    {
-        std::cin >> a >> b >> r;
-        a -= r * v;
-        b -= r * v;
-        // std::cout << a << ' ' << r << ' ' << b << ' ' << r << std::endl;
-        e[r].push_back({a * lcm, b * lcm});
-    }
-    for (int i = 1; i <= m; ++i)
-        std::sort(e[i].begin(), e[i].end());
-    add(0, 0, 0, 1);
-    add(s, m, s, m + 1);
-    for (int i = 1; i <= m; ++i)
-    {
-        for (auto k : e[i])
-        {
-            add(k.first, i, k.first, i + 1);
-            add(k.second, i, k.second, i + 1);
-            for (int j = i + 1; j <= m; ++j)
-            {
-                for (auto l : e[j])
-                {
-                    add(k.first, i, l.first, j);
-                    add(k.first, i, l.second, j);
-                    add(k.second, i, l.first, j);
-                    add(k.second, i, l.second, j);
-                }
-            }
-        }
-    }
-    // for (auto i : g)
-    //     std::cout << 1. * i.sx / lcm << ' ' << i.sy << ' ' << 1. * i.ex / lcm << ' ' << i.ey << std::endl;
-    std::sort(g.begin(), g.end(), [&](const seg &A, const seg &B)
-              { return A.sy > B.sy; });
-    for (int i = 0; i <= m; ++i)
-    {
-        cur.erase(std::remove_if(cur.begin(), cur.end(), [&](const seg &X)
-                                 { return X.sy == X.ey; }),
-                  cur.end());
-        while (!g.empty() && g.back().sy == i)
-            cur.push_back(g.back()), g.pop_back();
-        std::sort(cur.begin(), cur.end(), [&](const seg &A, const seg &B)
-                  { return A.sx < B.sx; });
-        for (auto &j : cur)
-        {
-            ++j.sy;
-            j.sx += j.k;
-        }
-        // for (std::size_t j = 0; j != cur.size(); ++j)
-        //     for (std::size_t k = 0; k != j; ++k)
-        //         if (cur[k].sx >= cur[j].sx)
-        //         {
-        //             cmin(cur[k].val, cur[j].val + 1);
-        //             if (cur[k].sx == cur[j].sx)
-        //                 cmin(cur[j].val, cur[k].val + 1);
-        //         }
-        solve(cur.begin(), cur.end());
-        for (auto &j : cur)
-            cmin(j.val, j.tmp);
-        // std::cout << i << std::endl;
-        // for (auto &j : cur)
-        //     std::cout << 1. * (j.sx - j.k) / lcm << ' ' << j.sy - 1 << ' ' << 1. * j.ex / lcm << ' ' << j.ey << ' ' << j.val << std::endl;
-    }
-    int ans = INT_MAX / 2;
-    for (auto i : cur)
-        if (i.ex <= s)
-            cmin(ans, i.val);
-    std::cout << (ans == INT_MAX / 2 ? -1 : ans) << std::endl;
-    return 0;
+int main(){
+	int i,j;scanf("%d%d%lld%lld",&n,&m,&s,&v);s*=K;v*=K;s-=(m+1)*v;
+	for(i=1;i<=n;i++) scanf("%lld%lld%d",&a,&b,&r),a*=K,b*=K,a-=r*v,b-=r*v,A[++Ah]={r,a},A[++Ah]={r,b},S[r].PB({a,b});
+	for(i=0;i<=m+1;i++) A[++Ah]={i,0},A[++Ah]={i,s};
+	for(i=1;i<=m;i++){
+		sort(S[i].begin(),S[i].end());
+		vector<pair<ll,ll> > g;
+		for(auto j:S[i]) {
+			if(g.empty()||j.fi>g.back().se) g.PB(j);
+			else if(j.se>g.back().se) g.back().se=j.se;
+		}
+		S[i]=g;
+	}
+	for(i=1;i<=Ah;i++) for(j=1;j<=Ah;j++) if(A[i].fi<A[j].fi&&A[i].se<=A[j].se){
+		B[++Bh].k=(A[j].se-A[i].se)/(A[j].fi-A[i].fi);B[Bh].b=A[i].se-A[i].fi*B[Bh].k;
+	}
+	Me(f,0x3f);
+	for(i=1;i<=Bh;i++) if(!Init(B[i],0)&&!Init(B[i],1)) f[i]=0;
+	for(i=2;i<=m+1;i++){
+		Mc(g,f);Me(f,0x3f);
+		for(j=1;j<=Bh;j++) if(!Init(B[j],i)){
+			f[j]=g[j];C[j]={B[j].calc(i),B[j].calc(i-1),j,1};
+		}else C[j]={B[j].calc(i),B[j].calc(i-1),j,0};
+		sort(C+1,C+Bh+1,[](Node x,Node y){return x.x^y.x?x.x<y.x:x.y>y.y;});
+		BIT::Cl();
+		for(j=1;j<=Bh;j++) {
+			if(C[j].op) f[C[j].id]=min(f[C[j].id],BIT::Qry(-C[j].y));
+			BIT::Add(-C[j].y,g[C[j].id]+1);
+		}
+		BIT::Cl();
+		for(j=Bh;j;j--) {
+			if(C[j].op) f[C[j].id]=min(f[C[j].id],BIT::Qry(C[j].y));
+			BIT::Add(C[j].y,g[C[j].id]+1);
+		}}
+	int ans=INF;for(i=1;i<=Bh;i++) ans=min(ans,f[i]);printf("%d\n",ans>m+1?-1:ans);
 }

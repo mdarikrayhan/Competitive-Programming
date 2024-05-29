@@ -23393,6 +23393,23 @@
     ],
     "timestamp": "May/17/2024 08:26"
   },
+  "CF263150694": {
+    "contest_id": 1776,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1776/E.cpp",
+    "platform": "Codeforces",
+    "problem_index": "E",
+    "problem_name": "Crossing the Railways",
+    "problem_url": "https://codeforces.com/contest/1776/problem/E",
+    "submission_id": "CF263150694",
+    "submission_url": "https://codeforces.com/contest/1776/submission/263150694",
+    "tags": [
+      "data structures",
+      "dp",
+      "*3500"
+    ],
+    "timestamp": "May/29/2024 19:47"
+  },
   "CF263150833": {
     "contest_id": 993,
     "language": "C++20 (GCC 13-64)",
