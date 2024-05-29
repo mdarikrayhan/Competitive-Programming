@@ -23393,6 +23393,24 @@
     ],
     "timestamp": "May/17/2024 08:26"
   },
+  "CF263118412": {
+    "contest_id": 91,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/91/D.cpp",
+    "platform": "Codeforces",
+    "problem_index": "D",
+    "problem_name": "Grocer's Problem",
+    "problem_url": "https://codeforces.com/contest/91/problem/D",
+    "submission_id": "CF263118412",
+    "submission_url": "https://codeforces.com/contest/91/submission/263118412",
+    "tags": [
+      "constructive algorithms",
+      "graphs",
+      "greedy",
+      "*2600"
+    ],
+    "timestamp": "May/29/2024 15:27"
+  },
   "CF263118436": {
     "contest_id": 241,
     "language": "C++20 (GCC 13-64)",
