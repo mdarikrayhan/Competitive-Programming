@@ -30034,6 +30034,24 @@
     ],
     "timestamp": "May/29/2024 15:36"
   },
+  "CF263121942": {
+    "contest_id": 869,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/869/D.cpp",
+    "platform": "Codeforces",
+    "problem_index": "D",
+    "problem_name": "The Overdosing Ubiquity",
+    "problem_url": "https://codeforces.com/contest/869/problem/D",
+    "submission_id": "CF263121942",
+    "submission_url": "https://codeforces.com/contest/869/submission/263121942",
+    "tags": [
+      "brute force",
+      "dfs and similar",
+      "graphs",
+      "*2800"
+    ],
+    "timestamp": "May/29/2024 15:54"
+  },
   "CF263121971": {
     "contest_id": 627,
     "language": "C++20 (GCC 13-64)",
