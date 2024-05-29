@@ -25459,6 +25459,22 @@
     ],
     "timestamp": "May/29/2024 10:15"
   },
+  "CF263084579": {
+    "contest_id": 1912,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1912/H.cpp",
+    "platform": "Codeforces",
+    "problem_index": "H",
+    "problem_name": "Hypercatapult Commute",
+    "problem_url": "https://codeforces.com/contest/1912/problem/H",
+    "submission_id": "CF263084579",
+    "submission_url": "https://codeforces.com/contest/1912/submission/263084579",
+    "tags": [
+      "graphs",
+      "*2400"
+    ],
+    "timestamp": "May/29/2024 10:16"
+  },
   "CF263084592": {
     "contest_id": 1647,
     "language": "C++20 (GCC 13-64)",
