@@ -38716,6 +38716,24 @@
     ],
     "timestamp": "May/29/2024 14:00"
   },
+  "CF263110130": {
+    "contest_id": 794,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/794/G.cpp",
+    "platform": "Codeforces",
+    "problem_index": "G",
+    "problem_name": "Replace All",
+    "problem_url": "https://codeforces.com/contest/794/problem/G",
+    "submission_id": "CF263110130",
+    "submission_url": "https://codeforces.com/contest/794/submission/263110130",
+    "tags": [
+      "combinatorics",
+      "dp",
+      "math",
+      "*3400"
+    ],
+    "timestamp": "May/29/2024 14:19"
+  },
   "CF263110152": {
     "contest_id": 1558,
     "language": "C++20 (GCC 13-64)",
