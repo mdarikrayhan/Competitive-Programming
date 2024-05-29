@@ -39328,6 +39328,27 @@
     ],
     "timestamp": "May/29/2024 11:07"
   },
+  "CF263088291": {
+    "contest_id": 1558,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1558/E.cpp",
+    "platform": "Codeforces",
+    "problem_index": "E",
+    "problem_name": "Down Below",
+    "problem_url": "https://codeforces.com/contest/1558/problem/E",
+    "submission_id": "CF263088291",
+    "submission_url": "https://codeforces.com/contest/1558/submission/263088291",
+    "tags": [
+      "binary search",
+      "dfs and similar",
+      "graphs",
+      "greedy",
+      "meet-in-the-middle",
+      "shortest paths",
+      "*3000"
+    ],
+    "timestamp": "May/29/2024 11:10"
+  },
   "CF263088321": {
     "contest_id": 840,
     "language": "C++20 (GCC 13-64)",
