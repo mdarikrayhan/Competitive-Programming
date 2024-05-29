@@ -23393,6 +23393,24 @@
     ],
     "timestamp": "May/17/2024 08:26"
   },
+  "CF263083419": {
+    "contest_id": 1545,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1545/D.cpp",
+    "platform": "Codeforces",
+    "problem_index": "D",
+    "problem_name": "AquaMoon and Wrong Coordinate",
+    "problem_url": "https://codeforces.com/contest/1545/problem/D",
+    "submission_id": "CF263083419",
+    "submission_url": "https://codeforces.com/contest/1545/submission/263083419",
+    "tags": [
+      "constructive algorithms",
+      "interactive",
+      "math",
+      "*3000"
+    ],
+    "timestamp": "May/29/2024 09:58"
+  },
   "CF263083445": {
     "contest_id": 906,
     "language": "C++20 (GCC 13-64)",
