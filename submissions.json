@@ -23393,6 +23393,23 @@
     ],
     "timestamp": "May/17/2024 08:26"
   },
+  "CF263084673": {
+    "contest_id": 198,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/198/C.cpp",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Delivering Carcinogen",
+    "problem_url": "https://codeforces.com/contest/198/problem/C",
+    "submission_id": "CF263084673",
+    "submission_url": "https://codeforces.com/contest/198/submission/263084673",
+    "tags": [
+      "binary search",
+      "geometry",
+      "*2400"
+    ],
+    "timestamp": "May/29/2024 10:17"
+  },
   "CF263084716": {
     "contest_id": 1493,
     "language": "C++20 (GCC 13-64)",
