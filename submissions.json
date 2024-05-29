@@ -27114,6 +27114,24 @@
     ],
     "timestamp": "May/29/2024 06:34"
   },
+  "CF263073658": {
+    "contest_id": 883,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/883/D.cpp",
+    "platform": "Codeforces",
+    "problem_index": "D",
+    "problem_name": "Packmen Strike Back",
+    "problem_url": "https://codeforces.com/contest/883/problem/D",
+    "submission_id": "CF263073658",
+    "submission_url": "https://codeforces.com/contest/883/submission/263073658",
+    "tags": [
+      "binary search",
+      "dp",
+      "math",
+      "*2500"
+    ],
+    "timestamp": "May/29/2024 06:47"
+  },
   "CF263073665": {
     "contest_id": 883,
     "language": "C++20 (GCC 13-64)",
