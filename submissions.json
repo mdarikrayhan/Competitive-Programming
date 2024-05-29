@@ -23393,6 +23393,24 @@
     ],
     "timestamp": "May/17/2024 08:26"
   },
+  "CF263136042": {
+    "contest_id": 1680,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1680/D.cpp",
+    "platform": "Codeforces",
+    "problem_index": "D",
+    "problem_name": "Dog Walking",
+    "problem_url": "https://codeforces.com/contest/1680/problem/D",
+    "submission_id": "CF263136042",
+    "submission_url": "https://codeforces.com/contest/1680/submission/263136042",
+    "tags": [
+      "brute force",
+      "greedy",
+      "math",
+      "*2400"
+    ],
+    "timestamp": "May/29/2024 17:53"
+  },
   "CF263136055": {
     "contest_id": 1201,
     "language": "C++20 (GCC 13-64)",
