@@ -23497,6 +23497,21 @@
     "tags": [],
     "timestamp": "May/29/2024 18:32"
   },
+  "CF263146576": {
+    "contest_id": 955,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/955/E.cpp",
+    "platform": "Codeforces",
+    "problem_index": "E",
+    "problem_name": "Icicles",
+    "problem_url": "https://codeforces.com/contest/955/problem/E",
+    "submission_id": "CF263146576",
+    "submission_url": "https://codeforces.com/contest/955/submission/263146576",
+    "tags": [
+      "*2900"
+    ],
+    "timestamp": "May/29/2024 19:17"
+  },
   "CF263146608": {
     "contest_id": 690,
     "language": "C++20 (GCC 13-64)",
