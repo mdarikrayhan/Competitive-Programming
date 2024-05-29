@@ -23497,6 +23497,25 @@
     "tags": [],
     "timestamp": "May/29/2024 18:32"
   },
+  "CF263145955": {
+    "contest_id": 1909,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1909/I.cpp",
+    "platform": "Codeforces",
+    "problem_index": "I",
+    "problem_name": "Short Permutation Problem",
+    "problem_url": "https://codeforces.com/contest/1909/problem/I",
+    "submission_id": "CF263145955",
+    "submission_url": "https://codeforces.com/contest/1909/submission/263145955",
+    "tags": [
+      "combinatorics",
+      "dp",
+      "fft",
+      "math",
+      "*1900"
+    ],
+    "timestamp": "May/29/2024 19:12"
+  },
   "CF263146020": {
     "contest_id": 1556,
     "language": "C++20 (GCC 13-64)",
