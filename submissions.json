@@ -24815,6 +24815,24 @@
     ],
     "timestamp": "May/29/2024 10:33"
   },
+  "CF263095557": {
+    "contest_id": 997,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/997/D.cpp",
+    "platform": "Codeforces",
+    "problem_index": "D",
+    "problem_name": "Cycles in product",
+    "problem_url": "https://codeforces.com/contest/997/problem/D",
+    "submission_id": "CF263095557",
+    "submission_url": "https://codeforces.com/contest/997/submission/263095557",
+    "tags": [
+      "combinatorics",
+      "divide and conquer",
+      "trees",
+      "*2900"
+    ],
+    "timestamp": "May/29/2024 12:27"
+  },
   "CF263095601": {
     "contest_id": 855,
     "language": "C++20 (GCC 13-64)",
