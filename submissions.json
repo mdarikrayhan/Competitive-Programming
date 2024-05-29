@@ -23393,6 +23393,24 @@
     ],
     "timestamp": "May/17/2024 08:26"
   },
+  "CF263083621": {
+    "contest_id": 724,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/724/F.cpp",
+    "platform": "Codeforces",
+    "problem_index": "F",
+    "problem_name": "Uniformly Branched Trees",
+    "problem_url": "https://codeforces.com/contest/724/problem/F",
+    "submission_id": "CF263083621",
+    "submission_url": "https://codeforces.com/contest/724/submission/263083621",
+    "tags": [
+      "combinatorics",
+      "dp",
+      "trees",
+      "*2700"
+    ],
+    "timestamp": "May/29/2024 10:01"
+  },
   "CF263083641": {
     "contest_id": 193,
     "language": "C++20 (GCC 13-64)",
