@@ -23393,6 +23393,23 @@
     ],
     "timestamp": "May/17/2024 08:26"
   },
+  "CF263072067": {
+    "contest_id": 367,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/367/D.cpp",
+    "platform": "Codeforces",
+    "problem_index": "D",
+    "problem_name": "Sereja and Sets",
+    "problem_url": "https://codeforces.com/contest/367/problem/D",
+    "submission_id": "CF263072067",
+    "submission_url": "https://codeforces.com/contest/367/submission/263072067",
+    "tags": [
+      "bitmasks",
+      "dfs and similar",
+      "*2400"
+    ],
+    "timestamp": "May/29/2024 06:00"
+  },
   "CF263072122": {
     "contest_id": 1730,
     "language": "C++20 (GCC 13-64)",
