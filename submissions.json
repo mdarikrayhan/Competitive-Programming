@@ -23497,6 +23497,25 @@
     "tags": [],
     "timestamp": "May/29/2024 18:32"
   },
+  "CF263146291": {
+    "contest_id": 1466,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1466/I.cpp",
+    "platform": "Codeforces",
+    "problem_index": "I",
+    "problem_name": "The Riddle of the Sphinx",
+    "problem_url": "https://codeforces.com/contest/1466/problem/I",
+    "submission_id": "CF263146291",
+    "submission_url": "https://codeforces.com/contest/1466/submission/263146291",
+    "tags": [
+      "binary search",
+      "data structures",
+      "data structures",
+      "interactive",
+      "*3400"
+    ],
+    "timestamp": "May/29/2024 19:15"
+  },
   "CF263146340": {
     "contest_id": 736,
     "language": "C++20 (GCC 13-64)",
