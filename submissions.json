@@ -23497,6 +23497,27 @@
     "tags": [],
     "timestamp": "May/29/2024 18:32"
   },
+  "CF263147618": {
+    "contest_id": 1896,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1896/H1.cpp",
+    "platform": "Codeforces",
+    "problem_index": "H1",
+    "problem_name": "Cyclic Hamming (Easy Version)",
+    "problem_url": "https://codeforces.com/contest/1896/problem/H1",
+    "submission_id": "CF263147618",
+    "submission_url": "https://codeforces.com/contest/1896/submission/263147618",
+    "tags": [
+      "brute force",
+      "divide and conquer",
+      "dp",
+      "fft",
+      "math",
+      "number theory",
+      "*3400"
+    ],
+    "timestamp": "May/29/2024 19:24"
+  },
   "CF263147652": {
     "contest_id": 126,
     "language": "C++20 (GCC 13-64)",
