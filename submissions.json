@@ -36948,6 +36948,25 @@
     ],
     "timestamp": "May/29/2024 06:34"
   },
+  "CF263073260": {
+    "contest_id": 1863,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1863/G.cpp",
+    "platform": "Codeforces",
+    "problem_index": "G",
+    "problem_name": "Swaps",
+    "problem_url": "https://codeforces.com/contest/1863/problem/G",
+    "submission_id": "CF263073260",
+    "submission_url": "https://codeforces.com/contest/1863/submission/263073260",
+    "tags": [
+      "combinatorics",
+      "dp",
+      "graphs",
+      "math",
+      "*2800"
+    ],
+    "timestamp": "May/29/2024 06:35"
+  },
   "CF263073268": {
     "contest_id": 912,
     "language": "C++20 (GCC 13-64)",
