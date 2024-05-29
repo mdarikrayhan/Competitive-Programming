@@ -27654,6 +27654,25 @@
     ],
     "timestamp": "May/29/2024 15:36"
   },
+  "CF263126170": {
+    "contest_id": 1336,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1336/F.cpp",
+    "platform": "Codeforces",
+    "problem_index": "F",
+    "problem_name": "Journey",
+    "problem_url": "https://codeforces.com/contest/1336/problem/F",
+    "submission_id": "CF263126170",
+    "submission_url": "https://codeforces.com/contest/1336/submission/263126170",
+    "tags": [
+      "data structures",
+      "divide and conquer",
+      "graphs",
+      "trees",
+      "*3500"
+    ],
+    "timestamp": "May/29/2024 16:30"
+  },
   "CF263126204": {
     "contest_id": 1951,
     "language": "C++20 (GCC 13-64)",
