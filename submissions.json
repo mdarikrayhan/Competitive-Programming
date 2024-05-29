@@ -34491,6 +34491,22 @@
     ],
     "timestamp": "May/29/2024 14:59"
   },
+  "CF263115331": {
+    "contest_id": 1332,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1332/G.cpp",
+    "platform": "Codeforces",
+    "problem_index": "G",
+    "problem_name": "No Monotone Triples",
+    "problem_url": "https://codeforces.com/contest/1332/problem/G",
+    "submission_id": "CF263115331",
+    "submission_url": "https://codeforces.com/contest/1332/submission/263115331",
+    "tags": [
+      "data structures",
+      "*3100"
+    ],
+    "timestamp": "May/29/2024 15:01"
+  },
   "CF263115349": {
     "contest_id": 1776,
     "language": "C++20 (GCC 13-64)",
