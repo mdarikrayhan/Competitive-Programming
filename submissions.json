@@ -27654,6 +27654,24 @@
     ],
     "timestamp": "May/29/2024 15:36"
   },
+  "CF263124955": {
+    "contest_id": 1010,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1010/F.cpp",
+    "platform": "Codeforces",
+    "problem_index": "F",
+    "problem_name": "Tree",
+    "problem_url": "https://codeforces.com/contest/1010/problem/F",
+    "submission_id": "CF263124955",
+    "submission_url": "https://codeforces.com/contest/1010/submission/263124955",
+    "tags": [
+      "fft",
+      "graphs",
+      "trees",
+      "*3400"
+    ],
+    "timestamp": "May/29/2024 16:20"
+  },
   "CF263125064": {
     "contest_id": 774,
     "language": "Java 8",
