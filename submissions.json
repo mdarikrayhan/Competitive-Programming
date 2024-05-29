@@ -24814,6 +24814,25 @@
     ],
     "timestamp": "May/29/2024 15:36"
   },
+  "CF263129036": {
+    "contest_id": 1919,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1919/G.cpp",
+    "platform": "Codeforces",
+    "problem_index": "G",
+    "problem_name": "Tree LGM",
+    "problem_url": "https://codeforces.com/contest/1919/problem/G",
+    "submission_id": "CF263129036",
+    "submission_url": "https://codeforces.com/contest/1919/submission/263129036",
+    "tags": [
+      "constructive algorithms",
+      "divide and conquer",
+      "games",
+      "trees",
+      "*3500"
+    ],
+    "timestamp": "May/29/2024 16:56"
+  },
   "CF263129066": {
     "contest_id": 774,
     "language": "JavaScript",
