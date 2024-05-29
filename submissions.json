@@ -36733,6 +36733,21 @@
     ],
     "timestamp": "May/29/2024 06:20"
   },
+  "CF263072877": {
+    "contest_id": 390,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/390/C.cpp",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Inna and Candy Boxes",
+    "problem_url": "https://codeforces.com/contest/390/problem/C",
+    "submission_id": "CF263072877",
+    "submission_url": "https://codeforces.com/contest/390/submission/263072877",
+    "tags": [
+      "data structures"
+    ],
+    "timestamp": "May/29/2024 06:24"
+  },
   "CF263072923": {
     "contest_id": 1331,
     "language": "C++20 (GCC 13-64)",
