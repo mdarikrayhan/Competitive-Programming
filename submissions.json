@@ -23393,6 +23393,24 @@
     ],
     "timestamp": "May/17/2024 08:26"
   },
+  "CF263135103": {
+    "contest_id": 1423,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1423/C.cpp",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Du\u0161an's Railway",
+    "problem_url": "https://codeforces.com/contest/1423/problem/C",
+    "submission_id": "CF263135103",
+    "submission_url": "https://codeforces.com/contest/1423/submission/263135103",
+    "tags": [
+      "divide and conquer",
+      "graphs",
+      "trees",
+      "*3500"
+    ],
+    "timestamp": "May/29/2024 17:46"
+  },
   "CF263135134": {
     "contest_id": 477,
     "language": "C++20 (GCC 13-64)",
