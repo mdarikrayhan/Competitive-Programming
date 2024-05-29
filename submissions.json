@@ -27654,6 +27654,23 @@
     ],
     "timestamp": "May/29/2024 15:36"
   },
+  "CF263126326": {
+    "contest_id": 792,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/792/F.cpp",
+    "platform": "Codeforces",
+    "problem_index": "F",
+    "problem_name": "Mages and Monsters",
+    "problem_url": "https://codeforces.com/contest/792/problem/F",
+    "submission_id": "CF263126326",
+    "submission_url": "https://codeforces.com/contest/792/submission/263126326",
+    "tags": [
+      "data structures",
+      "geometry",
+      "*3100"
+    ],
+    "timestamp": "May/29/2024 16:32"
+  },
   "CF263126337": {
     "contest_id": 380,
     "language": "C++20 (GCC 13-64)",
