@@ -23393,6 +23393,26 @@
     ],
     "timestamp": "May/17/2024 08:26"
   },
+  "CF263149823": {
+    "contest_id": 865,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/865/F.cpp",
+    "platform": "Codeforces",
+    "problem_index": "F",
+    "problem_name": "Egg Roulette",
+    "problem_url": "https://codeforces.com/contest/865/problem/F",
+    "submission_id": "CF263149823",
+    "submission_url": "https://codeforces.com/contest/865/submission/263149823",
+    "tags": [
+      "bitmasks",
+      "brute force",
+      "divide and conquer",
+      "math",
+      "meet-in-the-middle",
+      "*3300"
+    ],
+    "timestamp": "May/29/2024 19:40"
+  },
   "CF263149921": {
     "contest_id": 1942,
     "language": "C++20 (GCC 13-64)",
