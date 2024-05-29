@@ -38145,6 +38145,23 @@
     ],
     "timestamp": "May/29/2024 07:27"
   },
+  "CF263075360": {
+    "contest_id": 1488,
+    "language": "Kotlin 1.7",
+    "path": "codeforces/1488/I.kt",
+    "platform": "Codeforces",
+    "problem_index": "I",
+    "problem_name": "Demonic Invasion",
+    "problem_url": "https://codeforces.com/contest/1488/problem/I",
+    "submission_id": "CF263075360",
+    "submission_url": "https://codeforces.com/contest/1488/submission/263075360",
+    "tags": [
+      "*special problem",
+      "flows",
+      "*3100"
+    ],
+    "timestamp": "May/29/2024 07:28"
+  },
   "CF263075372": {
     "contest_id": 1488,
     "language": "Kotlin 1.7",
