@@ -24298,6 +24298,25 @@
     ],
     "timestamp": "May/29/2024 08:12"
   },
+  "CF263077559": {
+    "contest_id": 1630,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1630/F.cpp",
+    "platform": "Codeforces",
+    "problem_index": "F",
+    "problem_name": "Making It Bipartite",
+    "problem_url": "https://codeforces.com/contest/1630/problem/F",
+    "submission_id": "CF263077559",
+    "submission_url": "https://codeforces.com/contest/1630/submission/263077559",
+    "tags": [
+      "flows",
+      "graph matchings",
+      "graphs",
+      "number theory",
+      "*3400"
+    ],
+    "timestamp": "May/29/2024 08:18"
+  },
   "CF263077585": {
     "contest_id": 1061,
     "language": "C++20 (GCC 13-64)",
