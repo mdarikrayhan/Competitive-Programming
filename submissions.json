@@ -24298,6 +24298,23 @@
     ],
     "timestamp": "May/29/2024 08:12"
   },
+  "CF263077375": {
+    "contest_id": 1540,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1540/C2.cpp",
+    "platform": "Codeforces",
+    "problem_index": "C2",
+    "problem_name": "Converging Array (Hard Version)",
+    "problem_url": "https://codeforces.com/contest/1540/problem/C2",
+    "submission_id": "CF263077375",
+    "submission_url": "https://codeforces.com/contest/1540/submission/263077375",
+    "tags": [
+      "dp",
+      "math",
+      "*2900"
+    ],
+    "timestamp": "May/29/2024 08:14"
+  },
   "CF263077384": {
     "contest_id": 251,
     "language": "C++20 (GCC 13-64)",
