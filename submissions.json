@@ -24815,6 +24815,27 @@
     ],
     "timestamp": "May/29/2024 10:33"
   },
+  "CF263102874": {
+    "contest_id": 1792,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1792/F2.cpp",
+    "platform": "Codeforces",
+    "problem_index": "F2",
+    "problem_name": "Graph Coloring (hard version)",
+    "problem_url": "https://codeforces.com/contest/1792/problem/F2",
+    "submission_id": "CF263102874",
+    "submission_url": "https://codeforces.com/contest/1792/submission/263102874",
+    "tags": [
+      "brute force",
+      "combinatorics",
+      "divide and conquer",
+      "dp",
+      "fft",
+      "graphs",
+      "*2900"
+    ],
+    "timestamp": "May/29/2024 13:23"
+  },
   "CF263102967": {
     "contest_id": 333,
     "language": "C++20 (GCC 13-64)",
