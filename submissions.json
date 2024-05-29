@@ -23393,6 +23393,24 @@
     ],
     "timestamp": "May/17/2024 08:26"
   },
+  "CF263131650": {
+    "contest_id": 1884,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1884/E.cpp",
+    "platform": "Codeforces",
+    "problem_index": "E",
+    "problem_name": "Hard Design",
+    "problem_url": "https://codeforces.com/contest/1884/problem/E",
+    "submission_id": "CF263131650",
+    "submission_url": "https://codeforces.com/contest/1884/submission/263131650",
+    "tags": [
+      "greedy",
+      "implementation",
+      "math",
+      "*2800"
+    ],
+    "timestamp": "May/29/2024 17:17"
+  },
   "CF263131651": {
     "contest_id": 1615,
     "language": "C++20 (GCC 13-64)",
