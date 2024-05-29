@@ -27654,6 +27654,25 @@
     ],
     "timestamp": "May/29/2024 15:36"
   },
+  "CF263123795": {
+    "contest_id": 1556,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1556/H.cpp",
+    "platform": "Codeforces",
+    "problem_index": "H",
+    "problem_name": "DIY Tree",
+    "problem_url": "https://codeforces.com/contest/1556/problem/H",
+    "submission_id": "CF263123795",
+    "submission_url": "https://codeforces.com/contest/1556/submission/263123795",
+    "tags": [
+      "graphs",
+      "greedy",
+      "math",
+      "probabilities",
+      "*3300"
+    ],
+    "timestamp": "May/29/2024 16:10"
+  },
   "CF263123842": {
     "contest_id": 1192,
     "language": "C++20 (GCC 13-64)",
