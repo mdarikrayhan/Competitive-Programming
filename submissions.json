@@ -35386,6 +35386,22 @@
     ],
     "timestamp": "May/29/2024 15:26"
   },
+  "CF263118276": {
+    "contest_id": 886,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/886/F.cpp",
+    "platform": "Codeforces",
+    "problem_index": "F",
+    "problem_name": "Symmetric Projections",
+    "problem_url": "https://codeforces.com/contest/886/problem/F",
+    "submission_id": "CF263118276",
+    "submission_url": "https://codeforces.com/contest/886/submission/263118276",
+    "tags": [
+      "geometry",
+      "*2900"
+    ],
+    "timestamp": "May/29/2024 15:26"
+  },
   "CF263118319": {
     "contest_id": 1900,
     "language": "C++20 (GCC 13-64)",
