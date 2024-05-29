@@ -27114,6 +27114,24 @@
     ],
     "timestamp": "May/29/2024 06:34"
   },
+  "CF263073348": {
+    "contest_id": 903,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/903/G.cpp",
+    "platform": "Codeforces",
+    "problem_index": "G",
+    "problem_name": "Yet Another Maxflow Problem",
+    "problem_url": "https://codeforces.com/contest/903/problem/G",
+    "submission_id": "CF263073348",
+    "submission_url": "https://codeforces.com/contest/903/submission/263073348",
+    "tags": [
+      "data structures",
+      "flows",
+      "graphs",
+      "*2700"
+    ],
+    "timestamp": "May/29/2024 06:38"
+  },
   "CF263073369": {
     "contest_id": 1677,
     "language": "C++20 (GCC 13-64)",
