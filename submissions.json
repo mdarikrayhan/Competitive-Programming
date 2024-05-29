@@ -23497,6 +23497,24 @@
     "tags": [],
     "timestamp": "May/29/2024 18:32"
   },
+  "CF263146227": {
+    "contest_id": 1218,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1218/G.cpp",
+    "platform": "Codeforces",
+    "problem_index": "G",
+    "problem_name": "Alpha planetary system",
+    "problem_url": "https://codeforces.com/contest/1218/problem/G",
+    "submission_id": "CF263146227",
+    "submission_url": "https://codeforces.com/contest/1218/submission/263146227",
+    "tags": [
+      "constructive algorithms",
+      "graphs",
+      "shortest paths",
+      "*3000"
+    ],
+    "timestamp": "May/29/2024 19:14"
+  },
   "CF263146249": {
     "contest_id": 1934,
     "language": "C++20 (GCC 13-64)",
