@@ -23393,6 +23393,23 @@
     ],
     "timestamp": "May/17/2024 08:26"
   },
+  "CF263131147": {
+    "contest_id": 1012,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1012/F.cpp",
+    "platform": "Codeforces",
+    "problem_index": "F",
+    "problem_name": "Passports",
+    "problem_url": "https://codeforces.com/contest/1012/problem/F",
+    "submission_id": "CF263131147",
+    "submission_url": "https://codeforces.com/contest/1012/submission/263131147",
+    "tags": [
+      "dp",
+      "implementation",
+      "*3400"
+    ],
+    "timestamp": "May/29/2024 17:13"
+  },
   "CF263131178": {
     "contest_id": 317,
     "language": "C++20 (GCC 13-64)",
