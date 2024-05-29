@@ -33073,6 +33073,26 @@
     ],
     "timestamp": "May/29/2024 14:00"
   },
+  "CF263110815": {
+    "contest_id": 518,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/518/F.cpp",
+    "platform": "Codeforces",
+    "problem_index": "F",
+    "problem_name": "Pasha and Pipe",
+    "problem_url": "https://codeforces.com/contest/518/problem/F",
+    "submission_id": "CF263110815",
+    "submission_url": "https://codeforces.com/contest/518/submission/263110815",
+    "tags": [
+      "binary search",
+      "brute force",
+      "combinatorics",
+      "dp",
+      "implementation",
+      "*2300"
+    ],
+    "timestamp": "May/29/2024 14:24"
+  },
   "CF263110877": {
     "contest_id": 1644,
     "language": "C++20 (GCC 13-64)",
