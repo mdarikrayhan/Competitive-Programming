@@ -37591,6 +37591,23 @@
     ],
     "timestamp": "May/29/2024 09:34"
   },
+  "CF263082057": {
+    "contest_id": 1146,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1146/H.cpp",
+    "platform": "Codeforces",
+    "problem_index": "H",
+    "problem_name": "Satanic Panic",
+    "problem_url": "https://codeforces.com/contest/1146/problem/H",
+    "submission_id": "CF263082057",
+    "submission_url": "https://codeforces.com/contest/1146/submission/263082057",
+    "tags": [
+      "dp",
+      "geometry",
+      "*2900"
+    ],
+    "timestamp": "May/29/2024 09:35"
+  },
   "CF263082081": {
     "contest_id": 1906,
     "language": "C++20 (GCC 13-64)",
