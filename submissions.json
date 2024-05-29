@@ -23614,6 +23614,26 @@
     ],
     "timestamp": "May/29/2024 18:38"
   },
+  "CF263142710": {
+    "contest_id": 167,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/167/D.cpp",
+    "platform": "Codeforces",
+    "problem_index": "D",
+    "problem_name": "Wizards and Roads",
+    "problem_url": "https://codeforces.com/contest/167/problem/D",
+    "submission_id": "CF263142710",
+    "submission_url": "https://codeforces.com/contest/167/submission/263142710",
+    "tags": [
+      "data structures",
+      "divide and conquer",
+      "graph matchings",
+      "graphs",
+      "greedy",
+      "*3000"
+    ],
+    "timestamp": "May/29/2024 18:46"
+  },
   "CF263143211": {
     "contest_id": 1210,
     "language": "C++20 (GCC 13-64)",
