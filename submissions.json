@@ -23393,6 +23393,19 @@
     ],
     "timestamp": "May/17/2024 08:26"
   },
+  "CF263140681": {
+    "contest_id": 1089,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1089/C.cpp",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Cactus Search",
+    "problem_url": "https://codeforces.com/contest/1089/problem/C",
+    "submission_id": "CF263140681",
+    "submission_url": "https://codeforces.com/contest/1089/submission/263140681",
+    "tags": [],
+    "timestamp": "May/29/2024 18:30"
+  },
   "CF263140776": {
     "contest_id": 1089,
     "language": "C++20 (GCC 13-64)",
