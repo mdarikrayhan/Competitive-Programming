@@ -33073,6 +33073,25 @@
     ],
     "timestamp": "May/29/2024 14:00"
   },
+  "CF263110222": {
+    "contest_id": 1949,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1949/J.cpp",
+    "platform": "Codeforces",
+    "problem_index": "J",
+    "problem_name": "Amanda the Amoeba",
+    "problem_url": "https://codeforces.com/contest/1949/problem/J",
+    "submission_id": "CF263110222",
+    "submission_url": "https://codeforces.com/contest/1949/submission/263110222",
+    "tags": [
+      "graphs",
+      "implementation",
+      "trees",
+      "two pointers",
+      "*2600"
+    ],
+    "timestamp": "May/29/2024 14:19"
+  },
   "CF263110274": {
     "contest_id": 625,
     "language": "C++20 (GCC 13-64)",
