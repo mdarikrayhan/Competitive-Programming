@@ -23497,6 +23497,23 @@
     "tags": [],
     "timestamp": "May/29/2024 18:32"
   },
+  "CF263145857": {
+    "contest_id": 187,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/187/E.cpp",
+    "platform": "Codeforces",
+    "problem_index": "E",
+    "problem_name": "Heaven Tour",
+    "problem_url": "https://codeforces.com/contest/187/problem/E",
+    "submission_id": "CF263145857",
+    "submission_url": "https://codeforces.com/contest/187/submission/263145857",
+    "tags": [
+      "data structures",
+      "greedy",
+      "*2900"
+    ],
+    "timestamp": "May/29/2024 19:11"
+  },
   "CF263145925": {
     "contest_id": 1667,
     "language": "C++20 (GCC 13-64)",
