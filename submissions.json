@@ -24008,6 +24008,24 @@
     ],
     "timestamp": "May/29/2024 08:05"
   },
+  "CF263076978": {
+    "contest_id": 212,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/212/D.cpp",
+    "platform": "Codeforces",
+    "problem_index": "D",
+    "problem_name": "Cutting a Fence",
+    "problem_url": "https://codeforces.com/contest/212/problem/D",
+    "submission_id": "CF263076978",
+    "submission_url": "https://codeforces.com/contest/212/submission/263076978",
+    "tags": [
+      "binary search",
+      "data structures",
+      "dsu",
+      "*2500"
+    ],
+    "timestamp": "May/29/2024 08:06"
+  },
   "CF263076979": {
     "contest_id": 121,
     "language": "C++20 (GCC 13-64)",
