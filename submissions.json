@@ -27654,6 +27654,25 @@
     ],
     "timestamp": "May/29/2024 15:36"
   },
+  "CF263124024": {
+    "contest_id": 1515,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1515/H.cpp",
+    "platform": "Codeforces",
+    "problem_index": "H",
+    "problem_name": "Phoenix and Bits",
+    "problem_url": "https://codeforces.com/contest/1515/problem/H",
+    "submission_id": "CF263124024",
+    "submission_url": "https://codeforces.com/contest/1515/submission/263124024",
+    "tags": [
+      "bitmasks",
+      "brute force",
+      "data structures",
+      "sortings",
+      "*3500"
+    ],
+    "timestamp": "May/29/2024 16:12"
+  },
   "CF263124063": {
     "contest_id": 1552,
     "language": "C++20 (GCC 13-64)",
