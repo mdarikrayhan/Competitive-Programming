@@ -30034,6 +30034,22 @@
     ],
     "timestamp": "May/29/2024 15:36"
   },
+  "CF263121356": {
+    "contest_id": 1572,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1572/F.cpp",
+    "platform": "Codeforces",
+    "problem_index": "F",
+    "problem_name": "Stations",
+    "problem_url": "https://codeforces.com/contest/1572/problem/F",
+    "submission_id": "CF263121356",
+    "submission_url": "https://codeforces.com/contest/1572/submission/263121356",
+    "tags": [
+      "data structures",
+      "*3400"
+    ],
+    "timestamp": "May/29/2024 15:50"
+  },
   "CF263121389": {
     "contest_id": 1193,
     "language": "C++20 (GCC 13-64)",
