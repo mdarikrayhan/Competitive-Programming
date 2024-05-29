@@ -23393,6 +23393,24 @@
     ],
     "timestamp": "May/17/2024 08:26"
   },
+  "CF263077125": {
+    "contest_id": 1508,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1508/D.cpp",
+    "platform": "Codeforces",
+    "problem_index": "D",
+    "problem_name": "Swap Pass",
+    "problem_url": "https://codeforces.com/contest/1508/problem/D",
+    "submission_id": "CF263077125",
+    "submission_url": "https://codeforces.com/contest/1508/submission/263077125",
+    "tags": [
+      "constructive algorithms",
+      "geometry",
+      "sortings",
+      "*3000"
+    ],
+    "timestamp": "May/29/2024 08:09"
+  },
   "CF263077126": {
     "contest_id": 573,
     "language": "C++20 (GCC 13-64)",
