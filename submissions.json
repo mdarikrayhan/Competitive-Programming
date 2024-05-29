@@ -27654,6 +27654,24 @@
     ],
     "timestamp": "May/29/2024 15:36"
   },
+  "CF263123842": {
+    "contest_id": 1192,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1192/C.cpp",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Cubeword",
+    "problem_url": "https://codeforces.com/contest/1192/problem/C",
+    "submission_id": "CF263123842",
+    "submission_url": "https://codeforces.com/contest/1192/submission/263123842",
+    "tags": [
+      "*special problem",
+      "brute force",
+      "dp",
+      "meet-in-the-middle"
+    ],
+    "timestamp": "May/29/2024 16:10"
+  },
   "CF263123877": {
     "contest_id": 1687,
     "language": "C++20 (GCC 13-64)",
