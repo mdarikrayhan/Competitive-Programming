@@ -23393,6 +23393,22 @@
     ],
     "timestamp": "May/17/2024 08:26"
   },
+  "CF263130938": {
+    "contest_id": 924,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/924/F.cpp",
+    "platform": "Codeforces",
+    "problem_index": "F",
+    "problem_name": "Minimal Subset Difference",
+    "problem_url": "https://codeforces.com/contest/924/problem/F",
+    "submission_id": "CF263130938",
+    "submission_url": "https://codeforces.com/contest/924/submission/263130938",
+    "tags": [
+      "dp",
+      "*3200"
+    ],
+    "timestamp": "May/29/2024 17:11"
+  },
   "CF263130946": {
     "contest_id": 756,
     "language": "C++20 (GCC 13-64)",
