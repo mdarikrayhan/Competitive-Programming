@@ -23393,6 +23393,23 @@
     ],
     "timestamp": "May/17/2024 08:26"
   },
+  "CF263072302": {
+    "contest_id": 1117,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1117/F.cpp",
+    "platform": "Codeforces",
+    "problem_index": "F",
+    "problem_name": "Crisp String",
+    "problem_url": "https://codeforces.com/contest/1117/problem/F",
+    "submission_id": "CF263072302",
+    "submission_url": "https://codeforces.com/contest/1117/submission/263072302",
+    "tags": [
+      "bitmasks",
+      "dp",
+      "*2500"
+    ],
+    "timestamp": "May/29/2024 06:07"
+  },
   "CF263072307": {
     "contest_id": 1889,
     "language": "C++20 (GCC 13-64)",
