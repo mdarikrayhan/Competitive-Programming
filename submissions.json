@@ -24815,6 +24815,23 @@
     ],
     "timestamp": "May/29/2024 10:33"
   },
+  "CF263095601": {
+    "contest_id": 855,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/855/F.cpp",
+    "platform": "Codeforces",
+    "problem_index": "F",
+    "problem_name": "Nagini",
+    "problem_url": "https://codeforces.com/contest/855/problem/F",
+    "submission_id": "CF263095601",
+    "submission_url": "https://codeforces.com/contest/855/submission/263095601",
+    "tags": [
+      "binary search",
+      "data structures",
+      "*3100"
+    ],
+    "timestamp": "May/29/2024 12:28"
+  },
   "CF263095621": {
     "contest_id": 575,
     "language": "C++20 (GCC 13-64)",
