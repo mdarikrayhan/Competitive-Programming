@@ -34491,6 +34491,22 @@
     ],
     "timestamp": "May/29/2024 14:59"
   },
+  "CF263115228": {
+    "contest_id": 1070,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1070/L.cpp",
+    "platform": "Codeforces",
+    "problem_index": "L",
+    "problem_name": "Odd Federalization",
+    "problem_url": "https://codeforces.com/contest/1070/problem/L",
+    "submission_id": "CF263115228",
+    "submission_url": "https://codeforces.com/contest/1070/submission/263115228",
+    "tags": [
+      "constructive algorithms",
+      "*2600"
+    ],
+    "timestamp": "May/29/2024 15:01"
+  },
   "CF263115331": {
     "contest_id": 1332,
     "language": "C++20 (GCC 13-64)",
