@@ -23393,6 +23393,24 @@
     ],
     "timestamp": "May/17/2024 08:26"
   },
+  "CF263085384": {
+    "contest_id": 461,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/461/E.cpp",
+    "platform": "Codeforces",
+    "problem_index": "E",
+    "problem_name": "Appleman and a Game",
+    "problem_url": "https://codeforces.com/contest/461/problem/E",
+    "submission_id": "CF263085384",
+    "submission_url": "https://codeforces.com/contest/461/submission/263085384",
+    "tags": [
+      "binary search",
+      "shortest paths",
+      "strings",
+      "*3000"
+    ],
+    "timestamp": "May/29/2024 10:28"
+  },
   "CF263085468": {
     "contest_id": 1450,
     "language": "C++20 (GCC 13-64)",
