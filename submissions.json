@@ -27654,6 +27654,25 @@
     ],
     "timestamp": "May/29/2024 15:36"
   },
+  "CF263127027": {
+    "contest_id": 468,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/468/E.cpp",
+    "platform": "Codeforces",
+    "problem_index": "E",
+    "problem_name": "Permanent",
+    "problem_url": "https://codeforces.com/contest/468/problem/E",
+    "submission_id": "CF263127027",
+    "submission_url": "https://codeforces.com/contest/468/submission/263127027",
+    "tags": [
+      "dp",
+      "graph matchings",
+      "math",
+      "meet-in-the-middle",
+      "*3100"
+    ],
+    "timestamp": "May/29/2024 16:38"
+  },
   "CF263127033": {
     "contest_id": 1804,
     "language": "C++20 (GCC 13-64)",
