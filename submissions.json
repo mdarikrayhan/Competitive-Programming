@@ -24814,6 +24814,22 @@
     ],
     "timestamp": "May/29/2024 15:36"
   },
+  "CF263128352": {
+    "contest_id": 1242,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1242/D.cpp",
+    "platform": "Codeforces",
+    "problem_index": "D",
+    "problem_name": "Number Discovery",
+    "problem_url": "https://codeforces.com/contest/1242/problem/D",
+    "submission_id": "CF263128352",
+    "submission_url": "https://codeforces.com/contest/1242/submission/263128352",
+    "tags": [
+      "math",
+      "*3400"
+    ],
+    "timestamp": "May/29/2024 16:50"
+  },
   "CF263128445": {
     "contest_id": 1344,
     "language": "C++20 (GCC 13-64)",
