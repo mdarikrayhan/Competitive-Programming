@@ -23393,6 +23393,24 @@
     ],
     "timestamp": "May/17/2024 08:26"
   },
+  "CF263149983": {
+    "contest_id": 1070,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1070/M.cpp",
+    "platform": "Codeforces",
+    "problem_index": "M",
+    "problem_name": "Algoland and Berland",
+    "problem_url": "https://codeforces.com/contest/1070/problem/M",
+    "submission_id": "CF263149983",
+    "submission_url": "https://codeforces.com/contest/1070/submission/263149983",
+    "tags": [
+      "constructive algorithms",
+      "divide and conquer",
+      "geometry",
+      "*3000"
+    ],
+    "timestamp": "May/29/2024 19:42"
+  },
   "CF263150025": {
     "contest_id": 1599,
     "language": "C++20 (GCC 13-64)",
