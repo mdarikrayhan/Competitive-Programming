@@ -38060,6 +38060,25 @@
     ],
     "timestamp": "May/29/2024 07:10"
   },
+  "CF263075058": {
+    "contest_id": 750,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/750/F.cpp",
+    "platform": "Codeforces",
+    "problem_index": "F",
+    "problem_name": "New Year and Finding Roots",
+    "problem_url": "https://codeforces.com/contest/750/problem/F",
+    "submission_id": "CF263075058",
+    "submission_url": "https://codeforces.com/contest/750/submission/263075058",
+    "tags": [
+      "constructive algorithms",
+      "implementation",
+      "interactive",
+      "trees",
+      "*2800"
+    ],
+    "timestamp": "May/29/2024 07:21"
+  },
   "CF263075107": {
     "contest_id": 132,
     "language": "C++20 (GCC 13-64)",
