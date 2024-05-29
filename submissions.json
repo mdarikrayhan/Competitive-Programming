@@ -23497,6 +23497,23 @@
     "tags": [],
     "timestamp": "May/29/2024 18:32"
   },
+  "CF263146270": {
+    "contest_id": 933,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/933/E.cpp",
+    "platform": "Codeforces",
+    "problem_index": "E",
+    "problem_name": "A Preponderant Reunion",
+    "problem_url": "https://codeforces.com/contest/933/problem/E",
+    "submission_id": "CF263146270",
+    "submission_url": "https://codeforces.com/contest/933/submission/263146270",
+    "tags": [
+      "constructive algorithms",
+      "dp",
+      "*3200"
+    ],
+    "timestamp": "May/29/2024 19:14"
+  },
   "CF263146291": {
     "contest_id": 1466,
     "language": "C++20 (GCC 13-64)",
