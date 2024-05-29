@@ -23393,6 +23393,24 @@
     ],
     "timestamp": "May/17/2024 08:26"
   },
+  "CF263112560": {
+    "contest_id": 294,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/294/D.cpp",
+    "platform": "Codeforces",
+    "problem_index": "D",
+    "problem_name": "Shaass and Painter Robot",
+    "problem_url": "https://codeforces.com/contest/294/problem/D",
+    "submission_id": "CF263112560",
+    "submission_url": "https://codeforces.com/contest/294/submission/263112560",
+    "tags": [
+      "brute force",
+      "implementation",
+      "number theory",
+      "*2500"
+    ],
+    "timestamp": "May/29/2024 14:39"
+  },
   "CF263112582": {
     "contest_id": 774,
     "language": "Python 3",
