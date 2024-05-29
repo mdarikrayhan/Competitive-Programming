@@ -27114,6 +27114,23 @@
     ],
     "timestamp": "May/29/2024 06:34"
   },
+  "CF263073750": {
+    "contest_id": 1346,
+    "language": "Kotlin 1.7",
+    "path": "codeforces/1346/B.kt",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Boot Camp",
+    "problem_url": "https://codeforces.com/contest/1346/problem/B",
+    "submission_id": "CF263073750",
+    "submission_url": "https://codeforces.com/contest/1346/submission/263073750",
+    "tags": [
+      "*special problem",
+      "greedy",
+      "*1400"
+    ],
+    "timestamp": "May/29/2024 06:50"
+  },
   "CF263073756": {
     "contest_id": 1346,
     "language": "Kotlin 1.7",
