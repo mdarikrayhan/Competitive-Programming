@@ -23393,6 +23393,23 @@
     ],
     "timestamp": "May/17/2024 08:26"
   },
+  "CF263134266": {
+    "contest_id": 744,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/744/E.cpp",
+    "platform": "Codeforces",
+    "problem_index": "E",
+    "problem_name": "Hongcow Masters the Cyclic Shift",
+    "problem_url": "https://codeforces.com/contest/744/problem/E",
+    "submission_id": "CF263134266",
+    "submission_url": "https://codeforces.com/contest/744/submission/263134266",
+    "tags": [
+      "strings",
+      "two pointers",
+      "*3200"
+    ],
+    "timestamp": "May/29/2024 17:39"
+  },
   "CF263134297": {
     "contest_id": 1844,
     "language": "C++20 (GCC 13-64)",
