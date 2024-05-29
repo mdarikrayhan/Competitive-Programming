@@ -27418,6 +27418,22 @@
     ],
     "timestamp": "May/29/2024 07:02"
   },
+  "CF263074539": {
+    "contest_id": 425,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/425/E.cpp",
+    "platform": "Codeforces",
+    "problem_index": "E",
+    "problem_name": "Sereja and Sets",
+    "problem_url": "https://codeforces.com/contest/425/problem/E",
+    "submission_id": "CF263074539",
+    "submission_url": "https://codeforces.com/contest/425/submission/263074539",
+    "tags": [
+      "dp",
+      "*2500"
+    ],
+    "timestamp": "May/29/2024 07:09"
+  },
   "CF263074565": {
     "contest_id": 70,
     "language": "C++20 (GCC 13-64)",
