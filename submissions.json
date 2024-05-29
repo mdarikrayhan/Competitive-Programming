@@ -24298,6 +24298,25 @@
     ],
     "timestamp": "May/29/2024 08:12"
   },
+  "CF263077924": {
+    "contest_id": 1610,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1610/H.cpp",
+    "platform": "Codeforces",
+    "problem_index": "H",
+    "problem_name": "Squid Game",
+    "problem_url": "https://codeforces.com/contest/1610/problem/H",
+    "submission_id": "CF263077924",
+    "submission_url": "https://codeforces.com/contest/1610/submission/263077924",
+    "tags": [
+      "data structures",
+      "dfs and similar",
+      "greedy",
+      "trees",
+      "*3100"
+    ],
+    "timestamp": "May/29/2024 08:26"
+  },
   "CF263077966": {
     "contest_id": 1728,
     "language": "C++20 (GCC 13-64)",
