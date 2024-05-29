@@ -23497,6 +23497,23 @@
     "tags": [],
     "timestamp": "May/29/2024 18:32"
   },
+  "CF263144761": {
+    "contest_id": 1184,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1184/D2.cpp",
+    "platform": "Codeforces",
+    "problem_index": "D2",
+    "problem_name": "Parallel Universes (Hard)",
+    "problem_url": "https://codeforces.com/contest/1184/problem/D2",
+    "submission_id": "CF263144761",
+    "submission_url": "https://codeforces.com/contest/1184/submission/263144761",
+    "tags": [
+      "math",
+      "matrices",
+      "*3100"
+    ],
+    "timestamp": "May/29/2024 19:03"
+  },
   "CF263144790": {
     "contest_id": 1381,
     "language": "C++20 (GCC 13-64)",
