@@ -36733,6 +36733,24 @@
     ],
     "timestamp": "May/29/2024 06:20"
   },
+  "CF263073004": {
+    "contest_id": 566,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/566/E.cpp",
+    "platform": "Codeforces",
+    "problem_index": "E",
+    "problem_name": "Restoring Map",
+    "problem_url": "https://codeforces.com/contest/566/problem/E",
+    "submission_id": "CF263073004",
+    "submission_url": "https://codeforces.com/contest/566/submission/263073004",
+    "tags": [
+      "bitmasks",
+      "constructive algorithms",
+      "trees",
+      "*3200"
+    ],
+    "timestamp": "May/29/2024 06:28"
+  },
   "CF263073008": {
     "contest_id": 1819,
     "language": "C++20 (GCC 13-64)",
