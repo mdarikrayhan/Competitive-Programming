@@ -38585,6 +38585,25 @@
     ],
     "timestamp": "May/29/2024 07:52"
   },
+  "CF263076352": {
+    "contest_id": 1452,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1452/G.cpp",
+    "platform": "Codeforces",
+    "problem_index": "G",
+    "problem_name": "Game On Tree",
+    "problem_url": "https://codeforces.com/contest/1452/problem/G",
+    "submission_id": "CF263076352",
+    "submission_url": "https://codeforces.com/contest/1452/submission/263076352",
+    "tags": [
+      "data structures",
+      "dfs and similar",
+      "greedy",
+      "trees",
+      "*2700"
+    ],
+    "timestamp": "May/29/2024 07:53"
+  },
   "CF263076362": {
     "contest_id": 1663,
     "language": "C++20 (GCC 13-64)",
