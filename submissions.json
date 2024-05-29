@@ -30034,6 +30034,22 @@
     ],
     "timestamp": "May/29/2024 15:36"
   },
+  "CF263122277": {
+    "contest_id": 1666,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1666/K.cpp",
+    "platform": "Codeforces",
+    "problem_index": "K",
+    "problem_name": "Kingdom Partition",
+    "problem_url": "https://codeforces.com/contest/1666/problem/K",
+    "submission_id": "CF263122277",
+    "submission_url": "https://codeforces.com/contest/1666/submission/263122277",
+    "tags": [
+      "flows",
+      "*3200"
+    ],
+    "timestamp": "May/29/2024 15:57"
+  },
   "CF263122307": {
     "contest_id": 1338,
     "language": "C++20 (GCC 13-64)",
