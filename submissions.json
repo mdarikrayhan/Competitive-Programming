@@ -23393,6 +23393,22 @@
     ],
     "timestamp": "May/17/2024 08:26"
   },
+  "CF263131283": {
+    "contest_id": 1210,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1210/G.cpp",
+    "platform": "Codeforces",
+    "problem_index": "G",
+    "problem_name": "Mateusz and Escape Room",
+    "problem_url": "https://codeforces.com/contest/1210/problem/G",
+    "submission_id": "CF263131283",
+    "submission_url": "https://codeforces.com/contest/1210/submission/263131283",
+    "tags": [
+      "dp",
+      "*3500"
+    ],
+    "timestamp": "May/29/2024 17:14"
+  },
   "CF263131304": {
     "contest_id": 1799,
     "language": "C++20 (GCC 13-64)",
