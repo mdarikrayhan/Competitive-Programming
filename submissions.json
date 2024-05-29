@@ -23393,6 +23393,23 @@
     ],
     "timestamp": "May/17/2024 08:26"
   },
+  "CF263132460": {
+    "contest_id": 717,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/717/B.cpp",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "R3D3\u2019s Summer Adventure",
+    "problem_url": "https://codeforces.com/contest/717/problem/B",
+    "submission_id": "CF263132460",
+    "submission_url": "https://codeforces.com/contest/717/submission/263132460",
+    "tags": [
+      "dp",
+      "greedy",
+      "*2700"
+    ],
+    "timestamp": "May/29/2024 17:24"
+  },
   "CF263132503": {
     "contest_id": 1264,
     "language": "C++20 (GCC 13-64)",
