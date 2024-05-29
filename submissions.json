@@ -38694,6 +38694,23 @@
     ],
     "timestamp": "May/29/2024 07:10"
   },
+  "CF263074721": {
+    "contest_id": 101,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/101/E.cpp",
+    "platform": "Codeforces",
+    "problem_index": "E",
+    "problem_name": "Candies and Stones",
+    "problem_url": "https://codeforces.com/contest/101/problem/E",
+    "submission_id": "CF263074721",
+    "submission_url": "https://codeforces.com/contest/101/submission/263074721",
+    "tags": [
+      "divide and conquer",
+      "dp",
+      "*2500"
+    ],
+    "timestamp": "May/29/2024 07:13"
+  },
   "CF263074733": {
     "contest_id": 407,
     "language": "C++20 (GCC 13-64)",
