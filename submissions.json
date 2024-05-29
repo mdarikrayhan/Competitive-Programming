@@ -23393,6 +23393,24 @@
     ],
     "timestamp": "May/17/2024 08:26"
   },
+  "CF263138389": {
+    "contest_id": 774,
+    "language": "Kotlin 1.7",
+    "path": "codeforces/774/E.kt",
+    "platform": "Codeforces",
+    "problem_index": "E",
+    "problem_name": "Big Number and Remainder",
+    "problem_url": "https://codeforces.com/contest/774/problem/E",
+    "submission_id": "CF263138389",
+    "submission_url": "https://codeforces.com/contest/774/submission/263138389",
+    "tags": [
+      "*special problem",
+      "math",
+      "number theory",
+      "*2300"
+    ],
+    "timestamp": "May/29/2024 18:12"
+  },
   "CF263138520": {
     "contest_id": 774,
     "language": "Perl",
