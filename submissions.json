@@ -23393,6 +23393,22 @@
     ],
     "timestamp": "May/17/2024 08:26"
   },
+  "CF263130714": {
+    "contest_id": 1874,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1874/F.cpp",
+    "platform": "Codeforces",
+    "problem_index": "F",
+    "problem_name": "Jellyfish and OEIS",
+    "problem_url": "https://codeforces.com/contest/1874/problem/F",
+    "submission_id": "CF263130714",
+    "submission_url": "https://codeforces.com/contest/1874/submission/263130714",
+    "tags": [
+      "dp",
+      "*3500"
+    ],
+    "timestamp": "May/29/2024 17:10"
+  },
   "CF263130828": {
     "contest_id": 1758,
     "language": "C++20 (GCC 13-64)",
