@@ -27654,6 +27654,23 @@
     ],
     "timestamp": "May/29/2024 15:36"
   },
+  "CF263124479": {
+    "contest_id": 1500,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1500/E.cpp",
+    "platform": "Codeforces",
+    "problem_index": "E",
+    "problem_name": "Subset Trick",
+    "problem_url": "https://codeforces.com/contest/1500/problem/E",
+    "submission_id": "CF263124479",
+    "submission_url": "https://codeforces.com/contest/1500/submission/263124479",
+    "tags": [
+      "binary search",
+      "data structures",
+      "*3300"
+    ],
+    "timestamp": "May/29/2024 16:16"
+  },
   "CF263124765": {
     "contest_id": 575,
     "language": "C++20 (GCC 13-64)",
