@@ -23393,6 +23393,24 @@
     ],
     "timestamp": "May/17/2024 08:26"
   },
+  "CF263117341": {
+    "contest_id": 93,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/93/D.cpp",
+    "platform": "Codeforces",
+    "problem_index": "D",
+    "problem_name": "Flags",
+    "problem_url": "https://codeforces.com/contest/93/problem/D",
+    "submission_id": "CF263117341",
+    "submission_url": "https://codeforces.com/contest/93/submission/263117341",
+    "tags": [
+      "dp",
+      "math",
+      "matrices",
+      "*2500"
+    ],
+    "timestamp": "May/29/2024 15:18"
+  },
   "CF263117354": {
     "contest_id": 457,
     "language": "C++20 (GCC 13-64)",
