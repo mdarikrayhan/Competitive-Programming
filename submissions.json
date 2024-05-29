@@ -25733,6 +25733,24 @@
     "tags": [],
     "timestamp": "May/29/2024 10:57"
   },
+  "CF263088035": {
+    "contest_id": 538,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/538/G.cpp",
+    "platform": "Codeforces",
+    "problem_index": "G",
+    "problem_name": "Berserk Robot ",
+    "problem_url": "https://codeforces.com/contest/538/problem/G",
+    "submission_id": "CF263088035",
+    "submission_url": "https://codeforces.com/contest/538/submission/263088035",
+    "tags": [
+      "constructive algorithms",
+      "math",
+      "sortings",
+      "*3100"
+    ],
+    "timestamp": "May/29/2024 11:06"
+  },
   "CF263088059": {
     "contest_id": 771,
     "language": "C++20 (GCC 13-64)",
