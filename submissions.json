@@ -37260,6 +37260,24 @@
     ],
     "timestamp": "May/29/2024 09:03"
   },
+  "CF263080250": {
+    "contest_id": 1054,
+    "language": "C++17 (GCC 7-32)",
+    "path": "codeforces/1054/E.cpp",
+    "platform": "Codeforces",
+    "problem_index": "E",
+    "problem_name": "Chips Puzzle",
+    "problem_url": "https://codeforces.com/contest/1054/problem/E",
+    "submission_id": "CF263080250",
+    "submission_url": "https://codeforces.com/contest/1054/submission/263080250",
+    "tags": [
+      "constructive algorithms",
+      "implementation",
+      "math",
+      "*2400"
+    ],
+    "timestamp": "May/29/2024 09:06"
+  },
   "CF263081018": {
     "contest_id": 1090,
     "language": "C++17 (GCC 7-32)",
