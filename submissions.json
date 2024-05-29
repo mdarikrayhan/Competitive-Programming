@@ -23393,6 +23393,23 @@
     ],
     "timestamp": "May/17/2024 08:26"
   },
+  "CF263131178": {
+    "contest_id": 317,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/317/E.cpp",
+    "platform": "Codeforces",
+    "problem_index": "E",
+    "problem_name": "Princess and Her Shadow",
+    "problem_url": "https://codeforces.com/contest/317/problem/E",
+    "submission_id": "CF263131178",
+    "submission_url": "https://codeforces.com/contest/317/submission/263131178",
+    "tags": [
+      "constructive algorithms",
+      "shortest paths",
+      "*3100"
+    ],
+    "timestamp": "May/29/2024 17:13"
+  },
   "CF263131214": {
     "contest_id": 852,
     "language": "C++20 (GCC 13-64)",
