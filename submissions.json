@@ -23393,6 +23393,23 @@
     ],
     "timestamp": "May/17/2024 08:26"
   },
+  "CF263073215": {
+    "contest_id": 568,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/568/E.cpp",
+    "platform": "Codeforces",
+    "problem_index": "E",
+    "problem_name": "Longest Increasing Subsequence",
+    "problem_url": "https://codeforces.com/contest/568/problem/E",
+    "submission_id": "CF263073215",
+    "submission_url": "https://codeforces.com/contest/568/submission/263073215",
+    "tags": [
+      "data structures",
+      "dp",
+      "*3000"
+    ],
+    "timestamp": "May/29/2024 06:34"
+  },
   "CF263073232": {
     "contest_id": 1028,
     "language": "C++20 (GCC 13-64)",
