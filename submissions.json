@@ -23393,6 +23393,24 @@
     ],
     "timestamp": "May/17/2024 08:26"
   },
+  "CF263116766": {
+    "contest_id": 238,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/238/E.cpp",
+    "platform": "Codeforces",
+    "problem_index": "E",
+    "problem_name": "Meeting Her",
+    "problem_url": "https://codeforces.com/contest/238/problem/E",
+    "submission_id": "CF263116766",
+    "submission_url": "https://codeforces.com/contest/238/submission/263116766",
+    "tags": [
+      "dp",
+      "graphs",
+      "shortest paths",
+      "*2600"
+    ],
+    "timestamp": "May/29/2024 15:13"
+  },
   "CF263116784": {
     "contest_id": 220,
     "language": "C++20 (GCC 13-64)",
