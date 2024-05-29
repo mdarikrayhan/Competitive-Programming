@@ -24298,6 +24298,24 @@
     ],
     "timestamp": "May/29/2024 08:12"
   },
+  "CF263082081": {
+    "contest_id": 1906,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1906/B.cpp",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Button Pressing",
+    "problem_url": "https://codeforces.com/contest/1906/problem/B",
+    "submission_id": "CF263082081",
+    "submission_url": "https://codeforces.com/contest/1906/submission/263082081",
+    "tags": [
+      "bitmasks",
+      "constructive algorithms",
+      "hashing",
+      "*2600"
+    ],
+    "timestamp": "May/29/2024 09:35"
+  },
   "CF263082119": {
     "contest_id": 1523,
     "language": "C++20 (GCC 13-64)",
