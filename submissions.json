@@ -39328,6 +39328,22 @@
     ],
     "timestamp": "May/29/2024 11:07"
   },
+  "CF263088126": {
+    "contest_id": 803,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/803/G.cpp",
+    "platform": "Codeforces",
+    "problem_index": "G",
+    "problem_name": "Periodic RMQ Problem",
+    "problem_url": "https://codeforces.com/contest/803/problem/G",
+    "submission_id": "CF263088126",
+    "submission_url": "https://codeforces.com/contest/803/submission/263088126",
+    "tags": [
+      "data structures",
+      "*2300"
+    ],
+    "timestamp": "May/29/2024 11:08"
+  },
   "CF263088216": {
     "contest_id": 354,
     "language": "C++14 (GCC 6-32)",
