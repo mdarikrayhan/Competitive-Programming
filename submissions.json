@@ -24814,6 +24814,23 @@
     ],
     "timestamp": "May/29/2024 15:36"
   },
+  "CF263129066": {
+    "contest_id": 774,
+    "language": "JavaScript",
+    "path": "codeforces/774/A.js",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Amusement Park",
+    "problem_url": "https://codeforces.com/contest/774/problem/A",
+    "submission_id": "CF263129066",
+    "submission_url": "https://codeforces.com/contest/774/submission/263129066",
+    "tags": [
+      "*special problem",
+      "ternary search",
+      "*2100"
+    ],
+    "timestamp": "May/29/2024 16:56"
+  },
   "CF263129068": {
     "contest_id": 1784,
     "language": "C++20 (GCC 13-64)",
