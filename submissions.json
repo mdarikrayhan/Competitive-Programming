@@ -23393,6 +23393,23 @@
     ],
     "timestamp": "May/17/2024 08:26"
   },
+  "CF263072552": {
+    "contest_id": 215,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/215/C.cpp",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Crosses",
+    "problem_url": "https://codeforces.com/contest/215/problem/C",
+    "submission_id": "CF263072552",
+    "submission_url": "https://codeforces.com/contest/215/submission/263072552",
+    "tags": [
+      "brute force",
+      "implementation",
+      "*2100"
+    ],
+    "timestamp": "May/29/2024 06:14"
+  },
   "CF263072562": {
     "contest_id": 1697,
     "language": "C++20 (GCC 13-64)",
