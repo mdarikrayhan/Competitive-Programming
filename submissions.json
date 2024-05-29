@@ -38534,6 +38534,22 @@
     ],
     "timestamp": "May/29/2024 07:47"
   },
+  "CF263076139": {
+    "contest_id": 656,
+    "language": "Ruby 3",
+    "path": "codeforces/656/G.rb",
+    "platform": "Codeforces",
+    "problem_index": "G",
+    "problem_name": "You're a Professional",
+    "problem_url": "https://codeforces.com/contest/656/problem/G",
+    "submission_id": "CF263076139",
+    "submission_url": "https://codeforces.com/contest/656/submission/263076139",
+    "tags": [
+      "*special problem",
+      "*1900"
+    ],
+    "timestamp": "May/29/2024 07:48"
+  },
   "CF263076140": {
     "contest_id": 359,
     "language": "C++20 (GCC 13-64)",
