@@ -24298,6 +24298,22 @@
     ],
     "timestamp": "May/29/2024 08:12"
   },
+  "CF263081802": {
+    "contest_id": 1172,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1172/F.cpp",
+    "platform": "Codeforces",
+    "problem_index": "F",
+    "problem_name": "Nauuo and Bug",
+    "problem_url": "https://codeforces.com/contest/1172/problem/F",
+    "submission_id": "CF263081802",
+    "submission_url": "https://codeforces.com/contest/1172/submission/263081802",
+    "tags": [
+      "data structures",
+      "*3300"
+    ],
+    "timestamp": "May/29/2024 09:30"
+  },
   "CF263081833": {
     "contest_id": 1495,
     "language": "C++20 (GCC 13-64)",
