@@ -30034,6 +30034,25 @@
     ],
     "timestamp": "May/29/2024 15:36"
   },
+  "CF263121771": {
+    "contest_id": 1292,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1292/E.cpp",
+    "platform": "Codeforces",
+    "problem_index": "E",
+    "problem_name": "Rin and The Unknown Flower",
+    "problem_url": "https://codeforces.com/contest/1292/problem/E",
+    "submission_id": "CF263121771",
+    "submission_url": "https://codeforces.com/contest/1292/submission/263121771",
+    "tags": [
+      "constructive algorithms",
+      "greedy",
+      "interactive",
+      "math",
+      "*3500"
+    ],
+    "timestamp": "May/29/2024 15:53"
+  },
   "CF263121772": {
     "contest_id": 1684,
     "language": "C++20 (GCC 13-64)",
