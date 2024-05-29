@@ -23393,6 +23393,24 @@
     ],
     "timestamp": "May/17/2024 08:26"
   },
+  "CF263072321": {
+    "contest_id": 321,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/321/D.cpp",
+    "platform": "Codeforces",
+    "problem_index": "D",
+    "problem_name": "Ciel and Flipboard",
+    "problem_url": "https://codeforces.com/contest/321/problem/D",
+    "submission_id": "CF263072321",
+    "submission_url": "https://codeforces.com/contest/321/submission/263072321",
+    "tags": [
+      "dp",
+      "greedy",
+      "math",
+      "*2900"
+    ],
+    "timestamp": "May/29/2024 06:07"
+  },
   "CF263072342": {
     "contest_id": 1225,
     "language": "C++20 (GCC 13-64)",
