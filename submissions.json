@@ -23393,6 +23393,23 @@
     ],
     "timestamp": "May/17/2024 08:26"
   },
+  "CF263135732": {
+    "contest_id": 1738,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1738/H.cpp",
+    "platform": "Codeforces",
+    "problem_index": "H",
+    "problem_name": "Palindrome Addicts",
+    "problem_url": "https://codeforces.com/contest/1738/problem/H",
+    "submission_id": "CF263135732",
+    "submission_url": "https://codeforces.com/contest/1738/submission/263135732",
+    "tags": [
+      "data structures",
+      "strings",
+      "*3300"
+    ],
+    "timestamp": "May/29/2024 17:51"
+  },
   "CF263135785": {
     "contest_id": 1662,
     "language": "C++20 (GCC 13-64)",
