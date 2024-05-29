@@ -27654,6 +27654,19 @@
     ],
     "timestamp": "May/29/2024 15:36"
   },
+  "CF263125331": {
+    "contest_id": 1090,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1090/E.cpp",
+    "platform": "Codeforces",
+    "problem_index": "E",
+    "problem_name": "Horseback Riding",
+    "problem_url": "https://codeforces.com/contest/1090/problem/E",
+    "submission_id": "CF263125331",
+    "submission_url": "https://codeforces.com/contest/1090/submission/263125331",
+    "tags": [],
+    "timestamp": "May/29/2024 16:23"
+  },
   "CF263125378": {
     "contest_id": 1090,
     "language": "C++20 (GCC 13-64)",
