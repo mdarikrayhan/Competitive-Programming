@@ -30034,6 +30034,23 @@
     ],
     "timestamp": "May/29/2024 15:36"
   },
+  "CF263122787": {
+    "contest_id": 164,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/164/D.cpp",
+    "platform": "Codeforces",
+    "problem_index": "D",
+    "problem_name": "Minimum Diameter",
+    "problem_url": "https://codeforces.com/contest/164/problem/D",
+    "submission_id": "CF263122787",
+    "submission_url": "https://codeforces.com/contest/164/submission/263122787",
+    "tags": [
+      "binary search",
+      "brute force",
+      "*3100"
+    ],
+    "timestamp": "May/29/2024 16:02"
+  },
   "CF263122852": {
     "contest_id": 411,
     "language": "C++20 (GCC 13-64)",
