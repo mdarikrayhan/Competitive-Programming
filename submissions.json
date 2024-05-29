@@ -23393,6 +23393,23 @@
     ],
     "timestamp": "May/17/2024 08:26"
   },
+  "CF263076828": {
+    "contest_id": 700,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/700/D.cpp",
+    "platform": "Codeforces",
+    "problem_index": "D",
+    "problem_name": "Huffman Coding on Segment",
+    "problem_url": "https://codeforces.com/contest/700/problem/D",
+    "submission_id": "CF263076828",
+    "submission_url": "https://codeforces.com/contest/700/submission/263076828",
+    "tags": [
+      "data structures",
+      "greedy",
+      "*3100"
+    ],
+    "timestamp": "May/29/2024 08:03"
+  },
   "CF263076854": {
     "contest_id": 480,
     "language": "C++20 (GCC 13-64)",
