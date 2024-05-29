@@ -24298,6 +24298,23 @@
     ],
     "timestamp": "May/29/2024 08:12"
   },
+  "CF263077585": {
+    "contest_id": 1061,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1061/E.cpp",
+    "platform": "Codeforces",
+    "problem_index": "E",
+    "problem_name": "Politics",
+    "problem_url": "https://codeforces.com/contest/1061/problem/E",
+    "submission_id": "CF263077585",
+    "submission_url": "https://codeforces.com/contest/1061/submission/263077585",
+    "tags": [
+      "flows",
+      "graphs",
+      "*2600"
+    ],
+    "timestamp": "May/29/2024 08:19"
+  },
   "CF263077596": {
     "contest_id": 250,
     "language": "C++20 (GCC 13-64)",
