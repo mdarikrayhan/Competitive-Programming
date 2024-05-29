@@ -23393,6 +23393,19 @@
     ],
     "timestamp": "May/17/2024 08:26"
   },
+  "CF263170152": {
+    "contest_id": 1357,
+    "language": "Q#",
+    "path": "codeforces/1357/A1.qs",
+    "platform": "Codeforces",
+    "problem_index": "A1",
+    "problem_name": "Figure out direction of CNOT",
+    "problem_url": "https://codeforces.com/contest/1357/problem/A1",
+    "submission_id": "CF263170152",
+    "submission_url": "https://codeforces.com/contest/1357/submission/263170152",
+    "tags": [],
+    "timestamp": "May/29/2024 22:59"
+  },
   "CF263170161": {
     "contest_id": 1357,
     "language": "Q#",
