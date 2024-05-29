@@ -23393,6 +23393,22 @@
     ],
     "timestamp": "May/17/2024 08:26"
   },
+  "CF263131979": {
+    "contest_id": 38,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/38/H.cpp",
+    "platform": "Codeforces",
+    "problem_index": "H",
+    "problem_name": "The Great Marathon",
+    "problem_url": "https://codeforces.com/contest/38/problem/H",
+    "submission_id": "CF263131979",
+    "submission_url": "https://codeforces.com/contest/38/submission/263131979",
+    "tags": [
+      "dp",
+      "*2400"
+    ],
+    "timestamp": "May/29/2024 17:20"
+  },
   "CF263132039": {
     "contest_id": 960,
     "language": "C++20 (GCC 13-64)",
