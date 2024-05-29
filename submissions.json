@@ -27418,6 +27418,26 @@
     ],
     "timestamp": "May/29/2024 07:02"
   },
+  "CF263074517": {
+    "contest_id": 424,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/424/D.cpp",
+    "platform": "Codeforces",
+    "problem_index": "D",
+    "problem_name": "Biathlon Track",
+    "problem_url": "https://codeforces.com/contest/424/problem/D",
+    "submission_id": "CF263074517",
+    "submission_url": "https://codeforces.com/contest/424/submission/263074517",
+    "tags": [
+      "binary search",
+      "brute force",
+      "constructive algorithms",
+      "data structures",
+      "dp",
+      "*2300"
+    ],
+    "timestamp": "May/29/2024 07:08"
+  },
   "CF263074539": {
     "contest_id": 425,
     "language": "C++20 (GCC 13-64)",
