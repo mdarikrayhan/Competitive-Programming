@@ -24815,6 +24815,23 @@
     ],
     "timestamp": "May/29/2024 10:33"
   },
+  "CF263099163": {
+    "contest_id": 1583,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1583/G.cpp",
+    "platform": "Codeforces",
+    "problem_index": "G",
+    "problem_name": "Omkar and Time Travel",
+    "problem_url": "https://codeforces.com/contest/1583/problem/G",
+    "submission_id": "CF263099163",
+    "submission_url": "https://codeforces.com/contest/1583/submission/263099163",
+    "tags": [
+      "data structures",
+      "math",
+      "*3000"
+    ],
+    "timestamp": "May/29/2024 12:57"
+  },
   "CF263099403": {
     "contest_id": 1349,
     "language": "C++20 (GCC 13-64)",
