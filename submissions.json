@@ -30034,6 +30034,24 @@
     ],
     "timestamp": "May/29/2024 15:36"
   },
+  "CF263123150": {
+    "contest_id": 720,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/720/D.cpp",
+    "platform": "Codeforces",
+    "problem_index": "D",
+    "problem_name": "Slalom",
+    "problem_url": "https://codeforces.com/contest/720/problem/D",
+    "submission_id": "CF263123150",
+    "submission_url": "https://codeforces.com/contest/720/submission/263123150",
+    "tags": [
+      "data structures",
+      "dp",
+      "sortings",
+      "*3100"
+    ],
+    "timestamp": "May/29/2024 16:05"
+  },
   "CF263123207": {
     "contest_id": 1368,
     "language": "C++20 (GCC 13-64)",
