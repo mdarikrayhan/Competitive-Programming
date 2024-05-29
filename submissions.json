@@ -24814,6 +24814,25 @@
     ],
     "timestamp": "May/29/2024 15:36"
   },
+  "CF263130327": {
+    "contest_id": 793,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/793/C.cpp",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Mice problem",
+    "problem_url": "https://codeforces.com/contest/793/problem/C",
+    "submission_id": "CF263130327",
+    "submission_url": "https://codeforces.com/contest/793/submission/263130327",
+    "tags": [
+      "geometry",
+      "implementation",
+      "math",
+      "sortings",
+      "*2300"
+    ],
+    "timestamp": "May/29/2024 17:07"
+  },
   "CF263130340": {
     "contest_id": 1886,
     "language": "C++20 (GCC 13-64)",
