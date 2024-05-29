@@ -24815,6 +24815,23 @@
     ],
     "timestamp": "May/29/2024 10:33"
   },
+  "CF263097794": {
+    "contest_id": 30,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/30/D.cpp",
+    "platform": "Codeforces",
+    "problem_index": "D",
+    "problem_name": "King's Problem?",
+    "problem_url": "https://codeforces.com/contest/30/problem/D",
+    "submission_id": "CF263097794",
+    "submission_url": "https://codeforces.com/contest/30/submission/263097794",
+    "tags": [
+      "geometry",
+      "greedy",
+      "*2600"
+    ],
+    "timestamp": "May/29/2024 12:46"
+  },
   "CF263097917": {
     "contest_id": 1728,
     "language": "C++20 (GCC 13-64)",
