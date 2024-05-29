@@ -39221,6 +39221,24 @@
     "tags": [],
     "timestamp": "May/29/2024 10:57"
   },
+  "CF263087972": {
+    "contest_id": 1517,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1517/F.cpp",
+    "platform": "Codeforces",
+    "problem_index": "F",
+    "problem_name": "Reunion",
+    "problem_url": "https://codeforces.com/contest/1517/problem/F",
+    "submission_id": "CF263087972",
+    "submission_url": "https://codeforces.com/contest/1517/submission/263087972",
+    "tags": [
+      "combinatorics",
+      "dp",
+      "trees",
+      "*3200"
+    ],
+    "timestamp": "May/29/2024 11:06"
+  },
   "CF263087988": {
     "contest_id": 277,
     "language": "C++20 (GCC 13-64)",
