@@ -23393,6 +23393,23 @@
     ],
     "timestamp": "May/17/2024 08:26"
   },
+  "CF263155128": {
+    "contest_id": 1685,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1685/E.cpp",
+    "platform": "Codeforces",
+    "problem_index": "E",
+    "problem_name": "The Ultimate LIS Problem",
+    "problem_url": "https://codeforces.com/contest/1685/problem/E",
+    "submission_id": "CF263155128",
+    "submission_url": "https://codeforces.com/contest/1685/submission/263155128",
+    "tags": [
+      "data structures",
+      "greedy",
+      "*3500"
+    ],
+    "timestamp": "May/29/2024 20:22"
+  },
   "CF263155289": {
     "contest_id": 1940,
     "language": "C++17 (GCC 7-32)",
