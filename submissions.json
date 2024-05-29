@@ -23393,6 +23393,22 @@
     ],
     "timestamp": "May/17/2024 08:26"
   },
+  "CF263114341": {
+    "contest_id": 50,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/50/E.cpp",
+    "platform": "Codeforces",
+    "problem_index": "E",
+    "problem_name": "Square Equation Roots",
+    "problem_url": "https://codeforces.com/contest/50/problem/E",
+    "submission_id": "CF263114341",
+    "submission_url": "https://codeforces.com/contest/50/submission/263114341",
+    "tags": [
+      "math",
+      "*2300"
+    ],
+    "timestamp": "May/29/2024 14:53"
+  },
   "CF263114394": {
     "contest_id": 1027,
     "language": "C++20 (GCC 13-64)",
