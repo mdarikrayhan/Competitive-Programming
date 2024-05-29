@@ -23393,6 +23393,22 @@
     ],
     "timestamp": "May/17/2024 08:26"
   },
+  "CF263132259": {
+    "contest_id": 74,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/74/E.cpp",
+    "platform": "Codeforces",
+    "problem_index": "E",
+    "problem_name": "Shift It!",
+    "problem_url": "https://codeforces.com/contest/74/problem/E",
+    "submission_id": "CF263132259",
+    "submission_url": "https://codeforces.com/contest/74/submission/263132259",
+    "tags": [
+      "constructive algorithms",
+      "*2800"
+    ],
+    "timestamp": "May/29/2024 17:22"
+  },
   "CF263132289": {
     "contest_id": 690,
     "language": "C++20 (GCC 13-64)",
