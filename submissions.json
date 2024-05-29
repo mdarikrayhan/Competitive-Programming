@@ -23393,6 +23393,24 @@
     ],
     "timestamp": "May/17/2024 08:26"
   },
+  "CF263114394": {
+    "contest_id": 1027,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1027/G.cpp",
+    "platform": "Codeforces",
+    "problem_index": "G",
+    "problem_name": "X-mouse in the Campus",
+    "problem_url": "https://codeforces.com/contest/1027/problem/G",
+    "submission_id": "CF263114394",
+    "submission_url": "https://codeforces.com/contest/1027/submission/263114394",
+    "tags": [
+      "bitmasks",
+      "math",
+      "number theory",
+      "*2600"
+    ],
+    "timestamp": "May/29/2024 14:54"
+  },
   "CF263114475": {
     "contest_id": 166,
     "language": "C++20 (GCC 13-64)",
