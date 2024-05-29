@@ -23497,6 +23497,22 @@
     "tags": [],
     "timestamp": "May/29/2024 18:32"
   },
+  "CF263144531": {
+    "contest_id": 1423,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1423/I.cpp",
+    "platform": "Codeforces",
+    "problem_index": "I",
+    "problem_name": "Lookup Tables",
+    "problem_url": "https://codeforces.com/contest/1423/problem/I",
+    "submission_id": "CF263144531",
+    "submission_url": "https://codeforces.com/contest/1423/submission/263144531",
+    "tags": [
+      "bitmasks",
+      "*3000"
+    ],
+    "timestamp": "May/29/2024 19:01"
+  },
   "CF263144557": {
     "contest_id": 478,
     "language": "C++20 (GCC 13-64)",
