@@ -30034,6 +30034,23 @@
     ],
     "timestamp": "May/29/2024 15:36"
   },
+  "CF263121389": {
+    "contest_id": 1193,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1193/A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Amusement Park",
+    "problem_url": "https://codeforces.com/contest/1193/problem/A",
+    "submission_id": "CF263121389",
+    "submission_url": "https://codeforces.com/contest/1193/submission/263121389",
+    "tags": [
+      "*special problem",
+      "dp",
+      "math"
+    ],
+    "timestamp": "May/29/2024 15:50"
+  },
   "CF263121422": {
     "contest_id": 1148,
     "language": "C++20 (GCC 13-64)",
