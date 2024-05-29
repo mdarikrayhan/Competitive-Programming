@@ -23393,6 +23393,28 @@
     ],
     "timestamp": "May/17/2024 08:26"
   },
+  "CF263131307": {
+    "contest_id": 1608,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1608/G.cpp",
+    "platform": "Codeforces",
+    "problem_index": "G",
+    "problem_name": "Alphabetic Tree",
+    "problem_url": "https://codeforces.com/contest/1608/problem/G",
+    "submission_id": "CF263131307",
+    "submission_url": "https://codeforces.com/contest/1608/submission/263131307",
+    "tags": [
+      "binary search",
+      "data structures",
+      "dfs and similar",
+      "hashing",
+      "string suffix structures",
+      "strings",
+      "trees",
+      "*3500"
+    ],
+    "timestamp": "May/29/2024 17:14"
+  },
   "CF263131365": {
     "contest_id": 1835,
     "language": "C++20 (GCC 13-64)",
