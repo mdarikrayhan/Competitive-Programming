@@ -24815,6 +24815,24 @@
     ],
     "timestamp": "May/29/2024 10:33"
   },
+  "CF263096316": {
+    "contest_id": 1228,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1228/F.cpp",
+    "platform": "Codeforces",
+    "problem_index": "F",
+    "problem_name": "One Node is Gone",
+    "problem_url": "https://codeforces.com/contest/1228/problem/F",
+    "submission_id": "CF263096316",
+    "submission_url": "https://codeforces.com/contest/1228/submission/263096316",
+    "tags": [
+      "constructive algorithms",
+      "implementation",
+      "trees",
+      "*2500"
+    ],
+    "timestamp": "May/29/2024 12:34"
+  },
   "CF263096348": {
     "contest_id": 1090,
     "language": "C++20 (GCC 13-64)",
