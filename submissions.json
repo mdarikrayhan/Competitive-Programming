@@ -27195,6 +27195,22 @@
     "tags": [],
     "timestamp": "May/29/2024 13:37"
   },
+  "CF263106883": {
+    "contest_id": 1423,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1423/F.cpp",
+    "platform": "Codeforces",
+    "problem_index": "F",
+    "problem_name": "Coins",
+    "problem_url": "https://codeforces.com/contest/1423/problem/F",
+    "submission_id": "CF263106883",
+    "submission_url": "https://codeforces.com/contest/1423/submission/263106883",
+    "tags": [
+      "math",
+      "*2700"
+    ],
+    "timestamp": "May/29/2024 13:54"
+  },
   "CF263107025": {
     "contest_id": 301,
     "language": "C++20 (GCC 13-64)",
