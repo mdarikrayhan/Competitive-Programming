@@ -23393,6 +23393,21 @@
     ],
     "timestamp": "May/17/2024 08:26"
   },
+  "CF263163994": {
+    "contest_id": 1192,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1192/A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Building Skyscrapers",
+    "problem_url": "https://codeforces.com/contest/1192/problem/A",
+    "submission_id": "CF263163994",
+    "submission_url": "https://codeforces.com/contest/1192/submission/263163994",
+    "tags": [
+      "*special problem"
+    ],
+    "timestamp": "May/29/2024 21:42"
+  },
   "CF263169987": {
     "contest_id": 1357,
     "language": "Q#",
