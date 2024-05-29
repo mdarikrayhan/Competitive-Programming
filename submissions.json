@@ -24298,6 +24298,22 @@
     ],
     "timestamp": "May/29/2024 08:12"
   },
+  "CF263077480": {
+    "contest_id": 909,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/909/F.cpp",
+    "platform": "Codeforces",
+    "problem_index": "F",
+    "problem_name": "AND-permutations",
+    "problem_url": "https://codeforces.com/contest/909/problem/F",
+    "submission_id": "CF263077480",
+    "submission_url": "https://codeforces.com/contest/909/submission/263077480",
+    "tags": [
+      "constructive algorithms",
+      "*2500"
+    ],
+    "timestamp": "May/29/2024 08:16"
+  },
   "CF263077485": {
     "contest_id": 335,
     "language": "C++20 (GCC 13-64)",
