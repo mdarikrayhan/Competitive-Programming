@@ -27654,6 +27654,24 @@
     ],
     "timestamp": "May/29/2024 15:36"
   },
+  "CF263127354": {
+    "contest_id": 1499,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1499/G.cpp",
+    "platform": "Codeforces",
+    "problem_index": "G",
+    "problem_name": "Graph Coloring",
+    "problem_url": "https://codeforces.com/contest/1499/problem/G",
+    "submission_id": "CF263127354",
+    "submission_url": "https://codeforces.com/contest/1499/submission/263127354",
+    "tags": [
+      "data structures",
+      "graphs",
+      "interactive",
+      "*3100"
+    ],
+    "timestamp": "May/29/2024 16:41"
+  },
   "CF263127415": {
     "contest_id": 212,
     "language": "C++20 (GCC 13-64)",
