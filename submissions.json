@@ -38568,6 +38568,24 @@
     ],
     "timestamp": "May/29/2024 07:51"
   },
+  "CF263076293": {
+    "contest_id": 309,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/309/A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Morning run",
+    "problem_url": "https://codeforces.com/contest/309/problem/A",
+    "submission_id": "CF263076293",
+    "submission_url": "https://codeforces.com/contest/309/submission/263076293",
+    "tags": [
+      "binary search",
+      "math",
+      "two pointers",
+      "*2000"
+    ],
+    "timestamp": "May/29/2024 07:51"
+  },
   "CF263076324": {
     "contest_id": 1663,
     "language": "C++20 (GCC 13-64)",
