@@ -27654,6 +27654,24 @@
     ],
     "timestamp": "May/29/2024 15:36"
   },
+  "CF263125701": {
+    "contest_id": 1392,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1392/I.cpp",
+    "platform": "Codeforces",
+    "problem_index": "I",
+    "problem_name": "Kevin and Grid",
+    "problem_url": "https://codeforces.com/contest/1392/problem/I",
+    "submission_id": "CF263125701",
+    "submission_url": "https://codeforces.com/contest/1392/submission/263125701",
+    "tags": [
+      "fft",
+      "graphs",
+      "math",
+      "*3300"
+    ],
+    "timestamp": "May/29/2024 16:26"
+  },
   "CF263125736": {
     "contest_id": 1842,
     "language": "C++20 (GCC 13-64)",
