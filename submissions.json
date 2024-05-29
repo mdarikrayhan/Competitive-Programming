@@ -27114,6 +27114,25 @@
     ],
     "timestamp": "May/29/2024 06:34"
   },
+  "CF263073837": {
+    "contest_id": 1612,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1612/F.cpp",
+    "platform": "Codeforces",
+    "problem_index": "F",
+    "problem_name": "Armor and Weapons",
+    "problem_url": "https://codeforces.com/contest/1612/problem/F",
+    "submission_id": "CF263073837",
+    "submission_url": "https://codeforces.com/contest/1612/submission/263073837",
+    "tags": [
+      "brute force",
+      "dp",
+      "greedy",
+      "shortest paths",
+      "*2800"
+    ],
+    "timestamp": "May/29/2024 06:53"
+  },
   "CF263073846": {
     "contest_id": 1065,
     "language": "C++20 (GCC 13-64)",
