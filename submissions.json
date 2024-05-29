@@ -30034,6 +30034,24 @@
     ],
     "timestamp": "May/29/2024 15:36"
   },
+  "CF263120902": {
+    "contest_id": 1197,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1197/F.cpp",
+    "platform": "Codeforces",
+    "problem_index": "F",
+    "problem_name": "Coloring Game",
+    "problem_url": "https://codeforces.com/contest/1197/problem/F",
+    "submission_id": "CF263120902",
+    "submission_url": "https://codeforces.com/contest/1197/submission/263120902",
+    "tags": [
+      "dp",
+      "games",
+      "matrices",
+      "*2700"
+    ],
+    "timestamp": "May/29/2024 15:46"
+  },
   "CF263120928": {
     "contest_id": 1056,
     "language": "C++20 (GCC 13-64)",
