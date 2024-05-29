@@ -23393,6 +23393,25 @@
     ],
     "timestamp": "May/17/2024 08:26"
   },
+  "CF263076729": {
+    "contest_id": 171,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/171/F.cpp",
+    "platform": "Codeforces",
+    "problem_index": "F",
+    "problem_name": "ucyhf",
+    "problem_url": "https://codeforces.com/contest/171/problem/F",
+    "submission_id": "CF263076729",
+    "submission_url": "https://codeforces.com/contest/171/submission/263076729",
+    "tags": [
+      "*special problem",
+      "brute force",
+      "implementation",
+      "number theory",
+      "*1600"
+    ],
+    "timestamp": "May/29/2024 08:01"
+  },
   "CF263076757": {
     "contest_id": 232,
     "language": "C++20 (GCC 13-64)",
