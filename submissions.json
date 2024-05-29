@@ -23393,6 +23393,26 @@
     ],
     "timestamp": "May/17/2024 08:26"
   },
+  "CF263131417": {
+    "contest_id": 1860,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1860/F.cpp",
+    "platform": "Codeforces",
+    "problem_index": "F",
+    "problem_name": "Evaluate RBS",
+    "problem_url": "https://codeforces.com/contest/1860/problem/F",
+    "submission_id": "CF263131417",
+    "submission_url": "https://codeforces.com/contest/1860/submission/263131417",
+    "tags": [
+      "data structures",
+      "geometry",
+      "implementation",
+      "math",
+      "sortings",
+      "*2900"
+    ],
+    "timestamp": "May/29/2024 17:15"
+  },
   "CF263131450": {
     "contest_id": 981,
     "language": "C++20 (GCC 13-64)",
