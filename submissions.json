@@ -23393,6 +23393,24 @@
     ],
     "timestamp": "May/17/2024 08:26"
   },
+  "CF263151995": {
+    "contest_id": 1340,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1340/E.cpp",
+    "platform": "Codeforces",
+    "problem_index": "E",
+    "problem_name": "Nastya and Bees",
+    "problem_url": "https://codeforces.com/contest/1340/problem/E",
+    "submission_id": "CF263151995",
+    "submission_url": "https://codeforces.com/contest/1340/submission/263151995",
+    "tags": [
+      "graphs",
+      "interactive",
+      "probabilities",
+      "*3000"
+    ],
+    "timestamp": "May/29/2024 19:57"
+  },
   "CF263152162": {
     "contest_id": 1662,
     "language": "C++20 (GCC 13-64)",
