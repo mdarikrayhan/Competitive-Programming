@@ -35066,6 +35066,24 @@
     ],
     "timestamp": "May/29/2024 08:32"
   },
+  "CF263079725": {
+    "contest_id": 100,
+    "language": "Pike",
+    "path": "codeforces/100/I.pike",
+    "platform": "Codeforces",
+    "problem_index": "I",
+    "problem_name": "Rotation",
+    "problem_url": "https://codeforces.com/contest/100/problem/I",
+    "submission_id": "CF263079725",
+    "submission_url": "https://codeforces.com/contest/100/submission/263079725",
+    "tags": [
+      "*special problem",
+      "geometry",
+      "math",
+      "*1500"
+    ],
+    "timestamp": "May/29/2024 08:58"
+  },
   "CF263079739": {
     "contest_id": 100,
     "language": "Pike",
