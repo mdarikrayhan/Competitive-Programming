@@ -24814,6 +24814,23 @@
     ],
     "timestamp": "May/29/2024 15:36"
   },
+  "CF263127611": {
+    "contest_id": 98,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/98/C.cpp",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Help Greg the Dwarf",
+    "problem_url": "https://codeforces.com/contest/98/problem/C",
+    "submission_id": "CF263127611",
+    "submission_url": "https://codeforces.com/contest/98/submission/263127611",
+    "tags": [
+      "geometry",
+      "ternary search",
+      "*2500"
+    ],
+    "timestamp": "May/29/2024 16:43"
+  },
   "CF263127632": {
     "contest_id": 982,
     "language": "C++20 (GCC 13-64)",
