@@ -23393,6 +23393,22 @@
     ],
     "timestamp": "May/17/2024 08:26"
   },
+  "CF263135134": {
+    "contest_id": 477,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/477/E.cpp",
+    "platform": "Codeforces",
+    "problem_index": "E",
+    "problem_name": "Dreamoon and Notepad",
+    "problem_url": "https://codeforces.com/contest/477/problem/E",
+    "submission_id": "CF263135134",
+    "submission_url": "https://codeforces.com/contest/477/submission/263135134",
+    "tags": [
+      "data structures",
+      "*3100"
+    ],
+    "timestamp": "May/29/2024 17:46"
+  },
   "CF263135228": {
     "contest_id": 1109,
     "language": "C++20 (GCC 13-64)",
