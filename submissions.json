@@ -27654,6 +27654,22 @@
     ],
     "timestamp": "May/29/2024 15:36"
   },
+  "CF263125833": {
+    "contest_id": 819,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/819/C.cpp",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Mister B and Beacons on Field",
+    "problem_url": "https://codeforces.com/contest/819/problem/C",
+    "submission_id": "CF263125833",
+    "submission_url": "https://codeforces.com/contest/819/submission/263125833",
+    "tags": [
+      "number theory",
+      "*2900"
+    ],
+    "timestamp": "May/29/2024 16:28"
+  },
   "CF263125862": {
     "contest_id": 1835,
     "language": "C++20 (GCC 13-64)",
