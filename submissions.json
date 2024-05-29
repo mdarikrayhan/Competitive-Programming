@@ -24814,6 +24814,27 @@
     ],
     "timestamp": "May/29/2024 15:36"
   },
+  "CF263127753": {
+    "contest_id": 773,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/773/F.cpp",
+    "platform": "Codeforces",
+    "problem_index": "F",
+    "problem_name": "Test Data Generation",
+    "problem_url": "https://codeforces.com/contest/773/problem/F",
+    "submission_id": "CF263127753",
+    "submission_url": "https://codeforces.com/contest/773/submission/263127753",
+    "tags": [
+      "combinatorics",
+      "divide and conquer",
+      "dp",
+      "fft",
+      "math",
+      "number theory",
+      "*3400"
+    ],
+    "timestamp": "May/29/2024 16:45"
+  },
   "CF263127791": {
     "contest_id": 54,
     "language": "C++20 (GCC 13-64)",
