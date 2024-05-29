@@ -24814,6 +24814,24 @@
     ],
     "timestamp": "May/29/2024 15:36"
   },
+  "CF263129175": {
+    "contest_id": 796,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/796/F.cpp",
+    "platform": "Codeforces",
+    "problem_index": "F",
+    "problem_name": "Sequence Recovery",
+    "problem_url": "https://codeforces.com/contest/796/problem/F",
+    "submission_id": "CF263129175",
+    "submission_url": "https://codeforces.com/contest/796/submission/263129175",
+    "tags": [
+      "bitmasks",
+      "data structures",
+      "greedy",
+      "*2800"
+    ],
+    "timestamp": "May/29/2024 16:57"
+  },
   "CF263129212": {
     "contest_id": 283,
     "language": "C++20 (GCC 13-64)",
