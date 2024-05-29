@@ -24814,6 +24814,22 @@
     ],
     "timestamp": "May/29/2024 15:36"
   },
+  "CF263128492": {
+    "contest_id": 1037,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1037/G.cpp",
+    "platform": "Codeforces",
+    "problem_index": "G",
+    "problem_name": "A Game on Strings",
+    "problem_url": "https://codeforces.com/contest/1037/problem/G",
+    "submission_id": "CF263128492",
+    "submission_url": "https://codeforces.com/contest/1037/submission/263128492",
+    "tags": [
+      "games",
+      "*3200"
+    ],
+    "timestamp": "May/29/2024 16:51"
+  },
   "CF263128541": {
     "contest_id": 86,
     "language": "C++20 (GCC 13-64)",
