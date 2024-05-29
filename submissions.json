@@ -38551,6 +38551,22 @@
     ],
     "timestamp": "May/29/2024 07:48"
   },
+  "CF263076207": {
+    "contest_id": 1812,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1812/G.cpp",
+    "platform": "Codeforces",
+    "problem_index": "G",
+    "problem_name": "Colour Vision",
+    "problem_url": "https://codeforces.com/contest/1812/problem/G",
+    "submission_id": "CF263076207",
+    "submission_url": "https://codeforces.com/contest/1812/submission/263076207",
+    "tags": [
+      "*special problem",
+      "implementation"
+    ],
+    "timestamp": "May/29/2024 07:49"
+  },
   "CF263076214": {
     "contest_id": 1812,
     "language": "C++20 (GCC 13-64)",
