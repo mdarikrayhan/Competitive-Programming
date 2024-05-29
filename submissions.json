@@ -23393,6 +23393,24 @@
     ],
     "timestamp": "May/17/2024 08:26"
   },
+  "CF263084048": {
+    "contest_id": 1297,
+    "language": "Kotlin 1.9",
+    "path": "codeforces/1297/D.kt",
+    "platform": "Codeforces",
+    "problem_index": "D",
+    "problem_name": "Bonus Distribution ",
+    "problem_url": "https://codeforces.com/contest/1297/problem/D",
+    "submission_id": "CF263084048",
+    "submission_url": "https://codeforces.com/contest/1297/submission/263084048",
+    "tags": [
+      "*special problem",
+      "binary search",
+      "greedy",
+      "sortings"
+    ],
+    "timestamp": "May/29/2024 10:08"
+  },
   "CF263084106": {
     "contest_id": 1297,
     "language": "Kotlin 1.9",
