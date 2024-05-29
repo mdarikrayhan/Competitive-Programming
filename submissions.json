@@ -23393,6 +23393,22 @@
     ],
     "timestamp": "May/17/2024 08:26"
   },
+  "CF263149544": {
+    "contest_id": 1970,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1970/D3.cpp",
+    "platform": "Codeforces",
+    "problem_index": "D3",
+    "problem_name": "Arithmancy (Hard)",
+    "problem_url": "https://codeforces.com/contest/1970/problem/D3",
+    "submission_id": "CF263149544",
+    "submission_url": "https://codeforces.com/contest/1970/submission/263149544",
+    "tags": [
+      "interactive",
+      "*3100"
+    ],
+    "timestamp": "May/29/2024 19:38"
+  },
   "CF263149570": {
     "contest_id": 42,
     "language": "C++20 (GCC 13-64)",
