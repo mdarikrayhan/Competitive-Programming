@@ -23497,6 +23497,26 @@
     "tags": [],
     "timestamp": "May/29/2024 18:32"
   },
+  "CF263145319": {
+    "contest_id": 1266,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1266/H.cpp",
+    "platform": "Codeforces",
+    "problem_index": "H",
+    "problem_name": "Red-Blue Graph",
+    "problem_url": "https://codeforces.com/contest/1266/problem/H",
+    "submission_id": "CF263145319",
+    "submission_url": "https://codeforces.com/contest/1266/submission/263145319",
+    "tags": [
+      "dp",
+      "graphs",
+      "math",
+      "matrices",
+      "meet-in-the-middle",
+      "*3400"
+    ],
+    "timestamp": "May/29/2024 19:07"
+  },
   "CF263145348": {
     "contest_id": 1704,
     "language": "C++20 (GCC 13-64)",
