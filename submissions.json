@@ -23393,6 +23393,27 @@
     ],
     "timestamp": "May/17/2024 08:26"
   },
+  "CF263113652": {
+    "contest_id": 1682,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1682/F.cpp",
+    "platform": "Codeforces",
+    "problem_index": "F",
+    "problem_name": "MCMF?",
+    "problem_url": "https://codeforces.com/contest/1682/problem/F",
+    "submission_id": "CF263113652",
+    "submission_url": "https://codeforces.com/contest/1682/submission/263113652",
+    "tags": [
+      "data structures",
+      "flows",
+      "graphs",
+      "greedy",
+      "sortings",
+      "two pointers",
+      "*2700"
+    ],
+    "timestamp": "May/29/2024 14:48"
+  },
   "CF263113671": {
     "contest_id": 1393,
     "language": "C++20 (GCC 13-64)",
