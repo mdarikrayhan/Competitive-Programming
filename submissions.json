@@ -23497,6 +23497,23 @@
     "tags": [],
     "timestamp": "May/29/2024 18:32"
   },
+  "CF263147712": {
+    "contest_id": 1817,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1817/F.cpp",
+    "platform": "Codeforces",
+    "problem_index": "F",
+    "problem_name": "Entangled Substrings",
+    "problem_url": "https://codeforces.com/contest/1817/problem/F",
+    "submission_id": "CF263147712",
+    "submission_url": "https://codeforces.com/contest/1817/submission/263147712",
+    "tags": [
+      "string suffix structures",
+      "strings",
+      "*3500"
+    ],
+    "timestamp": "May/29/2024 19:25"
+  },
   "CF263147803": {
     "contest_id": 39,
     "language": "C++20 (GCC 13-64)",
