@@ -37644,6 +37644,22 @@
     ],
     "timestamp": "May/29/2024 09:39"
   },
+  "CF263082461": {
+    "contest_id": 345,
+    "language": "Ada",
+    "path": "codeforces/345/C.ada",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Counting Fridays",
+    "problem_url": "https://codeforces.com/contest/345/problem/C",
+    "submission_id": "CF263082461",
+    "submission_url": "https://codeforces.com/contest/345/submission/263082461",
+    "tags": [
+      "*special problem",
+      "*2000"
+    ],
+    "timestamp": "May/29/2024 09:41"
+  },
   "CF263082470": {
     "contest_id": 345,
     "language": "Ada",
