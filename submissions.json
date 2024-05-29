@@ -27654,6 +27654,19 @@
     ],
     "timestamp": "May/29/2024 15:36"
   },
+  "CF263125378": {
+    "contest_id": 1090,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1090/F.cpp",
+    "platform": "Codeforces",
+    "problem_index": "F",
+    "problem_name": "How to Learn You Score",
+    "problem_url": "https://codeforces.com/contest/1090/problem/F",
+    "submission_id": "CF263125378",
+    "submission_url": "https://codeforces.com/contest/1090/submission/263125378",
+    "tags": [],
+    "timestamp": "May/29/2024 16:24"
+  },
   "CF263125430": {
     "contest_id": 1090,
     "language": "C++20 (GCC 13-64)",
