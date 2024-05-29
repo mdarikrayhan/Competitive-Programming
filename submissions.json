@@ -38694,6 +38694,22 @@
     ],
     "timestamp": "May/29/2024 07:10"
   },
+  "CF263074659": {
+    "contest_id": 1663,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1663/E.cpp",
+    "platform": "Codeforces",
+    "problem_index": "E",
+    "problem_name": "Are You Safe?",
+    "problem_url": "https://codeforces.com/contest/1663/problem/E",
+    "submission_id": "CF263074659",
+    "submission_url": "https://codeforces.com/contest/1663/submission/263074659",
+    "tags": [
+      "*special problem",
+      "implementation"
+    ],
+    "timestamp": "May/29/2024 07:12"
+  },
   "CF263074672": {
     "contest_id": 235,
     "language": "C++20 (GCC 13-64)",
