@@ -23497,6 +23497,25 @@
     "tags": [],
     "timestamp": "May/29/2024 18:32"
   },
+  "CF263145348": {
+    "contest_id": 1704,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1704/G.cpp",
+    "platform": "Codeforces",
+    "problem_index": "G",
+    "problem_name": "Mio and Lucky Array",
+    "problem_url": "https://codeforces.com/contest/1704/problem/G",
+    "submission_id": "CF263145348",
+    "submission_url": "https://codeforces.com/contest/1704/submission/263145348",
+    "tags": [
+      "constructive algorithms",
+      "fft",
+      "math",
+      "strings",
+      "*3500"
+    ],
+    "timestamp": "May/29/2024 19:08"
+  },
   "CF263145433": {
     "contest_id": 1762,
     "language": "C++20 (GCC 13-64)",

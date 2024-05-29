@@ -26,6 +26,7 @@ void Calc(int x) {
 	ans.clear();
 	for (int i=0;i<=x;i++)
 		if (vs[i]) ans.push_back(x+1-i);
+		
 	for (int i=x+2;i<=x+m-1;i++)
 		if (da[i]<db[i-x+1].first)
 			ans.push_back(i);
@@ -33,6 +34,7 @@ void Calc(int x) {
 	for (int v:ans) printf("%lld ",v);
 	printf("\n");
 }
+
 signed main() {
 	scanf("%lld",&T);
 	while (T--) {
