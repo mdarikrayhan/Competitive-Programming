@@ -23393,6 +23393,23 @@
     ],
     "timestamp": "May/17/2024 08:26"
   },
+  "CF263117564": {
+    "contest_id": 1906,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1906/K.cpp",
+    "platform": "Codeforces",
+    "problem_index": "K",
+    "problem_name": "Deck-Building Game",
+    "problem_url": "https://codeforces.com/contest/1906/problem/K",
+    "submission_id": "CF263117564",
+    "submission_url": "https://codeforces.com/contest/1906/submission/263117564",
+    "tags": [
+      "divide and conquer",
+      "math",
+      "*2500"
+    ],
+    "timestamp": "May/29/2024 15:20"
+  },
   "CF263117566": {
     "contest_id": 1063,
     "language": "C++20 (GCC 13-64)",
