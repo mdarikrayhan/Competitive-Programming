@@ -24815,6 +24815,24 @@
     ],
     "timestamp": "May/29/2024 10:33"
   },
+  "CF263098149": {
+    "contest_id": 1327,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1327/G.cpp",
+    "platform": "Codeforces",
+    "problem_index": "G",
+    "problem_name": "Letters and Question Marks",
+    "problem_url": "https://codeforces.com/contest/1327/problem/G",
+    "submission_id": "CF263098149",
+    "submission_url": "https://codeforces.com/contest/1327/submission/263098149",
+    "tags": [
+      "bitmasks",
+      "dp",
+      "string suffix structures",
+      "*2800"
+    ],
+    "timestamp": "May/29/2024 12:49"
+  },
   "CF263098242": {
     "contest_id": 1730,
     "language": "C++20 (GCC 13-64)",
