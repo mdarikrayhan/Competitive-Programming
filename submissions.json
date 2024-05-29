@@ -38716,6 +38716,24 @@
     ],
     "timestamp": "May/29/2024 14:00"
   },
+  "CF263109222": {
+    "contest_id": 1487,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1487/F.cpp",
+    "platform": "Codeforces",
+    "problem_index": "F",
+    "problem_name": "Ones",
+    "problem_url": "https://codeforces.com/contest/1487/problem/F",
+    "submission_id": "CF263109222",
+    "submission_url": "https://codeforces.com/contest/1487/submission/263109222",
+    "tags": [
+      "dp",
+      "greedy",
+      "shortest paths",
+      "*2900"
+    ],
+    "timestamp": "May/29/2024 14:11"
+  },
   "CF263109239": {
     "contest_id": 1218,
     "language": "C++20 (GCC 13-64)",
