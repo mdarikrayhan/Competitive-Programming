@@ -36948,6 +36948,21 @@
     ],
     "timestamp": "May/29/2024 06:34"
   },
+  "CF263073310": {
+    "contest_id": 1085,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1085/F.cpp",
+    "platform": "Codeforces",
+    "problem_index": "F",
+    "problem_name": "Rock-Paper-Scissors Champion",
+    "problem_url": "https://codeforces.com/contest/1085/problem/F",
+    "submission_id": "CF263073310",
+    "submission_url": "https://codeforces.com/contest/1085/submission/263073310",
+    "tags": [
+      "*2500"
+    ],
+    "timestamp": "May/29/2024 06:36"
+  },
   "CF263073315": {
     "contest_id": 1085,
     "language": "C++20 (GCC 13-64)",
