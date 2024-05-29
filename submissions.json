@@ -23393,6 +23393,25 @@
     ],
     "timestamp": "May/17/2024 08:26"
   },
+  "CF263149614": {
+    "contest_id": 1427,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1427/H.cpp",
+    "platform": "Codeforces",
+    "problem_index": "H",
+    "problem_name": "Prison Break",
+    "problem_url": "https://codeforces.com/contest/1427/problem/H",
+    "submission_id": "CF263149614",
+    "submission_url": "https://codeforces.com/contest/1427/submission/263149614",
+    "tags": [
+      "binary search",
+      "games",
+      "geometry",
+      "ternary search",
+      "*3500"
+    ],
+    "timestamp": "May/29/2024 19:39"
+  },
   "CF263149634": {
     "contest_id": 1835,
     "language": "C++20 (GCC 13-64)",
