@@ -24298,6 +24298,26 @@
     ],
     "timestamp": "May/29/2024 08:12"
   },
+  "CF263077668": {
+    "contest_id": 1713,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1713/F.cpp",
+    "platform": "Codeforces",
+    "problem_index": "F",
+    "problem_name": "Lost Array",
+    "problem_url": "https://codeforces.com/contest/1713/problem/F",
+    "submission_id": "CF263077668",
+    "submission_url": "https://codeforces.com/contest/1713/submission/263077668",
+    "tags": [
+      "bitmasks",
+      "combinatorics",
+      "constructive algorithms",
+      "dp",
+      "math",
+      "*2900"
+    ],
+    "timestamp": "May/29/2024 08:21"
+  },
   "CF263077695": {
     "contest_id": 245,
     "language": "C++20 (GCC 13-64)",
