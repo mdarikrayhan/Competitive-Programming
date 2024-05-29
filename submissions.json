@@ -24814,6 +24814,22 @@
     ],
     "timestamp": "May/29/2024 15:36"
   },
+  "CF263130441": {
+    "contest_id": 1310,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1310/E.cpp",
+    "platform": "Codeforces",
+    "problem_index": "E",
+    "problem_name": "Strange Function",
+    "problem_url": "https://codeforces.com/contest/1310/problem/E",
+    "submission_id": "CF263130441",
+    "submission_url": "https://codeforces.com/contest/1310/submission/263130441",
+    "tags": [
+      "dp",
+      "*2900"
+    ],
+    "timestamp": "May/29/2024 17:08"
+  },
   "CF263130477": {
     "contest_id": 156,
     "language": "C++20 (GCC 13-64)",
