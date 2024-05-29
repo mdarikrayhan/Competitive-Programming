@@ -25733,6 +25733,23 @@
     "tags": [],
     "timestamp": "May/29/2024 10:57"
   },
+  "CF263088059": {
+    "contest_id": 771,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/771/E.cpp",
+    "platform": "Codeforces",
+    "problem_index": "E",
+    "problem_name": "Bear and Rectangle Strips",
+    "problem_url": "https://codeforces.com/contest/771/problem/E",
+    "submission_id": "CF263088059",
+    "submission_url": "https://codeforces.com/contest/771/submission/263088059",
+    "tags": [
+      "dp",
+      "greedy",
+      "*3000"
+    ],
+    "timestamp": "May/29/2024 11:07"
+  },
   "CF263088073": {
     "contest_id": 1535,
     "language": "C++20 (GCC 13-64)",
