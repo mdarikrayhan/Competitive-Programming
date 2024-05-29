@@ -33073,6 +33073,24 @@
     ],
     "timestamp": "May/29/2024 14:00"
   },
+  "CF263111376": {
+    "contest_id": 1218,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1218/D.cpp",
+    "platform": "Codeforces",
+    "problem_index": "D",
+    "problem_name": "Xor Spanning Tree",
+    "problem_url": "https://codeforces.com/contest/1218/problem/D",
+    "submission_id": "CF263111376",
+    "submission_url": "https://codeforces.com/contest/1218/submission/263111376",
+    "tags": [
+      "divide and conquer",
+      "fft",
+      "graphs",
+      "*2400"
+    ],
+    "timestamp": "May/29/2024 14:29"
+  },
   "CF263111442": {
     "contest_id": 687,
     "language": "C++20 (GCC 13-64)",
