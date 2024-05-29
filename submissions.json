@@ -23393,6 +23393,25 @@
     ],
     "timestamp": "May/17/2024 08:26"
   },
+  "CF263132317": {
+    "contest_id": 33,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/33/D.cpp",
+    "platform": "Codeforces",
+    "problem_index": "D",
+    "problem_name": "Knights",
+    "problem_url": "https://codeforces.com/contest/33/problem/D",
+    "submission_id": "CF263132317",
+    "submission_url": "https://codeforces.com/contest/33/submission/263132317",
+    "tags": [
+      "geometry",
+      "graphs",
+      "shortest paths",
+      "sortings",
+      "*2000"
+    ],
+    "timestamp": "May/29/2024 17:23"
+  },
   "CF263132329": {
     "contest_id": 1534,
     "language": "C++20 (GCC 13-64)",
