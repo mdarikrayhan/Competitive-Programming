@@ -23393,6 +23393,27 @@
     ],
     "timestamp": "May/17/2024 08:26"
   },
+  "CF263111803": {
+    "contest_id": 679,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/679/D.cpp",
+    "platform": "Codeforces",
+    "problem_index": "D",
+    "problem_name": "Bear and Chase",
+    "problem_url": "https://codeforces.com/contest/679/problem/D",
+    "submission_id": "CF263111803",
+    "submission_url": "https://codeforces.com/contest/679/submission/263111803",
+    "tags": [
+      "brute force",
+      "dfs and similar",
+      "graphs",
+      "implementation",
+      "math",
+      "probabilities",
+      "*2900"
+    ],
+    "timestamp": "May/29/2024 14:33"
+  },
   "CF263111833": {
     "contest_id": 1036,
     "language": "C++20 (GCC 13-64)",
