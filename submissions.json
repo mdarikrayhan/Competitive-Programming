@@ -23393,6 +23393,27 @@
     ],
     "timestamp": "May/17/2024 08:26"
   },
+  "CF263161956": {
+    "contest_id": 1654,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1654/H.cpp",
+    "platform": "Codeforces",
+    "problem_index": "H",
+    "problem_name": "Three Minimums",
+    "problem_url": "https://codeforces.com/contest/1654/problem/H",
+    "submission_id": "CF263161956",
+    "submission_url": "https://codeforces.com/contest/1654/submission/263161956",
+    "tags": [
+      "combinatorics",
+      "constructive algorithms",
+      "divide and conquer",
+      "dp",
+      "fft",
+      "math",
+      "*3500"
+    ],
+    "timestamp": "May/29/2024 21:23"
+  },
   "CF263161977": {
     "contest_id": 1218,
     "language": "C++20 (GCC 13-64)",
