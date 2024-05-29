@@ -34491,6 +34491,23 @@
     ],
     "timestamp": "May/29/2024 14:59"
   },
+  "CF263115161": {
+    "contest_id": 1081,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1081/G.cpp",
+    "platform": "Codeforces",
+    "problem_index": "G",
+    "problem_name": "Mergesort Strikes Back",
+    "problem_url": "https://codeforces.com/contest/1081/problem/G",
+    "submission_id": "CF263115161",
+    "submission_url": "https://codeforces.com/contest/1081/submission/263115161",
+    "tags": [
+      "math",
+      "probabilities",
+      "*3200"
+    ],
+    "timestamp": "May/29/2024 15:00"
+  },
   "CF263115162": {
     "contest_id": 717,
     "language": "C++20 (GCC 13-64)",
