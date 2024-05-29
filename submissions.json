@@ -24814,6 +24814,24 @@
     ],
     "timestamp": "May/29/2024 15:36"
   },
+  "CF263128541": {
+    "contest_id": 86,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/86/E.cpp",
+    "platform": "Codeforces",
+    "problem_index": "E",
+    "problem_name": "Long sequence",
+    "problem_url": "https://codeforces.com/contest/86/problem/E",
+    "submission_id": "CF263128541",
+    "submission_url": "https://codeforces.com/contest/86/submission/263128541",
+    "tags": [
+      "brute force",
+      "math",
+      "matrices",
+      "*2700"
+    ],
+    "timestamp": "May/29/2024 16:51"
+  },
   "CF263128553": {
     "contest_id": 1322,
     "language": "C++20 (GCC 13-64)",
