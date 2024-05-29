@@ -23393,6 +23393,22 @@
     ],
     "timestamp": "May/17/2024 08:26"
   },
+  "CF263076711": {
+    "contest_id": 1824,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1824/D.cpp",
+    "platform": "Codeforces",
+    "problem_index": "D",
+    "problem_name": "LuoTianyi and the Function",
+    "problem_url": "https://codeforces.com/contest/1824/problem/D",
+    "submission_id": "CF263076711",
+    "submission_url": "https://codeforces.com/contest/1824/submission/263076711",
+    "tags": [
+      "data structures",
+      "*3000"
+    ],
+    "timestamp": "May/29/2024 08:00"
+  },
   "CF263076729": {
     "contest_id": 171,
     "language": "C++20 (GCC 13-64)",
