@@ -23393,6 +23393,26 @@
     ],
     "timestamp": "May/17/2024 08:26"
   },
+  "CF263085243": {
+    "contest_id": 1039,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1039/C.cpp",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Network Safety",
+    "problem_url": "https://codeforces.com/contest/1039/problem/C",
+    "submission_id": "CF263085243",
+    "submission_url": "https://codeforces.com/contest/1039/submission/263085243",
+    "tags": [
+      "dfs and similar",
+      "dsu",
+      "graphs",
+      "math",
+      "sortings",
+      "*2200"
+    ],
+    "timestamp": "May/29/2024 10:26"
+  },
   "CF263085288": {
     "contest_id": 576,
     "language": "C++20 (GCC 13-64)",
