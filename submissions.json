@@ -24298,6 +24298,23 @@
     ],
     "timestamp": "May/29/2024 08:12"
   },
+  "CF263082041": {
+    "contest_id": 1336,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1336/D.cpp",
+    "platform": "Codeforces",
+    "problem_index": "D",
+    "problem_name": "Yui and Mahjong Set",
+    "problem_url": "https://codeforces.com/contest/1336/problem/D",
+    "submission_id": "CF263082041",
+    "submission_url": "https://codeforces.com/contest/1336/submission/263082041",
+    "tags": [
+      "constructive algorithms",
+      "interactive",
+      "*3200"
+    ],
+    "timestamp": "May/29/2024 09:34"
+  },
   "CF263082081": {
     "contest_id": 1906,
     "language": "C++20 (GCC 13-64)",
