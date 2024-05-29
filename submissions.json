@@ -23393,6 +23393,19 @@
     ],
     "timestamp": "May/17/2024 08:26"
   },
+  "CF263118969": {
+    "contest_id": 390,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/390/E.cpp",
+    "platform": "Codeforces",
+    "problem_index": "E",
+    "problem_name": "Inna and Large Sweet Matrix",
+    "problem_url": "https://codeforces.com/contest/390/problem/E",
+    "submission_id": "CF263118969",
+    "submission_url": "https://codeforces.com/contest/390/submission/263118969",
+    "tags": [],
+    "timestamp": "May/29/2024 15:31"
+  },
   "CF263119004": {
     "contest_id": 256,
     "language": "C++20 (GCC 13-64)",
