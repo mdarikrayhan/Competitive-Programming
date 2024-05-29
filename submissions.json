@@ -23670,6 +23670,26 @@
     ],
     "timestamp": "May/29/2024 07:56"
   },
+  "CF263076568": {
+    "contest_id": 1392,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1392/G.cpp",
+    "platform": "Codeforces",
+    "problem_index": "G",
+    "problem_name": "Omkar and Pies",
+    "problem_url": "https://codeforces.com/contest/1392/problem/G",
+    "submission_id": "CF263076568",
+    "submission_url": "https://codeforces.com/contest/1392/submission/263076568",
+    "tags": [
+      "bitmasks",
+      "dfs and similar",
+      "dp",
+      "math",
+      "shortest paths",
+      "*2900"
+    ],
+    "timestamp": "May/29/2024 07:57"
+  },
   "CF263076580": {
     "contest_id": 784,
     "language": "C++20 (GCC 13-64)",
