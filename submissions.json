@@ -23393,6 +23393,21 @@
     ],
     "timestamp": "May/17/2024 08:26"
   },
+  "CF263170612": {
+    "contest_id": 1356,
+    "language": "Q#",
+    "path": "codeforces/1356/D1.qs",
+    "platform": "Codeforces",
+    "problem_index": "D1",
+    "problem_name": "Quantum Classification - 1",
+    "problem_url": "https://codeforces.com/contest/1356/problem/D1",
+    "submission_id": "CF263170612",
+    "submission_url": "https://codeforces.com/contest/1356/submission/263170612",
+    "tags": [
+      "*special problem"
+    ],
+    "timestamp": "May/29/2024 23:05"
+  },
   "CF263170617": {
     "contest_id": 1356,
     "language": "Q#",
