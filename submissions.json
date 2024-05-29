@@ -24815,6 +24815,23 @@
     ],
     "timestamp": "May/29/2024 10:33"
   },
+  "CF263088446": {
+    "contest_id": 341,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/341/E.cpp",
+    "platform": "Codeforces",
+    "problem_index": "E",
+    "problem_name": "Candies Game",
+    "problem_url": "https://codeforces.com/contest/341/problem/E",
+    "submission_id": "CF263088446",
+    "submission_url": "https://codeforces.com/contest/341/submission/263088446",
+    "tags": [
+      "constructive algorithms",
+      "greedy",
+      "*3000"
+    ],
+    "timestamp": "May/29/2024 11:12"
+  },
   "CF263088471": {
     "contest_id": 1032,
     "language": "C++20 (GCC 13-64)",
