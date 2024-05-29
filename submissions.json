@@ -23393,6 +23393,22 @@
     ],
     "timestamp": "May/17/2024 08:26"
   },
+  "CF263113888": {
+    "contest_id": 1030,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1030/G.cpp",
+    "platform": "Codeforces",
+    "problem_index": "G",
+    "problem_name": "Linear Congruential Generator",
+    "problem_url": "https://codeforces.com/contest/1030/problem/G",
+    "submission_id": "CF263113888",
+    "submission_url": "https://codeforces.com/contest/1030/submission/263113888",
+    "tags": [
+      "number theory",
+      "*2900"
+    ],
+    "timestamp": "May/29/2024 14:50"
+  },
   "CF263113895": {
     "contest_id": 1637,
     "language": "C++20 (GCC 13-64)",
