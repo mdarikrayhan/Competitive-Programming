@@ -38716,6 +38716,23 @@
     ],
     "timestamp": "May/29/2024 14:00"
   },
+  "CF263108341": {
+    "contest_id": 1765,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1765/J.cpp",
+    "platform": "Codeforces",
+    "problem_index": "J",
+    "problem_name": "Hero to Zero",
+    "problem_url": "https://codeforces.com/contest/1765/problem/J",
+    "submission_id": "CF263108341",
+    "submission_url": "https://codeforces.com/contest/1765/submission/263108341",
+    "tags": [
+      "graph matchings",
+      "math",
+      "*2900"
+    ],
+    "timestamp": "May/29/2024 14:05"
+  },
   "CF263108891": {
     "contest_id": 97,
     "language": "C++20 (GCC 13-64)",
