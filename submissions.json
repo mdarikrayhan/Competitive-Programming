@@ -23393,6 +23393,24 @@
     ],
     "timestamp": "May/17/2024 08:26"
   },
+  "CF263133292": {
+    "contest_id": 72,
+    "language": "Io",
+    "path": "codeforces/72/F.io",
+    "platform": "Codeforces",
+    "problem_index": "F",
+    "problem_name": "Oil",
+    "problem_url": "https://codeforces.com/contest/72/problem/F",
+    "submission_id": "CF263133292",
+    "submission_url": "https://codeforces.com/contest/72/submission/263133292",
+    "tags": [
+      "*special problem",
+      "greedy",
+      "math",
+      "*1900"
+    ],
+    "timestamp": "May/29/2024 17:30"
+  },
   "CF263133436": {
     "contest_id": 72,
     "language": "Io",
