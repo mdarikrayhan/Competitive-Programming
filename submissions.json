@@ -23393,6 +23393,25 @@
     ],
     "timestamp": "May/17/2024 08:26"
   },
+  "CF263156183": {
+    "contest_id": 1969,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1969/F.cpp",
+    "platform": "Codeforces",
+    "problem_index": "F",
+    "problem_name": "Card Pairing",
+    "problem_url": "https://codeforces.com/contest/1969/problem/F",
+    "submission_id": "CF263156183",
+    "submission_url": "https://codeforces.com/contest/1969/submission/263156183",
+    "tags": [
+      "dp",
+      "greedy",
+      "hashing",
+      "implementation",
+      "*3000"
+    ],
+    "timestamp": "May/29/2024 20:30"
+  },
   "CF263156214": {
     "contest_id": 1779,
     "language": "C++20 (GCC 13-64)",
