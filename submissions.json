@@ -23393,6 +23393,25 @@
     ],
     "timestamp": "May/17/2024 08:26"
   },
+  "CF263117596": {
+    "contest_id": 1696,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1696/G.cpp",
+    "platform": "Codeforces",
+    "problem_index": "G",
+    "problem_name": "Fishingprince Plays With Array Again",
+    "problem_url": "https://codeforces.com/contest/1696/problem/G",
+    "submission_id": "CF263117596",
+    "submission_url": "https://codeforces.com/contest/1696/submission/263117596",
+    "tags": [
+      "brute force",
+      "data structures",
+      "geometry",
+      "math",
+      "*3300"
+    ],
+    "timestamp": "May/29/2024 15:20"
+  },
   "CF263117754": {
     "contest_id": 1182,
     "language": "C++20 (GCC 13-64)",

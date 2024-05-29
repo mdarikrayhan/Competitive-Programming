@@ -1,28 +1,78 @@
-#include<bits/stdc++.h>
-using namespace std;const double inf=-1e15;const int N=2e5+7;
-struct M{
-	double c[3][3];
-	M(){for(int i=0;i<3;++i)for(int j=0;j<3;++j)c[i][j]=inf;}
-	double* operator[](int x){return c[x];}
-	friend M operator*(M a, M b){M c;for(int i=0;i<3;i++)for(int j=0;j<3;j++)for(int k=0;k<3;k++)c[i][j]=max(c[i][j],a[i][k]+b[k][j]);return c;}
-}t[N<<2],C;int n,m,i,j;double v,ans,X,Y;
-void U(int x,int l,int r,int pos,double v){
-	if(l==r){t[x][0][0]=0;t[x][1][1]=v/(X+Y);t[x][2][2]=v/Y;return;}int mid=l+r>>1;
-	if(pos<=mid)U(x<<1,l,mid,pos,v);else U(x<<1|1,mid+1,r,pos,v);t[x]=t[x<<1]*C*t[x<<1|1];
+// LUOGU_RID: 156892993
+#include <bits/stdc++.h>
+using namespace std;
+
+#define debug(...) fprintf(stderr, __VA_ARGS__)
+
+using db = long double;
+const int N = 2e5 + 5;
+const int M = 3;
+const db Infdb = 1e18;
+
+struct Mat {
+  db x[M][M];
+  Mat() {
+    for (int i = 0; i < M; ++i)
+      for (int j = 0; j < M; ++j) x[i][j] = -Infdb;
+  }
+  Mat operator*(const Mat &b) {
+    Mat c;
+    for (int i = 0; i < M; ++i)
+      for (int j = 0; j < M; ++j)
+        for (int k = 0; k < M; ++k)
+          if (x[i][k] != -Infdb && b.x[k][j] != -Infdb)
+            c.x[i][j] = max(c.x[i][j], x[i][k] + b.x[k][j]);
+    return c;
+  }
+};
+
+int X, Y, a[N];
+Mat t[4 * N];
+#define LS (2 * i)
+#define RS (2 * i + 1)
+#define LP LS, l, mid
+#define RP RS, mid + 1, r
+void modify(int i, int l, int r, int x) {
+  if (l == r) {
+    auto &p = t[i].x;
+    p[0][0] = p[1][0] = p[2][0] = 0;
+    p[0][1] = db(a[l]) / Y;
+    p[0][2] = p[2][2] = db(a[l]) / (X + Y);
+    p[1][1] = p[2][1] = p[1][2] = -Infdb;
+    return;
+  }
+  int mid = (l + r) / 2;
+  if (x <= mid) modify(LP, x);
+  else modify(RP, x);
+  t[i] = t[LS] * t[RS];
 }
-M Q(int x,int l,int r,int a,int b) {
-	if(a<=l&&r<=b)return t[x];int mid=l+r>>1;
-	if(b<=mid)return Q(x<<1,l,mid,a,b);if(a>mid)return Q(x<<1|1,mid+1,r,a,b);return Q(x<<1,l,mid,a,b)*C*Q(x<<1|1,mid+1,r,a,b);
+Mat query(int i, int l, int r, int ql, int qr) {
+  if (ql <= l && qr >= r) return t[i];
+  int mid = (l + r) / 2;
+  if (qr <= mid) return query(LP, ql, qr);
+  else if (ql > mid) return query(RP, ql, qr);
+  else return query(LP, ql, qr) * query(RP, ql, qr);
 }
-int main(){
-	C[0][0]=C[0][1]=C[0][2]=C[1][0]=C[2][0]=C[1][1]=0,C[1][2]=C[2][1]=C[2][2]=inf;
-	for(scanf("%d%d%lf%lf",&n,&m,&X,&Y),X>Y?swap(X,Y):void(),i=1;i<=n;++i)scanf("%lf",&v),U(1,1,n,i,v);
-	while(m--){
-		scanf("%d",&i);
-		if(i==1)scanf("%d%lf",&j,&v),U(1,1,n,j,v);else{
-			scanf("%d%d",&i,&j);auto ret = Q(1,1,n,i,j);
-			ans=inf;for(i=0;i<3;++i)for(j=0;j<3;++j)ans=max(ans,ret[i][j]);
-			printf("%.10f\n",ans);
-		}
-	}
+
+int main() {
+  int n, q;
+  scanf("%d%d%d%d", &n, &q, &X, &Y);
+  if (X > Y) swap(X, Y);
+  for (int i = 0; i < n; ++i) {
+    scanf("%d", &a[i]);
+    modify(1, 0, n - 1, i);
+  }
+  while (q--) {
+    int op, x, y;
+    scanf("%d%d%d", &op, &x, &y);
+    if (op == 1) a[--x] = y, modify(1, 0, n - 1, x);
+    else {
+      --x, --y;
+      Mat f;
+      f.x[0][0] = 0;
+      f = f * query(1, 0, n - 1, x, y);
+      printf("%.10Lf\n", max({f.x[0][0], f.x[0][1], f.x[0][2]}));
+    }
+  }
+  return 0;
 }
