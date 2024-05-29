@@ -23393,6 +23393,23 @@
     ],
     "timestamp": "May/17/2024 08:26"
   },
+  "CF263157424": {
+    "contest_id": 645,
+    "language": "C++17 (GCC 7-32)",
+    "path": "codeforces/645/G.cpp",
+    "platform": "Codeforces",
+    "problem_index": "G",
+    "problem_name": "Armistice Area Apportionment",
+    "problem_url": "https://codeforces.com/contest/645/problem/G",
+    "submission_id": "CF263157424",
+    "submission_url": "https://codeforces.com/contest/645/submission/263157424",
+    "tags": [
+      "binary search",
+      "geometry",
+      "*3200"
+    ],
+    "timestamp": "May/29/2024 20:41"
+  },
   "CF263157514": {
     "contest_id": 1386,
     "language": "C++17 (GCC 7-32)",
