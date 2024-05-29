@@ -38694,6 +38694,22 @@
     ],
     "timestamp": "May/29/2024 07:10"
   },
+  "CF263074672": {
+    "contest_id": 235,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/235/D.cpp",
+    "platform": "Codeforces",
+    "problem_index": "D",
+    "problem_name": "Graph Game",
+    "problem_url": "https://codeforces.com/contest/235/problem/D",
+    "submission_id": "CF263074672",
+    "submission_url": "https://codeforces.com/contest/235/submission/263074672",
+    "tags": [
+      "graphs",
+      "*3000"
+    ],
+    "timestamp": "May/29/2024 07:12"
+  },
   "CF263074687": {
     "contest_id": 1419,
     "language": "C++20 (GCC 13-64)",
