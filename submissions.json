@@ -27114,6 +27114,23 @@
     ],
     "timestamp": "May/29/2024 06:34"
   },
+  "CF263073637": {
+    "contest_id": 883,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/883/C.cpp",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Downloading B++",
+    "problem_url": "https://codeforces.com/contest/883/problem/C",
+    "submission_id": "CF263073637",
+    "submission_url": "https://codeforces.com/contest/883/submission/263073637",
+    "tags": [
+      "binary search",
+      "implementation",
+      "*2300"
+    ],
+    "timestamp": "May/29/2024 06:46"
+  },
   "CF263073644": {
     "contest_id": 819,
     "language": "C++20 (GCC 13-64)",
