@@ -34491,6 +34491,24 @@
     ],
     "timestamp": "May/29/2024 14:59"
   },
+  "CF263115531": {
+    "contest_id": 1864,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1864/H.cpp",
+    "platform": "Codeforces",
+    "problem_index": "H",
+    "problem_name": "Asterism Stream",
+    "problem_url": "https://codeforces.com/contest/1864/problem/H",
+    "submission_id": "CF263115531",
+    "submission_url": "https://codeforces.com/contest/1864/submission/263115531",
+    "tags": [
+      "dp",
+      "math",
+      "matrices",
+      "*3200"
+    ],
+    "timestamp": "May/29/2024 15:03"
+  },
   "CF263115614": {
     "contest_id": 992,
     "language": "C++20 (GCC 13-64)",
