@@ -23393,6 +23393,23 @@
     ],
     "timestamp": "May/17/2024 08:26"
   },
+  "CF263117459": {
+    "contest_id": 75,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/75/E.cpp",
+    "platform": "Codeforces",
+    "problem_index": "E",
+    "problem_name": "Ship's Shortest Path",
+    "problem_url": "https://codeforces.com/contest/75/problem/E",
+    "submission_id": "CF263117459",
+    "submission_url": "https://codeforces.com/contest/75/submission/263117459",
+    "tags": [
+      "geometry",
+      "shortest paths",
+      "*2400"
+    ],
+    "timestamp": "May/29/2024 15:19"
+  },
   "CF263117491": {
     "contest_id": 172,
     "language": "C++20 (GCC 13-64)",
