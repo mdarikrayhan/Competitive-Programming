@@ -24814,6 +24814,23 @@
     ],
     "timestamp": "May/29/2024 15:36"
   },
+  "CF263129242": {
+    "contest_id": 1804,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1804/H.cpp",
+    "platform": "Codeforces",
+    "problem_index": "H",
+    "problem_name": "Code Lock",
+    "problem_url": "https://codeforces.com/contest/1804/problem/H",
+    "submission_id": "CF263129242",
+    "submission_url": "https://codeforces.com/contest/1804/submission/263129242",
+    "tags": [
+      "bitmasks",
+      "dp",
+      "*3300"
+    ],
+    "timestamp": "May/29/2024 16:57"
+  },
   "CF263129267": {
     "contest_id": 1179,
     "language": "C++20 (GCC 13-64)",
