@@ -23393,6 +23393,21 @@
     ],
     "timestamp": "May/17/2024 08:26"
   },
+  "CF263150833": {
+    "contest_id": 993,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/993/F.cpp",
+    "platform": "Codeforces",
+    "problem_index": "F",
+    "problem_name": "The Moral Dilemma",
+    "problem_url": "https://codeforces.com/contest/993/problem/F",
+    "submission_id": "CF263150833",
+    "submission_url": "https://codeforces.com/contest/993/submission/263150833",
+    "tags": [
+      "*3200"
+    ],
+    "timestamp": "May/29/2024 19:48"
+  },
   "CF263151196": {
     "contest_id": 1951,
     "language": "C++20 (GCC 13-64)",
