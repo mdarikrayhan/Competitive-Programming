@@ -23393,6 +23393,24 @@
     ],
     "timestamp": "May/17/2024 08:26"
   },
+  "CF263159890": {
+    "contest_id": 799,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/799/G.cpp",
+    "platform": "Codeforces",
+    "problem_index": "G",
+    "problem_name": "Cut the pie",
+    "problem_url": "https://codeforces.com/contest/799/problem/G",
+    "submission_id": "CF263159890",
+    "submission_url": "https://codeforces.com/contest/799/submission/263159890",
+    "tags": [
+      "binary search",
+      "data structures",
+      "geometry",
+      "*3500"
+    ],
+    "timestamp": "May/29/2024 21:03"
+  },
   "CF263160052": {
     "contest_id": 1737,
     "language": "C++20 (GCC 13-64)",
