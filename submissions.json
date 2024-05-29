@@ -23393,6 +23393,25 @@
     ],
     "timestamp": "May/17/2024 08:26"
   },
+  "CF263076684": {
+    "contest_id": 290,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/290/F.cpp",
+    "platform": "Codeforces",
+    "problem_index": "F",
+    "problem_name": "Greedy Petya",
+    "problem_url": "https://codeforces.com/contest/290/problem/F",
+    "submission_id": "CF263076684",
+    "submission_url": "https://codeforces.com/contest/290/submission/263076684",
+    "tags": [
+      "*special problem",
+      "dfs and similar",
+      "graphs",
+      "greedy",
+      "*2800"
+    ],
+    "timestamp": "May/29/2024 08:00"
+  },
   "CF263076698": {
     "contest_id": 704,
     "language": "C++20 (GCC 13-64)",
