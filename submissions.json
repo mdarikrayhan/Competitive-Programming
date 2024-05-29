@@ -23497,6 +23497,19 @@
     "tags": [],
     "timestamp": "May/29/2024 18:32"
   },
+  "CF263144855": {
+    "contest_id": 1267,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1267/A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Apprentice Learning Trajectory",
+    "problem_url": "https://codeforces.com/contest/1267/problem/A",
+    "submission_id": "CF263144855",
+    "submission_url": "https://codeforces.com/contest/1267/submission/263144855",
+    "tags": [],
+    "timestamp": "May/29/2024 19:04"
+  },
   "CF263144981": {
     "contest_id": 925,
     "language": "C++20 (GCC 13-64)",
