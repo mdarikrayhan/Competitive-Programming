@@ -24298,6 +24298,23 @@
     ],
     "timestamp": "May/29/2024 08:12"
   },
+  "CF263082119": {
+    "contest_id": 1523,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1523/G.cpp",
+    "platform": "Codeforces",
+    "problem_index": "G",
+    "problem_name": "Try Booking",
+    "problem_url": "https://codeforces.com/contest/1523/problem/G",
+    "submission_id": "CF263082119",
+    "submission_url": "https://codeforces.com/contest/1523/submission/263082119",
+    "tags": [
+      "data structures",
+      "divide and conquer",
+      "*3200"
+    ],
+    "timestamp": "May/29/2024 09:35"
+  },
   "CF263082353": {
     "contest_id": 1155,
     "language": "C++20 (GCC 13-64)",
