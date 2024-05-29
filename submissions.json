@@ -24814,6 +24814,24 @@
     ],
     "timestamp": "May/29/2024 15:36"
   },
+  "CF263128931": {
+    "contest_id": 1796,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1796/F.cpp",
+    "platform": "Codeforces",
+    "problem_index": "F",
+    "problem_name": "Strange Triples",
+    "problem_url": "https://codeforces.com/contest/1796/problem/F",
+    "submission_id": "CF263128931",
+    "submission_url": "https://codeforces.com/contest/1796/submission/263128931",
+    "tags": [
+      "brute force",
+      "math",
+      "number theory",
+      "*2900"
+    ],
+    "timestamp": "May/29/2024 16:55"
+  },
   "CF263128956": {
     "contest_id": 1585,
     "language": "C++20 (GCC 13-64)",
