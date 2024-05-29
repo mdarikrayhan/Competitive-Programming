@@ -38716,6 +38716,25 @@
     ],
     "timestamp": "May/29/2024 14:00"
   },
+  "CF263108938": {
+    "contest_id": 97,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/97/C.cpp",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Winning Strategy",
+    "problem_url": "https://codeforces.com/contest/97/problem/C",
+    "submission_id": "CF263108938",
+    "submission_url": "https://codeforces.com/contest/97/submission/263108938",
+    "tags": [
+      "binary search",
+      "graphs",
+      "math",
+      "shortest paths",
+      "*2400"
+    ],
+    "timestamp": "May/29/2024 14:09"
+  },
   "CF263109064": {
     "contest_id": 97,
     "language": "C++20 (GCC 13-64)",
