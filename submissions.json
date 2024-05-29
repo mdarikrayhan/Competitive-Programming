@@ -27114,6 +27114,24 @@
     ],
     "timestamp": "May/29/2024 06:34"
   },
+  "CF263073393": {
+    "contest_id": 1371,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1371/F.cpp",
+    "platform": "Codeforces",
+    "problem_index": "F",
+    "problem_name": "Raging Thunder",
+    "problem_url": "https://codeforces.com/contest/1371/problem/F",
+    "submission_id": "CF263073393",
+    "submission_url": "https://codeforces.com/contest/1371/submission/263073393",
+    "tags": [
+      "data structures",
+      "divide and conquer",
+      "implementation",
+      "*2800"
+    ],
+    "timestamp": "May/29/2024 06:39"
+  },
   "CF263073395": {
     "contest_id": 685,
     "language": "C++20 (GCC 13-64)",
