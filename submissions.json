@@ -27654,6 +27654,25 @@
     ],
     "timestamp": "May/29/2024 15:36"
   },
+  "CF263126055": {
+    "contest_id": 1641,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1641/E.cpp",
+    "platform": "Codeforces",
+    "problem_index": "E",
+    "problem_name": "Special Positions",
+    "problem_url": "https://codeforces.com/contest/1641/problem/E",
+    "submission_id": "CF263126055",
+    "submission_url": "https://codeforces.com/contest/1641/submission/263126055",
+    "tags": [
+      "combinatorics",
+      "divide and conquer",
+      "fft",
+      "math",
+      "*3300"
+    ],
+    "timestamp": "May/29/2024 16:29"
+  },
   "CF263126085": {
     "contest_id": 989,
     "language": "C++20 (GCC 13-64)",
