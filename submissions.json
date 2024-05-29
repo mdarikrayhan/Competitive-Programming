@@ -23393,6 +23393,25 @@
     ],
     "timestamp": "May/17/2024 08:26"
   },
+  "CF263072562": {
+    "contest_id": 1697,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1697/F.cpp",
+    "platform": "Codeforces",
+    "problem_index": "F",
+    "problem_name": "Too Many Constraints",
+    "problem_url": "https://codeforces.com/contest/1697/problem/F",
+    "submission_id": "CF263072562",
+    "submission_url": "https://codeforces.com/contest/1697/submission/263072562",
+    "tags": [
+      "2-sat",
+      "constructive algorithms",
+      "graphs",
+      "implementation",
+      "*2800"
+    ],
+    "timestamp": "May/29/2024 06:14"
+  },
   "CF263072573": {
     "contest_id": 896,
     "language": "C++20 (GCC 13-64)",
