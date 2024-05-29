@@ -35718,6 +35718,22 @@
     ],
     "timestamp": "May/29/2024 15:32"
   },
+  "CF263119194": {
+    "contest_id": 379,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/379/G.cpp",
+    "platform": "Codeforces",
+    "problem_index": "G",
+    "problem_name": "New Year Cactus",
+    "problem_url": "https://codeforces.com/contest/379/problem/G",
+    "submission_id": "CF263119194",
+    "submission_url": "https://codeforces.com/contest/379/submission/263119194",
+    "tags": [
+      "dp",
+      "*3100"
+    ],
+    "timestamp": "May/29/2024 15:33"
+  },
   "CF263119198": {
     "contest_id": 1876,
     "language": "C++20 (GCC 13-64)",
