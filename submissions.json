@@ -38716,6 +38716,23 @@
     ],
     "timestamp": "May/29/2024 14:00"
   },
+  "CF263108232": {
+    "contest_id": 1765,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1765/I.cpp",
+    "platform": "Codeforces",
+    "problem_index": "I",
+    "problem_name": "Infinite Chess",
+    "problem_url": "https://codeforces.com/contest/1765/problem/I",
+    "submission_id": "CF263108232",
+    "submission_url": "https://codeforces.com/contest/1765/submission/263108232",
+    "tags": [
+      "implementation",
+      "shortest paths",
+      "*2800"
+    ],
+    "timestamp": "May/29/2024 14:04"
+  },
   "CF263108341": {
     "contest_id": 1765,
     "language": "C++20 (GCC 13-64)",
