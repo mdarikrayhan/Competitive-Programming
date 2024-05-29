@@ -23393,6 +23393,19 @@
     ],
     "timestamp": "May/17/2024 08:26"
   },
+  "CF263170300": {
+    "contest_id": 1357,
+    "language": "Q#",
+    "path": "codeforces/1357/D2.qs",
+    "platform": "Codeforces",
+    "problem_index": "D2",
+    "problem_name": "Quantum Classification - Dataset 4",
+    "problem_url": "https://codeforces.com/contest/1357/problem/D2",
+    "submission_id": "CF263170300",
+    "submission_url": "https://codeforces.com/contest/1357/submission/263170300",
+    "tags": [],
+    "timestamp": "May/29/2024 23:01"
+  },
   "CF263170348": {
     "contest_id": 1357,
     "language": "Q#",
