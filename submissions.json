@@ -23393,6 +23393,19 @@
     ],
     "timestamp": "May/17/2024 08:26"
   },
+  "CF263148442": {
+    "contest_id": 1912,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1912/G.cpp",
+    "platform": "Codeforces",
+    "problem_index": "G",
+    "problem_name": "Great City Saint Petersburg",
+    "problem_url": "https://codeforces.com/contest/1912/problem/G",
+    "submission_id": "CF263148442",
+    "submission_url": "https://codeforces.com/contest/1912/submission/263148442",
+    "tags": [],
+    "timestamp": "May/29/2024 19:30"
+  },
   "CF263148473": {
     "contest_id": 1949,
     "language": "C++20 (GCC 13-64)",
