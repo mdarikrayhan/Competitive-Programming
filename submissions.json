@@ -23497,6 +23497,21 @@
     "tags": [],
     "timestamp": "May/29/2024 18:32"
   },
+  "CF263146999": {
+    "contest_id": 1781,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1781/H2.cpp",
+    "platform": "Codeforces",
+    "problem_index": "H2",
+    "problem_name": "Window Signals (hard version)",
+    "problem_url": "https://codeforces.com/contest/1781/problem/H2",
+    "submission_id": "CF263146999",
+    "submission_url": "https://codeforces.com/contest/1781/submission/263146999",
+    "tags": [
+      "*3500"
+    ],
+    "timestamp": "May/29/2024 19:20"
+  },
   "CF263147021": {
     "contest_id": 936,
     "language": "C++20 (GCC 13-64)",
