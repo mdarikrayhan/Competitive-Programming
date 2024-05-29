@@ -23393,6 +23393,23 @@
     ],
     "timestamp": "May/17/2024 08:26"
   },
+  "CF263072343": {
+    "contest_id": 109,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/109/D.cpp",
+    "platform": "Codeforces",
+    "problem_index": "D",
+    "problem_name": "Lucky Sorting",
+    "problem_url": "https://codeforces.com/contest/109/problem/D",
+    "submission_id": "CF263072343",
+    "submission_url": "https://codeforces.com/contest/109/submission/263072343",
+    "tags": [
+      "constructive algorithms",
+      "sortings",
+      "*2000"
+    ],
+    "timestamp": "May/29/2024 06:08"
+  },
   "CF263072349": {
     "contest_id": 1461,
     "language": "C++20 (GCC 13-64)",
