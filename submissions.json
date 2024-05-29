@@ -23393,6 +23393,23 @@
     ],
     "timestamp": "May/17/2024 08:26"
   },
+  "CF263083493": {
+    "contest_id": 125,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/125/D.cpp",
+    "platform": "Codeforces",
+    "problem_index": "D",
+    "problem_name": "Two progressions",
+    "problem_url": "https://codeforces.com/contest/125/problem/D",
+    "submission_id": "CF263083493",
+    "submission_url": "https://codeforces.com/contest/125/submission/263083493",
+    "tags": [
+      "constructive algorithms",
+      "greedy",
+      "*2200"
+    ],
+    "timestamp": "May/29/2024 09:59"
+  },
   "CF263083509": {
     "contest_id": 1379,
     "language": "C++20 (GCC 13-64)",
