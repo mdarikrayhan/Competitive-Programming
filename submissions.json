@@ -23393,6 +23393,25 @@
     ],
     "timestamp": "May/17/2024 08:26"
   },
+  "CF263072443": {
+    "contest_id": 253,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/253/E.cpp",
+    "platform": "Codeforces",
+    "problem_index": "E",
+    "problem_name": "Printer",
+    "problem_url": "https://codeforces.com/contest/253/problem/E",
+    "submission_id": "CF263072443",
+    "submission_url": "https://codeforces.com/contest/253/submission/263072443",
+    "tags": [
+      "binary search",
+      "data structures",
+      "implementation",
+      "sortings",
+      "*2200"
+    ],
+    "timestamp": "May/29/2024 06:11"
+  },
   "CF263072453": {
     "contest_id": 1424,
     "language": "C++20 (GCC 13-64)",
