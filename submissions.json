@@ -30034,6 +30034,23 @@
     ],
     "timestamp": "May/29/2024 15:36"
   },
+  "CF263122698": {
+    "contest_id": 1830,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1830/F.cpp",
+    "platform": "Codeforces",
+    "problem_index": "F",
+    "problem_name": "The Third Grace",
+    "problem_url": "https://codeforces.com/contest/1830/problem/F",
+    "submission_id": "CF263122698",
+    "submission_url": "https://codeforces.com/contest/1830/submission/263122698",
+    "tags": [
+      "data structures",
+      "dp",
+      "*3200"
+    ],
+    "timestamp": "May/29/2024 16:01"
+  },
   "CF263122720": {
     "contest_id": 1510,
     "language": "C++20 (GCC 13-64)",
