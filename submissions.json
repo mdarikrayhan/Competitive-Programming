@@ -24814,6 +24814,22 @@
     ],
     "timestamp": "May/29/2024 15:36"
   },
+  "CF263127884": {
+    "contest_id": 1423,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1423/G.cpp",
+    "platform": "Codeforces",
+    "problem_index": "G",
+    "problem_name": "Growing flowers",
+    "problem_url": "https://codeforces.com/contest/1423/problem/G",
+    "submission_id": "CF263127884",
+    "submission_url": "https://codeforces.com/contest/1423/submission/263127884",
+    "tags": [
+      "data structures",
+      "*3500"
+    ],
+    "timestamp": "May/29/2024 16:46"
+  },
   "CF263127891": {
     "contest_id": 277,
     "language": "C++20 (GCC 13-64)",
