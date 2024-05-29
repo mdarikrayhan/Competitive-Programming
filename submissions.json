@@ -23497,6 +23497,21 @@
     "tags": [],
     "timestamp": "May/29/2024 18:32"
   },
+  "CF263146685": {
+    "contest_id": 730,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/730/F.cpp",
+    "platform": "Codeforces",
+    "problem_index": "F",
+    "problem_name": "Ber Patio",
+    "problem_url": "https://codeforces.com/contest/730/problem/F",
+    "submission_id": "CF263146685",
+    "submission_url": "https://codeforces.com/contest/730/submission/263146685",
+    "tags": [
+      "*3100"
+    ],
+    "timestamp": "May/29/2024 19:18"
+  },
   "CF263146753": {
     "contest_id": 398,
     "language": "C++20 (GCC 13-64)",
