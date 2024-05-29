@@ -27195,6 +27195,25 @@
     "tags": [],
     "timestamp": "May/29/2024 13:37"
   },
+  "CF263106166": {
+    "contest_id": 848,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/848/D.cpp",
+    "platform": "Codeforces",
+    "problem_index": "D",
+    "problem_name": "Shake It!",
+    "problem_url": "https://codeforces.com/contest/848/problem/D",
+    "submission_id": "CF263106166",
+    "submission_url": "https://codeforces.com/contest/848/submission/263106166",
+    "tags": [
+      "combinatorics",
+      "dp",
+      "flows",
+      "graphs",
+      "*2900"
+    ],
+    "timestamp": "May/29/2024 13:48"
+  },
   "CF263106326": {
     "contest_id": 26,
     "language": "C++20 (GCC 13-64)",
