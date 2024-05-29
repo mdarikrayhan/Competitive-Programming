@@ -30034,6 +30034,25 @@
     ],
     "timestamp": "May/29/2024 15:36"
   },
+  "CF263123474": {
+    "contest_id": 618,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/618/G.cpp",
+    "platform": "Codeforces",
+    "problem_index": "G",
+    "problem_name": "Combining Slimes",
+    "problem_url": "https://codeforces.com/contest/618/problem/G",
+    "submission_id": "CF263123474",
+    "submission_url": "https://codeforces.com/contest/618/submission/263123474",
+    "tags": [
+      "dp",
+      "math",
+      "matrices",
+      "probabilities",
+      "*3300"
+    ],
+    "timestamp": "May/29/2024 16:08"
+  },
   "CF263123514": {
     "contest_id": 1735,
     "language": "C++20 (GCC 13-64)",
