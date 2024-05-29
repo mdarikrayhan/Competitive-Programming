@@ -30034,6 +30034,24 @@
     ],
     "timestamp": "May/29/2024 15:36"
   },
+  "CF263122227": {
+    "contest_id": 1270,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1270/I.cpp",
+    "platform": "Codeforces",
+    "problem_index": "I",
+    "problem_name": "Xor on Figures",
+    "problem_url": "https://codeforces.com/contest/1270/problem/I",
+    "submission_id": "CF263122227",
+    "submission_url": "https://codeforces.com/contest/1270/submission/263122227",
+    "tags": [
+      "constructive algorithms",
+      "fft",
+      "math",
+      "*3500"
+    ],
+    "timestamp": "May/29/2024 15:57"
+  },
   "CF263122277": {
     "contest_id": 1666,
     "language": "C++20 (GCC 13-64)",
