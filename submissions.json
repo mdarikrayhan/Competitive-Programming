@@ -23670,6 +23670,23 @@
     ],
     "timestamp": "May/29/2024 07:56"
   },
+  "CF263076591": {
+    "contest_id": 955,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/955/D.cpp",
+    "platform": "Codeforces",
+    "problem_index": "D",
+    "problem_name": "Scissors",
+    "problem_url": "https://codeforces.com/contest/955/problem/D",
+    "submission_id": "CF263076591",
+    "submission_url": "https://codeforces.com/contest/955/submission/263076591",
+    "tags": [
+      "brute force",
+      "strings",
+      "*2600"
+    ],
+    "timestamp": "May/29/2024 07:58"
+  },
   "CF263076621": {
     "contest_id": 409,
     "language": "C++20 (GCC 13-64)",
