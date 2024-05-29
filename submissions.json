@@ -23393,6 +23393,24 @@
     ],
     "timestamp": "May/17/2024 08:26"
   },
+  "CF263149303": {
+    "contest_id": 923,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/923/F.cpp",
+    "platform": "Codeforces",
+    "problem_index": "F",
+    "problem_name": "Public Service",
+    "problem_url": "https://codeforces.com/contest/923/problem/F",
+    "submission_id": "CF263149303",
+    "submission_url": "https://codeforces.com/contest/923/submission/263149303",
+    "tags": [
+      "constructive algorithms",
+      "graphs",
+      "trees",
+      "*3200"
+    ],
+    "timestamp": "May/29/2024 19:36"
+  },
   "CF263149377": {
     "contest_id": 68,
     "language": "C++20 (GCC 13-64)",
