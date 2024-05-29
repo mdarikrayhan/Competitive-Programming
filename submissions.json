@@ -38145,6 +38145,22 @@
     ],
     "timestamp": "May/29/2024 07:27"
   },
+  "CF263075409": {
+    "contest_id": 530,
+    "language": "Picat",
+    "path": "codeforces/530/A.pi",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Quadratic equation",
+    "problem_url": "https://codeforces.com/contest/530/problem/A",
+    "submission_id": "CF263075409",
+    "submission_url": "https://codeforces.com/contest/530/submission/263075409",
+    "tags": [
+      "*special problem",
+      "*1500"
+    ],
+    "timestamp": "May/29/2024 07:30"
+  },
   "CF263075440": {
     "contest_id": 530,
     "language": "Picat",
