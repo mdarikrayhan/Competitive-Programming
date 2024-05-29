@@ -23393,6 +23393,22 @@
     ],
     "timestamp": "May/17/2024 08:26"
   },
+  "CF263132582": {
+    "contest_id": 1530,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1530/G.cpp",
+    "platform": "Codeforces",
+    "problem_index": "G",
+    "problem_name": "What a Reversal",
+    "problem_url": "https://codeforces.com/contest/1530/problem/G",
+    "submission_id": "CF263132582",
+    "submission_url": "https://codeforces.com/contest/1530/submission/263132582",
+    "tags": [
+      "constructive algorithms",
+      "*3300"
+    ],
+    "timestamp": "May/29/2024 17:25"
+  },
   "CF263132617": {
     "contest_id": 72,
     "language": "Io",
