@@ -23497,6 +23497,23 @@
     "tags": [],
     "timestamp": "May/29/2024 18:32"
   },
+  "CF263145433": {
+    "contest_id": 1762,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1762/G.cpp",
+    "platform": "Codeforces",
+    "problem_index": "G",
+    "problem_name": "Unequal Adjacent Elements",
+    "problem_url": "https://codeforces.com/contest/1762/problem/G",
+    "submission_id": "CF263145433",
+    "submission_url": "https://codeforces.com/contest/1762/submission/263145433",
+    "tags": [
+      "constructive algorithms",
+      "sortings",
+      "*3100"
+    ],
+    "timestamp": "May/29/2024 19:08"
+  },
   "CF263145441": {
     "contest_id": 183,
     "language": "C++20 (GCC 13-64)",
