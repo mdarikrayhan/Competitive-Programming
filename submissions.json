@@ -38145,6 +38145,22 @@
     ],
     "timestamp": "May/29/2024 07:27"
   },
+  "CF263075456": {
+    "contest_id": 530,
+    "language": "Picat",
+    "path": "codeforces/530/C.pi",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Diophantine equation",
+    "problem_url": "https://codeforces.com/contest/530/problem/C",
+    "submission_id": "CF263075456",
+    "submission_url": "https://codeforces.com/contest/530/submission/263075456",
+    "tags": [
+      "*special problem",
+      "*1500"
+    ],
+    "timestamp": "May/29/2024 07:31"
+  },
   "CF263075492": {
     "contest_id": 530,
     "language": "Picat",
