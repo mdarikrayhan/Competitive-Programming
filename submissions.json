@@ -23393,6 +23393,22 @@
     ],
     "timestamp": "May/17/2024 08:26"
   },
+  "CF263155847": {
+    "contest_id": 1060,
+    "language": "C++17 (GCC 7-32)",
+    "path": "codeforces/1060/G.cpp",
+    "platform": "Codeforces",
+    "problem_index": "G",
+    "problem_name": "Balls and Pockets",
+    "problem_url": "https://codeforces.com/contest/1060/problem/G",
+    "submission_id": "CF263155847",
+    "submission_url": "https://codeforces.com/contest/1060/submission/263155847",
+    "tags": [
+      "data structures",
+      "*3400"
+    ],
+    "timestamp": "May/29/2024 20:27"
+  },
   "CF263155889": {
     "contest_id": 1672,
     "language": "C++17 (GCC 7-32)",
