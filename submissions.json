@@ -23393,6 +23393,24 @@
     ],
     "timestamp": "May/17/2024 08:26"
   },
+  "CF263073092": {
+    "contest_id": 1316,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1316/F.cpp",
+    "platform": "Codeforces",
+    "problem_index": "F",
+    "problem_name": "Battalion Strength",
+    "problem_url": "https://codeforces.com/contest/1316/problem/F",
+    "submission_id": "CF263073092",
+    "submission_url": "https://codeforces.com/contest/1316/submission/263073092",
+    "tags": [
+      "data structures",
+      "divide and conquer",
+      "probabilities",
+      "*2800"
+    ],
+    "timestamp": "May/29/2024 06:31"
+  },
   "CF263073100": {
     "contest_id": 864,
     "language": "C++20 (GCC 13-64)",
