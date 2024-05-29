@@ -24814,6 +24814,25 @@
     ],
     "timestamp": "May/29/2024 15:36"
   },
+  "CF263129847": {
+    "contest_id": 1588,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1588/F.cpp",
+    "platform": "Codeforces",
+    "problem_index": "F",
+    "problem_name": "Jumping Through the Array",
+    "problem_url": "https://codeforces.com/contest/1588/problem/F",
+    "submission_id": "CF263129847",
+    "submission_url": "https://codeforces.com/contest/1588/submission/263129847",
+    "tags": [
+      "binary search",
+      "data structures",
+      "graphs",
+      "two pointers",
+      "*3500"
+    ],
+    "timestamp": "May/29/2024 17:03"
+  },
   "CF263129954": {
     "contest_id": 1906,
     "language": "C++20 (GCC 13-64)",
