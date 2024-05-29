@@ -38716,6 +38716,24 @@
     ],
     "timestamp": "May/29/2024 14:00"
   },
+  "CF263108146": {
+    "contest_id": 1765,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1765/G.cpp",
+    "platform": "Codeforces",
+    "problem_index": "G",
+    "problem_name": "Guess the String",
+    "problem_url": "https://codeforces.com/contest/1765/problem/G",
+    "submission_id": "CF263108146",
+    "submission_url": "https://codeforces.com/contest/1765/submission/263108146",
+    "tags": [
+      "constructive algorithms",
+      "interactive",
+      "probabilities",
+      "*2600"
+    ],
+    "timestamp": "May/29/2024 14:03"
+  },
   "CF263108232": {
     "contest_id": 1765,
     "language": "C++20 (GCC 13-64)",
