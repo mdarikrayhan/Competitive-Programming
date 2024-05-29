@@ -39328,6 +39328,23 @@
     ],
     "timestamp": "May/29/2024 11:07"
   },
+  "CF263088087": {
+    "contest_id": 1055,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1055/F.cpp",
+    "platform": "Codeforces",
+    "problem_index": "F",
+    "problem_name": "Tree and XOR",
+    "problem_url": "https://codeforces.com/contest/1055/problem/F",
+    "submission_id": "CF263088087",
+    "submission_url": "https://codeforces.com/contest/1055/submission/263088087",
+    "tags": [
+      "strings",
+      "trees",
+      "*2900"
+    ],
+    "timestamp": "May/29/2024 11:07"
+  },
   "CF263088126": {
     "contest_id": 803,
     "language": "C++20 (GCC 13-64)",
