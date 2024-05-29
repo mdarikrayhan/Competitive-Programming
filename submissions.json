@@ -34491,6 +34491,23 @@
     ],
     "timestamp": "May/29/2024 14:59"
   },
+  "CF263115960": {
+    "contest_id": 497,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/497/E.cpp",
+    "platform": "Codeforces",
+    "problem_index": "E",
+    "problem_name": "Subsequences Return",
+    "problem_url": "https://codeforces.com/contest/497/problem/E",
+    "submission_id": "CF263115960",
+    "submission_url": "https://codeforces.com/contest/497/submission/263115960",
+    "tags": [
+      "dp",
+      "matrices",
+      "*2900"
+    ],
+    "timestamp": "May/29/2024 15:07"
+  },
   "CF263115980": {
     "contest_id": 142,
     "language": "C++20 (GCC 13-64)",
