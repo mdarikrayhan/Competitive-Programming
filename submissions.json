@@ -24814,6 +24814,25 @@
     ],
     "timestamp": "May/29/2024 15:36"
   },
+  "CF263128261": {
+    "contest_id": 1893,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1893/E.cpp",
+    "platform": "Codeforces",
+    "problem_index": "E",
+    "problem_name": "Cacti Symphony",
+    "problem_url": "https://codeforces.com/contest/1893/problem/E",
+    "submission_id": "CF263128261",
+    "submission_url": "https://codeforces.com/contest/1893/submission/263128261",
+    "tags": [
+      "combinatorics",
+      "dfs and similar",
+      "dp",
+      "graphs",
+      "*3500"
+    ],
+    "timestamp": "May/29/2024 16:49"
+  },
   "CF263128352": {
     "contest_id": 1242,
     "language": "C++20 (GCC 13-64)",
