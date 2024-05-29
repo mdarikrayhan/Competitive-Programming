@@ -23393,6 +23393,24 @@
     ],
     "timestamp": "May/17/2024 08:26"
   },
+  "CF263161272": {
+    "contest_id": 1704,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1704/H2.cpp",
+    "platform": "Codeforces",
+    "problem_index": "H2",
+    "problem_name": "Game of AI (hard version)",
+    "problem_url": "https://codeforces.com/contest/1704/problem/H2",
+    "submission_id": "CF263161272",
+    "submission_url": "https://codeforces.com/contest/1704/submission/263161272",
+    "tags": [
+      "combinatorics",
+      "fft",
+      "math",
+      "*3500"
+    ],
+    "timestamp": "May/29/2024 21:16"
+  },
   "CF263161526": {
     "contest_id": 1491,
     "language": "C++20 (GCC 13-64)",
