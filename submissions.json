@@ -23393,6 +23393,21 @@
     ],
     "timestamp": "May/17/2024 08:26"
   },
+  "CF263137555": {
+    "contest_id": 394,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/394/E.cpp",
+    "platform": "Codeforces",
+    "problem_index": "E",
+    "problem_name": "Lightbulb for Minister",
+    "problem_url": "https://codeforces.com/contest/394/problem/E",
+    "submission_id": "CF263137555",
+    "submission_url": "https://codeforces.com/contest/394/submission/263137555",
+    "tags": [
+      "geometry"
+    ],
+    "timestamp": "May/29/2024 18:05"
+  },
   "CF263137658": {
     "contest_id": 1266,
     "language": "C++20 (GCC 13-64)",
