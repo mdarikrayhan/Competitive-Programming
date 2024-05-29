@@ -23393,6 +23393,27 @@
     ],
     "timestamp": "May/17/2024 08:26"
   },
+  "CF263118592": {
+    "contest_id": 1566,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1566/G.cpp",
+    "platform": "Codeforces",
+    "problem_index": "G",
+    "problem_name": "Four Vertices",
+    "problem_url": "https://codeforces.com/contest/1566/problem/G",
+    "submission_id": "CF263118592",
+    "submission_url": "https://codeforces.com/contest/1566/submission/263118592",
+    "tags": [
+      "constructive algorithms",
+      "data structures",
+      "graphs",
+      "greedy",
+      "implementation",
+      "shortest paths",
+      "*3100"
+    ],
+    "timestamp": "May/29/2024 15:28"
+  },
   "CF263118677": {
     "contest_id": 1458,
     "language": "C++20 (GCC 13-64)",
