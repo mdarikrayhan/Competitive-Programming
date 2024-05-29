@@ -27654,6 +27654,23 @@
     ],
     "timestamp": "May/29/2024 15:36"
   },
+  "CF263126736": {
+    "contest_id": 913,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/913/G.cpp",
+    "platform": "Codeforces",
+    "problem_index": "G",
+    "problem_name": "Power Substring",
+    "problem_url": "https://codeforces.com/contest/913/problem/G",
+    "submission_id": "CF263126736",
+    "submission_url": "https://codeforces.com/contest/913/submission/263126736",
+    "tags": [
+      "math",
+      "number theory",
+      "*3200"
+    ],
+    "timestamp": "May/29/2024 16:36"
+  },
   "CF263126842": {
     "contest_id": 690,
     "language": "C++20 (GCC 13-64)",
