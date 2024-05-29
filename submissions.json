@@ -23393,6 +23393,22 @@
     ],
     "timestamp": "May/17/2024 08:26"
   },
+  "CF263157632": {
+    "contest_id": 1575,
+    "language": "C++17 (GCC 7-32)",
+    "path": "codeforces/1575/F.cpp",
+    "platform": "Codeforces",
+    "problem_index": "F",
+    "problem_name": "Finding Expected Value",
+    "problem_url": "https://codeforces.com/contest/1575/problem/F",
+    "submission_id": "CF263157632",
+    "submission_url": "https://codeforces.com/contest/1575/submission/263157632",
+    "tags": [
+      "math",
+      "*2900"
+    ],
+    "timestamp": "May/29/2024 20:43"
+  },
   "CF263157773": {
     "contest_id": 1827,
     "language": "C++17 (GCC 7-32)",
