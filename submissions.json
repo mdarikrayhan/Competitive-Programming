@@ -39328,6 +39328,24 @@
     ],
     "timestamp": "May/29/2024 11:07"
   },
+  "CF263088280": {
+    "contest_id": 923,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/923/E.cpp",
+    "platform": "Codeforces",
+    "problem_index": "E",
+    "problem_name": "Perpetual Subtraction",
+    "problem_url": "https://codeforces.com/contest/923/problem/E",
+    "submission_id": "CF263088280",
+    "submission_url": "https://codeforces.com/contest/923/submission/263088280",
+    "tags": [
+      "fft",
+      "math",
+      "matrices",
+      "*3100"
+    ],
+    "timestamp": "May/29/2024 11:10"
+  },
   "CF263088291": {
     "contest_id": 1558,
     "language": "C++20 (GCC 13-64)",
