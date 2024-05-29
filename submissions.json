@@ -27654,6 +27654,25 @@
     ],
     "timestamp": "May/29/2024 15:36"
   },
+  "CF263127520": {
+    "contest_id": 750,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/750/H.cpp",
+    "platform": "Codeforces",
+    "problem_index": "H",
+    "problem_name": "New Year and Snowy Grid",
+    "problem_url": "https://codeforces.com/contest/750/problem/H",
+    "submission_id": "CF263127520",
+    "submission_url": "https://codeforces.com/contest/750/submission/263127520",
+    "tags": [
+      "dfs and similar",
+      "dsu",
+      "graphs",
+      "interactive",
+      "*3500"
+    ],
+    "timestamp": "May/29/2024 16:42"
+  },
   "CF263127524": {
     "contest_id": 1779,
     "language": "C++20 (GCC 13-64)",
