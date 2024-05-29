@@ -27114,6 +27114,22 @@
     ],
     "timestamp": "May/29/2024 06:34"
   },
+  "CF263073677": {
+    "contest_id": 883,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/883/L.cpp",
+    "platform": "Codeforces",
+    "problem_index": "L",
+    "problem_name": "Berland.Taxi",
+    "problem_url": "https://codeforces.com/contest/883/problem/L",
+    "submission_id": "CF263073677",
+    "submission_url": "https://codeforces.com/contest/883/submission/263073677",
+    "tags": [
+      "data structures",
+      "*2500"
+    ],
+    "timestamp": "May/29/2024 06:48"
+  },
   "CF263073682": {
     "contest_id": 254,
     "language": "C++20 (GCC 13-64)",
