@@ -23393,6 +23393,22 @@
     ],
     "timestamp": "May/17/2024 08:26"
   },
+  "CF263083641": {
+    "contest_id": 193,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/193/D.cpp",
+    "platform": "Codeforces",
+    "problem_index": "D",
+    "problem_name": "Two Segments",
+    "problem_url": "https://codeforces.com/contest/193/problem/D",
+    "submission_id": "CF263083641",
+    "submission_url": "https://codeforces.com/contest/193/submission/263083641",
+    "tags": [
+      "data structures",
+      "*2900"
+    ],
+    "timestamp": "May/29/2024 10:01"
+  },
   "CF263083653": {
     "contest_id": 1648,
     "language": "C++20 (GCC 13-64)",
