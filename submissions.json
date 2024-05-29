@@ -23393,6 +23393,23 @@
     ],
     "timestamp": "May/17/2024 08:26"
   },
+  "CF263076329": {
+    "contest_id": 1076,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1076/G.cpp",
+    "platform": "Codeforces",
+    "problem_index": "G",
+    "problem_name": "Array Game",
+    "problem_url": "https://codeforces.com/contest/1076/problem/G",
+    "submission_id": "CF263076329",
+    "submission_url": "https://codeforces.com/contest/1076/submission/263076329",
+    "tags": [
+      "data structures",
+      "games",
+      "*3000"
+    ],
+    "timestamp": "May/29/2024 07:52"
+  },
   "CF263076362": {
     "contest_id": 1663,
     "language": "C++20 (GCC 13-64)",
