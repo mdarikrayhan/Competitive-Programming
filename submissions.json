@@ -23393,6 +23393,21 @@
     ],
     "timestamp": "May/17/2024 08:26"
   },
+  "CF263130506": {
+    "contest_id": 1246,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1246/F.cpp",
+    "platform": "Codeforces",
+    "problem_index": "F",
+    "problem_name": "Cursor Distance",
+    "problem_url": "https://codeforces.com/contest/1246/problem/F",
+    "submission_id": "CF263130506",
+    "submission_url": "https://codeforces.com/contest/1246/submission/263130506",
+    "tags": [
+      "*3500"
+    ],
+    "timestamp": "May/29/2024 17:08"
+  },
   "CF263130681": {
     "contest_id": 1575,
     "language": "C++20 (GCC 13-64)",
