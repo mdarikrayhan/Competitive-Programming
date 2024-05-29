@@ -24815,6 +24815,24 @@
     ],
     "timestamp": "May/29/2024 10:33"
   },
+  "CF263088376": {
+    "contest_id": 1600,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1600/F.cpp",
+    "platform": "Codeforces",
+    "problem_index": "F",
+    "problem_name": "Party Organization",
+    "problem_url": "https://codeforces.com/contest/1600/problem/F",
+    "submission_id": "CF263088376",
+    "submission_url": "https://codeforces.com/contest/1600/submission/263088376",
+    "tags": [
+      "brute force",
+      "math",
+      "probabilities",
+      "*2300"
+    ],
+    "timestamp": "May/29/2024 11:11"
+  },
   "CF263088428": {
     "contest_id": 1386,
     "language": "C++20 (GCC 13-64)",
