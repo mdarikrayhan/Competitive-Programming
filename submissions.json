@@ -23393,6 +23393,23 @@
     ],
     "timestamp": "May/17/2024 08:26"
   },
+  "CF263133436": {
+    "contest_id": 72,
+    "language": "Io",
+    "path": "codeforces/72/D.io",
+    "platform": "Codeforces",
+    "problem_index": "D",
+    "problem_name": "Perse-script",
+    "problem_url": "https://codeforces.com/contest/72/problem/D",
+    "submission_id": "CF263133436",
+    "submission_url": "https://codeforces.com/contest/72/submission/263133436",
+    "tags": [
+      "*special problem",
+      "expression parsing",
+      "*2300"
+    ],
+    "timestamp": "May/29/2024 17:31"
+  },
   "CF263133663": {
     "contest_id": 1425,
     "language": "C++20 (GCC 13-64)",
