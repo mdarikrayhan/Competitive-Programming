@@ -23393,6 +23393,19 @@
     ],
     "timestamp": "May/17/2024 08:26"
   },
+  "CF263148495": {
+    "contest_id": 1912,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1912/I.cpp",
+    "platform": "Codeforces",
+    "problem_index": "I",
+    "problem_name": "Innovative Washing Machine",
+    "problem_url": "https://codeforces.com/contest/1912/problem/I",
+    "submission_id": "CF263148495",
+    "submission_url": "https://codeforces.com/contest/1912/submission/263148495",
+    "tags": [],
+    "timestamp": "May/29/2024 19:31"
+  },
   "CF263148501": {
     "contest_id": 73,
     "language": "C++20 (GCC 13-64)",
