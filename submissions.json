@@ -23393,6 +23393,25 @@
     ],
     "timestamp": "May/17/2024 08:26"
   },
+  "CF263148439": {
+    "contest_id": 1870,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1870/H.cpp",
+    "platform": "Codeforces",
+    "problem_index": "H",
+    "problem_name": "Standard Graph Problem",
+    "problem_url": "https://codeforces.com/contest/1870/problem/H",
+    "submission_id": "CF263148439",
+    "submission_url": "https://codeforces.com/contest/1870/submission/263148439",
+    "tags": [
+      "data structures",
+      "graphs",
+      "greedy",
+      "trees",
+      "*3500"
+    ],
+    "timestamp": "May/29/2024 19:30"
+  },
   "CF263148442": {
     "contest_id": 1912,
     "language": "C++20 (GCC 13-64)",
