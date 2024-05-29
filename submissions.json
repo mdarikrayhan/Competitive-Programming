@@ -23393,6 +23393,19 @@
     ],
     "timestamp": "May/17/2024 08:26"
   },
+  "CF263170808": {
+    "contest_id": 1116,
+    "language": "Q#",
+    "path": "codeforces/1116/C1.qs",
+    "platform": "Codeforces",
+    "problem_index": "C1",
+    "problem_name": "Alternating bits oracle",
+    "problem_url": "https://codeforces.com/contest/1116/problem/C1",
+    "submission_id": "CF263170808",
+    "submission_url": "https://codeforces.com/contest/1116/submission/263170808",
+    "tags": [],
+    "timestamp": "May/29/2024 23:08"
+  },
   "CF263170825": {
     "contest_id": 1116,
     "language": "Q#",
