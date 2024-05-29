@@ -1,78 +1,80 @@
-#include <bits/stdc++.h>
-using namespace std;
+#include<bits/stdc++.h>
+#define P 1000000007
 #define N 605
-#define MOD 1000000007
-int n,m,t,ans,a[N],a1[N],a2[N],b1[N],b2[N],dp1[N],pw[N*2],dp[N][2],tmp[N][2];
-bool cmp(int x,int y) {return x>y;}
-int add(int x,int y) {x+=y;return x<MOD?x:x-MOD;}
-void W(int &x,int y) {x+=y;if(x>=MOD) x-=MOD;}
-int main()
-{
-	scanf("%d %d",&n,&m);pw[0]=1;
-	for(int i=1;i<=n*2;++i) pw[i]=add(pw[i-1],pw[i-1]);
-	for(int i=1,x;i<=n;++i)
-	{scanf("%d",&x);if(x<0) a2[++a2[0]]=-x;else a1[++a1[0]]=x;}
-	sort(a1+1,a1+a1[0]+1,cmp);sort(a2+1,a2+a2[0]+1,cmp);t=1;
-	for(int i=1;i<=a1[0];++i)
-	{
-		while(t<=a2[0] && a1[i]<a2[t]) a[b2[t]=++a[0]]=MOD-a2[t],++t;
-		a[b1[i]=++a[0]]=a1[i];
-	}while(t<=a2[0]) a[b2[t]=++a[0]]=MOD-a2[t],++t;dp1[0]=1;
-	for(int i=1;i<=n;++i)
-	{
-		W(dp1[m],dp1[m]);
-		for(int j=min(m,i-1);j>=0;--j) W(dp1[j+1],1ll*dp1[j]*a[i]%MOD);
-	}ans=dp1[m];
-	if(m&1)
-	{
-		for(int i=0;i<=m;++i) dp1[i]=0;dp1[0]=1;
-		for(int i=1;i<=a2[0];++i)
-		{
-			W(dp1[m],dp1[m]);
-			for(int j=min(m,i)-1;j>=0;--j) W(dp1[j+1],1ll*dp1[j]*a2[i]%MOD);
-		}W(ans,dp1[m]);for(int i=0;i<=m;++i) dp1[i]=0;dp1[0]=1;
-		for(int i=a2[0];i;--i)
-		{
-			W(dp1[m],dp1[m]);
-			for(int j=min(m,a2[0]-i+1)-1;j>=0;--j) W(dp1[j+1],1ll*dp1[j]*a2[i]%MOD);
-		}W(ans,MOD-dp1[m]);for(int i=0;i<=m;++i) dp1[i]=0;dp1[0]=1;t=0;
-		for(int i=1,w;i<=a2[0];++i)
-		{
-			w=dp1[m-1];while(t<=a1[0] && b1[t]<=b2[i]) ++t;
-			if(w) for(int j=t;j<=a1[0];++j)
-				W(ans,1ll*(a1[j]+a2[i])*w%MOD*pw[a1[0]+a2[0]-i-j]%MOD);
-			for(int j=min(m,i)-1;j>=0;--j) W(dp1[j+1],1ll*dp1[j]*a2[i]%MOD);
-		}
-	}dp[0][0]=1;
-	if(m>1) for(int i=1,t1,t2,w;i<=a1[0];++i)
-	{
-		for(int j=0;j<=min(m,i-1);++j)
-			tmp[j][0]=dp[j][0],tmp[j][1]=dp[j][1];t1=t2=0;
-		for(int j=1;j<=a2[0];++j)
-		{
-			w=dp[m-2][0];
-			if(w)
-			{
-				while(t1<=a1[0] && b1[t1]<=max(b1[i],b2[j])) ++t1;
-				while(t2<=a2[0] && b2[t2]<=max(b1[i],b2[j])) ++t2;t=t2;
-				for(int k=t1;k<=a1[0];++k)
-				{
-					while(t<=a2[0] && 1ll*a1[i]*a1[k]<1ll*a2[j]*a2[t]) ++t;
-					W(ans,1ll*a1[i]*(a1[k]+a2[j])%MOD*w%MOD*pw[a1[0]+a2[0]-k-t+1]%MOD);
-				}t=t1;
-				for(int k=t2;k<=a2[0];++k)
-				{
-					while(t<=a1[0] && 1ll*a1[i]*a1[t]>=1ll*a2[j]*a2[k]) ++t;
-					W(ans,1ll*a2[j]*(a1[i]+a2[k])%MOD*w%MOD*pw[a1[0]+a2[0]-k-t+1]%MOD);
-				}
-			}
-			for(int k=min(m,i+j-1)-1;k>=0;--k)
-			{
-				W(dp[k+1][1],1ll*dp[k][0]*a2[j]%MOD);
-				W(dp[k+1][0],1ll*dp[k][1]*a2[j]%MOD);
-			}
-		}for(int j=0;j<=m;++j) dp[j][0]=tmp[j][0],dp[j][1]=tmp[j][1];
-		for(int j=min(m,i)-1;j>=0;--j)
-			W(dp[j+1][0],1ll*dp[j][0]*a1[i]%MOD),W(dp[j+1][1],1ll*dp[j][1]*a1[i]%MOD);
-	}printf("%d\n",ans);return 0;
+inline void fmo(int &x){
+x+=(x>>31)&P;
+}
+inline int fp(int x,int k=P-2){
+int res=1;
+for(;k;k>>=1,x=1ll*x*x%P) if(k&1)
+res=1ll*res*x%P;
+return res;
+}
+int n,m,a[N];
+int pw[N];
+std::vector<int> A,B;
+int f[N][N][2],g[N][N][2],s[N][2],h[N];
+int ans;
+int main(){
+scanf("%d%d",&n,&m);
+pw[0]=1;
+for(int i=1;i<=n;i++)
+fmo(pw[i]=pw[i-1]+pw[i-1]-P);
+for(int i=1;i<=n;i++)
+scanf("%d",&a[i]);
+std::sort(a+1,a+n+1,[&](int i,int j){
+return abs(i)<abs(j);
+});
+a[n+1]=-P,a[n+2]=P;
+for(int i=1;i<=n;i++)
+f[i][n+1+(a[i]<0)][a[i]<0]=abs(a[i]);
+for(int o=2;o<=m;o++){
+memset(s,0,sizeof(s));
+for(int i=n;i;i--) for(int j=i+1;j<=n+2;j++) for(int k=0;k<2;k++){
+fmo(s[i][k]+=f[i][j][k]-P);
+fmo(f[i][j][k]+=f[i+1][j][k]-P);
+}
+for(int i=n;i;i--)
+for(int j=i+1;j<=n+2;j++) if(1ll*a[i]*a[j]<0) for(int k=0;k<2;k++){
+fmo(g[i][j][k]+=f[i+1][j][k^(a[i]<0)]-P);
+fmo(g[i][j][k]+=s[j][k^(a[i]<0)]-P);
+g[i][j][k]=1ll*abs(a[i])*g[i][j][k]%P;
+}
+for(int i=n;i;i--) for(int j=i+1;j<=n+2;j++) for(int k=0;k<2;k++)
+f[i][j][k]=g[i][j][k],g[i][j][k]=0;
+}
+for(int i=1;i<=n+2;i++)
+(a[i]>=0?A:B).emplace_back(i);
+for(int i=1;i<=n;i++) for(int j=i+1;j<=n+2;j++) for(int k=0;k<2;k++) if(f[i][j][k]){
+if(!k)
+fmo(ans+=1ll*pw[i-1]*f[i][j][k]%P-P);
+else{
+if(j!=n+2)
+fmo(ans-=f[i][j][k]);
+int u=a[i],v=a[j];
+if(u<0)
+std::swap(u,v);
+v=-v;
+int iu=fp(u),iv=fp(v);
+for(int l=1,x=0,y=0;l<i;l++)
+if(A[x]<i&&(B[y]>=i||(j!=n+2&&1ll*a[A[x]]*u<=1ll*abs(a[B[y]])*v)))
+fmo(ans+=1ll*pw[l-1]*f[i][j][k]%P*a[A[x]]%P*iv%P-P),x++;
+else
+fmo(ans+=1ll*pw[l-1]*f[i][j][k]%P*abs(a[B[y]])%P*iu%P-P),y++;
+}
+}
+if(m&1){
+for(int i=0;i<(int)B.size()-1;i++)
+h[i]=abs(a[B[i]]);
+for(int k=2;k<=m;k++)
+for(int i=(int)B.size()-2;~i;i--){
+h[i]=0;
+for(int j=0;j<i;j++)
+fmo(h[i]+=h[j]-P);
+h[i]=1ll*h[i]*abs(a[B[i]])%P;
+}
+for(int i=0;i<(int)B.size()-1;i++)
+fmo(ans-=1ll*h[i]*pw[(int)B.size()-2-i]%P);
+}
+printf("%d\n",ans);
 }
