@@ -23393,6 +23393,26 @@
     ],
     "timestamp": "May/17/2024 08:26"
   },
+  "CF263117417": {
+    "contest_id": 1797,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1797/F.cpp",
+    "platform": "Codeforces",
+    "problem_index": "F",
+    "problem_name": "Li Hua and Path",
+    "problem_url": "https://codeforces.com/contest/1797/problem/F",
+    "submission_id": "CF263117417",
+    "submission_url": "https://codeforces.com/contest/1797/submission/263117417",
+    "tags": [
+      "data structures",
+      "dfs and similar",
+      "divide and conquer",
+      "dsu",
+      "trees",
+      "*3000"
+    ],
+    "timestamp": "May/29/2024 15:19"
+  },
   "CF263117439": {
     "contest_id": 1031,
     "language": "C++20 (GCC 13-64)",
