@@ -23393,6 +23393,23 @@
     ],
     "timestamp": "May/17/2024 08:26"
   },
+  "CF263130869": {
+    "contest_id": 500,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/500/G.cpp",
+    "platform": "Codeforces",
+    "problem_index": "G",
+    "problem_name": "New Year Running",
+    "problem_url": "https://codeforces.com/contest/500/problem/G",
+    "submission_id": "CF263130869",
+    "submission_url": "https://codeforces.com/contest/500/submission/263130869",
+    "tags": [
+      "number theory",
+      "trees",
+      "*3200"
+    ],
+    "timestamp": "May/29/2024 17:11"
+  },
   "CF263130896": {
     "contest_id": 1770,
     "language": "C++20 (GCC 13-64)",
