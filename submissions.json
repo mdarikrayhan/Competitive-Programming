@@ -27195,6 +27195,22 @@
     "tags": [],
     "timestamp": "May/29/2024 13:37"
   },
+  "CF263107025": {
+    "contest_id": 301,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/301/E.cpp",
+    "platform": "Codeforces",
+    "problem_index": "E",
+    "problem_name": "Yaroslav and Arrangements",
+    "problem_url": "https://codeforces.com/contest/301/problem/E",
+    "submission_id": "CF263107025",
+    "submission_url": "https://codeforces.com/contest/301/submission/263107025",
+    "tags": [
+      "dp",
+      "*2800"
+    ],
+    "timestamp": "May/29/2024 13:55"
+  },
   "CF263107039": {
     "contest_id": 107,
     "language": "C++20 (GCC 13-64)",
