@@ -23393,6 +23393,24 @@
     ],
     "timestamp": "May/17/2024 08:26"
   },
+  "CF263136769": {
+    "contest_id": 1866,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1866/F.cpp",
+    "platform": "Codeforces",
+    "problem_index": "F",
+    "problem_name": "Freak Joker Process",
+    "problem_url": "https://codeforces.com/contest/1866/problem/F",
+    "submission_id": "CF263136769",
+    "submission_url": "https://codeforces.com/contest/1866/submission/263136769",
+    "tags": [
+      "binary search",
+      "data structures",
+      "sortings",
+      "*3100"
+    ],
+    "timestamp": "May/29/2024 17:59"
+  },
   "CF263136842": {
     "contest_id": 1237,
     "language": "C++20 (GCC 13-64)",
