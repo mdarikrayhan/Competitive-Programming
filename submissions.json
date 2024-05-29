@@ -23393,6 +23393,22 @@
     ],
     "timestamp": "May/17/2024 08:26"
   },
+  "CF263136977": {
+    "contest_id": 388,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/388/E.cpp",
+    "platform": "Codeforces",
+    "problem_index": "E",
+    "problem_name": "Fox and Meteor Shower",
+    "problem_url": "https://codeforces.com/contest/388/problem/E",
+    "submission_id": "CF263136977",
+    "submission_url": "https://codeforces.com/contest/388/submission/263136977",
+    "tags": [
+      "geometry",
+      "*3100"
+    ],
+    "timestamp": "May/29/2024 18:00"
+  },
   "CF263136985": {
     "contest_id": 1469,
     "language": "C++20 (GCC 13-64)",
