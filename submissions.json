@@ -30034,6 +30034,23 @@
     ],
     "timestamp": "May/29/2024 15:36"
   },
+  "CF263122035": {
+    "contest_id": 370,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/370/E.cpp",
+    "platform": "Codeforces",
+    "problem_index": "E",
+    "problem_name": "Summer Reading",
+    "problem_url": "https://codeforces.com/contest/370/problem/E",
+    "submission_id": "CF263122035",
+    "submission_url": "https://codeforces.com/contest/370/submission/263122035",
+    "tags": [
+      "dp",
+      "greedy",
+      "*2500"
+    ],
+    "timestamp": "May/29/2024 15:55"
+  },
   "CF263122075": {
     "contest_id": 23,
     "language": "C++20 (GCC 13-64)",
