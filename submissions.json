@@ -23614,6 +23614,26 @@
     ],
     "timestamp": "May/29/2024 18:38"
   },
+  "CF263141919": {
+    "contest_id": 280,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/280/E.cpp",
+    "platform": "Codeforces",
+    "problem_index": "E",
+    "problem_name": "Sequence Transformation",
+    "problem_url": "https://codeforces.com/contest/280/problem/E",
+    "submission_id": "CF263141919",
+    "submission_url": "https://codeforces.com/contest/280/submission/263141919",
+    "tags": [
+      "brute force",
+      "data structures",
+      "dp",
+      "implementation",
+      "math",
+      "*3000"
+    ],
+    "timestamp": "May/29/2024 18:40"
+  },
   "CF263142511": {
     "contest_id": 1280,
     "language": "C++20 (GCC 13-64)",
