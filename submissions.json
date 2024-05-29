@@ -33162,6 +33162,24 @@
     ],
     "timestamp": "May/29/2024 07:43"
   },
+  "CF263076008": {
+    "contest_id": 1601,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1601/E.cpp",
+    "platform": "Codeforces",
+    "problem_index": "E",
+    "problem_name": "Phys Ed Online",
+    "problem_url": "https://codeforces.com/contest/1601/problem/E",
+    "submission_id": "CF263076008",
+    "submission_url": "https://codeforces.com/contest/1601/submission/263076008",
+    "tags": [
+      "data structures",
+      "dp",
+      "greedy",
+      "*2900"
+    ],
+    "timestamp": "May/29/2024 07:45"
+  },
   "CF263076024": {
     "contest_id": 1905,
     "language": "C++20 (GCC 13-64)",
