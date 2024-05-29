@@ -36733,6 +36733,23 @@
     ],
     "timestamp": "May/29/2024 06:20"
   },
+  "CF263072955": {
+    "contest_id": 1776,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1776/J.cpp",
+    "platform": "Codeforces",
+    "problem_index": "J",
+    "problem_name": "Italian Data Centers",
+    "problem_url": "https://codeforces.com/contest/1776/problem/J",
+    "submission_id": "CF263072955",
+    "submission_url": "https://codeforces.com/contest/1776/submission/263072955",
+    "tags": [
+      "graphs",
+      "shortest paths",
+      "*2500"
+    ],
+    "timestamp": "May/29/2024 06:26"
+  },
   "CF263072964": {
     "contest_id": 1762,
     "language": "C++20 (GCC 13-64)",
