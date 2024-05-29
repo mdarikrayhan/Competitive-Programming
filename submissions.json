@@ -27114,6 +27114,22 @@
     ],
     "timestamp": "May/29/2024 06:34"
   },
+  "CF263073490": {
+    "contest_id": 187,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/187/D.cpp",
+    "platform": "Codeforces",
+    "problem_index": "D",
+    "problem_name": "BRT Contract ",
+    "problem_url": "https://codeforces.com/contest/187/problem/D",
+    "submission_id": "CF263073490",
+    "submission_url": "https://codeforces.com/contest/187/submission/263073490",
+    "tags": [
+      "data structures",
+      "*2800"
+    ],
+    "timestamp": "May/29/2024 06:42"
+  },
   "CF263073494": {
     "contest_id": 1291,
     "language": "C++20 (GCC 13-64)",
