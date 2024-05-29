@@ -24298,6 +24298,23 @@
     ],
     "timestamp": "May/29/2024 08:12"
   },
+  "CF263077739": {
+    "contest_id": 477,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/477/D.cpp",
+    "platform": "Codeforces",
+    "problem_index": "D",
+    "problem_name": "Dreamoon and Binary",
+    "problem_url": "https://codeforces.com/contest/477/problem/D",
+    "submission_id": "CF263077739",
+    "submission_url": "https://codeforces.com/contest/477/submission/263077739",
+    "tags": [
+      "dp",
+      "strings",
+      "*2700"
+    ],
+    "timestamp": "May/29/2024 08:22"
+  },
   "CF263077744": {
     "contest_id": 1970,
     "language": "C++20 (GCC 13-64)",
