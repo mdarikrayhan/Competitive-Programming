@@ -23393,6 +23393,23 @@
     ],
     "timestamp": "May/17/2024 08:26"
   },
+  "CF263113503": {
+    "contest_id": 1970,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1970/A3.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A3",
+    "problem_name": "Balanced Unshuffle (Hard)",
+    "problem_url": "https://codeforces.com/contest/1970/problem/A3",
+    "submission_id": "CF263113503",
+    "submission_url": "https://codeforces.com/contest/1970/submission/263113503",
+    "tags": [
+      "constructive algorithms",
+      "trees",
+      "*2400"
+    ],
+    "timestamp": "May/29/2024 14:47"
+  },
   "CF263113504": {
     "contest_id": 1698,
     "language": "C++20 (GCC 13-64)",
