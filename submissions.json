@@ -23393,6 +23393,23 @@
     ],
     "timestamp": "May/17/2024 08:26"
   },
+  "CF263112295": {
+    "contest_id": 494,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/494/E.cpp",
+    "platform": "Codeforces",
+    "problem_index": "E",
+    "problem_name": "Sharti",
+    "problem_url": "https://codeforces.com/contest/494/problem/E",
+    "submission_id": "CF263112295",
+    "submission_url": "https://codeforces.com/contest/494/submission/263112295",
+    "tags": [
+      "data structures",
+      "games",
+      "*3200"
+    ],
+    "timestamp": "May/29/2024 14:37"
+  },
   "CF263112320": {
     "contest_id": 1662,
     "language": "C++20 (GCC 13-64)",
