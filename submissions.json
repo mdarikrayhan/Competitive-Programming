@@ -23393,6 +23393,25 @@
     ],
     "timestamp": "May/17/2024 08:26"
   },
+  "CF263148038": {
+    "contest_id": 1726,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1726/H.cpp",
+    "platform": "Codeforces",
+    "problem_index": "H",
+    "problem_name": "Mainak and the Bleeding Polygon",
+    "problem_url": "https://codeforces.com/contest/1726/problem/H",
+    "submission_id": "CF263148038",
+    "submission_url": "https://codeforces.com/contest/1726/submission/263148038",
+    "tags": [
+      "binary search",
+      "geometry",
+      "implementation",
+      "math",
+      "*3500"
+    ],
+    "timestamp": "May/29/2024 19:27"
+  },
   "CF263148041": {
     "contest_id": 353,
     "language": "C++20 (GCC 13-64)",
