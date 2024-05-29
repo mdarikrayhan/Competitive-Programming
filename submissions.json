@@ -23393,6 +23393,25 @@
     ],
     "timestamp": "May/17/2024 08:26"
   },
+  "CF263135031": {
+    "contest_id": 1924,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1924/F.cpp",
+    "platform": "Codeforces",
+    "problem_index": "F",
+    "problem_name": "Anti-Proxy Attendance",
+    "problem_url": "https://codeforces.com/contest/1924/problem/F",
+    "submission_id": "CF263135031",
+    "submission_url": "https://codeforces.com/contest/1924/submission/263135031",
+    "tags": [
+      "constructive algorithms",
+      "dp",
+      "interactive",
+      "ternary search",
+      "*3500"
+    ],
+    "timestamp": "May/29/2024 17:45"
+  },
   "CF263135070": {
     "contest_id": 1580,
     "language": "C++20 (GCC 13-64)",
