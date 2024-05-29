@@ -23393,6 +23393,24 @@
     ],
     "timestamp": "May/17/2024 08:26"
   },
+  "CF263130896": {
+    "contest_id": 1770,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1770/G.cpp",
+    "platform": "Codeforces",
+    "problem_index": "G",
+    "problem_name": "Koxia and Bracket",
+    "problem_url": "https://codeforces.com/contest/1770/problem/G",
+    "submission_id": "CF263130896",
+    "submission_url": "https://codeforces.com/contest/1770/submission/263130896",
+    "tags": [
+      "divide and conquer",
+      "fft",
+      "math",
+      "*3400"
+    ],
+    "timestamp": "May/29/2024 17:11"
+  },
   "CF263130938": {
     "contest_id": 924,
     "language": "C++20 (GCC 13-64)",
