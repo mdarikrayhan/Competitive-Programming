@@ -23393,6 +23393,25 @@
     ],
     "timestamp": "May/17/2024 08:26"
   },
+  "CF263133785": {
+    "contest_id": 1970,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1970/D2.cpp",
+    "platform": "Codeforces",
+    "problem_index": "D2",
+    "problem_name": "Arithmancy (Medium)",
+    "problem_url": "https://codeforces.com/contest/1970/problem/D2",
+    "submission_id": "CF263133785",
+    "submission_url": "https://codeforces.com/contest/1970/submission/263133785",
+    "tags": [
+      "constructive algorithms",
+      "interactive",
+      "probabilities",
+      "strings",
+      "*2600"
+    ],
+    "timestamp": "May/29/2024 17:34"
+  },
   "CF263134000": {
     "contest_id": 804,
     "language": "C++20 (GCC 13-64)",
