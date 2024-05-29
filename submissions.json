@@ -23393,6 +23393,23 @@
     ],
     "timestamp": "May/17/2024 08:26"
   },
+  "CF263113866": {
+    "contest_id": 819,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/819/A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Mister B and Boring Game",
+    "problem_url": "https://codeforces.com/contest/819/problem/A",
+    "submission_id": "CF263113866",
+    "submission_url": "https://codeforces.com/contest/819/submission/263113866",
+    "tags": [
+      "games",
+      "greedy",
+      "*2200"
+    ],
+    "timestamp": "May/29/2024 14:49"
+  },
   "CF263113888": {
     "contest_id": 1030,
     "language": "C++20 (GCC 13-64)",
