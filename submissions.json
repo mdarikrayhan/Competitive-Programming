@@ -27114,6 +27114,26 @@
     ],
     "timestamp": "May/29/2024 06:34"
   },
+  "CF263073479": {
+    "contest_id": 1916,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1916/H2.cpp",
+    "platform": "Codeforces",
+    "problem_index": "H2",
+    "problem_name": "Matrix Rank (Hard Version)",
+    "problem_url": "https://codeforces.com/contest/1916/problem/H2",
+    "submission_id": "CF263073479",
+    "submission_url": "https://codeforces.com/contest/1916/submission/263073479",
+    "tags": [
+      "combinatorics",
+      "dp",
+      "math",
+      "matrices",
+      "string suffix structures",
+      "*2700"
+    ],
+    "timestamp": "May/29/2024 06:41"
+  },
   "CF263073490": {
     "contest_id": 187,
     "language": "C++20 (GCC 13-64)",
