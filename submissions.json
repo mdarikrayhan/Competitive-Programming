@@ -38145,6 +38145,25 @@
     ],
     "timestamp": "May/29/2024 07:27"
   },
+  "CF263075372": {
+    "contest_id": 1488,
+    "language": "Kotlin 1.7",
+    "path": "codeforces/1488/J.kt",
+    "platform": "Codeforces",
+    "problem_index": "J",
+    "problem_name": "Flower Shop",
+    "problem_url": "https://codeforces.com/contest/1488/problem/J",
+    "submission_id": "CF263075372",
+    "submission_url": "https://codeforces.com/contest/1488/submission/263075372",
+    "tags": [
+      "*special problem",
+      "data structures",
+      "fft",
+      "math",
+      "*3100"
+    ],
+    "timestamp": "May/29/2024 07:29"
+  },
   "CF263075409": {
     "contest_id": 530,
     "language": "Picat",
