@@ -38060,6 +38060,25 @@
     ],
     "timestamp": "May/29/2024 07:10"
   },
+  "CF263074783": {
+    "contest_id": 1572,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1572/D.cpp",
+    "platform": "Codeforces",
+    "problem_index": "D",
+    "problem_name": "Bridge Club",
+    "problem_url": "https://codeforces.com/contest/1572/problem/D",
+    "submission_id": "CF263074783",
+    "submission_url": "https://codeforces.com/contest/1572/submission/263074783",
+    "tags": [
+      "flows",
+      "graph matchings",
+      "graphs",
+      "greedy",
+      "*2800"
+    ],
+    "timestamp": "May/29/2024 07:14"
+  },
   "CF263074793": {
     "contest_id": 1481,
     "language": "C++20 (GCC 13-64)",
