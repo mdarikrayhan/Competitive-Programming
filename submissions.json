@@ -27654,6 +27654,23 @@
     ],
     "timestamp": "May/29/2024 15:36"
   },
+  "CF263123901": {
+    "contest_id": 1411,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1411/F.cpp",
+    "platform": "Codeforces",
+    "problem_index": "F",
+    "problem_name": "The Thorny Path",
+    "problem_url": "https://codeforces.com/contest/1411/problem/F",
+    "submission_id": "CF263123901",
+    "submission_url": "https://codeforces.com/contest/1411/submission/263123901",
+    "tags": [
+      "greedy",
+      "math",
+      "*3000"
+    ],
+    "timestamp": "May/29/2024 16:11"
+  },
   "CF263123913": {
     "contest_id": 1781,
     "language": "C++20 (GCC 13-64)",
