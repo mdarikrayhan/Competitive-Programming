@@ -23393,6 +23393,26 @@
     ],
     "timestamp": "May/17/2024 08:26"
   },
+  "CF263077237": {
+    "contest_id": 1801,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1801/E.cpp",
+    "platform": "Codeforces",
+    "problem_index": "E",
+    "problem_name": "Gasoline prices",
+    "problem_url": "https://codeforces.com/contest/1801/problem/E",
+    "submission_id": "CF263077237",
+    "submission_url": "https://codeforces.com/contest/1801/submission/263077237",
+    "tags": [
+      "data structures",
+      "divide and conquer",
+      "dsu",
+      "hashing",
+      "trees",
+      "*3000"
+    ],
+    "timestamp": "May/29/2024 08:11"
+  },
   "CF263077239": {
     "contest_id": 482,
     "language": "C++20 (GCC 13-64)",
