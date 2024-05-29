@@ -24298,6 +24298,25 @@
     ],
     "timestamp": "May/29/2024 08:12"
   },
+  "CF263077369": {
+    "contest_id": 626,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/626/G.cpp",
+    "platform": "Codeforces",
+    "problem_index": "G",
+    "problem_name": "Raffles",
+    "problem_url": "https://codeforces.com/contest/626/problem/G",
+    "submission_id": "CF263077369",
+    "submission_url": "https://codeforces.com/contest/626/submission/263077369",
+    "tags": [
+      "data structures",
+      "dp",
+      "greedy",
+      "math",
+      "*3100"
+    ],
+    "timestamp": "May/29/2024 08:14"
+  },
   "CF263077375": {
     "contest_id": 1540,
     "language": "C++20 (GCC 13-64)",
