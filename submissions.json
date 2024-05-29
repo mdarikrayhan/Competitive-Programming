@@ -27654,6 +27654,22 @@
     ],
     "timestamp": "May/29/2024 15:36"
   },
+  "CF263125461": {
+    "contest_id": 1267,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1267/D.cpp",
+    "platform": "Codeforces",
+    "problem_index": "D",
+    "problem_name": "DevOps Best Practices",
+    "problem_url": "https://codeforces.com/contest/1267/problem/D",
+    "submission_id": "CF263125461",
+    "submission_url": "https://codeforces.com/contest/1267/submission/263125461",
+    "tags": [
+      "constructive algorithms",
+      "*2800"
+    ],
+    "timestamp": "May/29/2024 16:24"
+  },
   "CF263125478": {
     "contest_id": 1090,
     "language": "C++20 (GCC 13-64)",
