@@ -23393,6 +23393,22 @@
     ],
     "timestamp": "May/17/2024 08:26"
   },
+  "CF263133663": {
+    "contest_id": 1425,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1425/I.cpp",
+    "platform": "Codeforces",
+    "problem_index": "I",
+    "problem_name": "Impressive Harvesting of The Orchard",
+    "problem_url": "https://codeforces.com/contest/1425/problem/I",
+    "submission_id": "CF263133663",
+    "submission_url": "https://codeforces.com/contest/1425/submission/263133663",
+    "tags": [
+      "data structures",
+      "*2800"
+    ],
+    "timestamp": "May/29/2024 17:33"
+  },
   "CF263133726": {
     "contest_id": 1503,
     "language": "C++20 (GCC 13-64)",
