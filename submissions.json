@@ -24815,6 +24815,25 @@
     ],
     "timestamp": "May/29/2024 10:33"
   },
+  "CF263097769": {
+    "contest_id": 747,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/747/F.cpp",
+    "platform": "Codeforces",
+    "problem_index": "F",
+    "problem_name": "Igor and Interesting Numbers",
+    "problem_url": "https://codeforces.com/contest/747/problem/F",
+    "submission_id": "CF263097769",
+    "submission_url": "https://codeforces.com/contest/747/submission/263097769",
+    "tags": [
+      "brute force",
+      "combinatorics",
+      "dp",
+      "math",
+      "*2500"
+    ],
+    "timestamp": "May/29/2024 12:46"
+  },
   "CF263097794": {
     "contest_id": 30,
     "language": "C++20 (GCC 13-64)",
