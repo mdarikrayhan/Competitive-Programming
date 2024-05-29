@@ -23393,6 +23393,19 @@
     ],
     "timestamp": "May/17/2024 08:26"
   },
+  "CF263159160": {
+    "contest_id": 1666,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1666/H.cpp",
+    "platform": "Codeforces",
+    "problem_index": "H",
+    "problem_name": "Heroes of Might",
+    "problem_url": "https://codeforces.com/contest/1666/problem/H",
+    "submission_id": "CF263159160",
+    "submission_url": "https://codeforces.com/contest/1666/submission/263159160",
+    "tags": [],
+    "timestamp": "May/29/2024 20:56"
+  },
   "CF263159176": {
     "contest_id": 1599,
     "language": "C++20 (GCC 13-64)",
