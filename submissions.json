@@ -23393,6 +23393,25 @@
     ],
     "timestamp": "May/17/2024 08:26"
   },
+  "CF263072515": {
+    "contest_id": 1073,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1073/F.cpp",
+    "platform": "Codeforces",
+    "problem_index": "F",
+    "problem_name": "Choosing Two Paths",
+    "problem_url": "https://codeforces.com/contest/1073/problem/F",
+    "submission_id": "CF263072515",
+    "submission_url": "https://codeforces.com/contest/1073/submission/263072515",
+    "tags": [
+      "dfs and similar",
+      "dp",
+      "greedy",
+      "trees",
+      "*2500"
+    ],
+    "timestamp": "May/29/2024 06:13"
+  },
   "CF263072537": {
     "contest_id": 1221,
     "language": "C++20 (GCC 13-64)",
