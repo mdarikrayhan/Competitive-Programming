@@ -27654,6 +27654,23 @@
     ],
     "timestamp": "May/29/2024 15:36"
   },
+  "CF263127183": {
+    "contest_id": 1054,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1054/F.cpp",
+    "platform": "Codeforces",
+    "problem_index": "F",
+    "problem_name": "Electric Scheme",
+    "problem_url": "https://codeforces.com/contest/1054/problem/F",
+    "submission_id": "CF263127183",
+    "submission_url": "https://codeforces.com/contest/1054/submission/263127183",
+    "tags": [
+      "flows",
+      "graph matchings",
+      "*2700"
+    ],
+    "timestamp": "May/29/2024 16:40"
+  },
   "CF263127184": {
     "contest_id": 223,
     "language": "C++20 (GCC 13-64)",
