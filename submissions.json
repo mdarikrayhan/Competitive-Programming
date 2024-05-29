@@ -24815,6 +24815,24 @@
     ],
     "timestamp": "May/29/2024 10:33"
   },
+  "CF263095532": {
+    "contest_id": 1685,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1685/D1.cpp",
+    "platform": "Codeforces",
+    "problem_index": "D1",
+    "problem_name": "Permutation Weight (Easy Version)",
+    "problem_url": "https://codeforces.com/contest/1685/problem/D1",
+    "submission_id": "CF263095532",
+    "submission_url": "https://codeforces.com/contest/1685/submission/263095532",
+    "tags": [
+      "constructive algorithms",
+      "dfs and similar",
+      "dsu",
+      "*2800"
+    ],
+    "timestamp": "May/29/2024 12:27"
+  },
   "CF263095557": {
     "contest_id": 997,
     "language": "C++20 (GCC 13-64)",
