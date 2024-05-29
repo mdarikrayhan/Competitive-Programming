@@ -23393,6 +23393,23 @@
     ],
     "timestamp": "May/17/2024 08:26"
   },
+  "CF263119262": {
+    "contest_id": 346,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/346/E.cpp",
+    "platform": "Codeforces",
+    "problem_index": "E",
+    "problem_name": "Doodle Jump",
+    "problem_url": "https://codeforces.com/contest/346/problem/E",
+    "submission_id": "CF263119262",
+    "submission_url": "https://codeforces.com/contest/346/submission/263119262",
+    "tags": [
+      "math",
+      "number theory",
+      "*3000"
+    ],
+    "timestamp": "May/29/2024 15:33"
+  },
   "CF263119289": {
     "contest_id": 48,
     "language": "C++20 (GCC 13-64)",
