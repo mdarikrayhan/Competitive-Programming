@@ -24298,6 +24298,23 @@
     ],
     "timestamp": "May/29/2024 08:12"
   },
+  "CF263077385": {
+    "contest_id": 652,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/652/F.cpp",
+    "platform": "Codeforces",
+    "problem_index": "F",
+    "problem_name": "Ants on a Circle",
+    "problem_url": "https://codeforces.com/contest/652/problem/F",
+    "submission_id": "CF263077385",
+    "submission_url": "https://codeforces.com/contest/652/submission/263077385",
+    "tags": [
+      "constructive algorithms",
+      "math",
+      "*2800"
+    ],
+    "timestamp": "May/29/2024 08:14"
+  },
   "CF263077480": {
     "contest_id": 909,
     "language": "C++20 (GCC 13-64)",
