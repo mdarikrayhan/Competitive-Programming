@@ -30034,6 +30034,22 @@
     ],
     "timestamp": "May/29/2024 15:36"
   },
+  "CF263121185": {
+    "contest_id": 1065,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1065/G.cpp",
+    "platform": "Codeforces",
+    "problem_index": "G",
+    "problem_name": "Fibonacci Suffix",
+    "problem_url": "https://codeforces.com/contest/1065/problem/G",
+    "submission_id": "CF263121185",
+    "submission_url": "https://codeforces.com/contest/1065/submission/263121185",
+    "tags": [
+      "strings",
+      "*2700"
+    ],
+    "timestamp": "May/29/2024 15:48"
+  },
   "CF263121227": {
     "contest_id": 1575,
     "language": "C++20 (GCC 13-64)",
