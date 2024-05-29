@@ -33144,6 +33144,22 @@
     ],
     "timestamp": "May/29/2024 07:32"
   },
+  "CF263075786": {
+    "contest_id": 130,
+    "language": "Befunge",
+    "path": "codeforces/130/G.befunge",
+    "platform": "Codeforces",
+    "problem_index": "G",
+    "problem_name": "CAPS LOCK ON",
+    "problem_url": "https://codeforces.com/contest/130/problem/G",
+    "submission_id": "CF263075786",
+    "submission_url": "https://codeforces.com/contest/130/submission/263075786",
+    "tags": [
+      "*special problem",
+      "*1700"
+    ],
+    "timestamp": "May/29/2024 07:39"
+  },
   "CF263075794": {
     "contest_id": 130,
     "language": "Befunge",
