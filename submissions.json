@@ -23497,6 +23497,22 @@
     "tags": [],
     "timestamp": "May/29/2024 18:32"
   },
+  "CF263144822": {
+    "contest_id": 856,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/856/F.cpp",
+    "platform": "Codeforces",
+    "problem_index": "F",
+    "problem_name": "To Play or not to Play",
+    "problem_url": "https://codeforces.com/contest/856/problem/F",
+    "submission_id": "CF263144822",
+    "submission_url": "https://codeforces.com/contest/856/submission/263144822",
+    "tags": [
+      "greedy",
+      "*3000"
+    ],
+    "timestamp": "May/29/2024 19:03"
+  },
   "CF263144855": {
     "contest_id": 1267,
     "language": "C++20 (GCC 13-64)",
