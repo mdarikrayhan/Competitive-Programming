@@ -33073,6 +33073,22 @@
     ],
     "timestamp": "May/29/2024 14:00"
   },
+  "CF263110168": {
+    "contest_id": 1290,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1290/F.cpp",
+    "platform": "Codeforces",
+    "problem_index": "F",
+    "problem_name": "Making Shapes",
+    "problem_url": "https://codeforces.com/contest/1290/problem/F",
+    "submission_id": "CF263110168",
+    "submission_url": "https://codeforces.com/contest/1290/submission/263110168",
+    "tags": [
+      "dp",
+      "*3500"
+    ],
+    "timestamp": "May/29/2024 14:19"
+  },
   "CF263110192": {
     "contest_id": 73,
     "language": "C++20 (GCC 13-64)",
