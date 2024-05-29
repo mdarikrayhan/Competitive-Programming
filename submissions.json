@@ -23393,6 +23393,23 @@
     ],
     "timestamp": "May/17/2024 08:26"
   },
+  "CF263138940": {
+    "contest_id": 774,
+    "language": "PHP",
+    "path": "codeforces/774/I.php",
+    "platform": "Codeforces",
+    "problem_index": "I",
+    "problem_name": "Composing Of String",
+    "problem_url": "https://codeforces.com/contest/774/problem/I",
+    "submission_id": "CF263138940",
+    "submission_url": "https://codeforces.com/contest/774/submission/263138940",
+    "tags": [
+      "*special problem",
+      "dp",
+      "*2300"
+    ],
+    "timestamp": "May/29/2024 18:16"
+  },
   "CF263139406": {
     "contest_id": 1439,
     "language": "C++20 (GCC 13-64)",
