@@ -30034,6 +30034,26 @@
     ],
     "timestamp": "May/29/2024 15:36"
   },
+  "CF263120773": {
+    "contest_id": 217,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/217/D.cpp",
+    "platform": "Codeforces",
+    "problem_index": "D",
+    "problem_name": "Bitonix' Patrol",
+    "problem_url": "https://codeforces.com/contest/217/problem/D",
+    "submission_id": "CF263120773",
+    "submission_url": "https://codeforces.com/contest/217/submission/263120773",
+    "tags": [
+      "bitmasks",
+      "brute force",
+      "combinatorics",
+      "dfs and similar",
+      "math",
+      "*2900"
+    ],
+    "timestamp": "May/29/2024 15:45"
+  },
   "CF263120844": {
     "contest_id": 1474,
     "language": "C++20 (GCC 13-64)",
