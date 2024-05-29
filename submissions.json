@@ -23393,6 +23393,24 @@
     ],
     "timestamp": "May/17/2024 08:26"
   },
+  "CF263137091": {
+    "contest_id": 696,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/696/F.cpp",
+    "platform": "Codeforces",
+    "problem_index": "F",
+    "problem_name": "...Dary!",
+    "problem_url": "https://codeforces.com/contest/696/problem/F",
+    "submission_id": "CF263137091",
+    "submission_url": "https://codeforces.com/contest/696/submission/263137091",
+    "tags": [
+      "binary search",
+      "geometry",
+      "two pointers",
+      "*3300"
+    ],
+    "timestamp": "May/29/2024 18:01"
+  },
   "CF263137167": {
     "contest_id": 1725,
     "language": "C++20 (GCC 13-64)",
