@@ -36766,6 +36766,25 @@
     ],
     "timestamp": "May/29/2024 06:29"
   },
+  "CF263073078": {
+    "contest_id": 1411,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1411/G.cpp",
+    "platform": "Codeforces",
+    "problem_index": "G",
+    "problem_name": "No Game No Life",
+    "problem_url": "https://codeforces.com/contest/1411/problem/G",
+    "submission_id": "CF263073078",
+    "submission_url": "https://codeforces.com/contest/1411/submission/263073078",
+    "tags": [
+      "bitmasks",
+      "games",
+      "math",
+      "matrices",
+      "*2700"
+    ],
+    "timestamp": "May/29/2024 06:31"
+  },
   "CF263073092": {
     "contest_id": 1316,
     "language": "C++20 (GCC 13-64)",
