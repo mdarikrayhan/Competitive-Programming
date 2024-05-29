@@ -27654,6 +27654,26 @@
     ],
     "timestamp": "May/29/2024 15:36"
   },
+  "CF263126138": {
+    "contest_id": 848,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/848/E.cpp",
+    "platform": "Codeforces",
+    "problem_index": "E",
+    "problem_name": "Days of Floral Colours",
+    "problem_url": "https://codeforces.com/contest/848/problem/E",
+    "submission_id": "CF263126138",
+    "submission_url": "https://codeforces.com/contest/848/submission/263126138",
+    "tags": [
+      "combinatorics",
+      "divide and conquer",
+      "dp",
+      "fft",
+      "math",
+      "*3400"
+    ],
+    "timestamp": "May/29/2024 16:30"
+  },
   "CF263126170": {
     "contest_id": 1336,
     "language": "C++20 (GCC 13-64)",
