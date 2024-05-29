@@ -23393,6 +23393,25 @@
     ],
     "timestamp": "May/17/2024 08:26"
   },
+  "CF263072478": {
+    "contest_id": 196,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/196/D.cpp",
+    "platform": "Codeforces",
+    "problem_index": "D",
+    "problem_name": "The Next Good String",
+    "problem_url": "https://codeforces.com/contest/196/problem/D",
+    "submission_id": "CF263072478",
+    "submission_url": "https://codeforces.com/contest/196/submission/263072478",
+    "tags": [
+      "data structures",
+      "greedy",
+      "hashing",
+      "strings",
+      "*2800"
+    ],
+    "timestamp": "May/29/2024 06:12"
+  },
   "CF263072493": {
     "contest_id": 132,
     "language": "C++20 (GCC 13-64)",
