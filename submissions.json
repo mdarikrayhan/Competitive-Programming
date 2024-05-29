@@ -34491,6 +34491,25 @@
     ],
     "timestamp": "May/29/2024 14:59"
   },
+  "CF263116223": {
+    "contest_id": 182,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/182/A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Battlefield",
+    "problem_url": "https://codeforces.com/contest/182/problem/A",
+    "submission_id": "CF263116223",
+    "submission_url": "https://codeforces.com/contest/182/submission/263116223",
+    "tags": [
+      "geometry",
+      "graphs",
+      "implementation",
+      "shortest paths",
+      "*2200"
+    ],
+    "timestamp": "May/29/2024 15:09"
+  },
   "CF263116259": {
     "contest_id": 1416,
     "language": "C++20 (GCC 13-64)",
