@@ -34491,6 +34491,26 @@
     ],
     "timestamp": "May/29/2024 14:59"
   },
+  "CF263115621": {
+    "contest_id": 1495,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1495/F.cpp",
+    "platform": "Codeforces",
+    "problem_index": "F",
+    "problem_name": "Squares",
+    "problem_url": "https://codeforces.com/contest/1495/problem/F",
+    "submission_id": "CF263115621",
+    "submission_url": "https://codeforces.com/contest/1495/submission/263115621",
+    "tags": [
+      "constructive algorithms",
+      "data structures",
+      "dp",
+      "graphs",
+      "trees",
+      "*3300"
+    ],
+    "timestamp": "May/29/2024 15:04"
+  },
   "CF263115638": {
     "contest_id": 1427,
     "language": "C++20 (GCC 13-64)",
