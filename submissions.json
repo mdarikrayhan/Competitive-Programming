@@ -38716,6 +38716,24 @@
     ],
     "timestamp": "May/29/2024 14:00"
   },
+  "CF263109724": {
+    "contest_id": 919,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/919/F.cpp",
+    "platform": "Codeforces",
+    "problem_index": "F",
+    "problem_name": "A Game With Numbers",
+    "problem_url": "https://codeforces.com/contest/919/problem/F",
+    "submission_id": "CF263109724",
+    "submission_url": "https://codeforces.com/contest/919/submission/263109724",
+    "tags": [
+      "games",
+      "graphs",
+      "shortest paths",
+      "*2600"
+    ],
+    "timestamp": "May/29/2024 14:15"
+  },
   "CF263109759": {
     "contest_id": 1598,
     "language": "C++20 (GCC 13-64)",
