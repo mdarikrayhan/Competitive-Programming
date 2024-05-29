@@ -38716,6 +38716,23 @@
     ],
     "timestamp": "May/29/2024 14:00"
   },
+  "CF263108891": {
+    "contest_id": 97,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/97/A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Domino",
+    "problem_url": "https://codeforces.com/contest/97/problem/A",
+    "submission_id": "CF263108891",
+    "submission_url": "https://codeforces.com/contest/97/submission/263108891",
+    "tags": [
+      "brute force",
+      "implementation",
+      "*2400"
+    ],
+    "timestamp": "May/29/2024 14:09"
+  },
   "CF263108938": {
     "contest_id": 97,
     "language": "C++20 (GCC 13-64)",
