@@ -23393,6 +23393,24 @@
     ],
     "timestamp": "May/17/2024 08:26"
   },
+  "CF263134048": {
+    "contest_id": 865,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/865/G.cpp",
+    "platform": "Codeforces",
+    "problem_index": "G",
+    "problem_name": "Flowers and Chocolate",
+    "problem_url": "https://codeforces.com/contest/865/problem/G",
+    "submission_id": "CF263134048",
+    "submission_url": "https://codeforces.com/contest/865/submission/263134048",
+    "tags": [
+      "combinatorics",
+      "math",
+      "matrices",
+      "*3300"
+    ],
+    "timestamp": "May/29/2024 17:37"
+  },
   "CF263134169": {
     "contest_id": 48,
     "language": "C++20 (GCC 13-64)",
