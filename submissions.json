@@ -38060,6 +38060,24 @@
     ],
     "timestamp": "May/29/2024 07:10"
   },
+  "CF263075121": {
+    "contest_id": 1814,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1814/F.cpp",
+    "platform": "Codeforces",
+    "problem_index": "F",
+    "problem_name": "Communication Towers",
+    "problem_url": "https://codeforces.com/contest/1814/problem/F",
+    "submission_id": "CF263075121",
+    "submission_url": "https://codeforces.com/contest/1814/submission/263075121",
+    "tags": [
+      "brute force",
+      "divide and conquer",
+      "dsu",
+      "*2700"
+    ],
+    "timestamp": "May/29/2024 07:23"
+  },
   "CF263075190": {
     "contest_id": 1505,
     "language": "C++20 (GCC 13-64)",
