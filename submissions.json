@@ -38145,6 +38145,25 @@
     ],
     "timestamp": "May/29/2024 07:27"
   },
+  "CF263075325": {
+    "contest_id": 1488,
+    "language": "Kotlin 1.7",
+    "path": "codeforces/1488/F.kt",
+    "platform": "Codeforces",
+    "problem_index": "F",
+    "problem_name": "Dogecoin",
+    "problem_url": "https://codeforces.com/contest/1488/problem/F",
+    "submission_id": "CF263075325",
+    "submission_url": "https://codeforces.com/contest/1488/submission/263075325",
+    "tags": [
+      "*special problem",
+      "*special problem",
+      "binary search",
+      "data structures",
+      "*2300"
+    ],
+    "timestamp": "May/29/2024 07:28"
+  },
   "CF263075339": {
     "contest_id": 1488,
     "language": "Kotlin 1.7",
