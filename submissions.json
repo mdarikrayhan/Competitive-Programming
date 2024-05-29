@@ -23393,6 +23393,22 @@
     ],
     "timestamp": "May/17/2024 08:26"
   },
+  "CF263083734": {
+    "contest_id": 1297,
+    "language": "Kotlin 1.7",
+    "path": "codeforces/1297/A.kt",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Likes Display",
+    "problem_url": "https://codeforces.com/contest/1297/problem/A",
+    "submission_id": "CF263083734",
+    "submission_url": "https://codeforces.com/contest/1297/submission/263083734",
+    "tags": [
+      "*special problem",
+      "implementation"
+    ],
+    "timestamp": "May/29/2024 10:03"
+  },
   "CF263083738": {
     "contest_id": 329,
     "language": "C++20 (GCC 13-64)",
