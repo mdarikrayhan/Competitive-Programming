@@ -23393,6 +23393,24 @@
     ],
     "timestamp": "May/17/2024 08:26"
   },
+  "CF263117499": {
+    "contest_id": 717,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/717/A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Festival Organization",
+    "problem_url": "https://codeforces.com/contest/717/problem/A",
+    "submission_id": "CF263117499",
+    "submission_url": "https://codeforces.com/contest/717/submission/263117499",
+    "tags": [
+      "combinatorics",
+      "math",
+      "number theory",
+      "*2900"
+    ],
+    "timestamp": "May/29/2024 15:19"
+  },
   "CF263117564": {
     "contest_id": 1906,
     "language": "C++20 (GCC 13-64)",
