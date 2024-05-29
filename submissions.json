@@ -23393,6 +23393,25 @@
     ],
     "timestamp": "May/17/2024 08:26"
   },
+  "CF263139406": {
+    "contest_id": 1439,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1439/E.cpp",
+    "platform": "Codeforces",
+    "problem_index": "E",
+    "problem_name": "Cheat and Win",
+    "problem_url": "https://codeforces.com/contest/1439/problem/E",
+    "submission_id": "CF263139406",
+    "submission_url": "https://codeforces.com/contest/1439/submission/263139406",
+    "tags": [
+      "bitmasks",
+      "data structures",
+      "games",
+      "trees",
+      "*3500"
+    ],
+    "timestamp": "May/29/2024 18:20"
+  },
   "CF263139667": {
     "contest_id": 183,
     "language": "C++20 (GCC 13-64)",
