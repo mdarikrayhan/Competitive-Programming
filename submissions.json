@@ -23393,6 +23393,23 @@
     ],
     "timestamp": "May/17/2024 08:26"
   },
+  "CF263155889": {
+    "contest_id": 1672,
+    "language": "C++17 (GCC 7-32)",
+    "path": "codeforces/1672/I.cpp",
+    "platform": "Codeforces",
+    "problem_index": "I",
+    "problem_name": "PermutationForces",
+    "problem_url": "https://codeforces.com/contest/1672/problem/I",
+    "submission_id": "CF263155889",
+    "submission_url": "https://codeforces.com/contest/1672/submission/263155889",
+    "tags": [
+      "data structures",
+      "greedy",
+      "*3000"
+    ],
+    "timestamp": "May/29/2024 20:27"
+  },
   "CF263155919": {
     "contest_id": 786,
     "language": "C++17 (GCC 7-32)",
