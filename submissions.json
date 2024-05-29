@@ -23393,6 +23393,24 @@
     ],
     "timestamp": "May/17/2024 08:26"
   },
+  "CF263154420": {
+    "contest_id": 871,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/871/E.cpp",
+    "platform": "Codeforces",
+    "problem_index": "E",
+    "problem_name": "Restore the Tree",
+    "problem_url": "https://codeforces.com/contest/871/problem/E",
+    "submission_id": "CF263154420",
+    "submission_url": "https://codeforces.com/contest/871/submission/263154420",
+    "tags": [
+      "graphs",
+      "greedy",
+      "trees",
+      "*2900"
+    ],
+    "timestamp": "May/29/2024 20:16"
+  },
   "CF263154442": {
     "contest_id": 1056,
     "language": "C++20 (GCC 13-64)",
