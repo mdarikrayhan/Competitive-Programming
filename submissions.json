@@ -23393,6 +23393,23 @@
     ],
     "timestamp": "May/17/2024 08:26"
   },
+  "CF263149224": {
+    "contest_id": 176,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/176/C.cpp",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Playing with Superglue",
+    "problem_url": "https://codeforces.com/contest/176/problem/C",
+    "submission_id": "CF263149224",
+    "submission_url": "https://codeforces.com/contest/176/submission/263149224",
+    "tags": [
+      "combinatorics",
+      "constructive algorithms",
+      "*2000"
+    ],
+    "timestamp": "May/29/2024 19:36"
+  },
   "CF263149303": {
     "contest_id": 923,
     "language": "C++20 (GCC 13-64)",
