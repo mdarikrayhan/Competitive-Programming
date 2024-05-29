@@ -23393,6 +23393,22 @@
     ],
     "timestamp": "May/17/2024 08:26"
   },
+  "CF263139667": {
+    "contest_id": 183,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/183/E.cpp",
+    "platform": "Codeforces",
+    "problem_index": "E",
+    "problem_name": "Candy Shop",
+    "problem_url": "https://codeforces.com/contest/183/problem/E",
+    "submission_id": "CF263139667",
+    "submission_url": "https://codeforces.com/contest/183/submission/263139667",
+    "tags": [
+      "greedy",
+      "*2900"
+    ],
+    "timestamp": "May/29/2024 18:22"
+  },
   "CF263140648": {
     "contest_id": 1089,
     "language": "C++20 (GCC 13-64)",
