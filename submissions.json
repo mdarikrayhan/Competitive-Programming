@@ -27654,6 +27654,19 @@
     ],
     "timestamp": "May/29/2024 15:36"
   },
+  "CF263125430": {
+    "contest_id": 1090,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1090/G.cpp",
+    "platform": "Codeforces",
+    "problem_index": "G",
+    "problem_name": "Combostone",
+    "problem_url": "https://codeforces.com/contest/1090/problem/G",
+    "submission_id": "CF263125430",
+    "submission_url": "https://codeforces.com/contest/1090/submission/263125430",
+    "tags": [],
+    "timestamp": "May/29/2024 16:24"
+  },
   "CF263125461": {
     "contest_id": 1267,
     "language": "C++20 (GCC 13-64)",
