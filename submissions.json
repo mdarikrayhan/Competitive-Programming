@@ -38694,6 +38694,25 @@
     ],
     "timestamp": "May/29/2024 07:10"
   },
+  "CF263074588": {
+    "contest_id": 856,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/856/B.cpp",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Similar Words",
+    "problem_url": "https://codeforces.com/contest/856/problem/B",
+    "submission_id": "CF263074588",
+    "submission_url": "https://codeforces.com/contest/856/submission/263074588",
+    "tags": [
+      "dp",
+      "hashing",
+      "strings",
+      "trees",
+      "*2300"
+    ],
+    "timestamp": "May/29/2024 07:10"
+  },
   "CF263074590": {
     "contest_id": 237,
     "language": "C++20 (GCC 13-64)",
