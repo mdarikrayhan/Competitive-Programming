@@ -23393,6 +23393,23 @@
     ],
     "timestamp": "May/17/2024 08:26"
   },
+  "CF263131455": {
+    "contest_id": 1906,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1906/G.cpp",
+    "platform": "Codeforces",
+    "problem_index": "G",
+    "problem_name": "Grid Game 2",
+    "problem_url": "https://codeforces.com/contest/1906/problem/G",
+    "submission_id": "CF263131455",
+    "submission_url": "https://codeforces.com/contest/1906/submission/263131455",
+    "tags": [
+      "games",
+      "number theory",
+      "*2900"
+    ],
+    "timestamp": "May/29/2024 17:16"
+  },
   "CF263131517": {
     "contest_id": 135,
     "language": "C++20 (GCC 13-64)",
