@@ -40790,6 +40790,23 @@
     "tags": [],
     "timestamp": "May/29/2024 13:37"
   },
+  "CF263105059": {
+    "contest_id": 1450,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1450/F.cpp",
+    "platform": "Codeforces",
+    "problem_index": "F",
+    "problem_name": "The Struggling Contestant",
+    "problem_url": "https://codeforces.com/contest/1450/problem/F",
+    "submission_id": "CF263105059",
+    "submission_url": "https://codeforces.com/contest/1450/submission/263105059",
+    "tags": [
+      "constructive algorithms",
+      "greedy",
+      "*2400"
+    ],
+    "timestamp": "May/29/2024 13:39"
+  },
   "CF263105109": {
     "contest_id": 1450,
     "language": "C++20 (GCC 13-64)",
