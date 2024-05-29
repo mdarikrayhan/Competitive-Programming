@@ -23393,6 +23393,26 @@
     ],
     "timestamp": "May/17/2024 08:26"
   },
+  "CF263131365": {
+    "contest_id": 1835,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1835/F.cpp",
+    "platform": "Codeforces",
+    "problem_index": "F",
+    "problem_name": "Good Graph",
+    "problem_url": "https://codeforces.com/contest/1835/problem/F",
+    "submission_id": "CF263131365",
+    "submission_url": "https://codeforces.com/contest/1835/submission/263131365",
+    "tags": [
+      "bitmasks",
+      "dfs and similar",
+      "graph matchings",
+      "graphs",
+      "implementation",
+      "*3500"
+    ],
+    "timestamp": "May/29/2024 17:15"
+  },
   "CF263131372": {
     "contest_id": 1205,
     "language": "C++20 (GCC 13-64)",
