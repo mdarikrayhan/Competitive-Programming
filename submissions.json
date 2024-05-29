@@ -23393,6 +23393,24 @@
     ],
     "timestamp": "May/17/2024 08:26"
   },
+  "CF263136368": {
+    "contest_id": 56,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/56/C.cpp",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Corporation Mail",
+    "problem_url": "https://codeforces.com/contest/56/problem/C",
+    "submission_id": "CF263136368",
+    "submission_url": "https://codeforces.com/contest/56/submission/263136368",
+    "tags": [
+      "data structures",
+      "expression parsing",
+      "implementation",
+      "*1700"
+    ],
+    "timestamp": "May/29/2024 17:56"
+  },
   "CF263136407": {
     "contest_id": 917,
     "language": "C++20 (GCC 13-64)",
