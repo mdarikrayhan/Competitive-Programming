@@ -27654,6 +27654,23 @@
     ],
     "timestamp": "May/29/2024 15:36"
   },
+  "CF263125064": {
+    "contest_id": 774,
+    "language": "Java 8",
+    "path": "codeforces/774/L.java",
+    "platform": "Codeforces",
+    "problem_index": "L",
+    "problem_name": "Bars",
+    "problem_url": "https://codeforces.com/contest/774/problem/L",
+    "submission_id": "CF263125064",
+    "submission_url": "https://codeforces.com/contest/774/submission/263125064",
+    "tags": [
+      "*special problem",
+      "binary search",
+      "*2000"
+    ],
+    "timestamp": "May/29/2024 16:21"
+  },
   "CF263125270": {
     "contest_id": 1090,
     "language": "C++20 (GCC 13-64)",
