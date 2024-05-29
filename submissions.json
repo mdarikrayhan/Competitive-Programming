@@ -23393,6 +23393,22 @@
     ],
     "timestamp": "May/17/2024 08:26"
   },
+  "CF263134196": {
+    "contest_id": 48,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/48/H.cpp",
+    "platform": "Codeforces",
+    "problem_index": "H",
+    "problem_name": "Black and White",
+    "problem_url": "https://codeforces.com/contest/48/problem/H",
+    "submission_id": "CF263134196",
+    "submission_url": "https://codeforces.com/contest/48/submission/263134196",
+    "tags": [
+      "constructive algorithms",
+      "*2800"
+    ],
+    "timestamp": "May/29/2024 17:38"
+  },
   "CF263134266": {
     "contest_id": 744,
     "language": "C++20 (GCC 13-64)",
