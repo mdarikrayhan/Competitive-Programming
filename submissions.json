@@ -23393,6 +23393,23 @@
     ],
     "timestamp": "May/17/2024 08:26"
   },
+  "CF263149004": {
+    "contest_id": 1863,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1863/H.cpp",
+    "platform": "Codeforces",
+    "problem_index": "H",
+    "problem_name": "Goldberg Machine 3",
+    "problem_url": "https://codeforces.com/contest/1863/problem/H",
+    "submission_id": "CF263149004",
+    "submission_url": "https://codeforces.com/contest/1863/submission/263149004",
+    "tags": [
+      "dp",
+      "trees",
+      "*3500"
+    ],
+    "timestamp": "May/29/2024 19:34"
+  },
   "CF263149073": {
     "contest_id": 1267,
     "language": "C++20 (GCC 13-64)",
