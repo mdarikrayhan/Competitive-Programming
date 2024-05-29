@@ -23393,6 +23393,25 @@
     ],
     "timestamp": "May/17/2024 08:26"
   },
+  "CF263074128": {
+    "contest_id": 639,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/639/E.cpp",
+    "platform": "Codeforces",
+    "problem_index": "E",
+    "problem_name": "Bear and Paradox",
+    "problem_url": "https://codeforces.com/contest/639/problem/E",
+    "submission_id": "CF263074128",
+    "submission_url": "https://codeforces.com/contest/639/submission/263074128",
+    "tags": [
+      "binary search",
+      "greedy",
+      "math",
+      "sortings",
+      "*2800"
+    ],
+    "timestamp": "May/29/2024 07:00"
+  },
   "CF263074139": {
     "contest_id": 639,
     "language": "C++20 (GCC 13-64)",
