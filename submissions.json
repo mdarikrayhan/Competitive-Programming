@@ -23393,6 +23393,22 @@
     ],
     "timestamp": "May/17/2024 08:26"
   },
+  "CF263137658": {
+    "contest_id": 1266,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1266/G.cpp",
+    "platform": "Codeforces",
+    "problem_index": "G",
+    "problem_name": "Permutation Concatenation",
+    "problem_url": "https://codeforces.com/contest/1266/problem/G",
+    "submission_id": "CF263137658",
+    "submission_url": "https://codeforces.com/contest/1266/submission/263137658",
+    "tags": [
+      "string suffix structures",
+      "*3300"
+    ],
+    "timestamp": "May/29/2024 18:06"
+  },
   "CF263137755": {
     "contest_id": 1781,
     "language": "C++20 (GCC 13-64)",
