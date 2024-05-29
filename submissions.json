@@ -24815,6 +24815,19 @@
     ],
     "timestamp": "May/29/2024 10:33"
   },
+  "CF263104745": {
+    "contest_id": 1938,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1938/L.cpp",
+    "platform": "Codeforces",
+    "problem_index": "L",
+    "problem_name": "XOR Operations",
+    "problem_url": "https://codeforces.com/contest/1938/problem/L",
+    "submission_id": "CF263104745",
+    "submission_url": "https://codeforces.com/contest/1938/submission/263104745",
+    "tags": [],
+    "timestamp": "May/29/2024 13:37"
+  },
   "CF263104796": {
     "contest_id": 1938,
     "language": "C++20 (GCC 13-64)",
