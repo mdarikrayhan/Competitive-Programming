@@ -36733,6 +36733,22 @@
     ],
     "timestamp": "May/29/2024 06:20"
   },
+  "CF263072851": {
+    "contest_id": 1028,
+    "language": "C++14 (GCC 6-32)",
+    "path": "codeforces/1028/E.cpp",
+    "platform": "Codeforces",
+    "problem_index": "E",
+    "problem_name": "Restore Array",
+    "problem_url": "https://codeforces.com/contest/1028/problem/E",
+    "submission_id": "CF263072851",
+    "submission_url": "https://codeforces.com/contest/1028/submission/263072851",
+    "tags": [
+      "constructive algorithms",
+      "*2400"
+    ],
+    "timestamp": "May/29/2024 06:23"
+  },
   "CF263072877": {
     "contest_id": 390,
     "language": "C++20 (GCC 13-64)",
