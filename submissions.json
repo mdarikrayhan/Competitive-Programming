@@ -23393,6 +23393,21 @@
     ],
     "timestamp": "May/17/2024 08:26"
   },
+  "CF263075248": {
+    "contest_id": 394,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/394/B.cpp",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Very Beautiful Number",
+    "problem_url": "https://codeforces.com/contest/394/problem/B",
+    "submission_id": "CF263075248",
+    "submission_url": "https://codeforces.com/contest/394/submission/263075248",
+    "tags": [
+      "math"
+    ],
+    "timestamp": "May/29/2024 07:26"
+  },
   "CF263075267": {
     "contest_id": 938,
     "language": "C++20 (GCC 13-64)",
