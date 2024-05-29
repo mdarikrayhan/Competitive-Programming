@@ -38145,6 +38145,22 @@
     ],
     "timestamp": "May/29/2024 07:27"
   },
+  "CF263075440": {
+    "contest_id": 530,
+    "language": "Picat",
+    "path": "codeforces/530/B.pi",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "String inside out",
+    "problem_url": "https://codeforces.com/contest/530/problem/B",
+    "submission_id": "CF263075440",
+    "submission_url": "https://codeforces.com/contest/530/submission/263075440",
+    "tags": [
+      "*special problem",
+      "*1600"
+    ],
+    "timestamp": "May/29/2024 07:31"
+  },
   "CF263075456": {
     "contest_id": 530,
     "language": "Picat",
