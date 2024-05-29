@@ -34491,6 +34491,22 @@
     ],
     "timestamp": "May/29/2024 14:59"
   },
+  "CF263116077": {
+    "contest_id": 142,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/142/D.cpp",
+    "platform": "Codeforces",
+    "problem_index": "D",
+    "problem_name": "Help Shrek and Donkey 2",
+    "problem_url": "https://codeforces.com/contest/142/problem/D",
+    "submission_id": "CF263116077",
+    "submission_url": "https://codeforces.com/contest/142/submission/263116077",
+    "tags": [
+      "games",
+      "*2600"
+    ],
+    "timestamp": "May/29/2024 15:08"
+  },
   "CF263116107": {
     "contest_id": 1956,
     "language": "C++20 (GCC 13-64)",
