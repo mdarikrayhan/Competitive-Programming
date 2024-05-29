@@ -24298,6 +24298,23 @@
     ],
     "timestamp": "May/29/2024 08:12"
   },
+  "CF263077773": {
+    "contest_id": 845,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/845/F.cpp",
+    "platform": "Codeforces",
+    "problem_index": "F",
+    "problem_name": "Guards In The Storehouse",
+    "problem_url": "https://codeforces.com/contest/845/problem/F",
+    "submission_id": "CF263077773",
+    "submission_url": "https://codeforces.com/contest/845/submission/263077773",
+    "tags": [
+      "bitmasks",
+      "dp",
+      "*2500"
+    ],
+    "timestamp": "May/29/2024 08:23"
+  },
   "CF263077791": {
     "contest_id": 8,
     "language": "C++20 (GCC 13-64)",
