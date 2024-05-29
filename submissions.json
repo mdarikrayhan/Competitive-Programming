@@ -27654,6 +27654,22 @@
     ],
     "timestamp": "May/29/2024 15:36"
   },
+  "CF263127603": {
+    "contest_id": 54,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/54/E.cpp",
+    "platform": "Codeforces",
+    "problem_index": "E",
+    "problem_name": "Vacuum \u0421leaner",
+    "problem_url": "https://codeforces.com/contest/54/problem/E",
+    "submission_id": "CF263127603",
+    "submission_url": "https://codeforces.com/contest/54/submission/263127603",
+    "tags": [
+      "geometry",
+      "*2700"
+    ],
+    "timestamp": "May/29/2024 16:43"
+  },
   "CF263127611": {
     "contest_id": 98,
     "language": "C++20 (GCC 13-64)",
