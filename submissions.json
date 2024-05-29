@@ -23393,6 +23393,24 @@
     ],
     "timestamp": "May/17/2024 08:26"
   },
+  "CF263117318": {
+    "contest_id": 76,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/76/C.cpp",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Mutation",
+    "problem_url": "https://codeforces.com/contest/76/problem/C",
+    "submission_id": "CF263117318",
+    "submission_url": "https://codeforces.com/contest/76/submission/263117318",
+    "tags": [
+      "bitmasks",
+      "dp",
+      "math",
+      "*2700"
+    ],
+    "timestamp": "May/29/2024 15:18"
+  },
   "CF263117341": {
     "contest_id": 93,
     "language": "C++20 (GCC 13-64)",
