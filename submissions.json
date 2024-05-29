@@ -23393,6 +23393,23 @@
     ],
     "timestamp": "May/17/2024 08:26"
   },
+  "CF263157828": {
+    "contest_id": 1305,
+    "language": "C++17 (GCC 7-32)",
+    "path": "codeforces/1305/H.cpp",
+    "platform": "Codeforces",
+    "problem_index": "H",
+    "problem_name": "Kuroni the Private Tutor",
+    "problem_url": "https://codeforces.com/contest/1305/problem/H",
+    "submission_id": "CF263157828",
+    "submission_url": "https://codeforces.com/contest/1305/submission/263157828",
+    "tags": [
+      "binary search",
+      "greedy",
+      "*3500"
+    ],
+    "timestamp": "May/29/2024 20:45"
+  },
   "CF263157898": {
     "contest_id": 1218,
     "language": "C++17 (GCC 7-32)",
