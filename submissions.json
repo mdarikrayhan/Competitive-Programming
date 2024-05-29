@@ -23393,6 +23393,24 @@
     ],
     "timestamp": "May/17/2024 08:26"
   },
+  "CF263112394": {
+    "contest_id": 1292,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1292/F.cpp",
+    "platform": "Codeforces",
+    "problem_index": "F",
+    "problem_name": "Nora's Toy Boxes",
+    "problem_url": "https://codeforces.com/contest/1292/problem/F",
+    "submission_id": "CF263112394",
+    "submission_url": "https://codeforces.com/contest/1292/submission/263112394",
+    "tags": [
+      "bitmasks",
+      "combinatorics",
+      "dp",
+      "*3500"
+    ],
+    "timestamp": "May/29/2024 14:38"
+  },
   "CF263112424": {
     "contest_id": 1784,
     "language": "C++20 (GCC 13-64)",
