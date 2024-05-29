@@ -23393,6 +23393,22 @@
     ],
     "timestamp": "May/17/2024 08:26"
   },
+  "CF263130990": {
+    "contest_id": 1320,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1320/F.cpp",
+    "platform": "Codeforces",
+    "problem_index": "F",
+    "problem_name": "Blocks and Sensors",
+    "problem_url": "https://codeforces.com/contest/1320/problem/F",
+    "submission_id": "CF263130990",
+    "submission_url": "https://codeforces.com/contest/1320/submission/263130990",
+    "tags": [
+      "brute force",
+      "*3500"
+    ],
+    "timestamp": "May/29/2024 17:12"
+  },
   "CF263131092": {
     "contest_id": 1696,
     "language": "C++20 (GCC 13-64)",
