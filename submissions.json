@@ -36993,6 +36993,22 @@
     ],
     "timestamp": "May/29/2024 08:47"
   },
+  "CF263079072": {
+    "contest_id": 325,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/325/D.cpp",
+    "platform": "Codeforces",
+    "problem_index": "D",
+    "problem_name": "Reclamation",
+    "problem_url": "https://codeforces.com/contest/325/problem/D",
+    "submission_id": "CF263079072",
+    "submission_url": "https://codeforces.com/contest/325/submission/263079072",
+    "tags": [
+      "dsu",
+      "*2900"
+    ],
+    "timestamp": "May/29/2024 08:47"
+  },
   "CF263079204": {
     "contest_id": 254,
     "language": "C++20 (GCC 13-64)",
