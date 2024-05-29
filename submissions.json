@@ -30034,6 +30034,22 @@
     ],
     "timestamp": "May/29/2024 15:36"
   },
+  "CF263121745": {
+    "contest_id": 575,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/575/E.cpp",
+    "platform": "Codeforces",
+    "problem_index": "E",
+    "problem_name": "Spectator Riots",
+    "problem_url": "https://codeforces.com/contest/575/problem/E",
+    "submission_id": "CF263121745",
+    "submission_url": "https://codeforces.com/contest/575/submission/263121745",
+    "tags": [
+      "geometry",
+      "*2800"
+    ],
+    "timestamp": "May/29/2024 15:53"
+  },
   "CF263121771": {
     "contest_id": 1292,
     "language": "C++20 (GCC 13-64)",
