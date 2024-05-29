@@ -23393,6 +23393,26 @@
     ],
     "timestamp": "May/17/2024 08:26"
   },
+  "CF263156152": {
+    "contest_id": 1444,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1444/E.cpp",
+    "platform": "Codeforces",
+    "problem_index": "E",
+    "problem_name": "Finding the Vertex",
+    "problem_url": "https://codeforces.com/contest/1444/problem/E",
+    "submission_id": "CF263156152",
+    "submission_url": "https://codeforces.com/contest/1444/submission/263156152",
+    "tags": [
+      "brute force",
+      "dfs and similar",
+      "dp",
+      "interactive",
+      "trees",
+      "*3500"
+    ],
+    "timestamp": "May/29/2024 20:30"
+  },
   "CF263156183": {
     "contest_id": 1969,
     "language": "C++20 (GCC 13-64)",
