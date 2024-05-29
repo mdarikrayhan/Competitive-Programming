@@ -24814,6 +24814,22 @@
     ],
     "timestamp": "May/29/2024 15:36"
   },
+  "CF263128228": {
+    "contest_id": 739,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/739/D.cpp",
+    "platform": "Codeforces",
+    "problem_index": "D",
+    "problem_name": "Recover a functional graph",
+    "problem_url": "https://codeforces.com/contest/739/problem/D",
+    "submission_id": "CF263128228",
+    "submission_url": "https://codeforces.com/contest/739/submission/263128228",
+    "tags": [
+      "graph matchings",
+      "*3400"
+    ],
+    "timestamp": "May/29/2024 16:49"
+  },
   "CF263128261": {
     "contest_id": 1893,
     "language": "C++20 (GCC 13-64)",
