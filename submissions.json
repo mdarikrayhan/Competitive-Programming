@@ -23393,6 +23393,23 @@
     ],
     "timestamp": "May/17/2024 08:26"
   },
+  "CF263112907": {
+    "contest_id": 335,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/335/D.cpp",
+    "platform": "Codeforces",
+    "problem_index": "D",
+    "problem_name": "Rectangles and Square",
+    "problem_url": "https://codeforces.com/contest/335/problem/D",
+    "submission_id": "CF263112907",
+    "submission_url": "https://codeforces.com/contest/335/submission/263112907",
+    "tags": [
+      "brute force",
+      "dp",
+      "*2400"
+    ],
+    "timestamp": "May/29/2024 14:42"
+  },
   "CF263112975": {
     "contest_id": 1237,
     "language": "C++20 (GCC 13-64)",
