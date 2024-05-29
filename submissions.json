@@ -23393,6 +23393,24 @@
     ],
     "timestamp": "May/17/2024 08:26"
   },
+  "CF263117354": {
+    "contest_id": 457,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/457/D.cpp",
+    "platform": "Codeforces",
+    "problem_index": "D",
+    "problem_name": "Bingo!",
+    "problem_url": "https://codeforces.com/contest/457/problem/D",
+    "submission_id": "CF263117354",
+    "submission_url": "https://codeforces.com/contest/457/submission/263117354",
+    "tags": [
+      "combinatorics",
+      "math",
+      "probabilities",
+      "*2700"
+    ],
+    "timestamp": "May/29/2024 15:18"
+  },
   "CF263117382": {
     "contest_id": 200,
     "language": "C++20 (GCC 13-64)",
