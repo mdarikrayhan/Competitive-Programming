@@ -30034,6 +30034,23 @@
     ],
     "timestamp": "May/29/2024 15:36"
   },
+  "CF263121870": {
+    "contest_id": 36,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/36/C.cpp",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Bowls",
+    "problem_url": "https://codeforces.com/contest/36/problem/C",
+    "submission_id": "CF263121870",
+    "submission_url": "https://codeforces.com/contest/36/submission/263121870",
+    "tags": [
+      "geometry",
+      "implementation",
+      "*2200"
+    ],
+    "timestamp": "May/29/2024 15:54"
+  },
   "CF263121878": {
     "contest_id": 1147,
     "language": "C++20 (GCC 13-64)",
