@@ -27114,6 +27114,23 @@
     ],
     "timestamp": "May/29/2024 06:34"
   },
+  "CF263073494": {
+    "contest_id": 1291,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1291/F.cpp",
+    "platform": "Codeforces",
+    "problem_index": "F",
+    "problem_name": "Coffee Varieties (easy version)",
+    "problem_url": "https://codeforces.com/contest/1291/problem/F",
+    "submission_id": "CF263073494",
+    "submission_url": "https://codeforces.com/contest/1291/submission/263073494",
+    "tags": [
+      "graphs",
+      "interactive",
+      "*2800"
+    ],
+    "timestamp": "May/29/2024 06:42"
+  },
   "CF263073519": {
     "contest_id": 512,
     "language": "C++20 (GCC 13-64)",
