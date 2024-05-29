@@ -23393,6 +23393,25 @@
     ],
     "timestamp": "May/17/2024 08:26"
   },
+  "CF263154652": {
+    "contest_id": 1158,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1158/E.cpp",
+    "platform": "Codeforces",
+    "problem_index": "E",
+    "problem_name": "Strange device",
+    "problem_url": "https://codeforces.com/contest/1158/problem/E",
+    "submission_id": "CF263154652",
+    "submission_url": "https://codeforces.com/contest/1158/submission/263154652",
+    "tags": [
+      "binary search",
+      "interactive",
+      "math",
+      "trees",
+      "*3400"
+    ],
+    "timestamp": "May/29/2024 20:18"
+  },
   "CF263154960": {
     "contest_id": 549,
     "language": "C++20 (GCC 13-64)",
