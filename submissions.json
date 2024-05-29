@@ -38716,6 +38716,22 @@
     ],
     "timestamp": "May/29/2024 14:00"
   },
+  "CF263109417": {
+    "contest_id": 1033,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1033/G.cpp",
+    "platform": "Codeforces",
+    "problem_index": "G",
+    "problem_name": "Chip Game",
+    "problem_url": "https://codeforces.com/contest/1033/problem/G",
+    "submission_id": "CF263109417",
+    "submission_url": "https://codeforces.com/contest/1033/submission/263109417",
+    "tags": [
+      "games",
+      "*3500"
+    ],
+    "timestamp": "May/29/2024 14:13"
+  },
   "CF263109436": {
     "contest_id": 598,
     "language": "C++20 (GCC 13-64)",
