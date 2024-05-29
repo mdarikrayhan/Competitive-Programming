@@ -35117,6 +35117,23 @@
     ],
     "timestamp": "May/29/2024 09:30"
   },
+  "CF263081817": {
+    "contest_id": 264,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/264/D.cpp",
+    "platform": "Codeforces",
+    "problem_index": "D",
+    "problem_name": "Colorful Stones",
+    "problem_url": "https://codeforces.com/contest/264/problem/D",
+    "submission_id": "CF263081817",
+    "submission_url": "https://codeforces.com/contest/264/submission/263081817",
+    "tags": [
+      "dp",
+      "two pointers",
+      "*2500"
+    ],
+    "timestamp": "May/29/2024 09:30"
+  },
   "CF263081833": {
     "contest_id": 1495,
     "language": "C++20 (GCC 13-64)",
