@@ -23393,6 +23393,25 @@
     ],
     "timestamp": "May/17/2024 08:26"
   },
+  "CF263083017": {
+    "contest_id": 833,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/833/C.cpp",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Ever-Hungry Krakozyabra",
+    "problem_url": "https://codeforces.com/contest/833/problem/C",
+    "submission_id": "CF263083017",
+    "submission_url": "https://codeforces.com/contest/833/submission/263083017",
+    "tags": [
+      "brute force",
+      "combinatorics",
+      "greedy",
+      "math",
+      "*2700"
+    ],
+    "timestamp": "May/29/2024 09:51"
+  },
   "CF263083039": {
     "contest_id": 842,
     "language": "C++20 (GCC 13-64)",
