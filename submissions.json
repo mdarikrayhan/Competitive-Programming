@@ -23497,6 +23497,22 @@
     "tags": [],
     "timestamp": "May/29/2024 18:32"
   },
+  "CF263144423": {
+    "contest_id": 198,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/198/D.cpp",
+    "platform": "Codeforces",
+    "problem_index": "D",
+    "problem_name": "Cube Snake",
+    "problem_url": "https://codeforces.com/contest/198/problem/D",
+    "submission_id": "CF263144423",
+    "submission_url": "https://codeforces.com/contest/198/submission/263144423",
+    "tags": [
+      "constructive algorithms",
+      "*2700"
+    ],
+    "timestamp": "May/29/2024 19:00"
+  },
   "CF263144461": {
     "contest_id": 1648,
     "language": "C++20 (GCC 13-64)",
