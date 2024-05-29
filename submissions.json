@@ -23393,6 +23393,22 @@
     ],
     "timestamp": "May/17/2024 08:26"
   },
+  "CF263082892": {
+    "contest_id": 434,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/434/D.cpp",
+    "platform": "Codeforces",
+    "problem_index": "D",
+    "problem_name": "Nanami's Power Plant",
+    "problem_url": "https://codeforces.com/contest/434/problem/D",
+    "submission_id": "CF263082892",
+    "submission_url": "https://codeforces.com/contest/434/submission/263082892",
+    "tags": [
+      "flows",
+      "*2900"
+    ],
+    "timestamp": "May/29/2024 09:48"
+  },
   "CF263082923": {
     "contest_id": 375,
     "language": "C++20 (GCC 13-64)",
