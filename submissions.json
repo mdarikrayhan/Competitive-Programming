@@ -23393,6 +23393,26 @@
     ],
     "timestamp": "May/17/2024 08:26"
   },
+  "CF263073144": {
+    "contest_id": 1739,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1739/F.cpp",
+    "platform": "Codeforces",
+    "problem_index": "F",
+    "problem_name": "Keyboard Design",
+    "problem_url": "https://codeforces.com/contest/1739/problem/F",
+    "submission_id": "CF263073144",
+    "submission_url": "https://codeforces.com/contest/1739/submission/263073144",
+    "tags": [
+      "bitmasks",
+      "data structures",
+      "dp",
+      "string suffix structures",
+      "strings",
+      "*2600"
+    ],
+    "timestamp": "May/29/2024 06:32"
+  },
   "CF263073162": {
     "contest_id": 611,
     "language": "C++20 (GCC 13-64)",
