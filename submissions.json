@@ -23393,6 +23393,24 @@
     ],
     "timestamp": "May/17/2024 08:26"
   },
+  "CF263148218": {
+    "contest_id": 1761,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1761/F2.cpp",
+    "platform": "Codeforces",
+    "problem_index": "F2",
+    "problem_name": "Anti-median (Hard Version)",
+    "problem_url": "https://codeforces.com/contest/1761/problem/F2",
+    "submission_id": "CF263148218",
+    "submission_url": "https://codeforces.com/contest/1761/submission/263148218",
+    "tags": [
+      "combinatorics",
+      "dp",
+      "math",
+      "*3500"
+    ],
+    "timestamp": "May/29/2024 19:29"
+  },
   "CF263148253": {
     "contest_id": 1446,
     "language": "C++20 (GCC 13-64)",
