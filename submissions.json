@@ -38060,6 +38060,24 @@
     ],
     "timestamp": "May/29/2024 07:10"
   },
+  "CF263074770": {
+    "contest_id": 763,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/763/E.cpp",
+    "platform": "Codeforces",
+    "problem_index": "E",
+    "problem_name": "Timofey and our friends animals",
+    "problem_url": "https://codeforces.com/contest/763/problem/E",
+    "submission_id": "CF263074770",
+    "submission_url": "https://codeforces.com/contest/763/submission/263074770",
+    "tags": [
+      "data structures",
+      "divide and conquer",
+      "dsu",
+      "*2900"
+    ],
+    "timestamp": "May/29/2024 07:14"
+  },
   "CF263074783": {
     "contest_id": 1572,
     "language": "C++20 (GCC 13-64)",
