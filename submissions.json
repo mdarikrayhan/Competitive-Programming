@@ -23393,6 +23393,23 @@
     ],
     "timestamp": "May/17/2024 08:26"
   },
+  "CF263118781": {
+    "contest_id": 1427,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1427/G.cpp",
+    "platform": "Codeforces",
+    "problem_index": "G",
+    "problem_name": "One Billion Shades of Grey",
+    "problem_url": "https://codeforces.com/contest/1427/problem/G",
+    "submission_id": "CF263118781",
+    "submission_url": "https://codeforces.com/contest/1427/submission/263118781",
+    "tags": [
+      "flows",
+      "graphs",
+      "*3300"
+    ],
+    "timestamp": "May/29/2024 15:30"
+  },
   "CF263118784": {
     "contest_id": 57,
     "language": "C++20 (GCC 13-64)",
