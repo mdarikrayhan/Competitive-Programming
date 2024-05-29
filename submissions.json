@@ -24814,6 +24814,22 @@
     ],
     "timestamp": "May/29/2024 15:36"
   },
+  "CF263128173": {
+    "contest_id": 98,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/98/D.cpp",
+    "platform": "Codeforces",
+    "problem_index": "D",
+    "problem_name": "Help Monks",
+    "problem_url": "https://codeforces.com/contest/98/problem/D",
+    "submission_id": "CF263128173",
+    "submission_url": "https://codeforces.com/contest/98/submission/263128173",
+    "tags": [
+      "constructive algorithms",
+      "*2500"
+    ],
+    "timestamp": "May/29/2024 16:48"
+  },
   "CF263128208": {
     "contest_id": 958,
     "language": "C++20 (GCC 13-64)",
