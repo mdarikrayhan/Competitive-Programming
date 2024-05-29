@@ -24814,6 +24814,19 @@
     ],
     "timestamp": "May/29/2024 15:36"
   },
+  "CF263130156": {
+    "contest_id": 1939,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1939/B.cpp",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Evidence Board",
+    "problem_url": "https://codeforces.com/contest/1939/problem/B",
+    "submission_id": "CF263130156",
+    "submission_url": "https://codeforces.com/contest/1939/submission/263130156",
+    "tags": [],
+    "timestamp": "May/29/2024 17:06"
+  },
   "CF263130193": {
     "contest_id": 887,
     "language": "C++20 (GCC 13-64)",
