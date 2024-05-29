@@ -24814,6 +24814,22 @@
     ],
     "timestamp": "May/29/2024 15:36"
   },
+  "CF263129954": {
+    "contest_id": 1906,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1906/C.cpp",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Cursed Game",
+    "problem_url": "https://codeforces.com/contest/1906/problem/C",
+    "submission_id": "CF263129954",
+    "submission_url": "https://codeforces.com/contest/1906/submission/263129954",
+    "tags": [
+      "interactive",
+      "*3000"
+    ],
+    "timestamp": "May/29/2024 17:04"
+  },
   "CF263129999": {
     "contest_id": 1806,
     "language": "C++20 (GCC 13-64)",
