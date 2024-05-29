@@ -23393,6 +23393,24 @@
     ],
     "timestamp": "May/17/2024 08:26"
   },
+  "CF263114104": {
+    "contest_id": 240,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/240/E.cpp",
+    "platform": "Codeforces",
+    "problem_index": "E",
+    "problem_name": "Road Repairs",
+    "problem_url": "https://codeforces.com/contest/240/problem/E",
+    "submission_id": "CF263114104",
+    "submission_url": "https://codeforces.com/contest/240/submission/263114104",
+    "tags": [
+      "dfs and similar",
+      "graphs",
+      "greedy",
+      "*2800"
+    ],
+    "timestamp": "May/29/2024 14:51"
+  },
   "CF263114173": {
     "contest_id": 715,
     "language": "C++20 (GCC 13-64)",
