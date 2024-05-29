@@ -23393,6 +23393,26 @@
     ],
     "timestamp": "May/17/2024 08:26"
   },
+  "CF263072307": {
+    "contest_id": 1889,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1889/D.cpp",
+    "platform": "Codeforces",
+    "problem_index": "D",
+    "problem_name": "Game of Stacks",
+    "problem_url": "https://codeforces.com/contest/1889/problem/D",
+    "submission_id": "CF263072307",
+    "submission_url": "https://codeforces.com/contest/1889/submission/263072307",
+    "tags": [
+      "brute force",
+      "dfs and similar",
+      "graphs",
+      "implementation",
+      "trees",
+      "*3000"
+    ],
+    "timestamp": "May/29/2024 06:07"
+  },
   "CF263072309": {
     "contest_id": 1438,
     "language": "C++20 (GCC 13-64)",
