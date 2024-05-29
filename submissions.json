@@ -38060,6 +38060,24 @@
     ],
     "timestamp": "May/29/2024 07:10"
   },
+  "CF263075017": {
+    "contest_id": 1326,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1326/F2.cpp",
+    "platform": "Codeforces",
+    "problem_index": "F2",
+    "problem_name": "Wise Men (Hard Version)",
+    "problem_url": "https://codeforces.com/contest/1326/problem/F2",
+    "submission_id": "CF263075017",
+    "submission_url": "https://codeforces.com/contest/1326/submission/263075017",
+    "tags": [
+      "bitmasks",
+      "dp",
+      "math",
+      "*3200"
+    ],
+    "timestamp": "May/29/2024 07:20"
+  },
   "CF263075034": {
     "contest_id": 887,
     "language": "C++20 (GCC 13-64)",
