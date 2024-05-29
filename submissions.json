@@ -30034,6 +30034,22 @@
     ],
     "timestamp": "May/29/2024 15:36"
   },
+  "CF263122674": {
+    "contest_id": 475,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/475/F.cpp",
+    "platform": "Codeforces",
+    "problem_index": "F",
+    "problem_name": "Meta-universe",
+    "problem_url": "https://codeforces.com/contest/475/problem/F",
+    "submission_id": "CF263122674",
+    "submission_url": "https://codeforces.com/contest/475/submission/263122674",
+    "tags": [
+      "data structures",
+      "*2900"
+    ],
+    "timestamp": "May/29/2024 16:01"
+  },
   "CF263122682": {
     "contest_id": 1510,
     "language": "C++20 (GCC 13-64)",
