@@ -36733,6 +36733,22 @@
     ],
     "timestamp": "May/29/2024 06:20"
   },
+  "CF263072978": {
+    "contest_id": 949,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/949/E.cpp",
+    "platform": "Codeforces",
+    "problem_index": "E",
+    "problem_name": "Binary Cards",
+    "problem_url": "https://codeforces.com/contest/949/problem/E",
+    "submission_id": "CF263072978",
+    "submission_url": "https://codeforces.com/contest/949/submission/263072978",
+    "tags": [
+      "brute force",
+      "*2700"
+    ],
+    "timestamp": "May/29/2024 06:27"
+  },
   "CF263072989": {
     "contest_id": 1943,
     "language": "C++20 (GCC 13-64)",
