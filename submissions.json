@@ -30034,6 +30034,22 @@
     ],
     "timestamp": "May/29/2024 15:36"
   },
+  "CF263120123": {
+    "contest_id": 715,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/715/D.cpp",
+    "platform": "Codeforces",
+    "problem_index": "D",
+    "problem_name": "Create a Maze",
+    "problem_url": "https://codeforces.com/contest/715/problem/D",
+    "submission_id": "CF263120123",
+    "submission_url": "https://codeforces.com/contest/715/submission/263120123",
+    "tags": [
+      "constructive algorithms",
+      "*3100"
+    ],
+    "timestamp": "May/29/2024 15:40"
+  },
   "CF263120329": {
     "contest_id": 1819,
     "language": "C++20 (GCC 13-64)",
