@@ -27654,6 +27654,24 @@
     ],
     "timestamp": "May/29/2024 15:36"
   },
+  "CF263125736": {
+    "contest_id": 1842,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1842/I.cpp",
+    "platform": "Codeforces",
+    "problem_index": "I",
+    "problem_name": "Tenzing and Necklace",
+    "problem_url": "https://codeforces.com/contest/1842/problem/I",
+    "submission_id": "CF263125736",
+    "submission_url": "https://codeforces.com/contest/1842/submission/263125736",
+    "tags": [
+      "divide and conquer",
+      "dp",
+      "greedy",
+      "*3500"
+    ],
+    "timestamp": "May/29/2024 16:27"
+  },
   "CF263125741": {
     "contest_id": 1870,
     "language": "C++20 (GCC 13-64)",
