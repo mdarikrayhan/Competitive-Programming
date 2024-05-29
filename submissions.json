@@ -23393,6 +23393,21 @@
     ],
     "timestamp": "May/17/2024 08:26"
   },
+  "CF263085138": {
+    "contest_id": 908,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/908/H.cpp",
+    "platform": "Codeforces",
+    "problem_index": "H",
+    "problem_name": "New Year and Boolean Bridges",
+    "problem_url": "https://codeforces.com/contest/908/problem/H",
+    "submission_id": "CF263085138",
+    "submission_url": "https://codeforces.com/contest/908/submission/263085138",
+    "tags": [
+      "*3100"
+    ],
+    "timestamp": "May/29/2024 10:24"
+  },
   "CF263085212": {
     "contest_id": 1575,
     "language": "C++20 (GCC 13-64)",
