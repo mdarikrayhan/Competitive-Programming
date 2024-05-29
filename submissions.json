@@ -23497,6 +23497,23 @@
     "tags": [],
     "timestamp": "May/29/2024 18:32"
   },
+  "CF263146832": {
+    "contest_id": 780,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/780/G.cpp",
+    "platform": "Codeforces",
+    "problem_index": "G",
+    "problem_name": "Andryusha and Nervous Barriers",
+    "problem_url": "https://codeforces.com/contest/780/problem/G",
+    "submission_id": "CF263146832",
+    "submission_url": "https://codeforces.com/contest/780/submission/263146832",
+    "tags": [
+      "data structures",
+      "dp",
+      "*2700"
+    ],
+    "timestamp": "May/29/2024 19:19"
+  },
   "CF263146838": {
     "contest_id": 1609,
     "language": "C++20 (GCC 13-64)",
