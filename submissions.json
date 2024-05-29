@@ -33073,6 +33073,23 @@
     ],
     "timestamp": "May/29/2024 14:00"
   },
+  "CF263110434": {
+    "contest_id": 1279,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1279/E.cpp",
+    "platform": "Codeforces",
+    "problem_index": "E",
+    "problem_name": "New Year Permutations",
+    "problem_url": "https://codeforces.com/contest/1279/problem/E",
+    "submission_id": "CF263110434",
+    "submission_url": "https://codeforces.com/contest/1279/submission/263110434",
+    "tags": [
+      "combinatorics",
+      "dp",
+      "*2700"
+    ],
+    "timestamp": "May/29/2024 14:21"
+  },
   "CF263110463": {
     "contest_id": 1525,
     "language": "C++20 (GCC 13-64)",
