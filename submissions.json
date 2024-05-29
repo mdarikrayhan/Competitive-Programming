@@ -23497,6 +23497,27 @@
     "tags": [],
     "timestamp": "May/29/2024 18:32"
   },
+  "CF263147021": {
+    "contest_id": 936,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/936/E.cpp",
+    "platform": "Codeforces",
+    "problem_index": "E",
+    "problem_name": "Iqea",
+    "problem_url": "https://codeforces.com/contest/936/problem/E",
+    "submission_id": "CF263147021",
+    "submission_url": "https://codeforces.com/contest/936/submission/263147021",
+    "tags": [
+      "data structures",
+      "dfs and similar",
+      "divide and conquer",
+      "dsu",
+      "shortest paths",
+      "trees",
+      "*3400"
+    ],
+    "timestamp": "May/29/2024 19:20"
+  },
   "CF263147033": {
     "contest_id": 1078,
     "language": "C++20 (GCC 13-64)",
