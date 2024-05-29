@@ -23393,6 +23393,25 @@
     ],
     "timestamp": "May/17/2024 08:26"
   },
+  "CF263154515": {
+    "contest_id": 1707,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1707/F.cpp",
+    "platform": "Codeforces",
+    "problem_index": "F",
+    "problem_name": "Bugaboo",
+    "problem_url": "https://codeforces.com/contest/1707/problem/F",
+    "submission_id": "CF263154515",
+    "submission_url": "https://codeforces.com/contest/1707/submission/263154515",
+    "tags": [
+      "bitmasks",
+      "constructive algorithms",
+      "dp",
+      "number theory",
+      "*3500"
+    ],
+    "timestamp": "May/29/2024 20:17"
+  },
   "CF263154652": {
     "contest_id": 1158,
     "language": "C++20 (GCC 13-64)",
