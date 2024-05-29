@@ -23393,6 +23393,24 @@
     ],
     "timestamp": "May/17/2024 08:26"
   },
+  "CF263082846": {
+    "contest_id": 1808,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1808/E1.cpp",
+    "platform": "Codeforces",
+    "problem_index": "E1",
+    "problem_name": "Minibuses on Venus (easy version)",
+    "problem_url": "https://codeforces.com/contest/1808/problem/E1",
+    "submission_id": "CF263082846",
+    "submission_url": "https://codeforces.com/contest/1808/submission/263082846",
+    "tags": [
+      "combinatorics",
+      "divide and conquer",
+      "dp",
+      "*2200"
+    ],
+    "timestamp": "May/29/2024 09:48"
+  },
   "CF263082856": {
     "contest_id": 1368,
     "language": "C++20 (GCC 13-64)",
