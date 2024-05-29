@@ -23393,6 +23393,27 @@
     ],
     "timestamp": "May/17/2024 08:26"
   },
+  "CF263113671": {
+    "contest_id": 1393,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1393/E2.cpp",
+    "platform": "Codeforces",
+    "problem_index": "E2",
+    "problem_name": "Twilight and Ancient Scroll (harder version)",
+    "problem_url": "https://codeforces.com/contest/1393/problem/E2",
+    "submission_id": "CF263113671",
+    "submission_url": "https://codeforces.com/contest/1393/submission/263113671",
+    "tags": [
+      "dp",
+      "hashing",
+      "implementation",
+      "string suffix structures",
+      "strings",
+      "two pointers",
+      "*3200"
+    ],
+    "timestamp": "May/29/2024 14:48"
+  },
   "CF263113697": {
     "contest_id": 778,
     "language": "C++20 (GCC 13-64)",
