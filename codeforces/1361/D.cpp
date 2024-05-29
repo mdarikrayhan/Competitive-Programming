@@ -1,0 +1,6 @@
+#include<bits/stdc++.h>
+#define int long long
+#define db double
+#define mkp(x,y)(make_pair(x,y))
+#define pii pair<int,int>
+using namespace std;const int MAXN=5e5+7;const db eps=1e-9;int n,k,tot,sm;map<pii,int>mp;db ans;struct rec{int x,y;db dis;inline void gdis(){dis=sqrt(x*x+y*y);}}e[MAXN];db mv[MAXN];vector<int>v[MAXN];inline bool qwq(int x,int y){return e[x].dis-e[y].dis<eps;}inline int gcd(int x,int y){if(x<0)x=-x;if(y<0)y=-y;return y==0?x:gcd(y,x%y);}inline void solve(int o){int m=v[o].size();sort(v[o].begin(),v[o].end(),qwq);reverse(v[o].begin(),v[o].end());db s=0;for(int i=0;i<min(m,k/2);++i){int u=v[o][i];mv[++sm]=e[u].dis*(k-i-1)-e[u].dis*i;}for(int i=k/2;i<m;++i){int u=v[o][m-i+k/2-1];mv[++sm]=e[u].dis*(k-i-k/2-1)-s*2+e[u].dis*(i-k/2);s+=e[u].dis;}return;}signed main(){scanf("%lld%lld",&n,&k);for(int i=1,x,y;i<=n;++i){scanf("%lld%lld",&x,&y);e[i].x=x;e[i].y=y;e[i].gdis();if(x==0&&y==0){v[++tot].push_back(i);continue;}int d=gcd(x,y);x/=d;y/=d;if(mp.find(mkp(x,y))!=mp.end()){v[mp[mkp(x,y)]].push_back(i);}else{++tot;mp[mkp(x,y)]=tot;v[tot].push_back(i);}}for(int i=1;i<=tot;++i)solve(i);sort(mv+1,mv+sm+1);for(int i=sm;i>=sm-k+1;--i)ans+=mv[i];printf("%.10lf\n",ans);return 0;}
