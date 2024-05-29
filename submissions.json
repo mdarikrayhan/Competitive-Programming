@@ -23393,6 +23393,22 @@
     ],
     "timestamp": "May/17/2024 08:26"
   },
+  "CF263083677": {
+    "contest_id": 360,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/360/D.cpp",
+    "platform": "Codeforces",
+    "problem_index": "D",
+    "problem_name": "Levko and Sets",
+    "problem_url": "https://codeforces.com/contest/360/problem/D",
+    "submission_id": "CF263083677",
+    "submission_url": "https://codeforces.com/contest/360/submission/263083677",
+    "tags": [
+      "number theory",
+      "*2600"
+    ],
+    "timestamp": "May/29/2024 10:02"
+  },
   "CF263083691": {
     "contest_id": 1854,
     "language": "C++20 (GCC 13-64)",
