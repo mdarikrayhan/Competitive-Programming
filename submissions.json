@@ -39035,6 +39035,23 @@
     ],
     "timestamp": "May/29/2024 10:19"
   },
+  "CF263084982": {
+    "contest_id": 611,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/611/F.cpp",
+    "platform": "Codeforces",
+    "problem_index": "F",
+    "problem_name": "New Year and Cleaning",
+    "problem_url": "https://codeforces.com/contest/611/problem/F",
+    "submission_id": "CF263084982",
+    "submission_url": "https://codeforces.com/contest/611/submission/263084982",
+    "tags": [
+      "binary search",
+      "implementation",
+      "*2500"
+    ],
+    "timestamp": "May/29/2024 10:22"
+  },
   "CF263085035": {
     "contest_id": 1693,
     "language": "C++20 (GCC 13-64)",
