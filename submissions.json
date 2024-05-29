@@ -23393,6 +23393,24 @@
     ],
     "timestamp": "May/17/2024 08:26"
   },
+  "CF263118104": {
+    "contest_id": 1368,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1368/H1.cpp",
+    "platform": "Codeforces",
+    "problem_index": "H1",
+    "problem_name": "Breadboard Capacity (easy version)",
+    "problem_url": "https://codeforces.com/contest/1368/problem/H1",
+    "submission_id": "CF263118104",
+    "submission_url": "https://codeforces.com/contest/1368/submission/263118104",
+    "tags": [
+      "dp",
+      "flows",
+      "greedy",
+      "*3300"
+    ],
+    "timestamp": "May/29/2024 15:24"
+  },
   "CF263118121": {
     "contest_id": 1054,
     "language": "C++20 (GCC 13-64)",
