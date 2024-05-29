@@ -27654,6 +27654,26 @@
     ],
     "timestamp": "May/29/2024 15:36"
   },
+  "CF263126985": {
+    "contest_id": 1479,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1479/E.cpp",
+    "platform": "Codeforces",
+    "problem_index": "E",
+    "problem_name": "School Clubs",
+    "problem_url": "https://codeforces.com/contest/1479/problem/E",
+    "submission_id": "CF263126985",
+    "submission_url": "https://codeforces.com/contest/1479/submission/263126985",
+    "tags": [
+      "dp",
+      "fft",
+      "math",
+      "number theory",
+      "probabilities",
+      "*3500"
+    ],
+    "timestamp": "May/29/2024 16:38"
+  },
   "CF263127008": {
     "contest_id": 1427,
     "language": "C++20 (GCC 13-64)",
