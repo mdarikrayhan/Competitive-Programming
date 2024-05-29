@@ -39035,6 +39035,23 @@
     ],
     "timestamp": "May/29/2024 10:19"
   },
+  "CF263084919": {
+    "contest_id": 72,
+    "language": "Io",
+    "path": "codeforces/72/I.io",
+    "platform": "Codeforces",
+    "problem_index": "I",
+    "problem_name": "Goofy Numbers",
+    "problem_url": "https://codeforces.com/contest/72/problem/I",
+    "submission_id": "CF263084919",
+    "submission_url": "https://codeforces.com/contest/72/submission/263084919",
+    "tags": [
+      "*special problem",
+      "implementation",
+      "*1500"
+    ],
+    "timestamp": "May/29/2024 10:21"
+  },
   "CF263084982": {
     "contest_id": 611,
     "language": "C++20 (GCC 13-64)",
