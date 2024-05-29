@@ -23393,6 +23393,22 @@
     ],
     "timestamp": "May/17/2024 08:26"
   },
+  "CF263156578": {
+    "contest_id": 40,
+    "language": "C++14 (GCC 6-32)",
+    "path": "codeforces/40/D.cpp",
+    "platform": "Codeforces",
+    "problem_index": "D",
+    "problem_name": "Interesting Sequence",
+    "problem_url": "https://codeforces.com/contest/40/problem/D",
+    "submission_id": "CF263156578",
+    "submission_url": "https://codeforces.com/contest/40/submission/263156578",
+    "tags": [
+      "math",
+      "*2600"
+    ],
+    "timestamp": "May/29/2024 20:33"
+  },
   "CF263156608": {
     "contest_id": 1824,
     "language": "C++14 (GCC 6-32)",
