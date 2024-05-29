@@ -23393,6 +23393,19 @@
     ],
     "timestamp": "May/17/2024 08:26"
   },
+  "CF263159113": {
+    "contest_id": 1666,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1666/G.cpp",
+    "platform": "Codeforces",
+    "problem_index": "G",
+    "problem_name": "Global Warming",
+    "problem_url": "https://codeforces.com/contest/1666/problem/G",
+    "submission_id": "CF263159113",
+    "submission_url": "https://codeforces.com/contest/1666/submission/263159113",
+    "tags": [],
+    "timestamp": "May/29/2024 20:56"
+  },
   "CF263159146": {
     "contest_id": 1761,
     "language": "C++20 (GCC 13-64)",
