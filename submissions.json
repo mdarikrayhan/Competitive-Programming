@@ -23393,6 +23393,23 @@
     ],
     "timestamp": "May/17/2024 08:26"
   },
+  "CF263075230": {
+    "contest_id": 1379,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1379/F2.cpp",
+    "platform": "Codeforces",
+    "problem_index": "F2",
+    "problem_name": "Chess Strikes Back (hard version)",
+    "problem_url": "https://codeforces.com/contest/1379/problem/F2",
+    "submission_id": "CF263075230",
+    "submission_url": "https://codeforces.com/contest/1379/submission/263075230",
+    "tags": [
+      "data structures",
+      "divide and conquer",
+      "*2800"
+    ],
+    "timestamp": "May/29/2024 07:25"
+  },
   "CF263075248": {
     "contest_id": 394,
     "language": "C++20 (GCC 13-64)",
