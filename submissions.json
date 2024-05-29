@@ -24815,6 +24815,24 @@
     ],
     "timestamp": "May/29/2024 10:33"
   },
+  "CF263095767": {
+    "contest_id": 260,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/260/E.cpp",
+    "platform": "Codeforces",
+    "problem_index": "E",
+    "problem_name": "Dividing Kingdom",
+    "problem_url": "https://codeforces.com/contest/260/problem/E",
+    "submission_id": "CF263095767",
+    "submission_url": "https://codeforces.com/contest/260/submission/263095767",
+    "tags": [
+      "binary search",
+      "brute force",
+      "data structures",
+      "*2500"
+    ],
+    "timestamp": "May/29/2024 12:29"
+  },
   "CF263095798": {
     "contest_id": 65,
     "language": "C++20 (GCC 13-64)",
