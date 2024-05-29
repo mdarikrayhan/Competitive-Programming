@@ -24298,6 +24298,22 @@
     ],
     "timestamp": "May/29/2024 08:12"
   },
+  "CF263077485": {
+    "contest_id": 335,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/335/C.cpp",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "More Reclamation",
+    "problem_url": "https://codeforces.com/contest/335/problem/C",
+    "submission_id": "CF263077485",
+    "submission_url": "https://codeforces.com/contest/335/submission/263077485",
+    "tags": [
+      "games",
+      "*2100"
+    ],
+    "timestamp": "May/29/2024 08:17"
+  },
   "CF263077498": {
     "contest_id": 1906,
     "language": "C++20 (GCC 13-64)",
