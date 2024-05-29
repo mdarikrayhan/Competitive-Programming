@@ -23393,6 +23393,22 @@
     ],
     "timestamp": "May/17/2024 08:26"
   },
+  "CF263083975": {
+    "contest_id": 1297,
+    "language": "Kotlin 1.9",
+    "path": "codeforces/1297/C.kt",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Dream Team",
+    "problem_url": "https://codeforces.com/contest/1297/problem/C",
+    "submission_id": "CF263083975",
+    "submission_url": "https://codeforces.com/contest/1297/submission/263083975",
+    "tags": [
+      "*special problem",
+      "greedy"
+    ],
+    "timestamp": "May/29/2024 10:07"
+  },
   "CF263084048": {
     "contest_id": 1297,
     "language": "Kotlin 1.9",
