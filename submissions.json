@@ -23393,6 +23393,24 @@
     ],
     "timestamp": "May/17/2024 08:26"
   },
+  "CF263084531": {
+    "contest_id": 1942,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1942/G.cpp",
+    "platform": "Codeforces",
+    "problem_index": "G",
+    "problem_name": "Bessie and Cards",
+    "problem_url": "https://codeforces.com/contest/1942/problem/G",
+    "submission_id": "CF263084531",
+    "submission_url": "https://codeforces.com/contest/1942/submission/263084531",
+    "tags": [
+      "combinatorics",
+      "dp",
+      "math",
+      "*2800"
+    ],
+    "timestamp": "May/29/2024 10:15"
+  },
   "CF263084592": {
     "contest_id": 1647,
     "language": "C++20 (GCC 13-64)",
