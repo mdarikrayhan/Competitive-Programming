@@ -30034,6 +30034,23 @@
     ],
     "timestamp": "May/29/2024 15:36"
   },
+  "CF263121075": {
+    "contest_id": 40,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/40/C.cpp",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Berland Square",
+    "problem_url": "https://codeforces.com/contest/40/problem/C",
+    "submission_id": "CF263121075",
+    "submission_url": "https://codeforces.com/contest/40/submission/263121075",
+    "tags": [
+      "implementation",
+      "math",
+      "*2300"
+    ],
+    "timestamp": "May/29/2024 15:48"
+  },
   "CF263121139": {
     "contest_id": 1240,
     "language": "C++20 (GCC 13-64)",
