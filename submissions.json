@@ -27418,6 +27418,24 @@
     ],
     "timestamp": "May/29/2024 07:02"
   },
+  "CF263074269": {
+    "contest_id": 342,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/342/D.cpp",
+    "platform": "Codeforces",
+    "problem_index": "D",
+    "problem_name": "Xenia and Dominoes",
+    "problem_url": "https://codeforces.com/contest/342/problem/D",
+    "submission_id": "CF263074269",
+    "submission_url": "https://codeforces.com/contest/342/submission/263074269",
+    "tags": [
+      "bitmasks",
+      "dfs and similar",
+      "dp",
+      "*2100"
+    ],
+    "timestamp": "May/29/2024 07:03"
+  },
   "CF263074271": {
     "contest_id": 1383,
     "language": "C++20 (GCC 13-64)",
