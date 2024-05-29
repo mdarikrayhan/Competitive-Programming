@@ -23393,6 +23393,25 @@
     ],
     "timestamp": "May/17/2024 08:26"
   },
+  "CF263135912": {
+    "contest_id": 1387,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1387/C.cpp",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Viruses",
+    "problem_url": "https://codeforces.com/contest/1387/problem/C",
+    "submission_id": "CF263135912",
+    "submission_url": "https://codeforces.com/contest/1387/submission/263135912",
+    "tags": [
+      "*special problem",
+      "dp",
+      "shortest paths",
+      "string suffix structures",
+      "*2900"
+    ],
+    "timestamp": "May/29/2024 17:52"
+  },
   "CF263135949": {
     "contest_id": 1906,
     "language": "C++20 (GCC 13-64)",
