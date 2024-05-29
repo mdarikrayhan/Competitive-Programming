@@ -23393,6 +23393,22 @@
     ],
     "timestamp": "May/17/2024 08:26"
   },
+  "CF263154353": {
+    "contest_id": 1017,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1017/H.cpp",
+    "platform": "Codeforces",
+    "problem_index": "H",
+    "problem_name": "The Films",
+    "problem_url": "https://codeforces.com/contest/1017/problem/H",
+    "submission_id": "CF263154353",
+    "submission_url": "https://codeforces.com/contest/1017/submission/263154353",
+    "tags": [
+      "brute force",
+      "*3300"
+    ],
+    "timestamp": "May/29/2024 20:15"
+  },
   "CF263154420": {
     "contest_id": 871,
     "language": "C++20 (GCC 13-64)",
