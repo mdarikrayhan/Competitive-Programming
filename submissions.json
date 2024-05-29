@@ -23393,6 +23393,23 @@
     ],
     "timestamp": "May/17/2024 08:26"
   },
+  "CF263150553": {
+    "contest_id": 1909,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1909/H.cpp",
+    "platform": "Codeforces",
+    "problem_index": "H",
+    "problem_name": "Parallel Swaps Sort",
+    "problem_url": "https://codeforces.com/contest/1909/problem/H",
+    "submission_id": "CF263150553",
+    "submission_url": "https://codeforces.com/contest/1909/submission/263150553",
+    "tags": [
+      "constructive algorithms",
+      "data structures",
+      "*3500"
+    ],
+    "timestamp": "May/29/2024 19:46"
+  },
   "CF263150623": {
     "contest_id": 853,
     "language": "C++20 (GCC 13-64)",
