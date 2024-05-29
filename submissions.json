@@ -23393,6 +23393,26 @@
     ],
     "timestamp": "May/17/2024 08:26"
   },
+  "CF263118025": {
+    "contest_id": 1466,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1466/H.cpp",
+    "platform": "Codeforces",
+    "problem_index": "H",
+    "problem_name": "Finding satisfactory solutions",
+    "problem_url": "https://codeforces.com/contest/1466/problem/H",
+    "submission_id": "CF263118025",
+    "submission_url": "https://codeforces.com/contest/1466/submission/263118025",
+    "tags": [
+      "combinatorics",
+      "dp",
+      "graphs",
+      "greedy",
+      "math",
+      "*3300"
+    ],
+    "timestamp": "May/29/2024 15:24"
+  },
   "CF263118036": {
     "contest_id": 788,
     "language": "C++20 (GCC 13-64)",
