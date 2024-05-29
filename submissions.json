@@ -37260,6 +37260,22 @@
     ],
     "timestamp": "May/29/2024 09:03"
   },
+  "CF263081026": {
+    "contest_id": 1028,
+    "language": "C++17 (GCC 7-32)",
+    "path": "codeforces/1028/H.cpp",
+    "platform": "Codeforces",
+    "problem_index": "H",
+    "problem_name": "Make Square",
+    "problem_url": "https://codeforces.com/contest/1028/problem/H",
+    "submission_id": "CF263081026",
+    "submission_url": "https://codeforces.com/contest/1028/submission/263081026",
+    "tags": [
+      "math",
+      "*2900"
+    ],
+    "timestamp": "May/29/2024 09:18"
+  },
   "CF263081036": {
     "contest_id": 925,
     "language": "C++20 (GCC 13-64)",
