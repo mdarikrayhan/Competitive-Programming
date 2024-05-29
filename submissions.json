@@ -39463,6 +39463,23 @@
     ],
     "timestamp": "May/29/2024 08:11"
   },
+  "CF263077264": {
+    "contest_id": 380,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/380/B.cpp",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Sereja and Tree",
+    "problem_url": "https://codeforces.com/contest/380/problem/B",
+    "submission_id": "CF263077264",
+    "submission_url": "https://codeforces.com/contest/380/submission/263077264",
+    "tags": [
+      "graphs",
+      "implementation",
+      "*2400"
+    ],
+    "timestamp": "May/29/2024 08:11"
+  },
   "CF263077269": {
     "contest_id": 1662,
     "language": "C++20 (GCC 13-64)",
