@@ -23393,6 +23393,25 @@
     ],
     "timestamp": "May/17/2024 08:26"
   },
+  "CF263150243": {
+    "contest_id": 175,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/175/F.cpp",
+    "platform": "Codeforces",
+    "problem_index": "F",
+    "problem_name": "Gnomes of Might and Magic",
+    "problem_url": "https://codeforces.com/contest/175/problem/F",
+    "submission_id": "CF263150243",
+    "submission_url": "https://codeforces.com/contest/175/submission/263150243",
+    "tags": [
+      "data structures",
+      "graphs",
+      "implementation",
+      "shortest paths",
+      "*3000"
+    ],
+    "timestamp": "May/29/2024 19:44"
+  },
   "CF263150310": {
     "contest_id": 1776,
     "language": "C++20 (GCC 13-64)",
