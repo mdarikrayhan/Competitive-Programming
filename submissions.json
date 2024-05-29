@@ -27418,6 +27418,23 @@
     ],
     "timestamp": "May/29/2024 07:02"
   },
+  "CF263074254": {
+    "contest_id": 1310,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1310/B.cpp",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Double Elimination",
+    "problem_url": "https://codeforces.com/contest/1310/problem/B",
+    "submission_id": "CF263074254",
+    "submission_url": "https://codeforces.com/contest/1310/submission/263074254",
+    "tags": [
+      "dp",
+      "implementation",
+      "*2500"
+    ],
+    "timestamp": "May/29/2024 07:03"
+  },
   "CF263074269": {
     "contest_id": 342,
     "language": "C++20 (GCC 13-64)",
