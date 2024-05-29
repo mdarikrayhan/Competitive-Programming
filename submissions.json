@@ -23393,6 +23393,23 @@
     ],
     "timestamp": "May/17/2024 08:26"
   },
+  "CF263131214": {
+    "contest_id": 852,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/852/H.cpp",
+    "platform": "Codeforces",
+    "problem_index": "H",
+    "problem_name": "Bob and stages",
+    "problem_url": "https://codeforces.com/contest/852/problem/H",
+    "submission_id": "CF263131214",
+    "submission_url": "https://codeforces.com/contest/852/submission/263131214",
+    "tags": [
+      "dp",
+      "geometry",
+      "*3000"
+    ],
+    "timestamp": "May/29/2024 17:14"
+  },
   "CF263131254": {
     "contest_id": 1861,
     "language": "C++20 (GCC 13-64)",
