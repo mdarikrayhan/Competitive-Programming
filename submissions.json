@@ -27418,6 +27418,24 @@
     ],
     "timestamp": "May/29/2024 07:02"
   },
+  "CF263074308": {
+    "contest_id": 248,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/248/E.cpp",
+    "platform": "Codeforces",
+    "problem_index": "E",
+    "problem_name": "Piglet's Birthday",
+    "problem_url": "https://codeforces.com/contest/248/problem/E",
+    "submission_id": "CF263074308",
+    "submission_url": "https://codeforces.com/contest/248/submission/263074308",
+    "tags": [
+      "dp",
+      "math",
+      "probabilities",
+      "*2600"
+    ],
+    "timestamp": "May/29/2024 07:04"
+  },
   "CF263074320": {
     "contest_id": 1062,
     "language": "C++20 (GCC 13-64)",
