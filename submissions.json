@@ -23497,6 +23497,19 @@
     "tags": [],
     "timestamp": "May/29/2024 18:32"
   },
+  "CF263140985": {
+    "contest_id": 1089,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1089/H.cpp",
+    "platform": "Codeforces",
+    "problem_index": "H",
+    "problem_name": "Harder Satisfiability",
+    "problem_url": "https://codeforces.com/contest/1089/problem/H",
+    "submission_id": "CF263140985",
+    "submission_url": "https://codeforces.com/contest/1089/submission/263140985",
+    "tags": [],
+    "timestamp": "May/29/2024 18:32"
+  },
   "CF263141301": {
     "contest_id": 1864,
     "language": "C++20 (GCC 13-64)",
