@@ -35066,6 +35066,24 @@
     ],
     "timestamp": "May/29/2024 08:32"
   },
+  "CF263079943": {
+    "contest_id": 774,
+    "language": "Ruby 3",
+    "path": "codeforces/774/K.rb",
+    "platform": "Codeforces",
+    "problem_index": "K",
+    "problem_name": "Stepan and Vowels",
+    "problem_url": "https://codeforces.com/contest/774/problem/K",
+    "submission_id": "CF263079943",
+    "submission_url": "https://codeforces.com/contest/774/submission/263079943",
+    "tags": [
+      "*special problem",
+      "implementation",
+      "strings",
+      "*1600"
+    ],
+    "timestamp": "May/29/2024 09:02"
+  },
   "CF263080050": {
     "contest_id": 1260,
     "language": "C++17 (GCC 7-32)",
