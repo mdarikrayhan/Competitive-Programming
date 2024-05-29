@@ -23393,6 +23393,24 @@
     ],
     "timestamp": "May/17/2024 08:26"
   },
+  "CF263082988": {
+    "contest_id": 1787,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1787/G.cpp",
+    "platform": "Codeforces",
+    "problem_index": "G",
+    "problem_name": "Colorful Tree Again",
+    "problem_url": "https://codeforces.com/contest/1787/problem/G",
+    "submission_id": "CF263082988",
+    "submission_url": "https://codeforces.com/contest/1787/submission/263082988",
+    "tags": [
+      "brute force",
+      "data structures",
+      "trees",
+      "*3000"
+    ],
+    "timestamp": "May/29/2024 09:50"
+  },
   "CF263083013": {
     "contest_id": 1455,
     "language": "C++20 (GCC 13-64)",
