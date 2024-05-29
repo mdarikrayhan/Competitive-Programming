@@ -27114,6 +27114,25 @@
     ],
     "timestamp": "May/29/2024 06:34"
   },
+  "CF263073564": {
+    "contest_id": 1715,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1715/F.cpp",
+    "platform": "Codeforces",
+    "problem_index": "F",
+    "problem_name": "Crop Squares",
+    "problem_url": "https://codeforces.com/contest/1715/problem/F",
+    "submission_id": "CF263073564",
+    "submission_url": "https://codeforces.com/contest/1715/submission/263073564",
+    "tags": [
+      "constructive algorithms",
+      "geometry",
+      "interactive",
+      "math",
+      "*2700"
+    ],
+    "timestamp": "May/29/2024 06:44"
+  },
   "CF263073580": {
     "contest_id": 924,
     "language": "C++20 (GCC 13-64)",
