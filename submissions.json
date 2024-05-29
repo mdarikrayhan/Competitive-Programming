@@ -27195,6 +27195,22 @@
     "tags": [],
     "timestamp": "May/29/2024 13:37"
   },
+  "CF263106326": {
+    "contest_id": 26,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/26/E.cpp",
+    "platform": "Codeforces",
+    "problem_index": "E",
+    "problem_name": "Multithreading",
+    "problem_url": "https://codeforces.com/contest/26/problem/E",
+    "submission_id": "CF263106326",
+    "submission_url": "https://codeforces.com/contest/26/submission/263106326",
+    "tags": [
+      "constructive algorithms",
+      "*2400"
+    ],
+    "timestamp": "May/29/2024 13:49"
+  },
   "CF263106703": {
     "contest_id": 314,
     "language": "C++20 (GCC 13-64)",
