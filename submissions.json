@@ -23393,6 +23393,24 @@
     ],
     "timestamp": "May/17/2024 08:26"
   },
+  "CF263135228": {
+    "contest_id": 1109,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1109/C.cpp",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Sasha and a Patient Friend",
+    "problem_url": "https://codeforces.com/contest/1109/problem/C",
+    "submission_id": "CF263135228",
+    "submission_url": "https://codeforces.com/contest/1109/submission/263135228",
+    "tags": [
+      "binary search",
+      "data structures",
+      "implementation",
+      "*2800"
+    ],
+    "timestamp": "May/29/2024 17:47"
+  },
   "CF263135299": {
     "contest_id": 1774,
     "language": "C++20 (GCC 13-64)",
