@@ -23393,6 +23393,19 @@
     ],
     "timestamp": "May/17/2024 08:26"
   },
+  "CF263170843": {
+    "contest_id": 1116,
+    "language": "Q#",
+    "path": "codeforces/1116/C3.qs",
+    "platform": "Codeforces",
+    "problem_index": "C3",
+    "problem_name": "``Is the number of ones divisible by 3?'' oracle",
+    "problem_url": "https://codeforces.com/contest/1116/problem/C3",
+    "submission_id": "CF263170843",
+    "submission_url": "https://codeforces.com/contest/1116/submission/263170843",
+    "tags": [],
+    "timestamp": "May/29/2024 23:08"
+  },
   "CF263170856": {
     "contest_id": 1116,
     "language": "Q#",
