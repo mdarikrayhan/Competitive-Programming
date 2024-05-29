@@ -39035,6 +39035,24 @@
     ],
     "timestamp": "May/29/2024 10:19"
   },
+  "CF263084909": {
+    "contest_id": 72,
+    "language": "Io",
+    "path": "codeforces/72/A.io",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Goshtasp, Vishtasp and Eidi",
+    "problem_url": "https://codeforces.com/contest/72/problem/A",
+    "submission_id": "CF263084909",
+    "submission_url": "https://codeforces.com/contest/72/submission/263084909",
+    "tags": [
+      "*special problem",
+      "greedy",
+      "math",
+      "*1800"
+    ],
+    "timestamp": "May/29/2024 10:21"
+  },
   "CF263084919": {
     "contest_id": 72,
     "language": "Io",
