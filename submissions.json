@@ -23393,6 +23393,23 @@
     ],
     "timestamp": "May/17/2024 08:26"
   },
+  "CF263162453": {
+    "contest_id": 44,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/44/F.cpp",
+    "platform": "Codeforces",
+    "problem_index": "F",
+    "problem_name": "BerPaint",
+    "problem_url": "https://codeforces.com/contest/44/problem/F",
+    "submission_id": "CF263162453",
+    "submission_url": "https://codeforces.com/contest/44/submission/263162453",
+    "tags": [
+      "geometry",
+      "graphs",
+      "*2700"
+    ],
+    "timestamp": "May/29/2024 21:27"
+  },
   "CF263163145": {
     "contest_id": 949,
     "language": "C++20 (GCC 13-64)",
