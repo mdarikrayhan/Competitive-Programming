@@ -24185,6 +24185,23 @@
     ],
     "timestamp": "May/29/2024 08:10"
   },
+  "CF263077213": {
+    "contest_id": 498,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/498/E.cpp",
+    "platform": "Codeforces",
+    "problem_index": "E",
+    "problem_name": "Stairs and Lines",
+    "problem_url": "https://codeforces.com/contest/498/problem/E",
+    "submission_id": "CF263077213",
+    "submission_url": "https://codeforces.com/contest/498/submission/263077213",
+    "tags": [
+      "dp",
+      "matrices",
+      "*2700"
+    ],
+    "timestamp": "May/29/2024 08:10"
+  },
   "CF263077237": {
     "contest_id": 1801,
     "language": "C++20 (GCC 13-64)",
