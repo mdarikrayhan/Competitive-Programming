@@ -23393,6 +23393,27 @@
     ],
     "timestamp": "May/17/2024 08:26"
   },
+  "CF263084194": {
+    "contest_id": 1774,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1774/G.cpp",
+    "platform": "Codeforces",
+    "problem_index": "G",
+    "problem_name": "Segment Covering",
+    "problem_url": "https://codeforces.com/contest/1774/problem/G",
+    "submission_id": "CF263084194",
+    "submission_url": "https://codeforces.com/contest/1774/submission/263084194",
+    "tags": [
+      "brute force",
+      "combinatorics",
+      "constructive algorithms",
+      "data structures",
+      "dp",
+      "trees",
+      "*3200"
+    ],
+    "timestamp": "May/29/2024 10:10"
+  },
   "CF263084254": {
     "contest_id": 850,
     "language": "C++20 (GCC 13-64)",
