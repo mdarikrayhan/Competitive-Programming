@@ -23393,6 +23393,23 @@
     ],
     "timestamp": "May/17/2024 08:26"
   },
+  "CF263131372": {
+    "contest_id": 1205,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1205/E.cpp",
+    "platform": "Codeforces",
+    "problem_index": "E",
+    "problem_name": "Expected Value Again",
+    "problem_url": "https://codeforces.com/contest/1205/problem/E",
+    "submission_id": "CF263131372",
+    "submission_url": "https://codeforces.com/contest/1205/submission/263131372",
+    "tags": [
+      "combinatorics",
+      "strings",
+      "*3100"
+    ],
+    "timestamp": "May/29/2024 17:15"
+  },
   "CF263131396": {
     "contest_id": 1970,
     "language": "C++20 (GCC 13-64)",
