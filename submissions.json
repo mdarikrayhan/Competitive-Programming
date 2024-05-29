@@ -23393,6 +23393,23 @@
     ],
     "timestamp": "May/17/2024 08:26"
   },
+  "CF263117188": {
+    "contest_id": 213,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/213/D.cpp",
+    "platform": "Codeforces",
+    "problem_index": "D",
+    "problem_name": "Stars",
+    "problem_url": "https://codeforces.com/contest/213/problem/D",
+    "submission_id": "CF263117188",
+    "submission_url": "https://codeforces.com/contest/213/submission/263117188",
+    "tags": [
+      "constructive algorithms",
+      "geometry",
+      "*2300"
+    ],
+    "timestamp": "May/29/2024 15:17"
+  },
   "CF263117222": {
     "contest_id": 1866,
     "language": "C++20 (GCC 13-64)",
