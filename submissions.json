@@ -23393,6 +23393,26 @@
     ],
     "timestamp": "May/17/2024 08:26"
   },
+  "CF263161173": {
+    "contest_id": 765,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/765/G.cpp",
+    "platform": "Codeforces",
+    "problem_index": "G",
+    "problem_name": "Math, math everywhere",
+    "problem_url": "https://codeforces.com/contest/765/problem/G",
+    "submission_id": "CF263161173",
+    "submission_url": "https://codeforces.com/contest/765/submission/263161173",
+    "tags": [
+      "brute force",
+      "dp",
+      "math",
+      "meet-in-the-middle",
+      "number theory",
+      "*3200"
+    ],
+    "timestamp": "May/29/2024 21:15"
+  },
   "CF263161226": {
     "contest_id": 1687,
     "language": "C++20 (GCC 13-64)",
