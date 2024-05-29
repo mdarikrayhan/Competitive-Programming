@@ -23393,6 +23393,26 @@
     ],
     "timestamp": "May/17/2024 08:26"
   },
+  "CF263112424": {
+    "contest_id": 1784,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1784/E.cpp",
+    "platform": "Codeforces",
+    "problem_index": "E",
+    "problem_name": "Infinite Game",
+    "problem_url": "https://codeforces.com/contest/1784/problem/E",
+    "submission_id": "CF263112424",
+    "submission_url": "https://codeforces.com/contest/1784/submission/263112424",
+    "tags": [
+      "brute force",
+      "combinatorics",
+      "dp",
+      "games",
+      "probabilities",
+      "*3100"
+    ],
+    "timestamp": "May/29/2024 14:38"
+  },
   "CF263112454": {
     "contest_id": 1712,
     "language": "C++20 (GCC 13-64)",
