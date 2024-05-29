@@ -23393,6 +23393,23 @@
     ],
     "timestamp": "May/17/2024 08:26"
   },
+  "CF263149447": {
+    "contest_id": 737,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/737/F.cpp",
+    "platform": "Codeforces",
+    "problem_index": "F",
+    "problem_name": "Dirty plates",
+    "problem_url": "https://codeforces.com/contest/737/problem/F",
+    "submission_id": "CF263149447",
+    "submission_url": "https://codeforces.com/contest/737/submission/263149447",
+    "tags": [
+      "constructive algorithms",
+      "math",
+      "*3300"
+    ],
+    "timestamp": "May/29/2024 19:37"
+  },
   "CF263149487": {
     "contest_id": 1137,
     "language": "C++20 (GCC 13-64)",
