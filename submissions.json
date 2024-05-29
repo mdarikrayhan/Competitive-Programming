@@ -37348,6 +37348,23 @@
     ],
     "timestamp": "May/29/2024 09:24"
   },
+  "CF263081446": {
+    "contest_id": 138,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/138/D.cpp",
+    "platform": "Codeforces",
+    "problem_index": "D",
+    "problem_name": "World of Darkraft",
+    "problem_url": "https://codeforces.com/contest/138/problem/D",
+    "submission_id": "CF263081446",
+    "submission_url": "https://codeforces.com/contest/138/submission/263081446",
+    "tags": [
+      "dp",
+      "games",
+      "*2500"
+    ],
+    "timestamp": "May/29/2024 09:24"
+  },
   "CF263081470": {
     "contest_id": 1864,
     "language": "C++20 (GCC 13-64)",
