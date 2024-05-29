@@ -39208,6 +39208,24 @@
     ],
     "timestamp": "May/29/2024 10:33"
   },
+  "CF263085955": {
+    "contest_id": 718,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/718/D.cpp",
+    "platform": "Codeforces",
+    "problem_index": "D",
+    "problem_name": "Andrew and Chemistry",
+    "problem_url": "https://codeforces.com/contest/718/problem/D",
+    "submission_id": "CF263085955",
+    "submission_url": "https://codeforces.com/contest/718/submission/263085955",
+    "tags": [
+      "dp",
+      "hashing",
+      "trees",
+      "*2900"
+    ],
+    "timestamp": "May/29/2024 10:38"
+  },
   "CF263085978": {
     "contest_id": 718,
     "language": "C++20 (GCC 13-64)",
