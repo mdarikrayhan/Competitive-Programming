@@ -23393,6 +23393,23 @@
     ],
     "timestamp": "May/17/2024 08:26"
   },
+  "CF263160052": {
+    "contest_id": 1737,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1737/G.cpp",
+    "platform": "Codeforces",
+    "problem_index": "G",
+    "problem_name": "Ela Takes Dancing Class",
+    "problem_url": "https://codeforces.com/contest/1737/problem/G",
+    "submission_id": "CF263160052",
+    "submission_url": "https://codeforces.com/contest/1737/submission/263160052",
+    "tags": [
+      "binary search",
+      "data structures",
+      "*3500"
+    ],
+    "timestamp": "May/29/2024 21:04"
+  },
   "CF263160312": {
     "contest_id": 1677,
     "language": "C++20 (GCC 13-64)",
