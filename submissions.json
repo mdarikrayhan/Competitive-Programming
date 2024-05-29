@@ -38694,6 +38694,22 @@
     ],
     "timestamp": "May/29/2024 07:10"
   },
+  "CF263074631": {
+    "contest_id": 493,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/493/E.cpp",
+    "platform": "Codeforces",
+    "problem_index": "E",
+    "problem_name": "Vasya and Polynomial",
+    "problem_url": "https://codeforces.com/contest/493/problem/E",
+    "submission_id": "CF263074631",
+    "submission_url": "https://codeforces.com/contest/493/submission/263074631",
+    "tags": [
+      "math",
+      "*2800"
+    ],
+    "timestamp": "May/29/2024 07:11"
+  },
   "CF263074648": {
     "contest_id": 216,
     "language": "C++20 (GCC 13-64)",
