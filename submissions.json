@@ -24815,6 +24815,27 @@
     ],
     "timestamp": "May/29/2024 10:33"
   },
+  "CF263095972": {
+    "contest_id": 1511,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1511/F.cpp",
+    "platform": "Codeforces",
+    "problem_index": "F",
+    "problem_name": "Chainword",
+    "problem_url": "https://codeforces.com/contest/1511/problem/F",
+    "submission_id": "CF263095972",
+    "submission_url": "https://codeforces.com/contest/1511/submission/263095972",
+    "tags": [
+      "brute force",
+      "data structures",
+      "dp",
+      "matrices",
+      "string suffix structures",
+      "strings",
+      "*2700"
+    ],
+    "timestamp": "May/29/2024 12:31"
+  },
   "CF263096070": {
     "contest_id": 1193,
     "language": "C++20 (GCC 13-64)",
