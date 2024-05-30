@@ -25869,6 +25869,22 @@
     "tags": [],
     "timestamp": "May/30/2024 04:15"
   },
+  "CF263273168": {
+    "contest_id": 1976,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1976/A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Verify Password",
+    "problem_url": "https://codeforces.com/contest/1976/problem/A",
+    "submission_id": "CF263273168",
+    "submission_url": "https://codeforces.com/contest/1976/submission/263273168",
+    "tags": [
+      "implementation",
+      "sortings"
+    ],
+    "timestamp": "May/30/2024 20:40"
+  },
   "CF263333279": {
     "contest_id": 1976,
     "language": "C++20 (GCC 13-64)",
