@@ -180,36 +180,26 @@ using ordered_set = tree<T, null_type, less<T>,
 
 void solve()
 {
-    ll n, ans = 0, l = 0, r = 0;
+    ll n, ans = 1, mini = 1e18;
     cin >> n;
     vl a(n), b(n + 1);
     rep(i, 0, n) cin >> a[i];
     rep(i, 0, n + 1) cin >> b[i];
-    bool flag = 0;
+    bool flag = 1;
     rep(i, 0, n)
     {
-        l = min(a[i], b[i]);
-        r = max(a[i], b[i]);
-        ans += (r - l);
-        if (!flag)
+        ans += abs(a[i] - b[i]);
+        if ((a[i] >= b[n] && b[n] >= b[i]) || (a[i] <= b[n] && b[n] <= b[i]))
         {
-            if (b[n] >= l && b[n] <= r)
-            {
-                flag = 1;
-                ans++;
-            }
+            mini = 0;
+            flag = 0;
+        }
+        if (flag)
+        {
+            mini = min(mini, min(abs(a[i] - b[n]), abs(b[i] - b[n])));
         }
     }
-    if (!flag)
-    {
-        ll mini = min(abs(b[n] - a[0]), abs(b[n] - b[0]));
-        rep(i, 1, n)
-        {
-            mini = min(mini, min(abs(b[n] - a[i]), abs(b[n] - b[i])));
-        }
-        ans += (mini + 1);
-    }
-    cout << ans << nl;
+    cout << ans + mini << nl;
 }
 
 int32_t main()
