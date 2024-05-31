@@ -25869,6 +25869,23 @@
     "tags": [],
     "timestamp": "May/30/2024 04:15"
   },
+  "CF263504464": {
+    "contest_id": 1981,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1981/C.cpp",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Turtle and an Incomplete Sequence",
+    "problem_url": "https://codeforces.com/contest/1981/problem/C",
+    "submission_id": "CF263504464",
+    "submission_url": "https://codeforces.com/contest/1981/submission/263504464",
+    "tags": [
+      "constructive algorithms",
+      "implementation",
+      "math"
+    ],
+    "timestamp": "May/31/2024 19:24"
+  },
   "CF263504489": {
     "contest_id": 1981,
     "language": "C++20 (GCC 13-64)",
