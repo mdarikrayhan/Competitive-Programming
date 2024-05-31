@@ -25868,5 +25868,25 @@
     "submission_url": "https://codeforces.com/contest/1357/submission/263188505",
     "tags": [],
     "timestamp": "May/30/2024 04:15"
+  },
+  "CF263525059": {
+    "contest_id": 1976,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1976/E.cpp",
+    "platform": "Codeforces",
+    "problem_index": "E",
+    "problem_name": "Splittable Permutations",
+    "problem_url": "https://codeforces.com/contest/1976/problem/E",
+    "submission_id": "CF263525059",
+    "submission_url": "https://codeforces.com/contest/1976/submission/263525059",
+    "tags": [
+      "combinatorics",
+      "data structures",
+      "dfs and similar",
+      "greedy",
+      "math",
+      "trees"
+    ],
+    "timestamp": "May/31/2024 22:18"
   }
 }
