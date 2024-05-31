@@ -25869,6 +25869,23 @@
     "tags": [],
     "timestamp": "May/30/2024 04:15"
   },
+  "CF263504407": {
+    "contest_id": 1981,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1981/F.cpp",
+    "platform": "Codeforces",
+    "problem_index": "F",
+    "problem_name": "Turtle and Paths on a Tree",
+    "problem_url": "https://codeforces.com/contest/1981/problem/F",
+    "submission_id": "CF263504407",
+    "submission_url": "https://codeforces.com/contest/1981/submission/263504407",
+    "tags": [
+      "data structures",
+      "dp",
+      "trees"
+    ],
+    "timestamp": "May/31/2024 19:24"
+  },
   "CF263504430": {
     "contest_id": 1981,
     "language": "C++20 (GCC 13-64)",
