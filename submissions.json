@@ -25869,6 +25869,26 @@
     "tags": [],
     "timestamp": "May/30/2024 04:15"
   },
+  "CF263504518": {
+    "contest_id": 1981,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1981/D.cpp",
+    "platform": "Codeforces",
+    "problem_index": "D",
+    "problem_name": "Turtle and Multiplication",
+    "problem_url": "https://codeforces.com/contest/1981/problem/D",
+    "submission_id": "CF263504518",
+    "submission_url": "https://codeforces.com/contest/1981/submission/263504518",
+    "tags": [
+      "binary search",
+      "constructive algorithms",
+      "dfs and similar",
+      "graphs",
+      "math",
+      "number theory"
+    ],
+    "timestamp": "May/31/2024 19:25"
+  },
   "CF263504547": {
     "contest_id": 1981,
     "language": "C++20 (GCC 13-64)",
