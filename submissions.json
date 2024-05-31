@@ -25869,6 +25869,26 @@
     "tags": [],
     "timestamp": "May/30/2024 04:15"
   },
+  "CF263525023": {
+    "contest_id": 1976,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1976/F.cpp",
+    "platform": "Codeforces",
+    "problem_index": "F",
+    "problem_name": "Remove Bridges",
+    "problem_url": "https://codeforces.com/contest/1976/problem/F",
+    "submission_id": "CF263525023",
+    "submission_url": "https://codeforces.com/contest/1976/submission/263525023",
+    "tags": [
+      "data structures",
+      "dfs and similar",
+      "dp",
+      "greedy",
+      "sortings",
+      "trees"
+    ],
+    "timestamp": "May/31/2024 22:17"
+  },
   "CF263525059": {
     "contest_id": 1976,
     "language": "C++20 (GCC 13-64)",
