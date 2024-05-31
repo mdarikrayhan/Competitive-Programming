@@ -25869,6 +25869,26 @@
     "tags": [],
     "timestamp": "May/30/2024 04:15"
   },
+  "CF263525002": {
+    "contest_id": 1976,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces/1976/D.cpp",
+    "platform": "Codeforces",
+    "problem_index": "D",
+    "problem_name": "Invertible Bracket Sequences",
+    "problem_url": "https://codeforces.com/contest/1976/problem/D",
+    "submission_id": "CF263525002",
+    "submission_url": "https://codeforces.com/contest/1976/submission/263525002",
+    "tags": [
+      "binary search",
+      "combinatorics",
+      "data structures",
+      "divide and conquer",
+      "implementation",
+      "two pointers"
+    ],
+    "timestamp": "May/31/2024 22:17"
+  },
   "CF263525023": {
     "contest_id": 1976,
     "language": "C++20 (GCC 13-64)",
