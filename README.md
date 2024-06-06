@@ -13,11 +13,12 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | # | Title | Solution | Tags | Submitted |
 |---| ----- | -------- | ---- | --------- |
-7232 | [F - Kostyanych's Theorem](https://codeforces.com/contest/1979/problem/F) | [C++20 (GCC 13-64)](./codeforces/1979/F.cpp) | `graphs` `interactive` | Jun/07/2024 02:40 | 
-7231 | [E - Manhattan Triangle](https://codeforces.com/contest/1979/problem/E) | [C++20 (GCC 13-64)](./codeforces/1979/E.cpp) | `binary search` `constructive algorithms` `data structures` `geometry` `two pointers` | Jun/07/2024 02:40 | 
-7230 | [D - Fixing a Binary String](https://codeforces.com/contest/1979/problem/D) | [C++20 (GCC 13-64)](./codeforces/1979/D.cpp) | `bitmasks` `brute force` `constructive algorithms` `greedy` `hashing` `strings` | Jun/07/2024 02:40 | 
-7229 | [C - Earning on Bets](https://codeforces.com/contest/1979/problem/C) | [C++20 (GCC 13-64)](./codeforces/1979/C.cpp) | `combinatorics` `constructive algorithms` `number theory` | Jun/06/2024 21:34 | 
-7228 | [B - XOR Sequences](https://codeforces.com/contest/1979/problem/B) | [C++20 (GCC 13-64)](./codeforces/1979/B.cpp) | `bitmasks` | Jun/06/2024 21:01 | 
+7233 | [F - Kostyanych's Theorem](https://codeforces.com/contest/1979/problem/F) | [C++20 (GCC 13-64)](./codeforces/1979/F.cpp) | `graphs` `interactive` | Jun/07/2024 02:40 | 
+7232 | [E - Manhattan Triangle](https://codeforces.com/contest/1979/problem/E) | [C++20 (GCC 13-64)](./codeforces/1979/E.cpp) | `binary search` `constructive algorithms` `data structures` `geometry` `two pointers` | Jun/07/2024 02:40 | 
+7231 | [D - Fixing a Binary String](https://codeforces.com/contest/1979/problem/D) | [C++20 (GCC 13-64)](./codeforces/1979/D.cpp) | `bitmasks` `brute force` `constructive algorithms` `greedy` `hashing` `strings` | Jun/07/2024 02:40 | 
+7230 | [C - Earning on Bets](https://codeforces.com/contest/1979/problem/C) | [C++20 (GCC 13-64)](./codeforces/1979/C.cpp) | `combinatorics` `constructive algorithms` `number theory` | Jun/06/2024 21:34 | 
+7229 | [B - XOR Sequences](https://codeforces.com/contest/1979/problem/B) | [C++20 (GCC 13-64)](./codeforces/1979/B.cpp) | `bitmasks` | Jun/06/2024 21:01 | 
+7228 | [A - Guess the Maximum](https://codeforces.com/contest/1979/problem/A) | [C++20 (GCC 13-64)](./codeforces/1979/A.cpp) | `brute force` `greedy` `implementation` | Jun/06/2024 20:47 | 
 7227 | [E - Splittable Permutations](https://codeforces.com/contest/1976/problem/E) | [C++20 (GCC 13-64)](./codeforces/1976/E.cpp) | `combinatorics` `data structures` `dfs and similar` `greedy` `math` `trees` | May/31/2024 22:18 | 
 7226 | [C - Job Interview](https://codeforces.com/contest/1976/problem/C) | [C++20 (GCC 13-64)](./codeforces/1976/C.cpp) | `binary search` `dp` `greedy` `implementation` `two pointers` | May/31/2024 22:17 | 
 7225 | [D - Invertible Bracket Sequences](https://codeforces.com/contest/1976/problem/D) | [C++20 (GCC 13-64)](./codeforces/1976/D.cpp) | `binary search` `combinatorics` `data structures` `divide and conquer` `implementation` `two pointers` | May/31/2024 22:17 | 
