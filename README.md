@@ -13,19 +13,20 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | # | Title | Solution | Tags | Submitted |
 |---| ----- | -------- | ---- | --------- |
-7240 | [F - Kostyanych's Theorem](https://codeforces.com/contest/1979/problem/F) | [C++20 (GCC 13-64)](./codeforces/1979/F.cpp) | `graphs` `interactive` | Jun/07/2024 02:40 | 
-7239 | [E - Manhattan Triangle](https://codeforces.com/contest/1979/problem/E) | [C++20 (GCC 13-64)](./codeforces/1979/E.cpp) | `binary search` `constructive algorithms` `data structures` `geometry` `two pointers` | Jun/07/2024 02:40 | 
-7238 | [D - Fixing a Binary String](https://codeforces.com/contest/1979/problem/D) | [C++20 (GCC 13-64)](./codeforces/1979/D.cpp) | `bitmasks` `brute force` `constructive algorithms` `greedy` `hashing` `strings` | Jun/07/2024 02:40 | 
-7237 | [C - Earning on Bets](https://codeforces.com/contest/1979/problem/C) | [C++20 (GCC 13-64)](./codeforces/1979/C.cpp) | `combinatorics` `constructive algorithms` `number theory` | Jun/06/2024 21:34 | 
-7236 | [B - XOR Sequences](https://codeforces.com/contest/1979/problem/B) | [C++20 (GCC 13-64)](./codeforces/1979/B.cpp) | `bitmasks` | Jun/06/2024 21:01 | 
-7235 | [A - Guess the Maximum](https://codeforces.com/contest/1979/problem/A) | [C++20 (GCC 13-64)](./codeforces/1979/A.cpp) | `brute force` `greedy` `implementation` | Jun/06/2024 20:47 | 
-7234 | [G - Yasya and the Mysterious Tree](https://codeforces.com/contest/1980/problem/G) | [C++20 (GCC 13-64)](./codeforces/1980/G.cpp) | `bitmasks` `data structures` `dfs and similar` `graphs` `greedy` `strings` `trees` | Jun/06/2024 17:52 | 
-7233 | [F2 - Field Division (hard version)](https://codeforces.com/contest/1980/problem/F2) | [C++20 (GCC 13-64)](./codeforces/1980/F2.cpp) | `math` `sortings` | Jun/06/2024 17:52 | 
-7232 | [F1 - Field Division (easy version)](https://codeforces.com/contest/1980/problem/F1) | [C++20 (GCC 13-64)](./codeforces/1980/F1.cpp) | `data structures` `math` `sortings` | Jun/06/2024 17:52 | 
-7231 | [E - Permutation of Rows and Columns](https://codeforces.com/contest/1980/problem/E) | [C++20 (GCC 13-64)](./codeforces/1980/E.cpp) | `constructive algorithms` `data structures` `greedy` `hashing` `implementation` `math` `matrices` `sortings` | Jun/06/2024 17:52 | 
-7230 | [D - GCD-sequence](https://codeforces.com/contest/1980/problem/D) | [C++20 (GCC 13-64)](./codeforces/1980/D.cpp) | `greedy` `implementation` `math` `number theory` | Jun/06/2024 17:51 | 
-7229 | [C - Sofia and the Lost Operations](https://codeforces.com/contest/1980/problem/C) | [C++20 (GCC 13-64)](./codeforces/1980/C.cpp) | `constructive algorithms` `greedy` | Jun/06/2024 17:51 | 
-7228 | [B - Choosing Cubes](https://codeforces.com/contest/1980/problem/B) | [C++20 (GCC 13-64)](./codeforces/1980/B.cpp) | `sortings` `sortings` | Jun/06/2024 17:51 | 
+7241 | [F - Kostyanych's Theorem](https://codeforces.com/contest/1979/problem/F) | [C++20 (GCC 13-64)](./codeforces/1979/F.cpp) | `graphs` `interactive` | Jun/07/2024 02:40 | 
+7240 | [E - Manhattan Triangle](https://codeforces.com/contest/1979/problem/E) | [C++20 (GCC 13-64)](./codeforces/1979/E.cpp) | `binary search` `constructive algorithms` `data structures` `geometry` `two pointers` | Jun/07/2024 02:40 | 
+7239 | [D - Fixing a Binary String](https://codeforces.com/contest/1979/problem/D) | [C++20 (GCC 13-64)](./codeforces/1979/D.cpp) | `bitmasks` `brute force` `constructive algorithms` `greedy` `hashing` `strings` | Jun/07/2024 02:40 | 
+7238 | [C - Earning on Bets](https://codeforces.com/contest/1979/problem/C) | [C++20 (GCC 13-64)](./codeforces/1979/C.cpp) | `combinatorics` `constructive algorithms` `number theory` | Jun/06/2024 21:34 | 
+7237 | [B - XOR Sequences](https://codeforces.com/contest/1979/problem/B) | [C++20 (GCC 13-64)](./codeforces/1979/B.cpp) | `bitmasks` | Jun/06/2024 21:01 | 
+7236 | [A - Guess the Maximum](https://codeforces.com/contest/1979/problem/A) | [C++20 (GCC 13-64)](./codeforces/1979/A.cpp) | `brute force` `greedy` `implementation` | Jun/06/2024 20:47 | 
+7235 | [G - Yasya and the Mysterious Tree](https://codeforces.com/contest/1980/problem/G) | [C++20 (GCC 13-64)](./codeforces/1980/G.cpp) | `bitmasks` `data structures` `dfs and similar` `graphs` `greedy` `strings` `trees` | Jun/06/2024 17:52 | 
+7234 | [F2 - Field Division (hard version)](https://codeforces.com/contest/1980/problem/F2) | [C++20 (GCC 13-64)](./codeforces/1980/F2.cpp) | `math` `sortings` | Jun/06/2024 17:52 | 
+7233 | [F1 - Field Division (easy version)](https://codeforces.com/contest/1980/problem/F1) | [C++20 (GCC 13-64)](./codeforces/1980/F1.cpp) | `data structures` `math` `sortings` | Jun/06/2024 17:52 | 
+7232 | [E - Permutation of Rows and Columns](https://codeforces.com/contest/1980/problem/E) | [C++20 (GCC 13-64)](./codeforces/1980/E.cpp) | `constructive algorithms` `data structures` `greedy` `hashing` `implementation` `math` `matrices` `sortings` | Jun/06/2024 17:52 | 
+7231 | [D - GCD-sequence](https://codeforces.com/contest/1980/problem/D) | [C++20 (GCC 13-64)](./codeforces/1980/D.cpp) | `greedy` `implementation` `math` `number theory` | Jun/06/2024 17:51 | 
+7230 | [C - Sofia and the Lost Operations](https://codeforces.com/contest/1980/problem/C) | [C++20 (GCC 13-64)](./codeforces/1980/C.cpp) | `constructive algorithms` `greedy` | Jun/06/2024 17:51 | 
+7229 | [B - Choosing Cubes](https://codeforces.com/contest/1980/problem/B) | [C++20 (GCC 13-64)](./codeforces/1980/B.cpp) | `sortings` `sortings` | Jun/06/2024 17:51 | 
+7228 | [A - Problem Generator](https://codeforces.com/contest/1980/problem/A) | [C++20 (GCC 13-64)](./codeforces/1980/A.cpp) | `math` | Jun/06/2024 17:51 | 
 7227 | [E - Splittable Permutations](https://codeforces.com/contest/1976/problem/E) | [C++20 (GCC 13-64)](./codeforces/1976/E.cpp) | `combinatorics` `data structures` `dfs and similar` `greedy` `math` `trees` | May/31/2024 22:18 | 
 7226 | [C - Job Interview](https://codeforces.com/contest/1976/problem/C) | [C++20 (GCC 13-64)](./codeforces/1976/C.cpp) | `binary search` `dp` `greedy` `implementation` `two pointers` | May/31/2024 22:17 | 
 7225 | [D - Invertible Bracket Sequences](https://codeforces.com/contest/1976/problem/D) | [C++20 (GCC 13-64)](./codeforces/1976/D.cpp) | `binary search` `combinatorics` `data structures` `divide and conquer` `implementation` `two pointers` | May/31/2024 22:17 | 
