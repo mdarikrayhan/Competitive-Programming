@@ -13,7 +13,8 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | # | Title | Solution | Tags | Submitted |
 |---| ----- | -------- | ---- | --------- |
-7228 | [F - Kostyanych's Theorem](https://codeforces.com/contest/1979/problem/F) | [C++20 (GCC 13-64)](./codeforces/1979/F.cpp) | `graphs` `interactive` | Jun/07/2024 02:40 | 
+7229 | [F - Kostyanych's Theorem](https://codeforces.com/contest/1979/problem/F) | [C++20 (GCC 13-64)](./codeforces/1979/F.cpp) | `graphs` `interactive` | Jun/07/2024 02:40 | 
+7228 | [E - Manhattan Triangle](https://codeforces.com/contest/1979/problem/E) | [C++20 (GCC 13-64)](./codeforces/1979/E.cpp) | `binary search` `constructive algorithms` `data structures` `geometry` `two pointers` | Jun/07/2024 02:40 | 
 7227 | [E - Splittable Permutations](https://codeforces.com/contest/1976/problem/E) | [C++20 (GCC 13-64)](./codeforces/1976/E.cpp) | `combinatorics` `data structures` `dfs and similar` `greedy` `math` `trees` | May/31/2024 22:18 | 
 7226 | [C - Job Interview](https://codeforces.com/contest/1976/problem/C) | [C++20 (GCC 13-64)](./codeforces/1976/C.cpp) | `binary search` `dp` `greedy` `implementation` `two pointers` | May/31/2024 22:17 | 
 7225 | [D - Invertible Bracket Sequences](https://codeforces.com/contest/1976/problem/D) | [C++20 (GCC 13-64)](./codeforces/1976/D.cpp) | `binary search` `combinatorics` `data structures` `divide and conquer` `implementation` `two pointers` | May/31/2024 22:17 | 
