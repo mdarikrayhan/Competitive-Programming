@@ -1,1 +1,0 @@
-for s in[*open(0)][1:]:n,k,x=map(int,s.split());print('NYOE S'[k*k+k<=2*x<=(2*n-k+1)*k::2])
