@@ -1,0 +1,4 @@
+#include<cstdio>
+#include<cstring>
+#include<algorithm>
+using namespace std;int N,g[45][26],f[45][1<<21];char a[25][25];int dfs(int t,int s,int c){if(f[t][s]!=-1)return f[t][s];if(t==2*N-1)return f[t][s]=!c?1:c==1?-1:0;int x=t&1?1e9:-1e9,ss=s;for(int i=0;i<N;i++)if((s>>i)&1)ss|=1<<i+1;for(int i=0,k;i<26;i++)if(k=ss&g[t+1][i])x=t&1?min(x,dfs(t+1,k,i)):max(x,dfs(t+1,k,i));x+=!c?1:c==1?-1:0;return f[t][s]=x;}void doit(){scanf("%d",&N);for(int i=1;i<=N;i++)scanf("%s",a[i]+1);for(int i=1;i<2*N;i++)for(int j=0;j<26;j++)for(int x=i<N?1:i-N+1,y=i<N?i:N,k=0,t=i<N?i:2*N-i;k<t;k++)if(a[x+k][y-k]==j+97)g[i][j]|=1<<y-k-1;memset(f,-1,sizeof(f));int ans=dfs(1,1,a[1][1]-97);puts(ans>0?"FIRST":ans<0?"SECOND":"DRAW");}int main(){doit();return 0;}

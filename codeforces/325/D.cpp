@@ -1,0 +1,5 @@
+// LUOGU_RID: 159843476
+#include<cstdio>
+#include<cstring>
+#include<algorithm>
+using namespace std;int n,m,k,ans,top,u[25],v[25],fa[18000010],sz[18000010],mark[3010][6010],xx[8]={1,1,1,-1,-1,-1,0,0},yy[8]={1,-1,0,1,-1,0,1,-1};int f(int x,int y){return 2*(x-1)*m+y;}int find(int x){return x==fa[x]?x:find(fa[x]);}void unite(int x,int y){if(x==y)return;if(sz[x]>sz[y])swap(x,y);fa[x]=y;sz[y]+=sz[x];u[++top]=x;v[top]=y;}void add(int x,int y){mark[x][y]=1;for(int i=0;i<8;++i){int newx=x+xx[i],newy=y+yy[i];if(newy<1)newy=2*m;if(newy>2*m)newy=1;if(mark[newx][newy])unite(find(f(x,y)),find(f(newx,newy)));}}int main(){scanf("%d%d%d",&n,&m,&k);for(int i=1;i<=2*n*m;++i)fa[i]=i,sz[i]=1;for(int i=1,x,y;i<=k;++i){top=0;scanf("%d%d",&x,&y);add(x,y);add(x,y+m);if(find(f(x,y))==find(f(x,y+m))){mark[x][y]=mark[x][y+m]=0;while(top){fa[u[top]]=u[top];sz[v[top]]-=sz[u[top]];--top;}}else ++ans;}printf("%d\n",ans);}

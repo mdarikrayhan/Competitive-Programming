@@ -1,0 +1,14 @@
+co calc {
+eq [2] [1] 0
+if [2] ac
+div [3] [0] [1]
+if [3] set [4] 1
+if [4] iout [3]
+if [3] sub [0] [0] [1]
+div [1] [1] 2
+}
+
+iin [0]
+set [1] 1048576
+ca calc
+ac

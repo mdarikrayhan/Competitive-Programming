@@ -1,0 +1,7 @@
+#include<cstdio>
+#include<cstring>
+#include<cmath>
+#include<algorithm>
+using namespace std;
+#define rep(i,n)for(int i=0;i<n;++i)
+const int P=1000000007;typedef long long LL;const int N=205;int n,m,K,T,q[N],v[N],fail[N],c[N][25],f[2][2][N][505];void ins(){int L,x=1,y,u;scanf("%d",&L);rep(i,L){scanf("%d",&y);if(!c[x][y])c[x][y]=T++;x=c[x][y];}scanf("%d",&u),v[x]+=u;}void build(){rep(i,m)c[0][i]=1;int h=0,t=1;q[1]=1;while(h<t){int x=q[++h],y,z;rep(i,m)if(y=c[x][i]){z=fail[x];while(z&&!c[z][i])z=fail[z];z=c[z][i],fail[y]=z,v[y]+=v[z],q[++t]=y;}else c[x][i]=c[fail[x]][i];}}void upd(int&y,int x){y+=x;if(y>=P)y-=P;}struct num{int L,a[N];void read(){scanf("%d",&L);rep(i,L)scanf("%d",a+i);}int calc(bool flag){int ans=0,x=1,y=0;rep(i,L)x=c[x][a[i]],y+=v[x];if(flag&&y<K)ans=1;memset(f,0,sizeof(f));f[0][0][1][0]=1;rep(i,L){int p=i&1,q=p^1,z;if(i)rep(j,m)if(j)upd(f[q][1][c[1][j]][v[c[1][j]]],1);rep(b,2)rep(x,T)rep(k,K)if(z=f[p][b][x][k]){f[p][b][x][k]=0;rep(j,m)if((i||j)&&(b||j<=a[i]))if(k+v[c[x][j]]<K)upd(f[q][b||j<a[i]][c[x][j]][k+v[c[x][j]]],z);}}int p=L&1;rep(x,T)rep(k,K)upd(ans,f[p][1][x][k]);return(ans%P+P)%P;}}L,R;int main(){scanf("%d%d%d",&n,&m,&K),++K;L.read(),R.read();T=2;rep(i,n)ins();build();printf("%d\n",(R.calc(1)-L.calc(0)+P)%P);return 0;}

@@ -1,0 +1,10 @@
+import cp.
+main =>
+    N = read_int(),
+    A :: 1..200, B :: 1..200,
+    foreach (_I in 1..N)
+        Xi = read_int(), Yi = read_int(),
+        B * Xi #<= A * (B - Yi)
+    end,
+    solve([$min(A * B)], [A, B]),
+    println(A * B / 2).

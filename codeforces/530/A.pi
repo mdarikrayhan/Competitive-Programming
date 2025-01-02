@@ -1,0 +1,10 @@
+main =>
+    A = read_real(), B = read_real(), C = read_real(),
+    D = B * B - 4 * A * C,
+    X1 = (-B - sqrt(D)) / (2 * A),
+    X2 = (-B + sqrt(D)) / (2 * A),
+    if D == 0 then
+        println(X1)
+    else
+        printf("%w %w%n", min(X1, X2), max(X1, X2))
+    end.

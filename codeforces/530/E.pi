@@ -1,0 +1,9 @@
+import cp.
+import util.
+main =>
+    N = read_int(), D = read_int(),
+    Vals = new_list(N),
+    Vals :: 1..10000,
+    prod(Vals) #= sum(Vals) + D,
+    solve(Vals),
+    println(join([to_string(V) : V in Vals])).

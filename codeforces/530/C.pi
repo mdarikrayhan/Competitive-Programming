@@ -1,0 +1,13 @@
+import cp.
+main =>
+    A = read_int(), B = read_int(), C = read_int(),
+    X #> 0, Y #> 0,
+    if A * X + B * Y #= C then
+        Solutions = solve_all([X, Y])
+    else
+        Solutions = []
+    end,
+    println(length(Solutions)),
+    foreach ([I, J] in Solutions)
+        printf("%d %d%n", I, J)
+    end.

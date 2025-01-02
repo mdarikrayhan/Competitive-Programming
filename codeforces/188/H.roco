@@ -1,0 +1,27 @@
+co f{
+cin [2]
+
+eq [3] [2] 42
+if [3] mul [[0]] [[0]] [[1]]
+if [3] dec [0]
+if [3] dec [1]
+
+eq [3] [2] 43
+if [3] add [[0]] [[0]] [[1]]
+if [3] dec [0]
+if [3] dec [1]
+
+gt [3] [2] 47
+if [3] inc [1]
+if [3] inc [0]
+if [3] sub [[1]] [2] 48
+
+lt [3] [2] 42
+if [3] ac
+}
+
+set [0] 2
+set [1] 3
+ca f
+iout [[1]]
+ac

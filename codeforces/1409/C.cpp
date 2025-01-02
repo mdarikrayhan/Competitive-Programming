@@ -1,0 +1,2 @@
+#include<iostream>
+using namespace std;int a,b,n,x,y,t,i;main(){for(cin>>t;t--;cout<<'\n'){cin>>n>>x>>y;for(i=n-1;i;i--)if((y-x)%i<1)break;b=(y-x)/i;for(a=max(x%b,x-(n-i-1)*b),a?:a=b;n--;a+=b)cout<<a<<' ';}}

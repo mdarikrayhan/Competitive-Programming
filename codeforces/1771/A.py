@@ -1,0 +1,1 @@
+for s in[*open(0)][2::2]:a=*map(int,s.split()),;print(2*a.count(m:=min(a))*(a.count(M:=max(a))-(f:=M==m))//(1+f))

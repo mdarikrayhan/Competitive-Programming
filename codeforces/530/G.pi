@@ -1,0 +1,26 @@
+table(+, +, min)
+edit(I, J, Cost) ?=>
+    str(S), goal(G),
+    N = length(S), M = length(G),
+    (
+        I <= N, J <= M,
+        edit(I + 1, J + 1, NextCost),
+        Cost = abs(ord(S[I]) - ord(G[J])) + NextCost
+    ;
+        I <= N,
+        edit(I + 1, J, NextCost),
+        Cost = ord(S[I]) - 0'a + 1 + NextCost
+    ;
+        J <= M,
+        edit(I, J + 1, NextCost),
+        Cost = ord(G[J]) - 0'a + 1 + NextCost
+    ;
+        I > N, J > M,
+        Cost = 0
+    ).
+
+main =>
+    S = read_line(), G = read_line(),
+    cl_facts([$str(S), $goal(G)]),
+    edit(1, 1, Cost),
+    println(Cost).

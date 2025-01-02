@@ -1,0 +1,1 @@
+p gets(gets).scan(/(.)\n\1/).size+1

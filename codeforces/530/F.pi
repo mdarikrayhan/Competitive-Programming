@@ -1,0 +1,24 @@
+table(+, +, +, max)
+jump(X, Y, K, Dist) ?=>
+    (
+      NewX = X + K, NewY = Y ;
+      NewX = X - K, NewY = Y ;
+      NewX = X, NewY = Y + K ;
+      NewX = X, NewY = Y - K
+    ),
+    land(NewX, NewY),
+    jump(NewX, NewY, K, Dist).
+jump(X, Y, _K, Dist) =>
+    Dist = abs(X) + abs(Y).
+
+table(-, max)
+best_frog(K, Dist) ?=>
+    between(1, 10, K),
+    jump(0, 0, K, Dist).
+
+main =>
+    N = read_int(),
+    Facts = [$land(X, Y) : _I in 1..N, X = read_int(), Y = read_int()],
+    cl_facts(Facts),
+    best_frog(_K, Dist),
+    println(Dist).

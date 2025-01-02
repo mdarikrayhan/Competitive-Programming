@@ -1,0 +1,13 @@
+co happy
+{
+	mod [3] [2] [1]
+	gt [4] 1 [3]
+	if [4] ac
+	add [2] [2] [0]
+}
+iin [0]
+iin [1]
+set [2] [0]
+ca happy
+iout [2]
+ac
